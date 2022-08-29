@@ -6,7 +6,7 @@ header:
 
 services:
     title: " "
-    text: "Tady je časová osa toho co se každý den stalo během války na Ukrajině. Tak jak to zaznamenal [Tomáš Dvořák](https://www.tomcortes.com/). Chcete podpořit moje pravidelné reporty? Kupte si třeba některou jeho [písničku](https://www.tomcortes.com/poslouchej)."
+    text: 'Tady je časová osa toho co se každý den stalo během války na Ukrajině. Tak jak to zaznamenal <a href="https://www.tomcortes.com/">Tomáš Dvořák]</a>. Chcete podpořit moje pravidelné reporty? Kupte si třeba některou jeho <a href="https://www.tomcortes.com/poslouchej">písničku</a>."
 
 #    section: services
 #    list:
