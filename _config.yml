@@ -13,7 +13,7 @@
 
 remote_theme: jekyll-agency
 
-url    : "http://babisjelhar.cz" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "http://dnesnaukrajine.cz" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Dnes na Ukrajině
