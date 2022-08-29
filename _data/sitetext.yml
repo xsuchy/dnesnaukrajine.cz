@@ -1,0 +1,78 @@
+header:
+    title: "" 
+    text: Dnes na Ukrajině!
+    button: Co se stalo dnes
+    buttonlink: "#about"
+
+services:
+    title: " "
+    text: "Tady je časová osa toho co se každý den stalo během války na Ukrajině. Tak jak to zaznamenal [Tomáš Dvořák](https://www.tomcortes.com/). Chcete podpořit moje pravidelné reporty? Kupte si třeba některou jeho [písničku](https://www.tomcortes.com/poslouchej)."
+
+#    section: services
+#    list:
+#      - title: "E-Commerce"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+#      - title: "Responsive Design"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#        icon: fas fa-laptop       
+#      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+#        desc: "Your description here, full **Markdown** support"
+#        icon: fab fa-markdown
+
+portfolio:
+#    title: "Portfolio"
+#    text: "Lorem ipsum dolor sit amet consectetur."
+#    section: portfolio
+#    closebutton: "Close Project"
+    
+
+timeline:
+    title: "Průběh války na Ukrajině" 
+    text: "Tak jak šla den za dnem"
+    section: timeline
+    start_align: "left"
+    events:
+      - title: "Pondělí"
+        year: "29. srpna 2022"
+        desc: "Podle několika zdrojů včetně těch oficiálních spustily dnes kolem poledne ukrajinské ozbrojené síly protiofenzivu na Chersonské části fronty. Předcházelo tomu masivní ostřelování ruských pozic z děl, tanků i letadel které umožnilo prolomit ruskou první linii u obce Suchij Stavok. Z předběžných zpráv vyplývá, že tu 109. pluk separatistů pod náporem Ukrajinců opustil pozice a jednotky ruských VDV, které je měly podpořit, utekly z boje. Ruskými kanály prošly kusé informace o velkých ztrátách ve vlastních řadách. V Nové Kachovce byla podle ruských médií nařízena masová evakuace. Oficiálně ruské zdroje zatím změny na frontě popírají. Naopak zdroj z ukrajinské armády uvedl, že „průlom je už nyní významný“. Další dny ukáží, jak významný skutečně bude. Mezitím mrkněte na [další novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid0mCAfCdKSvGDq4CqQv69EdiUsgD6H4rNsUCapJk8G8QWm45QtAGuNR2TH3NhG1wkAl)"
+        image: assets/img/timeline/1.jpg
+      - title: "Neděle"
+        year: "28. srpna 2022"
+        desc: "S blížícím se podzimem přibydou Rusům problémy, které už jednou zažili letos na jaře. Úrodná půda se s rostoucím vlhkem opět promění v neprostupnou bažinu, která Rusy donutí stáhnout těžkou techniku na zpevněné cesty a silnice. Pokud Rusko bude ztrácet techniku stejným tempem jako nyní a Ukrajina bude naopak operovat s čím dál rostoucím počtem kusů západní techniky, dojde podle poradce prezidenta Arestoviče nutně na podzim k bodu zlomu, kdy se ruské linie začnou lavinovitě rozpadat. Už aby to bylo! A teď [novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid0Etkw7J89bMCLiVQsSorApSwYyyEEXkeQswKjzF9fZaRG3EQtRmBqoiFoRttqXscFl)."
+        image: assets/img/timeline/1.jpg
+        desc: "Není-li rozpočet přijat do 31. 12., je do jeho schválení rozpočtové provizorium. Od 1993 se to stalo 2x, Zemanově vládě. Její první rozpočet byl schválen 15. ledna 1999. Další rok byl schválen 26. ledna 2000, předcházelo tomu podepsání opoziční smlouvy ČSSD-ODS. <br>[Zdroj](https://twitter.com/michalblaha/status/1340923961291415552)"
+        image: assets/img/timeline/1.jpg
+      - title: "Rozšířila se fáma, že chci ve čtvrtek strávit v Senátu jen 1,5h a pak odletět do Bruselu na ER. Není to pravda. V Senátu budu kvůli daňovému balíčku tak dlouho, jak bude třeba. I kdyby mě měl v Bruselu zastoupit polský premiér. Snad ale bude ta debata konstruktivní a pragmatická."
+        year: "8. prosince 2020"
+        desc: "Babiš se v senátu zdržel dvě hodiny a pak odletěl do Brusellu. Před skončením projednávání. <br>[Zdroj](https://twitter.com/AndrejBabis/status/1336336284847984642/retweets/with_comments)"
+        image: assets/img/timeline/1.jpg
+
+    end: "Starší věci dodělám později"
+
+about:
+    title: "About Us"
+    text: "our story"
+    section: about
+
+contact:
+    title: "Kontakt"
+    text: "Provozovatel webu: mirek@rodina-sucha.cz, Autor textů: [Tom Cortés](https://www.tomcortes.com/kontakt)"
+    section: contact
+    
+footer:
+    legal: "Licence"
+    social:
+#      - url: https://twitter.com
+#        icon: "fab fa-twitter"  
+#      - url: https://facebook.com
+#        icon: "fab fa-facebook-f"
+#      - url: https://linkedin.com
+ #       icon: "fab fa-linkedin-in"
+      - url: https://github.com/xsuchy/dnesnaukrajine.cz
+        icon: "fab fa-github"
+#      - url: https://instagram.com
+#        icon: "fab fa-instagram"
+
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}
