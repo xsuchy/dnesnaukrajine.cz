@@ -15,7 +15,7 @@ a {
   }
 }
 
-timeline-body a {
+a.blue {
   color: $blue;
   &:hover {
     color: darken($blue, 10%);
