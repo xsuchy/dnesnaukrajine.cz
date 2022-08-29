@@ -16,9 +16,9 @@ remote_theme: jekyll-agency
 url    : "http://babisjelhar.cz" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Babiš je lhář
+title      : Dnes na Ukrajině
 email      : mirek@rodina-sucha.cz #this is also the email contact forms will go to
-description: "Babiš je lhář"
+description: "Dnes na Ukrajině"
 author     : Miroslav Suchý
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
