@@ -33,9 +33,31 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "31. srpna 2022"
+        image: assets/img/timeline/2022-08-30.jpg
+        desc: "Zajímalo by mě, jestli konzumenti ruské propagandy mají nějakou „mezní hodnotu omylů“. Nějaký bod, kdy jejich neustálé mýlení se dosáhne neúnosné míry a nutně dojde k prozření. Nechce se mi totiž věřit, že se někdo může mýlit několik let v kuse prakticky u čehokoliv, aniž by se to nepodepsalo na jeho sebevědomí, vnímání světa nebo přístupu k dalším informacím. Podle ruské propagandy jsme například nyní vstoupili do časového rámce, kdy všichni, jak oni říkají, „tečkovaní“ měli hromadně začít umírat na následky údajných chemikálií v očkovacích látkách. Tak se ptám: Znáte někoho takového? A můžu ho vidět? Ne? Nevadí. Tak si aspoň prolítněte [dnešní aktuality](https://www.facebook.com/tomak.dvorak/posts/pfbid0ssKQ7Z8hfeDsqzJEwkw8kkMsFjg9R219LbURb3mB4bkgwvKCWTpzYcPAj7bJLHr5l)"
       - title: "Úterý"
         year: "30. srpna 2022"
         desc: "Úterý. Boje na jižní frontě pokračovaly celou noc. Ukrajincům se podařilo zničit Rusům provizorní most a tři muniční sklady a na jedné části fronty proniknout 6 kilometrů za ruskou obrannou linii a upevnit tam své pozice pro další výpady. Většina vývoje na bojišti je ale pod informačním embargem. Ukrajinské úřady apelovaly na analytické kanály, aby nezveřejňovaly žádné informace operačního charakteru a neohrozily tak probíhající ofenzivu. I tak se ale některé kusé informace dostaly do informačního prostoru. Ale o tom víc v dnešním přehledu [přehledu](https://www.facebook.com/tomak.dvorak/posts/pfbid0SZyGkWWp6PiELQ85TEbNtefUYVHJJUG2FLLNBdL2zHuVmBvy6bvJLspU3v7R283yl)"
+        detail: "- Podle amerických zdrojů obdrželo Rusko od Íránu první bojové drony Mohajer-6 a Shahed, které mají Rusku pomoci vyhledávat a ničit americké systémy HIMARS na Ukrajině. Zároveň ale tvrdí s odkazem na zdroje v ruské armádě, že se drony potýkají se značnými technickými problémy a je tak otázkou, nakolik se dokáží prosadit na bojišti. 
+- Kolaborant Kirill Stremousov, kterého Rusové dosadili jako loutkového starostu Chersonu na videu uvedl, že se ve městě nic neděje a situace je pod kontrolou. Má to háček. Stremousov se videem sám usvědčil z toho, že v Chersonu dávno není. Na pozadí je totiž vidět Chrám Spasitele v ruské Voroněži. 
+- Ukrajinci osvobodili obce Novodmytrivka, Archanhelske, Tomyna Balka a Pravdyne. Minimálně jeden z plánovaných útoků na jižní části fronty Rusové (prozatím) zastavili, boje ale probíhají nejméně na sedmi úsecích. Krom toho Ukrajinci podnikli útok jižně od Záporoží a osvobodili dvě obce. 
+- Podle prezidentského poradce Podoljaka Rusko cíleně ostřeluje koridory vytvořené pro misi IAEA do Enerhodaru. Podoljak věří, že Rusko se tím snaží donutit pozorovatele, aby místo dohodnuté cesty z Kyjeva musely do oblasti přijet přes Krym nebo okupovaný Donbas. 
+- Z Chersonu se dnes ozývala střelba z automatických zbraní. Údajně mělo jít o potyčky obyvatel s okupační policií, nicméně pravděpodobnější je práce partyzánů a speciálních jednotek. Městem taky projelo několik kolon techniky směrem k oblasti bojů. 
+- Partyzáni v Mariupolu údajně zlikvidovali ruskou hlídku tak, že zinscenovali falešný telefonát s prosbou o pomoc a následně použili proti ruským vojákům ve voze jejich vlastní miny. 
+- Ukrajinci údajně používají dřevěné atrapy systémů HIMARS, aby donutili Rusy plýtvat drahé naváděné rakety na jejich ničení. Rusové už tak promrhali nejméně 10 střel Kalibr. 
+- Moskevský soud uložil platformě Twitch pokutu ve výši 3 miliónů rublů kvůli tomu, že odmítla odstranit online interview s ukrajinským prezidentským poradcem Arestovičem. 
+- Auto kolaboranta, který byl přivezen z Ruska do Chersonu, aby tam zastával funkci policejního šéfa, dnes vyletělo do povětří. Nikdo nicméně nebyl zraněn. 
+- Francie a Německo vyzvaly evropské státy, aby společně vytvořily kurzy mediální gramotnosti pro Rusy v ruštině. Myslím, že je nepotřebují jen Rusové. 
+- Ruská dělostřelecká palba ze 152mm houfnic zasáhla základnu Červeného kříže ve Slavjansku. Naštěstí nebyl nikdo zraněn.  
+- Ukrajinští vyšetřovatelé odhalili skupinu, která podle nich vyvedla 580 000 dolarů z prostředků Ministerstva obrany. 
+- Ukrajinci odrazili pět ruských útoků ve směru na Slavjansk, Kramatorsk, Bachmut, Avdijivku a Novopavlivku.
+- Spojené státy volají po tom, aby se elektrárna v Enerhodaru prozatím kontrolovaně odstavila z provozu. 
+- Itálie poskytne Ukrajině své kapacity na odminování osvobozených území. 
+- Taliban dokončuje vyjednávání o nákupu ruských ropných produktů. 
+- Ukrajinci zasáhli raketami vojenské objekty v ruském Belgorodu.
+- Pes Patron bude mít svou vlastní sadu poštovních známek. "
         image: assets/img/timeline/2022-08-30.jpg
       - title: "Pondělí"
         year: "29. srpna 2022"
