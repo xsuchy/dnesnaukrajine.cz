@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "3. září 2022"
+        image: assets/img/timeline/2022-09-03.jpg
+        desc: "Vždycky, když si myslím, že už jsem viděl všechno, někdo mě přispěchá překvapit. Tentokrát za to nemůže nikdo jiný než jeden ruský voják, který se stal nechtěným hrdinou videa na Tik Toku, které se okamžitě stalo hitem i na Telegramu a Twitteru. Společně s dalšími kolegy si totiž chtěl ohřát jídlo uvnitř svého BTR, načež jim obrněné vozidlo komplet lehlo popelem. Ten výraz, když na něj křičí jeho velitel, vám vyrobí den. Tak nevynechejte komentáře níže. A teď už [aktuality](https://www.facebook.com/tomak.dvorak/posts/pfbid0XMar9PyDXV2PSvHRs3WSZJGhVtkQSTrYLWM4HeKN1AgtKRPwPQ4277nvf2Q6Mt9Xl)"
       - title: "Pátek"
         year: "2. září 2022"
         image: assets/img/timeline/2022-09-02.jpg
