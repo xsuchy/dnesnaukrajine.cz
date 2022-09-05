@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "5. září 2022"
+        image: assets/img/timeline/2022-09-05.jpg
+        desc: "Ukrajinci včera v naprosto nečekaném kroku provedli lokální protiútok u východně u Siversku v režii 54. brigády, ale hlavně – 63. prapor 103. brigády překročil Severní Doněc a obsadil obec Ozerne zhruba 5 km severně od řeky. Ačkoliv se hovoří o tom, že Ukrajincům se podařilo vytvořit předmostí, zatím není jasné, jestli se jedná o část nějaké větší plánované akce na severovýchodní části fronty. Obsazení Ozerne má ale i důležitý propagandistický rozměr. Rusové totiž několik měsíců nedokázali řeku překročit a zaujmout pozice na jižním břehu a minimálně dva větší pokusy skončili pro ruskou armádu naprostou katastrofou. Ukrajinci prostě sedli na čluny, přejeli na druhou stranu a bez většího odporu obsadili okupovanou obec, a ještě se u toho vysmátí natočili. Chtělo by se říct, že tím Rusy ponížili, ale Rusové tohle zvládají i sami. A teď [novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid037pnUbvAgMAViv7Yw3iPsmUiN7vogU2RtjUvh47vgiGeRmeYYVkJMELKGMfJ7MwFrl)"
       - title: "Neděle"
         year: "4. září 2022"
         image: assets/img/timeline/2022-09-04.jpg
