@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "6. září 2022"
+        image: assets/img/timeline/2022-09-06.jpg
+        desc: "V Rusku se nadšeně sdílí leták, který má ukazovat růst cen v Británii a v Rusku, kdy samozřejmě podle letáku v Británii rostou ceny všeho o vyšší jednotky až desítky procent, zatímco v Rusku jen nepatrně roste cena energií, zatímco všechno ostatní prý zlevňuje. To je samozřejmě absurdní lež. Ceny všeho včetně základních potravin v důsledku války skokově vyrostly, a navíc došlo k devalvaci rublu, což pozná okamžitě každý Rus, který by si chtěl nakoupit v zahraničí nebo vyměnit rubly za jinou měnu. Bloomberg navíc tvrdí, že Rusko čeká dlouhá a hluboká recese, navzdory tomu, že se ruská propaganda zuby nehty snaží život iluzi silné ruské ekonomiky. I kdyby nyní válka skončila, ruská ekonomika se podle agentury dostane na stejnou úroveň jako před válkou až na konci dekády. Rusko je tedy doslova zemí, kde zítra znamená včera. A teď [novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid0diAsip3BpANWEJ17Wz25psi7EEHoXkhXVSVUB1JYuHBNa742p9R3Yngz1VtgPydWl)"
       - title: "Pondělí"
         year: "5. září 2022"
         image: assets/img/timeline/2022-09-05.jpg
