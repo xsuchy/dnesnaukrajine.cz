@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "7. září 2022"
+        image: assets/img/timeline/2022-09-07.jpg
+        desc: "Dřívější spekulace o druhém protiútoku na charkovské části fronty se během posledních 24 hodin spolehlivě potvrdily, ale hlavně se ukázalo, že protiútok má mnohem větší rozsah, než jak to z kusých informací kvůli informačnímu embargu vypadalo. Pojďme si tedy nalít čistého vína: Ruská ofenziva je definitivně u konce. Ruské jednotky se za poslední týdny prakticky nehnuly z místa a jejich logistika na ukrajinském území je v troskách. Aktuálně se Rusové na všech frontách, snad vyjma jediného úseku u Bachmutu, pouze brání nebo rovnou ustupují. Rusko není schopné nahrazovat ztráty na živé síle a horko těžko přesouvá na Ukrajinu zbytky provozuschopné bojové techniky. Už dříve muselo začít stahovat těžkou techniku se stálých základen v Gruzii, Sýrii a na východě Ruska, brzy bude muset přestat, jinak nebude mít čím bránit vlastní území. S jistotou tak můžeme říct, že různé útržky informací ze začátku léta, kdy různí světoví analytici a armádní činitelé odhadovali, že do konce léta přijde zásadní zlom, byly pravdivé. A ostatně i [zbytek dnešního přehledu aktualit](https://www.facebook.com/tomak.dvorak/posts/pfbid02LFuGUJ97AJyYkYFELfskGHFk4SUjfVzfcWoDZ9biPaR5ChMQq5QJCACvbw2Hkb36l) bude podobně pozitivní"
       - title: "Úterý"
         year: "6. září 2022"
         image: assets/img/timeline/2022-09-06.jpg
