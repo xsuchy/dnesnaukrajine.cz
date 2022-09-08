@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "8. září 2022"
+        image: assets/img/timeline/2022-09-08.jpg
+        desc: "Jen na charkovské části fronty Ukrajinci během pár dní postoupili o více než 20 km a osvobodili okolo 400 km2 svého území, podle jednoho z armádních velitelů jde ale dokonce o 50 km v jednom ze směrů a 20 osvobozených obcí včetně nově Ivanivky a Kutuzivky. Boje se údajně přesunuly až k Hrušivce. Rusové tu totiž v minulých týdnech citelně zredukovali počet jednotek a přesunuli celé praporní skupiny k Chersonu, čehož teď Ukrajinci využívají a sami nasadili údajně až 9 000 vojáků do zdejšího protiútoku. Rusové podle dostupných informací soustředí veškerou snahu na obsazení Bachmutu, kde nasadili největší koncentraci jednotek na jednom úseku, a také na obranu Chersonu, kde Ukrajinci pomalu, ale metodicky postupují. A ještě se dělo [tohle](https://www.facebook.com/tomak.dvorak/posts/pfbid0BARERsJvQiuNFeGX12H6VhwmsdzjTz8PvJCFRFjF19hFDyaBQx9Tox3AYKdgL8orl)"
       - title: "Středa"
         year: "7. září 2022"
         image: assets/img/timeline/2022-09-07.jpg
