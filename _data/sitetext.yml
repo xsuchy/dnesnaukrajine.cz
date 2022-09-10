@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "9. září 2022"
+        image: assets/img/timeline/2022-09-09.jpg
+        desc: "Dostáváme se do bodu, kdy komentář s odkazy na videa řekne víc než všechny odrážky v reportu dohromady. Doporučuju se na videa podívat, a pokud jste slabší povahy, neklikejte na ta, která jsou označena jako citlivá. Nicméně dnes mi napsala Monika, která před válkou pracovala jako průvodkyně zónou okolo Černobylu, a teď pomáhá obyvatelům posledních obydlených vesnic v zóně, kam se jinak téměř nedostane jiná pomoc. A tak bude dnešní úvodník věnovaný její sbírce, o které najdete víc informací [tu znesnaze21.cz](https://www.znesnaze21.cz/sbirka/zasoby-pro-seniory-v-cernobylu-aby-prezili-krutou-zimu?fbclid=IwAR1XzthMipXl44bIxAY1CI4vYBzI_IXyo9PdWUxidooRmra5pTX2NZJYRpk)  . . Nechce moc, přitom dělá důležitou práci. Tak tomu věnujte pár minut a třeba vám bude dávat smysl ji podpořit. A teď [novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid02KfHRrzSxECFpnWbgcNJb3bhQy3njY5pD66LGJABobDJWUX9y3U646k6GXYFrS1j2l)."
       - title: "Čtvrtek"
         year: "8. září 2022"
         image: assets/img/timeline/2022-09-08.jpg
