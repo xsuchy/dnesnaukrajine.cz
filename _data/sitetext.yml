@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "10. září 2022"
+        image: assets/img/timeline/2022-09-10.jpg
+        desc: "Posledních několik dní konečně můžeme vidět, kam se poděla všechna ta Západem poskytnutá technika a výzbroj, kterou Ukrajina nenasadila v předchozích měsících na bojiště. Ne, nebyla rozkradená, jak se nám snažila ruská propaganda tvrdit (a bohužel ten narativ přiživovali i někteří čeští dobrovolníci z fronty, když správně upozorňovali, že ne všechno, co přejede hranice, dorazí k vojákům na frontu. Bohužel už nesprávně papouškovali důvod, proč tomu tak je). Na Charkovské části fronty aktuálně útočí skoro 10 000 velmi dobře vyzbrojených a vystrojených ukrajinských vojáků, zatímco proti nim stojí na většině fronty jednotky LLR podporované členy Rosvgardie. Hovoří se tu o úplném kolapsu fronty a podle toho, jak Ukrajinci postupují, to asi ani jinak nazvat nejde. Ale více už v jednotlivých [novinkách](https://www.facebook.com/tomak.dvorak/posts/pfbid0NiCsUY21cqE8F5mQkJWuy46q5WcGzuhKwEet1xTyNhgS3DwAe649Qvu9WJNaTrWml)."
       - title: "Pátek"
         year: "9. září 2022"
         image: assets/img/timeline/2022-09-09.jpg
