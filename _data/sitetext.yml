@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "12. září 2022"
+        image: assets/img/timeline/2022-09-12.jpg
+        desc: "Většina Charkovské oblasti je zase v rukou Ukrajinců. Po kolapsu fronty se Rusové sami stáhli z některých klíčových obcí, jinde nekoordinovaně utekli a opět za sebou nechávali desítky kusů funkční techniky. Ukrajinci ale dávají najevo, že se nehodlají zastavit u břehů Oskilu. Boje už se mezitím přenesli do Rubižne, Lysyčansku a Severodoněcku, Svatove a dalších měst a ruské kanály poslední dva dny hovoří o tom, že Ukrajinci shromažďují velké množství techniky a živé síly u Vuhledaru, kde údajně odminovali okolí elektrárny před blížícím se útokem. Pokud by skutečně následoval další útok na Záporožské části fronty, Strelkov odhaduje, že bude mít stejný scénář jako u Charkova: proražení obrany u Vuhledaru a potenciálně také na dalším místě jižně od Záporoží a hluboký úder, který se zastaví až u Mariupolu nebo Berďansku, doprovázený podobným kolapsem ruské obranné linie. Sluší se říct, že Strelkov má sice velkou pifku na současné vedení Ruska, ale jeho prognózy se většinou vyplnily. Co dodat? Snad jen, že si přeju, aby měl pravdu i tentokrát. A teď zbytek [novinek](https://www.facebook.com/tomak.dvorak/posts/pfbid03TRZDm1ydPsg5q4Es4Y5a28HCpxg9P9c461vVowXk8sxrazHQ6NUo4NZv5G4NF6il)"
       - title: "Neděle"
         year: "11. září 2022"
         image: assets/img/timeline/2022-09-11.jpg
