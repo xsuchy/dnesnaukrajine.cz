@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "11. září 2022"
+        image: assets/img/timeline/2022-09-11.jpg
+        desc: "Ukrajinská protiofenziva už k dnešnímu dni osvobodila více než 3 000 km2, nicméně pokud by se potvrdila informace o ústupu Rusů až za Oskil, pak mluvíme o odhadem 8 300 km2. Rusové na úspěšný ukrajinský protiútok reagovali obvyklým způsobem: bombardovali Charkov, Mykolajiv, Dnipro i další města. Podle Rusů ale k žádnému ústupu, natož útěku, nedochází. Probíhá prý koordinované stažení sil z Charkovské oblasti, aby mohly posílit doněckou část fronty, což je tvrzení natolik mimo realitu, že se mu právem vysmáli i všichni ruští vojenští blogeři a správci kanálů na Telegramu. Zkrátka Rusové tak dlouho mleli pohádky o „denacifikaci“, až jim Ukrajinci předvedli blitzkrieg. [Posuďte sami](https://www.facebook.com/tomak.dvorak/posts/pfbid0A1NAZc6oaydSAYaop7FM3DA5HuPpwWy6A65bdgwaaUY7QoQX9GYHHVKgq6rDnTshl)."
       - title: "Sobota"
         year: "10. září 2022"
         image: assets/img/timeline/2022-09-10.jpg
