@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "13. září 2022"
+        image: assets/img/timeline/2022-09-13.jpg
+        desc: "Ukrajinský generální štáb informoval, že Rusko zřejmě zrušilo přesun nově utvořených dobrovolnických praporů z ruských základen na bojiště. Jedním z důvodů prý je, že značná část dobrovolníků změnila názor a nechce se účastnit bojů. Podle vojenských komentátorů se začal projevovat efekt informací, které z Ukrajiny i přes masivní cenzuru čím dál víc pronikají k běžným Rusům. V dřívějších válkách a intervencích totiž Rusko dokázalo udržet poměrně malý poměr raněných a zabitých a služba v armádě tak znamenala pro Rusy z chudých regionů šanci, jak si vydělat solidní obnosy za krátkou smluvní dobu, navíc výměnou za poměrně malé riziko. Naopak válka na Ukrajině je jedním nejvíc smrtících konfliktů 20. století a šance na tom, že člověk utrpí těžká zranění nebo bude zabit v boji je nyní tak vysoká, že převažuje potenciální benefity. Konec války by tak mohl přijít dříve, než jak jsme si ještě na konci srpna mysleli. Ale nepropadejme přílišnému optimismu, pořád se děje spousta věcí. Třeba [tyhle](https://www.facebook.com/tomak.dvorak/posts/pfbid0vHSaeaLG3ETDawZNF6ntiPBauNBq3RxCLvxpxCfjrTgNGBjXw14G3mu14yEu6Ac9l)."
       - title: "Pondělí"
         year: "12. září 2022"
         image: assets/img/timeline/2022-09-12.jpg
