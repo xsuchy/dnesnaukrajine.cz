@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "14. září 2022"
+        image: assets/img/timeline/2022-09-14.jpg
+        desc: "Představitelé Pentagonu prohlásili, že jediný, kdo byl překvapený úspěchem ukrajinské ofenzivy, bylo Rusko. Všichni partneři a spojenci Ukrajiny prý tento výsledek čekali. Já si troufám nesouhlasit. Nejvíc překvapená je ruská pátá kolona, která doposud nezpracovala, že fašistický režim, kterému tleskají, dostal od ukrajinských vojáků výprask. A tak se jejich kanály šíří nejrůznější konspirace dezinformace na škále od „Rusové neustupují, Ukrajinci jim lezou do pasti“ přes „žádná ukrajinská ofenziva neprobíhá, média vám lžou“ až po: „to neútočí ukrajinská armáda, ale NATO, Američani a černoši!“ Ale moment! Neříkali náhodou ti samí, že v případě války NATO s Ruskem, by Rusové NATO vypráskali levou zadní? Tak jak teda? Ne, dělám si legraci, nečekám od nich žádnou sebereflexi ani názorovou konsistenci. Pro ně není důležitá pravda. Budou věřit i sebeabsurdnější lži, dokud bude dost protizápadní. Reálné zprávy z Ukrajiny je obloukem minou. A to i [tyhle](https://www.facebook.com/tomak.dvorak/posts/pfbid02sUVzLgHezotfkXgqNXFCbiM2Xx3W6aCSxda2y8vviBD3unxqyuL2BmauC3uJFgd7l)."
       - title: "Úterý"
         year: "13. září 2022"
         image: assets/img/timeline/2022-09-13.jpg
