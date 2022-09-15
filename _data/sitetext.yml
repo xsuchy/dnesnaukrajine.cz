@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "15. září 2022"
+        image: assets/img/timeline/2022-09-15.jpg
+        desc: "Česká televize předevčírem vysílala reportáž, ve které zaznělo, že náklady na přijetí uprchlíků z Ukrajiny nedosáhly ani odhadované výše, protože většina z nich tu dávno našla práci a značnou část ubytovali soukromé osoby a podnikatelé v prvních měsících zdarma. Konkrétně získalo české vízum od února cca 420 000 osob z Ukrajiny, přičemž 150 000 tvoří děti, 20 000 důchodci a 120 000 pracuje, a ti zbylí buď mezitím odešli zpátky, jsou matky na mateřské, nebo mají zkrátka dost vlastních financí. Jiná data také říkají, že aktuálně pracující Ukrajinci odvádí víc do zdravotního systému, než kolik spotřebovávají. Když to přeložím do obecné češtiny: za posledních šest měsíců Češi a Ukrajinci společně ukázali fakáče všem zoufalcům, jejichž oblíbenými argumenty bylo „tak si je vemte domů“ a „beztak sem jedou pobírat podporu“, zatímco 120 000 Ukrajinců se složilo na jejich dávky, aby tihle nezaměstnatelní šašci mohli dál denně sedět deset hodin denně na „fejsíčku“ a psát svoje cancy pod každou zprávu o Ukrajině. Do jejich tvrdých hlav ale tahle syrové realita beztak nepronikne. Stejně jako tyhle [novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid0wqDMcseJgGDQndC8gk1bmP3AdirgypbaHDUTYKiLBPYjZ5VLiHnDVHViVJSDcinxl)"
       - title: "Středa"
         year: "14. září 2022"
         image: assets/img/timeline/2022-09-14.jpg
