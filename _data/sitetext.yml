@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "16. září 2022"
+        image: assets/img/timeline/2022-09-16.jpg
+        desc: "„Rusko je tu navždy“, hlásaly plakáty a billboardy na okupovaném ukrajinském území. Střet s realitou nejvíc bolel kolaboranty a všechny ty, kteří tomu uvěřili. Ruská armáda na ně totiž během úprku ani na vteřinu nemyslela, a tak se jich desítky dostaly do ukrajinského zajetí, kde jim nyní hrozí vysoké tresty za nejrůznější zločiny proti státu a demokratickému uspořádání. A takhle to dopadá vždycky. Když sloužíte zlu, je jenom otázka času, kdy vás samo hodí pod vlak. Zlo totiž myslí vždycky jen na sebe. Člověk by řekl, že tomu díky pohádkám z dětství rozumí úplně každý, ale zdá se, že i rozdíl mezi evidentním zlem a dobrem je pro mnoho lidí nad jejich rozlišovací schopnosti. Vy ostatní si můžete počíst, co zase v té říší zla na Volze [vymysleli](https://www.facebook.com/tomak.dvorak/posts/pfbid045nxsRYRySLiiNka6PqN4tLQAsP78tEviuuMCNCeDyFTLG1AqgHMhmx1YgSTVMbtl)"
       - title: "Čtvrtek"
         year: "15. září 2022"
         image: assets/img/timeline/2022-09-15.jpg
