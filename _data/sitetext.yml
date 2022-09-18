@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "17. září 2022"
+        image: assets/img/timeline/2022-09-17.jpg
+        desc: "Den, který trávím v Krkonoších na svatbě. Je fajn si občas při tom všem připomenout, že jsou na tom světě i hezké věci. Internet nás propojil na takové vzdálenosti a takovou rychlostí, že bohužel také víme o všem špatném, co se na světě děje a můžeme to sledovat doslova z první ruky. Nebo můžeme počítač zaklapnout a všechny ty hrůzy ignorovat – stejně na ně nemáme žádný vliv, ne? Je pravda, že vliv na dění ve světě máme minimální. Ale přesto považuju za důležitou věc se nepřestat zajímat. Už jenom proto, že se pak můžeme poučit z chyb ostatních a neopakovat je. A to za to stojí, nemyslíte? Ale teď už [novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid01MmSpdikJQS2VnksFFCCMhwNWRrJmpqjYKbvc8GEsoE1EsbqB1rk9BUaTSDuZ8Tsl)."
       - title: "Pátek"
         year: "16. září 2022"
         image: assets/img/timeline/2022-09-16.jpg
