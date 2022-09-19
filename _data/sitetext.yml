@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "19. září 2022"
+        image: assets/img/timeline/2022-09-19.jpg
+        desc: "Kolaborant Stremousov, Rusy dosazený šéf Chersonské oblasti, byl zachycený na videu, jak mluví k dětem v jedné ze středních škol v Chersonu. V projevu, který nápadně připomínal projevy těch nejtupějších příznivců stran, jako je SPD nebo Trikolóra, prohlásil mimo jiné, že „nedovolí (Západu), aby dělal z jejich kluků holky“ nebo že se postará, aby „američtí kazatelé dál neučili 13leté dívky, jak používat kondomy“. Podle výrazů v dětském publiku ani středoškoláci nedokázali skrývat, jak moc jim celý projev přišel debilní. Někteří kroutili hlavou, někteří se nevěřícně usmívali, jiní si pokládali dlaň na čelo. Nešlo si ale nevšimnout právě té podobnosti s hoaxy a narativy, které mezi nevzdělanou částí české populace (ale třeba i mezi americkými konzervativci) šíří ruská propaganda: zkažený Západ, dekadentní liberální dekadence, zlá antikoncepce, nutnost chránit naše děti... Nenechte s sebou podobně manipulovat. Liberální demokracie sice umožňuje i hodně divné názory a postoje, ale jejím opakem je totalita. A právě za ní lidé, kteří takovou propagandu šíří, možná nevědomky, ale tak či tak bojují. No a pak se dělo ještě [tohle](https://www.facebook.com/tomak.dvorak/posts/pfbid0pnSePhWUpt6jgKxZNB2uri8Set88Bn7VT3CZywV6oh8M4oTjAcMdjGbvhxN1dY7tl)"
       - title: "Neděle"
         year: "18. září 2022"
         image: assets/img/timeline/2022-09-18.jpg
