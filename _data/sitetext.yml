@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "18. září 2022"
+        image: assets/img/timeline/2022-09-18.jpg
+        desc: "Od vypuknutí války na Ukrajině se Česko opakovaně dostává do titulků zahraničních novin. A tentokrát nejen kvůli skandálům, naopak! Ostrá česká kritika Ruska, rychlá a efektivní pomoc Ukrajině a jasné postoje současných vládních činitelů k celé válce nám během několika měsíců vytvořily ve světě image malého, ale odhodlaného národa a spolehlivého partnera pro demokratický svět. Nyní opět zahraniční deníky citují pirátského ministra zahraničí Jana Lipavského, který volá po vytvoření mezinárodního tribunálu pro vyšetřování a trestání válečných zločinů Ruska tak, jako když v devadesátých letech vznikl Mezinárodní trestní tribunál pro bývalou Jugoslávii. Znovu díky všem, kteří ve volbách volili demokratickou opozici a zajistili tím, že za nás teď do světa nemluví Babiš. To by byla strašlivá ostuda. Ale teď už [novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid02HHMdAcFhvyDV5bRBck14XL4j6TBT4PbP8ZBXwxb7BZCR9CbUFAKappo8yX8KEbwEl) – ty totiž tak pozitivní nejsou."
       - title: "Sobota"
         year: "17. září 2022"
         image: assets/img/timeline/2022-09-17.jpg
