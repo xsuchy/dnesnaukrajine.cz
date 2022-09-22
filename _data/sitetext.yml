@@ -33,8 +33,12 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "21. září 2022"
+        image: assets/img/timeline/2022-09-21.jpg
+        desc: "Putin dnes ráno ohlásil částečnou mobilizaci. Znamená to mimo jiné, že se každý, kdo prošel vojenským výcvikem, musí hlásit do služby a nesmí opustit Rusko, dokonce ani oblast svého bydliště. Údajně je cílem vyzbrojit a poslat na Ukrajinu až 300 000 vojáků. Zároveň dekret o mobilizaci obsahuje bod, kterým se prodlužují na neurčito kontrakty všech smluvních vojáků, kteří už nyní bojují. Finský prezident krok komentoval slovy, že Putin zahrál „all-in“. Rusko tak nyní stojí před poslední šancí zbavit se diktátora. Pokud ji nevyužije a nepřijdou masové protesty vedoucí ke svržení stávající moci, pak si Rusové právem zaslouží cokoliv, co v příštích měsících přijde. Putin také taky – jako obvykle – pohrozil světu použitím jaderných zbraní a ministr obrany Šojgu dokonce během briefingu otevřeně prohlásil, že Rusko nebojuje pouze s Ukrajinou, nýbrž vede válku s celým „kolektivním Západem“. Ano, podle Šojgua s námi Rusko nyní válčí. Není tedy na čase vzít Rusy za slovo a začít se vypořádávat s kolaboranty v našich řadách tak, jak se na válečný stav sluší? Ale víc o mobilizaci a reakcích na ni rozebereme v jednotlivých bodech dnešních [aktualit](https://www.facebook.com/tomak.dvorak/posts/pfbid0UKf7m1iukbNyGepmWGbW8yQhvYwAE8qMhHWpV3NLWivZemW7qWK2XfDAkaMwFifMl)"
       - title: "Úterý"
-        year: "19. září 2022"
+        year: "20. září 2022"
         image: assets/img/timeline/2022-09-20.jpg
         desc: "Ukrajinci spustili iniciativu „Chci žít“ určenou ruským vojákům. Obsahuje výzvu ke složení zbraní a telefonní čísla nebo kanály na Telegramu, kam se můžou Rusové obrátit, pokud se rozhodnou vzdát. Zároveň ukrajinská SBU zveřejnila několik hovorů, kdy už Rusové výzvu využili. Rusko podle všech objektivních měřítek začíná válku prohrávat a ukrajinské velení Jih navíc už několik dní mluví o tom, že s Rusy sevřenými mezi postupující ukrajinskou armádou u Chersonu a Dněprem vede dialog o jejich kapitulaci. Legrační je ve světle posledního vývoje – už tradičně – ruská propaganda, která si nemůže vybrat, jestli bude svým posluchačům tvrdit, že na Ukrajině svádí válku s NATO, nebo bude varovat NATO a zastrašovat jeho členy atomovými zbraněmi, aby do války nevstupovalo. A tak dělá pro jistotu oboje. Tak či tak tím Rusko přiznává, že jakmile proti němu stojí technika NATO, jím vycvičení vojáci a jeho strategie, tak si neškrtá. A to je fajn slyšet. Na rozdíl od některých [novinek](https://www.facebook.com/tomak.dvorak/posts/pfbid0pNrV9A8G8vptmSr15vjQrbN2YWSf5fgmFQhXKRxhJBENc47zsSHTzpxBMgpTDwucl)"
       - title: "Pondělí"
