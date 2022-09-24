@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "24. září 2022"
+        image: assets/img/timeline/2022-09-24.jpg
+        desc: "Přestože se v Rusku událo několik demonstrací proti ohlášené mobilizaci, rozhodně nenabyly masový rozměr. Častým argumentem (nebo spíš omluvou), proč Rusové neprotestují, je, že by za účast na protestech mohli jít do vězení. Ano, mohli, tak už to v totalitních státech bývá. Zkuste ale podobný argument říct Íráncům. V autokratickém Íránu před pár dny zemřela ve vazbě žena, kterou zatkla mravnostní policie za špatně nasazený hidžáb, což vyvolalo masové protesty napříč zemí. Nad některými městy už vláda úplně ztratila kontrolu a demonstranti se nebojí ani přímých střetů s policií, kvůli čemuž už několik desítek demonstrantů zemřelo. Na mnoha místech demonstrace vedou ženy, které si hromadně sundávají pokrývky hlavy a společně s ostatními volají po pádu prezidenta a konci islámské republiky. Za to všechno jim hrozí nejen vězení, ale také poprava. Mezitím Rusové mají víc práce s točením videí na mobily, jak pořádková policie odvádí z davu další a další protestující – a těch je navíc zoufale málo. Větší davy vytvořili příznivci připojení okupovaných oblastí k Rusku. Pořád tedy čekám na tisíce lidí v ulicích a týdny trvající nepokoje po vzoru Íránu. Ale čím dál víc se zdá, že se toho nedočkám. Tak přeji příjemnou mohylizaci! Tady jsou [novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid0A3muwpwTSjeU7FzYSGSPKM9nBRZ2Gbf2dnbGGPewaqLH1SbEyDeeYcBGQt2sk1Tbl)"
       - title: "Pátek"
         year: "23. září 2022"
         image: assets/img/timeline/2022-09-23.jpg
