@@ -33,6 +33,14 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pauza"
+        year: "26. září až 2. října"
+        image: assets/img/timeline/2022-09-25.jpg
+        desc: "Omlouvám se čtenářům, ale jsem na dovolené bez internetu. Hned jak se vrátím, tak doplním informace. Mezitím prosím sledujete Tomáše přímo na FB."
+      - title: "Neděle"
+        year: "25. září 2022"
+        image: assets/img/timeline/2022-09-25.jpg
+        desc: "Ukrajinská armáda překročila Oskil, odrazila několik ruských protiútoků a stabilizovala předmostí na druhém břehu řeky. Podle některých zpráv to vypadá, že Ukrajinci tu zkouší zopakovat průlom u Balaklije, kdy namísto útoku na ruské opěrné body proráží frontu všude okolo nich, a tak je izolují od zásobování a posil. Pád Limanu je tak nejspíš otázkou příštích dní, ačkoliv hlavní průlom se děje severně od něj. Poslední týdny jsou velmi specifické v tom, že se prakticky neliší popis vývoje na frontě na ruských kanálech od těch ukrajinských. Poprvé od začátku invaze tak má člověk poměrně kvalitní obrázek o vývoji na zemi potvrzený oběma stranami. A ten obrázek nevypadá pro Rusy nijak dobře. Ale subjektivní dojmy nechám jako vždy na vás, tady jsou [informace](https://www.facebook.com/tomak.dvorak/posts/pfbid0aB5sFqzrV6sJJkJaAm4iYxtMy5uJNy6BZPDDXthfL8FxUB6FWvFG685jEt3ZNFbHl)"
       - title: "Sobota"
         year: "24. září 2022"
         image: assets/img/timeline/2022-09-24.jpg
