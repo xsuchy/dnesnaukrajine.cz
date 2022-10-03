@@ -33,10 +33,6 @@ timeline:
     section: timeline
     start_align: "left"
     events:
-      - title: "Pauza"
-        year: "26. září až 2. října"
-        image: assets/img/timeline/2022-09-25.jpg
-        desc: "Omlouvám se čtenářům, ale jsem na dovolené bez internetu. Hned jak se vrátím, tak doplním informace. Mezitím prosím sledujete Tomáše přímo na FB."
       - title: "Neděle"
         year: "2. října 2022"
         image: assets/img/timeline/2022-10-02.jpg
