@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "3. října 2022"
+        image: assets/img/timeline/2022-10-03.jpg
+        desc: "Ukrajinci prolomili ruskou obranu podél Dněpru v Chersonské oblasti a postoupili minimálně k Dudčanům, tedy cca 30 km za původní frontovou linii. Některé kanály ale dokonce naznačují, že Ukrajinci už Dudčany kontrolují a pokračují za ně směrem na Beryslav. Jisté je, že ruské jednotky v oblasti zachvátila těžká panika, nedaří se jim spojit s velením, a tak prosí veřejně na sociálních sítích, aby kdokoliv, kdo má na velitelství fungující spojení, požádal o vzdušnou podporu. Při ofenzivě u Kupjansku Rusové často zmiňovali, že Ukrajinci používají výkonné rušičky, a pravděpodobně to bude i případ Chersonské fronty. Každopádně probíhající ofenziva je opět pod informačním embargem, a tak bude skutečný výsledek známý teprve za několik dní. Dá se ale tušit, že se tu Ukrajincům velmi daří, a to jak z optimistických komentářů na ukrajinských kanálech, tak rezignovaných a panických komentářů na těch ruských. [Další novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid0YpTXRWdEHyrRG3uU9miBmpovtW2sdbiTrKETwPGShexMGundLrMRdd28jpoCFDQ5l)"
       - title: "Neděle"
         year: "2. října 2022"
         image: assets/img/timeline/2022-10-02.jpg
