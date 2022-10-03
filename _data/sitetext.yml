@@ -242,7 +242,7 @@ footer:
  #       icon: "fab fa-linkedin-in"
       - url: "https://github.com/xsuchy/dnesnaukrajine.cz"
         icon: "fab fa-github"
-      - url: "{{ site.url }}/feed.xml"
+      - url: "/feed.xml"
         icon: "fab fa-rss"
 #      - url: https://instagram.com
 #        icon: "fab fa-instagram"
