@@ -33,6 +33,10 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "4. října 2022"
+        image: assets/img/timeline/2022-10-04.jpg
+        desc: "Podle polských bezpečnostních analytiků vypravilo Rusko k hranicím s Ukrajinou vlak se speciální bojovou technikou patřící 12. hlavnímu ředitelství ruského ministerstva obrany neboli silám, které mají na starost správu, přesun a aktivaci ruského jaderného arsenálu. Experti říkají, že může jít jen o paběrkování funkční techniky všude tam, kde Rusko ještě může brát, případně o přípravu na další cvičení jaderných sil „Grom“, které Rusko naposledy provedlo právě v říjnu loňského roku. Objevují se ale i názory, že by Rusko mohlo v pohraniční oblasti Ukrajiny použít taktickou jadernou hlavici pro odstrašující efekt na ukrajinské obránce a jejich partnery, a to i s ohledem na stupňující se rétoriku Putinových propagandistů a spojenců jako je Kadyrov, který pár dní nazpět vyzval k použití jaderné zbraně. Ostatně i Putin zmínil jaderné zbraně ve svém slavnostním projevu a alibisticky uvedl, že USA svrhnutím bomb na Japonsko vytvořili precedent. USA a špičky v NATO ale zatím opakovaně uvádí, že nevidí důkazy o tom, že by Putin takový krok chystal a bývalý ředitel CIA v nedávném rozhovoru uvedl, že pokud by to Rusko skutečně udělalo, NATO by obratem zničilo veškeré ruské jednotky na Ukrajině a potopilo ruskou Černomořskou flotilu. Neuvěřitelné, kam jsme se v roce 2022 dostali... Snad vám zlepší náladu [aktuality](https://www.facebook.com/tomak.dvorak/posts/pfbid0EK2qGiyXBvmBZXrcMY2cDKFrKNmoNAHBxAmyBTgEyZsh2smZ41vteJfnkaAjnhk6l)"
       - title: "Pondělí"
         year: "3. října 2022"
         image: assets/img/timeline/2022-10-03.jpg
