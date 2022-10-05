@@ -39,6 +39,12 @@
                   <h4 class="subheading">{{ event.title }}</h4>
                 </div>
                 <div class="timeline-body">
+                  {% if event.detail %}
+                  <details>
+                  <summary>Podrobnosti</summary>
+                  {{ event.detail }}
+                  </details>
+                  {% endif %}
                   <div class="text-muted">{{ event.desc | markdownify }} <a href="#{{ event.year }}" title="Permanentní odkaz">&#128279;</a></div>
                 </div>
               </div>
