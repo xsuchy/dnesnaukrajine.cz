@@ -46,6 +46,12 @@
                   {{ event.detail | markdownify }}
                   </details>
                   {% endif %}
+                  {% if event.videa %}
+                  <details>
+                  <summary>Zajímavá videa</summary>
+                  {{ event.videa | markdownify }}
+                  </details>
+                  {% endif %}
                   <a href="#{{ event.year }}" title="Permanentní odkaz">&#128279;</a>
                   </div>
                 </div>
