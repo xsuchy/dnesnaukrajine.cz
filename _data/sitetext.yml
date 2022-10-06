@@ -33,6 +33,30 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "6. října 2022"
+        image: assets/img/timeline/2022-10-06.jpg
+        desc: "Ukrajinci oznámili, že na luhanské frontě přešli do krátké operační pauzy, aby doplnili stav jednotek a připravili se na útoky na Svatove a Kreminnu. Neznamená to ale, že by se tu nedělo nic. Nejspíš dochází k průzkumu bojem, a i dělostřelectvo zůstává velmi aktivní. Kolaboranti už údajně z měst preventivně odjeli hlouběji do Luhanské oblasti mimo místa bojů. Pozvolný postup pokračuje po nedávném průlomu také u Chersonu. Snihurivka je podle nových informací stále v rukou Rusů, ale ti už z města evakuovali své důstojníky. Podle ruských kanálů je situace u Chersonu pro Rusy jemně řečeno „neideální“. Oni sami ale používají mnohem expresivnější výrazy. Tady k tomu máte nějaký [kontext](https://www.facebook.com/tomak.dvorak/posts/pfbid02K15HEpQA1ESLVNkRJM5sHqoGpv9cdd4nXVsbXvME8dLC5UHu1vJc3keJeDpRRcHWl)"
+        detail: |
+          - Evropská unie schválila 8. balík protiruských sankcí a je až nečekaně ostrý. Zavádí mimo jiné zákaz poskytovat ruským občanům služby krypto-peněženek, zákaz evropským občanům zastávat seniorní pozice ve firmách vlastněných ruským státem, zákaz poskytovat ruským firmám IT nebo právní služby, zákaz dovozu vybraných ruských produktů včetně oceli, chemikálií nebo plastů, zákaz exportu některých technologických výrobků nebo cenový strop na ruské ropné produkty a sankce vůči stovkách dalších fyzických osob. 
+          - Ukrajinci v noci sestřelili 9 dronů Shahed-136, které Rusové poslali na města na jihu Ukrajiny. Některé další i tak zasáhly své cíle. Podle ukrajinských vzdušných sil mají drony maximálně dolet až 1 000 km a Rusové je nyní využívají místo balistických raket, aby měli dostatečnou kapacitu pro zastrašování Evropy jadernými hlavicemi – tedy aby měli k dispozici způsob, jak hlavice příadně doručit. 
+          - V severní části Charkovské oblasti objevili vyšetřovatelé v rekreačním zařízení těla dvou civilistů, které Rusové mučili. Byly k sobě připoutaní za ruce, jeden z nich měl frakturu lebky a druhý průstřel hlavy. Nejspíš je zabili příslušníci speciálních jednotek, kteří tu měli své stanoviště. 
+          - Putin podepsal výnos, který nařizuje ruským orgánům, aby převedly jadernou elektrárnu v Záporoží do ruského vlastnictví. Zároveň prý dochází k zastrašování stávajících zaměstnanců, že pokud se neupíšou k práci pro Rosatom, budou odvedeni na frontu. 
+          - Ruský státní portál oznámil, že se mobilizovaným mužům se nebudou proplácet léky, výstroj ani jiné předměty, které si pořídili na vlastní náklady, protože prý „branci dostávají vše, co budou ve službě potřebovat“. 
+          - Rusko je suverénně největším dodavatel těžké techniky ukrajinské armádě. Jen podle vizuálně potvrzených kusů ukořistili Ukrajinci už 421 ruských tanků, 445 bojových vozidel a 192 obrněných transportérů. 
+          - Putin prohlásil, že ke konfliktu by nikdy nedošlo, „kdyby se Kyjev nesnažil přepsat historii“ a „oživit neonacismus“. Ano, Rusové opět obviňují ostatní z něčeho, co sami dělají. 
+          - Ruské rakety Iskander zasáhly civilní zástavbu v Záporoží. Poničených je několik budov a útok si vyžádal nejméně dvě oběti na životech. Jednu z raket se podařilo sestřelit. 
+          - Ruská 3. gardová brigáda specnaz GRU, jedna z nejelitnějších jednotek ruských ozbrojených sil,  utrpěla v Lymanu obří ztráty a možná už není samostatně bojeschopná.  
+          - U Chersonu byl zabit ruský voják a správce jednoho ze sledovaných ruských telegramových kanálů Ruslan Padudar. 
+          - Ruská Kniha rekordů ocenila Kadyrova za to, že se stal Rusem s největším počtem na něj uvalených sankcí. 
+          - Česko poskytne Ukrajině další těžkou techniku, ministryně ale z bezpečnostních důvodů neuvádí, jakou. 
+          - 4 ruské stíhačky včera narušily polský a švédský vzdušný prostor. Naproti jim vyrazily letouny NATO. 
+          - 5 důstojníků FSB a 2 důstojníci ruské armády zahynuli při explozi v hotelu v centru Chersonu. 
+          - Neznámý pachatel polil vchod do objektu ukrajinské ambasády v Praze červenou barvou.
+          - V osvobozeném Lymanu byl objeven další hromadný hrob s minimálně 50 obětmi války. 
+          - 73 % obyvatel USA se v průzkumu Reuters vyslovilo pro pokračování pomoci Ukrajině. 
+          - V Rusku začal první soud s mužem, který se odmítl účastnit mobilizace. 
+          - Premiér Ukrajiny Denys Šmyhal je na oficiální návštěvě ČR.
       - title: "Středa"
         year: "5. října 2022"
         image: assets/img/timeline/2022-10-05.jpg
