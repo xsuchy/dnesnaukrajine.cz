@@ -27,12 +27,96 @@ portfolio:
 #    closebutton: "Close Project"
     
 
+# command to replace links
+# :%s/- \([:alpha:]*.*\)\n *\(https[^ ]*\)/[\1\]\(\1\)/m
 timeline:
     title: "Průběh války na Ukrajině" 
     text: "Tak jak šla den za dnem"
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "7. října 2022"
+        image: assets/img/timeline/2022-10-07.jpg
+        desc: "Putin dnes slaví své 70. narozeniny. Krásné kulaté číslo. Skoro bych se přikláněl k tomu, aby bylo poslední. Možná by se pak konečně mohlo Rusko pokusil o nějakou očistu a obrodu. Protože si přiznejme, že s Putinem v čele to jednoduše nepůjde. Putin vsadil na Ukrajinu všechno, co měl, a dává neustále najevo, že nehodlá prohrát, ačkoliv je téměř jisté, že se to dřív nebo později stane. My jen můžeme doufat, že toho pokazí a poničí co nejméně, než k tomu dojde. Nicméně, co byste mu chtěli popřát vy? Tady máte [novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid0EsaX64SmCYY9j4WJyLtNAAusnNnQcMpMucX56LRwByWUTFfN9oXpE826Drh2Eem9l), třeba vám pomůžou to během čtení vymyslet."
+        detail: |
+          - Rusové hlásí značné ztráty poté, co na jejich pozice na křižovatce Rubižne-Kreminna dopadlo 6 raket HIMARS s kazetovou hlavicí. Ukrajinci v minulých týdnech možná obdrželi rakety M26 nebo ještě spíše modernější M30A1, které rozpráší těsně před dopadem do okolí přes 180 000 kuliček z wolframu. Mohlo by tak jít o první potvrzené použití nově dodané munice. 
+          - Ruská propaganda nemá absolutně žádné morální zábrany. Poté, co Rusové včera zasáhli raketami Záporoží a zabili nejméně sedm lidí, ruská státní televize odvysílala záběry ze záchranných prací, hašení požáru a odklízení trosek... ovšem s tvrzením, že se jedná o Doněck zasažený Ukrajinci. Záporoží dnes bylo opět pod palbou. 
+          - Estonci hlásí, že Rusové unesli potenciálně stovky Ukrajinců, kteří na ruské straně rusko-estonské hranice čekali na průjezd do Estonska. Rusové prý nejprve odepřeli Ukrajincům průjezd, v důsledku čehož se u hranic vytvořila kolona, a minulou noc pak čekající lidi v nákladních vozech odvezli od hranic neznámo kam. 
+          - Ukrajinci si podle nových videí dělají legraci z ruských vojáků tak, že jim pouští z reproduktorů na frontové linii výzvy ke kapitulaci sebrané z druhoválečných archivů – tedy namluvené lámanou ruštinou s německým přízvukem. 
+          - Litevští pohraničníci ukázali záběry z termální kamery, které dokazují, že běloruská pohraniční stráž je aktivně zapojená do pašování migrantů z Blízkého východu přes hranice do sousedních zemí. 
+          - Poprvé od srpna zaútočila ruská letadla na ukrajinské cíle z běloruského vzdušného prostoru. 4 ruské strategické bombardéry Tu-22 vypustily rakety na Chmelnickou oblast. 
+          - Rusové údajně kontaktovali několik zemí za účelem nákupu zimních uniforem a zimní výstroje. Jednou ze zemí bylo i Turecko. Turci ale obchod odmítli. 
+          - Podle četných videí a fotek Rusové při ústupu z okupovaných území rabují i takové věci jako solární panely z kandelábrů a dopravních značek. 
+          - Španělsko vypravilo na Ukrajinu vlak s 8 terénními vozidly, dvěma ambulancemi a pěti tunami zdravotnického materiálu. 
+          - Dva Rusové pluli na malé lodi téměř 300 km ze severovýchodního Ruska na ostrov Sv. Lawrence, aby se vyhnuli mobilizaci. 
+          - V ruské Altaji probíhá mobilizace přesně podle plánu. K odvodu se nedostavil ani jeden z oslovených mužů. Gratulujeme. 
+          - Norsko omezí pohyb ruských rybářských lodí ve svých přístavech. Nově budou smět pouze do vybraných tří. 
+          - Patriarcha Kirill nakázal kněžím, aby se při příležitosti Putinových narozenin za prezidenta dva dny modlili.
+          - Rusko už proti ukrajinským cílům použilo 86 íránských kamikadze dronů, 60 % z nich se podařilo zničit. 
+          - Víc než polovinu veškerých tanků, která mají Ukrajinci k dispozici, nyní tvoří ukořistěné ruské tanky. 
+          - Rusové ostřelovali Nikopol. Poničili při tom několik bytovek a nejméně deset rodinných domků. 
+          - Rusové oznámili, že Záporožská jaderná elektrárna je nyní ve vlastnictví Rosatomu. 
+          - Ruské vojenské letiště u Kalugy bylo údajně zasaženo kamikadze dronem. 
+          - Francie podle Le Monde plánuje dodávku dalších 6-12 houfnic CAESAR. 
+          - Finsko oznámilo v pořadí už 9. balíček vojenské pomoci Ukrajině. 
+        videa: |
+          - Čištění města z první osoby – byl v kadibudce (citlivé!)
+          https://twitter.com/UkrainianNews24/status/1578086259242799105
+          - Litevci ukázali, jak běloruští pohraničníci převádí migranty
+          https://twitter.com/nexta_tv/status/1578284879091208193
+          - Trolling Rusů pomocí německého vysílání
+          https://twitter.com/daves1331/status/1577727866120409099
+          - Boje o zákopy (citlivé!)
+          https://twitter.com/Blue_Sauron/status/1578006655907905536
+          - Evakuace z fronty
+          https://twitter.com/UkrainianNews24/status/1578086743944974337
+          - Tanková bitva u Chersonu
+          https://twitter.com/Blue_Sauron/status/1578146753567662081
+          - Rusové evakuují zraněné a mluví o ztrátách
+          https://twitter.com/wartranslated/status/1578307106012164096
+          - „Doraz mě.“ „Nejsme jako vy.“ Ukrajinci vyprošťují zraněného opuštěného Rusa
+          https://twitter.com/UkrainianNews24/status/1578312323139194880
+          - Zničené ruské velitelství, Davydiv Brid
+          https://twitter.com/EuromaidanPress/status/1578324504308219907
+          - Rusové si udělali základu v prasečáku
+          https://twitter.com/nexta_tv/status/1578281760437084161
+          - Ruská protibaterijní palba
+          https://twitter.com/200_zoka/status/1578303897378050048
+          - Ruský útěk z Lymanu
+          https://twitter.com/UkrainianNews24/status/1578044430044495873
+          - Civilní bus zasažený u Chersonu, čtyři mrtví
+          https://twitter.com/nexta_tv/status/1578268635797196800
+          - Zajatci do sbírky
+          https://twitter.com/666_mancer/status/1578292982133846017
+          - Přineste další nosítka! (citlivé!)
+          https://twitter.com/UkrainianNews24/status/1578322968333103104
+          - Ukrajinská verze unboxing videí
+          https://twitter.com/TpyxaNews/status/1578323662461018112
+          - Měl v ráně červi a hnil, Ukrajinci mu ruku zachránili
+          https://twitter.com/nexta_tv/status/1578120738942451712
+          - Mínus ruský tank
+          https://twitter.com/EuromaidanPress/status/1578289020261597184
+          - Nový sestřih ukrajinských sil
+          https://twitter.com/UkrainianNews24/status/1578311501223718913
+          - Makijivka
+          https://twitter.com/Gulli_ver_sn/status/1578292037627305984
+          - Ruský muničák šel na chuj
+          https://twitter.com/nexta_tv/status/1578067283368415235
+          - Ukrajinský tank si došel pro Uragán
+          https://twitter.com/Blue_Sauron/status/1578061671473586179
+          - Ruská podplukovnice „vypadla z okna“ (citlivé!)
+          https://twitter.com/Existenzse/status/1578289965691125761
+          - Dron pomáhá korigovat palbu (citlivé!)
+          https://twitter.com/UkrainianNews24/status/1578073007536295937
+          - Nová kořist
+          https://twitter.com/Orxan_012/status/1578265207834521601
+          - Noční útok pozoruje dron s termální kamerou
+          https://twitter.com/UkrainianNews24/status/1578140333988204544
+          - Trofej
+          https://twitter.com/herooftheday10/status/1578289042520961024
+          - Boje na východě Ukrajiny
+          https://twitter.com/Blue_Sauron/status/1578338977798819840
       - title: "Čtvrtek"
         year: "6. října 2022"
         image: assets/img/timeline/2022-10-06.jpg
