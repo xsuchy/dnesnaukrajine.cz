@@ -35,6 +35,25 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "10. října 2022"
+        image: assets/img/timeline/2022-10-09.jpg
+        desc: "Den Putinovy odvety za útok na Kerčský most. Ruské rakety a kamikadze drony zasáhly Kyjev, Charkov, Žitomir, Dnipro, Záporoží, Kryvyj Rih, Oděsu, Kremenčuk, Konotop, Kropyvnyckyj, Chmelnyckyj, Ternopil, Ivano-Frankivsk, Lvov a Rovno. V ANI JEDNOM případě nebyla cílem vojenská instalace. Zasaženy byl teplárny, elektrárny, komunikační úřady, obytné domy, ale taky parky, náměstí, rušné křižovatky, pěší lávky nebo dětská hřiště. Celkem Rusové vyslaly nejméně 80 raket, více než polovinu naštěstí zlikvidovala protivzdušná obrana, stejně tak 9 z 12 dronů. Charkov se ocitl úplně bez proudu, Dnipro částečně. Bez proudu je i většina Lvova. Některá města jsou dokonce bez tekoucí vody. Jsou hlášeny oběti na životech i ranění. Útok přišel dva dny poté, co velení nad ruskou invazí převzal Surovikin, který je zodpovědný za srovnání syrského Aleppa se zemí a za stejný postup v Gruzii. Šéf české Vojenské policie při diskuzi v Poslanecké sněmovně označil Rusko za kriminální stát, za „Třetí říši v rudé barvě“. A já pořád marně čekám, kdy k tomu dojde i na státní úrovni a začneme v duchu toho postupovat proti těm, kteří fašistické Rusko podporují. Ti zatím nadšeně sdílejí fotky z měst, kde dnes umírali lidé, a radují se, jak to Rusko Ukrajině ukázalo. Gratuluji, Putine. Podařilo se ti z Rusů udělat nejnenáviděnější národ na planetě. Spoko? A teď [novinky](https://www.facebook.com/viktor.janis.5/posts/pfbid02ewW8NH8HYjmfrMxHHU5nnSg5XKj6QknowNjU22wEG1Y41EkkcvJr6ETEsvDA6tJLl)"
+        detail: |
+          - Ukrajina na raketové útoky odpověděla zničením několika základen a muničních skladů v Kurské a Belgorodské oblasti. Zničen byl také muniční sklad ruského ministerstva obrany u Jaroslavi. Spekuluje se, že jedním z cílů ukrajinských raket byla i základna s branci u ruského Brjansku.
+          - Lukašenko se dohodl s Putinem na nasazení společných bělorusko-ruských jednotek k ukrajinským hranicím. Podle ukrajinské rozvědky Putin neustále tlačí na Bělorusko, aby se připojilo k invazi, ale Lukašenko se zatím přímému zapojení brání, mimo jiné ze strachu před polskou reakcí.
+          - Putin ve svém projevu prohlásil, že dnes ráno byly „precizními zbraněmi zasaženy objekty kritické energetické, vojenské a komunikační infrastruktury. Tak to jsem si oddychl. Co by asi trefili, kdyby používali nepřesné zbraně!
+          - Podle ukrajinské rozvědky byl dnešní raketový útok plánovaný dlouho dopředu a stejně tak byly vybrány i cíle. Proto se podařilo většinu raket sestřelit ještě před dopadem.
+          - Rusové po několika týdnech urputných bojů vedených jejich elitou postoupili jižně od Bachmutu a nyní kontrolují obce Zajceve a Vesela Dolyna.
+          - Tři z raket přiletěly přes moldavské území. Moldava si proto dopoledne předvolala ruského velvyslance.
+          - Zelenský označil dnešní útoky na ukrajinská města za další důkaz ruské „impotence“ na bojišti.
+          - Bělorusko podle videí na sociálních sítích poskytlo Rusku desítky kusů svých tanků T-72.
+          - Estonsko plánuje oficiálně označit Rusko za teroristický stát a podniká k tomu kroky.
+          - Německo oznámilo, že uspíší dodávky protivzdušných systémů IRIS-T.
+          - Při útoku na Kyjev byla poškozena budova německého konzulátu.
+          - Německo poskytne Ukrajincům 90 000 kusů zimních uniforem.
+          - Německo svolává na žádost Ukrajiny mimořádné zasedání G7.
+          - V Rostovské oblasti v Rusku se zřítil bitevník Su-24.
       - title: "Neděle"
         year: "9. října 2022"
         image: assets/img/timeline/2022-10-09.jpg
