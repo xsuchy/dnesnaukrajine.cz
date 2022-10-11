@@ -35,6 +35,26 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "11. října 2022"
+        image: assets/img/timeline/2022-10-09.jpg
+        desc: "Pár let nazpátek mě zastavila na pražském Jiřího z Poděbrad jakási starší Američanka a ptala se, kde je „Zelenskiego“ a jak se tam dostane. Nejdřív jsem vůbec netušil, o čem mluví, měla prostě tohle slovo bez dalšího kontextu napsané na kusu papíru. Až po tom, co několikrát zmínila „zelenou“ mně došlo, že mluví o stanici metra Želivského. A zrovna včera, když jsem na Želivského vystupoval, jsem si říkal, že by tomu ten odposlechnutý název docela slušen. Zelenského. Protože jsem si za boha (sic!) nemohl vzpomenout na to, kdo byl Jan Želivský. Ale kdo je nebo byl Zelenský, na to rozhodně do smrti nezapomenu. [Novinky tut](https://www.facebook.com/viktor.janis.5/posts/pfbid02cCiFCqP5YAuEmq5X5rRem1AqSt9TwQwb3GquuwCoL9LPfY5gfacFx1YHEwsY7R3Pl)"
+        detail: |
+          - Ukrajinská města zasáhla další salva ruských raket. Opět byla cílem energetická a logistická infrastruktura. Lvov byl po zásahu raket opět částečně bez proudu. Podle ukrajinské rozvědky převezlo Rusko do běloruského pohraničí 32 íránských kamikadze dronů a očekává se, že je Rusové použijí proti Kyjevu. V Černém moři nyní operují tři ruské raketové lodě s celkem 20 raketami Kalibr. Cílem je očividně přerušit dodávky teplé vody a plynu před nadcházející zimou a způsobit tak humanitární katastrofu. Ostatně přesně na tento scénář připravovali ruští propagandisté už několik měsíců svá publika.
+          - Ruská propaganda se snaží zdiskreditovat generála Zálužného rozpixelovanou fotkou jeho náramku a tvrdit, že na ruce nosí hákový kříž. Ve skutečnosti má na ruce náramek s korálky s vikingskými symboly, ze kterých se jen díky lehké práci s kontrastem a kvalitou snímku jeden jako svastika jeví. Rusové se ve své pohádce o nacistické Ukrajině chytají skutečně každého stébla, zatímco v Rusku je vůbec nejpočetnější neonacistická scéna ze všech zemí světa, čítající desítky tisíc lidí, kteří se k nacismu otevřeně hlásí, a putinovské Rusko naplňuje všechny známé definice fašistického státu.
+          - Na sítích se objevila videa z bojů u Bachmutu pořízená drony. Rusové tu posledních několik týdnů vrhali ohromné množství živé síly proti ukrajinským opevněním, aby se pokusili posunout frontu o pár set metrů, což se jim nakonec na dvou místech podařilo. Většinu čelních útoků ale prováděli branci z DLR – často bývalí vězni. Na videích je proto vidět, jak jsou pole kolem Bachmutu doslova posetá desítkami zabitých ruských vojáků.
+          - Cena raket, které Rusko vypálilo na ukrajinská města během 24 hodin, se pohybuje mezi 400-700 milióny dolarů. Přesto nemá čtvrtina ruské populace přístup k tekoucí vodě a mimo velká města nemají tři čtvrtiny domácností přístup k odpadním trubkám, tedy ani splachovacím záchodům.
+          - V řadě evropských měst se konala protestní shromáždění před ruskými konzuláty v reakci na ostřelování ukrajinských měst ruskou armádou. Na ruskou ambasádu ve Washingtonu aktivisti promítají texty o tom, že Rusko je teroristický stát. Protesty probíhaly také v gruzínském Tbilisi.
+          - Bílý dům dává za pravdu Ukrajincům, že útoky na ukrajinskou infrastrukturu Rusko plánovalo dlouho dopředu a nejedná se tedy o odvetu za poničení Kerčského mostu. Podle Američanů mohl útok na most pouze ruské kroky uspíšit.
+          - Rusové narychlo budují zákopy pomocí ženijních strojů na linii Svatove-Kreminna, aby se pokusili zastavit ukrajinský protiútok. Údajně se tu Rusové pokusili i o vlastní protiútok, nicméně nezdá se, že by byl úspěšný.
+          - Podle některých snímků přijela na Ukrajinu ze syrské Latákie bojovat část skupiny Ajnad al-Kavkaz, radikální islamistické skupiny tvořené Čečenci, kteří usilují o samostatnou Ičkerii.
+          - Ukrajinská sbírka „Pomsta“ vybrala za pouhých 8 hodin po první vlně útoků na ukrajinská města téměř 6 miliónů dolarů na nákup kamikadze dronů RAM II.
+          - Podle dat ukrajinské energetické společnosti obyvatelé Kyjeva a Oděsy na výzvu prezidenta snížili svou spotřebu energie skokově o 26,5 %.
+          - Šéf Wagnerovců Prigožin vyzval poslance ruské Státní dumy, aby se přidali k jeho armádě a šli bojovat na frontu.
+          - Během ranního ostřelování Kyjeva zemřel šéf policejního oddělení pro potírání kyberkriminality Juri Zaskoka.
+          - Obyvatelé Krymu hlásí dva výbuchy v areálu kasáren na severu Krymu. Ruské kanály mluví o řadě obětí.
+          - Ukrajinská SBU přidala Dmitrije Medveděva a Marii Zacharovou na svůj „wanted list“.
+          - U Rostova nad Donem se zřítil další ruský bitevník (Su-25). Pilot havárii nepřežil.
       - title: "Pondělí"
         year: "10. října 2022"
         image: assets/img/timeline/2022-10-09.jpg
