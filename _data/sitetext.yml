@@ -35,6 +35,96 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "12. října 2022"
+        image: assets/img/timeline/2022-10-12.jpg
+        desc: "Rusko oznámilo, že zadrželo 8 lidí podezřelých ze zosnování útoky na Kerčský most. 5 z nich jsou Rusové, tři Ukrajinci a Arméni. FSB už dříve zveřejnila snímek údajného dokladu osoby, která měla nálože odpálit v jedoucím kamionu. Ruská FSB ale dlouhodobě odvádí neuvěřitelně lajdáckou práci ve výrobě falešných důkazů. Doklad byl totiž vytvořený digitálně z volně dostupného vzoru ukrajinského průkazu na internetu, FSB ovšem zapomněla změnit jak podpis držitele průkazu, tak „sériové číslo“ dokladu, které proto tvoří samé nuly, jak to u vzorů bývá. Nyní zas FSB zveřejnila fotku kamionu, který měl vézt výbušniny a údajný rentgenový snímek z kontrolní brány, který má ukazovat podezřelé předměty – podle FSB právě ony nálože – v nákladním prostoru. Jenže i laik okamžitě pozná, že snímek kamionu a rentgenu ukazuje dva různé kamiony. Neodpovídá rozložení kol, absence některých dílů korby a chybí rezervní pneumatika. A navíc, pokud by opravdu rentgen ukazoval podezřelé předměty, proč by celníci kamion nechali projet? Ruská FSB zkrátka buď má své domácí publikum za úplné hlupáky, nebo jimi sami jsou. Stejně jako všichni našinci, co jejich „důkazům“ věří. A teď [další události](https://www.facebook.com/tomak.dvorak/posts/pfbid02CKVUafbumvC13Ydy6tk8Rx4ZB58ViTLKUJumzD9kSgfYePE4PDHKfJojdDTzqrMPl) posledních 24 hodin"
+        detail: |
+          - Prezident Zelenský během summitu G7 navrhnul vytvoření speciální pozorovací mise, která by monitorovala dění na ukrajinsko-běloruské hranici. Chce tak vzít Lukašenkovi možnost obviňovat Ukrajinu z vyfabulovaných provokací a incidentů a ztížit mu výchozí pozici pro případné zapojení do války. Bělorusko nicméně začalo Rusům předávat své tanky a další bojovou techniku, čímž se šance na nový útok ze severu značně snižuje. 
+          - Opoziční deník Meduza s odkazem na zdroj v ruské FSB tvrdí, že celkové „nenahraditelné ztráty“ ruské armády, tedy počet zabitých v boji, ztracených, těch, co podlehli zraněním, nebo těch, co jsou nevratně zmrzačeni bez možnosti pokračovat ve vojenské službě, přesáhl 90 000. V těchto číslech by navíc neměli figurovat Wagnerovci ani jiní žoldáci, a dokonce ani členové jednotek separatistů. 
+          - Jeden z okupantů, původem Burjat, ukradl během rabování na Ukrajině bezpečnostní kameru v některém z domů a následně si ji zapnul u sebe doma, aniž by jakkoliv změnil nastavení. Kamera proto dál vysílá a její majitel už několik dní může sledovat soukromí život onoho Burjata z první ruky. 
+          - Německo nakoupí pro Ukrajinu ve spolupráci s Dánskem a Norskem 16 slovenských houfnic Zuzana-2. Navíc poskytne další 3 systémy protivzdušné obrany IRIS-T a 2 salvové raketomety MARS II. První systémy IRIS-T z dříve ohlášené dodávky už dorazily na Ukrajinu.
+          - Rusové opět unesli jednoho z manažerů jaderné elektrárny v Enerhodaru, tentokrát šéfa HR. Podle Ukrajinců ho Rusové zřejmě chtějí mučit, aby jim poskytl osobní údaje zaměstnanců pro další vydírání. 
+          - Ukrajinští vojáci dnes ráno během pouhých 18 minut sestřelily nejméně 4 z 6 útočících ruských helikoptér. Rakety byly páleny po všech šesti, na potvrzení dalších případných sestřelů se čeká. 
+          - NATO provede na začátku příštího týdne společné cvičení tzv. sil jaderného odstrašení. Cvičení jsou nicméně dlouho plánovaná a nejde tedy o reakci na ruské výhrůžky, jak by se mohlo zdát. 
+          - Ruské úřady přidaly společnost Meta na seznam teroristických a extremistických organizací. Škoda, že Meta nepřistupuje k ruské propagandě stejným metrem. 
+          - Podle ukrajinského ministra pro energetiku poničily ruské rakety za pouhé dva dny okolo třetiny veškeré ukrajinské energetické infrastruktury. 
+          - Během další výměny zajatců se domů vrátilo 32 ukrajinských vojáků a převezeny byly také ostatky dobrovolníka z Izraele, který padl v boji. 
+          - Rusové znovu zasáhli teplárnu Ladyžyn ve střední Ukrajině. 6 lidí, převážně záchranářů, bylo zraněno. 
+          - Zelenský i Putin by se údajně měli osobně účastnit příštího zasedání skupiny G20 na indonéském Bali. 
+          - Ukrajinská sbírka shromáždila přes 9,5 miliónů dolarů na nákup 50 kusů kamikadze dronů RAM II. 
+          - Poláci hlásí únik ropy z ropovodu Družba. Podle polské vlády ale šlo o nehodu, nikoliv sabotáž. 
+          - Nová salva ruských raket na Záporoží si vyžádala nejméně 7 obětí na životech a 7 raněných.
+          - Ukrajina obdržela další čtyři systémy HIMARS. Na cestě jsou taky dva systémy NASAMS. 
+          - Rusko buduje na linii Svatove-Kreminna prakticky druhoválečná opevnění. 
+          - Na Nikopol dopadlo za minulou noc přes sto dělostřeleckých projektilů. 
+          - 7 lidí bylo zabito a 8 raněno při ruském ostřelování tržnice v Avdijivce. 
+          - EU nebude uznávat ruské pasy vydané na ukrajinském území. 
+          - V ruském Šebekino u Belgorodu vyhořela rozvodná stanice. 
+          - Ukrajinci odhalili další ruskou mučírnu poblíž Svjatohirsku. 
+        videa: |
+          - Ruskem budovaná defenzivní linie u Svatového
+          https://twitter.com/200_zoka/status/1579839599622651904
+          - Kadyrovci vysvětlují, proti komu bojují (s titulky)
+          https://twitter.com/bayraktar_1love/status/1580125305200840704
+          - Záběry z ukradené kamery
+          https://twitter.com/UkrainianNews24/status/1579908273033318400
+          - FSB zatýká údajného teroristu
+          https://twitter.com/TpyxaNews/status/1580092910154166275
+          - Ostřelování Nikopolu zápalnou municí
+          https://twitter.com/nexta_tv/status/1580040561485967362
+          - Jiný úhel
+          https://twitter.com/EuromaidanPress//status/1580015400724504576
+          - Gubarev a jeho genocidní řeči
+          https://twitter.com/nexta_tv/status/1579898054312071168
+          - Polská dobrovolnice na Ukrajině
+          https://twitter.com/UkrainianNews24/status/1580150005536391174
+          - Neúspěšný ukrajinský útok
+          https://twitter.com/200_zoka/status/1579951891513241600
+          - Nový sestřih
+          https://twitter.com/UkrainianNews24/status/1579961749457240065
+          - Ruská vzdušná podpora
+          https://twitter.com/200_zoka/status/1579882793475403777
+          - Javelin versus tank
+          https://twitter.com/UkrainianNews24/status/1579944042695380995
+          - Běloruské tanky míří do Ruska
+          https://twitter.com/Tendar/status/1579832801360506882
+          - Zamilovaný dopis Francii 😊
+          https://twitter.com/UkrainianNews24/status/1580150591065444354
+          - Solovjov v roce 2008 vysvětluje proč by válka mezi oběma zeměmi byla zločin
+          https://twitter.com/Biz_Ukraine_Mag/status/1580124465664790528
+          - Přestřelka během ruského pokusu o průlom
+          https://twitter.com/UkrainianNews24/status/1580137333495853058
+          - Ruské pozice po ukrajinském útoku
+          https://twitter.com/herooftheday10/status/1579825771220471809
+          - Trofejní houfnice
+          https://twitter.com/Orxan_012/status/1580134522569379840
+          - Medička „Greta“
+          https://twitter.com/UkrainianNews24/status/1580135568876670982
+          - Co zbylo z ruské techniky
+          https://twitter.com/herooftheday10/status/1580137585623838721
+          - Trofeje
+          https://twitter.com/UkrainianNews24/status/1579962090684841985
+          - Dron a jeho rána z milosti (citlivé!)
+          https://twitter.com/herooftheday10/status/1580123076746186752
+          - Cesta na frontu lemovaná ruským šrotem
+          https://twitter.com/Militarylandnet/status/1579919692525080577
+          - Bývalé ruské pozice u Lymanu
+          https://twitter.com/UkrainianNews24/status/1579886426967408640
+          - Ukrajinci na východní frontě
+          https://twitter.com/herooftheday10/status/1579872381296050177
+          - Ruská houfnice šla na chuj
+          https://twitter.com/2uwmp/status/1580089578001936384
+          - Neschováte se! (citlivé)
+          https://twitter.com/UkrainianNews24/status/1579858918750425089
+          - Wagnerovci po neúspěšném útoku (citlivé!)
+          https://twitter.com/herooftheday10/status/1580084216439910403
+          - Zajatý Wagnerovec – bývalý vězeň
+          https://twitter.com/Milan8662/status/1579875494962827265
+          - Ruský útok s tanky
+          https://twitter.com/RALee85/status/1579961882446036994
+          - Druhá část
+          https://twitter.com/RALee85/status/1579962567413628928
       - title: "Úterý"
         year: "11. října 2022"
         image: assets/img/timeline/2022-10-09.jpg
