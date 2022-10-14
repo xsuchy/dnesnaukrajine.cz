@@ -35,6 +35,82 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "14. října 2022"
+        image: assets/img/timeline/2022-10-14.jpg
+        desc: "Starlink, jeden z klíčových prvků stojící za úspěchem ukrajinských operací, je nyní v ohrožení. Ukrajinci systém intenzivně využívají pro navádění dronů a raket i efektivní šifrovanou komunikaci na bojišti. Elon Musk ale podle CNN minulý měsíc oslovil Pentagon, aby na sebe vzal náklady spojené s provozem sítě na Ukrajině, jinak prý hrozí, že nebude dál připojení poskytovat. Musk měl zmínit, že provoz internetu stojí jeho SpaceX desítky miliónů dolarů měsíčně, což si firma dál nemůže dovolit. Z Ukrajiny ale zaznívají velmi zmatené reakce. Ukrajinci totiž tvrdí, že naprostou většinu, ne-li všechny poskytnuté Starlink terminály, financovaly buď zahraniční vlády, sama Ukrajina, nebo různé mezinárodní sbírky, a že si Ukrajinci zároveň platí regulérní komerční předplatné internetového připojení od Muskovy firmy, tedy že nic zadarmo nedostávají. Informace o Muskově výzvě se navíc objevuje jen pár dní poté, co Musk na Twitteru v několika příspěvcích vyzýval k tomu, aby se Ukrajina vzdala Krymu a Donbasu výměnou za mír, a také několik týdnů poté, co si Musk podle vlastních slov volal s diktátorem Putinem. Náhoda? Doufám, že ano. A ještě [tohle](https://www.facebook.com/tomak.dvorak/posts/pfbid035A4DnxyGWBxxFERc7WS5ZnPBdN2EcLUepaW4MYeRN9W6GcLtFr55GtjVr4treZr2l)"
+        detail: |
+          - Lukašenko ohlásil začátek „protiteroristické operace“. Důvodem má být podle něj hrozba útoku na Bělorusko od okolních zemí. Pravdu má, že s každým dalším krokem, kterým zvyšuje svou účast v ruské invazi, taková hrozba roste. Běloruský deník navíc tvrdí, že v zemi začala skrytá mobilizace, primárně na menším městech a vesnicích. Někteří experti se obávají, že by Lukašenko mohl vytvořit provokaci na hranicích s Ukrajinou a následně se pokusit obsadit některé regionální město na severozápadě Ukrajiny, aby ohrozil dodávky zbraní přes západní hranici. Ukrajina nicméně s takovým scénářem dávno počítá a měsíce se na něj intenzivně připravuje. 
+          - Západní vojenští experti tvrdí, že k osvobození Chersonu a severního břehu Chersonské oblasti by mohlo dojít už za pouhý týden. To jsou dokonce ještě optimističtější prognózy, než s jakými veřejně pracuje ukrajinský Generální štáb, který dříve uvedl, že osvobození celé oblasti se odhaduje na konec října. Kolaboranti v Chersonu už mezitím vyzvali obyvatele, aby se evakuovali.
+          - V Belgorodském režimu dočasně nejezdí vlaky. Rusové tvrdí, že důvodem je pád raket, které sestřelila protivzdušná obrana, na kolejiště a následné poškození trati. Mnohem pravděpodobnější ale je, že právě trať byla cílem a rakety splnily svůj účel. 
+          - Do Ruska se začínají vracet ostatky branců, kteří vzešli z první vlny mobilizace. Ukrajinci potvrzují, že mobilizované jednotky utrpěly v prvních bojích značné ztráty. Zajímavé bude pozorovat, jak na to bude reagovat ruská společnost. 
+          - Španělsko pošle Ukrajině 4 systémy protivzdušné obrany Hawk. Státy NATO navíc společně poskytnout několik stovek rušiček dronů, které by měly být odpovědí na drony íránské výroby. 
+          - Rusko představilo v OSN své požadavky. Pokud je evropské země nesplní, Rusko vyhrožuje, že odstoupí z dohody o exportu ukrajinského obilí přes Černé moře. 
+          - 14 zemí NATO a Finsko se dohodly na vytvoření sítě společné protivzdušné obrany. European Sky Shield Initiative tak posílí obranu celého evropského kontinentu. 
+          - Podle okupantů Krymu bude Kerčský most opravený do 1. července 2023. Ještě před pár dny přitom tvrdili, že most se podaří opravit během pouhého měsíce. 
+          - Prezident Zelenský varoval, že Rusko se možná pokusí poničit ukrajinské plynovody, aby donutilo evropské státy urychleně spustit Nord Stream 2. 
+          -Jedenáctiletý chlapec, kterého záchranáři vyprostili po ruském útoku z trosek budovy v Mykolajivu, zemřel na následky zranění v nemocnici. 
+          - Ruské rakety včera zasáhly také vojenskou základnu ve Lvovské oblasti. Incident se prý ale obešel bez obětí na životech. 
+          - Maďarsko a Turecko jsou poslední dvě země, které ještě neschválily vstup Finska a Švédska do NATO. 
+          - Parlamentní shromáždění Rady Evropy přijalo rezoluci, která označuje Rusko za teroristický režim. 
+          - Rusko přesunulo jedenáct svých strategických bombardérů Tu-160 a Tu-95 k norským hranicím. 
+          - Podle Danilova už Rusko vypálilo na Ukrajinu tři čtvrtiny veškerých svých naváděných raket. 
+          - Dalších 20 ukrajinských vojáků, gardistů a námořníků se vrátilo z Ruského zajetí. 
+          - Ukrajinci přišli o dvě stíhačky u Poltavy. Důvod jejich pádu není zatím jasný. 
+          - Srí Lanka nebude přijímat ruské platební karty Mir kvůli obavám ze sankcí. 
+          - Portugalsko poskytne Ukrajině šest hasičských helikoptér sovětské výroby. 
+          - Ukrajinci postupují ze tří směrů na okupované Svatove.
+        videa: |
+          - Další se přišli vzdát
+          https://twitter.com/Militarylandnet/status/1580555194659921922
+          - Ukrajinské vozidlo dvakrát přežilo svou smrt
+          https://twitter.com/Blue_Sauron/status/1580529838019878913
+          - Rusové prchají z pozic kolem zákopů Kadyrovců
+          https://twitter.com/UkrainianNews24/status/1580586945792839680
+          - Traktorová brigáda obstarává provoz tramvají během blackoutu
+          https://twitter.com/fabushka_/status/1580562134832123906
+          - Sestřih od ukrajinských SOF
+          https://twitter.com/UkrainianNews24/status/1580854229064830976
+          - Ruská technika jede zpátky domů
+          https://twitter.com/nexta_tv/status/1580862238084464642
+          - Rusové trefili maketu Buku – dobrá práce, kluci!
+          https://twitter.com/200_zoka/status/1580825392843104256
+          - Demobilizace pokračuje podle plánu
+          https://twitter.com/UkrainianNews24/status/1580871932655697921
+          - Zasažené muniční depo v ruské Belgorodské oblasti
+          https://twitter.com/nexta_tv/status/1580811919744962560
+          - Dron si hraje na honěnou s ruských vojákem
+          https://twitter.com/UkrainianNews24/status/1580868281077940226
+          - Ze života mobilizovaných
+          https://twitter.com/VolodyaTretyak/status/1580683179177824256
+          - Výcvik dobrovolníků v Poltavě
+          https://twitter.com/UkrainianNews24/status/1580854744322830336
+          - Orichiv, dáreček od Ruska
+          https://twitter.com/UkrainianNews24/status/1580842821212569601
+          - Redukování Tik Tok batalionu (citlivé!)
+          https://twitter.com/nevedimka123/status/1580845300905783296
+          - O chloupek později...
+          https://twitter.com/UkrainianNews24/status/1580658944892018688
+          - 24 dětí z Ukrajiny dali Rusové k adopci 3 600 km od domova
+          https://twitter.com/O_Ostapchuk/status/1580636236212936704
+          - Bilohirka u Beryslavi
+          https://twitter.com/UkrainianNews24/status/1580653423808372736
+          - Velmi rychlá demobilizace na východě (citlivé!)
+          https://twitter.com/herooftheday100/status/1580864709481598977
+          - Ruský obrněnec přejel vlastního vojáka na přehlídce
+          https://twitter.com/UkrainianNews24/status/1580624493688459264
+          - Ruská raketa v Belgorodu opět selhala
+          https://twitter.com/typicaldonetsk/status/1580633450679537665
+          - Potrava nejen pro kanóny (velmi citlivé!!)
+          https://twitter.com/herooftheday100/status/1580867579308298241
+          - Na Cherson!
+          https://twitter.com/UkrainianNews24/status/1580623007747227650
+          - V okupované části Záporoží vytvořili Rusové nový prapor
+          https://twitter.com/Militarylandnet/status/1580814915379802112
+          - Na frontě (citlivé!)
+          https://twitter.com/Milan8662/status/1580642911343226881
+          - Další zajatci do fondu
+          https://twitter.com/herooftheday100/status/1580560745296601088
       - title: "Čtvrtek"
         year: "13. října 2022"
         image: assets/img/timeline/2022-10-13.jpg
