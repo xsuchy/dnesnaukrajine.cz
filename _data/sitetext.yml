@@ -35,6 +35,56 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "16. října 2022"
+        image: assets/img/timeline/2022-10-16.jpg
+        desc: "Ukrajinské OSINT kanály mluví o začátku další fáze ofenzivy ve směru na Cherson. Ruské kanály informaci potvrzují, nicméně liší se informace o směru a rozsahu útoku, což souvisí i s tím, že ukrajinský Generální štáb opět požádal všechny zpravodaje včetně těch nezávislých, aby nezveřejňovali žádné informace před tím, než je ukrajinské velení autorizuje, a neohrozili tak probíhající pozemní akce. Jen před pár dny zněly éterem názory expertů, že osvobození Chersonu je na spadnutí. Je to, co nyní vidíme, začátek onoho? To ukáží příští dny. Držme Ukrajincům palce. A teď zbytek [novinek](https://www.facebook.com/tomak.dvorak/posts/pfbid05FQno3frNrxLLQqSdfakXALYZGdcBUuDmW8NKcS7JKwctqEZAzDE8mpXQmGSqWVrl)"
+        detail: |
+          - Podle početných videí přesouvá Rusko a Bělorusko další techniku a živou sílu hned do několika regionů u hranice s Ukrajinou. Na jednom z videí je konvoj běloruských salvových raketometů jen 10 km od ukrajinských hranic. Počet a složení nicméně neodpovídá invazní armádě. Spíše vše naznačuje, že Lukašenko umožní Rusům pálit na ukrajinská města z běloruského území a bude se snažit vyprovokovat Ukrajinu k odvetné palbě, kterou by pak mohl ospravedlnit vstup Běloruska do války. 
+          - Ruská protivzdušná obrana zasahovala proti vzdušným cílům v Sevastopolu, Belgorodu, Nevofedorivce, Saki a Jevpatoriji. Ukrajinské rakety (pravděpodobně typu HARM vypálené z letadel)  přesto zasáhly systémy protivzdušné obrany na vojenském letišti u ruského Belgorodu.
+          - Norsko zadrželo padesátiletého ruského občana s několika drony a 3 různými pasy v zavazadle, který měl podle vyšetřovatelů plánovat špionáž a potenciálně i sabotáž norské plynové infrastruktury. 
+          - Podle ukrajinského Ministerstva kultury zabili okupanti vedoucího chersonské opery. Rusové ho zastřelili skrz dveře poté, co se dožadovali vstupu do jeho bytu, a on jim odmítl otevřít. 
+          - Na cvičišti ruských branců u Belgorodu došlo k přestřelce, kterou měli rozpoutat dva Tádžikové. 11 branců bylo zabito a 15 zraněno. Oba střelci při přestřelce také zemřeli. 
+          - Francouzskou firmu TotalEnergies vyšetřuje protiteroristická jednotka poté, co se objevily informace, že dodala palivo do ruských tryskových letounů. 
+          - Írán údajně připravuje rakety Fateh-110 a rakety Zolfaghar k přesunu do Ruska. Informaci přinesl Washington post s odkazem na zdroje v americké armádě. 
+          - Kvůli válce bude čtvrtina Ukrajinců ještě tento rok žít pod hranicí chudoby. V příštím roce by se číslo mohlo dokonce zdvojnásobit. 
+          - Na sítích se objevila videa, na kterých ruští vojáci střílí do vlastních kolegů, kteří se rozhodli složit zbraně. 
+          - Putin na summitu zemí střední Asie otevřeně vyslovil podporu Tálibánu v boji proti Západu. 
+          - Elon Musk oznámil, že jeho společnost bude dál financovat Starlink nad Ukrajinou. 
+          - Protestující ve Varšavě uspořádali „referendum“ o připojení ruské ambasády k městu. 
+          - Odměna na Girkinovu hlavu narostla díky crowdfundingu na více než 100 000 dolarů. 
+          - Německo poskytlo Ukrajině 16 mostních tanků a 10 pontonových mostů.
+          - Kanada tlačí na vyloučení Ruska ze všech mezinárodních organizací. 
+          - Čína vyzvala své občany na Ukrajině, aby se ze země evakuovali. 
+          - Ukrajinci zasáhli budovu okupační správy v Doněcku. 
+          - Francie vycvičí další 2 000 ukrajinských vojáků.
+        videa: |
+          - „Neprůstřelný“ plát z ruské výstroje
+          https://twitter.com/nexta_tv/status/1581585910952390656
+          - Branec si pustil pusu na špacír před Kazachy
+          https://twitter.com/wartranslated/status/1581611523138408449
+          - Běloruský konvoj u ukrajinských hranic
+          https://twitter.com/markito0171/status/1581584603751780353
+          - Ukrajinský konvoj
+          https://twitter.com/UkrainianNews24/status/1581609427928772609
+          - Další zajatci
+          https://twitter.com/Milan8662/status/1581579060076900352
+          - Zajatci v přestrojení
+          https://twitter.com/TpyxaNews/status/1581332551461138433
+          - Přepad zákopu nečekanou formou
+          https://twitter.com/nevedimka123/status/1581345571368972288
+          - Ukrajinské dělostřelectvo
+          https://twitter.com/UkrainianNews24/status/1581585541136801794
+          - Čtyři ukrajinské stíhačky během mise
+          https://twitter.com/EuromaidanPress/status/1581514020271652865
+          - Ruský ešelon v Bělorusku
+          https://twitter.com/nexta_tv/status/1581600134219333632
+          - Dobré ráno z Ukrajiny
+          https://twitter.com/UkrainianNews24/status/1581608918018424832
+          - Ukrajinský Burevij
+          https://twitter.com/EuromaidanPress/status/1581374608879456256
+          - Zásah v Belgorodu
+          https://twitter.com/nexta_tv/status/1581565849789661184 
       - title: "Sobota"
         year: "15. října 2022"
         image: assets/img/timeline/2022-10-15.jpg
