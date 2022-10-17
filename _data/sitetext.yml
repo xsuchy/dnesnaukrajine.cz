@@ -35,6 +35,61 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "17. října 2022"
+        image: assets/img/timeline/2022-10-17.jpg
+        desc: "Světoví politici neustále prohlašují, že svými kroky nechtějí rozpoutat další světovou válku, ale… copak v ní dávno nejsme? Evropský stát válčí s eurasijskou velmocí za pomoci sjednocené Evropy, Severní Ameriky a Austrálie, zatímco Rusko dostává pomoc z blízkého východu, masíruje proti-západní propagandou Africké státy a financuje válku díky zvýšenému objemu obchodu s Indií a Čínou, které se na válce snaží diplomaticky i ekonomicky vydělat. A nyní zní hlasy z izraelské vlády, že by měl Izrael začít Ukrajinu podporovat v reakci na íránskou pomoc Rusku. A to jsem ani nezmínil, že Rusko s námi prakticky válčí nepřetržitě od rozpadu sovětského svazu, jen na poli propagandy a rozkladu demokracie v západních zemích. Možná si to nechceme přiznat, ale ve válce jsme. A měli bychom si sakra dát pozor na to, aby stát, co nás označil za nepřátele, nevyhrál. Naštěstí to vypadá, že se mu to nepodaří. Však se [podívejte](https://www.facebook.com/tomak.dvorak/posts/pfbid05chysoV1FP999Pd5CHX1QCoLUqoWB2KVBvAtzXV6p2wAgiZbbMjJaa3GomdHdCZDl)"
+        detail: |
+          - Na ruském Telegramu se objevilo očité svědectví člověka, který přežil střelbu na cvičišti u Belgorodu jen se zraněním. Incident prý začal tak, že tři vojáci původem z Dagestánu, Ázerbájdžánu a Adygejska chtěli sepsat svou rezignaci s odůvodněním, že „to není jejich válka“, na což jim podplukovník Lapin (syn generála Alexandra Lapina) odvětil, že na Ukrajině je „svatá válka“. To ale vytočilo dva Tádžiky, kteří Lapinovi oponovali, že svatá válka je „boj muslimů proti bezvěrcům“. Lapin pak údajně prohlásil, že „Alláh je nejspíš zbabělec, když jim nedovolí bojovat za zemi, které složili vojenskou přísahu“, což šokovalo značnou část přítomných, protože mezi ruskými národy je nemálo muslimů (Baškirové, Tataři, Tádžikové…). Konflikt se potom naoko uklidnil, ale za hodinu a půl následovalo cvičení na střelnici, při kterém tři Tádžikové nejprve obrátili zbraň proti Lapinovi a na místě ho zabili, a následně postřelili údajně až 30 lidí, než dva z Tádžiků důstojník, který vydával munici, zastřelil služební pistolí. Třetí útočník je na útěku.  
+          - Rusové opět napadli ukrajinská města pomocí desítek kamikadze dronů íránské výroby. O více než polovinu se postarala protivzdušná obrana, spousta jich přesto dopadla na objekty energetické a dopravní infrastruktury, ale především na obytné domy. Jen samotný Kyjev zasáhla pětice dronů, další dopadli na Sumy, Mykolajiv nebo Dnipro. Útoky si vyžádaly nejméně šest obětí, další lidé jsou stále pod troskami. 
+          - Průměrná míra selhání íránských dronů je údajně nyní na 81 %. Část jich sestřelí protivzdušná obrana, části se daří rušit signál, část selže následkem vadné elektroniky a zbytek sice dopadne, ale málokdy zasáhne pravděpodobný cíl. 
+          - Po útoky drony na Mykolajiv se do ulic města rozlil slunečnicový olej. Rusové totiž poškodili dvě nádrže terminálu, který pojímá 17 % veškeré světové produkce slunečnicového oleje. 
+          - Rusové poničili dělostřeleckou palbou poslední vedení vysokého napětí, které spojovalo záporožskou jadernou elektrárnu s územím kontrolovaným Ukrajinou.
+          - Ruský nejvyšší státní zástupce dal zablokovat přístup na stránku „Chci žít“ z ruských IP adres. Stránka je určená ruským vojákům, kteří se chtějí dobrovolně vzdát. 
+          - Maďarsko je jedinou zemí, která nepodpořila iniciativu na výcvik ukrajinských vojáků v zemích EU a ani se nebude výcviku účastnit. 
+          - Baltské země společně vyzvaly státy Evropské unie k vytvoření speciálního tribunálu, který by soudil ruské válečné zločiny. 
+          - Okupanti začali evakuovat své úřady a instituce v Chersonu a přesouvat jejich personál a majetek na Krym. 
+          - Rusko pohrozilo, že pokud EU zavede zastropování cen ruského plynu, vypnou ho Rusové úplně. 
+          - Většina energetické infrastruktury Ukrajiny je navzdory útokům opět funkční. 
+          - Ukrajinští vojáci se v Británii učí ovládat britské podmořské drony. 
+          - Francie poskytne Ukrajině své protivzdušné systémy Crotale.
+        videa: |
+          - Foltýn trefně o lidech šířící ruské narativy
+          https://twitter.com/OndrejNovacek/status/1581737360840044545
+          - Ruský velitel nadává podřízeným kvůli „přesnosti“ palby
+          https://twitter.com/wartranslated/status/1581757207024017408
+          - Rusové opět použili zápalnou munici nad Bachmutem
+          https://twitter.com/UkrainianNews24/status/1581680413814456321
+          - Ruský tank po zásahu nepřestal kroužit
+          https://twitter.com/UAWeapons/status/1581721575597883392
+          - Následky ruského útoku na Kyjev
+          https://twitter.com/nexta_tv/status/1581921706767134721
+          - Policisté v Kyjevě se pokouší sestřelil íránský dron
+          https://twitter.com/nexta_tv/status/1581969924620066816
+          - Dětské hřiště v Kyjevě
+          https://twitter.com/EuromaidanPress/status/1581719996249432064
+          - Kyjev po ruském útoku
+          https://twitter.com/nexta_tv/status/1581931288441032704
+          - Reportáž přímo během útoku
+          https://twitter.com/ronzheimer/status/1581934260914618370
+          - Český Vampýr
+          https://twitter.com/UkrainianNews24/status/1581788868004937729
+          - Příliš blízko!
+          https://twitter.com/OleksandrKolym/status/1581649708589936640
+          - Chersonská fronta, ruská technika
+          https://twitter.com/herooftheday100/status/1581985118595715072
+          - Ruský útok překazilo ukrajinské dělostřelectvo
+          https://twitter.com/UkrainianNews24/status/1581984609218482176
+          - Morálka drží
+          https://twitter.com/TpyxaNews/status/1581631949860265984
+          - Dron doněckých separatistů
+          https://twitter.com/200_zoka/status/1581749311947214848
+          - Kolečko se pořád točí
+          https://twitter.com/EuromaidanPress/status/1581782288286613504
+          - Cvičení s miniponorkami v Británii
+          https://twitter.com/nexta_tv/status/1581660032336203777
+          - Orša v Bělorusku
+          https://twitter.com/Tendar/status/1581944767625056256 
       - title: "Neděle"
         year: "16. října 2022"
         image: assets/img/timeline/2022-10-16.jpg
