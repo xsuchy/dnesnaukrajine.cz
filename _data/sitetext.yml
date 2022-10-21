@@ -35,6 +35,77 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "21. října 2022"
+        image: assets/img/timeline/2022-10-21.jpg
+        desc: "Uvězněný Alexej Navalný čelí dalším obviněním. Vyšetřovatelé mu přičítají údajné výzvy k terorismu a násilí, financování terorismu a aktivity vedoucí k rehabilitaci nacismu. Všeho se měl podle vyšetřovatelů dopustit zevnitř vězení. Navalný to sarkasticky komentoval, že je zřejmě kriminální génius a Moriarty se může jít klouzat, protože zatímco všichni věřili, že trčí na samotce, tak aktivně páchal trestnou činnost, která naštěstí vyšetřovatelům neunikla. Říká se, že spravedlnost je slepá. Ale v Rusku je navíc ještě hluchá, němá a blbá. A teď [novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid08RyiLy1aMmqhx8UDMWQC7hTVNwfkPWLJDBcicb4XQwySSZjBur5APovshyPmNanRl)"
+        detail: |
+          - Rusko i Írán stále popírají, že by na Ukrajině útočily íránské drony. Zaměstnanec ruského ministerstva obrany Ruslan Puchov ale tuhle báchorku nechtěně zpochybnil v živém pořadu ruské televize, když si neuvědomil, že mikrofony jsou dávno zapnuté a poprosil moderátory aby nepoužívali spojení „íránské drony“, protože „i když všichni ví, že jsou íránské, vláda to zatím oficiálně nepřiznala“. 
+          - Městský soud v Praze zatím nepravomocně osvobodil Rusy Alexandra Franchettiho. Franchetti v roce 2014 trvale pobýval v Česku, ale během událostí na Krymu odcestoval přes Voroněž na okupovaný Krym a založil ozbrojenou skupinu Sevastopolská obrana, která se podílela na diverzních akcích a teroru vůči ukrajinskému obyvatelstvu. Soud Rusa osvobodil pro nedostatek důkazů. 
+          - Rusové v okupovaném Skadovsku oběsili 56letou Teťanu Mudrenko nedaleko budovy soudu. Okupanti ji měli spolu s manželem unést 7. října kvůli tomu, že byla otevřeně pro-ukrajinská. Manžela Rusové propustili před pár dny. Teťany oběšené tělo pak objevili kousek od městského soudu kolemjdoucí.
+          - Na severu Německa vyhořela budova hostelu, který ubytovával ukrajinské uprchlíky. Podle policie se nejspíš jedná o žhářství. Policisté navíc u budovy v den, kdy shořela, už dříve zasahovali. Na její zdi totiž neznámý pachatel namaloval svastiku. 
+          - Objevily se informace, že 29. září ruská stíhačka vypálila raketu na britský průzkumný letoun v mezinárodním vzdušném prostoru nad Černým mořem. Rusové tehdy incident omluvili technickou závadou. K zásahu naštěstí nedošlo. 
+          - Prezident Zelenský informoval, že ruská armáda podminovala přehradu v Nové Kachovce. Pokud by nálože odpálili, v záplavové oblasti se ocitne odhadem 80 obcí včetně samotného Chersonu. 
+          - Při včerejším ukrajinském raketovém útoku na Antonivský most u Chersonu zemřeli dva zaměstnanci TV Tavrija, kanálu, který vytvořili okupanti, aby vysílal ruskou propagandu.
+          - Amnesty International označila ruské ostřelování civilní infrastruktury s cílem demoralizovat ukrajinské civilní obyvatelstvo za válečný zločin. 
+          - Ruský premiér Mišustin nařídil přesunout 1 bilión rublů z fondu sociálních dávek do státní rozpočtu, aby se přikryl letošní deficit státního rozpočtu. 
+          - Po vyhlášení stanného práva se tvoří na ruské hranici dlouhé fronty aut z muži, kteří prchají hlouběji do Ruska v obavě před nucenou mobilizací. 
+          - Téměř 10 000 mobilizovaných ruských mužů se muselo vrátit domů z různých rodinných, zdravotních a jiných důvodů. 
+          - Rusové údajně opouštějí některá města v Záporožské oblasti a na odchodu rabují ukrajinské domy od veškerých cenností. 
+          - Petrohradský soud rozhodl, že obléhání Leningradu během druhé světové války bylo genocidou ruského obyvatelstva. 
+          - Prezident Zelenský nyní tvrdí, že explozi na Kerčském mostě nenařídil ani on, ani „nikdo z Ukrajiny, jak je mu známo“. 
+          - Podle USA prozkoumává Rusko možnosti dodávek zbraní a munice od Severní Koreje. 
+          - U Bachmutu probíhají těžké boje s velkými ztrátami na obou stranách. 
+          - Český crowdfundovaný tank Tomáš míří na Ukrajinu. 
+        videa: |
+          - Dron zachytil rabující Rusy vynášející z domu pračku
+          https://twitter.com/nexta_tv/status/1583345023395180545
+          - Putin na zinscenované obhlídce výstroje branců
+          https://twitter.com/nexta_tv/status/1583142198559662080
+          - Jo, fakt lítají takhle nízko
+          https://twitter.com/UkrainianNews24/status/1583129066764660736
+          - Neúspěšný ukrajinský útok u Chersonu
+          https://twitter.com/200_zoka/status/1583377492215144448
+          - Ukrajinský Su-27
+          https://twitter.com/UkrainianNews24/status/1583411572990308354
+          - Wagnerovec vyznamenává bývalého vězně
+          https://twitter.com/RALee85/status/1578447864057192448
+          - Rusům už zase hoří skladiště
+          https://twitter.com/nexta_tv/status/1583352627512758272
+          - Sestřelení ruské rakety
+          https://twitter.com/UkrainianNews24/status/1583375645622829056
+          - MANPAD minul dron Shahed
+          https://twitter.com/200_zoka/status/1583163480840245248
+          - Antonivský most
+          https://twitter.com/UkrainianNews24/status/1583409851933556736
+          - Rusové se stahují od Chersonu na pontonech
+          https://twitter.com/nexta_tv/status/1583216429620682753
+          - Dron navádí pěchotu a pomáhá zaměřit palbu
+          https://twitter.com/UkrainianNews24/status/1583365102237253632
+          - Kadyrovci předstírají, že někoho zajali
+          https://twitter.com/200_zoka/status/1583093436928102402
+          - Britský Wolfhound
+          https://twitter.com/UkrainianNews24/status/1583376110150365184
+          - Ruský tank T-90M
+          https://twitter.com/RALee85/status/1583385844005511168
+          - Lukašenko vyzval lidi, aby se vzdali kávy kvůli rostoucí ceně
+          https://twitter.com/nexta_tv/status/1583111160882032640
+          - Ukrajinský S-300 při práci
+          https://twitter.com/UkrainianNews24/status/1583366201610076161
+          - Po ukrajinském útoku (citlivé!)
+          https://twitter.com/herooftheday10/status/1583114210850271233
+          - Wagnerovec testuje ukrajinskou výstroj
+          https://twitter.com/wartranslated/status/1583380070197972992
+          - Český Vampýr
+          https://twitter.com/UkrainianNews24/status/1583165409171161088
+          - Pořádné kvéry
+          https://twitter.com/nevedimka123/status/1583343557879832576
+          - Ruské polystyrenové zábrany 😃
+          https://twitter.com/ItsArtoir/status/1583135634411380736
+          - Ruský voják během volna
+          https://twitter.com/UkrainianNews24/status/1583093737621979137
+          - Rakety Hellfire na Ukrajině
+          https://twitter.com/UAWeapons/status/1583116088162029568
       - title: "Čtvrtek"
         year: "20. října 2022"
         image: assets/img/timeline/2022-10-20.jpg
