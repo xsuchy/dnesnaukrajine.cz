@@ -35,6 +35,79 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "23. října 2022"
+        image: assets/img/timeline/2022-10-23.jpg
+        desc: "Bývaly týdny, kdy každá jedna fotka nebo video se zničenou ruskou technikou vyvolávaly malou senzaci. Bývaly to ty samé týdny, kdy jsme ještě všichni tak nějak rezignovaně akceptovali, že Rusko je mocná moderní armáda, která si Ukrajince každým dnem namaže na chleba. Dneska jsme spíš zklamaní, když těch zničených tanků není alespoň dvacet denně. Ruská armáda se ukázala být… ruskou. Prolezlou korupcí, neschopnou, nekoordinovanou a vedenou protekčními kariéristy místo skutečných expertů. Díkybohu za to! Jinak by i [ty zprávy](https://www.facebook.com/tomak.dvorak/posts/pfbid02HDzNsueDvyr2GsAgvUptKnkfdzXoa7zPyTHWw8z4g13BTy6qfBDuZmqgoJYXZyTsl) vypadly jinak?"
+        detail: |
+          - Ukrajinci zadrželi v Záporoží jednoho z nejbohatších mužů Ukrajiny, 83letého Vjačeslava Boguslajeva. Vyšetřovatelé ho viní z kolaborace s ruskými okupanty. Jeho firma Motor Sič měla dodat Rusům letecké motory použité následně k opravě ruských bojových helikoptér. 
+          - Francouzská média informují o tom, že došlo k přerušení tří optických podmořských kabelů ve středozemním moři, což vedlo k problémy s připojením po celém světě. Připojení bylo také úplně přerušeno s britskými Shetlandy. Za sabotáží by mohly být ruské ponorky. 
+          - V ruském Permu vypuknul požár následovaný explozemi v továrně, která vyrábí nálože do ruských salvových raketometů. Dva dělníci zemřeli, další byli zraněni. Továrna kvůli potřebám ruské armády fungovala poslední měsíci na třísměnný provoz. 
+          - Rusové nejspíše odpojili veškeré přípojky v Chersonu na ruské internetové sítě. Je to další krok, který ukazuje na úplnou evakuaci města. Místní také mluví o masivním rabování ze strany ruské armády podél celého severního břehu Dněpru. 
+          - Podle vojenských analytiků se Rusové připravují na ústup v Luhanské oblasti, a proto budují dříve zmíněná opevnění, kterým se začalo říkat „Wagnerova linie“. Jejím cílem je nejspíš zabránit stejnému scénáři, jaký Ukrajinci předvedli u Charkova. 
+          - Rusové zasáhli infrastrukturu v devíti regionech Ukrajiny pomocí čtyř desítek raket a 16 kamikadze dronů. Část jich sestřelila protivzdušná obrana. Jedna z raket údajně úplně zničila energetický závod v Lutsku. 
+          - Rusko údajně začalo používat rakety Kh-101 vyrobené v druhém kvartálu letošního roku, což by skutečně ukazovalo na to, že Rusům dochází jejich zásoby. 
+          - Rusko shromáždilo až 240 tankerů s nejasnými vlastníky, aby se pokusilo obejít západní sankce a dodávalo dál ropu na světový trh. 
+          - Rusové začali vypouštět vodu z přehrady v Nové Kachovce, prý proto, aby se zmenšil rozsah škod, pokud by došlo ke zničení hráze. 
+          - Státy G7 vyzvaly Rusko, aby vrátilo plnou kontrolu nad záporožskou jadernou elektrárnou Ukrajině. 
+          - V Černém moři je nyní nejméně 6 ruských raketových lodí s celkem 16 raketami Kalibr. 
+          - Podle Generálního štábu opouštějí Rusové některé obce na Chersonské frontě. 
+          - Praha poskytla Ukrajině 22 tramvají Tatra a 6 linkových městských autobusů. 
+          - V ruském Irkutsku se zřítil další stíhací letoun, pravděpodobně Su-30. 
+          - Ukrajina zakázala činnost 12 pro-ruských politických stran.
+        videa: |
+          - Pilot ruského Su-25 natočil vlastní sestřelení
+          https://twitter.com/Tendar/status/1584128723166826496
+          - Ukrajinského tankistu zachránilo víko kulometu + akce
+          https://twitter.com/Blue_Sauron/status/1583874684445040643
+          - Akce s popiskami
+          https://twitter.com/DemeryUK/status/1584011464167202816
+          - Gruzínská legie při útoku na ruské pozice
+          https://twitter.com/UkrainianNews24/status/1584129353193263105
+          - Pád letadla v Jejsku
+          https://twitter.com/nexta_tv/status/1584096079771226115
+          - Pád letadla v Irkutsku
+          https://twitter.com/Tendar/status/1584136333060378625
+          - Jiný úhel
+          https://twitter.com/UkrainianNews24/status/1584141781678977024
+          - Co všechno může zaznít v ruské televizi
+          https://twitter.com/JuliaDavisNews/status/1584054018145685504
+          - Přepad ruských pozic
+          https://twitter.com/nevedimka123/status/1584094225901137921
+          - Pohřeb hrdinů
+          https://twitter.com/nexta_tv/status/1583926154154549249
+          - Sjíždění řeky po ukrajinsku
+          https://twitter.com/UkrainianNews24/status/1584140574248308736
+          - Ruské těžké plamenomety v Luhansku
+          https://twitter.com/200_zoka/status/1584092671043567616
+          - Mobilizovaní Rusové se učí sekat trávu lopatou
+          https://twitter.com/nexta_tv/status/1583922861802082304
+          - První pomoc na frontě
+          https://twitter.com/TpyxaNews/status/1583931587606872064
+          - ZSU
+          https://twitter.com/UkrainianNews24/status/1584125897762041856
+          - Další zářez pro snajpra
+          https://twitter.com/herooftheday10/status/1584090192046358528
+          - Opravený most v Sumské oblasti
+          https://twitter.com/EuromaidanPress/status/1584009211738001409
+          - Zastavený ruský pokus o postup na Bachmut
+          https://twitter.com/Tendar/status/1584133658377474049
+          - Azov Dnipro
+          https://twitter.com/UkrainianNews24/status/1583890275315113984
+          - Po ukrajinském útoku (velmi citlivé!)
+          https://twitter.com/herooftheday10/status/1583849240522293248
+          - Trofejní houfnice
+          https://twitter.com/nexta_tv/status/1583868266090352641
+          - Dron sleduje zničení ruského BMP
+          https://twitter.com/Blue_Sauron/status/1583830753770885123
+          - Ruské vozidlo si podala mina
+          https://twitter.com/Blue_Sauron/status/1583888908383059971
+          - Ukrajinci pod palbou
+          https://twitter.com/UkrainianNews24/status/1584130833040183298
+          - Ruská PVO šla na chuj
+          https://twitter.com/Tendar/status/1583923422136258560
+          - Ruský dron shodil granát na ukrajinské posily
+          https://twitter.com/chris__759/status/1583828327449923587
       - title: "Sobota"
         year: "22. října 2022"
         image: assets/img/timeline/2022-10-22.jpg
