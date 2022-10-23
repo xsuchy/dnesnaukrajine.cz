@@ -1,6 +1,9 @@
 nav:
   - title: "Dnes se stalo"
     section: about
+
+  - title: "Bitva o Kyjev"
+    section: bitva
     
   - title: "Kontakt"
     section: contact
