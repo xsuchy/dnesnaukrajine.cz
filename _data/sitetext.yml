@@ -35,6 +35,74 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý" 
+        year: "25. října 2022"
+        image: assets/img/timeline/2022-10-25.jpg
+        desc: "Před pár týdny jsem na Twitteru přestal sledovat účet jednoho dobrovolníka. Od začátku války sice přidával poměrně cenné informace a sem tam i nějaké video přímo z bojových akcí nebo cvičení, ale v čase začal být čím dál víc cynický a defétistický a jeho aktualizace byly plné blíže nevysvětlených obvinění ukrajinské armády z neschopnosti, korupce, a dokonce i z různých zločinů. Jelikož se ale jeho obvinění absolutně neshodovala s tím, co publikovaly ostatní kanály, několikrát jsem se s ním „pohádal“, načež jsem ho přestal sledovat úplně. Sledovalo ho tehdy ale okolo 6,5 tisíce dalších lidí, kteří ho v diskusi urputně obhajovali a psali, že se nemám pouštět do podobné diskuse, když znám válku jenom z gauče. A měli vlastně pravdu. Na Ukrajině jsem nikdy nebyl (byť se to možná brzy změní) a skutečně jen kompiluju informace „z gauče“. Jenže díky tomu, že to dělám nepřetržitě osm měsíců, můžu mít paradoxně lepší a komplexnější informace než někdo, kdo zná pár kilometrů „své“ fronty. Nicméně mi ta diskuse dlouho vrtala hlavou a musel jsem nutně přemýšlet nad tím, že jsem možná překročil hranu arogance, když se dokážu hádat s někým, kdo TAM je. No... jenže včera vyšlo najevo, že ten člověk neexistuje. Přebíral obsah z jiných kanálů a videa z akcí sprostě vykrádal z TikToku dobrovolníka s přezdívkou „Čech“, který skutečně na Ukrajině bojuje, ale nemá účet na Twitteru. Twitter účet byl tedy klasický způsob ruské propagandy, jak nabourávat zdroje: Vytvoří se reálně vypadající persona, která je nejdřív silně pro-ukrajinská, aby získala sledující, ale poté postupně začne naleptávat lidem jejich představy a postoje. A nemusí to být ani vymyšlený člověk. Podobný příklad může být třeba „expert“ na bezpečnost Andor Šándor. Zkrátka se nikdy nespokojte s tím, co tvrdí jeden člověk. Jedině znalost kontextu vás spolehlivě ochrání před prvky informační války. A přesně proto dělám tyhle [přehledy](https://www.facebook.com/tomak.dvorak/posts/pfbid0jyedYLjbA8icN7ogTCpJnRfJuKTp1kNCRMCv1t7zPQnAHSnfaiXJt1XM5ripEBCMl)"
+        detail: |
+          - Mluvčí ruského ministerstva zahraničí Zacharová a také propagandistka Simonjan se postavily za ředitele vysílání kanálu Russia Today Krasovského, který byl vyhozen poté, co v televizním pořadu vyzýval k topení a pálení ukrajinských dětí. 
+          - Evropská unie je připravená poskytovat Ukrajině financování ve výši 1,5 miliardy € měsíčně na pokrytí výpadků v ukrajinském rozpočtu. Ukrajina nyní okolo 60 % běžného státního rozpočtu alokuje na válečné výdaje. 
+          - 86 % Ukrajinců podle průzkumu podporuje válečné úsilí bez ohledu na to, že to znamená další dopady raket a granátů na civilní oblasti. Ve východních částech Ukrajiny zastává stejný postoj stále 69 % lidí. 
+          - Podle fotek a videí zasadili Ukrajinci během lokálního protiútoku masivní ztráty ruským Wagnerovcům u Bachmutu a vytlačili jejich jednotky několik kilometrů daleko od předměstí. 
+          - Ukrajinské rakety zasáhly základnu Kadyrovců v Melitopolu v době, kdy se v ní ubytovaly čerstvé posily z Čečenska. Místní zdroje mluví až o 40 mrtvých a desítkách raněných. 
+          - V okupovaném Melitopolu explodovalo auto u budovy místní ruské propagandistické televize. Při výbuchu bylo údajně zraněno 5 zaměstnanců televizní stanice. 
+          - Mezinárodní agentura pro atomovou energii navštíví dvě ukrajinské jaderné elektrárny, aby vyvrátila ruská tvrzení o výrobě „špinavé bomby“ na Ukrajině. 
+          - Kolaborant Stremousov vyhrožuje obchodníkům v Chersonu, že pokud nebudou přijímat ruské rubly, můžou být potrestáni „podle válečného práva“. 
+          - Ruská pobočka Červeného kříže spustila sbírku na pomoc rodinám mobilizovaných vojáků. Prý potřebují finanční a humanitární pomoc. 
+          - Vyšetřovatelé ze skupiny Bellingcat odhalili totožnost členů ruské armády, kteří jsou zodpovědní za navádění raket na ukrajinské cíle. 
+          - Partyzáni poškodili koleje v ruské Brjanské oblasti na trase, kterou se vozí technika do Běloruska. Nejméně jeden vlak tu vykolejil. 
+          - Rusko nařídilo kontrolu připravenosti všech svých jednotek na boj v prostředí zamořeném chemikáliemi nebo radiací. 
+          - Ukrajinské jednotky musely po 8 měsících bojů opustit obranné pozice u Doněckého letiště. 
+          - Německý prezident Frank-Walter Steinmeier nečekaně přijel na oficiální návštěvu Kyjeva. 
+          - Rusové údajně začali z Íránu nakupovat vedle dronů také ochranné vesty a přilby. 
+          - Igor „Strelkov“ Girkin oznámil, že formuje novou dobrovolnickou jednotku. 
+          - Dnes začal platit zákaz vstupu do Česka pro Rusy cestující na turistická víza. 
+          - Nový britský premiér Sunak oznámil, že jeho první cesta bude do Kyjeva. 
+          - Rusové začali budovat obranné pozice na východním břehu Dněpru. 
+          - Další 3 německé systémy IRIS-T dorazily na Ukrajinu.
+        videa: |
+          - Ruské zákopy u Bachmutu po ukrajinském útoku (citlivé!)
+          https://twitter.com/herooftheday10/status/1584803438030127104
+          - Pokračování (citlivé!)
+          https://twitter.com/herooftheday10/status/1584804230472560640
+          - A ještě jednou (citlivé!)
+          https://twitter.com/herooftheday10/status/1584813099194122241
+          - Základna Kadyrovců v Melitopolu po ukrajinském ostřelování
+          https://twitter.com/nexta_tv/status/1584769219689848833
+          - Ukrajinské stíhačky
+          https://twitter.com/UkrainianNews24/status/1584858405944320000
+          - Polský Piorun vs. ruská helikoptéra
+          https://twitter.com/Tendar/status/1584551790762397696
+          - Po výbuchu auta v Melitopolu
+          https://twitter.com/nexta_tv/status/1584794611536781312
+          - Palba na íránské drony
+          https://twitter.com/200_zoka/status/1584845017595924480
+          - Rusko posílá další tanky T-90M
+          https://twitter.com/Tendar/status/1584529889642057728
+          - Rusové zbili svého kolegu za to, že se často modlil
+          https://twitter.com/wartranslated/status/1584607016882143232
+          - Medveděv v závodě na výrobu tanků
+          https://twitter.com/nexta_tv/status/1584579793323888640
+          - Pontonový most přes Oskil
+          https://twitter.com/Seveerity/status/1584613463028293632
+          - Zajatí Ukrajinci
+          https://twitter.com/mdfzeh/status/1584593395837984768
+          - Zajatý Rus
+          https://twitter.com/herooftheday10/status/1584801108026802177
+          - Mobilizované jednotky u Svatove
+          https://twitter.com/200_zoka/status/1584567151184080896
+          - Ukrajinci vytlačili Rusy z betonárny u Bachmutu
+          https://twitter.com/Tendar/status/1584555571012784130
+          - Dron se postaral o Rusy u Bachmutu
+          https://twitter.com/UkrainianN.../status/1584823944280150016
+          - Mobilizovaní mluví o své situaci na frontě
+          https://twitter.com/Press_Focusnik/status/1584594371223072769
+          - Zajatý Rus po útoku na ruské pozice (citlivé!)
+          https://twitter.com/Peter79233966/status/1584671742525521920
+          - Dělostřelci si našli rabující Rusy
+          https://twitter.com/TpyxaNews/status/1584603951550586880
+          - Nepodařený ukrajinský pokus o provezení zásob
+          https://twitter.com/UAWeapons/status/1584614229805785088
       - title: "Pondělí" 
         year: "24. října 2022"
         image: assets/img/timeline/2022-10-24.jpg
