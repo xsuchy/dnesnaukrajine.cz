@@ -35,6 +35,80 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek" 
+        year: "28. října 2022"
+        image: assets/img/timeline/2022-10-28.jpg
+        desc: "Den vzniku samostatného československého státu. Namísto oslavy naší státnosti je ale Václavské náměstí plné lidí, kteří ztělesňují to nejhorší, co Česko za poslední desítky let vyprodukovalo. Sobectví, ignoranci, nesamostatnost, přizdisráčství. V den, kdy bychom měli oslavovat ideály vypsané v první československé Ústavě, a na kterých samostatné Československo vzniklo, připomínat si významné vědce, hrdiny a státníky, stojí na největším náměstí v Česku dav, který vědce pronásleduje, hrdiny nemůže vystát a státníky neuznává, roztleskávaný životními ztroskotanci a politickými lůzry. Chtějí, aby jim stát do ničeho nekecal, ale zároveň, aby se o ně postaral. Volají po míru, ale fandí těm, kdo rozpoutávají válku. Plácají o svobodě, ale nejradši by umlčeli a zavřeli všechny, kdo jejich pokřivený výklad demokracie nesdílí. Proto si s Ruskem tak dobře rozumí. Nicméně, vás víc bude zajímat, [co se děje](https://www.facebook.com/tomak.dvorak/posts/pfbid0gMCn3yZPPWMT4w4MDnah663sGH9RXHZFPqKuYAX5NB5KGai5DkoXUR48kwaNvAEvl) pár set kilometrů východněji"
+        detail: |
+          - Rusové prakticky přestali útočit na naprosté většině úseků stávající fronty. Jediný útok ze strany Rusů je vedený na Bachmut. Jen severně od Chersonu a západně od Svatového se Rusové několikrát pokusili zpomalit ukrajinský postup rychlým protiútokem. Na většině míst se ruské jednotky zakopaly a pokouší se útočící ukrajinskou armádu unavit. 
+          - Ukrajinský Generální štáb je přesvědčený, že se Rusové při dalším ústupu z okupovaných území pokusí zinscenovat teroristický útok, který může mít podobu havárie v záporožské jaderné elektrárně, což by učinilo minimálně část opuštěného území prakticky neobyvatelným na dekády dopředu. 
+          - Ruská propaganda přinesla záběry poničených laviček v Lotyšsku, které nejspíš poškodili vandalové, a tvrdí, že Lotyši rozkrádají dřevo z laviček po celé zemi, aby měli palivové dřevo na tuhou zimu, která je kvůli embargu na ruský plyn čeká. Kreativita se Rusům skutečně upřít nedá. 
+          - Putin během proslovu řekl, že jediným garantem suverenity Ukrajiny může být Rusko, protože to bylo ono, kdo Ukrajinu stvořilo. Zároveň zopakoval, že je „historický fakt“, že Rusové a Ukrajiny jsou jeden národ. Zdá se to jen mě, nebo si jeho výroky silně protiřečí? 
+          - Ukrajinské velení zvýšilo pravděpodobnost útoku od severní hranice. Rusko podle Ukrajinců naprosto selhává, a proto by mohlo chtít otevřít další frontu, jen aby roztříštilo ukrajinskou pozornost. 
+          - Podle Zelenského jsou informace o ústupu Rusů z Chersonu cílenou ruskou dezinformací, která má do oblasti nalákat co největší počet ukrajinských jednotek. V oblasti prý stále zůstávají nejlepší ruské jednotky. 
+          - Generální tajemník NATO prohlásil, že Aliance jednoduše nemůže nechat Ukrajinu prohrát, protože by tím vyslala signál všem autokratům světa, že si můžou vzít, co chtějí. 
+          - Ukrajinci žádají MAAE, aby znovu vyslala pozorovatele do záporožské jaderné elektrárny, kde údajně Rusové zahájili stavbu blíže nespecifikovaného objektu. 
+          - Podle ruských kanálů prolomili Ukrajinci obranu u Svatového na několika místech a postoupili hluboko za původní linii.
+          - Rusové opět zasáhli energetickou infrastrukturu u Kyjeva. Část města může být v budoucnu úplně bez proudu. 
+          - Ukrajina poprvé v historii odebírá elektřinu z území Evropské unie. Energii o kapacitě 1 MW dodalo Slovensko. 
+          - Jen za poslední měsíc a půl padlo podle Generální štábu u Bachmutu 8 tisíc ruských vojáků.  
+          - Ukrajinci zasáhli u Beryslavi pontonovou bárku s vojenskou technikou.
+          - Čtyři polská města odstranila své pomníky sovětské armádě.
+        videa: |
+          - Běloruští pohraničníci pašují migranty do Polska
+          https://twitter.com/MotolkoHelp/status/1585724045097857025
+          - Umění v zákopech
+          https://twitter.com/nexta_tv/status/1585840025450659840
+          - Další zajatci
+          https://twitter.com/TpyxaNews/status/1585925005845504000
+          - Výslech ruského vojáka
+          https://twitter.com/wartranslated/status/1585729341991710720
+          - Ruské ztráty v říjnu
+          https://twitter.com/KilledInUkraine/status/1585901879263105026
+          - Ukrajinský Javelin
+          https://twitter.com/EuromaidanPress/status/1585918039639281666
+          - Ruský nálet s použitím hloupých bomb
+          https://twitter.com/RALee85/status/1585976241034858503
+          - Noví zajatci
+          https://twitter.com/TarmoFella/status/1585893762907127809
+          - Chersonská fronta
+          https://twitter.com/Militarylandnet/status/1585896894001283072
+          - Stejná oblast
+          https://twitter.com/TpyxaNews/status/1585633717288341505
+          - GPS munice vs. ruský tank
+          https://twitter.com/EuromaidanPress/status/1585882304299163648
+          - Ranní workout
+          https://twitter.com/DefenceU/status/1585881473013673984
+          - Medička Kira
+          https://twitter.com/SlavaUk30722777/status/1585872278012559360
+          - Nový ukrajinský odminovač
+          https://twitter.com/nexta_tv/status/1585724914241339392
+          - Přepad bez jediného výstřelu
+          https://twitter.com/Milan8662/status/1585607662678540289
+          - M777 v akci
+          https://twitter.com/UkrainianNews24/status/1585912547290513409
+          - Zdravotní stav mobilizovaných jde rychle do kopru
+          https://twitter.com/Press_Focusnik/status/1585876173803778048
+          - Bajraktar zpátky v akci
+          https://twitter.com/Archer83Able/status/1453036826130886656
+          - Ukrajinský Bulat
+          https://twitter.com/Blue_Sauron/status/1585895236915630080
+          - Noční HIMARS time!
+          https://twitter.com/Archer83Able/status/1585771213216878593
+          - V obci Pisky už nestojí jediný dům
+          https://twitter.com/EuromaidanPress/status/1585812846457151488
+          - Generál Lapin dělá, že něco dělá na frontě
+          https://twitter.com/200_zoka/status/1585713560058875904
+          - Zničená ukrajinská vozidla
+          https://twitter.com/ZaTritsa/status/1585619458445410307
+          - Wagnerovci berou ukrajinské zajatce
+          https://twitter.com/200_zoka/status/1585614575633940483
+          - Video z ruského telefonu ukazuje rabování
+          https://twitter.com/TpyxaNews/status/1585702845675872256
+          - Ruský nálet
+          https://twitter.com/UkrainianNews24/status/1585615473680547840
+          - Po přepadu (citlivé!)
+          https://twitter.com/herooftheday10/status/1585767827239104512 
       - title: "Čtvrtek" 
         year: "27. října 2022"
         image: assets/img/timeline/2022-10-27.jpg
