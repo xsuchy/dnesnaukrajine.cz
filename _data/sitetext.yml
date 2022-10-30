@@ -35,6 +35,65 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle" 
+        year: "30. října 2022"
+        image: assets/img/timeline/2022-10-30.jpg
+        desc: "Den, kdy se v Praze na Václavském náměstí koná skutečná oslava ideálů Československa a Česka, resp. celého západního společenství, do kterého si od roku 2014 přeje patřit i Ukrajina, což podle našich dezolátů „vyprovokovalo“ Rusko k invazi. Když jsem v pátek na Václaváku zpovídal účastníky demonstrace na kameru pro jistý projekt, nikdo z nich nedokázal nechtěl říct, že podporuje Rusko a stojí proti Ukrajině. Všichni jako zaseklé desky opakovali, že chtějí mír a že ho má Západ povinnost vyjednat. Že máme posílat jídlo a léky, a ne zbraně. Jako by to snad byl Západ, kdo rozpoutal válku. Jako by se válka s cílem zničit a podrobit si celý národ dala zastavit tak, že se okupantům člověk pokloní. Z jejich odpovědí bylo jasně znát, že Rusko podle nich za nic nemůže a za nic nezodpovídá, i když to ani jeden z nich neměl koule říct na rovinu. Největší radost mi proto udělá, až konečně Rusko prohraje, a doufám, že naší páté koloně nepřestaneme připomínat, na čí straně stáli. A teď [novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid02WgQhKHjcchR48i9L9sQE8t75wT35485zp9ob1EUDD7SzBSPetD1VL2tWToaqpJxtl):"
+        detail: |
+          - V reakci na ukrajinské útoky námořními drony na Ruské válečné lodě včetně lodi Admirál Makarov informovala ruská strana, že pozastavuje svou účast v tzv. „černomořské obilné dohodě“, neboli že nebude dál garantovat bezpečný průjezd lodím s ukrajinským obilím, protože Ukrajina zaútočila na lodě, které měly bezpečnost garantovat. Rusko nicméně cíleně sabotovalo celou dohodu už od začátku měsíce, aby zvýšilo tlak na případnou mírovou dohodu tím, že uměle vyvolá potravinovou krizi. A jsou to právě ruské válečné lodě, jejichž přítomnost v Černém moři bezpečný obchod s obilím ohrožuje, nikoliv garantuje. Litva vyzvala spojence, aby zvážili, zda neposkytnout vlastní válečné lodě pro eskortování obchodních plavidel. 
+          - Rusové v Chersonu dali místním obyvatelům 2 dny na to, aby opustili město. Ukrajina mluví o cílené depopulaci celé oblasti, neboť lidé jsou odváženi i z dalších obcí včetně Nové Kachovky nebo Beryslavi, kde místní informovali, že ruští vojáci se převlékají do civilního oblečení a obsazují domy opuštěné majiteli během deportace. 
+          - Ruský Roskomnadzor znepřístupnil sociální síť Telegram na území Ruské federace. Už dříve Putin nejdřív nechal Telegram zablokovat, nicméně později svůj zásah opět zrušil. Aktuální blokace sociální sítě je odůvodněná tím, že Ukrajinci využívají kanály na Telegramu ke kontaktování ruských vojáků s cílem je přesvědčit, aby se vzdali. 
+          - Rusko obvinilo Velkou Británii z podílu na přípravě útoků na ruské lodě v Sevastopolu a také z „teroristického útoku“ na plynovody Nord Stream 1 a 2. Británie jakoukoliv účast popřela.
+          - Hackeři se na Krymu nabourali do vysílání televizí a ukázali lidem záběry z poničení ruských válečných lodí pořízené kamerami na námořních dronech. 
+          - Ukrajinci za poslední tři měsíce osvobodili přibližně 13 300 km2 svého území. Rusko oproti tomu za stejnou dobu obsadilo zhruba 16 km2 okolo Bachmutu. 
+          - Ukrajinská speciální jednotka Chort podle nových informací zlikvidovala před několika týdny vysokého důstojníka Wagnerovy armády. 
+          - Legitimní starosta Mariupolu tvrdí, že Rusové uzavřeli východy z města a plánují nuceně mobilizovat až 10 000 mužů mezi místními obyvateli. 
+          - Vyšetřovatelé už v osvobozených částech Chersonské, Charkovské a Doněcké oblasti objevili 1 077 těl lidí zabitých okupanty.  
+          - Slovinsko poskytlo Ukrajině 28 kusů tanků M-55S – vysoce modernizovaných verzí původních sovětských tanků T-55. 
+          - Rusko rozšířilo seznam nepřátelských zemí o 11 zámořských teritorií Velké Británie. 
+          - Rusko odvolalo z funkce velitele centrálního vojenského okruhu generála Lapina. 
+          - Ukrajině se od začátku války podařilo dostat domů přes 1 000 zajatců. 
+        videa: |
+          - Unikátní záběry z ukrajinského námořního dronu
+          https://twitter.com/COUPSURE/status/1586354604815446018
+          - Další záběry z jiného mořského dronu
+          https://twitter.com/Militarylandnet/status/1586380133299982340
+          - Ukrajinský voják sestřelil ruský Iskander pomocí ruční střely
+          https://twitter.com/Hromadske/status/1586382198478802945
+          - Bushmaster a... buš
+          https://twitter.com/DefenceU/status/1586399832436080641
+          - Ukrajinská loď pálí na pozemní cíle kdesi u pobřeží Ukrajiny
+          https://twitter.com/SmartUACat/status/1586441772133228544
+          - Kostel, kde žili ruští vojáci
+          https://twitter.com/JayinKyiv/status/1586599816796246016
+          - Excalibur má další zářez
+          https://twitter.com/TpyxaNews/status/1586639462552977410
+          - A další...
+          https://twitter.com/Tendar/status/1586626449909452800
+          - ZSU
+          https://twitter.com/UkrainianNews24/status/1586508417191104526
+          - Ukrajinské Fencery během mise
+          https://twitter.com/TpyxaNews/status/1586651765855985664
+          - Francouzští legionáři
+          https://twitter.com/UkrainianNews24/status/1586604570880376833
+          - Ruský kamikadze dron zničil ukrajinský Buk
+          https://twitter.com/RALee85/status/1586332998131146752
+          - Noví zajatci
+          https://twitter.com/TpyxaNews/status/1586473889491668992
+          - Ruský tank šel na chuj
+          https://twitter.com/EuromaidanPress/status/1586643821965737984
+          - Britský Mastiff trefil minu, posádka vyvázala bez zranění
+          https://twitter.com/TpyxaNews/status/1586620423629856768
+          - Východní fronta
+          https://twitter.com/herooftheday10/status/1586463603464495106
+          - Ruské vraky v hodnotě 12,5 miliónu dolarů na jednom místě
+          https://twitter.com/Tendar/status/1586436386718351362
+          - Holky vojačky
+          https://twitter.com/UkrainianNews24/status/1586603423968989185
+          - Na ruskou propagandu opět dopadla realita
+          https://twitter.com/JuliaDavisNews/status/1586395220476039168
+          - Ruský ústup z Chersonské oblasti
+          https://twitter.com/TpyxaNews/status/1586657835714334720
       - title: "Sobota" 
         year: "29. října 2022"
         image: assets/img/timeline/2022-10-29.jpg
