@@ -35,6 +35,71 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa" 
+        year: "2. listopadu 2022"
+        image: assets/img/timeline/2022-11-02.jpg
+        desc: "Představte si, že máte na vesnici o dům vedle souseda v chátrajícím domku, a ten soused jednou přijde bez pozvání k vám domů s nabídkou, že byste mohli strhnout plot co odděluje vaše zahrady a užívat je společně. Jenže vy víte, že soused léta mlátí manželku, loni zabral kůlnu souseda naproti, uplácí místní strážníky a vůbec je tak trochu č**ák, co se pravidelně rve v hospodě a o všech ve vesnici šíří drby, aby se nenáviděli navzájem. Tak ho samozřejmě pošlete „na chuj“. Ale soused se druhý den vrátí s puškou na rameni, vymyslí si, že musel zakročit, protože týráte svoje psy, a plot i přes vaše protesty sundá. Potom si se svou manželkou a dvěma nepříliš bystrými synky odhlasuje, že mu váš dům patří a oznámí to obecním rozhlasem. Jenže to už přeteče trpělivost i u ostatních obyvatel, vezmou kulovnice a vypráskají souseda zpátky za původní plot, přičemž soused ještě stihne odnést z vašeho domů všechny spotřebiče, vyrabuje spíž, zapálí vám auto, vymlátí okna, strhne střechu a psy zastřelí. Přesně takový soused je Rusko. A přesně takového souseda by si měl zažít každý, co za Ruskem stále stojí. A teď [novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid0za9BSoiqBito3q64mwoPcTVA5uYnoXT2PWpEF3GkfT4hjnaredgNMPFBb819KnUvl)"
+        detail: |
+          - Podle investigativců z deníku The New York Times diskutovali velitelé ruské armády možnosti toho, kde a jak by mohli využít taktickou nukleární zbraň na Ukrajině. Zřejmě proto dnes Šojgu zopakoval lež o tom, že Kyjev vyvíjí „špinavou bombu“ a že jedná o nasazení nukleárních zbraní NATO na Ukrajině. Pozorovatelé z OSN už mezitím zkontrolovali dvě ukrajinské jaderné elektrárny, aby tvrzení Ruska vyvrátili. Do diskuze přispěl také Medveděv, který uvedl, že pokud by se Ukrajina pokusila „vrátit území, která jí dříve patřila“ neboli „odejmout je Rusku“, pak by Rusko mohlo aktivovat článek Ústavy o ohrožení teritoriální integrity a odpovědět jaderným úderem. Na tenhle level zmrdství mi chybí slovník... 
+          - Satelitní snímky potvrdily zničení 3 helikoptér (Ka-52 & Mi-28N) na letišti v ruské Pskovské oblastí. Další dvě helikoptéry byly při výbuchu poničeny. Nejspíš se jednalo o sabotáž, což naznačuje i video, které se objevilo na sítích, ale jehož pravost nejde příliš spolehlivě ověřit. 
+          - Ukrajině se podařilo sestřelit 12 ze 13 kamikadze dronů mířících na ukrajinská města. Jediný dron, který zasáhla svůj zamýšlený cíl, zničil nádrž s palivem v Čerkaské oblasti, která byla ale tou dobou prázdná. Sestřeleno bylo také všech 6 dronů mířících na Kyjev. 
+          - Rusko po jednáních s Tureckem souhlasilo s obnovením „obilného koridoru“ z ukrajinských přístavů. Od Ukrajiny Rusko obdrželo písemnou záruku, že koridor nebude Ukrajinou zneužitý vojenským účelům. 
+          - Každé páté úmrtí mezi mobilizovanými muži bylo podle deníku Novaja Gazeta způsobeno ještě před odjezdem na frontu, nejčastěji užíváním drog nebo alkoholu, sebevraždou a různými nehodami. 
+          - Podle ukrajinské rozvědky umístili Rusové na střechu jaderné elektrárny v Enerhodaru pravděpodobně systémy pro elektronickou válku. 
+          - Podle Prigožina postupují jeho Wagnerovci o 100 až 200 metrů denně. Doktrína ruské armády přitom ukládá vojsku za cíl postup 30 km za den. 
+          - Stovka ukrajinských vojáků dokončila v Německu výcvik po vedením norských instruktorů na obsluhu amerických systémů NASAMS. 
+          - Írán podle CNN poskytl Rusům další zásilku dronů, balistických střel a jiných typů raket a výzbroje. 
+          - Česko je 7. zemí světa v objemu pomoci Ukrajině ve vztahu k celkovému armádnímu rozpočtu. 
+          - Šéf běloruské KGB tvrdí, že Polsko připravuje své jednotky na možný vpád do Běloruska. 
+          - Rusové nainstalovali v budově Rady federace vlajky okupovaných oblastí Ukrajiny. 
+          - Rusko přeskočilo Etiopii v počtu aktivních případů nákazy HIV na milión obyvatel. 
+          - Německo poskytne 500 kusů terénních vozů ukrajinské pohraniční stráži.
+          - Polsko zahájilo stavbu 2,5 m vysokého plotu na hranici s Ruskem. 
+          - Okupační správa Chersonu se přesunula do Skadovsku.
+          - Španělsko poskytne Ukrajině 30 ambulančních vozidel.
+        videa: |
+          - Rusové pálili zápalnou munici na Bachmut
+          https://twitter.com/nexta_tv/status/1587530817185751040
+          - Fronta u Bachmutu, jako z první světové
+          https://twitter.com/TpyxaNews/status/1587465240450580487
+          - Trefa!
+          https://twitter.com/TpyxaNews/status/1587556625996554240
+          - Neúspěšný ruský útok na Marjinku
+          https://twitter.com/Tendar/status/1587468118598762496
+          - Mobilizovaní se bouří
+          https://twitter.com/wartranslated/status/1587714068156129281
+          - Bývalé ruské pozice
+          https://twitter.com/nexta_tv/status/1587519855388807169
+          - Přestřelka na frontě
+          https://twitter.com/UkrainianNews24/status/1587605279524388866
+          - Ruský nálet na Marjinku
+          https://twitter.com/failure1991/status/1587458210000404480
+          - Dron trefil jackpot (citlivé!)
+          https://twitter.com/Seveerity/status/1587369213659947009
+          - ZSU!
+          https://twitter.com/UkrainianNews24/status/1587530713808703489
+          - Instalace vlajek „republik“
+          https://twitter.com/nexta_tv/status/1587706472196198400
+          - Rychlý přesun
+          https://twitter.com/TpyxaNews/status/1587515110477676560
+          - Munice s letáky o tom, jak se vzdát
+          https://twitter.com/NewVoiceUkraine/status/1587699089210314752
+          - Ruská medička o tom, co předcházelo jejímu zajetí
+          https://twitter.com/wartranslated/status/1587436021532495872
+          - Útok dronem + začištění ruských zákopů
+          https://twitter.com/AAglush/status/1587446901728858115
+          - Po ukrajinském útoku (citlivé!)
+          https://twitter.com/nevedimka123/status/1587712252886618113
+          - Zajatci
+          https://twitter.com/Milan8662/status/1587438584835063809
+          - Britská technika versus ruský dron
+          https://twitter.com/TpyxaNews/status/1587771797943918592
+          - Ukrajinský obrněnec najel na minu
+          https://twitter.com/DrazaM33/status/1587453950810550272
+          - Ruské bombardování
+          https://twitter.com/TpyxaNews/status/1587503802248208385
+          - Vrak Aligátora
+          https://twitter.com/wartranslated/status/1587777262291750912 
       - title: "Úterý" 
         year: "1. listopadu 2022"
         image: assets/img/timeline/2022-11-01.jpg
