@@ -35,6 +35,91 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek" 
+        year: "3. listopadu 2022"
+        image: assets/img/timeline/2022-11-03.jpg
+        desc: "Rusové nejspíše opouští Cherson. Část jednotek se údajně stáhla na levý břeh Dněpru, kde Rusové intenzivně budují opevnění, a na pravém břehu ruské jednotky začaly uplatňovat taktiku spálené země, přičemž kradou vše, co jde odnést a ničí vše ostatní včetně vysílačů mobilního signálu a další infrastruktury. Kolaborant Stremousov také oznámil, že díky dokončené evakuaci končí civilní přívozy přes Dněpr. Z budov okupační správy navíc na několika místech zmizely ruské vlajky. Vše ale může být pouze záminka, jak vylákat Ukrajince ke zbrklému útoku, protože místní tvrdí, že ve městě je stále Rusů spousta, pouze se schovávají a staví další kryty. Jisté je, že pokud to skutečně má být past, Ukrajinci se do ní nehodlají chytit. Před falešným ústupem už dříve veřejně varoval šéf ukrajinské rozvědky. A jak to vypadalo jinde? Třeba [takhle](https://www.facebook.com/tomak.dvorak/posts/pfbid0Dz3g4sEmEZF17csGLH9Tt15UryQeigL4XBE4J2SVnzHQ8WHHcQprVGSWVs9AW9H6l)"
+        detail: |
+          - Podle analytiků z ISW znamenají aktuální finanční pobídky pro ruské brance zátěž pro ruský rozpočet na desítky let dopředu. Ze zachycených odposlechů a videí na sociálních sítích je zároveň zřejmé, že ruské velení slíbené odměny mobilizovaným Rusům nevyplácí. V jednom z telefonátů si voják stěžuje, že namísto slíbených 120-190 tisíc. rublů měsíčně mu na účet chodí jen několik jednotek tisíc. 
+          - Mobilizované jednotky umožnily Rusům částečně obnovit útoky na ukrajinské pozice na Doněcké části fronty. Rusové už druhý den útočí u Vuhledaru a také na Marjinku a Pavlivku. Zatím ale situace na zemi nenaznačuje žádný větší průlom a Rusové o ukrajinskou obranu roztříštili desítky kusů těžké techniky. Ruské kanály nicméně tvrdí, že útok na Pavlivku musel být „odložen kvůli nepřízni počasí“. 
+          - Záporožská jaderná elektrárna je po posledním ruském ostřelování opět bez dodávek proudu a funguje pouze na energii z 20 dieselových generátorů. Podle ukrajinského Energoatomu se nyní Rusové snaží připojit elektrárnu na rozvodnou síť na okupovaných územích. Rusové také v areálu dál budují neznámý objekt, ke kterému se nesmí zaměstnanci elektrárny přibližovat. 
+          - Putin v televizním rozhovoru prohlásil, že Rusko obnovilo účast v obilné dohodě výměnou za to, že se Ukrajina zavázala, že nepodnikne další útoky, jako ten před několika dny. Ukrajinci ale jeho slova popřeli. Dohoda podle nich pouze zavázala Ukrajinu, že nepoužije koridor k vojenským účelům, což podle nich v první řadě ani doposud nikdy neudělali. 
+          - Ruský diktátor Putin oznámil, že je Rusko ochotné dodat africkým zemím značný objem obilí zdarma jako humanitární pomoc. Rusko si jinými slovy kupuje přízeň afrických autoritářů ukradeným obilím z Ukrajiny. Jde klesnout ještě hlouběji? Bohužel asi ano. 
+          - Sněmovní výbor pro bezpečnost dnes schválil usnesení, které mimo jiné označuje současný ruský režim za teroristický, neboť používá teroristické metody. Hlasování se nepřekvapivě zdrželi zástupci ANO a SPD. 
+          - Ukrajina začala stíhat dva ruské vojáky, které viní z toho, že znásilnili těhotnou ukrajinskou ženu a podíleli se na mučení a okrádání obyvatel v Kyjevské oblasti v prvních týdnech války. 
+          - Rusko podle viceprezidenta Ruské bankovní asociace bude muset vytisknout rubly v celkové hodnotě 900 miliard, aby mohlo finančně zajistit okupované regiony. 
+          - Rada bezpečnosti OSN odmítla návrh Ruské federace, aby se ustanovila vyšetřovací komise s cílem „objasnit“ vývoj biologických zbraní na Ukrajině. 
+          - Ukrajinci přesným úderem zničili budovu v areálu továrny Refma v Melitopolu, kterou ruské jednotky využívaly jako základnu. 
+          - Ruští zákonodárci projednají návrat dvouleté povinné vojenské služby. Očekává se, že většina návrh podpoří. 
+          - OSINT zdroje už evidují 1402 potvrzených zabitých ruských důstojníků během probíhající invaze. 
+          - Spojené státy podezírají Severní Koreu, že tajně dodává dělostřeleckou munici Rusku. 
+          - Kamikadze dron poničil ukrajinskou energetickou síť v Kryvém Rihu. 
+          - Moskva v noci zažila výpadky proudu v několika čtvrtích.
+        videa: |
+          - Jak Ruská propaganda prezentuje situaci v Evropě
+          https://twitter.com/TarasBerezovets/status/1587896275164631041
+          - Reportáž z fronty
+          https://twitter.com/EuromaidanPress/status/1588006803203301377
+          - Na frontě
+          https://twitter.com/nevedimka123/status/1588136396660809728
+          - Vystřelil granát, dostal granát (citlivé!)
+          https://twitter.com/PaulJawin/status/1587848282096766977
+          - Ukrajinský útok raketami na ruskou základnu v obci Hola Prystan
+          https://twitter.com/nexta_tv/status/1588102875049238528
+          - Dělostřelectvo rozprášilo Rusy u Bachmutu
+          https://twitter.com/slovyanskasil/status/1587933931395219457
+          - Hořící ruské letadlo u Bachmutu
+          https://twitter.com/Blue_Sauron/status/1588123283236569090
+          - Řidič tanku se evakuoval – 50 metrů daleko (citlivé)
+          https://twitter.com/RALee85/status/1588054191372730372
+          - Údery raketami ze systému HIMARS na Antonivský most
+          https://twitter.com/EuromaidanPress/status/1587849265195364353
+          - V Mykolajivu kdosi nechal explodovat památník sovětské „Vlasti“
+          https://twitter.com/nexta_tv/status/1588086993384251392
+          - Lend-lease od Ruska pokračuje
+          https://twitter.com/UkrainianNews24/status/1587963957695975429
+          - Tunguska šla na chuj
+          https://twitter.com/EuromaidanPress/status/1588033478871900161
+          - Ruský útok kamikadze dronem
+          https://twitter.com/200_zoka/status/1588126946155794432
+          - Stugna na lovu
+          https://twitter.com/EuromaidanPress/status/1587889782603980800
+          - Ukrajinský tank versus ruské pozice na pár metrů
+          https://twitter.com/herooftheday10/status/1587823616686755840
+          - SSO Azov
+          https://twitter.com/UkrainianNews24/status/1588116629304614917
+          - „Cože, to jsou naši!“ (varování: slzičky!)
+          https://twitter.com/Tendar/status/1588097442964176896
+          - Rusové odváží ztráty, hodně ztrát
+          https://twitter.com/herooftheday10/status/1588119625715392519
+          - Ruské vrakoviště za pár miliónů
+          https://twitter.com/EuromaidanPress/status/1587861344753049600
+          - Gepard na Ukrajině
+          https://twitter.com/TpyxaNews/status/1588078775979446273
+          - Vojanda
+          https://twitter.com/UkrainianNews24/status/1587853735203577856
+          - Protest mobilizovaných proti malým platům
+          https://twitter.com/RALee85/status/1587793590406848512
+          - Trefa!
+          https://twitter.com/herooftheday10/status/1588126513282564097
+          - Ukrajinci během ofenzivy
+          https://twitter.com/UkrainianNews24/status/1587811337899483136
+          - Ukrajinská OSA versus dron
+          https://twitter.com/Tendar/status/1587893326648594433
+          - Výcvik bojové sovy 😃
+          https://twitter.com/UkrainianNews24/status/1588123891330912257
+          - Asi taky bojový pták
+          https://twitter.com/TpyxaNews/status/1581582751404548101
+          - Ukrajinská verze likvidace min
+          https://twitter.com/herooftheday10/status/1588127800309026816
+          - Hooodně zajatců
+          https://twitter.com/markito0171/status/1588053081744457728
+          - Demobilizace ruského vojáka (velmi citlivé!)
+          https://twitter.com/Milan8662/status/1588070625825939457
+          - Neúspěšný pokus o evakuaci raněného (citlivé!)
+          https://twitter.com/herooftheday10/status/1587947486718689289
+          - Vaření na frontě
+          https://twitter.com/TpyxaNews/status/1587912120393682944 
       - title: "Středa" 
         year: "2. listopadu 2022"
         image: assets/img/timeline/2022-11-02.jpg
