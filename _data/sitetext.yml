@@ -35,6 +35,77 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota" 
+        year: "5. listopadu 2022"
+        image: assets/img/timeline/2022-11-05.jpg
+        desc: "USA v nejnovějším balíku pomoci přislíbily Ukrajině také několik desítek útočných člunů. Ptáte se, na co Ukrajincům budou? Inu, podívejte se na mapu Chersonské oblasti. Možnost vést útok po vodě by mohla úplně, nebo přinejmenším částečně, neutralizovat význam opevnění, která Rusko urputně na druhém břehu pod dněperskou přehradou buduje. Ukrajinské autority nicméně znovu zopakovaly názor, že aktuální „stahování“ sil z Chersonu, je pouze ruská lest. Ale stalo se toho jako obvykle víc. Třeba [tohle](https://www.facebook.com/tomak.dvorak/posts/pfbid0336vNCukAqpjhUZ85ZUfsJ3PMGUiRwgxKLiuSn2Jo9AmR2KsTY6TwaQddeNMWyRWhl)"
+        detail: |
+          - Deník Financial Times přinesl svědectví z okupovaného Skadovsku ze dne, kdy byla okupanty zavražděna 56letá otevřeně pro-ukrajinská zdravotní sestra Tetiana Mudrenko. Podle její sestry a dalších očitých svědků, ji Rusové nejprve společně s manželem unesli a později ji vytáhli před budovu tamějšího soudu, nalili jí cosi do úst a následně ji před zraky přihlížejících oběsili. 
+          - Spojené státy a Nizozemí společně nakoupí 90 kusů tanků T-72 od Česka a zafinancují jejich modernizaci. Tanky tak dostanou nové pancéřování, elektronické systémy a pokročilá mířidla. Poté budou poskytnuty Ukrajině. Podle Američanů tak Ukrajina získá vůbec nejmodernější a nejlepší stroje mezi všemi, jakými obě strany konfliktu aktuálně operují. 
+          - Neznámí útočníci se pokusili o atentát na soudce samozvané DLR, který mimo jiné vynesl rozsudky smrti nad zajatými zahraničními dobrovolníky. Teď je hospitalizovaný v nemocnici se střelnými ranami. 
+          - Zelenský oznámil, že Ukrajina je připravená jedna to míru, pokud bude zahrnovat obnovení hranic z roku 1991 a válečné reparace ze strany Ruska za způsobené utrpení a škody. 
+          - OSN vyzvalo Rusko, aby zrušilo zákony, které zavedlo v souvislosti s invazí a které porušují lidská práva např. „oblíbený“ zákon o „diskreditaci ruské armády“.  
+          - 1 300 terminál Starlink používaných na Ukrajině se 24. října údajně kvůli problémům s financováním ocitlo mimo provoz. Později bylo připojení obnoveno. 
+          - Během pouhých dvou měsíců na Ukrajině zahynulo také 500 žoldáků z řad vězňů, které Wagnerovci naverbovali v ruských vězeňských koloniích.  
+          - Irsko oznámilo, že bude nadále podporovat Ukrajinu, ale nemá další kapacity pro přijímání ukrajinských uprchlíků. 
+          - Írán přiznal, že dodal Rusům bojové drony. Zároveň ale tvrdí, že se tak stalo ještě před vypuknutím války. 
+          - V Melitopolu podle ruských kanálů není dostatek doktorů, aby stíhali ošetřovat raněné ruské vojáky. 
+          - Rusové během kopání zákopů v Nové Kachovce vykopali ostatky vojáka z druhé světové války. 
+          - Během bojů u Chersonu padli další dva zahraniční dobrovolníci – Američan a Tchajwanec.
+          - Prigožin otevřel nové supermoderní vysoko podlažní Wagnerovo centrum v Petrohradu. 
+          - Ukrajina obdržela první zásilku obrněných vozidel sovětské výroby od Řecka. 
+          - Skupina G7 vytvoří plán pro obnovu důležité infrastruktury na Ukrajině. 
+          - Rusové v okupovaném Melitopolu obnovili památník se sochou Lenina. 
+          - Rusku se doposud nepodařilo poškodit ani jeden ukrajinský HIMARS.
+        videa: |
+          - Ostatky z druhé světové v Nové Kachovce
+          https://twitter.com/TpyxaNews/status/1588769360533164032
+          - Zápalná munice na Bachmut
+          https://twitter.com/TarmoFella/status/1588609656234029056
+          - Pohled „zevnitř“
+          https://twitter.com/UkrainianNews24/status/1588807070282706944
+          - Ukrajinci se připravují na to, že padnou
+          https://twitter.com/Honza_marek_/status/1588591531241639936
+          - Ukrajinci odráží útok na Doněcké frontě
+          https://twitter.com/wartranslated/status/1588856202808938496
+          - Práce zdravotníků na frontě (velmi citlivé!)
+          https://twitter.com/TpyxaNews/status/1588851780141842433
+          - „Nechci, aby mě zabila bomba“
+          https://twitter.com/Lyla_lilas/status/1588469749117497347
+          - Trefa a trefa
+          https://twitter.com/PaulJawin/status/1588847750258790400
+          - Poděkování od „Čecha“
+          https://twitter.com/Azazella0/status/1588609303971102721
+          - Nová nástěnná malba věnovaná „Duchu Kyjeva“
+          https://twitter.com/EuromaidanPress/status/1588682506022182913
+          - Nálad drží
+          https://twitter.com/TpyxaNews/status/1588857604314234880
+          - Mobilizovaní v Kazani se bouří
+          https://twitter.com/nexta_tv/status/1588822973728714752
+          - Parašutisti poslali ruský tank na chuj
+          https://twitter.com/PaulJawin/status/1588829642999599104
+          - Jak probíhala ruská „záčistka“ v Buče
+          https://twitter.com/AP/status/1588534530486333441
+          - Ukrajinská letka
+          https://twitter.com/nevedimka123/status/1588831382767546369
+          - Bývalé ruská tédevadestáka
+          https://twitter.com/nexta_tv/status/1588590689998151681
+          - Sídlo Wagnerovců
+          https://twitter.com/200_zoka/status/1588507045090586625
+          - Ruská pravoslavná církev ve službách Putina
+          https://twitter.com/nexta_tv/status/1588558340388712449
+          - Fronta
+          https://twitter.com/GeneralStaffUA/status/1588870124873822211
+          - Trefa do černého
+          https://twitter.com/TpyxaNews/status/1588799825398894593
+          - Přesun do útoku
+          https://twitter.com/UkrainianNews24/status/1588835905531695106
+          - Cenné ruské vrakoviště
+          https://twitter.com/Tendar/status/1588832936128040960
+          - Na frontě
+          https://twitter.com/GirkinGirkin/status/1588869871290679296
+          - Jede se na frontu
+          https://twitter.com/TpyxaNews/status/1588879953122447362
       - title: "Pátek" 
         year: "4. listopadu 2022"
         image: assets/img/timeline/2022-11-04.jpg
