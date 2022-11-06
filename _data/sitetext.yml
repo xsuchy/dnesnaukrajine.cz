@@ -35,6 +35,89 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle" 
+        year: "6. listopadu 2022"
+        image: assets/img/timeline/2022-11-06.jpg
+        desc: "Poslední dva nebo tři dny byly mimořádně skoupé na informace z bojů u Chersonu. Na sítích se ale objevila řada videí ukazující shromážděnou ukrajinskou techniku a některé ruské kanály psaly o tom, že se zřejmě chystá velká ukrajinská ofenziva, což opakovali i někteří analytici. Když ale naposledy byla situace podobná, ofenziva nakonec přišla jinde, než kde ji každý čekal. Pokud se dá tedy cokoliv usuzovat z informačního vakua a nejde jen o náhodu, pak se něco velkého buď chystá, než už dokonce uvedlo do pohybu. Snad bude příští týden plný dobrých zpráv. Držme všem palce. A teď [pár novinek](https://www.facebook.com/tomak.dvorak/posts/pfbid02Pbtjhp5oGh2J6a1yk2PVk8oywdWpi2Cm3v5MGtsuactkt9isYjQuirZFMrqRaE6cl), co zvládly prosáknout ven"
+        detail: |
+          - Podle ruských médií byl při ukrajinské dělostřelecké palbě u Svatového 2. listopadu neutralizován prakticky celých pluk čerstvě mobilizovaných mužů, kteří na frontu jen pár dní před tím dorazili a měli za úkol kopat v oblasti nové zákopy. Z 570 mužů prý přežilo jen 44. Realistický odhad ale mluví o zhruba 30 zabitých a desítkách raněných, nikoliv o ztrátách velikosti pluku. Možná ale Rusové sečetli celkové ztráty ze všech akcí posledních dní v oblasti. 
+          - Místní obyvatelé v Chersonu tvrdí, že většinu posádky města nyní vystřídali mobilizovaní muži. Podle nich také Rusové nepřipravují obraný perimetr kolem města, namísto toho nosí jakýsi materiál do sklepů domů. 
+          - Litevští pohraničníci odmítli nechat projet vlaky z Kaliningradu, které táhly vagony se symboly ruské armády. Označené vagony nakázali odpojit a vrátit zpátky do Kaliningradu, aby mohl zbytek vlaku projet. 
+          - Podle informací na ruském Telegramu utrpěla ruská námořní pěchota při pokus o průlom u Bachmutu masivní ztráty a není schopná v oblasti dál plnit bojové úkoly. 
+          - Zelenský včera ve svém pravidelném projevu bez bližších podrobností řekl, že Ukrajinci „ví, co Rusové chystají“, ale že to nic nezmění na jejich vyhnání z Ukrajiny. 
+          - Podle analytiků z ISW využívají Íránci ruskou závislost na íránských dronech a výměnou za ně jim Rusko pomáhá posunout jejich vlastní jaderný program. 
+          - Kyjev se připravuje na scénář, kdy by došlo k úplnému výpadku elektřiny a muselo by dojít k evakuaci všech 3 miliónů obyvatel města. 
+          - Ukrajinci zasáhli raketami velkou ruskou základnu v Radensku, kam se dříve stáhly jednotky z Chersonu. 
+          - Ukrajinci zřejmě zasáhli odpaliště íránských dronů v okupovaném Herojském u Chersonu. 
+          - Rusové vyrabovali, nebo jak říkají oni - „evakuovali“, chersonské muzeum umění. 
+          - Partyzáni z legie Svoboda Ruska podpálili vlaky v palivem v Jekatěrinburgu. 
+          - Finsko automaticky prodlouží ochranu ukrajinských uprchlíků o další rok. 
+          - Ukrajinci obnovili napájení záporožské jaderné elektrárny. 
+          - V Chersonu přestal fungovat internet. 
+          - V ruském Belgorodu hoří sklad paliv.
+        videa: |
+          - Něco se chystá
+          https://twitter.com/nexta_tv/status/1589012396785352704
+          - Skutečně se něco chystá
+          https://twitter.com/praisethesteph/status/1589058780285005825
+          - Ruské vrakoviště u Bachmutu
+          https://twitter.com/EuromaidanPress/status/1589180796082036736
+          - Dron objevil ruské ztráty po nepodařeném průzkumu
+          https://twitter.com/markito0171/status/1589161572647473154
+          - V Belgorodu hoří sklad paliv
+          https://twitter.com/nexta_tv/status/1589211614477447168
+          - Muž v Baškirsku zbil jiného mobilizovaného muže, protože prý utekl
+          https://twitter.com/wartranslated/status/1589189776225501184
+          - Po ruském ostřelování Záporoží
+          https://twitter.com/nexta_tv/status/1589190994960187393
+          - Rusové na motorce nečekaně objevili ukrajinský tank
+          https://twitter.com/Osinttechnical/status/1589083601492066304
+          - Fronta u Bachmutu
+          https://twitter.com/UkrainianNews24/status/1589219259862773760
+          - Ukrajinští snipeři v noci
+          https://twitter.com/Blue_Sauron/status/1588964654314704896
+          - „Nebuď mě!“ (citlivé)
+          https://twitter.com/Tendar/status/1588979603485650944
+          - Jak pracuje Kraken
+          https://twitter.com/jabuttee/status/1589065299202281472
+          - Přestřelka u Pavlivky
+          https://twitter.com/UkrainianNews24/status/1589206901702955008
+          - Bachmut
+          https://twitter.com/nexta_tv/status/1589134231854190593
+          - Přišel se vzdát na hranice
+          https://twitter.com/666_mancer/status/1589155096411385857
+          - Znovu Bachmut
+          https://twitter.com/UkrainianNews24/status/1589207273548959744
+          - Stugna versus Tigr
+          https://twitter.com/Tendar/status/1589187059759329281
+          - Hořící vlaky v Jekatěrinburgu
+          https://twitter.com/legion_svoboda/status/1588903539325427714
+          - Červená kalina do zvuku sirén
+          https://twitter.com/nexta_tv/status/1589130456892686337
+          - Zajatci
+          https://twitter.com/Milan8662/status/1589139469579751424
+          - Znovu Stugna v akci
+          https://twitter.com/Tendar/status/1589183716676734976
+          - Jede se!
+          https://twitter.com/UkrainianNews24/status/1588883876427878400
+          - Pečení chleba na frontě
+          https://twitter.com/Gerashchenko_en/status/1588991138001997825
+          - Noční blackouty v Kyjevě
+          https://twitter.com/nexta_tv/status/1588963481264742400
+          - Sláva hrdinům
+          https://twitter.com/UkrainianNews24/status/1589205141462228992
+          - Denacifikace hraničního přechodu
+          https://twitter.com/KyivPost/status/1588989434988761089
+          - Údery na okupovaný Doněck
+          https://twitter.com/Tendar/status/1588961887445999616
+          - Boje v Bachmutu
+          https://twitter.com/UkrainianNews24/status/1588884394340941824
+          - Javelin versus ruský tank
+          https://twitter.com/nevedimka123/status/1589210886077808641
+          - Ruské ztráty (citlivé!)
+          https://twitter.com/herooftheday10/status/1589010269581488128
+          - Bývalé ruské zákopy (citlivé!)
+          https://twitter.com/nevedimka123/status/1589161975472599041 
       - title: "Sobota" 
         year: "5. listopadu 2022"
         image: assets/img/timeline/2022-11-05.jpg
