@@ -35,6 +35,27 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý" 
+        year: "8. listopadu 2022"
+        image: assets/img/timeline/2022-11-08.jpg
+        desc: "Prigožin otevřeně přiznal, že Rusko ovlivňovalo americké volby. Doslova prohlásil: „Ovlivňovali jsme je, ovlivňujeme a ovlivňovat budeme. Chirurgicky, způsobem nám vlastním.“ Podobně nedávno mluvili také ruští propagandisté v debatě státní televize, když zmínili, že podporovali Trumpa, protože jeho politika jim dala „potřebný oddych“, aby se mohli připravit na válku a její dopady. V USA si lidé už brzy zvolí nové složení Sněmovny a Senátu a ruské trolí farmy jedou na plné obrátky, čemuž bohužel pomohlo i nedávné převzetí Twitteru Elonem Mužském a jím ohlášená nová pravidla moderace obsahu, která vedle k nárůstu nenávistné rétoriky a také počtu falešných účtů a objemu obsahu, který produkují. Ostatně Musk sám vyzval Američany, ať volí Republikány, a možná slyším trávu růst, ale to načasování je velmi podivné. V politice jsou náhody málokdy náhodami. Tak držme palce i Američanům, protože Republikánští kandidáti nezřídka kampaňují na heslech jako „ani penny navíc pro Ukrajinu“ nebo vyzývají k obnovení vztahů s Ruskem. A to v době, kdy Rusko očividně prohrává. Ostatně, [posuďte sami](https://www.facebook.com/tomak.dvorak/posts/pfbid0PFUMTc8Jmzkotf78pRTKYFSbptFA29vsNy7x8MUbD6EPJWYUCkB9M4HnixLz6tADl)"
+        detail: |
+          - V přístavu v ruské Astrachani vypukl požár na jedné z nákladních lodí. Právě do Astrachani přitom podle analytiků míří lodě s bojovými drony a municí z Íránu. 
+          - Nové satelitní snímky odhalily další hromadné hroby u Mariupolu. Podle velikosti pohřebiště v nich může být až 1 500 civilních obětí.
+          - Podle ruských kanálů se kritika velení ruské armády začíná přelévat z Telegramu i do veřejného prostoru. No bylo na čase!
+          - Ukrajina vyvlastnila pět velkých společností vlastněných oligarchy, převážně z energetického a automobilového odvětví.
+          - Maďarský ministr financí Szijjártó oznámil, že Maďarsko nepodpoří plán finanční pomoci Evropské unie na obnovu Ukrajiny. 
+          - Podle ukrajinské rozvědky už Rusové uzavřeli dohodu s Íránem na dodávky raket středního doletu.
+          - Společnost Antonov shromáždila už třetinu součástek potřebných k postavení druhého letounu Mryja.
+          - Projekt Oryx jen za včerejší den zdokumentoval neuvěřitelných 87 kusů zničené ruské techniky.
+          - Další americký dobrovolník, Timothy Griffin zemřel při přestřelce na doněcké frontě.
+          - Proti Rusům nyní na Ukrajině bojuje také prapor dobrovolníků z Dagestánu.
+          - Rusové dál rozbíjejí vlastní jednotky o ukrajinské pozice u Svatového.
+          - Podle Ukrajiny odvezli Rusové do Ruska okolo se šesti tisíc dětí.
+          - Rusové začali budovat protitankové zábrany okolo Mariupolu.
+          - V Sevastopolu dnes ráno zasahovala protivzdušná obrana. 
+        videa: |
+          TBD
       - title: "Pondělí" 
         year: "7. listopadu 2022"
         image: assets/img/timeline/2022-11-07.jpg
