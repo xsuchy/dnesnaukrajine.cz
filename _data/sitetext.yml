@@ -35,6 +35,47 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "19. listopadu 2022"
+        image: assets/img/timeline/2022-11-19.jpg
+        desc: "Z mezidenních přírůstků ztrát to skoro může vypadat, že se toho moc neděje, a pravdou je, že aktuálně nejspíš neprobíhá větší ofenziva v ukrajinské režii. To ale neznamená, že se neděje nic. Dál pokračuje průzkum bojem na opačném břehu Dněpru, Ukrajinci se také pomalu, ale velmi jistě, blíží k opěrným bodům ruské armády ve Svatovém a Kreminně. A naopak Rusové stále rozbíjejí svoje počty o obranné pozice Ukrajinců u Bachmutu, kde momentálně krajina připomíná prvoválečné bojiště. Zima navíc ještě prohloubí problémy Rusů v zásobování fronty, ale samozřejmě ztíží situaci i na ukrajinské straně. Dá se očekávat, že v příštích dnech čísla opět porostou, a je možné, že Ukrajinci ještě do konce roku otevřou novou frontu nebo překročí Dněpr u Chersonu. Sám jsem zvědavý, jak se situace vyvine. A taky se děje [tohle](https://www.facebook.com/tomak.dvorak/posts/pfbid0mohwbth5JtGPwQ2BKgnf4v1MqiwGXSb7J1eaXxuZtF9fXA5r85sw4EHLwrc9Uhhdl)"
+        detail: |
+          - Putinova Prezidentská rada pro rozvoj občanské společnosti a lidských práv oznámila, že bude usilovat o vznik mezinárodní komise, která by vyšetřovala zločiny páchané ukrajinskou armádou. V dubnu letošního roku přitom Rusko zrušilo svou účast v Radě pro lidská práva v OSN. 
+          - Ukrajina bude podle Ukroboronpromu integrována do vojensko-industriálního komplexu NATO. Ukroboronprom tak získá možnost podílet se na výrobě těžkých zbraňových systémů a výzbroje za asistence šesti aliančních zemí včetně Česka. 
+          - Rusové stahují evakuované jednotky z Chersonské oblasti a nejspíš jimi posílí frontu v Luhansku a Doněcku. Některé z jednotek byly spatřeny v Novoajdaru východně od Severodoněcku, jiné jižně od Bachmutu. 
+          - Podle německého deníku Der Spiegel trpí německé houfnice PzH 2000 na Ukrajině častými poruchami kvůli intenzivní palbě a nedostatku náhradních dílů. 
+          - Ruský deník Komsomolskaja Pravda informoval Rusy, že Haag včera označil Ukrajinu za hlavního viníka v kauze letu MH17. Oni už se ani nesnaží skrývat, že lžou. 
+          - Polský premiér prohlásil, že zatím není jasná, jaká raketa způsobila smrt dvou lidí u polských hranic, ale jisté je, že zodpovědnost tak či tak nese Rusko. 
+          - Polsko neumožní Lavrovovi ani zbytku ruské delegace vstup do Polska a tedy ani účast na prosincovém zasedání OBSE v Lodži.
+          - Počet vězňů v Rusku se za poslední dva měsíce zmenšil o 23 000. Předpokládá se, že je naverbovala Wagnerova armáda. 
+          - Petrohradem otřásla velká exploze. Nejspíš explodovalo potrubí na předměstí, které přivádí do Petrohradu plyn. 
+          - Podle analytiků z ISW Rusko začalo připravovat další vlnu mobilizace. Ta současná přitom nejspíš stále neskončila.
+          - Ukrajinská SBU obvinila 11 lidí z účasti na organizaci zinscenovaného referenda v Záporožské oblasti. 
+          - Ruské kanály opět mluví o masivních ztrátách útočících ruských jednotek u Bachmutu. 
+          - Podle ruských blogerů se okupanti chystají evakuovat Oleški v Chersonské oblasti. 
+          - Litevci už ve veřejné sbírce vybrali peníze na nákup druhého námořního dronu. 
+          - 50 % energetické soustavy Ukrajiny je nadále mimo provoz. 
+          - Nový britský premiér dnes jedná v Kyjevu.
+        videa: |
+          - [Na Ukrajinu přišla zima](https://twitter.com/Militarylandnet/status/1593946680390402048)
+          - [Rusové svrhli zápalnou munici na Vuhledar](https://twitter.com/TpyxaNews/status/1593702831969779713)
+          - [Jak probíhá u Rusů fasování uniforem](https://twitter.com/wartranslated/status/1593910347446030339)
+          - [Další ruská pozice plná ukradené elektroniky a spotřebičů](https://twitter.com/nexta_tv/status/1593933132096589824)
+          - [Velký přesun](https://twitter.com/UkrainianNews24/status/1593907573601849345)
+          - [Jak probíhal útok směrem na Cherson](https://twitter.com/wartranslated/status/1593687660073205762)
+          - [Rusům u Petrohradu bouchl plynovod, hupsík](https://twitter.com/ukraine_world/status/1593960939417702403)
+          - [Stejné místo, jiný úhel](https://twitter.com/Tendar/status/1593952051079385088)
+          - [Údajně ruský Su-35 u Bachmutu](https://twitter.com/EuromaidanPress/status/1593929831472832514)
+          - [Ukrajinský voják po osvobození svého domovského Chersonu](https://twitter.com/nexta_tv/status/1593729444945928193)
+          - [Dodělání ruského tanku](https://twitter.com/UAWeapons/status/1593921637023358976)
+          - [Pokračování oslav v Chersonu](https://twitter.com/nexta_tv/status/1593715186434818049)
+          - [Ukrajinský MiG nad pěchotou](https://twitter.com/UkrainianNews24/status/1593900775033475073)
+          - [Ničení kulometných pozic](https://twitter.com/EuromaidanPress/status/1593913221932621824)
+          - [Sběr trofejí pokračuje](https://twitter.com/herooftheday10/status/1593902626600632321)
+          - [Pokračování Zimní války?](https://twitter.com/Tendar/status/1593763945667403776)
+          - [IRIS-T versus ruská raketa](https://twitter.com/EuromaidanPress/status/1593822373194629120)
+          - [Kampak asi jdou?](https://twitter.com/UkrainianNews24/status/1593902150593060869)
+          - [Další zajatci](https://twitter.com/herooftheday10/status/1593932640524156929)
       - title: "Pátek"
         year: "18. listopadu 2022"
         image: assets/img/timeline/2022-11-18.jpg
