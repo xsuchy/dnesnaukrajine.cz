@@ -35,6 +35,50 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "24. listopadu 2022"
+        image: assets/img/timeline/2022-11-24.jpg
+        desc: "Druhý den poté, co Evropský parlament naprostou většinou označil Rusko za teroristický stát. Což je milé, ale teď mě tedy zajímá, co s tím budeme dělat? Jak je možné, že Rusko stále má své konzuláty a ambasády, že drží místa v orgánech OSN včetně Rady bezpečnosti, která evidentně nebyla připravená na situaci, kdy by jeden z jejích vlastních členů rozjel genocidní válku za použití teroristických metod? Pirátský ministr zahraničí Jan Lipavský alespoň oficiální nótou vyzval prostřednictvím místní ambasády Írán, aby ukončil podporu ruské války. Je to sice další gesto, ale v tom moři „ničeho“, je to alespoň nějaké šplouchnutí, díky za to. Očekává se, že baltské státy budou iniciovat ukončení diplomatických styků s Ruskem, tak doufejme, že Česko ani tehdy nebude stát v pozadí a iniciativu aktivně podpoří. Jestli je totiž na tom všem nějaké pozitivum, pak to, že se ty nejmenší státy Evropy včetně Česka ukázaly tváří v tvář ruské agresi jako ty nejodvážnější a nejproaktivnější. Díky, milí voliči, že si to dnes můžeme říct. A teď pár [novinek](https://www.facebook.com/tomak.dvorak/posts/pfbid0H1tQZkGjR52Hrd5UbHnWnUhhSeMztMGXBsJgoRqLp4nAvyKk53qo3AEprXEo2kiil)"
+        detail: |
+          - Spojené státy odhalily obsah nového balíku vojenské pomoci Ukrajině v hodnotě 400 mil. dolarů. Obsahovat bude mimo jiné munici do systémů HIMARS a NASAMS, GPS munici do 155mm dělostřeleckých systémů, 10 000 kusů munice ráže 122 mm, střely HARM, 150 vozidel HMMWV, dalších 100 vozidel, 20 miliónů kusů munice do automatických pušek, 200 generátorů, 150 těžkých kulometů s termální optikou a náhradní díly do různých systémů. 
+          - Polský ministr obrany reagoval na nabídku Německa, aby Polsko umístilo na své východní hranici protivzdušné systémy Patriot. Błaszczak požádal Němce, aby systémy místo toho poskytly Ukrajině. Podle něj to udělá pro obranu polské východní hranice mnohem víc a navíc to ochrání ukrajinské životy a infrastrukturu.  
+          - Rumunský parlament označil sověty vyvolaný hladomor na Ukrajině za zločin proti lidskosti a ukrajinskému národu. K „Holodomoru“ se vyjádřil i papež František, když k němu přirovnal současnou ruskou válku proti Ukrajině. 
+          - Skupina amerických senátorů vyzvala prezidenta Bidena, aby přehodnotil svoje dřívější rozhodnutí neposkytnout Ukrajině pokročilé americké drony. Podle senátorů by mohly pomoci Ukrajině v následujících ofenzivách. 
+          - Poslanec moskevské Dumy Medveděv na svém kanálu na Telegramu „kategoricky popřel existenci ukrajinského národa“ a vyzval k úplné likvidaci ukrajinské státnosti v její současné podobě. 
+          - Arménský prezident odmítl na setkání CSTO podepsat novou společnou deklaraci. Podle něj organizace neposkytuje Arménii slíbené bezpečností záruky a asistenci. 
+          - Ukrajinská protivzdušná obrana včera dokázala sestřelit 51 ze 70 raket, které Rusko vypálilo. Podle Ukrajinců ztížila práci PVO silná oblačnost, a tedy i špatná viditelnost. 
+          - Ruský vyslanec v OSN označil za viníka incidentů, při kterých umírají ukrajinští civilisté, ukrajinskou PVO, nikoliv ruské rakety.
+          - Ruská Státní duma přijala zákon zakazující „LGBT propagandu“, pedofilii a změny pohlaví. 
+          - V překvapivé otočce Maďarsko schválilo finanční pomoc Ukrajině ve výši 187 miliónů eur. 
+          - Elektrárna v Záporoží už je opět odkázána na napájení pomocí dieselových generátorů. 
+          - Lukašenko apeloval na Ukrajinu, aby přestala bojovat, než bude úplně zničena. 
+          - V Chersonské oblasti už vyšetřovatelé odhalili devět ruských mučíren. 
+          - 70 % Kyjeva zůstává bez elektřiny, Oděsa je bez dodávek vody.
+        videa: |
+          - [V Kyjevě proběhla operace srdce i přes výpadek proudu](https://twitter.com/nexta_tv/status/1595662246709006338)
+          - [Když ti obrněný vůz zachrání život…](https://twitter.com/Lyla_lilas/status/1595348805830033408)
+          - [Noční Kyjev, bez proudu, ale s hudbou](https://twitter.com/DefenceU/status/1595549595429388290)
+          - [Doněcká fronta, ruská zápalná munice](https://twitter.com/Osinttechnical/status/1595646676294828033)
+          - [Trefa! (citlivé)](https://twitter.com/NOELreports/status/1595514675113893889)
+          - [Mobilizovaní o svém stavu a výzbroji](https://twitter.com/wartranslated/status/1595515700810027008)
+          - [Ukrajinský dron zlikvidoval důstojníka Wagnerovců (citlivé)](https://twitter.com/TpyxaNews/status/1595752007532707840)
+          - [Rasputica v zákopech](https://twitter.com/nexta_tv/status/1595752980183228418)
+          - [Přesun v bahně](https://twitter.com/UkrainianNews24/status/1595738016345210885)
+          - [Lukašenkův apel](https://twitter.com/nexta_tv/status/1595736150047887360)
+          - [Arménský prezident odmítl podepsat deklaraci](https://twitter.com/Gerashchenko_en/status/1595720663427334144)
+          - [Nálada stále drží](https://twitter.com/UkrainianNews24/status/1595518857350975493)
+          - [Přelet rakety Kalibr](https://twitter.com/TpyxaNews/status/1595738693767204864)
+          - [Spousta budoucích slunečnic u Bachmutu (citlivé)](https://twitter.com/Milan8662/status/1595335264586571778)
+          - [Budoucí slunečnice u Soledaru (citlivé)](https://twitter.com/TpyxaNews/status/1595758261999120385)
+          - [Ruský vyslanec v OSN](https://twitter.com/nexta_tv/status/1595675155673800704)
+          - [Na pochodu](https://twitter.com/UkrainianNews24/status/1595517555015405571)
+          - [Nová kára, dárek od Rusů](https://twitter.com/nevedimka123/status/1595391827821174784)
+          - [Nabíjení Gradu](https://twitter.com/TpyxaNews/status/1595740098976518147)
+          - [Nejmodernější ruský tank našel minu](https://twitter.com/RALee85/status/1595689708423729152)
+          - [Mínus tank!](https://twitter.com/UAWeapons/status/1595473890196815876)
+          - [Zima ze vzduchu](https://twitter.com/TpyxaNews/status/1595691989248401408)
+          - [Ukrajinské BTR pálí na ruské pozice](https://twitter.com/Osinttechnical/status/1595626434596593665)
+          - [Pion](https://twitter.com/TpyxaNews/status/1595510020715778051)
       - title: "Středa"
         year: "23. listopadu 2022"
         image: assets/img/timeline/2022-11-23.jpg
