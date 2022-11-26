@@ -35,6 +35,33 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "26. listopadu 2022"
+        image: assets/img/timeline/2022-11-26.jpg
+        desc: "Dnes si Ukrajina připomíná 90 let od Holodomoru. Mezi lety 1932-33 zemřelo následkem sověty uměle vyvolaného hladomoru mezi 3,5-5 milióny obyvatel Ukrajiny. Událost, která snadno snese srovnání s nacistickým Holokaustem, a která poněkud ironicky způsobila, že Ukrajinci na počátku války vnímali nacisty jako osvoboditele od sovětského teroru, který už tehdy měl charakter genocidy. I proto jsou dodnes kontroverzní postavy, jako je Stepan Bandera, který bojoval se sověty i nacisty, na Ukrajině vnímány v úplně jiném kontextu než ve zbytku Evropy. Zkusme si vzpomenout, než příště šmahem odsoudíme nějakou nášivku, vlajku nebo jiný symbol, že symbolům dává význam jejich vnímání v daném kontextu. Například v Rusku je stále populární sovětská vlajka, přestože Sovětský svaz byl imperiální mocnost, která zabila milióny nejen cizích, ale i vlastních lidí a terorizovala lidi na celém svém území. Historie není černobílá jako pohádka, kde je jasně dané dobro i zlo, ale je spíš složená z různých odstínů šedi. A asi nemusím vysvětlovat, kdo je v současném konfliktu umouněná bílá a kdo černočerná jako ropa s pár bílými šmouhami. To si domyslíte sami z [novinek](https://www.facebook.com/tomak.dvorak/posts/pfbid0d9zuuxCLwMxjwNgg4rMRjTVsGkZPLj6cch6NANMvTms5At5p3YSbvGghVCjb1o4Rl)"
+        detail: |
+          - Putin přirovnal ztráty na Ukrajině k úmrtím na silnicích. Podle něj každý rok umře v Rusku při dopravních nehodách okolo 30 000 lidí a zhruba stejný počet lidí zemře na následky konzumace alkoholu, což podle něj ukazuje to, že „všichni jsme smrtelní a každý z nás jednou nevyhnutelně zemře“. To vše prohlásil na setkání s údajnými matkami padlých vojáků. Jeho cynismus je o to nechutnější, že ony „matky“ byly ve skutečnosti vybrané úřednice a zastupitelky, na což upozornilo hned několik opozičních deníků. Do Putinovi blízkosti ostatně nesmí nikdo cizí, a proto často využívá vlastní straníky nebo členy FSB, kteří sehrávají roli „obyčejných lidí“ na vysílaných setkáních s „veřejností“. 
+          - Spojené státy připravují v Polsku servisní depo pro ukrajinské houfnice a samohybná děla. Podle Američanů je nyní téměř každý třetí západní systém poskytnutý Ukrajině mimo provoz kvůli poruchám nebo opotřebení častou palbou a není v silách vojáků, aby tak náročné opravy prováděli přímo na bojišti. 
+          - Podle zpráv z bojiště a také desítek odposlechnutých hovorů ruských vojáků mohli Rusové při opakované ofenzivě u Pavlivky ztratit už okolo 2 000 mužů. Jen námořní pěchota tu podle jednoho z jejích členů ztratila okolo 450 mužů a její 155. brigáda byla prakticky rozprášena. 
+          - Rusko připravuje opatření, kterým by zakázalo ruským firmám prodávat ropu do zemí, které zavedli strop na ceny ruských paliv. Reaguje tak na chystaný krok Evropské Unie, čímž by prakticky zakázalo prodej ropy do celé Evropy.  
+          - Polský prezident Duda prohlásil, že bezpečná Evropa je taková, kde bylo Rusko poraženo. Polský parlament také začal dnešní zasedání parlamentu potmě na znamení solidarity s Ukrajinou. 
+          - Spojené státy předaly Ukrajině dalších 80 kusů vysokokapacitních generátorů. Praha posílá Kyjevu 626 ohřívačů a 18 generátorů v hodnotě 22 miliónů korun. 
+          - Generální tajemník NATO oznámil, že pokud by Německo chtělo dodat své Patrioty Ukrajině, nepotřebuje k tomu souhlas aliance. 
+          - Člen okupační správy Mariupolu byl dnes zabit bombou nastraženou v autě. Dva ruští vojáci, kteří ho doprovázeli, byli raněni. 
+          - Norsko poskytlo Ukrajině další samohybné dělo M109, munici a 55 000 kusů zimních uniforem. 
+          - Belgie poskytne Ukrajině deset podmořských dronů a také dvě mobilní laboratoře. 
+          - Lotyšsko nechalo strhnout pěší lávku u hranic s Ruskem a Běloruskem. 
+          - 130 000 obyvatel Kyjeva zůstává bez elektřiny.
+        videa: |
+          - [„Hřbitov ruské munice“](https://twitter.com/nexta_tv/status/1596156725790326786)
+          - [Asi vítr](https://twitter.com/justartsndstuff/status/1596164843354353664)
+          - [Protitanková střela minula ukrajinský tank](https://twitter.com/TpyxaNews/status/1596450328458964992)
+          - [Marjinka](https://twitter.com/UkrainianNews24/status/1596446868435005440)
+          - [Dřina v Luhansku](https://twitter.com/TpyxaNews/status/1596486370004185088)
+          - [Zima na Ukrajině](https://twitter.com/UkrainianNew24/status/1596172847554207747)
+          - [Ruská kolona u Melitopolu](https://twitter.com/kherson_vistnyk/status/1596435301576151040)
+          - [Dron ho honil tak dlouho, až se radši vzdal](https://twitter.com/TpyxaNews/status/1596204531729444865)
+          - [Kam se hrabou STOMP](https://twitter.com/TpyxaNews/status/1596162214746292227)
       - title: "Pátek"
         year: "25. listopadu 2022"
         image: assets/img/timeline/2022-11-25.jpg
