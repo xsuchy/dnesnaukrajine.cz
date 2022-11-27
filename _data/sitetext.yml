@@ -35,6 +35,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "27. listopadu 2022"
+        image: assets/img/timeline/2022-11-27.jpg
+        desc: "První adventní. Zatímco my se začínáme chystat na „svátky klidu a míru“ strávené s rodinou, Ukrajinci vyhlíží blížící se Vánoce z úplně jiných pohnutek. Momentálně deště rozmáčely půdu a nejenže brání pohybu těžké techniky, ale ztěžují život i pěším vojákům. Zákopy jsou na většině východní fronty plné bahna, místy až pod kolena. Je prý potřeba, aby několik dní v řadě mrzlo, aby byla půda opět pevná a alespoň průchozí, když už ne průjezdná. Díky tomu se teď boje na chvíli uklidnily, ale dá se tušit, že v polovině prosince jejich intenzita značně zesílí. A tak zatímco my budeme shánět na poslední chvíli dárky pro naše blízké, Ukrajinci budou pochovávat ty své. Je až neuvěřitelné, v jak klidném místě na světě jsme se my Češi octili. A je stejně neuvěřitelné, jak moc na to zapomínáme. Uf. Tady jsou [aktuality](https://www.facebook.com/tomak.dvorak/posts/pfbid034oYrVjpaWLawPDKbWGGnyDShGgnYTtGAgzDVCJcr7tGYFYeTY3PRi3PfUc26Wpibl)"
+        detail: |
+          - Rusové se včera pod rouškou tmy pokusili proniknout do Bachmutu. Jednotku ale pozoroval dron s termální kamerou a naváděl na ni dělostřeleckou palbu. Během pokusu o průzkum bojem tak byla ruská jednotka prakticky zničena. Rusové nicméně tvrdí, že dali ukrajinské posádce ultimátum, aby město k dnešním 6:00 opustila. Žádné zprávy z místa ale nenaznačují, že by Rusové měli převahu nebo hrozilo, že město padne. Kanál Wagnerovců Grey Zone se tvrzení vysmál.
+          - Podle ukrajinských vojáků se začínají množit případy, kdy mobilizovaní muži prodávají Ukrajincům informace o pozicích svých velitelů – a zejména Kadyrovců. Ukrajinci to přisuzují nenávisti, kterou Kadyrovci mezi branci vyvolávají svým zastrašováním a nekompetencí, kvůli které umírají vojáci v nesmyslných útočných akcích. 
+          - Ruští vojenští blogeři na svých kanálech tvrdí, že ruské ministerstvo obrany významně zmenšilo objem zásobování mířícího na frontu. Realita ale bude spíše taková, že zásoby jednoduše nejsou, ať už kvůli jejich vyčerpání, nebo masivní korupci v ruských strukturách. 
+          - USA navrhují, aby Ukrajiny obdržela moderní protivzdušné systémy, pokud Rusko získá nové íránské rakety a moderní drony. Smutné je, že se musí čekat, až „jestli“, a nejsou tam takové systémy dávno. 
+          - V obci Lvivski Otrubi u Chersonu objevili vyšetřovatelé zakopaná těla dvou obyvatel obce. Byli zakopáni na zahradě za domem, který využívali ruští vojáci. Policie případ řeší jako vraždu. 
+          - FBI vypsala odměnu 250 000 dolarů za informace vedoucí k dopadení majitele Wagnerovy armády Jevgenije Prigožina. Úřad ho viní z vměšování se do amerických voleb i dalších zločinů.
+          - Orbán prohlásil, že Evropa potřebuje suverénní Ukrajinu, aby Rusko nemohlo Evropu ohrožovat. 
+          - Ruské ministerstvo obrany údajně bez vysvětlení stoplo import vojenského vybavení a oblečení.  
+          - Belgie se podpisem zavázala, že podpoří budoucí přijetí Ukrajiny do EU i NATO. 
+          - V téměř celém Kyjevě byly obnoveny dodávky elektřiny, vody a tepla. 
+          - Dalších 12 zajatých Ukrajinců se vrátilo domů.
+        videa: |
+          - [Ruský voják se vzdal dronu](https://twitter.com/TDF_UA/status/1596839000601464832)
+          - [V ruském Angarsku hoří ropná rafinérie](https://twitter.com/nexta_tv/status/1596765246198513665)
+          - [Ukrajinská stíhačka nad zimní krajinou](https://twitter.com/UkrainianNews24/status/1596822654493024258)
+          - [Kamarádi to asi nedali](https://twitter.com/666_mancer/status/1596619424253067265)
+          - [Rusové natáčí jakýsi propagandistický snímek ve Tveru](https://twitter.com/Tendar/status/1596821132174204928)
+          - [Rusové evakuují oběti](https://twitter.com/666_mancer/status/1596618902242328576)
+          - [Nezastavujeme!](https://twitter.com/UkrainianNew24/status/1596587021736312832)
+          - [Trofeje](https://twitter.com/nevedimka123/status/1596800862839799809)
+          - [Boje u Bachmutu](https://twitter.com/TpyxaNews/status/1596836064873816064)
+          - [Zevnitř tanku](https://twitter.com/TpyxaNews/status/1596799426697523205)
+          - [Zouvání se po několika dnech v zákopu](https://twitter.com/666_mancer/status/1596595467961667585)
+          - [Koulovačka jako způsob, jak se uvolnit mezi boji](https://twitter.com/tomaburque/status/1596501694581338113)
+          - [Trefa!](https://twitter.com/PaulJawin/status/1596792437640687617)
+          - [Zase trefa!](https://twitter.com/herooftheday10/status/1596785524349767680)
+          - [Morálka drží](https://twitter.com/TpyxaNews/status/1596801881816326144)
+          - [Ruské ztráty u Bachmutu](https://twitter.com/nevedimka123/status/1596594269175025666)
+          - [Javelin zevnitř domu](https://twitter.com/TpyxaNews/status/1596563249696325632)
       - title: "Sobota"
         year: "26. listopadu 2022"
         image: assets/img/timeline/2022-11-26.jpg
