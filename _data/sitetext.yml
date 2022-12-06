@@ -35,6 +35,33 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "5. prosince 2022"
+        image: assets/img/timeline/2022-12-05.jpg
+        desc: "Tomáš Dvořák, co psal tyto reporty, je pryč. Asi někde na Ukrajině. Tak zkusím pozvednout pochodeň za něj. Uvidíme jak to půjde"
+        detail: |
+          - Na ruském letišti Dyagilevo poblíž Rjazaně explodovala cisterna. 3 lidi zemřeli a jeden bombardér Tu-22M3M byl poškozen. Na letiště Saratov dopadli drony a poškodili dva bombardéry Tu-95. Obě letiště jsou používané strategickými bombardéry, které rusové v současné době používají na odpalování raket na Ukrajinu z bezpečné vzdálenosti. Na celé události je nejzajimavější, že letiště jsou hluboko v Rusku - více jak 1000 km - a není jasné jak Ukrajinci provedli operaci na tak velkou vzdálenost. Ale ukázalo to velkou mezeru v ruské protiletecké obraně.
+          - Ruské rakety opět v masivním útoku cílily na energetickou infrastrukturu. Díky vzdušné obraně, byli škody minimální a systém zůstavá stabilní.
+          - Ukrajinci sestřelili 60 raket z více než 70 které Rusko dnes vystřelilo na Ukrajinu ze strategických bombardérů nad Kaspickým mořem. Z lodí v Černém moři a z letounů Su-35.
+          - Ukrajinský speciální oddíl Angels zachránil dva Ukrajinské mariňáky z okupováné zóny. Údajně už provedli více podobných operací.
+          - Financial Times vybral Zelenského jako osobu roku 2022
+          - Další moderní vrtulník Ka-52 byl sestřelen.
+          - Ukrajina nastartovala masivní produkci 152 mm munice. Poprvé od roku 1991. Produkce je rozdělena do více měst, aby nebyl jediný kritický bod.
+          - Před 28 lety Ukrajina podepsala Budapešťské memoradnum. Za garance od Ruska, USA a UK se Ukrajina vzdala se svého atomového arsenálu a zničila tucty strategických bombardérů Tu-22. Těch samých Tu-22 z kterých teď Rusko odpaluje rakety na Ukrajinu.
+          - Rusové strhávají obytné budovy v Mariopolu poničené běhém Ruského útoku.
+          - Rusové shazují z dronů granáty s chlorpikrinem.
+          - Gruzínská jednotka se u Bachmutu dostala do obkíčení.
+          - Ukrajinci postoupili u Kreminné. Zatím není jasné zda silnici R-66 ovládají nebo ji mají jenom pod palebnou kontrolou.
+        videa: |
+          - [Pane, asi máte píchlou gumu](https://twitter.com/TreasChest/status/1599843467953315840)
+          - [Po pračkách už berou i vany](https://twitter.com/herooftheday10/status/1599882773614850048)
+          - [Poškozené bombardéry](https://twitter.com/Maks_NAFO_FELLA/status/1599874736460165120)
+          - [Další fotky z letiště Dyagilevo](https://twitter.com/nevedimka123/status/1599825946994823168)
+          - [POV z bitvy](https://twitter.com/nevedimka123/status/1599780877424242690)
+          - [Sestřelení Ka-52](https://twitter.com/EuromaidanPress/status/1599954529671258113)
+          - [Gepard sestřelil raketu](https://twitter.com/EuromaidanPress/status/1599831972020297728)
+          - [Bakhmut dnes](https://twitter.com/EuromaidanPress/status/1599524445885853697)
+          - [To bylo těsné](https://twitter.com/NOELreports/status/1599375421140705282)
       - title: "Úterý"
         year: "29. listopadu 2022"
         image: assets/img/timeline/2022-11-29.jpg
