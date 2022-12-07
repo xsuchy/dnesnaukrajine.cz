@@ -35,6 +35,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "6. prosince 2022"
+        image: assets/img/timeline/2022-12-06.jpg
+        desc: "Kremelská propaganda se snaží zvýšit nadšení Rusů pro válku tvrzením, že pokud Rusko prohraje, tak Západ potrestá každého Rusa až po posledního metaře. A co dalšího se stalo_:"
+        detail: |
+          - Rusové zaútočili raketami a drony na Záporožskou oblast. 6 dronů bylo sestřeleno.
+          - Rusové zautočili drony a MLRS na Dnipetrovskou oblast. Protiletecká obrana sestřelila všech osm dronů, ale rakety poškodili obytné domy, obchod a vysokoškolské koleje.
+          - Pondělní masový raketový útok byl podniknut raketami celkem v pořizovací ceně 400-500 milionu dolarů.
+          - Skladiště ropy u letiště v ruském Kursku hoří.
+          - Bělorusko prodloužilo bojovou pohotovost do 12. prosince
+          - Ukrajinští vyšetřovatelé zjistili, že minimálně jedna raketa Kh-101 použitá při útoku 23. listopadu byla vyrobena nejpozději v říjnu. Navzdory sankcím. Během předchozích 4 zkoumání ruské munice, bylo zjištěno, že všechny rakety byli postavené s použitím západních čipů.
+          - Přes 2000 ukrajinských škol a školek je pod kontrolou okupantů.
+          - Švédsko ratifikovalo novou vojenskou pomoc Ukrajině v ceně 290 milionu dolarů.
+          - Jedna raketa z pondělního útoku dopadla do Moldavska.
+          - Putin se byl osobně podívat na Kerčský most a projel se po něm v autě.
+          - Ukrajinské námořnictvo hlásí, že rusové mají na mořích nachystané lodě s celkem 88 střelami Kalibr na palubách.
+          - Ukrajinská 72. mechanizovaná brigáda zabila ruské vojenksé inženýry v Donětské oblasti, kteří tam měli stavět opevnění.
+          - Zelenskyj navštívil Sloviansk v Donětské oblasti
+          - Více jak 20 ruských vězňů, kteří se nechali naverbovat do války, uteklo i se zbraněmi. Byli zajati a popraveni vlastní armádou.
+          - Lotyšsko zrušilo vysílací licenci ruské nezávislé televizi Dožď, ohrožovala podle něj národní bezpečnost.
+          - Ukrajina a Rusko si vyměnili 60 zajatců.
+        videa:
+          - [Extrémně nízko letící helikoptéra](https://twitter.com/EuromaidanPress/status/1600355169849450497)
+          - [Skladiště ropy u letiště v ruském Kursku hoří](https://twitter.com/EuromaidanPress/status/1600031279680045056)
+          - [Bakhmut](https://twitter.com/Milan8662/status/1600237662580809729)
+          - [Zásahy dělostřelectva na první dobrou](https://twitter.com/666_mancer/status/1600227637502541824)
+          - [Pobití Kadyrovci (citlivé)](https://twitter.com/Peter79233966/status/1600174206527758343)
+          - [Obsazení ruské pozice](https://twitter.com/OSINTua/status/1600168330932867073)
+          - [Mínus jeden tak T-80](https://twitter.com/Peter79233966/status/1600160831022387208)
+          - [Pěkné záběry skladu v Kursku](https://twitter.com/nevedimka123/status/1600118815626436609)
+          - [Vodáci](https://twitter.com/Wandere51226593/status/1600059651596361729)
+          - [Zásah ruského BMP](https://twitter.com/herooftheday10/status/1600067463021895680)
+          - [Nevybuchlé bomby](https://twitter.com/SkalaBattalion/status/1599882958986280961)
+          - [Wagnerovci](https://twitter.com/Milan8662/status/1600051784566939648)
+          - [POV záchrana zraněných](https://twitter.com/UkrainianNews24/status/1600195503844573185)
       - title: "Pondělí"
         year: "5. prosince 2022"
         image: assets/img/timeline/2022-12-05.jpg
