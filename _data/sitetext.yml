@@ -35,6 +35,57 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "10. prosince 2022"
+        image: assets/img/timeline/2022-12-10.jpg
+        desc: "Snad jste si nemysleli, že když opustím republiku, tak vás ochudím o novinky – to ani náhodou. Jen to teď bude trochu složitější jak s časem, tak internetem, a to zejména zítra. Stále totiž platí, že Ukrajina se po ruských útocích potýká s výpadky elektřiny a tím pádem i ostatních služeb včetně mobilních sítí. Navíc se očekávají další raketové útoky na kritickou infrastrukturu a analytici věří, že Rusko v příštích týdnech obdrží velký objem materiálu včetně raket a dronů od jiného teroristického státu – Íránu. Rusko podle pozorovatelů na oplátku nejspíš přislíbilo Íránu pomoc s rozvojem vlastních vojenských technologií nebo dokonce s jaderným programem. Spolupráce Ruska a Íránu tak potenciálně ohrožuje nejen Ukrajinu, ale i celý Blízký východ, respektive celý svět. Rusko tím zároveň ukazuje, jak je zoufalé a bezradné, když musí využívat externí kapacity, aby dokázalo pokračovat ve své nesmyslné výpravě. A beztak jim taková spolupráce nejspíš zvrátit vývoj války nepomůže. [Posuďte sami](https://www.facebook.com/tomak.dvorak/posts/pfbid027nmNvdF7SnLuys5e64vJkouqPv3yMsUmPjkqeKsbkBDqPoPg6y6aWY9UKgX52qBil)"
+        detail: |
+          - Nesmyslnost ruských útoků na Bachmut je stále častější téma také ruských vojenských blogerů. Město prakticky ztratilo operační hodnotu ve chvíli, kdy Ukrajinci během protiofenzivy osvobodili Charkovskou oblast a Izjum. 
+          - HIMARS byl v posledních 24 hodinách mimořádně aktivní u Záporoží. Zasaženy byly ruské základny v Melitopolu a Tokmaku, zásahy hlásí i Enerhodar, Polohy, Berďansk, Dniprorudne a Vasylivka. 
+          - Bělorusko nabídlo, že se stane tranzitní zemí pro ukrajinské obilí mířící do přístavů v baltských zemích. Odborníci ale věří, že je to jen snaha Běloruska, jak se pokusit obejít sankce. 
+          - Lukašenko v televizi blouznil o tom, že NATO mělo plán vstoupit v roce 2020 na Ukrajinu, dobýt Donbas a napadnout Bělorusko a Rusko u Smolensku v roce 2021. Je to šašek.  
+          - Čečenský bloger, o kterém se věřilo, že ho Kadyrovci ve Švédsku zabili, je naživu. V blízké době má vypovídat v německém Mnichově v případu pokusu o atentát na jeho bratra. 
+          - Indický premiér Modi oznámil, že nedorazí na každoroční setkání s prezidentem Putinem. Jako důvod uvedl Putinovy výhrůžky světu jadernými útoky. 
+          - Německo odmítlo poskytnout systémy Patriot Ukrajině. Podle Německa jsou systémy integrální součástí kolektivní protivzdušné obrany NATO. 
+          - Evropská rada schválila finanční pomoc Ukrajině pro rok 2023 ve výši 18 miliard €. Finanční plán teď musí schválit Evropský parlament. 
+          - Po útocích drony na infrastrukturu v Oděse je většina domácností bez dodávek elektřiny. Stejná je situace v Chersonu. 
+          - Velký požár zachvátil ruské kasárny v Sovětském na okupovaném Krymu. Na místě jsou údajně mrtví a ranění. 
+          - Norsko vyčlení 100 miliónů dolarů na obnovu poškozené ukrajinské energetické infrastruktury. 
+          - Zdá se, že Ukrajinci zahájili útok ze dvou stran Svatového a blíží se k městu.
+          - V bojích u Svatového zahynul americký dobrovolník Clayton Hightower. 
+          - Právě probíhají raketové útoky na ruské základny na Krymu. 
+          - V Moskvě hoří Puškinovo státní muzeum umění. 
+          - Na Ukrajině už zahynulo 67 žurnalistů. 
+        videa: |
+          - [Vuhledar](https://twitter.com/nexta_tv/status/1601578985242054657)
+          - [Palba zevnitř obrněného vozidla](https://twitter.com/EuromaidanPress/status/1601636864963842051)
+          - [Archivní video hořící kolony ruských speciálních jednotek v Irpini](https://twitter.com/nexta_tv/status/1601530820128169984)
+          - [Ruské instruktážní video o tom, jak se vyhnout granátu z dronu 😃](https://twitter.com/tomaburque/status/1601328702767276033)
+          - [Rusům hoří kasárny na Krymu](https://twitter.com/EuromaidanPress/status/1601598445546242048)
+          - [Nová pomoc od britské armády](https://twitter.com/UkrainianNews24/status/1601608809922691073)
+          - [Lukašenko blouzní o plánech NATO](https://twitter.com/nexta_tv/status/1601309983945023489)
+          - [Sbírání trofejí](https://twitter.com/EuromaidanPress/status/1601522612110254084)
+          - [Medici na frontě](https://twitter.com/666_mancer/status/1601640668048527360)
+          - [České modernizace sovětských tanků](https://twitter.com/EuromaidanPress/status/1601507512628350976)
+          - [Další trofej](https://twitter.com/herooftheday10/status/1601601387301048324)
+          - [Sběr kovu](https://twitter.com/666_mancer/status/1601515203870740481)
+          - [Jak vypadal Cherson během okupace](https://twitter.com/EuromaidanPress/status/1601442333123190784)
+          - [Rusové nechávají své padlé v bahně](https://twitter.com/Andrii_L1983/status/1601581510674374656)
+          - [Ruské Su-25 přistává bez podvozku](https://twitter.com/666_mancer/status/1601469418097504257)
+          - [Jak ukrajinské BTR-4 přepadlo ruský tank (září)](https://twitter.com/EuromaidanPress/status/1601411882916749312)
+          - [Bachmut](https://twitter.com/UkrainianNews24/status/1601552669276921856)
+          - [Ukrajinské tanky se zimní kamufláží](https://twitter.com/EuromaidanPress/status/1601381683835510785)
+          - [Medaile pro dělostřelce!](https://twitter.com/TpyxaNews/status/1601657552097660929)
+          - [MLRS v Bachmutu](https://twitter.com/UkrainianNews24/status/1601527649549299713)
+          - [Ukrajinský sniper u Bachmutu](https://twitter.com/TpyxaNews/status/1601596212318117888)
+          - [Mínus dvě ruské BMP](https://twitter.com/EuromaidanPress/status/1601353749561315330)
+          - [Život v Bachmutu](https://twitter.com/PaulJawin/status/1601583348715253760)
+          - [Mobilní opravárna techniky](https://twitter.com/EuromaidanPress/status/1601293771173679104)
+          - [Pohřeb hrdiny](https://twitter.com/maria_avdv/status/1601642494554681344)
+          - [Překažený ruský průzkum](https://twitter.com/nevedimka123/status/1601526461944373248)
+          - [Trefa!](https://twitter.com/herooftheday10/status/1601327666275045376)
+          - [Bachmutská fronta](https://twitter.com/TpyxaNews/status/1601499201170309121)
+          - [Umrzl v zákopu? (citlivé!)](https://twitter.com/herooftheday10/status/1601322857346179072)
       - title: "Pátek"
         year: "9. prosince 2022"
         image: assets/img/timeline/2022-12-09.jpg
