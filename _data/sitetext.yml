@@ -35,6 +35,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "11. prosince 2022"
+        image: assets/img/timeline/2022-12-11.jpg
+        desc: "„Ukrajinu nepochopíš, tu musíš žít,“ řekl mi dneska náš nečekaný spolucestující pokaždé, když jsem se něčemu nestíhal divit. A že toho bylo. Doufám, že na nic důležitého nezapomenu, až budu tuhle cestu házet „na papír“. Už teď ale vím, že vám zdaleka nebudu moct říct o naší cestě úplně všechno. Každopádně vítejte u prvního souhrnu novinek z Ukrajiny... z Ukrajiny. Wi-Fi tu sice nejde, ale mobilní sítě a elektřina alespoň tam, kde dnes spíme, běží. Kdyby člověk nevěděl, že je tahle země ve válce, tak by si toho minimálně prvních několik set kilometrů ani nevšiml. U Lvova bylo ale vidět pár záblesků na horizontu, tak teď marně hledám, jestli Rusové něco trefili, nebo jen pracovala ukrajinská PVO. Každopádně ty další zprávy už jsou trochu [detailnější](https://www.facebook.com/tomak.dvorak/posts/pfbid0aHu8odgFWzk63vJZqpkf8Uf7iuRXJrQ2saPFscDLaYsbZchAU3BB65oTLc2UUjYPl)"
+        detail: |
+          - Rusové u Bachmutu údajně zkusili změnit taktiku a namísto obvyklých praporních taktických uskupení (BTG) začali posílat proti ukrajinské obraně speciální útočné formace. Změna taktiky nicméně podle Ukrajinců neznamenala pro Rusy úspěch. Podle Ukrajinců si sice v minulých dnech Rusové připsali dílčí úspěchy, ale na vině byla rotace ukrajinských vojáků, kdy noví příchozí nemohli bránit pozice, které jejich kolegové opouštěli. Situace se nyní nicméně podle Ukrajinců „postupně stabilizuje“. 
+          - Podle správce Luhanské oblasti byla opět zasažena základna Wagnerovců v okupované Kadijivce. Místní hovoří o ohromném množství zabitých a zraněných. Předtím 6-8 raket anihilovalo ruskou základnu v Melitopolu a s ní až 200 okupantů. Ukrajinské raketové dělostřelectvo bylo obecně v posledních dnech velmi aktivní. Možná je to předzvěst nové ofenzivy u Záporoží, o které se už delší dobu spekuluje. 
+          - Podle deníku The Telegraph jedna z ruských lodí, na kterou se vztahují sankce, zakotvila v týdnu v námořní základně Jihoafrické republiky. Aktuálně se tak spekuluje, že Jižní Afrika možná prodává Rusku zbraně nebo jiný vojenský materiál. 
+          - Poslední ruský útok na Vuhledar údajně dopadl pro Rusy tak katastrofálně, že umožnil Ukrajincům provést lokální protiútok a vytlačit Rusy z některých pozic, které předtím dlouhé týdny dobývali. 
+          - Podle Ukrajinců čím dál víc Rusů vyřazuje z boje nemoc. V minulých dnech prý bylo několik dnů, kdy počet hospitalizovaných s různými druhy respiračních chorob, přesáhli počet raněných v boji. 
+          - Členové ruské neonacistické jednotky Rusič vyzvali na Telegramu své sledující z Baltských států, aby jim poskytli informace o energetické infrastruktuře a strategických objektech v zemi. 
+          - Po krátké pauze Rusko opět útočilo íránskými drony. Zřejmě tedy obdrželo novou zásilku, případně vyřešilo problém, který mělo mít se zamrzáním dronů při teplotách pod nulou. 
+          - Rusové se pokusili o neúspěšný průlom o Velyke Novosilky. Útok byl zastaven a Rusové podle snímků z dronu přišli o několik kusů těžké techniky. 
+          - Ukrajina a Německo se dohodly na dalších dodávkách zbraní. Co by ale mělo být součástí nové dodávky, zatím není veřejné. 
+          - Ke žhářskému útoku na ruskou základnu v Sovětském na okupovaném Krymu se přihlásila guerilla hnutí, které si říká ATESH. 
+          - Moskevské letiště Šeremetěvo zaplavila voda poté, co někdo spustit falešný požární poplach. 
+          - Podle videí z Krymu začali Rusové budovat systém zákopů na plážích v Čornomorském. 
+          - Rusové na Telegramu čím dál více diskutují, že je možná čeká porážka. 
+          - Ukrajinci dnes raketami zasáhli 7 ruských velitelských stanovišť. 
+          - Ázerbájdžán poskytl Ukrajině generátory a elektrostanice. 
+          - Turecko přislíbilo další humanitární pomoc Ukrajině.
+        videa: |
+          - [Neuvěřitelná trefa do komína krytu](https://twitter.com/justartsndstuff/status/1602011979144912896)
+          - [Dron natáčí Ukrajince, co evakuuju kolegu](https://twitter.com/TpyxaNews/status/1602044836533919744)
+          - [Tankový duel, 1:0 pro Ukrajinu](https://twitter.com/DefenceU/status/1602044594421653505)
+          - [Mobíci nic nemají](https://twitter.com/wartranslated/status/1601988897235668992)
+          - [Bývalé ruské velitelství v Melitopolu po setkání s HIMARSem](https://twitter.com/nexta_tv/status/1601811264187105284)
+          - [Jiné video](https://twitter.com/Tendar/status/1601921604258336769)
+          - [BMP při práci](https://twitter.com/nevedimka123/status/1601962460378206208)
+          - [V Bulharsku si kolaboranti také udělali pochod](https://twitter.com/nexta_tv/status/1601867961446301703)
+          - [Ruská termobarická munice svržená na Novoselivske](https://twitter.com/EuromaidanPress/status/1601939771621888001)
+          - [Trefa minometem](https://twitter.com/666_mancer/status/1602019478044385280)
+          - [Bachmut](https://twitter.com/UkrainianNews24/status/1601964128930766849)
+          - [Tenhle měl štěstí](https://twitter.com/Andrii_L1983/status/1602007871088398337)
+          - [Pevnot Bachmut](https://twitter.com/nevedimka123/status/1601971044587380738)
+          - [Boje u Bachmutu](https://twitter.com/nevedimka123/status/1601855728905748480)
+          - [Boje na východě](https://twitter.com/TpyxaNews/status/1602000160820789263)
       - title: "Sobota"
         year: "10. prosince 2022"
         image: assets/img/timeline/2022-12-10.jpg
