@@ -35,6 +35,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "13. prosince 2022"
+        image: assets/img/timeline/2022-12-13.jpg
+        desc: "Nedávno se na Twitteru objevilo video s ruským zajatcem, kde se ho ptají, proč přišel bojovat na Ukrajinu a on jim odpovídá, že chtěl bojovat s Poláky. Tak se ho ptají, proč s Poláky, a on tvrdí, že jim velitelé doma řekli, že na Ukrajinu vtrhli Poláci a chtějí z ní kus ukrojit, tak se tedy sebral a přišel pomáhat Ukrajinu bránit. Není mu přitom vůbec divné, že proti němu stojí Ukrajinci ani že je v zajetí na východě země, zatímco Polsko je u západní hranice. Podobných anekdot přitom Ukrajinci evidují desítky. V zachycených rozhovorech Rusové vypráví, jak na ně v noci nepřátelé ze tmy volají polsky, ale nejsou vidět, tak to prý musí být černoši. Nejspíš na ně přitom křičí ukrajinsky, jen ten rozdíl nepoznají. Ruská propaganda je až neuvěřitelná ve schopnosti prodat různým lidem různé příběhy a nechat všechny své konzumenty sešikovat se za společnou věc, ačkoliv každý její konzument věří něčemu jinému a často se ty příběhy mezi sebou dokonce vylučují. [Novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid0AocYa2PkiRUzPpowjP3qSDBbWaMx3iWNLxSPfXRsFJmeBuE7n2MLe74xwjq56yiml)"
+        detail: |
+          - Zelenský vyzval Rusy, aby dokázali, že umí opustit svůj agresivní postoj a využili Vánoce ke stažení sil z Ukrajiny. Peskov prohlásil, že stažení ruských sil z Ukrajiny před koncem roku je mimo jakoukoliv diskuzi. Podle něj Kyjev musí „akceptovat novou realitu“, čímž se rozumí uznání anektovaných regionů jakožto ruského území. 
+          - Bělorusko zahájilo neplánovou „kontrolu připravenosti“ své armády. Součástí manévrů má být i nácvik budování mostů před dvě běloruské řeky. Ukrajinská armáda vydala stanovisko, že je na jakékoliv provokace na své severní hranici připravena. 
+          - V Bachmutu nakonec neproběhla evakuace zdravotnického personálu. Vše tedy naznačuje tomu, že se Ukrajincům podařilo opět vytlačit Rusy dál od centra města, jak některé zdroje v minulých dnech tvrdily. 
+          - Skupina ukrajinských pyrotechniků nešťastnou náhodou aktivovala nástražné výbušniny v Kosťantynivce. 3 na místě zahynuli. Dva delší bojující v nemocnici o život. 
+          - Kadyrov dlouho nic zásadního neprohlásil ani neprovedl, a tak nyní oznámil, že pro Ukrajince nastává nejtěžší období v probíhající „Speciální operaci“. 
+          - Maroko se vzdalo tanků T-72M, které si objednalo u české firmy Excalibur Army a namísto toho věnuje již objednané kusy Ukrajině. 
+          - Všechny reaktory ve třech jaderných elektrárnách na Ukrajinci kontrolovaném území nyní vyrábí elektřinu na maximální výkon. 
+          - Ruský rozpočet na armádu bude v roce 2023 činit třetinu z celkového rozpočtu Ruské federace.  
+          - Ukrajina se připravuje na další vlnu potenciálních útoků na energetickou infrastrukturu.
+          - Masivní exploze otřásly nejspíše vojenskou základnou v Klimovém u ruského Brjansku. 
+          - Varování před vzdušnými útoky dnes bylo opět na celém území Ukrajiny. 
+          - Čínská vláda zakázala export počítačových čipů Loongson do Ruska. 
+        videa: |
+          - [Soledar](https://twitter.com/WarMonitors/status/1602413966982058012)
+          - [Bachmut](https://twitter.com/NOELreports/status/1602631082024882177)
+          - [Východní fronta](https://twitter.com/666_mancer/status/1602411880634585116)
+          - [Mariupol](https://twitter.com/nexta_tv/status/1602597069713297408)
+          - [Archivní video, kdy Ukrajinci u Kyjeva omylem zasáhli vlastní vozidlo](https://twitter.com/TarmoFella/status/1602630925749309440)
+          - [Nabíjení telefonů v Oděse](https://twitter.com/EuromaidanPress/status/1602563217091448838)
+          - [Jede se!](https://twitter.com/OleksandrKolym/status/1602641499124273153)
+          - [Zasažená ruská základna u Brjansku](https://twitter.com/nexta_tv/status/1602575456951312385)
+          - [Rusové s arktickým vozítkem](https://twitter.com/666_mancer/status/1602648747200368640)
+          - [Trefa Switchbladem](https://twitter.com/Andrii_L1983/status/1602558689805737984)
+          - [Pauza na frontě](https://twitter.com/UkrainianNews24/status/1602635905076006913)
+          - [Přepad ruských pozic](https://twitter.com/666_mancer/status/1602558330311950336)
+          - [Ruský pokus prorazit s tanky nevyšel](https://twitter.com/RALee85/status/1602414624615370765)
+          - [MRAP přežil zásah z RPG](https://twitter.com/nexta_tv/status/1602438892539502594)
+          - [Bývalý ruský tank](https://twitter.com/Lt_Kizhe/status/1498214672037818368)
+          - [Zničený most u Doněcku](https://twitter.com/666_mancer/status/1602194721862041601)
+          - [Trofeje na Donbase](https://twitter.com/herooftheday10/status/1602629694402297856)
+          - [Tak to zamaskovali, no a co?](https://twitter.com/PaulJawin/status/1602566238798069761)
+          - [Zásahy dronem](https://twitter.com/666_mancer/status/1602410552399101953)
+          - [Mínus osm](https://twitter.com/herooftheday10/status/1602632004012482562)
+          - [Ten už ho neodtáhne](https://twitter.com/Osinttechnical/status/1602434238619566080)
       - title: "Pondělí"
         year: "12. prosince 2022"
         image: assets/img/timeline/2022-12-12.jpg
