@@ -35,6 +35,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "12. prosince 2022"
+        image: assets/img/timeline/2022-12-12.jpg
+        desc: "Dneska to bude trochu stručnější. Nejde mi ani moc přemýšlet, natož pracovat. Od devíti od rána jsme na cestě, překročení hranic bylo o nervy a přehled píšu až teď, kdy jsme se vystřídali už za českou hranicí za volantem a já se krčím na sedačce spolujezdce s notebookem na klíně, nevyspalý a s vidinou dalších 300 km před námi. Každopádně díky za ohromnou podporu, a to jak materiální, tak finanční, nebo čistě morální. Nebudu vám zatím psát, jaká byla cesta a co jsme zažili. Musím si totiž rozmyslet, jak to celé napsat tak, abych toho prozradil co nejvíc, ale zároveň nikoho nedostal do průšvihu. Tak mi dejte pár dní času a mezitím se udržujte v obraze. Třeba [tady](https://www.facebook.com/tomak.dvorak/posts/pfbid02M8dVnSDRPYJ7HeMbnEkQAdAMrqQxm7r7ShG59LR8HSUGaSfqRkgevziKXfwijGdrl):"
+        detail: |
+          - Evropská unie se prozatím neshodla na podobě devátého balíku protiruských sankcí. Měl by ale zavádět sankce také proti ruským propagandistům a jejich médiím.
+          - V Chersonské oblasti explodovalo auto s dalším kolaborantem. Vitaly Bulyuk byl převezen se zraněními do nemocnice, jeho řidič na místě zahynul. 
+          - Známý britský umělec Banksy oznámil dražbu 50 unikátních plakátů. Výtěžek z aukce posléze věnuje na pomoc ukrajinským civilistům zasaženým válkou. 
+          - Putin v projevu ujišťoval ruskou veřejnost, že mobilizovaní muži tvoří pouze rezervy a bojové úkoly jsou svěřeny profesionální armádě. Tak to jo... 
+          - Rusové zasáhli raketami centrum městečka Hirnyk v Doněcké oblasti. Dva lidé na místě zemřeli, dalších nejméně 10 bylo zraněno. 
+          - Ukrajina jedná s Francií o nákupu systémů PVO SAMP/T Mamba. Francie mezitím poskytla Ukrajině nejméně šest houfnic TRF1.
+          - Pozorovatelé v Bělorusku hlásí, že část ruské techniky se přesouvá z běloruských základen směrem k ukrajinské hranici. 
+          - Britský ministr obrany Wallace oznámil, že zůstává „otevřený“ tomu, poskytnout Ukrajině zbraně z dlouhým doletem. 
+          - Most, po kterém Rusové převáželi zásoby z Melitopolu na Záporožskou frontu, byl poškozen explozí.
+          - Rusko navzdory sankcím vyrobilo od února okolo čtyř set dalších naváděných raket.
+          - Ukrajinská ambasáda v Řecku obdržela další výhrůžný balíček se zvířecí krví. 
+        videa: |
+          - [Demilitarizace ruského velitele](https://twitter.com/Apocalypto321/status/1602259753677234179)
+          - [Práce Krakenu](https://twitter.com/TpyxaNews/status/1602360761074044929)
+          - [Mobík přišel válčit s Poláky](https://twitter.com/wartranslated/status/1602256239064498183)
+          - [Poškozený most v Melitopolu](https://twitter.com/nexta_tv/status/1602412843046998039)
+          - [Medici v Bachmutu](https://twitter.com/Hromadske/status/1602348706795163649)
+          - [Ruská základna po zásahu HIMARSem, pohled zevnitř](https://twitter.com/bayraktar_1love/status/1602249119413706752)
+          - [Mariupol mrzne](https://twitter.com/nexta_tv/status/1602365163729846273)
+          - [Kupředu!](https://twitter.com/UkrainianNews24/status/1602255655728979968)
+          - [Sběr šrotu](https://twitter.com/UkraineRussia2/status/1602264644248371202)
+          - [V Rusku už zase něco hoří](https://twitter.com/nexta_tv/status/1602319865746014209)
+          - [Ruská armáda (citlivé!)](https://twitter.com/Milan8662/status/1602369412551643151)
+          - [V zákopech](https://twitter.com/UkrainianNews24/status/1602255102328406020)
+          - [A další hořící obchoďák](https://twitter.com/nexta_tv/status/1602205735240306688)
+          - [HIMARS v dešti](https://twitter.com/DefenceU/status/1602304080361185280)
+          - [Oděsa bez elektřiny, ale bez Rusů](https://twitter.com/nexta_tv/status/1602067447896580098)
+          - [Bývalý ruský tank](https://twitter.com/666_mancer/status/1602206074064539648)
+          - [Zimní práce](https://twitter.com/nevedimka123/status/1602196348224389120)
+          - [Něco jede z Bulharska](https://twitter.com/herooftheday10/status/1602087384874717184)
       - title: "Neděle"
         year: "11. prosince 2022"
         image: assets/img/timeline/2022-12-11.jpg
