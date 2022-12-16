@@ -35,6 +35,55 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "16. prosince 2022"
+        image: assets/img/timeline/2022-12-16.jpg
+        desc: "Dva čeští dobrovolníci ve včerejším živém vysílání na Twitteru potvrdili, co se už dlouho říká o taktice Wagnerovců u Bachmutu. Rusové posílají skupiny vězňů a mobilizovaných mužů s mizernou výstrojí v nekonečných vlnách, a teprve když se některé z nich podaří projít až na ukrajinské pozice, následují je do dobytých zákopů profesionální kontraktoři z Wagnerovy armády. To vede k ohromným ztrátám Rusů, ale bohužel i Ukrajinců, kteří často musí opustit pozice buď z důvodu nedostatku munice pro přebití, nebo čistě proto, že Rusové jednoduše chodí v takovém množství, že pozice Ukrajinců doslova zahltí. Zároveň vyvrátili celou řadu spekulací o kvalitě ukrajinské výzbroje. Všichni bez výjimky prý fasují kvalitně udržované pušky, speciální jednotky potom dokonce západní zbraně, a všichni dostávají i kvalitní nosiče plátů a helmy s ochranou třetího stupně buď ukrajinské, nebo finské výroby. Ruská propaganda s oblibou šíří narativy o tom, že ukrajinští vojáci mají mizernou výbavu a zrezlé pušky (což je ironicky případ Rusů) a že se zbraně rozkrádají a přeprodávají do třetích zemích. Ačkoliv Kyiv Independent přišel s investigativní reportáží, která podobné prakticky naznačuje, žádné vyšetřování zatím neprokázalo, že by k tomu docházelo, natož v nějakém větším měřítku. Existuje jednoduchá pomůcka, jak poznat, že Rusové lžou: otevírají pusu. A teď [novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid02Nk7fCrpuRzr22kJQtsGMbRHA4wpXeBQ3DMefvLaLAiMGYKNdQVCF5vJ29kVrxtDQl)"
+        detail: |
+          - Rusko opět útočilo raketami po celém území Ukrajiny. Zasažen byl Kyjev a také Dnipro, Záporoží, Charkov, Kirovohrad, Mykolajiv, Oděsa a Vinnycja. Celkem bylo podle ukrajinských vzdušných sil vypáleno 72 raket. 37 ze 40 vypálených na Kyjev zneškodnila protivzdušná obrana. 
+          - Investigativní novináři odhalili, že Rusko nakupuje díly pro své drony Orlan-10 v Číně a USA i přes zavedené sankce. Využívá k tomu několik firem v Hongkongu a Spojených státech, které vlastní Rusové. 
+          - Tohle nebude příjemné čtení. Podle vyšetřovatelů byly v exhumovaném těle z jednoho ze společných hrobů, které patřilo sedmileté dívce, objeveny stopy sedmi různých vzorků semene. 
+          - A tohle také ne. Wagnerovci se na svém Telegramu „pochlubili“ videem, kde brutálně mučí a pravděpodobně posléze i zavraždí zajatou ukrajinskou vojačku. 
+          - OSN přijalo rezoluci odsuzující porušování lidských práv na okupovaném Krymu a také to, že Rusko využívá Krym k útokům na Ukrjainu. Proti hlasovalo pouze 13 států a Rusko. 
+          - Rusové dnes ráno zasáhli raketami nemocnici v osvobozeném Kupjansku. Zničili přitom částečně tamější infekční oddělení. 
+          - Evropská unie schválila devátý balík protiruských sankcí. Maďarsko se snažilo prosadit, aby z něj byli vyňatí ruští ministři. 
+          - Podle ministra obrany Reznikova sbírají Rusové síly, aby se pokusili o novou ofenzivu v únoru příštího roku. 
+          - Podle iniciativy „Chci žít“ nyní čeká okolo 4 300 Rusů na to, aby se mohli bezpečně vzdát. 
+          - Litva přijala zákon, který zakazuje občanům Ruska a Běloruska vlastnit střelné zbraně. 
+          - V ruském Ulan-Ude se zřítila helikoptéra Mi-8. Posádka během nehody zahynula. 
+          - Ukrajina po dnešních raketových útocích přišla o 50 % své energetické kapacity. 
+          - Evropský parlament uznal Holodomor za genocidu ukrajinské populace. 
+          - Ukrajinci zničili ruský muniční sklad v obci Irmnino u Luhansku. 
+          - Putin navštíví 19. prosince Bělorusko. 
+        videa: |
+          - [Celá kolona jde na malou](https://twitter.com/Seveerity/status/1603472497189523477)
+          - [Hrdina Kadyrov 😃](https://twitter.com/justartsndstuff/status/1603424204321325057)
+          - [Ukrajinské dělostřelectvo anihilovalo ruská opevnění i s posádkou](https://twitter.com/PaulJawin/status/1603694402077089798)
+          - [Gruzínci zničili celou útočnou skupinu Wagnerovců](https://twitter.com/visionergeo/status/1603509022446985230)
+          - [Ruská raketové útoky jsou vidět z letadla](https://twitter.com/nexta_tv/status/1603696830340304896)
+          - [Děti v Charkově fasují vesty proti šrapnelům](https://twitter.com/maria_avdv/status/1603379892229398528)
+          - [Sestřelený ruský kamikadze dron](https://twitter.com/KyivIndependent/status/1603696579311017984)
+          - [Zlitý ruský voják v Doněcku](https://twitter.com/NOELreports/status/1603448438649225216)
+          - [Český Vampýr](https://twitter.com/TpyxaNews/status/1603702392964485121)
+          - [Ukořistěný moderní tank](https://twitter.com/EuromaidanPress/status/1603386896305967104)
+          - [Zřícená ruská helikoptéra](https://twitter.com/nexta_tv/status/1603669387080237057)
+          - [Rusové natočili zásah ukrajinským dělostřelectvem](https://twitter.com/EuromaidanPress/status/1603691049028919301)
+          - [Výbuch ruského muničního skladu ve městě Irmino](https://twitter.com/nexta_tv/status/1603544371865030656)
+          - [Řízená detonace ruských min](https://twitter.com/EuromaidanPress/status/1603600807886262279)
+          - [Ukrajinci zasáhli hotel, který využívala FSB](https://twitter.com/nexta_tv/status/1603404574898810880)
+          - [Bachmut](https://twitter.com/nexta_tv/status/1603385853363068928)
+          - [Trofeje](https://twitter.com/NOELreports/status/1603446711430660110)
+          - [Stugna versus Linza](https://twitter.com/EuromaidanPress/status/1603374565563908096)
+          - [Ukrajinská stíhačka s americkou raketou](https://twitter.com/Osinttechn.../status/1603595626649948160)
+          - [Tažení houfnice blátem](https://twitter.com/Osinttechnical/status/1603543037468180488)
+          - [Partyzáni ničí koleje v Rusku](https://twitter.com/JayinKyiv/status/1603094778580713472)
+          - [Přestřelka na frontě](https://twitter.com/NOELreports/status/1603502955075870730)
+          - [Cicinta](https://twitter.com/TpyxaNews/status/1603405341806444544)
+          - [Bachmut](https://twitter.com/NOELreports/status/1603471579656163347)
+          - [Stugna versus ruská pěchota](https://twitter.com/ItsArtoir/status/1603529361302425600)
+          - [Přesun](https://twitter.com/TheDeadDistrict/status/1603662877008830464)
+          - [Ukrajinský MT-LB](https://twitter.com/Osinttechnical/status/1603654568637874176)
+          - [Gepard na Ukrajině](https://twitter.com/gepardtatze/status/1603495985358987275)
       - title: "Čtvrtek"
         year: "15. prosince 2022"
         image: assets/img/timeline/2022-12-15.jpg
