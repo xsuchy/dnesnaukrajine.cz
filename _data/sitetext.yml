@@ -35,6 +35,55 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "21. prosince 2022"
+        image: assets/img/timeline/2022-12-21.jpg
+        desc: "Propagandista Solovjov ve svém pořadu vyhrožoval Evropanům, že „Rusko dobude Paříž i Berlín“ a že „nás bastardy postaví přes tribunál v Haagu, pokud se nezačneme chovat k Rusku s respektem“. Všechny evropské lídry pak souhrnně označil za „nacisty, které ovládají jejich američtí vládci“. Ruská stát a jeho oficiální propaganda je skutečně zhmotněný sen všech voličů extremistických stran. A není divu, když často čerpají své (dez)informace právě z ruských propagandistických kanálů. Naštěstí je mluvení to jediné, co Solovjov zmůže. V realitě už to tak slavné není"
+        detail: |
+          - Rusko přesouvá k ukrajinským hranicím v Bělorusku zhruba dvacítku tanků T-80. Nejspíš ale jde jen o psychologický boj s cílem vázat na severu ukrajinské síly. Skupina je totiž relativně malá a nemá kapacitu provádět bojové akce. Bělorusko nicméně omezilo vstup civilistům do tří příhraničních oblastí, odkud Rusko v únoru zaútočilo.  
+          - Ukrajina spustí oficiální proces v OSN s cílem prokázat, že Rusko okupuje místo v Bezpečnostní radě nelegálně. Důvodem je, že Rusko jako nástupnický stát Sovětského svazu nikdy nepožádalo o členství v OSN, zatímco všechny ostatní státy bývalého svazu tak učinily.
+          - Ruští dělostřelci cíleně pálili po autě s italskými novináři u osvobozeného Cherson. Jeden z novinářů byl přitom zraněn šrapnelem, ale naštěstí se incident obešel bez obětí na životech.
+          - Podle britského ministra obrany Wallace poskytne Rusko Íránu jako protislužbu za dodávky kamikaze dronů některé pokročilé vojenské technologie a elektronické součástky.
+          - Ruská pobočka červeného kříže nově pořádá sbírky vojenského vybavení pro ruské vojáky, čímž jednoznačně porušuje vlastní principy neutrality.
+          - Ukrajinský generální štáb informoval Rusko, že ze strany Ukrajiny nastane úplný klid zbraní, jakmile všichni okupanti opustí území Ukrajiny.
+          - Podle zdrojů CNN poskytnou Spojené státy Ukrajině systémy Patriot v rámci dalšího chystaného balíčku vojenské pomoci.
+          - Prezident Zelenský je na cestě do Washingtonu. Má se setkat s prezidentem Bidenem a promluvit v americkém kongresu.
+          - Ukrajinské síly se nejspíš probojovaly ke Kreminně ze tří stran. Rusové se dnes pokusili o protiútok na západě města.
+          - Česko obdrželo první tanky Leopard 2A4 výměnou za své tanky sovětské výroby, které poskytlo Ukrajině.
+          - V jedné z obcí u osvobozeného Chersonu byl objeven společný hrob sedmi zabitých civilistů.
+          - Rusko podle videí na sociálních sítích rozmístilo systémy PVO v Moskevské oblasti.
+          - Francie poskytne Ukrajině další houfnice CAESAR v prvním čtvrtletí roku 2023.
+          - Putin informoval, že Rusko bude pokračovat s rozvojem nukleární triády.
+          - Bělorusko označilo TikTok kanálu NEXTA za extremistický materiál.
+          - SBU vyšetřuje, čí vinou se Rusové dokázali zmocnit jihu země.
+          - Británie poskytla Ukrajině 900 generátorů.
+        videa: |
+          - [Boje v Bachmutu](https://twitter.com/UkrainianNews24/status/1605530394299965441)
+          - [Marjinka](https://twitter.com/TarmoFella/status/1605551918381760513)
+          - [Bachmut](https://twitter.com/nexta_tv/status/1605492840502419456)
+          - [Polské kraby v Bachmutu](https://twitter.com/EuromaidanPress/status/1605485410146078721)
+          - [Generální štáb o příměří](https://twitter.com/nexta_tv/status/1605348572408455173)
+          - [Na frontě](https://twitter.com/UkrainianNews24/status/1605530694649671680)
+          - [Soledar](https://twitter.com/NOELreports/status/1605488740100501505)
+          - [Útok na italské novináře](https://twitter.com/EuromaidanPress/status/1605281472818171928)
+          - [Vyprošťování dítěte z trosek po ruském ostřelování](https://twitter.com/nexta_tv/status/1605284016931880961)
+          - [Situace v Bachmutu](https://twitter.com/NOELreports/status/1605500695766913024)
+          - [Prigožin na Ukrajině](https://twitter.com/nexta_tv/status/1605271150149378073)
+          - [Trofej](https://twitter.com/EuromaidanPress/status/1605233564395524096)
+          - [Protivzdušná obrana u Moskvy](https://twitter.com/NOELreports/status/1605490532876066816)
+          - [Morálka drží](https://twitter.com/UkrainianNews24/status/1605529763812184065)
+          - [Pohyb tanků v Bělorusku](https://twitter.com/NOELreports/status/1605483288205750274)
+          - [Bahýnko](https://twitter.com/UkrainianNews24/status/1605474155981287424)
+          - [Ukrajinský protiútok u Bachmutu](https://twitter.com/NOELreports/status/1605457755426406400)
+          - [Příběh zajatce](https://twitter.com/wartranslated/status/1605524308394070017)
+          - [Další ruská technika míří na Ukrajinu](https://twitter.com/NOELreports/status/1605300517189849090)
+          - [Morálka je dobrá](https://twitter.com/GlasnostGone/status/1605278314192687112)
+          - [Zbytky ruské armády, doslova (velmi citlivé)](https://twitter.com/Milan8662/status/1605478108928573440)
+          - [Nepovedený ruský útok](https://twitter.com/Peter79233966/status/1605324930844741634)
+          - [Mariupol](https://twitter.com/Gerashchenko_en/status/1605542079135883266)
+          - [Ukrajinci u Kreminny](https://twitter.com/Militarylandnet/status/1605486228509294593)
+          - [Rusové zničili dvě děla](https://twitter.com/UAWeapons/status/1605547980316180484)
+          - [Mikuláš na frontě](https://twitter.com/SlavaUk30722777/status/1605336715899834368)
       - title: "Úterý"
         year: "20. prosince 2022"
         image: assets/img/timeline/2022-12-20.jpg
