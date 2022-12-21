@@ -35,6 +35,51 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "20. prosince 2022"
+        image: assets/img/timeline/2022-12-20.jpg
+        desc: "Je 300. den ruské třídenní speciální operace. A konec je prozatím v nedohlednu. Naopak, zřejmě se boje na jaře ještě zintenzivní a Rusko se nejspíš pokusí otevřít novou frontu. Jestli úspěšně, to aktuálně nikdo neví. Ale jsou tu některé zprávy, které nám můžou alespoň trochu přiblížit, co si Rusko na příští jaro chystá. Třeba hned ta první"
+        detail: |
+          - Podle poradce Podoljaka vyvíjí Rusko strategii pro útoky velkým počtem pěších vojáků – podobně jako za druhé světové války. Chce tedy zřejmě zahltit bojiště nově mobilizovanými silami a plně využít jejich počet, ale možná tím reaguje i na skutečnost, že nemá k dispozici dostatek provozuschopných bojových vozidel pro vytváření mechanizovaných praporů a vedení boje v moderním pojetí za pomoci kombinovaných sil.
+          - Generál Zálužný apeloval na Zelenského, aby urychleně podepsal zákony zpřísňující odpovědnost, a tedy i tresty pro vojáky, kteří neuposlechnou rozkazy nebo bez povolení opustí své pozice. Podle generála kvůli takovému chování vojáků dochází ke zbytečným ztrátám, a to jak územním, tak na živé síle. Dosud vojákům hrozily jen různá napomenutí a pokuty.
+          - Lukašenko po jednání s Putinem prohlásil, že bylo plodné a že „Bělorusové jistě ocení, jakou strategii spolu vyjednali“. Ukrajinský Generální štáb oznámil, že hrozba nového útoku z Běloruska každým dnem mírně stoupá, nicméně analytici z ISW věří, že se Putinovi nepodařilo přemluvit Lukašenka, aby Bělorusko do války přímo zapojil.
+          - Šojgu tvrdil, že navštívil vojáky na aktivní frontě a z helikoptéry si prohlédl ruská opevnění. Novinářům se podařilo lokalizovat záběry z návštěvy a zjistili, že byl ve skutečnosti 80 km daleko od fronty na okupovaném Krymu.
+          - Skupina neznámých pachatelů hodila přes plot finské ambasády v Moskvě několik bouracích kladiv. Ty jsou přitom symbolem Prigožinových Wagnerovců, kteří s nimi brutálně vraždí zajatce a dezertéry.
+          - Ředitel moldavských tajných služeb při rozhovoru s novináři oznámil, že tajné služby mají informace, že Rusko hodlá vpadnout na začátku roku 2023 do Moldavska.
+          - Estonsko poskytlo Ukrajině mobilní sauny, kde se vojáci můžou vykoupat, zrelaxovat a vyprat a vysušit své oblečení.
+          - Okolo 100 000 ruských It specialistů nyní žije mimo území Ruska, přesto 80 % z nich dál pracuje pro ruské firmy.
+          - Finsko chystá další balík vojenské pomoci Ukrajině. Prý přímo odpovídá na poptávku ukrajinské armády.
+          - Nový rozpočet Spojených států počítá s alokací 45 miliard dolarů pro potřeby Ukrajiny a zemí NATO.
+          - Ruská Státní duma přijal zákon, který zavádí trest až pěti let vězení za „hanobení“ svatojiřské stuhy.
+          - Podle operačního velení Jih nejspíš Rusové připravují evakuaci svých jednotek z Melitopolu.
+          - Ruský vyslanec v OSN popřel, že by Rusko obdrželo zásilky íránských dronů.
+          - Zatímco Putin navštívil Lukašenka, prezident Zelenský navštívil Bachmut.
+          - Do Kyjeva přijel na oficiální návštěvu bulharský ministr obrany.
+          - Ukrajinci zničili ruskou základnu v okupované Čaplynce.
+          - V ruském Čuvašsku explodoval a hoří plynovod.
+        videa: |
+          - [Zelenský v Bachmutu](https://twitter.com/nexta_tv/status/1605188220031229954)
+          - [Ukrajinský pilot se snaží evakuovat jinou posádku, kterou Rusové sestřelili](https://twitter.com/Osinttechnical/status/1604997510434619395)
+          - [Exploze v Čuvašsku](https://twitter.com/nexta_tv/status/1605161838265647104)
+          - [Jiný úhel](https://twitter.com/nexta_tv/status/1605167690020261888)
+          - [Dvakrát Igla na ruskou stíhačku](https://twitter.com/Osinttechnical/status/1604937258041221140)
+          - [Belgorodská oblast byla pod palbou](https://twitter.com/nexta_tv/status/1605140860076969984)
+          - [O běloruské potravě pro děla](https://twitter.com/NOELreports/status/1604837785348833280)
+          - [Mikuláš v Bachmutu](https://twitter.com/nexta_tv/status/1604998350822342656)
+          - [Ruský tank u Bachmutu](https://twitter.com/NOELreports/status/1604891284979818497)
+          - [Demobilizace](https://twitter.com/666_mancer/status/1605107715033923585)
+          - [Bachmut](https://twitter.com/NOELreports/status/1605103796211748864)
+          - [Ruský Pantsir už dál nepojede](https://twitter.com/ebany_patriot/status/1604916015418277897)
+          - [Ukrajinci postupují v Opytném](https://twitter.com/NOELreports/status/1604935554272993284)
+          - [Gvozdika](https://twitter.com/Osinttechnical/status/1604323992231301120)
+          - [Auvajs](https://twitter.com/NOELreports/status/1604928371913330691)
+          - [Vyproštění z bahna](https://twitter.com/NOELreports/status/1604927632889487371)
+          - [Improvizovaný raketomet](https://twitter.com/Osinttechnical/status/1605094062541115393)
+          - [Zápalná munice opět nad Marjinkou](https://twitter.com/NOELreports/status/1604926230528425984)
+          - [Bingo!](https://twitter.com/NOELreports/status/1604907124462592000)
+          - [Ruský náklad 200](https://twitter.com/666_mancer/status/1605203322184548354)
+          - [Ukrajinský tank v Bachmutu](https://twitter.com/NOELreports/status/1604893067802447872)
+          - [Ukrajinský tank dostal dvě protitankové střely](https://twitter.com/NOELreports/status/1604879559584776192)
       - title: "Pondělí"
         year: "19. prosince 2022"
         image: assets/img/timeline/2022-12-19.jpg
