@@ -35,6 +35,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "22. prosince 2022"
+        image: assets/img/timeline/2022-12-22.jpg
+        desc: "100 000. A čtyři stovky k tomu. Tolik životů už Rusko stála Putinova nesmyslná křížová výprava. A to jsou jen zmařené životy na ruské straně – bez ztrát ukrajinských sil, bez obětí mezi civilisty. A potom jsou tu další miliony životů, které válka zničila nebo nevratně obrátila naruby. Co bude další milník? 150 000? 200 000? Kdo ví. Nejhorší na tom je, že až Putin svou válku prohraje, bude to sice výhra pro celý svět, ale o to nesmyslnější všechny ty oběti budou. Kdyby totiž Rusko bylo skutečně sebevědomou zemí, nikdy by taková válka nemusela vzniknout. Každopádně, tady jsou novinky"
+        detail: |
+          - Dmitry Rogozin, bývalý ředitel agentury Roskosmos, byl zraněn několika šrapnely, když večeřel a slavil svoje narozeniny v restauraci v okupovaném Doněcku. Restauraci zasáhla přesná dělostřelecká palba. Sám Rogozin byl přesností palby natolik překvapen, že se obává, že mohla přijít z ruské strany, případně že někdo z ruské strany předal Ukrajincům přesnou lokaci, a požaduje proto vyšetření celého incidentu.
+          - Podle některých pozorovatelů se Rusům kompletně zhroutil aktuální útok na Bachmut z jeho východní části. Rusové nejenže nikam nepostoupili, ale dokonce opustili některé pozice, které několik týdnů bezpečně drželi, a stáhli se až za průmyslovou zónu na předměstí.
+          - Deník The New York Times zveřejnil výsledek vlastní investigativní práce. Pomocí získaných videomateriálů novináři identifikovali ruské vojáky, kteří pravděpodobně stojí za 36 zabitými civilisty v Buče.  
+          - Neznámý pachatel se v úterý pokusil zavraždit hlavního editora webu Cherson Newscity Konstantina Ryženka. Dvakrát na něj vystřelil z bezprostřední blízkosti. Ryženko měl naštěstí na sobě neprůstřelnou vestu.
+          - „Peníze, které poskytujete, nejsou charita. Je to investice do globální bezpečnosti a zachování demokracie, se kterou zodpovědně nakládáme,“ řekl prezident Zelenský v americkém Kongresu.  
+          - Hennadij Afanasjev, bývalý politický vězeň z okupovaného Krymu, který se po vypuknutí invaze přidal k teritoriální obraně, padnul v bojích v Luhanské oblasti.
+          - Kolaborant a „starosta“ Ljubimivky v okupované části Chersonské oblasti Andrej Štepa byl zabit výbušninou nastraženou v jeho voze.  
+          - Podle ruské státní agentury TASS vypukl na letadlové lodi Admirál Kuzněcov kotvící v Murmansku požár.
+          - Rusko vyhrožovalo Řecku, že pokud Ukrajině poskytne své systémy S-300, „ponese vážné následky“.
+          - Americký generál Ben Hodges věří, že k osvobození Krymu dojde do konce srpna příštího roku.
+          - Island daroval Ukrajině 12 000 kompletů vojenského zimního oblečení.
+          - Ukrajina obdrží dalších 900 generátorů od Evropské unie.
+        videa: |
+          - [Vítání hrdiny](https://twitter.com/DefenceU/status/1605263445615583232)
+          - [Rogozinova narozeninová párty](https://twitter.com/NOELreports/status/1605876798549540865)
+          - [Auto Andreje Štepy](https://twitter.com/nexta_tv/status/1605940976127721473)
+          - [Demilitarizace Wagnerovců](https://twitter.com/NOELreports/status/1605956694520975363)
+          - [Biden převzal medaili od velitele dělostřelecké baterie systémů HIMARS](https://twitter.com/nexta_tv/status/1605867187272650756)
+          - [Pod palbou v zákopech](https://twitter.com/NOELreports/status/1605883231051603968)
+          - [Zelenský v Kongresu](https://twitter.com/kaitlancollins/status/1605724988711002112)
+          - [Marjinka](https://twitter.com/NOELreports/status/1605849837353803776)
+          - [Přesun francouzského děla z nové zásilky vojenské pomoci](https://twitter.com/EuromaidanPress/status/1605907505586003968)
+          - [Boje v Bachmutu](https://twitter.com/nexta_tv/status/1605862769017753600)
+          - [HIMARS time](https://twitter.com/NOELreports/status/1605937388114522113)
+          - [100 000 (citlivé)](https://twitter.com/herooftheday10/status/1605623989778337792)
+          - [Evakuace dronu](https://twitter.com/NOELreports/status/1605935460072804352)
+
       - title: "Středa"
         year: "21. prosince 2022"
         image: assets/img/timeline/2022-12-21.jpg
