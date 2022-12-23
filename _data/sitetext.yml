@@ -35,6 +35,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "23. prosince 2022"
+        image: assets/img/timeline/2022-12-23.jpg
+        desc: "Ruští propagandisté v televizní debatě zcela vážně diskutovali o možném ukrajinském útoku na Moskvu. Speciální operace jde viditelně podle plánu! Minimálně co se denacifikace týče, Rusku už se podařilo během bojů na Ukrajině zneškodnit 100 000 fašistů a jiných kriminálníků. Sice ve vlastních řadách, ale to se přece také počítá. Držím palce, ať Rusům tohle tempo vydrží. Udělají tím ohromnou práci pro bezpečnost celého světa v příštích desetiletích. A teď pár novinek"
+        detail: |
+          - Írán ústy svého ministra zahraničí znovu popřel dodávky svých dronů Rusku a zároveň vyhrožoval Zelenskému, když ministr prohlásil, že „Zelenský by si měl uvědomit, že strategická trpělivost Íránu s takovými obviněními není nekonečná“.
+          - Zastupitel Nikita Yuferev z Petrohradu podal oficiální stížnost na prezidenta Putina pro „šíření fake news o ruské armádě“. Putin totiž v posledním projevu poprvé použil slovo „válka“ namísto „speciální operace“, za což byli v minulosti lidé trestáni.
+          - Evropská unie zmrazila Maďarsku financování ve výši 22 miliard eur, dokud země nenaplní požadavky EU týkající se nezávislosti soudnictví, akademických svobod, práv menšin a azylového systému.  
+          - Při zásahu restaurace v Doněcku, kde tou dobou večeřel Rogozin, zahynul jeho asistent a jeden z bodyguardů. Sám Rogozin utrpěl vážné zranění, manželky Rogozina a Chocenka utrpěly lehká zranění.
+          - Girkin na svém kanále potvrdil, že Ukrajinci vytlačili Wagnerovce z předměstí Bachmutu. Podle OSINT analytiků nyní Ukrajinci kontrolují poměrně širokou nárazníkovou zónu ve všech směrech.
+          - Podle guvernéra Sumské oblasti Ukrajinci zlikvidovali subversivní skupinu, které překročila u Sum hranice 22. prosince. Dva ruští vojáci ze skupiny zahynuli během přestřelky s pohraniční stráží.
+          - Pozorovatelé hlásí zvýšenou aktivitu ruských lodí v okupovaném Sevastopolu. Podle analytiků se možná chystá větší vojenská operace s jejich zapojením.
+          - Terorista Girkin vzkázal Solovjovovi, že pokud Rusko prohraje válku, udělá všechno, co bude v jeho silách, aby Solovjov neutekl před spravedlností.  
+          - Ruští okupanti kompletně vyrabovali „Dům koňaků“ v okupované Nové Kachovce. Odvezli si dokonce rozmontovanou lahvovací linku.
+          - Americký Senát dal zelenou návrhu, aby byl zabavený majetek ruských oligarchů poskytnut Ukrajině k poválečné obnově země.
+          - Podle novinářů z Reuters nakoupila Wagnerova armáda pro potřeby války na Ukrajině zbraně a výbavu od Severní Koreje.
+          - Dva agenti ruské FSB pravděpodobně zahynuli poté, co jejich auto explodovalo v okupovaném Melitopolu.
+          - Německo odhalilo a zatklo ruského špiona v řadách BND (zahraniční rozvědka).
+          - Putin ocenil Kadyrova řádem Alexandra Něvského. Asi za obsah na TikToku.
+          - V Moskvě vypukl požár v základně jedné z vojenských jednotek.
+          - První skupina ukrajinských vojáků dokončila výcvik v Česku.
+          - Japonská firma Rakuten daruje Ukrajině 500 generátorů.
+          - V Moskvě hoří ubytovna policejní jednotky OMON.
+          - U Mariupolu se objevilo už 10 300 nových hrobů.
+        videa: |
+          - [Reportáž New York Times](https://www.nytimes.com/2022/12/22/video/russia-ukraine-bucha-massacre-takeaways.html?searchResultPosition=1)
+          - [Film AZOVu o bojích v Bachmutu](https://www.youtube.com/watch?v=CIdHKwvXaEg&t=1380s)
+          - [Video z výcviku v Británii](https://twitter.com/NOELreports/status/1606289582214897665)
+          - [FSB vyjížďka v Melitopolu](https://twitter.com/nexta_tv/status/1606235458001702912)
+          - [Animované momentky](https://twitter.com/GeneralStaffUA/status/1605821527982686208)
+          - [Medici AZOVu během ostřelování Bachmutu](https://twitter.com/NOELreports/status/1606277584165093378)
+          - [Zelenský a Duda](https://twitter.com/Hromadske/status/1605951689302765568)
+          - [Hořící vojenský objekt v Moskvě](https://twitter.com/nexta_tv/status/1606171922269581312)
+          - [Zničená ukrajinská vozidla](https://twitter.com/NOELreports/status/1606278932340174848)
+          - [Neschoval se](https://twitter.com/Milan8662/status/1606188878309732359)
+          - [Do útoku](https://twitter.com/NOELreports/status/1606277940173426688)
+          - [Rusové zničili hudební konzervatoř v Bachmutu](https://twitter.com/NOELreports/status/1606276414944133120)
+          - [Demilitarizace Wagnerovců](https://twitter.com/am_misfit/status/1606054739912933376)
+          - [Zápalná munice nad Bachmutem](https://twitter.com/NOELreports/status/1606225767439904769)
+          - [Tory v Bělorusku](https://twitter.com/NOELreports/status/1606213801656860672)
       - title: "Čtvrtek"
         year: "22. prosince 2022"
         image: assets/img/timeline/2022-12-22.jpg
