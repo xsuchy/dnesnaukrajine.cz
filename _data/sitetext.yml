@@ -35,6 +35,52 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "24. prosince 2022"
+        image: assets/img/timeline/2022-12-24.jpg
+        desc: "Štědrý den. Díky Rusům je rozhodně štědrý na zprávy. Tak například jeden z populárních ruských vojenských blogerů Starshe Eddy na svém kanálu na Telegramu fantazíroval o tom, jak je potřeba nemít malé cíle a ideálně zničit nezávislé Polsko, které podle něj je geopolitický omyl a osina v zadku Ruska. Polsko je prý „Rusko, které neuspělo“. Těžko říct, jestli jsou takové výkřiky jakousi předsmrtnou křečí, nebo součástí nějaké psychologické operace, ale tak či tak se komicky míjí s realitou. Pojďme si tedy zopakovat, čím je Polsko především: Zemí s téměř 38 milióny obyvatel, přičemž okolo 150 000 Poláků slouží v profesionální armádě. Je to země s větším počtem děl a tanků, než kolika disponuje Německo. Země, která právě obdržela prvních 180 z plánovaných 1 000 jihokorejských moderních tanků K2 Black Panther a 24 z 670 plánovaných samohybných děl K9 Thunder a sama disponuje několika sty kusy tanků PT-91 Twardy – jedné z nejlepších modernizací sovětských T-72. Je to země, které má v arsenálu nejmodernější zbraňové systémy NATO a od USA v příštích letech obdrží 500 kusů raketometů HIMARS. A abychom nezapomněli: je to člen NATO, jehož kombinovaná síla byla ještě před válkou na Ukrajině 4-5 x větší co do samotných počtů kusů techniky, nemluvě o tom, že technika NATO je průměrně o 10-15 let technologicky napřed před Ruskem. Takže v tomhle kontextu jsou fantazie ruských propagandistů a blogerů roztomilé. Uvěřili totiž vlastním pohádkám o mocné síle Ruské federace, zatímco jejich slavnou armádu úplně paralyzovalo nasazení dvou desítek HIMARSů na bojiště. Čím chtějí po tom všem napadnout Polsko? Klacky? Hodně štěstí, kluci! A teď pár štědrodenních novinek"
+        detail: |
+          - Šéf ukrajinské rozvědky Budanov nevěří, že by nyní hrozil útok z Běloruska. Podle něj Rusko používá stejnou taktiku jako Sověti za druhé světové války, když posílali vojáky na dlouhé cesty plnými vlaky, aby předstírali přípravy k útoku, nebo naopak ústup.  
+          - V Bělorusku byl zachycen přesun desítek kusů vojenských vozidel označených písmenem „K“. Ruské kanály okamžitě začaly šířit narativ, že „K“ znamená „Kyjev“. Ve skutečnosti jde nejspíš jen o dopravní označení, kdy „K“ značí „konvoj“.
+          - Rusové v noci svrhli na „svůj“ Cherson a „své“ obyvatele zápalnou munici. Nad ránem pak zasáhly město rakety. Úřady hlásí nejméně osm mrtvých (podle některých zdrojů až dvě desítky) a dalších 35 raněných, z toho 16 těžce.
+          - Podle deníku Forbes se ukrajinský specialista na kyberbezpečnost žijící v USA Alex Holden vlámal do digitální peněženky ruské drogové mafie Solaris a převedl z ní 25 000 dolarů kyjevské charitativní organizaci.
+          - V jednom ze zachycených odposlechů tvrdí ruský voják, že velitelé vydali rozkaz zastřelit na místě každého vojáka, který se během služby opije nebo bude vykazovat známky požití omamných látek.
+          - Ruským státním médiím bylo údajně zakázáno jakkoliv informovat o probíhající nebo jakékoliv budoucí mobilizaci, dokonce i tehdy, když samotná informace pochází od některého poslance.
+          - Moldavsko zjednodušilo pro Ukrajince překračování společných hranic. Od února se bude stačit prokázat pasem, řidičským průkazem nebo povolením k pobytu.  
+          - Ruští propagandisté v televizi diskutovali o preventivní intervenci v Kazachstánu, kde jsou podle nich také tajné americké vojenské biologické laboratoře.
+          - Patriarcha Kirill tlačí na ruské zákonodárce, aby přijali zákon, který by vyjmul kněží z případné mobilizace.
+          - Nejméně 20 lidí uhořelo během požáru v nelegálním pečovatelském domově v ruském městě Kemerovo.
+          - Ukrajinci zničili ruskou základnu v okupovaném Tokmaku i s částí živé síly.
+          - Ukrajina plánuje otevřít ambasády v deseti afrických zemích.
+          - Rogozinovi v důsledku zranění hrozí amputace penisu. 
+          - V Moskvě hoří Institut lehkých slitin.
+        videa: |
+          - [Ruská propaganda fantazíruje o evropských Vánocích](https://twitter.com/nexta_tv/status/1606340479196479488)
+          - [Evakuace vozíčkáře z Bachmutu](https://twitter.com/IuliiaMendel/status/1606247214606471173)
+          - [Stávající rekordman v hodu věží](https://twitter.com/Seveerity/status/1606419826225848320)
+          - [Propagandisté o Kazachstánu](https://twitter.com/nexta_tv/status/1606415895437385732)
+          - [Celá skupina Wagnerovců se vzdala](https://twitter.com/NOELreports/status/1606576523678404608)
+          - [Chvilky s rodinou](https://twitter.com/EuromaidanPress/status/1606562068319985664)
+          - [Po ruském útoku na Cherson](https://twitter.com/nexta_tv/status/1606593188680142848)
+          - [Ruský útok na zákopy očima Ukrajince](https://twitter.com/WarMonitors/status/1606377819382095872)
+          - [Bachmut](https://twitter.com/UkrainianNews24/status/1606598842354368514)
+          - [Legionáři v Bachmutu](https://twitter.com/WarMonitors/status/1605982575284977664)
+          - [Zápalná munice v Chersonu](https://twitter.com/NOELreports/status/1606391809902616591)
+          - [Maskovací síť zachytila dva ruské kamikadze drony](https://twitter.com/TpyxaNews/status/1606407542116163585)
+          - [Protest v Arménii proti „putinismu“](https://twitter.com/nexta_tv/status/1606586016424497153)
+          - [Ukrajinská přilba zastavila projektil](https://twitter.com/NOELreports/status/1606574352094437376)
+          - [Auvajs](https://twitter.com/666_mancer/status/1606396612145815561)
+          - [Ruská narozeninová párty](https://twitter.com/nexta_tv/status/1606394111099117579)
+          - [Konzerva od Hamé v ruském batůžku](https://twitter.com/PidlisnyiAndrii/status/1606408141033414682)
+          - [Putin v Tule](https://twitter.com/nexta_tv/status/1606322489927294987)
+          - [Po útoku ukrajinských Bělorusů (citlivé)](https://twitter.com/herooftheday10/status/1606601282470412288)
+          - [Ranní procházka během služby](https://twitter.com/NOELreports/status/1606572498963030017)
+          - [U Bachmutu](https://twitter.com/WarMonitors/status/1606348405583646720)
+          - [I přes nefungující světla proběhla soutěž v plavání](https://twitter.com/NOELreports/status/1606402085813198870)
+          - [Odpočinek na hromadě nábojnic](https://twitter.com/nevedimka123/status/1606558184625381382)
+          - [Inspekce výstroje (citlivé)](https://twitter.com/UButusov/status/1606563929089626112)
+          - [Opytne](https://twitter.com/NOELreports/status/1606630053361684481)
+          - [Přepadený ruský konvoj](https://twitter.com/albir2024/status/1606383357973082112)
       - title: "Pátek"
         year: "23. prosince 2022"
         image: assets/img/timeline/2022-12-23.jpg
