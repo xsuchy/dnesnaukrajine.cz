@@ -35,7 +35,50 @@ timeline:
     section: timeline
     start_align: "left"
     events:
-      - title: "Čtvrtek"
+      - title: "Neděle"
+        year: "25. prosince 2022"
+        image: assets/img/timeline/2022-12-25.jpg
+        desc: "Zatímco ve zbytku Evropy se lidi rozutekli za rodinami, Rusové se rozhodli během svátků klidu naplno rozsvítit svoje prskavky. Na Cherson, Bachmut, Marjinku ale i další města svrhli Rusové zápalnou munici, a to bez viditelného záměru, často na čistě obytné čtvrti. Jeden politický komentátor na to konto poměrně trefně prohlásil, že zastávat se Ruska po Buče, Irpini, Izjumu nebo Chersonu je jako zastávat se nacistů po odhalení koncentračních táborů. Obojí je, mimo jiné díky skvělé práci různých investigativních novinářů, perfektně zdokumentované a neexistuje omluva pro to, cokoliv z toho zlehčovat nebo popírat. Měli bychom se konečně přestat dívat na lidi, kteří to dělají, jako na oběti ruské propagandy. Každý z nás má svobodný přístup k informacím a možnost s takovými informacemi svobodně naložit. Takže ne, nejsou to v mých očích oběti. Jsou to spolupachatelé. Slova totiž, navzdory názorům řady konzervativců, můžou reálně ubližovat. A hlavně – můžou legitimizovat a umožňovat budoucí násilí a utrpení. I proto je popírání genocidy v civilizovaném světě trestným činem. Můžeme mít určité pochopení pro babičku z ruského venkova, která desítky let hltá státní propagandu a nikdy nebyla dál než v sousedním městě, že neví, co se na Ukrajině skutečně děje. Ale nemůžeme uplatňovat stejné nároky na naše spoluobčany žijící v demokratické zemi, kteří její postoje sdílí. Nebo to vidíte jinak? Můžete si rozmyslet během čtení novinek"
+        detail: |
+          - Podle ukrajinského Generálního štábu dnes Ukrajinci zasáhli ruský velitelský post v okupovaném Zabaryném v době, kdy zde probíhala porada velících důstojníků. Okolo 70 ruských vojáků mělo být zraněno, počet mrtvých se zatím neví.
+          - Evropská unie nakoupí dalších 1 000 výkonných generátorů pro Ukrajinu. 2 500 jich pošlou také Spojené Arabské Emiráty. A nakonec, 41 jich poskytl Kazachstán, a to i přesto, že je s Ruskem ve společné vojenské alianci.
+          - Úřady v ruské Voroněži naistalovaly v centru města výstavu o údajném ukrajinském nacismu. Jako ilustrační fotky nicméně použily upravené snímky z pochodu v Moskvě z roku 2009.
+          - Jeden z letounů MiG-31K pravidelně odpalující rakety z běloruského vzdušného prostoru začal náhle na hořet během stání na ranveji, a je tak na delší dobu vyřazený ze služby.
+          - Bývalý velitel ruských pozemních sil a současný vyslanec pro vojensko-technologickou kooperaci ve firmě Uralvagonzavod Alexej Maslov zemřel ve věku 69 let.
+          - Podle ruských kanálů se dnes Ukrajinci pokusili o dva průlomy obrany u okupované Kreminny. Osvobození města tak může být otázkou už příštích dní.
+          - Představitelé Mykolajivské oblasti tvrdí, že úplné osvobození oblasti je na spadnutí. To by značilo přítomnost ukrajinských sil na Kinburnské „kose“.
+          - Podle viceprezidenta Evropské unie Franse Timmermanse už Putin prohrál, „stejně jako Hitler už v roce 1943“.
+          - V Jevpatorii na okupovaném Krymu se ozývá pokračující série explozí v objektu ruských kasáren.
+          - 16 mrtvých. To je celková konečná bilance včerejšího ruského útoku na centrum Chersonu.
+          - Jeden z vývojářů populární herní série S.T.A.L.K.E.R. Volodymyr Ježov byl zabit v bojích.
+          - Rusové v okupované části Chersonské oblasti zavedli desetidenní zákaz vycházení.
+          - Rusko oznámilo, že nebude dodávat ropu do zemí, které zavedly cenový strop.
+          - 3 záchranáři zahynuli u Chersonu při pokusu o likvidaci nástražných min.
+          - Rusové přesouvají posily do Berďansku a Melitopolu.
+          - V ruské Kubáni hoří obchodní dům Vega.
+        videa: |
+          - [Report z Bachmutu](https://twitter.com/wartranslated/status/1607073854828212225)
+          - [Velitel separatistů trestá vojáky, co opustili pozice](https://twitter.com/DefMon3/status/1607079524474445825)
+          - [Humvee a Stingery](https://twitter.com/Osinttechnical/status/1607043198693822465)
+          - [„Hlibe, co bys chtěl k Vánocům?“ – „Generátor.“](https://twitter.com/EuromaidanPress/status/1606777916431519746)
+          - [Zničené ruské Grady](https://twitter.com/am_misfit/status/1606737318542725120)
+          - [Ruská zápalná munice nad Marjinkou](https://twitter.com/EuromaidanPress/status/1607067398158393345)
+          - [Marjinka](https://twitter.com/NOELreports/status/1606994800368144384)
+          - [Raketa, která dopadla do areálu chersonské kliniky](https://twitter.com/nexta_tv/status/1607046859432013824)
+          - [Zápalná munice opět nad Chersonem](https://twitter.com/EuromaidanPress/status/1606707467794223104)
+          - [Banka v Rusku nemá peníze](https://twitter.com/herooftheday10/status/1606982645766057985)
+          - [Likvidace min](https://twitter.com/TpyxaNews/status/1606978615618539521)
+          - [Improvizované komunikační vozidlo](https://twitter.com/EuromaidanPress/status/1606983470496071682)
+          - [Dnešní podoba Bachmutu](https://twitter.com/nexta_tv/status/1606995569708527619)
+          - [Boje v Opytne u Bachmutu](https://twitter.com/NOELreports/status/1607015981221646336)
+          - [Rusové přesouvají posily do Berďansku a Melitopolu](https://twitter.com/nexta_tv/status/1606967115915104256)
+          - [Improvizovaný raketomet](https://twitter.com/EuromaidanPress/status/1606908853521612800)
+          - [Ruský ešelon v Rostovu](https://twitter.com/NOELreports/status/1606976367660261376)
+          - [V Kubáni hoří obchodní dům Vega](https://twitter.com/nexta_tv/status/1606929497953124354)
+          - [Další zajatci](https://twitter.com/NOELreports/status/1606720660457259010)
+          - [Mínus devatenáct Rusů v jediném sektoru fronty](https://twitter.com/markito0171/status/1606965363799109634)
+          - [Příprava na případný útok ze severu](https://twitter.com/TDF_UA/status/1606978185220046849)
+      - title: "Sobota"
         year: "24. prosince 2022"
         image: assets/img/timeline/2022-12-24.jpg
         desc: "Štědrý den. Díky Rusům je rozhodně štědrý na zprávy. Tak například jeden z populárních ruských vojenských blogerů Starshe Eddy na svém kanálu na Telegramu fantazíroval o tom, jak je potřeba nemít malé cíle a ideálně zničit nezávislé Polsko, které podle něj je geopolitický omyl a osina v zadku Ruska. Polsko je prý „Rusko, které neuspělo“. Těžko říct, jestli jsou takové výkřiky jakousi předsmrtnou křečí, nebo součástí nějaké psychologické operace, ale tak či tak se komicky míjí s realitou. Pojďme si tedy zopakovat, čím je Polsko především: Zemí s téměř 38 milióny obyvatel, přičemž okolo 150 000 Poláků slouží v profesionální armádě. Je to země s větším počtem děl a tanků, než kolika disponuje Německo. Země, která právě obdržela prvních 180 z plánovaných 1 000 jihokorejských moderních tanků K2 Black Panther a 24 z 670 plánovaných samohybných děl K9 Thunder a sama disponuje několika sty kusy tanků PT-91 Twardy – jedné z nejlepších modernizací sovětských T-72. Je to země, které má v arsenálu nejmodernější zbraňové systémy NATO a od USA v příštích letech obdrží 500 kusů raketometů HIMARS. A abychom nezapomněli: je to člen NATO, jehož kombinovaná síla byla ještě před válkou na Ukrajině 4-5 x větší co do samotných počtů kusů techniky, nemluvě o tom, že technika NATO je průměrně o 10-15 let technologicky napřed před Ruskem. Takže v tomhle kontextu jsou fantazie ruských propagandistů a blogerů roztomilé. Uvěřili totiž vlastním pohádkám o mocné síle Ruské federace, zatímco jejich slavnou armádu úplně paralyzovalo nasazení dvou desítek HIMARSů na bojiště. Čím chtějí po tom všem napadnout Polsko? Klacky? Hodně štěstí, kluci! A teď pár štědrodenních novinek"
