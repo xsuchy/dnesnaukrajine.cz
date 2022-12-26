@@ -35,6 +35,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "26. prosince 2022"
+        image: assets/img/timeline/2022-12-26.jpg
+        desc: "Putin se nedávno v televizním rozhovoru vysmál tomu, že Ukrajina obdrží systémy protivzdušné obrany Patriot a sebevědomě prohlásil, že Rusko rozlouskne Patrioty jako ořechy. Protivzdušná obrana v Rusku přitom sama buď neexistuje, nebo nefunguje. Jinak si nelze vysvětlit, kolikrát v posledních týdnech zasáhli Ukrajinci vojenské objekty daleko od vlastních hranic. A dnešek nebyl výjimkou. Místní obyvatelé nad ránem hlásili výbuchy v okolí klíčového ruského letiště Engels u Saratova. Jejich původce byl opět ukrajinský dron Tu-141 ze sedmdesátých let a dá se tušit, že způsobil velmi vážné škody. Nikoliv z videí a fotek, ale z reakcí oficiálních míst. Ty nejdříve tvrdily, že dron zneškodnila protivzdušná obrana, pod tíhou důkazů pak svou informaci upravily a oznámily, že obrana dron sestřelila, ale úlomky dopadly na letiště, ale nezpůsobily vážné škody. Poté informaci znovu upravily a informovaly, že úlomky dopadly na plochu, kde zabily dva členy personálu, ale nepoškodily žádné z letadel. Mezitím se ale objevily informace na ruských kanálech, že dron zasáhl budovy letové kontroly a tři oběti byly z řad ruských pilotů. Vycvičit piloty přitom trvá roky a stojí miliony, proto by taková trefa byla pro Rusko ohromná rána. Skutečný rozsah škod se nejspíš nedozvíme. Jisté ale je, že bude mnohem větší, než je jakákoliv oficiální verze Ruska. Krásnou třešničkou na celé události je, že Rusko dnes slaví svůj Den protivzdušné obrany. Tak všecko nejlepší! A jak se dařilo jinde? Považte sami"
+        detail: |
+          - Ukrajinští vojáci na sítích naznačují, že se podařilo prolomit obranu u okupované Kreminny. Některé zdroje dokonce tvrdí, že Ukrajinci už vstoupili do města. Všichni ale zároveň čekají na oficiální oznámení, aby se mohli podělit o detaily. Situace kolem města se už delší dobu vyvíjela příznivě pro Ukrajince a dobré zprávy se očekávaly každým dnem. Zároveň Ukrajinci zřejmě úplně vytlačili Rusy z Opytne jižně od Bachmutu a i v dalších směrech je údajně „pozitivní vývoj“.
+          - Kroměříž zrušila vystoupení ruského tanečníka baletu Sergeje Polunina. Polunin je hlasitý zastánce současného Ruska a má na těle vytetované mimo dalších obrázků také tři podobizny Putina a velké tzv. „slovanské kolo“, kterým se s oblibou ohání ruská propaganda a její konzumenti, protože ji na jednom ze svých emblémů používá i ukrajinský pluk Azov, a často jde vidět u nacionalistických skupin na Ukrajině i v Rusku.
+          - Podle izraelských médií poskytne Rusko Íránu za jeho kamikaze drony 24 kusů stíhaček Su-35. Zároveň ukrajinská rozvědka tvrdí, že Rusku se zatím nepodařilo vyjednat dodávku raket ani od Íránu, ani od Číny, kde rakety také poptávali.
+          - Podle ukrajinského Generálního štábu byl zdravotnický personál v okupované Horlivce nucen povinně darovat krev, protože jí mají tamější nemocnice nedostatek z důvodu neustálého přílivu raněných.
+          - Kadyrovův synovec Hasan Ibragimov byl zadržen v Simferopolu společně s dalšími čtyřmi Kadyrovci. Úřady je viní z toho, že surově napadli mladíka, který se zastal své partnerky, kterou skupina obtěžovala.
+          - Na sítích se objevuje čím dál více videí z Ruska naznačujících, že tamější banky buď nemají peníze, nebo si minimálně vymýšlí důvody, proč je čekajícím Rusům nemůžou vydat.
+          - Bělorusové bojující na straně Ukrajiny vytvořili dobrovolnický armádní sbor s cílem osvobodit Ukrajinská území a později také samotné Bělorusko.
+          - Zraněný Rogozin má dnes podstoupit operaci, při které mu vyjmou ze zad kus šrapnelu. Existuje riziko, že skončí paralyzovaný.
+          - Investigativní novinář ruského původu Christo Grozev ze skupiny Bellingcat byl v Rusku přidán na seznam hledaných osob.
+          - Nad Moskvou dnes kroužily nejméně 4 vojenské helikoptéry. Oficiální důvod se zatím neví.
+          - Putin prohlásil, že Rusko je připraveno jednat a obvinil Západ, že se jednáním vyhýbá.
+          - Británie cílí na zdvojnásobení kapacity pro výcvik ukrajinských vojáků.
+          - Místní hlásí zvuky explozí v ruském Kursku, nejspíš na zdejším letišti.
+          - Obilným koridorem už projelo 15 milionů tun ukrajinského obilí.
+          - Rusové na Štědrý den ostřelovali 65 ukrajinských měst a vesnic.
+        videa: |
+          - [Ukrajinský přepad zákopů a deset zajatců, vše sleduje dron](https://twitter.com/NOELreports/status/1607093026559766528)
+          - [Wagnerovci apelují na Gerasimova, prý nemají munici](https://twitter.com/nexta_tv/status/1607340846843559937)
+          - [Banky v Rusku nemají peníze](https://twitter.com/visegrad24/status/1607153592481505281)
+          - [Šyroka Balka a opět ruská zápalná munice](https://twitter.com/NOELreports/status/1607127121088106496)
+          - [Mínus ruské BMP i s veškerou posádkou](https://twitter.com/666_mancer/status/1607295125041958912)
+          - [Santa naděluje](https://twitter.com/TpyxaNews/status/1607259147535323136)
+          - [Demilitarizace pomocí dělostřelectva](https://twitter.com/nexta_tv/status/1607315768827604994)
+          - [Ruské zákopy jižně od Bachmutu](https://twitter.com/NOELreports/status/1607315035084455937)
+          - [Dárky ze vzduchu](https://twitter.com/herooftheday10/status/1607331274586263553)
+          - [V Novosibirsku už zase hoří](https://twitter.com/NOELreports/status/1607348888163205120)
+          - [Bývalé ruské pozice](https://twitter.com/PaulJawin/status/1607316111191670784)
+          - [Demobilizace Wagnerovců (citlivé)](https://twitter.com/Olga1Ukraina/status/1607135417882783745)
+          - [Bělorusové vytvořili dobrovolnickou armádu](https://twitter.com/NOELreports/status/1607151947609690115)
+          - [Jak se počítají ruské ztráty](https://twitter.com/666_mancer/status/1607325537223020544)
+          - [Noví zajatci](https://twitter.com/NOELreports/status/1607369110295298048)
       - title: "Neděle"
         year: "25. prosince 2022"
         image: assets/img/timeline/2022-12-25.jpg
