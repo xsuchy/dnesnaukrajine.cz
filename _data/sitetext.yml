@@ -35,6 +35,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "27. prosince 2022"
+        image: assets/img/timeline/2022-12-27.jpg
+        desc: "Bývalý ruský premiér a člen Putinova kabinetu Medveděv nechal popustit uzdu své fantazii a vyslovil své predikce na rok 2023. Je to poměrně zábavný výlet do hlavy člověka, který zřejmě úplně ztratil kontakt s realitou. Kdyby to nebyl představitel státu, myslel bych si, že to jsou slova nějakého konzumenta Sputniku na protivládní demonstraci na Václaváku. Medveděv například předpovídá, že Británie se vrátí do EU, načež celá EU zkolabuje a dílčí státy odmítnou euro. Polsko a Maďarsko podle něj obsadí západní část zbylé suverénní Ukrajiny (Slovensko nic?). Německo prý vytvoří čtvrtou říši, do které se ochotně přidají jeho satelity včetně Česka, Slovenska, Rumunska a „Kyjevské republiky“ (ten člověk očividně netuší, jaký máme k Němcům vztah), a následně vstoupí do války s Francií. Spojené státy prý zažijí občanskou válku, která povede k odtržení Kalifornie a Texasu. A nakonec veškeré burzy komodit a akcií se prý přesunou z USA a Evropy do Asie a dojde k rozpadu Brettonwoodského finančního systému, kolapsu Mezinárodního měnového fondu a Světové banky. Svoje věštění zakončil přáním šťastného Nového roku pro „anglosaské přátele a jejich radostně chrochtající prasátka“. Tak aspoň v jednom se nemýlil. My si tu skutečně chrochtáme jako prasátka v žitě, zatímco většina Rusů nemá přístup k tekoucí vodě ani splachovací záchod a kvůli invazi dál chudne. A i kdyby to bylo tak, jak Evropu prezentuje ruská propaganda, citoval bych Zelenského: Bez elektřiny, tepla a světla… nebo bez vás? Bez vás, Dmitri. A teď novinky"
+        detail: |
+          - Prezident Zelenský informoval ve své každodenní promluvě, že situace u Bachmutu je velmi složitá a bolestivá. Rusko si podle něj stanovilo politický cíl dobýt Bachmut do konce roku, aby mohlo prezentovat veřejnosti jakýkoliv úspěch, a proto vrhá na tamější obranu ohromné množství živé síly a techniky. Po pádu Bachmutu by totiž mohlo snadno tvrdit, že má pod kontrolou celou Doněckou oblast. Podle zdrojů z města je situace skutečně složitá, nicméně stále pod kontrolou a Ukrajinci přesunuli na obranné pozice několikrát za poslední týden čerstvé posily.
+          - Rusko po posledním útoku přesunulo své strategické bombardéry ze Saratova na jiná letiště v blízkosti Ukrajiny. Podle některých spekulací byly při posledním útoku zraněny více než dvě desítky členů personálu, z toho nejméně tři zabiti, a poškozeno bylo i několik letadel. Dron měl údajně zasáhnout kontrolní věž vedle přistávací plochy.
+          - Rusové oznámili vznik Univerzity Darji Duginy pro studenty z Luhansku a Doněcku. Darja Dugina byla dcera stejnojmenného Putinova ideologa zastávající otevřeně nacistické postoje. Zemřela v polovině roku poté, co pod jejím autem explodovalo nástražné zařízení. Tolik k denacifikaci Ukrajiny.
+          - Ruský politik Pavel Antov, který v minulosti kritizoval Putina, vypadl z okna pokoje ve třetím patře hotelu v Indii. Oficiální verze je, že spáchal sebevraždu, protože neunesl smrt svého dobré přítele, který v hotelu zemřel na srdeční zástavu jen dva dny před incidentem.
+          - Obyvatelka ruského Jekatěrinburgu obdržela povolávací rozkaz pro svého syna. Úřadům zřejmě uteklo, že její syn zemřel ve věku dvou let před třinácti lety. Nicméně i tak je neuvěřitelné, že přišel povolávací rozkaz někomu, komu by dnes bylo patnáct.
+          - Ruský ministr zahraničí Lavrov reagoval na iniciativu jeho ukrajinského protějšku Kuleby uspořádat v OSN mírový summit. Lavrov prohlásil, že buď Ukrajina vyhoví požadavkům Ruska na „demilitarizaci“ a „denacifikaci“, nebo to provede ruská armáda.
+          - Skupina čtyřech ukrajinských sabotérů zahynulo v ruském pohraničí u Brjansku poté, co jeden z členů nejspíš aktivoval nášlapnou minu. Skupina podle některých zdrojů podnikla v minulosti desítky diverzních akcí na ruském území.
+          - V ruském městě Syktyvkar si dvacetiletý branec podřezal žíly přímo v náborové kanceláři. Doktorům se následně podařilo zachránit mu život, což bohužel paradoxně znamená, že umožnili, aby ho Rusko poslalo na smrt.
+          - Ukrajinský Kanál 5 informuje, že v okupované Makijivce neznámý útočník zastřelil osmičlennou romskou rodinu včetně všech třech dětí, z nichž jedno bylo nemluvně.
+          - Rusko jmenovalo už čtvrtého velitele Západního vojenského okruhu od začátku invaze. Nově ho povede Jevgeny Nikoforov.
+          - Putin daroval devět prstenů prezidentům okolních zemí, kteří se zúčastnili summitu v Petrohradu. Tolkien by byl nadšen.
+          - Ukrajina zabavila majetek ruského oligarchy Usmanova v hodnotě okolo 2 miliard hřiven.
+          - Ruská vláda zařadila „LGBT propagandu“ na seznam zakázaného internetového obsahu.
+          - Na pláže v Oděse byly mořem vyplaveny další předměty z potopeného křižníku Moskva.
+          - Rusové údajně plánují „evakuovat“ obyvatele Enerhodaru na okupovaný Krym.
+          - V Petrohradu náhle zemřel šéf loděnic, které vyrábí ponorky pro ruskou flotilu.
+        videa: |
+          - [Cesta k Bachmutu](https://twitter.com/EuromaidanPress/status/1607709768076099585)
+          - [Trofeje z pouhých dvou ruských útoků](https://twitter.com/NOELreports/status/1607678040045142024)
+          - [Ukrajinské drony u Avdijivky](https://twitter.com/NOELreports/status/1607718413430050816)
+          - [Přesun na frontu](https://twitter.com/ukrainiansquad/status/1607686114663596033)
+          - [Ukrajinci přepadli ruský tank, jehož posádka se odmítá vzdát](https://twitter.com/NOELreports/status/1607652482028834818)
+          - [Trefa kamikaze dronem](https://twitter.com/bayraktar_1love/status/1607730486440247298)
+          - [„Obyčejní Rusové“ vyhodili z autobusu babičku za protiválečné postoje](https://twitter.com/Biz_Ukraine_Mag/status/1607495236540063745)
+          - [Bachmut, nejméně šest mínus přímo v zákopu, další desítky okolo](https://twitter.com/666_mancer/status/1607723667320102915)
+          - [Mínus ruská jednotka](https://twitter.com/NOELreports/status/1607379870811660288)
+          - [Ruská artilérie](https://twitter.com/RALee85/status/1607513053381234694)
+          - [Ruský kněz: „Smrt ve válce je ta nejlepší smrt.“](https://twitter.com/nexta_tv/status/1607729456222814208)
+          - [Pevnost Bachmut](https://twitter.com/NOELreports/status/1607726657799966720)
+          - [„Děkuji, dodělám to sám.“ (citlivé)](https://twitter.com/Seveerity/status/1607644328599425024)
+          - [Brzy bývalé „Z“ auto v Doněcku](https://twitter.com/nexta_tv/status/1607666131468226561)
+          - [Francouzské VABy v Bachmutu](https://twitter.com/Militarylandnet/status/1607692990604247044)
+          - [CAESAR při práci](https://twitter.com/NOELreports/status/1607684900710121472)
+          - [Ukrajinský tank pálí na ruské pozice](https://twitter.com/nevedimka123/status/1607459982416527360¨)
+          - [Ruský ešelon ze Sibiře](https://twitter.com/NOELreports/status/1607661196408197120)
       - title: "Pondělí"
         year: "26. prosince 2022"
         image: assets/img/timeline/2022-12-26.jpg
