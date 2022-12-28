@@ -35,6 +35,49 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "28. prosince 2022"
+        image: assets/img/timeline/2022-12-28.jpg
+        desc: "Ruská prokuratura žádá vězení pro svého vojáka Danijila Frolkina, který se ve videu umístěném v srpnu na YouTube ruským magazínem Važnije Istoriji přiznal k vraždění a dalším válečným zločinům během působení v okolí Avdijivky na Ukrajině. Že je to dobrá zpráva? Že i v Rusku existuje spravedlnost? Tak se posaďte, pokud právě stojíte, ať to s vámi nešvihne: Rusko ho chce totiž potrestat za „šíření fake news o ruské armádě“. Víc o Rusku vědět nemusíte. Vyšetřování proti němu vede i Ukrajina, ovšem pro podezření z vraždy civilisty a rabování a podílu na dalších vraždách. Inu, když dva dělají totéž, není to totéž. Zvlášť když jedním z těch dvou je ta parodie na moderní stát, která si říká Ruská federace. A teď ty zbylé novinky"
+        detail: |
+          - Běloruské soudy poslaly do vězení tři členy odboje, kteří sabotovali železniční spojení s Ukrajinou a zdržovali tak ruské posily po železnici v začátku války. Odešli od soudu s tresty odnětí svobody od 21 do 23 let. Podle narychlo schválené novely zákona jim hrozil až trest smrti.
+          - Podle blogera z ruské jednotky Rusič se ruské síly potýkají s velkým nedostatkem munice do dělostřeleckých systémů, minometů i ručních zbraní. Mobilizovaní muži navíc podle něj předstírají aktivitu a rádiovou komunikaci, aby nemuseli bojovat.
+          - Ruské a ukrajinské speciální jednotky na malých člunech se v minulých dnech opakovaně střetli na ostrůvcích jižně od Chersonu. Z míst se ozývala palba z ručních zbraní a ostrůvky byly opakovaně i pod dělostřeleckou palbou z obou stran.   
+          - Ředitel ukrajinské vojenské rozvědky generálmajor Kyrylo Budanov navštívil frontu v Bachmutu, nechal se uvést do situace přímo od místních velitelů a rozdal vojákům vyznamenání.
+          - Rusové při posledním ostřelování Chersonu zasáhli budovu porodnice kliniky Tropinka. Naštěstí nebyl nikdo zraněn. Doktoři ten den úspěšně provedli dva porody.
+          - Rusko údajně posílilo počet patrol v Luhansku, ne ale proto, aby posílilo průzkumné kapacity, ale proto, aby se pokusilo zabránit množící se dezerci.
+          - Německá ministryně zahraničí prohlásila, že musíte pochopit, že nelze navázat jakékoliv normální vztahy s „tímto“ Ruskem.
+          - Opilí mobilizovaní muži z Uralu údajně ubili k smrti svého kapitána – také mobilizovaného muže – během přesunu vlakem.
+          - Orbán v duchu ruské propagandy prohlásil, že válka skončí tehdy, když USA přestanou dodávat Ukrajině zbraně.
+          - Lavrov tvrdí, že USA mají plán na zabití prezidenta Putina. Dobře, ale… na co teda čekají?
+          - Okolo tisícovky krymských Tatarů uteklo do Turecka ve strachu z ruské mobilizace.
+          - Během bojů na východě Ukrajiny padnul Australan Sage O'Donnell.
+          - Francouzský ministr obrany přijel na oficiální návštěvu Kyjeva.
+          - U Rostova hoří kasárny ruské 150. motostřelecké divize.
+          - Wagnerovci údajně znovu vstoupili do Opytne.
+        videa: |
+          - [Koleda hraná na AK-74](https://twitter.com/EuromaidanPress/status/1608004296531927040)
+          - [Ukrajinský sniper](https://twitter.com/Osinttechnical/status/1607879670653161478)
+          - [Tihle se vzdali se zbraněmi v ruce](https://twitter.com/NOELreports/status/1607857319668322305)
+          - [Zničený ruský tank údajně u Rubižne??](https://twitter.com/TarmoFella/status/1608043562217705472)
+          - [Situace v Bachmutu](https://twitter.com/NOELreports/status/1608046594070298625)
+          - [HIMARS time](https://twitter.com/UkrainianNews24/status/1608095228585451522)
+          - [Hořící kasárny u Rostova](https://twitter.com/nexta_tv/status/1608037666326564866)
+          - [Ešelon s technikou jede přes Polsko](https://twitter.com/NOELreports/status/1608026160369381376)
+          - [Odražený útok Rusů na Soledar](https://twitter.com/Monger_co/status/1607577714361237505)
+          - [Akce Zetek v Nižném Novgorodu](https://twitter.com/nexta_tv/status/1608019620484481024)
+          - [Briefing](https://twitter.com/UkrainianNews24/status/1608053747720003584)
+          - [Bohorodyčne](https://twitter.com/nexta_tv/status/1607972236660510721)
+          - [Poničený finský transportér](https://twitter.com/NOELreports/status/1608106796736036866)
+          - [Wagnerovci údajně opět v Opytne](https://twitter.com/Militarylandnet/status/1607819703556399104)
+          - [Bývalé ruské pozice](https://twitter.com/herooftheday10/status/1607876649235714049)
+          - [Ukrajinci jsou prý v Dibrove](https://twitter.com/Tendar/status/1607849530552356864)
+          - [Bachmut](https://twitter.com/NOELreports/status/1608072857220747264)
+          - [Ukrajinská baterie](https://twitter.com/UkrainianNews24/status/1608053171397734401)
+          - [Bývalý ruský tank](https://twitter.com/Odessa_news36/status/1607815404000354305)
+          - [14 nových zajataců](https://twitter.com/NOELreports/status/1608038000084017152)
+          - [Ukrajinská baterie SPG](https://twitter.com/UkrainianNews24/status/1608052941910319106)
+          - [Zničený KRAB](https://twitter.com/UAWeapons/status/1607839666874589185)
       - title: "Úterý"
         year: "27. prosince 2022"
         image: assets/img/timeline/2022-12-27.jpg
