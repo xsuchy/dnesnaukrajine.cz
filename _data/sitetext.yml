@@ -35,6 +35,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"                                                                      
+        year: "30. prosince 2022"
+        image: assets/img/timeline/2022-12-30.jpg
+        desc: "Rybar, jeden z ruských vojenských blogerů, který přináší poměrně střízlivé zprávy o situaci na bojišti, v posledních glosách citelně přitvrdil a jeho rétorika se přiblížila duševním projevům současných ruských „gigantů“, jako je Peskov, Lavrov nebo Kadyrov. Posledního zmiňovaného dokonce citoval a přitakal mu, že je potřeba „přitvrdit“ a „přestat házet perly sviním“. Ukrajina podle něj obdržela drony, které jsou schopné zasáhnout cíle v Rusku, a plánuje prý útoky na ruská města během oslav Nového roku. Rusko by podle něj mělo přestat jednat „humánně“ a v případě útoků na ruská města zasáhnout ukrajinská rozhodovací centra. Zároveň ale ve stejném textu napsal, že se Rusko „nesmí snížit na úroveň Ukrajinců“. Jsem z celého textu poněkud zmatený. Rybar na jednu stranu dokáže podávat objektivní informace o pozicích obou armád a jejich akcích, na druhou stranu naprosto ignoruje dosavadní průběh války, stejně jako to, že Rusko už půl roku používá proti Ukrajině teroristické metody, ničí civilní infrastrukturu a vraždí civilní populaci v okupovaných oblastech. Nevím, jestli je to selektivní vnímání, nějaký druh popírání, nebo jde o záměrnou propagandu, ale pokud i relativně „objektivní“ bloger dokáže být tak odpojený od reality, jak je na tom asi zbytek ruské populace? Ukrajina samozřejmě nezasáhne civilní cíle v ruských městech, už jen proto, že je zcela závislá na přízni západních zemí a jejich vojenské pomoci, ale také kvůli tomu, že nemá tolik prostředků, aby si mohla dovolit plýtvat je na cíle které nemají vojenskou signifikanci. Nabízí se ale možnost, že Rybar společně s dalšími propagandisty připravuje veřejnost na zosnované teroristické útoky pod falešnou vlajkou (jako když FSB provedla bombové útoky před invazí do Čečenska), které by Rusku umožnily ovládnout veřejné mínění před případnou eskalací, další mobilizací nebo např. použitím taktické jaderné hlavice v odvetném úderu. A tahle varianta je bohužel mnohem pravděpodobnější a děsivější, než že „spolehlivému“ ruskému blogerovi dočista jeblo. Tak si držme palce, ať jim tohle neprojde. A teď novinky"
+        detail: |
+          - Ruská vyšetřovací komise zahájila trestní stíhání ukrajinského generála Zálužného a dalších ukrajinských velitelů kvůli „válečným zločinům spáchaným v Mariupolu“. Při téhle zprávě jsem se musel jít ujistit, zda není 1. dubna.
+          - Západní vojenští analytici tvrdí, že Rusko přesunulo na Ukrajinu valnou většinu svých funkčních systémů protivzdušné obrany, a proto je většina ruských vojenských instalací i letišť aktuálně bez protivzdušné obrany.
+          - Podle vyšetřovatelů Rusko v poslední salvě pálilo na Ukrajinu rakety, které byly vyrobeny teprve v posledním čtvrtletí roku 2022. Zdá se tedy, že skladové zásoby už Rusko nejspíš vyčerpalo.
+          - Krym opouští tolik Rusů, že se na Kerčském mostě opět tvoří dlouhé kolony. Vojáci totiž kontrolují každé jedno auto v obavě z další sabotáže.
+          - Kazachstán deportoval zpátky do Ruska bývalého důstojníka ruské FSO Michaila Žilina, který v Kazachstánu žádal o politický azyl.
+          - Ukrajinská obrana v noci sestřelila 16 íránských dronů. Většina z nich mířila na Kyjev. Jeden z dronů poškodil administrativní budovu.
+          - V Nové Kachovce explodovalo auto šéfa tamější okupační policie. Informace o zdravotním stavu kolaboranta zatím nejsou.
+          - Putin podepsal nový zákon umožňující trestat přípravu, provedení nebo financování sabotáže.
+          - Ukrajinská armáda za poslední týden postoupila o 2,5 km blíže okupované Kreminně.
+          - Ukrajina je připravena podílet se na vyšetření dopadu rakety na území Běloruska.
+          - 3 392 Ukrajinců je podle ukrajinské ombudsmanky v ruském zajetí.
+          - Británie darovala Ukrajině 1 000 zařízení na hledání min.
+          - Dneska je mi 34 let. <3
+        videa: |
+          - [Pole padlých ruských vojáků u Bachmutu](https://twitter.com/NOELreports/status/1608513263997706242)
+          - [To nejsou zákopy, to je pohřebiště…](https://twitter.com/Tendar/status/1608526809909305346)
+          - [Kadyrov dělá kliky :D](https://twitter.com/bayraktar_1love/status/1608532471942987778)
+          - [FB zatýká ukrajinského občana na Kavkazu](https://twitter.com/nexta_tv/status/1608744560959840256)
+          - [Ruský tankista byl povýšen na pilota](https://twitter.com/NOELreports/status/1608480835841462275)
+          - [Válení sudů šlo podle plánu](https://twitter.com/herooftheday10/status/1608764782391496705)
+          - [S minometem na zádech do boje](https://twitter.com/UkrainianNews24/status/1608472297349824512)
+          - [Vlada zahynula během evakuace vojáků z fronty](https://twitter.com/EuromaidanPress/status/1608538214674964481)
+          - [Fronty na Kerčském mostě](https://twitter.com/nexta_tv/status/1608562745603158016)
+          - [Ukrajinci se neúspěšně pokusili o evakuaci kolegy (citlivé!)](https://twitter.com/Militarylandnet/status/1608506606043516928)
+          - [Evakuace z Bachmutu](https://twitter.com/NOELreports/status/1608731211379380226)
+          - [Sestřelená raketa na Ukrajinou](https://twitter.com/Tendar/status/1608771870287106050)
+          - [Ukrajinská Osa](https://twitter.com/NOELreports/status/1608729497129619457)
+          - [Jeden přežil](https://twitter.com/Milan8662/status/1608743577844342784)
+          - [Sestřel rakety](https://twitter.com/Tendar/status/1608716894177230850)
+          - [LRU po palbě](https://twitter.com/UkrainianNews24/status/1608752329888780289)
+          - [Krab u Bachmutu](https://twitter.com/NOELreports/status/1608458115690942464)
+          - [Neutekli](https://twitter.com/rendeiro_silva/status/1608761443775811584)
+          - [Členové Azovu v Izraeli tančí s Židy, tolik k denacifikaci](https://twitter.com/Tendar/status/1608457528819564546)
+          - [Cicinty](https://twitter.com/MartinWartdog/status/1608397590923550721)
+          - [Bachmut](https://twitter.com/herooftheday10/status/1608533811427692546)
+
+
       - title: "Čtvrtek"
         year: "29. prosince 2022"
         image: assets/img/timeline/2022-12-29.jpg
