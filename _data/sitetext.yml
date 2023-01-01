@@ -35,6 +35,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"                                                                      
+        year: "1. ledna 2023"
+        image: assets/img/timeline/2023-01-01.jpg
+        desc: "„Letošní rok začal 24. února. Bez předmluv a preludií. Ostře. Brzy. Ve čtyři hodiny,“ začal svůj novoroční projev k národu prezident Zelenský a pokračoval: „Probudili jsme se 24. února. Do jiného života. Stali jsme se jiným národem. Jinými Ukrajinci. První střely konečně zničily labyrint iluzí. Viděli jsme, kdo je kdo. Čeho jsou schopni přátelé a čeho nepřítel, a hlavně čeho jsme schopni my. (…) Tohle je rok, kdy Ukrajina změnila svět. A svět objevil Ukrajinu. Bylo nám řečeno, abychom se vzdali. My jsme se rozhodli pro protiútok! Bylo nám řečeno, abychom udělali ústupky a kompromisy. Vstupujeme do Evropské unie a NATO.“ Na závěr všem popřál: „Ať je tento rok rokem návratu. Návratu našeho lidu. Vojáků – ke svým rodinám. Vězňů – do jejich domovů. Imigranti – na svou Ukrajinu. Návrat našich zemí. A dočasně okupovaní se stanou navždy svobodnými. Návrat k normálnímu životu. Ke šťastným chvílím bez zákazu vycházení. K pozemským radostem bez leteckých poplachů. Návrat toho, co nám bylo ukradeno. Dětství našich dětí, klidné stáří našich rodičů. Aby vnoučata přišla o prázdninách navštívit své prarodiče. Aby se v Chersonu jedly melouny. A třešně v Melitopolu. Aby naše města byla svobodná. Aby naši přátelé byli věrní.“ Pokud pořád nechápete rozdíl mezi dobrem a zlem v tomhle konfliktu, pusťte si celý Zelenského projev. A potom si pusťte projev Putina."
+        detail: |
+          - Rusové v časných hodinách na nový rok vypálili další salvu raket a desítky kamikadze dronů na ukrajinská města. Na drony dokonce napsali vzkazy s přáním „šťastného nového roku“. Nad Kyjevem dokázala protivzdušná obrana úspěšně zasáhnout proti 32 cílům. Ve Chmelnickém dopadla ruská raketa na vojenský objekt, v jeho okolí ale byla zraněna 22letá dívka, která následně zraněním podlehla. Několik ruských raket opět nedosáhlo ani ukrajinských hranic a spadlo na území Ruska.
+          - Podle analytiků z ISW nejspíš ruské síly u Bachmutu vypotřebovaly většinu své munice. V minulých dnech se totiž citelně zmenšil počet útoků pěchoty ale i dělostřeleckých přepadů. Podle analytiků budou mít Rusové problémy udržet jejich ofenzivu v běhu.
+          - Ruská policie pátrá u Rostova nad Donem po šesti rekrutech Wagnerovy armády, kteří dezertovali se zbraní v ruce. Všichni jsou bývalí vězni. Co by se asi mohlo stát zlého…
+          - Rusko v minulých dnech tvrdilo, že obsadilo další obec ve směru na Huljajpole. Ve skutečnosti o zmíněnou obec stále probíhají boje.
+          - Ruské dělostřelectvo zasáhlo budovu dětské polikliniky v Chersonu. Během ostřelování města byl zabit jeden člověk a další byl zraněn.
+          - Jedna z nemocnic blízko luhanské fronty údajně během jediného týdne přijala 350 zraněných ruských vojáků.
+          - Rusko už podle vizuálně potvrzených ztrát přišlo o 1 600 kusů tanků.
+          - 140 zajatých ukrajinských vojáků se na Nový rok vrátilo domů.
+          - V Moskvě vyhořela restaurace jménem „Taras Bulba“.
+          - Chorvatsko se dnes stalo členem Evropské unie.
+        videa: |
+          - [Zelenského projev](https://twitter.com/CrimeaUA1/status/1609320425229807616)
+          - [Santa za kniplem](https://twitter.com/maria_drutska/status/1609494024590856192)
+          - [Dopad ruské rakety na Chmelnický](https://twitter.com/nexta_tv/status/1609531271360745472)
+          - [Selhání děla -> katastrofické následky](https://twitter.com/justartsndstuff/status/1609230591932645378)
+          - [Prigožin obhlíží bývalé Wagnerovce](https://twitter.com/NOELreports/status/1609560512911609864)
+          - [Bachmut](https://twitter.com/nexta_tv/status/1609416627635855364)
+          - [Polský Perun versus ruská vozidla](https://twitter.com/EuromaidanPress/status/1609248268675960834)
+          - [Silvestr v zákopech](https://twitter.com/NOELreports/status/1609569100375949313)
+          - [Tank v roli houfnice](https://twitter.com/EuromaidanPress/status/1609263368149372936)
+          - [140 Ukrajinců se vrátilo domů](https://twitter.com/nexta_tv/status/1609357045462978560)
+          - [Dron versus tank](https://twitter.com/EuromaidanPress/status/1609429588496584705)
+          - [Prigožin přinesl zajatým Ukrajincům mandarinky](https://twitter.com/nexta_tv/status/1609260796051337221)
+          - [Kličko v Bachmutu](https://twitter.com/nexta_tv/status/1609257792723992580)
+          - [Cvičení obránců Volyňské oblasti](https://twitter.com/EuromaidanPress/status/1609340626960523267)
+          - [Wagnerovec z Pobřeží slonoviny](https://twitter.com/NOELreports/status/1609569959989886979)
+          - [Ukrajinci pod palbou v Bachmutu](https://twitter.com/WarMonitors/status/1609547179474952192)
+          - [Další účastník soutěže v hodu tankovou věží](https://twitter.com/Tendar/status/1609297245131739136)
+          - [Další nedopalek v Rusku](https://twitter.com/NOELreports/status/1609501814675877888)
+          - [Bývalí okupanti](https://twitter.com/Milan8662/status/1609273200180871170)
+          - [Další várka ruských T-90 na Donbase](https://twitter.com/NOELreports/status/1609580606006120450)
+          - [Protivzdušné humvee](https://twitter.com/TheDeadDistrict/status/1609555384447934473)
+          - [Čištění Bachmutu](https://twitter.com/NOELreports/status/1609517999366569990)
+          - [Mýval](https://twitter.com/irgarner/status/1609272141970653184)
+          - [Report Z Bachmutu](https://twitter.com/NOELreports/status/1609514623400644609)
       - title: "Sobota"                                                                      
         year: "31. prosince 2022"
         image: assets/img/timeline/2022-12-31.jpg
