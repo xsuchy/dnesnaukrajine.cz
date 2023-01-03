@@ -35,6 +35,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "3. ledna 2023"
+        image: assets/img/timeline/2023-01-03.jpg
+        desc: "Rusové provedli raketový útok na Kramatorsk. Zasáhli při něm budovu zimní sportovní haly Altar a na oficiálních kanálech se ihned pochlubili, že při útoku bylo zabito několik set ukrajinských vojáků a zničeny dva systémy HIMARS, dva české Vampyry a několik samohybných děl. Jak se ale vzápětí ukázalo, bylo to ze strany ruské propagandy spíše zbožné přání. Už první videa a fotografie z likvidace následného požáru ukazovaly na to, že ve sportovní hale nejspíš žádní vojáci ani vojenská technika nebyli. Co ale na snímcích vidět je, jsou krabice s jídlem a palety s balenou vodou. Ukrajinci informovali, že prostory sportovní haly využívala ukrajinská charitativní organizace jako distribuční místo a sklad humanitární pomoci, a snímky jim dávají za pravdu. Jedna věc je nemít pořádné úspěchy na bojišti a nafukovat význam každé vesnice, kam vstoupí ruská noha, ale zničit sklad humanitární pomoci a prezentovat to jako zásadní úder na ukrajinské síly, je skutečně dno. Další novinky tut:"
+        detail: |
+          - Ukrajinci zasáhli raketami základnu mobilizovaných mužů v Tokmaku. Další ruská základna lehla popelem v okupovaném Sahy. Tam si Rusové zřídili kasárny v budově bývalého jachtového klubu, přičemž na lokalitu v tomhle případě upozornil svojí nedbalostí jeden z ruských vojáků, který na svých sítích sdílel fotky z klubu společně s velmi konkrétními popisky a zapnutým geotagem. Zpětně se objevila také informace o zasažené základně Rusů v Čulakivce u Chersonu, kde bylo údajně zraněno nebo zabito až 500 vojáků.
+          - Ruské ministerstvo obrany potvrdilo smrt nejméně 63 lidí zabitých během raketového útoku na základnu v okupované Makijivce. Ukrajinci hovoří o vyšších stovkách, ruští blogeři odhadují nižší stovky obětí. Ukrajinci údajně dokázali zaměřit palbu díky vysoké koncentraci aktivních ruských SIM karet na jednom místě.
+          - Ukrajinské síly vyvěsily vlajku na ostrově Velykyj Potomkinskyj u Chersonu. Není ale jisté, jestli ostrov kontrolují, nebo jde pouze o symbolický akt. Na ostrově se v minulých dnech čato bojovalo a obě strany sem vysílaly přes řeku své speciální jednotky.
+          - Ukrajinská protivzdušná obrana si připsala nový rekord. Během dnešního ruského útoku íránskými drony sestřelila 100 % cílů – tedy všech 39 dronů. Některé přesto po dopadu způsobily škody i zranění.
+          - Britská rozvědka je přesvědčená, že ruská ofenziva na Bachmut dosáhla v polovině prosince tzv. bodu kulminace, tedy nejvyšší možné intenzity, a teď už budou útoky pouze slábnout, až se úplně zastaví.
+          - Ukrajinský Úřad pro ekonomickou bezpečnost stíhá šest manažerů domácí zbrojařské firmy Ukroboronprom za to, že dopustili, aby se k vojákům na frontě dostalo nekvalitní vybavení.
+          - Rekordně teplá zima dává neskutečně legrační kontext pohádkám ruské propagandy o „zmrzlé Evropě“. I příroda je proti Rusku.
+          - Německý novinář Björn Stritzel byl během natáčení pro BILD zraněn ruským šrapnelem.
+          - Vyšetřovatelé objevili další ruskou mučírnu v osvobozené Oleksandrivce u Mykolajivu.
+          - Ukrajina převzala první zásilku velkokapacitních generátorů od Taiwanu.  
+          - Ukrajinci palbou poničili vedení elektřiny v obci Vjazovoje u Belgorodu.
+          - Ruská PVO zasahovala v noci nad Sevastopolem a Simferopolem.
+          - Německo neposkytne Ukrajině tanky Leopard 2, oznámil Scholz.
+          - Ukrajinci sestřelili další ruský Ka-52 Aligator na východní frontě.
+          - Estonsko poskytne Ukrajině výbavu k likvidaci min.
+        videa: |
+          - [Dopad v Kramatorsku přímo během reportáže francouzské televize](https://twitter.com/nexta_tv/status/1610046058532405255)
+          - [Zasažená sportovní hala](https://twitter.com/nexta_tv/status/1610060585286205443)
+          - [Pohled dovnitř](https://twitter.com/i_army_org/status/1610213598785060865)
+          - [Zdevastovaná Marjinka](https://twitter.com/EuromaidanPress/status/1610201801814429697)
+          - [Zásah v Tokmaku](https://twitter.com/nexta_tv/status/1610238630101909507)
+          - [Polský medik evakuuje zraněného vojáka](https://twitter.com/nexta_tv/status/1610227100828532737)
+          - [Zničený ruský checkpoint](https://twitter.com/danielapruna2/status/1610034448417841153)
+          - [Bělorusové v akci](https://twitter.com/nexta_tv/status/1610214843088359424)
+          - [Prigožin pochopil, že nedobude Bachmut](https://twitter.com/NOELreports/status/1610209327851229186)
+          - [Zničený ruský muničák ve Svatove](https://twitter.com/nexta_tv/status/1610202711953137667)
+          - [Zasažená ruská základna v Sahy](https://twitter.com/nexta_tv/status/1610167449911001089)
+          - [Neuvěřitelné ztráty Wagnerovců](https://pbs.twimg.com/media/FlfHtThWIAAOAf7?format=jpg&name=large)
+          - [Ruský ešelon s archivními tanky](https://twitter.com/NOELreports/status/1610198084755095552)
+          - [Čas na partii v Soledaru](https://twitter.com/NOELreports/status/1609964415951970306)
+          - [„Rusy neobsluhujeme.“](https://twitter.com/EvaTrmx86qc7r/status/1609908514981384192)
+          - [Dron počítá ruské ztráty](https://twitter.com/herooftheday10/status/1609919471828754432)
       - title: "Pondělí"                                                                      
         year: "2. ledna 2023"
         image: assets/img/timeline/2023-01-02.jpg
