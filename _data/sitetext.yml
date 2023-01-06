@@ -35,6 +35,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "6. ledna 2023"
+        image: assets/img/timeline/2023-01-06.jpg
+        desc: "Dnes od dvanácti hodin mělo platit příměří, ke kterému v době pravoslavných Vánoc vyzval Putin i další ruské špičky. Žádný klid zbraní samozřejmě nenastal. Rusové od rána v zástupech útočí na Bachmut a Soledar. V Soledaru se jim dokonce podařilo proniknout na okraj města. Navíc tři hodiny před dvanáctou Rusové cíleně zasáhli hasičskou stanici v Chersonu a několik členů sboru jejich projektily zranily a zabily. Ve válce bohužel často umírají ti nejlepší, nejodvážnější a nejobětavější. Jen ne na straně Ruska. To se systematicky zbavuje svých kriminálníků a „problematických živlů“ tím, že je vrhá nevycvičené do první linie. Ale dokud Putin nezačne posílat se zbraní v ruce do zákopů i kosmopolitní obyvatele z větších ruských měst nebo dokonce zlatou mládež, sotva se dočkáme občanského odporu v Ruské federaci. Bohužel. To už nám posledních 10 měsíců odhalilo dokonale. A teď pár [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02XoRmF3NaZJ7CkN2fRPsjAmTSGaetFyxEjtAz4RFUDVDveFXJta8baFKuXT1cChiQl)"
+        detail: |
+          - Poté, co Francie oznámila dodávku stíhačů tanků Ukrajině, rozhoupalo se Německo k navýšení dosavadní pomoci. V prvním čtvrtletí tohoto roku by tak mělo Ukrajině poskytnout další baterii systému Patriot a 40 kusů bojových vozů Marder. Předsedkyně výboru pro obranu německého Bundestagu také dál tlačí na Scholze, aby umožnil poskytnout tanky Leopard 2 Ukrajině.
+          - Podle Reuters jsou Američané přesvědčení, že Prigožin si vybral frontu u Bachmutu kvůli bohatým nalezištím soli a sádrovce, které se v jeho okolí nachází. Wagnerova skupina se podobně chová i v afrických zemích, kde oficiálně „chrání“ tamější doly včetně těch diamantových, nicméně de facto je kontroluje. 
+          - Putin si za svůj návrh na vánoční příměří vysloužil hlasitou kritiku od ruských blogerů a představitelů separatistů, kteří otevřeni oznámili, že ho nebudou dodržovat. Západní analytici ale věří, že Putinovi nešlo o skutečné příměří, nýbrž o další PR spin, jak vykreslit Ukrajince jako ty, kteří nejsou ochotni jednat. 
+          - Generální tajemník OSN rozpustil tým, který měl vyšetřovat příčiny a okolnosti výbuchu v kolonii v Olenivce. Důvodem je podle něj absence bezpečnostních záruk pro vyšetřovatele ze strany Rusů.  
+          - Podle ukrajinského Generálního štábu začali separatisté v Doněcku shromažďovat informace o mužích narozených v roce 2006 pro případnou mobilizaci. 
+          - Reznikov informoval, že Ukrajina nepotřebuje výhledově přistoupit ke generální mobilizaci, pokud bude mít k dispozici dostatek techniky a vybavení. 
+          - Ukrajinci zasáhli další ruskou základnu v okupovaném Tokmaku a další dvě shromaždiště v okupované části Chersonské oblasti. 
+          - Japonsko jakožto předsedající země skupiny G7 plánuje v roce 2023 navýšit pomoc Ukrajině a zavést další a přísnější sankce vůči Rusku. 
+          - V další dodávce zbraní ze Spojených států by Ukrajina měla obdržet také multifunkční střely RIM-7 Sea Sparrow. 
+          - Lukašenko podepsal zákon, který umožňuje zbavit občanství Bělorusy obviněné z extremismu. 
+          - Ukrajinci sestřelili ruský bitevník Su-25 u Bachmutu a zajali jeho pilota. 
+          - Rusové opět zasáhli Nikopol dělostřeleckou palbou. 
+        videa: |
+          - [Ukrajinský tank jde na zteč](https://twitter.com/Osinttechnical/status/1611117807822946305)
+          - [Náklad 200 v Luhansku](https://twitter.com/NOELreports/status/1611337579319681025)
+          - [Běloruská pohraniční stráž dál pašuje lidi do Polska](https://twitter.com/nexta_tv/status/1611151751943708672)
+          - [Ukrajinský bitevník nad Bachmutem ](https://twitter.com/NatashaEvkova/status/1611309835953360897)
+          - [Ukrajinský sniper pracuje](https://twitter.com/Seveerity/status/1611246007181795331)
+          - [Požární stanice v Chersonu](https://twitter.com/nexta_tv/status/1611324961590837248)
+          - [Soledar!](https://twitter.com/NOELreports/status/1611337077890682882)
+          - [Archivní video z prvních dnů války](https://twitter.com/MrBavovna/status/1611006320668479490)
+          - [Další ruský ešelon dorazil do Běloruska](https://twitter.com/nexta_tv/status/1611064151149023234)
+          - [Běloruský pohraničník žaluje, že jsou na něj Ukrajinci zlí ](https://twitter.com/nexta_tv/status/1611028287408439296)
+          - [Bývalé ruské zákopy (citlivé!)](https://twitter.com/NOELreports/status/1611336696838209536)
+          - [Aktualizace z Bachmutu](https://twitter.com/wartranslated/status/1611325546260221953)
+          - [Evakuace Bachmutu](https://twitter.com/NOELreports/status/1611336264996847617)
+          - [Sestřelený Su-25 ](https://twitter.com/Azovsouth/status/1611014868613881858)
+          - [Minomet nedává Rusům spát](https://twitter.com/Militarylandnet/status/1611338430968995841)
+          - [Bachmutská fronta](https://twitter.com/Militarylandnet/status/1611301200733024262)
+          - [Tlustej hafík](https://twitter.com/razdjensia/status/1611338478251294721)
       - title: "Čtvrtek"
         year: "5. ledna 2023"
         image: assets/img/timeline/2023-01-05.jpg
