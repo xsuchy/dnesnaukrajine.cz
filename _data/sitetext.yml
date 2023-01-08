@@ -35,6 +35,47 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "8. ledna 2023"
+        image: assets/img/timeline/2023-01-08.jpg
+        desc: "Rusové oznámili, že v odvetě za raketový útok na Makijivku zasáhli několik základen v Kramatorsku a usmrtili až 600 ukrajinských vojáků. Starosta města potvrdil, že město bylo zasaženo sedmi raketovými útoky, přičemž měly být poničeny dvě školy, 8 bytovek a garáže. Zároveň ale uvedl, že během útoku nebo nikdo zraněn ani zabit. A fotky z míst dopadů skutečně nenaznačují, že by v některé z budov mohla být ukrajinská základna – většina z nich byla opuštěných, navíc na videích a snímcích není vidět natolik velké poškození, aby se daly Rusku věřit prezentovaná čísla. Některé rakety dokonce ani nezasáhly samotné budovy, ale například dvorek. Informace tak má nejspíš za cíl pouze „uklidnit“ ruskou veřejnost. Pravda ale bude někde jinde. Jako vždy. A teď pár nedělních [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0a2WuVXHeqmVrJu61rVchbzQ4b4pdG1GEb7YQfsEyiRQap24yCWSEiZPr8HF4ic1nl)"
+        detail: |
+          - Podle svědectví jednoho z přeživších ruských důstojníků dopadly ukrajinské rakety na základnu v Makijivce v moment, kdy se vojáci shromáždili v hale, aby povinně zhlédli Putinův novoroční projev. 
+          - Podle ukrajinských zastupitelů Rusové přetvořili v okupovaném Antracytu v Luhansku tamější porodnici na vojenskou nemocnici. 
+          - Podle ukrajinského Generálního štábu ruská Rosvgardia zastřelila u Záporoží před třemi dny šestici vojáků, kteří se plánovali vzdát. 
+          - Prezident autonomní Republiky srbské v Bosně a Hercegovině ocenil Putina za rozvoj vzájemných vztahů a posílení kooperace. 
+          - Finský ministr zahraničí oznámil, že v případě přijetí Finska do NATO nebude Finsko na svém území umisťovat jaderné zbraně. 
+          - Německá policie oznámila, že překazila teroristický útok, který měli provést dva bratři z Íránu za použití kyanidu a ricinu. 
+          - Ukrajinci zasáhli ruské shromaždiště v okupovaném Rubižném. Útok si měl vyžádat nejméně 14 obětí. 
+          - Zatímco v Evropě je až okolo 15 stupňů nad nulou, v Moskvě naměřili i pod -20 stupňů Celsia. 
+          - Ukrajinské jednotky bojují na Kinburnské „kose“. Z míst se ozývá střelba z ručních zbraní.
+          - Prigožin otevřeně přiznal, že chce dobýt Bachmut kvůli jeho nerostnému bohatství. 
+          - Spojené státy budou už koncem ledna cvičit Ukrajinci v ovládání vozidel Bradley. 
+          - Ukrajinská protivzdušná obrana nejspíš sestřelila vlastní MiG-29 u Kurachového. 
+          - Proběhla další výměna zajatců ve formátu 50 za 50.
+        videa: |
+          - [Ruský snajpr v Soledaru ](https://twitter.com/Tendar/status/1612132631264563203)
+          - [Rusové v Blahodatne](https://twitter.com/WarMonitors/status/1612132876136456197)
+          - [Jak dopadl ruský útok ](https://twitter.com/PaulJawin/status/1612101547717951489)
+          - [Soledar ](https://twitter.com/NOELreports/status/1612089353274101763)
+          - [Průzkumníci při práci](https://twitter.com/TpyxaNews/status/1612048384759681024)
+          - [BMP se zastavilo o ukrajinský zákop](https://twitter.com/NOELreports/status/1611848247185645568)
+          - [Mobíci nechtějí do první linie](https://twitter.com/wartranslated/status/1611821678786449409)
+          - [Rusové prší zápalnou munici na Cherson](https://twitter.com/nexta_tv/status/1612039241936125953)
+          - [Ukrajinský tank v Soledaru ](https://twitter.com/NOELreports/status/1612032658254569479)
+          - [Soledar z ukrajinského pohledu](https://twitter.com/Euromaidan.../status/1612036515743367168)
+          - [Ukrajinský snajpr](https://twitter.com/nexta_tv/status/1612007686685577216)
+          - [Video ze základny, kterou Ukrajinci pár dní nato zničili](https://twitter.com/NOELreports/status/1612170342050549763)
+          - [Ukořistěný vůz](https://twitter.com/Euromaidan.../status/1612016588063907840)
+          - [Přílety do Kramatorsku](https://twitter.com/nexta_tv/status/1611963535042412544)
+          - [Fotbálek když se zrovna nestřílí](https://twitter.com/DefenceU/status/1612054006171422721)
+          - [Jedna z obětí útoku na Makijivku, později v nemocnici zemřel ](https://twitter.com/nexta_tv/status/1611857616447094786)
+          - [Fííííí](https://twitter.com/NOELreports/status/1611751568017063939)
+          - [Vrtulníková letka](https://twitter.com/nexta_tv/status/1611845534536327169)
+          - [Koncert pro ruské brance](https://twitter.com/NOELreports/status/1612173562537979904)
+          - [Pár tref](https://twitter.com/PaulJawin/status/1611765407551029248)
+          - [Cesta z Bachmutu](https://twitter.com/saintjavelin/status/1611856909774065664)
+          - [Dělostřelci u Bachmutu](https://twitter.com/NOELreports/status/1611871694733414400)
       - title: "Sobota"
         year: "7. ledna 2023"
         image: assets/img/timeline/2023-01-07.jpg
