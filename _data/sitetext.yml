@@ -35,6 +35,51 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "9. ledna 2023"
+        image: assets/img/timeline/2023-01-09.jpg
+        desc: "Americká vozidla Bradley ještě ani nejsou na Ukrajině, ale už vyvolávají vášně na ruské straně konfliktu. Kanál Wagnerovců RSOTM přislíbil tomu, kdo jako první některý Bradley zneškodní nebo zajme, 1 milión rublů a merch v podobě triček, kanál „Veteránovy zápisky“ k tomu navrch přihodí dron Mavic-3 a termální dalekohled VENOX. Zjevně tedy Rusové věří, že uvedení vozů Bradley na bojiště může znamenat významnou posilu pro Ukrajince. Nezbývá než doufat, že se nemýlí. Jen technologická převaha může vyvážit ruské počty. Tady je pár [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02ffGkovCGw3xNZZRxeLF9yjSLzVqQdd4x4kUcJXF5khG41gkHXpin82tQhLYUNfArl)"
+        detail: |
+          - Serhij Čerevaty, mluvčí Východního křídla ukrajinských sil, oznámil, že do Soledaru a Bachmutu dorazily posily. Zdroje z místa skutečně potvrzují jednak posílení stávajících pozic, ale také sérii protiútoků, které přítomnost posil umožnila. Například u Soledaru se tak situace údajně mírně stabilizovala a Ukrajinci znovu dobyly západní a centrální část města. Čerevaty také informoval, že aktuální mrazy už brzy umožní pohyb těžké techniky a výraznější protiofenzivu na východní frontě.  
+          - Novináři se vydali na místa, kde měly ruské rakety usmrtit až šest stovek ukrajinských vojáků. Nenašli ale žádné známky toho, že by rakety zasáhly jakoukoliv vojenskou základnu, některé rakety navíc viditelně minuly své cíle a ani místní svědectví nenaznačují, že by po útoku ve městě probíhaly záchranářské práce nebo byli odváženi ranění. 
+          - Rusové údajně přesunuli do Astrachanu několik svých nejmodernějších stíhaček Su-57 (Felon), nicméně aktuálně je využívají pouze k palbě raket zpoza hranic. Nechtějí totiž riskovat, že by ukrajinská PVO některý z letounů sestřelila. 
+          - Ministr Reznikov tvrdí, že Rusové využili mobilní hru v psychologické operaci, kdy pomocí ní za nevědomé asistence ukrajinských dětí získávali informace o polohách důležitých objektů ukrajinské infrastruktury. 
+          - Ruskem opět proběhla série požárů. V Kolagymu hoří celý objekt několika ubytoven, jinde hoří kancelářské objekty a v Barnaulu dokonce průmyslový objekt v blízkosti kanceláří FSB. 
+          - Rusové dopoledne zasáhli dělostřeleckou palbou tržnici v Ševčenkovém u Charkova. Útok si vyžádal 7 raněných včetně 13letého dítěte, jedna 60letá žena bohužel přišla o život. 
+          - Polsko uvedlo, že se nebrání poskytnutí tanků Leopard 2 z vlastního vozové parku Ukrajině, ale protože tanky jsou německé, potřebuje k tomu německý souhlas. 
+          - Ukrajinský velvyslanec v Gruzii uvedl, že Ukrajina žádala Gruzínce o vrácení baterií systémů Buk, které zemi v roce 2008 poskytla, ale Gruzie výzvu odmítla.  
+          - Velitel ukrajinských pozemních sil generál Syrský navštívil štáby u Bachmutu a Soledaru, rozdal obráncům medaile a diskutoval s veliteli zlepšení obrany. 
+          - Na dotaz novinářů, zda by Švédsko mohlo Ukrajině poskytnout sv houfnice Archer, odpověděl premiér Kritersson, že otázka nezní „zda“, ale „kdy“. 
+          - Podle ukrajinské rozvědky plánují Rusové licenční výrobu íránských dronů v Tojjatti i dalších městech. Není ale jasné, kde budou brát součástky. 
+          - Trup ruské letadlové lodi Admirál Kuzněcov je údajně natolik zkorodovaný, že loď není schopná plavby do jiného doku. 
+          - Ruská palba v noci na dnešek poničila energetickou infrastrukturu u Chersonu. 
+          - Premiér Fiala prohlásil, že řešením rusko-ukrajinské války je vítězství Ukrajiny. 
+          - Do Mykolajivu dorazilo 226 dieselových generátorů, které darovalo Česko. 
+          - Papež František prohlásil, že ruská invaze je zločinem proti Bohu i člověku. 
+          - Ukrajinci zasáhli ruskou základnu v okupované Lantrativce u Luhansku.
+          - V okupovaném Doněcku hoří fabrika na válcování kovů. 
+          - Ruské síly během 24 hodin přišly o tři helikoptéry.
+        videa: |
+          - [Noční palba z CAESARa](https://twitter.com/EuromaidanPress/status/1612298618085457925)
+          - [Trofejní hyacint](https://twitter.com/nexta_tv/status/1612421403394953217)
+          - [Ruský tank usnul](https://twitter.com/NOELreports/status/1612178086270836737)
+          - [Vylepšená ukrajinská helikoptéra](https://twitter.com/EuromaidanPress/status/1612328061764075520)
+          - [Dopady raket u Charkova](https://twitter.com/nexta_tv/status/1612363306634715136)
+          - [Jak to vidí posádka ukrajinského BTR-3](https://twitter.com/EuromaidanPress/status/1612253194167500800)
+          - [V Bratsku se kdosi pokusil podpálit budovu vojenské správy](https://twitter.com/nexta_tv/status/1612399640342675456)
+          - [Bývalý ruský bunkr](https://twitter.com/herooftheday10/status/1612377148676775937)
+          - [Gruzínci 😊](https://twitter.com/NOELreports/status/1612211980395225091)
+          - [Jak vidí Bachmut ukrajinští rozvědčíci ](https://twitter.com/nexta_tv/status/1612350535599800321)
+          - [Trefa!](https://twitter.com/nevedimka123/status/1612159988738457601)
+          - [Odvoz kovošrotu](https://twitter.com/NOELreports/status/1612413829329178624)
+          - [Moře v Oděse opět vyplavilo námořní minu](https://twitter.com/nexta_tv/status/1612323531823484928)
+          - [Trefa!](https://twitter.com/herooftheday10/status/1611968206029164544)
+          - [Medici v Bachmutu](https://twitter.com/nexta_tv/status/1612318247335985152)
+          - [Ukrajinci v Soledaru](https://twitter.com/Militarylandnet/status/1612415214787461122)
+          - [Soledar](https://twitter.com/NOELreports/status/1612407236663586819)
+          - [MG3 v ukrajinském zákopu](https://twitter.com/WarMonitors/status/1612348589971308544)
+          - [O situaci v Soledaru ](https://twitter.com/NOELreports/status/1612182723384188932)
+          - [Exploze v Bachmutu](https://twitter.com/WarMonitors/status/1612434676693467137)
       - title: "Neděle"
         year: "8. ledna 2023"
         image: assets/img/timeline/2023-01-08.jpg
