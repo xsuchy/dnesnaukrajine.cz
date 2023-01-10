@@ -35,6 +35,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "10. ledna 2023"
+        image: assets/img/timeline/2023-01-10.jpg
+        desc: "Situace u Soledaru se mění i několikrát denně. Wagnerovci údajně vrhli do boje svou elitu a té se podařilo probojovat až na západní kraj města. Rusové také údajně získali palebnou kontrolu nad ukrajinskou zásobovací trasou. Ve městě probíhají těžké boje skoro o každý dům, dá-li se tak říkat ruinám, ve které se město v důsledku měsíců ostřelování proměnilo. Bojů se na ukrajinské straně účastní pohraniční stráž posílená o parašutisty z 46. brigády, jednotky teritoriální obrany, jednotky SSO a 17. tankovou brigádu. Na severovýchodě pak ukrajinská 10. horská brigáda čelí ruským VDV jednotkám. Dnes byly boje hlášeny opět primárně v okolí solných dolů v západním cípu Soledaru. Bohužel se dá předpokládat, že takové boje přináší oběma stranám velké ztráty. Britská rozvědka s jistým optimismem tvrdí, že ani po případném dobytí Soledaru nyní nehrozí obklíčení Bachmutu, protože na cestě k městu je připraveno několik dalších obranných linií, nicméně zvenku situace působí tak, že k sevření města nejspíš vše pozvolna směřuje. Ostatně podle Britů už je pravděpodobně Soledar nyní pod ruskou kontrolou. Rusové také tlačí na samotný Bachmut za dvou stran a mají zde dílčí úspěchy. Bohužel při probíhajících střetech Ukrajinci nezveřejňují operační informace, což silně nahrává ruské propagandě, která ráda své úspěchy nafukuje. Proto bude realita jasnější až v příštích dnech. Držme obráncům palce, jsou to hrdinové. A teď pár konkrétnějších [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02i5iZy24eVeTuLZsyPuog9jFjNvHthi2bKGxadvRfBoJKYCt36c42PH128qtQ83mSl)"
+        detail: |
+          - Na sociálních sítích se objevilo intenzivní video, kde skupina 4 členů ukrajinských SOF přepadla za asistence dronu s termovizí zákopy wagnerovců. Výsledkem je okolo 14 mrtvých a 6 zajatců. Přesná čísla se drobně liší. Na ukrajinské straně každopádně nedošlo k žádným ztrátám. 
+          - SBU zadržela v Dnipru kolaboranta, který pomáhal Rusům navádět palbu na tamější teplárnu a poskytoval jim informace o pohybech ukrajinské armády. V Kyjevě se rozvědce podařilo odhalit muže, kteří stáli za vytvořením další pro-ruské „trollí farmy“. 
+          - Na Ukrajinu už brzy zamíří další tanky z Česka – nejspíše modely T-72, jejichž modernizaci financovaly Spojené státy a Nizozemí. Premiér Fiala na ně Ukrajincům napsal podpůrné vzkazy. 
+          - Británie ztratila kontakt s dvěma britskými občany, kteří se pohybovali u Soledaru jako zdravotníci a humanitární pracovníci. Ztratili se během cesty mezi Kramatorskem a Soledarem. 
+          - Itálie zvažuje převod protivzdušných systémů Aspid a Mamba Ukrajině. Nejprve ale prý musí vyřešit některé technické otázky. 
+          - Pentagon podepsal smlouvu ve výši 40 miliónů dolarů o nákupu protivzdušných systémů VAMPIRE pro Ukrajinu. 
+          - Rusko oznámilo, že nebude zveřejňovat seznam obětí ukrajinského raketového útoku na Makijivku. 
+          - Generál Lapin byl jmenován velitelem šéfem Generálního štábu pozemních sil ruské armády. 
+          - Polsko umístí ke hranicím s Běloruskem a Litvou svou nově vytvořenou 1. legijní pěší divizi. 
+          - Počet vypálených dělostřeleckých granátů údajně klesl z cca 22 000 na 5 000 denně. 
+          - Ruské automobilky prodaly v roce 2022 o 59 % méně aut než v předchozím roce. 
+          - V bojích u Soledaru padnul plukovník Jurčyk z ukrajinské pohraniční stráže. 
+          - Ukrajinská palba zničila ruský muniční sklad v okupovaném Melitopolu. 
+          - Ukrajinci dnes zasáhli a zničili ruskou loď na Dněpru u Chersonu. 
+          - Opoziční ruská televize „Dožď“ získala vysílací licenci v Nizozemí. 
+          - V Moskvě hoří areál autodílny o 2 000 čtverečních metrech. 
+          - Ukrajinci jsou o další obec blíž k okupované Kreminně. 
+        videa:
+          - [Noční akce (citlivé!)](https://twitter.com/EuromaidanPress/status/1612793011527622662)
+          - [Helma vojáka, co se vrátil ze Soledaru do týlu](https://twitter.com/Militarylandnet/status/1612560894877130754)
+          - [Místo dopadu v Chersonu ](https://twitter.com/nexta_tv/status/1612810116650221569)
+          - [Wolfhound v Soledaru ](https://twitter.com/Militarylandnet/status/1612728364653244419)
+          - [V Moskvě už zase hoří ](https://twitter.com/nexta_tv/status/1612779472448589826)
+          - [Pohraničníci v Soledaru](https://twitter.com/NOELreports/status/1612473775328485378)
+          - [Další hrdina se učí s novou nohou](https://twitter.com/EuromaidanPress/status/1612803448994500609)
+          - [Separatisti tvrdí, že Bachmut bude brzy „osvobozen“](https://twitter.com/nexta_tv/status/1612775221701779457)
+          - [O Bachmutu z první ruky](https://twitter.com/NOELreports/status/1612814825016688640)
+          - [Ruský voják měl na sobě vestu proti nožům, kulku nezastavila](https://twitter.com/wartranslated/status/1612547033302179841)
+          - [Turnaj na nože ukrajinských vojáků](https://twitter.com/HonzaUA/status/1612510714865803270)
+          - [Rusové cosi zasáhli v Ochakivu](https://twitter.com/NOELreports/status/1612472378180739072)
+          - [Propagandisti vyhrožují Francii](https://twitter.com/Gerashchenko_en/status/1612533464661622784)
+          - [Bývalý muničák](https://twitter.com/NOELreports/status/1612812055089659907)
+          - [Ruská past s použitím granátu pod tělem zabitého kolegy (citlivé!)](https://twitter.com/Milan8662/status/1612427432774234112)
       - title: "Pondělí"
         year: "9. ledna 2023"
         image: assets/img/timeline/2023-01-09.jpg
