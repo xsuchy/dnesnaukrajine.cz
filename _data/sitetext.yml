@@ -35,6 +35,51 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "11. ledna 2023"
+        image: assets/img/timeline/2023-01-11.jpg
+        desc: "Několik ukrajinských vojenských zpravodajů a také špičky v ukrajinské armádě nebo analytici z ISW popřeli včerejší ruská tvrzení, že by Soledar byl pod kontrolou Rusů. Boje ve městě i podle svědectví na obou stranách dál pokračují. Rusové sice dokázali postoupit přes centrum města na jeho západní stranu, nicméně ve městě stále působí ukrajinské jednotky a svádí s Rusy těžké boje. Ukrajinské jednotky zatím nedostaly rozkaz k ústupu. Rusové podle náměstkyně ministerstva obrany Hanny Maliar dál útočí na ukrajinské pozice v ohromných počtech bez ohledu na ohromné ztráty ve vlastních řadách. Velké ztráty jsou ale podle členů ukrajinských ozbrojených sil i na straně obránců. Jeden z vojáků po návratu z boje doslova prohlásil, že „mrtvých je tolik, že je nikdo nepočítá“. Ačkoliv je tedy situace velmi nečitelná, jisté je, že je pro obě strany velmi nepříjemná. Snad bude [zbytek zpráv](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0zr8FN2mBy2en5rhxbvf9oHdhNycH4rFRjjdE1Yg5AZCUuhcGy68qmSy793M9A6b2l) trochu pozitivnějších"
+        detail: |
+          - Francie a Polsko tlačí na německou vládu, aby odblokovala poskytnutí tanků Leopard 2 Ukrajině. Nežádají přitom, aby Němci nutně poskytli svoje tanky, nicméně u vojenské techniky platí, že s poskytnutím zbraní, munice nebo systémů třetí straně musí souhlasit země, ze které technika pochází. 
+          - Rusko podle agentury Bloomberg ztrácí denně 172 miliónů dolarů v důsledku zavedeného cenového stropu na ruskou ropu. Po zavedení dalších sankcí, respektive po 5. únoru, se očekává, že denní ztráty se vyšplhají až na 280 miliónů dolarů. 
+          - Zelenský promluvil k hostům ceremonie během předávání cen Zlatý glóbus. Připomněl dvě velké války 20. století, poděkoval za podporu Ukrajiny a posluchačům vzkázal, že „nejde o trilogii – žádná třetí světová válka nebude“. 
+          - Zelenský nechal zbavit ukrajinského občanství čtyři politiky z pro-ruské strany Pro život včetně Viktora Medvedčuka, který od jeho výměny za ukrajinské zajatce pobývá v Rusku. 
+          - Pákistán plánuje poslat Ukrajině 159 kontejnerů 155mm munice a granátů. Ukrajina na oplátku pomůže Pákistánu s modernizací sovětských vrtulníků Mi-17 a tanků T-80UD. 
+          - Podle ukrajinských médií Rusové zastavili na hranicích vlastní vojáky, kterým skončil kontrakt a chtěli se vrátit do Ruska. Vojákům nebylo umožněno se vrátit. 
+          - 1 500 zaměstnanců jaderné elektrárny v Enerhodaru údajně odmítlo převzít ruské pasy. Rusové teď za ně hledají náhradu v Ruské federaci. 
+          - Turecko oznámilo ústy svého ministra zahraničí, že plně podporuje desetibodový mírový plán prezidenta Zelenského. 
+          - MAAE plánuje v nejbližší době vyslat monitorovací skupiny do všech ukrajinských jaderných elektráren.  
+          - Kanada oznámila, že nakoupí od Spojených států další systémy NASAMS a následně je poskytne Ukrajině. 
+          - Británie zvažuje poskytnout Ukrajině tanky Challenger 2. Finální rozhodnutí ale zatím nepadlo. 
+          - Německá ministryně zahraničí Annalena Berbock bez předchozího avíza navštívila Charkov.
+          - Ruský státní rozpočet skončil v roce 2022 se ztrátou 47 miliard dolarů. 
+          - Polsko v roce 2022 dosáhlo úplné nezávislosti na ruském uhlí. 
+          - Cherson byl v noci opět pod těžkou palbou.
+        videa: |
+          - [Ruské děti recitují milou poezii](https://twitter.com/Gerashchenko_en/status/1612896999287693334)
+          - [Situace Soledar/Bachmut z první ruky](https://twitter.com/wartranslated/status/1613113670527066112)
+          - [Boje o Bachmut](https://twitter.com/nexta_tv/status/1613054048927727618)
+          - [Vrtulníky pod kopcem](https://twitter.com/Osinttechnical/status/1612962953556377602)
+          - [Ukrajinský dron sleduje wagnerovce v Soledaru](https://twitter.com/Militarylandnet/status/1613113495834304512)
+          - [Dovážka cukru pomocí dronu](https://twitter.com/nexta_tv/status/1613114871683457024)
+          - [Kadyrovci u Bachmutu](https://twitter.com/andrewofpolesia/status/1613111164820688898)
+          - [Prigožin v solném dole v Soledaru](https://twitter.com/WarMonitors/status/1613110662531514370)
+          - [BTR-80 trápí okupanty](https://twitter.com/Osinttechnical/status/1612855256274145298)
+          - [Ruská technika v Bělorusku](https://twitter.com/WarMonitors/status/1613110137056550914)
+          - [Mínus tank](https://twitter.com/NatashaEvkova/status/1613099220415676416)
+          - [Dříve herec, nyní voják zraněný u Soledaru ](https://twitter.com/nexta_tv/status/1613103043511308289)
+          - [Dělostřelci se postarali o wagnerovce](https://twitter.com/Tendar/status/1612893605647028231)
+          - [Rusové zasáhli skladiště pyrotechniky v Charkově (podle Rusů muničák)](https://twitter.com/nexta_tv/status/1613097763067301889)
+          - [Gruzínci v ukořistěném Tigru](https://twitter.com/NOELreports/status/1612855507290828802)
+          - [Běloruský prapor Volat na straně Ukrajinců](https://twitter.com/NOELreports/status/1613144646208872449)
+          - [Bachmut](https://twitter.com/TreasChest/status/1612805981674651648)
+          - [Když se venku bojuje a uvnitř ti rodí kočka](https://twitter.com/nexta_tv/status/1612955294065397761)
+          - [Slovinský M-55S na východní frontě](https://twitter.com/NOELreports/status/1613123337701707776)
+          - [Tady byla ruská základna v Makijivce](https://twitter.com/nexta_tv/status/1612922568884854786)
+          - [Po krůčkách vpřed](https://twitter.com/UkrainianNews24/status/1613142518018850818)
+          - [Kouření zabíjí](https://twitter.com/TDF_UA/status/1613136640108630017)
+          - [Wagnerovci s Soledaru ](https://twitter.com/NOELreports/status/1612876947738202113)
+          - [Týmová práce](https://twitter.com/UkrainianNews24/status/1613141412677025792)
       - title: "Úterý"
         year: "10. ledna 2023"
         image: assets/img/timeline/2023-01-10.jpg
