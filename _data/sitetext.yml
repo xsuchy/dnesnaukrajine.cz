@@ -35,6 +35,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "13. ledna 2023"
+        image: assets/img/timeline/2023-01-13.jpg
+        desc: "První den voleb. Prosím, najděte si čas zastavit se u volební urny. To, kdo usedne na Hradě, do značné míry ovlivní na příštích pět let českou zahraniční politiku a zřejmě i to, jak bude u české veřejnosti vnímaná pomoc Ukrajině. Ačkoliv nemá prezident pravomoci zabránit vládě v poskytování pomoci, jeho pozice má značný vliv na veřejné mínění a vnímání Česka na mezinárodní scéně, tedy v konečném důsledku i na výsledky parlamentních voleb a přeshraniční spolupráci. Navíc máme v naší části světa to ohromné privilegium, že si svoje zástupce stále svobodně volit můžeme. Ve zbytku světa včetně agresivního Ruska to zdaleka není samozřejmostí. Tak na viděnou u uren! A teď [pár aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid035SvexPxeDsaNsskSUv7hjPCsvWuorBQCKiW8c2SvMaJhkkgjQeftc54SnbzM9Bvnl)"
+        detail: |
+          - Ruské kanály informovaly o tom, že Bachmut se ocitl v operačním obklíčení. Informaci vzápětí okamžitě dementovaly nejen ukrajinské kanály, ale dokonce i tisková služba Prigožinovy soukromé armády. Většinu Soledaru nicméně nyní ruské jednotky okupují, i když v některých částech dál probíhají boje. Rusové jen za posledních 24 hodin ostřelovali 91krát části města, která zatím nemají pod kontrolou. Ukrajinci pravděpodobně ustoupili z centra na západní kraj Soledaru a drží novou obrannou linii u silnice č. 513 a obce Silj. Rusové se také snaží obsadit Krásnou horu severně od Bachmutu a přetnout silnici č. 513, která obě klíčová města spojuje. Podle britské rozvědky Rusové vrhli do bojů doslova vše, co v oblasti mají. 
+          - Ukrajina uspořádala společná cvičení ozbrojených sil, Národní gardy a SBU u hranic s Běloruskem ve snaze odradit Rusko od další invaze. Podle agentury Unian tu případný ruský útok komplikuje také nepravděpodobný spojenec: bobr. Kvůli vysídlení volyňské oblasti po únorové invazi nebyli v místě lidí, kteří by preventivně ničili bobří hráze. Následkem toho je teď pohraničí prakticky celé pod vodou nebo se proměnilo v močál. 
+          - Německá ministryně obrany už dál nevylučuje, že by Německo mohlo poslat Ukrajině své Leopardy. Zároveň vicekancléř Habeck prohlásil, že by Německo nemělo stát v cestě Polsku, pokud se rozhodne poskytnout své Leopardy. Jeho strana Zelených následně vyzvala v Evropském parlamentu kancléře Scholze k vytvoření mezinárodního konsorcia na dodávky tanků Ukrajině. 
+          - Ukrajinský parlament schválil zákon, který přiznává další práva zahraničním dobrovolníkům bojujícím v řadách Národní Gardy nebo ukrajinských tajných služeb a dalších uskupení. Dobrovolníci tak můžou na Ukrajině legálně pobývat, a dokonce požádat o ukrajinské občanství ve zrychleném řízení. 
+          - Ruské ministerstvo obrany během tiskové konference oznámilo, že ruské síly zničily první 4 vozidla Bradley dodané Spojenými státy. Ukrajina zatím žádná vozidla Bradley neobdržela a možná ještě několik týdnů neobdrží. Ukrajinci se teprve začnou cvičit v jejich ovládání. 
+          - Podle ruského blogera Tatarského mají některé ruské jednotky nyní takové ztráty, že v některých rotách zbyli od únorové invaze jen 2-3 původní členové a zbytek (průměrně 90 %) personálu tvoří mobilizovaní muži. 
+          - Švédsko objevilo u Kiruny jedno z největších nalezišť minerálů v Evropě. Těžba v budoucnu umožní snížit závislost na Rusku a Číně u minerálů, které jsou nezbytné k výrobě elektroniky. 
+          - Během opravy tanku u ruského Belgorodu údajně v jednom z poškozených vozidel explodovala munice, následkem čehož byl jeden tank zcela zničen a několik dalších poškozeno. 
+          - Rusko zavádí abolici u vyhýbání se vojenské službě v případě otců 4 dětí. U otců tří dětí probíhá v současnosti diskuze a očekává se, že budou z mobilizace vyjmuti také. 
+          - Rusko údajně pošle všechny muže starší 30 let, kteří v minulosti neabsolvovali povinnou vojenskou službu, na vojenský výcvik. 
+          - Ruská FSB se údajně pokouší verbovat lidi, kteří by za úplatu sprejovali ve Varšavě a Vilniusu proruská graffiti.  
+          - Zhruba dvě stovky Ukrajinců dorazili do Španělského Toleda, kde se budou cvičit v ovládání systémů HAWK. 
+          - Ukrajina zkoumá těla 54 obětí z výbuchu v Olenivce, které ve spolupráci s Červeným křížem získala. 
+          - NATO přesouvá několik průzkumných letadel do Rumunska, aby pomohly monitorovat pohyb Rusů. 
+          - Generál Pavel tvrdí, že jeho web byl dnes pod masivním útokem ruských hackerů. 
+          - Spojené státy zatím nevidí, že by se v Bělorusku chystala další invaze. 
+          - V Melitopolu je nyní více okupantů než obyvatel Ukrajiny. 
+          - Ázerbájdžán poskytnul Ukrajině další generátory.
+        videa: |
+          - [Mysleli jste si, že to byly speciální jednotky? Tak sledujte... ](https://twitter.com/wartranslated/status/1613683716563566593)
+          - [Ruští propagandisti volají po útoku na německou ministryni](https://twitter.com/Biz_Ukraine_Mag/status/1613316703626092545)
+          - [Noví zajatci u Bachmutu ](https://twitter.com/nexta_tv/status/1613836907414175744)
+          - [Zajatci od Krásné hory](https://twitter.com/Militarylandnet/status/1613799953972830208)
+          - [Ukrajinští SSO při práci](https://twitter.com/NOELreports/status/1613849818874671105)
+          - [Ruská palba zasáhla autobusové depo v Chersonu](https://twitter.com/nexta_tv/status/1613832701139734529)
+          - [Boje v Bachmutském](https://twitter.com/666_mancer/status/1613558967438921730)
+          - [Ukrajinská PVO](https://twitter.com/TarmoFella/status/1613829791878111232)
+          - [Mobilizovaní prosí manželky, aby je dostali pryč z Ukrajiny](https://twitter.com/NOELreports/status/1613572407821832192)
+          - [Kde se berou zajatci](https://twitter.com/666_mancer/status/1607301196070395904)
+          - [Kořist](https://twitter.com/NOELreports/status/1613850577766580225)
+          - [Ukrajinské kamikadze drony](https://twitter.com/666_mancer/status/1613632814884261931)
+          - [Děti v Bachmutu](https://twitter.com/SlavaUk30722777/status/1613807399797940225)
+          - [Status Bachmutu](https://twitter.com/wartranslated/status/1613657092954497047) 
       - title: "Čtvrtek"
         year: "12. ledna 2023"
         image: assets/img/timeline/2023-01-12.jpg
