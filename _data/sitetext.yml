@@ -35,6 +35,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "14. ledna 2023"
+        image: assets/img/timeline/2023-01-14.jpg
+        desc: "Zatímco v Česku si lidé volí příštího prezidenta, Rusové zvolili, že vypálí na Ukrajinu další raketovou salvu z bombardérů i raketových člunů. Dokonce i teď trvá varování před vzdušnými útoky, protože se očekává další salva. Protivzdušná obrana pracuje na plné obrátky a část raket se opět podařilo sestřelit. Jak velkou, a jaké škody způsobil zbytek raket, to bude jasné až později odpoledne. Nejméně deset raket mířilo opět na Kyjev. Exploze byly slyšet nad Kyjevem, Charkovem, Chmelnyckým, Ternopilem, Dnipropetrovskem, Ivano-Frankivskem a nad městem Vinnycja. Ihned po útocích došlo k výpadkům proudu, takže zasažena byla nejspíše některá část energetické infrastruktury, ale bohužel rakety mnohem častěji dopadly na rezidenční čtvrti a obytné domy. Počet obětí zatím není znám. Snad jich nebude mnoho. A teď pár [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02cSJoVbZpSSKiWXTpXuepUk32k2jcNGTGJCnvpKwZTYQxjMtJpKoX8HqZQ5AdfBo7l)"
+        detail: |
+          - Ruské ministerstvo obrany informovalo o úspěších u Soledaru a poděkovalo všem zúčastněným složkám armády. Jen na wagnerovce jaksi zapomnělo. Prigožin se proto okamžitě ozval a zmínka o wagnerovcích byla později do zprávy přidána. 
+          - Ruský poslanec z Putinovy strany Jednotné Rusko prohlásil, že Wagnerovci mají nakročeno k tomu stát se politiky. Včera prý byli vězni, dnes jsou to hrdinové. Tak to hodně štěstí, milé Rusko. 
+          - 21 % občanů v Maďarsku odpovědělo na dopis v rámci tzv. „národní konzultace“. Podle maďarské vlády se 97 % z nich vyslovilo proti evropským sankcím vůči Rusku. 
+          - Podle ministra zahraničí Kuleby kromě Polska a Finska čekají další tři země na zelenou od Německa, aby mohly poskytnout své tanky. Nesdělil ale, které tři to jsou. 
+          - Předseda Vyšetřovací komise Ruské federace Bastrykin oznámil, že migranti, kteří obdrželi v Rusku občanství jsou povinni se účastnit „Speciální operace“. 
+          - Čínský vyslanec v OSN v duchu ruské propagandy prohlásil, že dodávky zbraní Ukrajině pouze prodlužují válku a mohou vést k větší konfrontaci. 
+          - Podle americké vyslankyně v OSN Rusko záměrně zdržuje inspekce lodí s obilím, kvůli čemuž nyní desítky lodí čekají, až budou moci vyplout. 
+          - Podle pozorovatelů připravují Rusové Enerhodar na ukrajinskou ofenzivu. Přemisťují základny do sklepních prostor a budují opevnění. 
+          - Luhanští separatisté „vyšetřují“ jednoho z britských pracovníků mise OBSE, že vynášel informace o poloze ruských jednotek. 
+          - Exploze poničila plynovod, který spojuje Lotyšsko a Litvu. Údajně šlo ale pouze o nehodu. 
+          - Ruský vyslanec v OSN označil ukrajinskou armádu za „žoldáky NATO“. 
+          - Ruským Kurskem a Belgorodem se ozývaly exploze.
+        videa: |
+          - [Wagnerovci v Soledaru: „Máme obří ztráty.“](https://twitter.com/rendeiro_silva/status/1613940551480377345)
+          - [Jak HIMARS navštívil Rusy v Soledaru](https://twitter.com/NOELreports/status/1614187787544104960)
+          - [Dnipro po dopadu ruských raket](https://twitter.com/Tendar/status/1614274737131360256)
+          - [Ukrajinský dron „Shark“ hledá cíle pro dělostřeleckou palbu](https://twitter.com/nexta_tv/status/1614012960363499539)
+          - [Město u Záporoží opět zasáhla ruská zápalná munice](https://twitter.com/DefenceU/status/1614174259018104833)
+          - [Dron versus BMP](https://twitter.com/NOELreports/status/1614207703928246272)
+          - [Ruský tank tentokrát odolal](https://twitter.com/RALee85/status/1614283252910653440)
+          - [Plynovod mezi Litvou a Lotyšskem](https://twitter.com/nexta_tv/status/1613974450046631949)
+          - [Raketa Kalibr nad Chersonem](https://twitter.com/WarMonitors/status/1614246753011654659)
+          - [Bývalý ruský tank](https://twitter.com/NOELreports/status/1614240430597472257)
+          - [Po ruském šturmu u Soledaru ](https://twitter.com/herooftheday10/status/1614009738353692674)
+          - [Orkové](https://twitter.com/666_mancer/status/1614225114094047233)
+          - [Dron vs. pušky](https://twitter.com/NOELreports/status/1614212320334323714)
+          - [Bývalé ruské pozice](https://twitter.com/Milan8662/status/1614193865388441600)
+          - [Ano, skutečně vidíte hasičák](https://twitter.com/CalibreObscura/status/1613950258496639010)
+          - [Bývalá ruská houfnice](https://twitter.com/NOELreports/status/1614188123868794880)
+          - [Mobíci si stěžují](https://twitter.com/ian_matveev/status/1614002099104395265)
+          - [Wagnerovci v dámských botách](https://twitter.com/NOELreports/status/1613928518374531072)
+          - [Dnipro](https://twitter.com/ZelenskyyUa/status/1614297489565155335)
       - title: "Pátek"
         year: "13. ledna 2023"
         image: assets/img/timeline/2023-01-13.jpg
