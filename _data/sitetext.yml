@@ -35,6 +35,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "15. ledna 2023"
+        image: assets/img/timeline/2023-01-15.jpg
+        desc: "Dnipro se vyrovnává se včerejším raketovým útokem. Během něj zahynuly také dvě dobrovolnice působící jako medičky Olga Usova a Itina Solomatenko nebo trenér boxu Mychajlo Korenovskyj, který po sobě zanechal ženu a dceru. Ty byly v době útoku naštěstí na procházce. Celkový počet obětí útoku už vyrostl na 40, z toho tři oběti jsou děti. Desítky lidí jsou zraněné, po dalších se stále pátrá. Ruští propagandisti ale ani teď neprojevili ani špetku lítosti nebo sebereflexe a v reakci na útok hřímali v televizi, že stejný osud čeká i Charkov a Kyjev nebo další ukrajinská města. Člověk by rád věřil, že reakce veřejnosti bude v takovém případě spíše znechucení a odpor, ale diskuze na ruských kanálech na Telegramu nebo videa zachycující názory lidí z ruských ulic dávají tušit, že sebereflexe není současná ruská společnost schopna. Na Telegramu lidé útok doslova oslavili a vyzývali k dalšímu ostřelování. Zaznívaly dokonce názory, že „měla následovat atomovka, aby se zničily důkazy“. Rusko zkrátka dotáhlo kult smrti – jeden z definujících rysů fašismu – do finále. Názor, že je lepší „spálit celý svět, než aby v něm nebylo Rusko“ se dříve už dříve objevoval ve veřejném prostoru, ale nyní je naprostý mainstream. Vdovy po ruských vojácích nevidí chybu v Putinovi a jeho nesmyslné válce. Namísto toho volají po odvetě a dalším zbytečném vraždění. Zajímalo by mě, jak si v téhle situaci někteří lidé včetně jednoho z prezidentských kandidátů představují, že by měly vypadat mírové rozhovory? Já si je představit nedokážu. Tak mi nezbývá, než dál psát o tom, [co se děje](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02KJ4SkDNv5bu8WRYU2LUxdZK8PTWhwW7xUktWzuQCmC3fiEs7YbEB4ikzjq9yWNEJl):"
+        detail: |
+          - Jeden z dnes už bývalých velitelů Wagnerovy armády Andrej Medveděv uprchl z Ruska a požádal o politický azyl v Norsku, kde oznámil, že je připravený vypovídat proti Prigožinovi o mimosoudních popravách v režii wagnerovců, kterých byl svědkem. 
+          - Podle americké agentury pro odhalování finančních zločinů ruští oligarchové věděli předem o blížící se invazi na Ukrajinu a začali proto zkraje roku 2022 narychlo přepisovat svůj majetek na příbuzné, aby jim nebyl kvůli sankcím zabaven. 
+          - Pro-ruské milice na Donbasu ukradly automobily OBSE. Organizace musela dokonce vydat prohlášení, že aktuálně na Donbasu nepůsobí, pokud tedy někdo uvidí auta s polepy OBSE, pak se nejedná o její pozorovatele. 
+          - Většina správního území Soledaru je nyní pod kontrolou Rusů včetně dolu č.7 na západním předměstí. Přesto Ukrajinci dál bojují o některé pozice na západním cípu města. 
+          - Podle prezidentského poradce Michajla Podoljaka bylo v minulých měsících zabito, vyřazeno z boje zraněním nebo zajato 77 % vězňů, které wagnerovci nasadili na Ukrajině. 
+          - Stovka ukrajinských specialistů dorazila na americkou základnu v Oklahomě, kde se bude cvičit v ovládání systémů Patriot. 
+          - Polský premiér navštíví Německo a bude se snažit přesvědčit německou vládu, aby dala zelenou tankům pro Ukrajinu. 
+          - 15 ukrajinských ženistů se bude v kambodžské džungli cvičit v odhalování a likvidaci nástražných min. 
+          - Německo brzy vyřadí ze služby 93 stíhaček Tornado. Ukrajina už o ně oficiálně projevila zájem. 
+          - Girkin nazval ve svém příspěvku na Telegramu Medveděva opilým šaškem. V tom se nemýlil. 
+          - Ruská dělostřelecká palba včera zasáhla budovu Červeného kříže v osvobozeném Chersonu. 
+          - Rusko a Írán pracují na vlastní kryptoměně, jejíž hodnota bude odvozena od zlata. 
+          - Německá ministryně obrany Christine Lambrecht rezignovala na svůj post. 
+          - Obec Kliščijivka jižně od Bachmutu je nyní údajně pod kontrolou Rusů. 
+          - Rusové přesunuli do Běloruska 8 stíhaček a 4 dopravní letadla. 
+          - Okupovaným Tokmakem otřásla série šesti velkých explozí. 
+          - Cena plynu v Evropě klesla na 650 dolarů za 1000 m3. 
+        videa: |
+          - [„Znárodněná“ auta OBSE](https://twitter.com/nexta_tv/status/1614928025748905984)
+          - [Nejmodernější ruský tank potkal švédsku střelu AT-4](https://twitter.com/EuromaidanPress/status/1614940903914852357)
+          - [Ukrajinští SSO odráží ruský protiútok u Kreminny](https://twitter.com/NOELreports/status/1614895755331870720)
+          - [Dnipro](https://twitter.com/nexta_tv/status/1614726079675088898)
+          - [Ukrajinci v Soledaru ](https://twitter.com/Gulli_ver_sn/status/1614642812632420352)
+          - [Stále Soledar](https://twitter.com/Illya_Ayzin/status/1614666791929741312)
+          - [Ukrajinci s francouzskou houfnicí](https://twitter.com/EuromaidanPress/status/1614872830142828544)
+          - [Ukrajinci se kryjí za zničeným ruským tankem při dělostřelecké palbě](https://twitter.com/Sagakino1/status/1614761923953713152)
+          - [Ukrajinský tank v roli houfnice](https://twitter.com/NOELreports/status/1614708247193083906)
+          - [Dříve živé předměstí, než přišel do Marjinky ruský svět](https://twitter.com/EuromaidanPress/status/1614859366284361729)
+          - [Sakra dobrá trefa](https://twitter.com/herooftheday10/status/1614684608141950977)
+          - [Bilohorivka](https://twitter.com/Militarylandnet/status/1614712851914018818)
+          - [Bývalí Dagestánci (citlivé!)](https://twitter.com/andrewofpolesia/status/1614728758208131073)
+          - [Trefa!](https://twitter.com/NOELreports/status/1614953856433094657)
+          - [Do zákopu to nestihli](https://twitter.com/nevedimka123/status/1614625159163379712)
+          - [M270 pálí na ruské pozice](https://twitter.com/EuromaidanPress/status/1614781226451193857)
+          - [Chlupatá evakuace](https://twitter.com/andrewofpolesia/status/1614691205882716161)
+          - [Ukrajinci cvičí s americkým vozidlem Bradley v Německu](https://twitter.com/NOELreports/status/1614701844583809026)
+          - [Bývalé ruské tanky](https://twitter.com/herooftheday10/status/1614899201963352065)
       - title: "Neděle"
         year: "15. ledna 2023"
         image: assets/img/timeline/2023-01-15.jpg
