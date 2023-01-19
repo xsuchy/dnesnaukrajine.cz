@@ -35,6 +35,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "19. ledna 2023"
+        image: assets/img/timeline/2023-01-19.jpg
+        desc: "Z Ruska přicházejí zprávy, že by mělo dojít k nasazení nejmodernějších tanků T-14 Armata v bojích na Ukrajinu. Analytici se ale víceméně shodují, že k tomu nejspíš nikdy nedojde. Rusko se podle nich nejspíš pokusí převést tanky někam do týlu, kde bude moct natočit propagandistická videa. Tanky T-14 totiž od začátku provází značné potíže. Několik jich muselo být odtaženo poté, co vypověděly službu během přehlídky v Moskvě a stejný osud je potkal v Sýrii, kam byly nejspíš nasazené také pouze v rámci PR a neúčastnily se bojů. A podobné názory zastává i část ruských vojenských blogerů. Tanky Armata jsou tak na papíře vytouženou odpovědí na západní Abramsy, Leopardy nebo Merkavy, ale v realitě jen další potěmkinovskou vesnicí. Jako ostatně i další složky ruské armády. A teď novinky"
+        detail: |
+          - Podle analytiků deníku Politico bylo Bulharsko v prvních měsících války jedním z klíčových partnerů Ukrajiny, ačkoliv to tak navenek nevypadalo, protože vláda musela svou pomoc vypravovat tajně s ohledem na některé pro-ruské politiky v zemi a jejich voličskou základnu. Podle deníku Bulharsko naplnilo až třetinu ukrajinských potřeb v oblasti dělostřelecké munice sovětské ráže a poskytlo okolo 40 % potřebného paliva. Hezkou ironií je pak skutečnost, že palivo pocházelo primárně od ruského Lukoilu z rafinérií v Černém moři. Když na to Rusové přišli, podnikli na Bulharsko masivní kyberútok, na což bulharská vláda reagovala tak, že vyhostila 70 ruských diplomatů, Gazprom následně s Bulharskem jako s první zemí přerušil smlouvy na dodávky plynu. Ukrajinská vláda už informace deníku oficiálně potvrdila. 
+          - Evropské země stupňují vojenskou pomoc Ukrajině. Švédsko poskytne Ukrajině dělostřelecké systémy Archer, 50 bojových vozidel CV90 a 57 robotů NLAW s protitankovými střelami. Estonsko souběžně oznámilo zatím největší balík vojenské pomoci, který bude obsahovat i těžké zbraně jako samohybná děla a velkou zásilku munice. Pozadu nezůstává ani zbytek Západu. Kanada poskytne 200 kusů obrněných vozidel Senator a Spojené státy už brzy oznámí další obří balík pomoci, jehož součástí budou mimo jiné vozidla Stryker nebo naváděné bomby GLSDB.  
+          - Evropský parlament hlasy 472 poslanců schválil plán vytvořit mezinárodní tribunál pro Vladimíra Putina a Alexandra Lukašenka pro jejich zodpovědnost za válečné zločiny Ruska během invaze na Ukrajinu. Proti bylo pouze 19 poslanců, 33 poslanců se zdrželo hlasování. 
+          - Během pádu vrtulníku v Brovarech zahynul také ukrajinský ministr vnitra Deny Monastryjskyj, jeho první náměstek, asistentka, státní tajemník, šéf bezpečnosti a další personál ministerstva. 
+          - Německo podmiňuje poskytnutí svých Leopardů 2 Ukrajině tím, že Spojené státy nejprve poskytnou své tanky Abrams. Francie mezitím uvažuje, zda neposkytnout své tanky Leclerc.
+          - Švédské soudy poslaly bratry Peymana a Payama Kiu na doživotí respektive 9 let a 9 měsíců za mříže za špionáž ve prospěch Ruska. 
+          - Srbský prezident Vučić kritizoval Rusko za to, že verbuje v Srbsku dobrovolníky pro boje na Ukrajině. 
+          - Patriarcha Kirill prohlásil, že „jakákoliv snaha Rusko zničit bude znamenat konec světa“. 
+          - Medici v Bachmutu podle vlastních slov nyní ošetřují okolo 50-100 zraněných denně. 
+          - Ukrajinci posílili posádku v Bachmutu o další rezervy a techniku. 
+          - Na okupovaném Krymu začne působit ruská Sberbank. 
+          - Ukrajinci nyní nejspíš kontrolují Novoselivske. 
+        videa: |
+          - [Ruský voják, který přišel denacifikovat Ukrajinu](https://twitter.com/Andrii_L1983/status/1616015450558660609)
+          - [Mobíci v Samaře odmítají nasazení v bojích ](https://twitter.com/NOELreports/status/1616034087248056320)
+          - [Další záběry z Brovarů](https://twitter.com/nexta_tv/status/1615746494530785288)
+          - [Ukrajina obnovila vlakové spojení s Rumunskem](https://twitter.com/EuromaidanPress/status/1615813611514957848)
+          - [Vesta zachytila šrapnel](https://twitter.com/TarmoFella/status/1615650394276765696)
+          - [Stugna-P versus skupinka Rusů](https://twitter.com/NOELreports/status/1615776831197560849)
+          - [Běloruští bojovníci přepadli Rusy, když obírali ukrajinské padlé](https://twitter.com/EuromaidanPress/status/1615748528726212615)
+          - [Konečná pro ruské tanky](https://twitter.com/NOELreports/status/1615696762152390661)
+          - [Velitel jim nařídil stáhnout se a teď tvrdí, že dezertovali](https://twitter.com/wartranslated/status/1615770680196476929)
+          - [Jak nízko může vrtulník letět?](https://twitter.com/NOELreports/status/1615995887704244229)
+          - [Mínus ruské Akácie](https://twitter.com/RALee85/status/1615751068683468805)
+          - [Plné zákopy bývalých wagnerovců ](https://twitter.com/NOELreports/status/1615710346907451393)
+          - [Mínus ruské dělo i s personálem](https://twitter.com/666_mancer/status/1615813889685393409)
+          - [M270 jde k Rusům na návštěvu](https://twitter.com/Tendar/status/1616050511781691393)
+          - [Neúspěšný ruský pokus o útok](https://twitter.com/NOELreports/status/1615775014397034519)
+          - [Reportéři Al Jazeera pod palbou v Bachmutu](https://twitter.com/WarMonitors/status/1615976589241589760)
+          - [„SVO byla obří chyba“ v ruské televizi](https://twitter.com/Gerashchenko_en/status/1615993220265308160)
+          - [Rusové v Soledaru sledovaní dronem](https://twitter.com/nevedimka123/status/1615990043662815232)
       - title: "Středa"
         year: "18. ledna 2023"
         image: assets/img/timeline/2023-01-18.jpg
