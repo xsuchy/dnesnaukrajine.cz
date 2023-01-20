@@ -35,6 +35,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "20. ledna 2023"
+        image: assets/img/timeline/2023-01-20.jpg
+        desc: "Den, kdy v Německu probíhá další meeting formátu Ramstein. Většinou bylo jeho výsledkem zvýšení vojenské pomoci Ukrajině a také koordinace společného postupu evropských států, resp. členů NATO. Nyní ale většina zemí oznámila své příští balíky vojenské pomoci ještě před začátkem samotné schůze, proto všichni s napětím očekávají, co setkání přinese. Ve hře jsou tanky Abrams, Leopard 2, francouzské Leclercy a další vozidla. Dánsko se dokonce vzdalo všech svých 19 samohybných děl CAESAR francouzské výroby, kterými disponuje a poskytne je Ukrajině a Nizozemsko oznámilo, že je připraveno poskytnout Ukrajině stíhačky F-16, když o ně požádá. Západ očividně předpokládá, že se Rusové v příštích měsících pokusí o další velkou ofenzivu a dělá všechno pro to, aby takový útok selhal. Kolik životů ale nemuselo vyhasnout, kdyby taková pomoc přišla už v prvních týdnech? O výsledku Ramsteinu budeme vědět víc už zítra. A všechny signály dávají tušit, že to bude velké! Tak nezapomeňte číst i zítra a teď si projděte alespoň to, co se za [posledních 24 hodin událo](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02sZNrH6xetiuh5xmHxFAwh88jEgFmY8N52wMEiEb1FsLDRAEq2qBTAPCojv2TarXXl):"
+        detail: |
+          - USA jsou jednou ze zemí, která ještě před Ramsteinem oznámila další vojenskou pomoc Ukrajině a nyní poskytla detaily. Nový balík zrahnuje 59 bojových vozidel Bradley, 90 vozidel Stryker se zařízením na ničení min, 53 vozidel MRAP, 8 systémů PVO Avenger a 350 opancéřovaných vozů HMMWV. Kromě techniky bude balík obsahovat také munici do systémů HIMARS a další rakety HARM. 
+          - Podle pozorovatelů z OSN pracuje nyní z původních odhadem 10 000 zaměstnanců v záporožské jaderné elektrárně jen přibližně tři tisícovky. Redukce stavu zaměstnanců s sebou nese značná rizika pro bezpečnost elektrárny. 
+          - Moldavská prezidentka požádala ostatní evropské státy na setkání v Davosu o pomoc s protivzdušnou obranou. Podle prezidentky Sandu se aktuálně Rusko snaží destabilizovat její zemi. 
+          - Společnost Meta oznámila, že platformy Facebook, Instagram a WhatsApp dále nepovažují pluk Azov za nebezpečnou organizaci a nebudou moderovat obsah, který ho zmiňuje. 
+          - Německý poslanec Bystron z krajně pravicové AfD (německá verze naší SPD), přirovnal dodávky zbraní Ukrajině k napadení Sovětského svazu Hitlerem. Ach ta ironie... 
+          - Ukrajinská SBU odhalila v Dnipru buňku sedmi agentů naverbovaných ruskou GRU. Ti pro ni pomáhali vytipovávat lokace pro raketovou palbu. 
+          - Podle deníku Politico vydělají wagnerovci faktickou kontrolou zlatých dolů ve Středoafrické republice až miliardu dolarů. 
+          - Šéf americké CIA údajně navštívil potají Kyjev a předal Zelenskému informace o ruských plánech na další ofenzivu. 
+          - Podle videí na Telegramu začaly Rusové instaloval systémy PVO Pantsir na výškové budovy v Moskvě.
+          - Kromě Izraele převádí nyní Spojené státy zásoby munice sovětské výroby také ze skladů v Jižní Koreji. 
+          - Ruská dělostřelecká palba zasáhla areál školy a školky v Kramatorsku u Doněcka. 
+          - Francie obestavila bankovní účty francouzské pobočce stanice Russia Today. 
+          - Na ukrajinská města míří několik íránských kamikadze dronů. 
+        videa: |
+          - [PVO nedaleko Putinovy rezidence](https://twitter.com/nexta_tv/status/1616363508270088192)
+          - [Ukrajinská střelnice v Soledaru ](https://twitter.com/EuromaidanPress/status/1616360132782202882)
+          - [Boje v Bachmutu](https://twitter.com/nexta_tv/status/1616336366127693825)
+          - [Wagnerovci. Bývalí. ](https://twitter.com/666_mancer/status/1616360520818298883)
+          - [Průměrný ruský zákop u Bachmutu](https://twitter.com/herooftheday10/status/1616135652730454016)
+          - [Přestřelky u Kreminny](https://twitter.com/EuromaidanPress/status/1616112936501579777)
+          - [Dron navádí palbu](https://twitter.com/NOELreports/status/1616201219655012367)
+          - [Ruské ostřelování obce Novoselivske](https://twitter.com/nexta_tv/status/1616195753713729536)
+          - [Mínus Kadyrovci](https://twitter.com/herooftheday10/status/1616139258636505092)
+          - [Trefa Javelinem](https://twitter.com/Tendar/status/1616057639091290114)
+          - [Pantsir na střeše budovy v Moskvě](https://twitter.com/nexta_tv/status/1616100175298138114)
+          - [Z Chorvatska přijíždí další pomoc](https://twitter.com/NOELreports/status/1616396187191447553)
+          - [Wagnerovci s dělem z druhé světové ](https://twitter.com/666_mancer/status/1616317312453300225)
+          - [Trefa dronem](https://twitter.com/herooftheday10/status/1616160371928080386)
+          - [Ukrajinské Shilky](https://twitter.com/RALee85/status/1616179404643647517)
       - title: "Čtvrtek"
         year: "19. ledna 2023"
         image: assets/img/timeline/2023-01-19.jpg
