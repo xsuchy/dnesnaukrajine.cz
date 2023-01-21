@@ -35,6 +35,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "21. ledna 2023"
+        image: assets/img/timeline/2023-01-21.jpg
+        desc: "Rusové nejspíš spustili ofenzivu na Záporožské frontě ve směru na Orichiv. Mluví o tom ruské kanály. Ty ukrajinské zatím ale jejich informace nepotvrzují. Rusové se tu podle videí z dronu pokusili o útok pomocí pěchoty bez podpory těžké techniky a jejich přesun přes otevřená pole zastavilo dělostřelectvo. K většině ostatních ruských tvrzení jakýkoliv obrazový důkaz chybí. Jisté ale je, že Rusové tu nějakou akci připravovali už delší dobu. Je tohle ono? To asi ukáží až další dny. Teď se pojďme podívat na pár potvrzených [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02tYiM7yUXxwYxLxERb6mFFHK75bw7ZbXydt7NKMsrU141Qjrchmz4VxhVQCAiR9YMl):"
+        detail: |
+          - První zprávy z Ramsteinu zmiňují, že Spojené státy neposkytnou Ukrajině své Abramsy. Důvodem je jejich náročná údržba, velká spotřeba paliva a složitá logistika, kterou by provozování Abramsů pro Ukrajince znamenalo. Zároveň ale ministr obrany Reznikov informoval, že země, které mají ve výzbroji tanky Leopard 2 začnou trénovat ukrajinské tankové posádky v jejich užívání. Dá se tak tušit, že Ukrajina Leopardy skutečně získá. Oficiální rozhodnutí ale zatím nepadlo. Nebo minimálně ne veřejně. Reznikov zmínil i to, že některá rozhodnutí proběhla v utajení. 
+          - Rusové se pokouší po obsazení Kliščijivky útočit na Ivanivske a Bachmut z jihozápadu. Zatím neúspěšně. Není ale ani jisté, že Rusové Kliščijivku stále drží, ukrajinský Generál štáb totiž informoval, že ruské dělostřelectvo městečko včera ostřelovalo, což by přítomnost Rusů vyvracelo. 
+          - Německo oznámilo další balík vojenské pomoci v hodnotě okolo 1 miliardy €. Bude obsahovat 40 vozidel Marder, 7 protivzdušných systémů Gepard, systém PVO IRIS-T a munici do všech zmíněných kusů techniky. 
+          - Ruské kanály publikovaly video s hořícími obrněnými vozidly a oznámily úspěšný ruský úder ze vzduchu na ukrajinskou kolonu. Ve skutečnosti video ukazuje hořící vraky na ukrajinském cvičišti u Žytomyru. 
+          - Kolem Moskvy roste protivzdušná obrana jako houby po dešti. Putin údajně zaúkoloval armádu, aby připravila hlavní města na případný útok ukrajinských dronů. Speciální operace jde evidentně podle plánu. 
+          - Satelitní snímky odhalily nákladní vlaky mířící ze Severní Koreje do Ruska. Ruska tak téměř jistě získává od totalitní Koreje dělostřeleckou munici a další vojenský materiál. 
+          - Ruská propaganda zveřejnila video, které má zachycovat zničení tanku Abrams na Ukrajině. Asi nemusím zdůrazňovat, že Ukrajina žádné tanky Abrams nemá. 
+          - Podle některých zdrojů má nyní ukrajinská armáda u Bachmutu denní ztráty v trojciferných číslech. Nejspíš ale statistika zahrnuje i raněné. 
+          - V bojích na Ukrajině padl bývalý člen amerických Navy SEAL, který v USA dezertoval a následně se připojil k ukrajinským silám. 
+          - Spojené státy oznámily, že pokud se spojenci rozhodnou poskytnout Ukrajině stíhačky F-16, tak jejich rozhodnutí podpoří. 
+          - Polsko vycvičí celou jednu ukrajinskou mechanizovanou brigádu a vybaví ji tanky T-72 a bojovými vozidly. 
+          - Spojené státy označili Wagnerovu armádu za nadnárodní zločineckou organizaci.
+          - Francie navýší rozpočet na obranu o třetinu mezi lety 2024 a 2030.
+        videa: |
+          - [Reportáž z fronty](https://twitter.com/EuromaidanPress/status/1616647272577499136)
+          - [Trefa jako hrom](https://twitter.com/am_misfit/status/1616555542595645440)
+          - [Ruská zpravodajka natočila moment, kdy ji trefil projektil do nohy](https://twitter.com/Seveerity/status/1616793324589060096)
+          - [Ruský útok přes otevřená pole u Záporoží](https://twitter.com/herooftheday10/status/1616689677859168257)
+          - [Boje na předměstí Bachmutu](https://twitter.com/Militarylandnet/status/1616513483247390729)
+          - [Solovjov už se úplně zbláznil](https://twitter.com/nexta_tv/status/1616464912678588417)
+          - [Noví zajatci ](https://twitter.com/NOELreports/status/1616737834790182912)
+          - [Kupředu ZSU](https://twitter.com/UkrainianNews24/status/1616503183370493952)
+          - [Jak se žije Rusům v Belgorodu](https://twitter.com/wartranslated/status/1616734636125683712)
+          - [Masomlýnek jménem Bachmut](https://twitter.com/NOELreports/status/1616564613948100641)
+          - [Ruský T-90M v Opytne](https://twitter.com/WarMonitors/status/1616745024149921794)
+          - [Někdo nebude mít hezký den ](https://twitter.com/NOELreports/status/1616719478305484808)
+          - [Bývalí wagnerovci ](https://twitter.com/666_mancer/status/1616693751422025735)
+          - [Nacista z jednotky Rusič o Ukrajincích](https://twitter.com/nexta_tv/status/1616726136485994496)
+          - [Slovenský odminovač u Charkova](https://twitter.com/NOELreports/status/1616725547396079616)
+          - [Noční dělostřelecká palba](https://twitter.com/666_mancer/status/1616754281348235264)
+          - [Tanky ZSU](https://twitter.com/UkrainianNews24/status/1616503414602760192)
+          - [Loučení s ministrem Monastyrskym](https://twitter.com/Gerashchenko_en/status/1616718378302930944)
+          - [Improvizovaný raketomet ze součástek pro helikoptéry](https://twitter.com/herooftheday10/status/1616709169951776768)
+          - [Soledar](https://twitter.com/herooftheday10/status/1616661392710328321)
+          - [Ruské zákopy (citlivé)](https://twitter.com/herooftheday10/status/1616485467129520128)
+          - [Neprošli](https://twitter.com/Militarylandnet/status/1616447778829307905)
+          - [Zničený Senator](https://twitter.com/UAWeapons/status/1616782723279978498)
       - title: "Pátek"
         year: "20. ledna 2023"
         image: assets/img/timeline/2023-01-20.jpg
