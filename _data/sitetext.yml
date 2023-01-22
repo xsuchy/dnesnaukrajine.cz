@@ -35,6 +35,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "22. ledna 2023"
+        image: assets/img/timeline/2023-01-22.jpg
+        desc: "Ještě pět dní a ukážeme světu, jestli jsme moderní západní demokracie, nebo stát, který si zvolí do čela oligarchu východního typu. Zjistíme, jestli jsme dospělá sebevědomá země, která se nenechá oblbnout donebevolajícími lžemi a pro-ruskými dezinformačními kampaněmi. Stejně jako u minulých voleb tu máme volbu, která je mnohem víc volbou morální a hodnotou než volbou politickou. A stejně jako u minulých voleb je i tady značné riziko, že lži a podrazy vyhrají. Bude to ošklivých pět dní. Ale ne tak ošklivých, jako zažívají denně lidi z Ukrajiny. [Posuďte sami](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0modgmSfkuRgWv8G6fVpJn7h8Gcs8UymctTnq3A2VEso76S9RGEndH4aK8ShJve2Bl):"
+        detail: |
+          - Podle analytiků z ISW je urputná obrana Bachmutu ze strany Ukrajinců správným rozhodnutím. Sice prý působí velké ztráty i samotným Ukrajincům a zadržuje možnost spustit vlastní ofenzivu, ale zároveň vyčerpává kapacitu ruských jednotek na dobývání města, které má mizivou strategickou významnost a zároveň působí obří ztráty útočícím Rusům. Vzdát se města bez boje by navíc podle analytiků znamenalo horší dlouhodobý efekt na další průběh bojů.
+          - Rusko pohrozilo, že podnikne odvetná opatření vůči francouzským médiím působícím v Rusku. Francie totiž nedávno obestavila účty ruské státní televizi Russia Today, následkem čehož televize musela úplně uzavřít svou francouzskou pobočku. 
+          - Německo údajně v tuhle chvíli nesouhlasí s poskytnutím tanků Leopard 2 Ukrajině. Polsko reagovalo tak, že bude hledat jiné cesty, jak tanky poskytnout. Ukrajinský ministr obrany přesto uvedl, že je velmi spokojený s výsledky summitu Ramstein. 
+          - Britské ministerstvo obrany konstatuje, že pokud Rusové skutečně rozšíří své konvenční bojové kapacity, jak nedávno oznámili, budou se potýkat se značnými problémy s organizací nových jednotek, jejich vybavením a zásobováním. 
+          - Podle velitele ukrajinských sil Serhije Najeva nyní Ukrajina vytváří celé nové jednotky postavené okolo techniky a výzbroje NATO. Předpokládá se, že jejich první nasazení proběhne při další ukrajinské protiofenzivě. 
+          - Nikita Čibrin, ruský voják, který dezertoval a následně utekl do Španělska, oznámil, že je připravený vypovídat o zločinech páchaných ruskou armádou na okupovaných územích Ukrajiny. 
+          - Írán oznámil, že pokud země EU označí Íránské revoluční gardy za teroristické organizace, bude na oplátku považovat za teroristické organizace armády všech zemí EU. 
+          - Rusové údajně sbírají osobní data o obyvatelích v okupované části Záporožské oblasti pod záminkou poskytnutí slev na nákup energií. 
+          - Podle ukrajinského Generálního štábu se podařilo odrazit všechny ruské pokusy o průlom na záporožské části fronty. 
+          - Íránský ministr zahraničí prohlásil, že Írán neuznává ruskou anexi Krymu ani dalších území a dál je považuje za ukrajinské. 
+          - Spojené státy prodlouží dislokaci 4 000 amerických vojáků na základně v Rumunsku o dalších 9 měsíců. 
+          - Podle Reznikova se na příštím meetingu Ramstein v půlce února bude diskutovat letectvo. 
+          - Ukrajinci zastavili skupinu ruských sabotérů, která se pokusila překročit hranice u Sum. 
+          - Ukrajinci evakuovali většinu pacientů z nemocnic v Chersonu až do Lvova. 
+          - Ukrajina převzal první britské helikoptéry Sea King. 
+        videa: |
+          - [Rusové ostřelují Bachmut pomocí těžkých plamenometů ](https://twitter.com/Militarylandnet/status/1617139443445501953)
+          - [Bachmut](https://twitter.com/NOELreports/status/1616921855197052930)
+          - [Vozidla Bradley v Polsku](https://twitter.com/Tendar/status/1617127001696919554)
+          - [Neutekli…](https://twitter.com/NOELreports/status/1617130883651092482)
+          - [Tvorba ztrát](https://twitter.com/rendeiro_silva/status/1617139572923580417)
+          - [Ukrajinský Sea King](https://twitter.com/EuromaidanPress/status/1617054296477941760)
+          - [Ruské ztráty u Bachmutu](https://twitter.com/rendeiro_silva/status/1616893626596077568)
+          - [Ukrajinci pálí na ruské pozice 30mm kanónem](https://twitter.com/Osinttechnical/status/1616594837234409472)
+          - [Další výroba ruských ztrát ](https://twitter.com/NOELreports/status/1617083623408017408)
+          - [Dělostřelci si našli ruský muničák](https://twitter.com/NOELreports/status/1617079012169228289)
+          - [Před bitvou](https://twitter.com/DenesTorteli/status/1617111222813425664)
+          - [Bývalí Kadyrovci (citlivé!!)](https://twitter.com/rendeiro_silva/status/1617073034619392001)
       - title: "Sobota"
         year: "21. ledna 2023"
         image: assets/img/timeline/2023-01-21.jpg
