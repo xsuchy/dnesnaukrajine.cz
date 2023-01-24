@@ -35,6 +35,55 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "24. ledna 2023"
+        image: assets/img/timeline/2023-01-24.jpg
+        desc: "Lavrov nyní tvrdí, že Rusko muselo napadnout Ukrajinu proto, že v Azovském moři měly vyrůst „anglosaské námořní základny“, které se měly stát předmostím v budoucím napadení Ruska. Takže... denacifikace Ukrajiny už to zase není? Eh. A není to nakonec jedno? Ať už říkají cokoliv, je to beztak jen další lež. Radši si přečtěte [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02BqGHcA7yWQvNaxp5hhtWgPzyaivc3FfJdxuxaEKG2mbHkCuaotdBeFzJTDtEJKyFl):"
+        detail: |
+          - Německá zbrojovka Rheinmetall oznámila, že disponuje kapacitou 139 tanků Leopard 1 a 2, které dokáže poskytnout Ukrajině, pokud k tomu bude politická vůle. K dodávce by ale mohlo dojít teprve koncem letošního roku. Téma německých tanků zmínil také mluvčí amerického ministerstva vnitra, když během tiskovky řekl, že „v nejbližších dnech přijdou z Německa dobré zprávy, co se dodávky tanků týče“. Británie a Polsko už údajně cvičí budoucí ukrajinské posádky. Záměr poskytnout Ukrajině tanky Leopard v rámci mezinárodní koalice už údajně projevilo 12 zemí. 
+          - Ukrajinský kabinet ministrů odvolal hlavy pěti ukrajinských oblastí: Kyjevské, Sumské, Dnipropetrovské, Záporožské a Chersonské. Oficiální důvody se mi nepodařilo dohledat. Dnes také rezignovali náměstek ministra obrany, náměstek nejvyššího státního zástupce a zástupce vedoucího prezidentské kanceláře. Poslední zmíněný údajně rezignoval poté, co vyšlo najevo, že užívá k osobním potřebám SUV, které automobilka GM darovala Ukrajině pro humanitární účely. 
+          - Finsko zváží, zda nevstoupit do NATO i bez souhlasného stanoviska od Turecka pro sousední Švédsko. To se totiž stalo terčem kritiky poté, co jakýsi protestující blb ve Stockholmu spálil před budovou turecké ambasády korán a jiná skupina blbů „oběsila“ ve městě figurínu Erdogana. 
+          - Estonsko podle ministra zahraničí zvažuje, že úplně uzavře finský záliv pro volnou plavbu a bude provádět inspekce každé lodě, aby zaručilo, že se trasy nevyužívají k obcházení sankcí vůči Rusku. Rusko by tak ztratilo nekontrolovaný přístup z moře do Kaliningradu. 
+          - Ruské kanály v minulých dnech hovořili o ofenzivě na záporožské části fronty, jejímž výsledkem mělo být dobytí několika obcí. Nyní opět reportují mapu fronty prakticky beze změn. K žádné větší ofenzivě tak nejspíše nedošlo nebo došlo, ale nebyla úspěšná. 
+          - Z odhadem 50 000 vojáků, které wagnerovci rekrutovali z řad vězňů, zbývá po několika týdnech války ve službě už jen okolo 10 000. Informovala o tom ruská nezisková organizace „Za mřížemi“. 
+          - Díky vojenské službě v řadách wagnerovců se dostal na svobodu další ruský vězeň Anton Jonov. Ten si před válkou odpykával 11letý trest za to, že mučil svoje oběti vařící vodou. 
+          - Podle lídra doněckých teroristů Pušilina byl Soledar během bojů úplně zničen. Nezbývá než pogratulovat Rusům k úspěchu. Po deseti měsících konečně dobyli ruiny. 
+          - Podle ukrajinské rozvědky už Rusko mobilizovalo 315 000 lidí a další přibývají, a to přesto, že Rusko původně hovořilo pouze o 300 000 v jedné vlně.  
+          - Lukašenko tvrdí, že mu Ukrajina nabídla uzavřít vzájemnou dohodu o neútočení. Mluvčí Kremlu sdělil, že o žádné takové nabídce Kreml neví. 
+          - Prezident Zelenský schválil výnos, který zakazuje státním úředníkům v době války vycestovat za hranice z jiných než oficiálních důvodů. 
+          - Ukrajinské síly potopily loď i se skupinou ruských sabotérů, kteří se snažili dosáhnout Potěmkinova ostrova na Dněpru jižně od Chersonu. 
+          - Mluvčí ukrajinských vzdušných sil ohlásil, že spojenci už rozhodli o tom, jaká letadla budou poskytnuta Ukrajině. 
+          - Podle nového průzkumu by 86 % Ukrajinců v případném referendu hlasovalo pro vstup do NATO. 
+          - Rusové údajně evakuují rodiny vojáků a politických figurek z Luhansku na území Ruské federace. 
+          - Ukrajinci v posledních 24 hodinách sestřelili dva bitevníky Su-25 a 4 helikoptéry Ka-52. 
+          - Blog Oryx dnes evidoval 36 nových ztrát techniky na ruské straně. Na ukrajinské 3. 
+          - Moldavsko dnes zahájí týdenní manévry své armády na celém svém území. 
+          - Polsko oficiálně požádalo o povolení reexportovat tanky Leopard 2. 
+        videa: |
+          - [Systém Pantsir na střeše v Moskvě](https://twitter.com/nexta_tv/status/1617651565472645121)
+          - [Polní oprava motoru z BMP-2](https://twitter.com/EuromaidanPress/status/1617778404069347330)
+          - [Kupředu](https://twitter.com/UkrainianNews24/status/1617873691555299328)
+          - [Navádění dělostřelecké palby](https://twitter.com/UkrainianNews24/status/1617553593728438273)
+          - [Trofejní BTR](https://twitter.com/EuromaidanPress/status/1617671521492766725)
+          - [Status Bachmutu ](https://twitter.com/NOELreports/status/1617819265629040641)
+          - [Bajraktar Kizilelma s ukrajinskými motory dokončil další testy](https://twitter.com/EuromaidanPress/status/1617589701699080192)
+          - [Pohled na boje z ruské strany](https://twitter.com/DefMon3/status/1617640006386069504)
+          - [Zima v zákopech ](https://twitter.com/NOELreports/status/1617624678109188096)
+          - [Ruský tank přežil ránu zblízka](https://twitter.com/EuromaidanPress/status/1617568194016821266)
+          - [Zinscenovaná scénka o zajímání Ukrajinců Rusy ](https://twitter.com/666_mancer/status/1617597191391936543)
+          - [Jak vypadají obce podél fronty](https://twitter.com/UkrainianNews24/status/1617874814945079296)
+          - [Ruský kosmonaut](https://twitter.com/NOELreports/status/1617628063113834497)
+          - [Trefa!](https://twitter.com/Andrii_L1983/status/1617834839742500865)
+          - [Bahno. Furt a všude](https://twitter.com/UkrainianNews24/status/1617874118535442435)
+          - [Na frontě s Azov Kyjev ](https://twitter.com/NOELreports/status/1617589250219970562)
+          - [Mínus ruský Tyulpan i s posádkou (citlivé!)](https://twitter.com/666_mancer/status/1617628695870722049)
+          - [Boje u Kliščijivky](https://twitter.com/UkrainianNews24/status/1617802111592595457)
+          - [PzH 2000 při práci na východě ](https://twitter.com/NOELreports/status/1617555166684930049)
+          - [Sestřelení malého dronu](https://twitter.com/UkrainianNews24/status/1617873853463822339)
+          - [Opilí mobilizovaní zastřelili dva civilisty ](https://twitter.com/wartranslated/status/1617874701715656704)
+          - [Drony v práci ](https://twitter.com/Milan8662/status/1617498794823913474)
+          - [Ruský tank a Terminátor při společném útoku](https://twitter.com/RALee85/status/1617783987338108928)
+          - [Ukrajinský MiG nad Ukrajinou](https://twitter.com/Osinttechnical/status/1617648601769054217)
       - title: "Pondělí"
         year: "23. ledna 2023"
         image: assets/img/timeline/2023-01-23.jpg
