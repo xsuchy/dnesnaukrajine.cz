@@ -35,6 +35,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "25. ledna 2023"
+        image: assets/img/timeline/2023-01-25.jpg
+        desc: "Je to tady. Německo schválilo dodávku 14 tanků Leopard 2 Ukrajině a také reexport tanků z třetích zemí. Další země tak okamžitě následují. Svůj záměr tanky dodat už veřejně oznámilo Španělsko (20-53 ks), Polsko (14 ks), Norsko (8 ks), Finsko (14 ks) a Portugalsko (4 ks). Nizozemsko uvažuje o koupi dalších 18 tanků, které by obratem Ukrajině poskytlo a stejně tak Dánsko (6 ks). Celkem by tam měla ukrajinská armáda obdržet okolo stovky Leopardů. Americká média také tvrdí, že Spojené státy dnes plánují oznámit dodávku až 30 tanků Abrams, Britové už víceméně potvrdili svých 14 Challengerů 2 a Francouzi koketují s myšlenkou přihodit do pytle své tanky Leclerc. Ruští představitelé v reakci na novinky varují před strašlivými následky a přímou konfrontací Ruska a NATO – ostatně, nic jiného jiného jim nezbývá –, nicméně po deseti měsících války už jejich výhrůžky prakticky nikdo nebere vážně. A teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0hV7AMTsAauLE2pCKG7Dzwa9cUgA8WnkyXc8eQuncPqgJb3mQzkUAyZsoaHU5vCNDl):"
+        detail: |
+          - Ukrajinské speciální jednotky zveřejnili dlouhé video z jejich noční akce na opačném břehu Dněpru v Nové Kachovce, při které zlikvidovali nejméně 12 okupantů a jejich BTR. Z videa je patrné, že skupina se vrátila domů s jedním raněným kolegou. Rusové o akci vzápětí informovali na svých kanálech také. Tvrdí ovšem, že celá skupina byla zlikvidována a její člun potopený při překračování řeky. Jako už téměř vždy všechny dostupné důkazy ukazují, že jejich verze incidentu je lež. 
+          - Švýcarský parlamentní výbor pro bezpečnost v nečekaném kroku schválil re-export švýcarských zbraní a munice z třetích zemí Ukrajině. Jedná se i například o munici do systémů Gepard. Očekává se, že Švýcarský parlament v příštích měsících schválí také související zákony.
+          - Ruský ministr zahraničí Lavrov v týdnu navštívil malý africký stát Svazijsko. Jen pár dní předtím byl v zemi zastřelen opoziční lídr Tulani Maseko – poté, co vydal zprávu o tom, že svazijský král má vazby na ruskou rozvědku. Všude je to s Ruskem stejné. 
+          - Dalším z vězňů, který obdržel amnestii za svou účast v bojích v řadách wagnerovců je Alexandr Ťutin. Ten se předtím odpykával trest 23 let za mřížemi za to, že si objednal nájemného vraha na vraždu rodiny s dvěma dětmi. 
+          - Partyzáni v Berďansku údajně vyhodili do povětří auto kolaborantky Valentiny Mamajové – i s jeho majitelkou. Podle předběžných zpráv vyvázla se zraněními.  
+          - Oba Britové, kteří před pár týdny zmizeli u Soledaru, jsou podle nových informací po smrti. Zahynuli, když se pokoušeli evakuovat civilisty z obleženého města. 
+          - Ruské ministerstvo „spravedlnosti“ podalo k soudu žalobu usilující o rozpuštění jedné z nejstarších lidskoprávních organizací v Rusku, tzv. Helsinské skupiny. 
+          - Solovjov ve svém pořadu hystericky volal po zničení Německa, které je podle něj „řízeno nacisty“, „plné nacistů“ a „podporující nacistickou Ukrajinu“. Kňů... 
+          - Wagnerovci se údajně pokouší naverbovat také ukrajinské občany nuceně deportované do Ruska a vězněné v tamějších koloniích. 
+          - Protiruské sankce údajně brání Rusům v modernizaci zakonzervovaných tanků T-72 a T-80. Chybí pokročilá elektronika a optika. 
+          - Rusko schválilo výnos o vytvoření 24 nových trestaneckých kolonií na okupovaném území Ukrajiny. 
+          - Turecko prozatím zmrazilo další schůzky se zástupci Švédska a Finska o přijetí obou zemí do NATO. 
+          - Decathlon se rozhodl prodat svou ruskou pobočku a ukončit tak podnikání na ruském trhu. 
+          - Spojené státy v příštích dvou letech navýší produkci 155mm munice o pětinásobek. 
+          - Ukrajinská armáda dnes oficiálně potvrdila úplné stažení ze Soledaru. 
+          - V bojích u Bachmutu padl ukrajinský krasobruslař Dmytro Šarpar. 
+          - Zelenský dnes slaví 45. narozeniny! Tak hlavně hodně zdraví... 
+        videa: |
+          - [Noční akce v Kachovce](https://twitter.com/666_mancer/status/1617990587717943296)
+          - [Ukrajinské jacuzzi přímo na frontě](https://twitter.com/EuromaidanPress/status/1618096949822984192)
+          - [Ukrajinský voják „koupil“ celý zásobník po pokusu o přepad zákopu (citlivé!)](https://twitter.com/Gio52452/status/1617835426118787081)
+          - [Rabující Rusové](https://twitter.com/NOELreports/status/1617994699243163648)
+          - [Archivní video z ruského ostřelování Mariupolu](https://twitter.com/bayraktar_1love/status/1617915233326231552)
+          - [Mobíci už si zase stěžují na podmínky](https://twitter.com/NOELreports/status/1618166080501067776)
+          - [Když skladuješ miny na očích dronu...](https://twitter.com/666_mancer/status/1618178336844578817)
+          - [Překažený ruský útok na obec Vodyane](https://twitter.com/NOELreports/status/1618163666473594880)
+          - [Bachmut](https://twitter.com/NOELreports/status/1617929414209327104)
+          - [Co udělá Himars se střechou skladu ](https://twitter.com/666_mancer/status/1617981925133803528)
+          - [Cherson pod palbou](https://twitter.com/NOELreports/status/1617946537002401795)
+          - [Přepad ruského vozidla (citlivé)](https://twitter.com/Milan8662/status/1617984048311439362)
+          - [Výroba ztrát (citlivé!)](https://twitter.com/DimonchikUA81/status/1617929149540372481)
       - title: "Úterý"
         year: "24. ledna 2023"
         image: assets/img/timeline/2023-01-24.jpg
