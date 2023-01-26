@@ -35,6 +35,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "26. ledna 2023"
+        image: assets/img/timeline/2023-01-26.jpg
+        desc: "Včera jsem napsal klukům, které jste mimo jiné i vy pomohli obléct do mrazu – právě k nim a jejich jednotce šla část termoprádla, ponožek a další výbavy nakoupené z darů v ad hoc sbírce. Dlouho nic nesdíleli a jelikož jsou, tuším, někde na severovýchodní části fronty, kde se aktuálně intenzivně bojuje, zajímalo mě, jak se drží. Cituji z odpovědi: „Čau. No... Oba jsme se v poslední akci před dovolenou zrakvili. 😃 Já ležím se šrapnelama v nemocnici a Ondra má kotník v p*či. 😃 Ale akce to byla parádní, o tom žádná. 😃 Až budu někde, kde je lepší připojení, tak vyhodím nějaké video, něco málo chytilo GoPro.“ Tak se asi máme na co těšit! A teď trocha [aktualit a kontextu](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0ydUXPcF26xc6gmjEKFFba2oJxancHC5h1rEKrHgn3WSKG9KJedUxB4h8hGr9EkrZl):"
+        detail: |
+          - Podle ukrajinského ministerstva obrany Rusové zintenzivnili své útoky u Bachmutu a Vuhledaru. To se ostatně velmi odrazilo i v denních přírůstcích ruských ztrát, a to zejména proto, že většina útoků byla alespoň prozatím neúspěšných. U Vuhledaru probíhají těžké boje. Rusové se snaží opět prolomit obranu vysíláním velkého počtu personálu a lehké techniky proti ukrajinským opevněním. Od druhé světové války evidentně Rusku prošlo minimálním vývojem – nejen, co se strategie týče. 
+          - Mezinárodní olympijský výbor povolí ruským a běloruským atletům účast na Olympijských hrách. Pod podmínkou, že nastoupí do soutěží pod neutrální vlajkou a zdrží se jakýchkoliv projevů podpory ruské invazi a že podstoupí extra dopingové testy.  
+          - Turecká společnost Karpowership plánuje poskytnout Ukrajině plovoucí elektrárny s kapacitou 300-400 MW, které by dokázaly zásobovat energií okolo miliónu domácností. Umístit je chce v přístavech v Moldavsku a Rumunsku. 
+          - Jednoho ze zajatých ruských vojáků čeká soud. Obžaloba ho viní z toho, že společně se svým velitelem mučil v Irpini civilní obyvatelstvo. Kamery na ulicích také oba dva zachytily, jak rabují domy a obchody. 
+          - Ukrajinská protivzdušná obrana dnes sestřelila 47 z 55 raket, které Rusové vypálili. Část Oděsy se po útoku ocitla bez dodávek vody a elektřiny. Exploze byly slyšet ve čtyřech ukrajinských oblastech. 
+          - Německé úřady v prosinci zatkli muže z německé rozvědky, který měl provádět špionáž pro Ruskou federaci. Teď v neděli se podařilo dopadnout v Mnichově také jeho komplice.
+          - Zelenský oznámil, že nemá zájem setkat se s Putinem. Označil ho za člověka, který žije v informační bublině a nemá ani ponětí o tom, co se na bojištích skutečně děje. 
+          - Austrálie se připojila k mezinárodní iniciativě jejíž cílem je budoucí souzení a trestání lidí odpovědných za invazi na Ukrajinu. 
+          - Podle polského deníku darovalo Polsko Ukrajině 29 letounů už na jaře minulého roku pod záminkou poskytnutí náhradních dílů. 
+          - Podle nových informací tanky, které poskytlo Maroko Ukrajině, původně země nakoupila od Běloruska. Ta ironie... 
+          - Rusko nebude pozváno na akci při příležitosti uplynutí 78 let od osvobození tábora v Osvětimi. 
+          - Ruská dělostřelecká palba zničila tureckou obchodní loď kotvící v přístavu v Chersonu. 
+          - Turecká společnost Bajkar poskytla Ukrajině zdarma další dva drony Bajraktar TB2. 
+          - Slovensko oznámilo, že je připraveno jednat o poskytnutí svých letounů MiG-29. 
+          - Švýcarsko se de facto připojilo k 9. balíku evropských sankcí vůči Rusku. 
+          - Spojené státy potvrdily dodávku 31 tanků Abrams M1A1 Ukrajině. 
+        videa: |
+          - [Reportáž po ústupu ze Soledaru ](https://twitter.com/Hromadske/status/1618280805511606272)
+          - [Ruští fanoušci na Australian open](https://twitter.com/nexta_tv/status/1618280930027917315)
+          - [Normální den v práci](https://twitter.com/UkrainianNews24/status/1618294499356315648)
+          - [Zasažená turecká loď](https://twitter.com/nexta_tv/status/1618357781433847809)
+          - [Ukrajinci v odvetě za ruské rakety zasáhli cosi v Kursku ](https://twitter.com/NOELreports/status/1618579289603211264)
+          - [ZSU](https://twitter.com/UkrainianNews24/status/1618315201195167745)
+          - [Drony v akci ](https://twitter.com/NOELreports/status/1618569794206470144)
+          - [Rusové v Nové Kachovce ](https://twitter.com/666_mancer/status/1618574878982164481)
+          - [Sbírání trofejí ](https://twitter.com/NOELreports/status/1618347250396327938)
+          - [Dopad na Ivano-Frankivsk](https://twitter.com/WarMonitors/status/1618554887616487426)
+          - [Výroba ztrát](https://twitter.com/nevedimka123/status/1618195074055278592)
+          - [Ruská Nona šla na chuj](https://twitter.com/NOELreports/status/1618232766314991617)
+          - [Na frontu!](https://twitter.com/UkrainianNews24/status/1618292852722913283)
+          - [Ruské údery na Vuhledar ](https://twitter.com/666_mancer/status/1618214922839810051)
+          - [Boje u Vuhledaru ](https://twitter.com/NOELreports/status/1618284718826606593)
+          - [Trefa!](https://twitter.com/nevedimka123/status/1618555842747568128)
+          - [A další trefa!](https://twitter.com/herooftheday10/status/1618565099660402688)
+          - [Ruská opevnění jižně od Chersonu](https://twitter.com/666_mancer/status/1618574394300960768)
+          - [A ještě trefa!](https://twitter.com/tomaburque/status/1618335891600314368)
+          - [Dělostřelecká pozice](https://twitter.com/Osinttechnical/status/1618374114129088516)
       - title: "Středa"
         year: "25. ledna 2023"
         image: assets/img/timeline/2023-01-25.jpg
