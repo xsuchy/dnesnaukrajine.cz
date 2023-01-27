@@ -35,6 +35,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "27. ledna 2023"
+        image: assets/img/timeline/2023-01-27.jpg
+        desc: "Dnes si připomínáme Mezinárodní den památky obětí holokaustu. Připomínáme si, kam vede politika založená na lžích a nenávisti. A připomínáme si také, co se stane, když se člověk rozhodne nepostavit zlu, ale raději koukat jinam a dělat, že nevidí a neslyší. Fašismus bohužel nejde porazit. Žádná myšlenka porazit nejde, vždycky se někde objeví, občas ve stejné podobě, jindy lehce upravená a převlečená. Důležité je, umět ho poznat a včas se mu postavit. Rusku jsme se bohužel postavili pozdě. Ne nadarmo se říká, že kdo nezná historii, je odsouzený k tomu, ji opakovat. A kdo ji zná, je odsouzený k tomu, přihlížet, zatímco ji ostatní opakují. Svět se tak už podruhé za sto let spojuje, aby fašismus porazil. A porazí. A teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid023G2tJpehgMSnBxBffEUvcbqz2FozEGasVZH1MZZwidXtXLQcfSMBsMHXZiXSDnDil):"
+        detail: |
+          - Rusko podle analytiků plánuje spustit v druhé polovině února nebo nejpozději začátkem března větší ofenzivu s cílem pokusit se převzít iniciativu. Současné dodávky zbraní jsou tak přímou odpovědí na jeho plány a bude na nich záviset, zda se Rusku ofenziva zdaří. Zároveň analytici příliš nevěří, že má Rusko prostředky na to, vyzbrojit všech 300 000 lidí, které na podzim mobilizovalo a tím pádem, že má kapacitu dlouhodobě udržet území, které by při potenciálně úspěšně ofenzivě dobylo. 
+          - Japonsko zavede další sankce vůči ruským firmám a individuálním osobám, aby znesnadnilo Rusko získávat součástky do zbraňových systémů. V únoru také plánuje rozšířit zákaz exportu do Ruska, který by nově zahrnoval zdravotnický materiál, jaderné palivo, robotické systémy, ropu a zemní plyn.
+          - Tanky Abrams, které Ukrajina získá od Spojených států, budou jejich modernizované verze. Oznámil to přímo Pentagon. Zároveň ale nepůjde o současnou, resp. nejmodernější verzi. Ta totiž zahrnuje také novou generaci reaktivní zbroje, jejíž podoba je utajovaná. 
+          - Britská rozvědka konstatuje, že Rusko podniklo sérii průzkumů bojem na záporožské části fronty bez jakýchkoliv úspěchů, nicméně ruská propaganda se snaží útoky prezentovat jako výrazné průlomy. 
+          - Rusové na okupovaném území vytvořili obří seznam zakázaných knih. Většinou se jedná o ukrajinskou klasickou literaturu a historické knížky. Kde jsme to jen viděli… 
+          - Polsko plánuje vedle 14 Leopardů poskytnout Ukrajině také 60 dalších tanků, z nichž minimálně polovina by měli být polské tanky PT-91 Twardy. 
+          - Lavrov pokračuje ve své spanilé jízdě Afrikou. Nyní je na oficiální návštěvě u jednoho ze svých největších afrických spojenců – Eritrei. 
+          - Spojené státy oznámily, že jsou ochotné zmírnit proti-ruské sankce ve chvíli, kdy se Rusko stáhne u Ukrajiny.
+          - Ukrajinští vojáci dorazili na základny v Německu, kde se budou cvičit v ovládání bojových vozidel Marder. 
+          - Ukrajina podle ministra obrany spustila vlastní velkoprodukci samohybných děl Bohdana. 
+          - Ruská skupina Killnet provedla masivní útok na weby německých vládních institucí. 
+          - Spojené státy označily Wagnerovu armádu za nadnárodní teroristickou organizaci. 
+          - Norsko bude nově cvičit také budoucí ukrajinské důstojníky a bojové zdravotníky. 
+          - Rusové plánují zavést na okupovaném území Ukrajiny moskevský čas. 
+          - IKEA úplně ukončila nákup ruského a běloruského dřeva. 
+        videa: |
+          - [Jak dopadl ruský útok na Vuhledar](https://twitter.com/EuromaidanPress/status/1618791274781319170)
+          - [Výroba obřích ztrát ](https://twitter.com/NOELreports/status/1618887393800753152)
+          - [Ruský tankista… WTF??](https://twitter.com/Tendar/status/1618699305862430720)
+          - [Návraty domů](https://twitter.com/nexta_tv/status/1618840499087114240)
+          - [Jako mravenci…](https://twitter.com/herooftheday10/status/1618928690699853824)
+          - [Vuhledar dnes](https://twitter.com/nexta_tv/status/1618630066753376258)
+          - [Ukrajinská kulometná pozice](https://twitter.com/NOELreports/status/1618631516359397376)
+          - [Přesný zásah na ruské dělo](https://twitter.com/EuromaidanPress/status/1618630842741293056)
+          - [Belgická M113](https://twitter.com/NOELreports/status/1618917269404528641)
+          - [Kupředu!](https://twitter.com/UkrainianNews24/status/1618927816422359041)
+          - [Rusku se vrátilo 30 T-34 z Laosu. Pojedou na bojiště? ](https://twitter.com/Gerashchenko_en/status/1618564448582774784)
+          - [Bradleyové](https://twitter.com/NOELreports/status/1618922489526243331)
+          - [Bývalí ruští vojáci ](https://twitter.com/666_mancer/status/1618897839920381952)
+          - [Ani tohle se Rusům nepovedlo](https://twitter.com/NOELreports/status/1618712091048943617)
       - title: "Čtvrtek"
         year: "26. ledna 2023"
         image: assets/img/timeline/2023-01-26.jpg
