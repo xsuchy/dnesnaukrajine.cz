@@ -35,6 +35,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "28. ledna 2023"
+        image: assets/img/timeline/2023-01-28.jpg
+        desc: "11. měsíc naprosto zbytečné války, ve které vyhasínají desítky tisíc životů a spotřebovává se nesmyslný objem nejrůznějšího materiálu, který by býval mohl pomáhat společnosti, namísto toho ji ničí. Jestli nám ruská invaze na Ukrajinu pomohla otevřít oči, uvědomit si některé věci a poučit se z nich, to uvidíme už za pár hodin. Ať už to ale dopadne jakkoliv, jak ruská invaze, tak české volební kampaně ukázaly, jak křehká je demokracie tváří v tvář lžím. Rusko na nich stojí, Babišova kampaň taktéž. A ti, co to s demokracií myslí dobře, mají naprosto svázané ruce a musí jen přihlížet tomu, jak si různí autoritáři a antisystémové strany vytírají zadnice s jakýmikoliv pravidly – psanými i nepsanými. Volební zákony jsou naprosto bezzubé a tresty za jejich porušování evidentně nijak neodrazují kandidáty od toho, aby to dál dělali. Jestli máme v budoucnu žít v míru, budeme nutně muset vymyslet efektivnější způsoby, jak lžím v informačním prostoru čelit. Snad bude dnešek taková první vlaštovka. A teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02rMNtFYa8CigsE6EnejUQ82thkdJayBp99MyAnpwGthzuwpX7C3wSPN34fCnYcuuSl) týkající se Ukrajiny:"
+        detail: |
+          - Ukrajinský vyslanec ve Francii prohlásil, že západní partneři poskytnou Ukrajině celkem 321 tanků. To by bylo citelně více, než kolik bylo oficiálně potvrzeno nebo přislíbeno. Jeho výrok nelze ověřit, nicméně i v minulosti probíhala spousta dodávek v režimu utajení, a tak není nepravděpodobné, že číslo odpovídá realitě. 
+          - Maďarsko oznámilo, že bude vetovat jakékoliv sankce cílící na ruský jaderný sektor. Maďarsko totiž výhledově plánuje se spolupráci s ruským Rosatomem rozšířit svou jedinou jadernou elektrárnu. Ukrajina už si kvůli postoji předvolala maďarského vyslance v Kyjevě. 
+          - Belgie schválila další balík vojenské pomoci Ukrajině v hodnotě 92 miliónů €. Bude obsahovat střely AMRAAM, protitankové střely a kanóny, kulomety Minimi, pušky Scar a lehká vozidla a palivo. 
+          - Ukrajina oznámila formaci nové jednotky jejichž zbraní budou útočné drony. Bude vůbec první svého druhu na světě. Vybraní vojáci už se připravují na budoucí bojové úkoly. 
+          - V rozhovoru pro El Pais uvedl zástupce ukrajinských vzdušných sil Juryj Ignat, že Ukrajina by měla obdržet 24 kusů západních stíhacích letounů, konkrétně F-16. 
+          - Podle ukrajinské rozvědky Rusové plánují velkou informační operaci s cílem zdiskreditovat ukrajinské vojenské a politické špičky. 
+          - Podle izraelského velvyslance v Německu ve skutečně Izrael pomáhá Ukrajině v mnohem větším měřítku, než kolik je veřejně známo.
+          - Polsko oficiálně oznámilo vznik koalice zemí, které disponují tanky Leopard 2, s cílem poskytnout je Ukrajině v co největším počtu. 
+          - Sestra severokorejského vůdce Kim Yo-kong se nechal slyšet, že Severní Korea bude vždy stát na straně Ruska. Gratulujeme! 
+          - Rusové se snaží odříznout Bachmut od zásobovací trasy. Boje probíhají u hlavní silnice poblíž obce Ivanivske. 
+          - Německo kategoricky vyloučilo, že by v budoucnu poskytlo Ukrajině své stíhací letouny. 
+          - Evropská unie zřídila v Polsku logistické centrum pro dodávky generátorů Ukrajině. 
+          - 3 lidé zemřeli během ruského ostřelování Kostjantynivky u Charkova. 
+        videa: |
+          - [Další změřený ruský pokus o postup](https://twitter.com/PaulJawin/status/1619274275462217730)
+          - [Ruské BMD vjelo do minového pole ](https://twitter.com/Osinttechnical/status/1619087791450918913)
+          - [Ruští tankisti dostali plánky se slabými místy Leopardů ](https://twitter.com/WarMonitors/status/1619307716392157187)
+          - [V Moskvě už zase hoří sklady](https://twitter.com/NOELreports/status/1619104006399488001)
+          - [Dopady v Kostjantynivce ](https://twitter.com/nexta_tv/status/1619267593382297601)
+          - [Poslední rozhovor s později zabitým britským dobrovolníkem ](https://twitter.com/KyivIndependent/status/1619080177916723201)
+          - [Bachmut během ostřelování](https://twitter.com/nexta_tv/status/1619230814021222401)
+          - [Přesná trefa!](https://twitter.com/NOELreports/status/1619291839647092737)
+          - [Mínus tank](https://twitter.com/EuromaidanPress/status/1619213934908657666)
+          - [Francouzský minomet](https://twitter.com/NOELreports/status/1619272065764462592)
+          - [Propagandisti vyhrožují, že osvobodí Německo od fašismu za tři dny](https://twitter.com/nexta_tv/status/1619119248499933185)
+          - [Po ruském ostřelování ](https://twitter.com/EuromaidanPress/status/1619056175139663873)
+          - [Ruský útok na Vuhledar nedopadl](https://twitter.com/NOELreports/status/1619318373409783808)
+          - [Paladiny v Polsku](https://twitter.com/NOELreports/status/1619031019327483905)
+          - [Po přestřelce u Bachmutu](https://twitter.com/666_mancer/status/1619252865104769024)
+          - [Bum, Bum...](https://twitter.com/nevedimka123/status/1619231790778167302)
+          - [Keep rolling...](https://twitter.com/Militarylandnet/status/1618995866035167232)
       - title: "Pátek"
         year: "27. ledna 2023"
         image: assets/img/timeline/2023-01-27.jpg
