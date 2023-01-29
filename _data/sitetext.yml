@@ -35,6 +35,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "29. ledna 2023"
+        image: assets/img/timeline/2023-01-29.jpg
+        desc: "Naše malá bitva je vyhraná. Velká bitva na východě Evropy podle všeho teprve začíná. A dnešní den přinesl pár důležitých zpráv. [Tady jsou](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02hnN2YSQu2po6S6CjqQCkSGqvKFM7y8f3LaZRV1AC8JpcSjfiZXauTvUhU8AkX62Jl):"
+        detail: |
+          - Íránské továrny na munici a bojové drony zasáhla série vzdušných útoků. Terčem útoků byly také některé rafinérie a sklady paliv. Írán hovoří o tom, že za nimi stojí spojenci NATO, spekuluje se, že útoky provedl Izrael. Odpovědnost za ně ale zatím oficiálně nikdo nepřiznal. Ukrajinský velitel vzdušných sil ironicky poznamenal, že útok je pravděpodobně odpovědí na vyzbrojování Ruska v jeho válce na Ukrajině, a že by měl Írán přehodnotit vztahy s teroristickými státy. 
+          - Švédsko oznámilo, že muselo prozatím pozastavit rozhovory s Tureckem o připojení k NATO. Důvodem je nedávný incident, kdy krajně pravicový politik spálil před tureckou ambasádou ve Stockholmu korán. Mezitím vyšlo najevo, že akci s koránem si u politika objednal švédský novinář napojený na ruskou Russia Today. Ty náhody… 
+          - Ukrajinský generální štáb informoval, že v minulých dnech převezli Rusové nejméně tři stovky raněných do nemocnic v Luhansku. Tam je ale místní doktoři odmítají ošetřit, protože značná část z raněných trpí syfilidou, tuberkulózou nebo infekcí virem HIV. 
+          - Podle některých ukrajinských kanálů překročili Rusové hranice s Ukrajinou u města Ternova v Charkovské oblasti a nyní tam probíhají těžké boje. Oficiální informace zatím k dohledání nejsou. 
+          - Podle vyšetřovatelů skončily v Rusku i přes zavedené sankce milióny počítačových čipů z Nizozemska. Rusku se daří je importovat z Evropy skrze různé prostředníky a utajené společnosti. 
+          - Podle analytiků z ISW se Wagnerovci zcela vyčerpali na dobývání Soledaru a Rusko nyní kvůli tomu nasadilo do dalších bojů v oblasti regulérní armádu, aby udrželo tlak na ukrajinskou obranu. 
+          - Ruská dělostřelecká palba dnes zasáhla mimo jiné také oblastní nemocnici v Chersonu. Minimálně jedna ze sester je zraněná. Při útoku na město zemřeli nejméně tři lidé. 
+          - Podle britské rozvědky majitel wagnerovců Prigožin ve skutečnosti vojenským operacím nevelí, ale je jen jakousi mediální figurkou. 
+          - V Černé moři aktuálně operuje 15 ruských válečných lodí, z nichž minimálně tři nesou rakety Kalibr. 
+          - Itálie a Francie společně poskytnou Ukrajině komplex protivzdušné obrany SAMP-T. 
+          - Německý koncern Rheinmetall hodlá navýšit produkci munice do děl a kanónů.
+          - Ukrajinci zasáhli raketami HIMARS ruskou základnu v okupovaném Ilovajsku. 
+          - Prezident Zelenský pogratulovat generálu Pavlovi k vítězství ve volbách. 
+          - Počet obětí útoku na Kostjantynivku se vyšplhal na 14. 
+          - Wagnerovci dobyli Blahodatne u Soledaru. 
+        videa: |
+          - [Hořící továrna na munici v Íránu](https://twitter.com/EuromaidanPress/status/1619501064046387200)
+          - [Jeden z dopadů v Íránu](https://twitter.com/NOELreports/status/1619461302795251712)
+          - [Výroba ztrát ](https://twitter.com/666_mancer/status/1619635612562374656)
+          - [Výroba obřích ztrát ](https://twitter.com/Azovsouth/status/1619388616136101888)
+          - [Zásah ruského velitelského postu ](https://twitter.com/NOELreports/status/1619686683930431488)
+          - [Terminátor na bojišti ](https://twitter.com/Militarylandnet/status/1619670123442475010)
+          - [Kupředu! ](https://twitter.com/UkrainianNews24/status/1619368633561657345)
+          - [Trosky Marjinky](https://twitter.com/NOELreports/status/1619692026131529728)
+          - [Pohled na Vuhledar ](https://twitter.com/nexta_tv/status/1619622160112447488)
+          - [Dělostřelectvo zastavilo ruský útok](https://twitter.com/NOELreports/status/1619657200515035137)
+          - [HIMARS nad ránem ](https://twitter.com/DefenceU/status/1619581230181228545)
+          - [Boje u Bachmutu](https://twitter.com/HonzaUA/status/1619385032963129344)
+          - [Když trofej táhne jinou trofej](https://twitter.com/NOELreports/status/1619688952285532161)
+          - [Trofeje ](https://twitter.com/nexta_tv/status/1619440964090863616)
+          - [Ruská palba zasáhla Cherson](https://twitter.com/EuromaidanPress/status/1619333220947959808)
+          - [Ruský tank u Vuhledaru](https://twitter.com/NOELreports/status/1619397337755041799)
+          - [Hledání a ničení orků](https://twitter.com/666_mancer/status/1619330588028309506)
+          - [Mínus ruské MT-LB](https://twitter.com/herooftheday10/status/1619624296183402498)
+          - [Wagnerovec doraboval](https://twitter.com/Milan8662/status/1619382092374364162)
+          - [Další odražený ruský útok](https://twitter.com/Militarylandnet/status/1619614669832093697)
+          - [Rusové v Blahodatne](https://twitter.com/NOELreports/status/1619702362020663298)
       - title: "Sobota"
         year: "28. ledna 2023"
         image: assets/img/timeline/2023-01-28.jpg
