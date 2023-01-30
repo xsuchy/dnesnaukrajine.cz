@@ -35,6 +35,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "30. ledna 2023"
+        image: assets/img/timeline/2023-01-30.jpg
+        desc: "Boris Johson v rozhovoru prozradil, jak probíhal jeden z posledních telefonátů s Putinem před únorovou invazí. Johnson se prý pokoušel Putina přesvědčit, že útok na Ukrajinu by byl fatální chybou a nabízel mu určité záruky – například, že Ukrajina jen tak nevstoupí do NATO – nicméně Putin prý i tehdy dál s chladnou tváří lhal, že se k invazi neschyluje, přesto že Západ už dávno o ruských plánech díky práci rozvědek věděl. Johnson to nazval silovou hrou. Přístupem „surovce“, který ví, že obě strany chápou, že je to lež, ale přesto surovec lže, protože má pocit, že lhát může. Johnson dokonce zmínil, že v určité chvíli mu Putin nepřímo vyhrožoval, když žoviálně prohlásil: „Borisi, nechci ti ublížit, ale takové raketě, té stačí minuta.“ Mluvčí Kremlu Peskov informaci o výhrůžce dnes odpoledne popřel. Takže si můžeme být téměř jisti, že výhrůžka skutečně zazněla. A teď pár [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0b16jQKnq5nuZaa2trraTGW6VxHotLctC4ZsV7p9dWokUNpk2KjbfqnVt6im8Bt45l), u kterých nemusíme pátrat po tom, jestli se skutečně staly:"
+        detail: |
+          - Erdogan naznačil, že by Turecko mohlo dát různá stanoviska Finsku a Švédsku ohledně jejich přijetí do Severoatlantické aliance. Také zopakoval, že v případě Švédska trvá na podmínce, aby země vydala Turecku členy Kurdské strany práce, které považuje za uprchlé teroristy. Pokud je vydat nehodlá, pak podle něj do NATO ve skutečnosti nechce. Spojené státy na postoj Turecka reagovaly tím, že prozatím nedodají Turecku ani své F-16, natož předjednané F-35. 
+          - Podle magazínu Finexpertiza se Rusko potýká s velkou skrytou nezaměstnaností. Zatímco oficiální statistiky od ruského Rosstatu mluví o nezaměstnanosti ve výši 3,9 %, ve skutečnosti prý dosahuje nezaměstnanost ke 13 %, neboť řada Rusů nyní pracuje pouze na částečné úvazky nebo má neplacené volno kvůli neschopnosti zaměstnavatelů platit zaměstnancům celé mzdy. 
+          - Podle vojenských analytiků Západ urychlil dodávky západních zbraní proto, že v případě vleklé války je čas na straně Ruska. S více lidmi a větší kapacitou průmyslu dokáže v dlouhodobém horizontu uvádět na bojiště dostatek personálu a těžkých zbraní a postupně tak obrušovat ukrajinskou armádu. Naopak v případě intenzivních a rychlých bojů by Ukrajina měla mít navrch. 
+          - Igor Girkin ve své analýze uvedl, že ruský útok u Marjinky se bez ohledu na to, co tvrdí ruské velení, zcela zastavil. Stejná situace je prý u Avdijivky. Ruské tvrzení o průlomu u Vuhledaru pak označil za naprostou lež. Podle ukrajinských kanálů Ruská 155. námořní brigáda u Vulhedaru utrpěla masivní ztráty a Ukrajinci ji následně vytlačili jižně k Mykilskému. 
+          - Novináři z ruského kanálu NTV podali trestní oznámení na členy praporu Achmat, kteří je měli napadnout v okupovaném Melitopolu. Řidič byl prý raněn a reportérku Kadyrovci sexuálně napadli. Místní úřady následně měly novinářům bránit v tom, aby oznámení podali. 
+          - I dnes v noci byly pod palbou vojenské objekty a objekty zbrojního průmyslu v Íránu. Zasaženo bylo údajně dokonce i velitelství Íránských revolučních gard. Podle Íránu stojí za útoky izraelské drony. Stejnou informaci publikoval i americký Wall Street Journal. 
+          - Ruská FSB zadržela u Moskvy tři žáky osmého ročníku základní školy, kteří se údajně domlouvali, že poškodí koleje, aby znesnadnili armádě přesuny techniky po železnici. Ano, skutečně osmáky. 
+          - Ruské velení ohlásilo mimořádnou odměnu ve výši 5 miliónů rublů pro toho, kdo zničí nebo ukořistí některý budoucí Leopard 2 nebo Abrams. 
+          - Polsko je podle slov premiéra Morawieckého připraveno poskytnout v koordinaci s NATO svoje stíhací letouny F-16 Ukrajině. 
+          - Ukrajinci pomocí systému HIMARS zničili most na jedné z klíčových zásobovacích tras ruských jednotek u Melitopolu. 
+          - Slovinsko zadrželo dva agenty ruské GRU, kteří měli v zemi provádět špionáž pod falešnými identitami. 
+          - Podle premiéra Šmyhala by Ukrajina ráda vstoupila do EU v příštích dvou letech. 
+          - Rusko opět zasáhlo Charkov pomocí systémů S-300. Jeden člověk zemřel. 
+          - Rusové údajně přesunuli ke Kreminně posily a přešli zde do protiútoku. 
+        videa: |
+          - [Zraněný ukrajinský herec a jeho story](https://twitter.com/EuromaidanPress/status/1619704418626068481)
+          - [Gruzínci v Bachmutu](https://twitter.com/UkrainianNews24/status/1620022260894666753)
+          - [Luxusní trefa](https://twitter.com/Andrii_L1983/status/1619958869639442432)
+          - [Charkov po dopadu raket](https://twitter.com/nexta_tv/status/1619925933762412545)
+          - [Ukrajinci zničili most na klíčové trase u Melitopolu](https://twitter.com/EuromaidanPress/status/1619736226814201857)
+          - [Drony se činí ](https://twitter.com/PaulJawin/status/1619764245306183680)
+          - [Kamikadze dron versus BMP](https://twitter.com/EuromaidanPress/status/1619733837549797380)
+          - [Výroba ztrát pomocí dronu](https://twitter.com/Peter79233966/status/1619705993579073536)
+          - [Kluci ze speciálních jednotek ](https://twitter.com/UkrainianNews24/status/1619968886597890048)
+          - [Nacisti v ruských řadách ](https://twitter.com/herooftheday10/status/1620018930600529921)
+          - [Nejhorší budíček (velmi citlivé!)](https://twitter.com/Milan8662/status/1620003426208976896)
+          - [Bývalý okupant v zimní kamufláži ](https://twitter.com/am_misfit/status/1619813807421022208)
+          - [Chtěl sundat dron, přišel o nohu](https://twitter.com/PaulJawin/status/1619795375770210304)
       - title: "Neděle"
         year: "29. ledna 2023"
         image: assets/img/timeline/2023-01-29.jpg
