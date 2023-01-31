@@ -35,6 +35,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "31. ledna 2023"
+        image: assets/img/timeline/2023-01-31.jpg
+        desc: "Přední pro-ruský dezinformátor a pořadatel protivládních demonstrací Vrabel má zřejmě utrum. Policie řeší jeho dřívější výroky jako poplašné zprávy, před pár dny jej zadržela po jedné z demonstrací, a teď vyšlo najevo, že Vrabel mezitím odcestoval do Srbska a zřejmě tam plánuje zůstat, aby se v Česku vyhnul stíhaní a případnému trestu, protože fanouškům oznámil, že s pořádáním demonstrací končí. Takhle se na ně musí. Jen houšť! A tady je pár dnešních [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid032QfsYwAoz5BPUWdReqiGqbrTx9BdsMUbm9B64pHnRwGeNw276iKABR3P9bcs739dl):"
+        detail: |
+          - Podle analytiků z ISW se zdroje na obou stranách shodují, že se Rusko připravuje na spuštění ofenzivy. Předpokládaný směr útoku je z Jihu na Vuhledar a Pavlivku. Podle ruských médií ale Rusové shromažďují síly také v Kurské oblasti. Rusko chce každopádně ukořistit co největší území ještě předtím, než Ukrajinci obdrží západní techniku a uvedou na bojiště nové mechanizované brigády. 
+          - Kadyrov si v novém videu postěžoval, že Evropa a Ukrajina nepodpořili Ičkerii, když bojovala za svou nezávislost, a dodal, že doufá, že Čečensko jednou opět nezávislé bude, nicméně že to aktuálně není možné. Zapomněl snad, že to byl on, kdo se s Ruskem spojil a dělá mu už dvě dekády užitečného kašpárka? 
+          - Ruské ministerstvo propa-... pardon... obrany tvrdí, že Američané na území Ukrajiny prováděli od roku 2019 testy s užitím viru HIV a ukrajinskými vojáky jako pokusnými subjekty. Bojové husy už asi nikoho nezajímaly. 
+          - Kolaborant Sergej Aksenov oznámil, že lidé, kteří se aktivní zapojili nebo zapojí do „speciální operace“ na Ukrajině, dostanou jako odměnu parcely na okupovaném Krymu. 
+          - Podle generálního tajemníka NATO Stoltenberga poskytuje Severní Korea Rusku kromě dělostřelecké munice a výstroje také rakety do systémů sovětské výroby. 
+          - V Rusku proběhl první soud s člověkem, co podnikl žhářský útok na budovu vojenské správy. Odešel s trestem 12 let odnětí svobody ve věznici s maximální ostrahou. 
+          - Francie a Austrálie spustí výrobu dělostřelecké munice ráže 155 mm pro potřeby ukrajinské armády. 
+          - Kanada je další zemí, která označila wagnerovce za teroristickou skupinu. 
+          - Nizozemsko je ochotné jednat o poskytnutí stíhaček F-16 Ukrajině. 
+          - Polsko navýší od roku 2023 armádní rozpočet na 4 % HDP. 
+          - Dánská premiérka navštívila válkou zničený Mykolajiv. 
+          - Dánsko se připojilo k ukrajinské obilné iniciativě. 
+          - 60 vozidel Bradley už míří z USA na Ukrajinu.
+        videa: |
+          - [Přesná trefa GPS municí](https://twitter.com/EuromaidanPress/status/1620145657456787457)
+          - [Reportáž ČT z Vulhedaru ](https://twitter.com/CT24zive/status/1620161695145500686)
+          - [Neuvěřitelné zásahy pěchoty pomocí ATGM](https://twitter.com/bayraktar_1love/status/1620074539890909192)
+          - [Zmrzlé Jakutsko](https://twitter.com/nexta_tv/status/1620349930543157248)
+          - [Propagandisti blouzní o denacifikaci Německa](https://twitter.com/NOELreports/status/1620339491339894786)
+          - [Boj na blízko s ruskými specnaz ](https://twitter.com/PaulJawin/status/1620130342396125184)
+          - [Trefa](https://twitter.com/NOELreports/status/1620336077159698433)
+          - [Ruský obrněný vlak](https://twitter.com/666_mancer/status/1620335931088834560)
+          - [Let granátu z PzH 2000 ](https://twitter.com/EuromaidanPress/status/1620353694972739584)
+          - [Zelenský s dánskou premiérkou ](https://twitter.com/nexta_tv/status/1620059149672521734)
+          - [Okupant vs. dron](https://twitter.com/bayraktar_1love/status/1620028019816673280)
+          - [Noční odpal Toček](https://twitter.com/NOELreports/status/1620137334674173952)
+          - [Rovnou do jamky](https://twitter.com/EuromaidanPress/status/1620338723064872960)
+          - [Propagandistické video wagnerovců ](https://twitter.com/nexta_tv/status/1620042599632637954)
+          - [Bývalé ruské pozice (citlivé)](https://twitter.com/herooftheday10/status/1620131297481072641)
+          - [Dronem na ně!](https://twitter.com/NOELreports/status/1620373934301667329)
+          - [Ruský voják po setkání s dronem](https://twitter.com/Andrii_L1983/status/1620337857322942465)
+          - [Obří ruské vrakoviště](https://twitter.com/rendeiro_silva/status/1620322033568747520)
+          - [Skoro bývalý Rus](https://twitter.com/WarMonitors/status/1620104669807710213) 
+          - [Ruští vojáci chtěli vejít do Bachmutu](https://twitter.com/rendeiro_silva/status/1620129476251357185)
+          - [U Bachmutu](https://twitter.com/herooftheday10/status/1620129559936118788)
+          - [ATGM versus pěchota](https://twitter.com/Peter79233966/status/1620091660981137413)
+          - [Upravený slovinský tank](https://twitter.com/Osinttechnical/status/1619975019932815361)
       - title: "Pondělí"
         year: "30. ledna 2023"
         image: assets/img/timeline/2023-01-30.jpg
