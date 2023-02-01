@@ -35,6 +35,52 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "1. února 2023"
+        image: assets/img/timeline/2023-02-01.jpg
+        desc: "Zatímco Evropa se postupně zbavuje památníků sovětské armádě a sovětským představitelům, Rusko a okupovaná území Ukrajiny zažívají opačný trend a památníky i takovým osobnostem, jakým byl diktátor a vrah Stalin, rostou jako houby po dešti. Nové památníky Stalinovi, Žukovovi a Vasilevskému byly dnes slavnostně odhaleny ve Volgogradu a město opět vyměnilo značky „Volgograd“ na příjezdu do města za „Stalingrad“ před oslavami konce bitvy z druhé světové války. Už v minulosti jsem psal o tom, že Putin se léta nijak netají, že považuje rozpad SSSR za největší chybu v ruských dějinách a že by rád obnovil jeho „slávu“, a podobně servilní kroky volgogradské radnice to jen potvrzují. Vzpomeňte si na to u příští diskuse ve vašem městě o tom, jestli by nestálo za to přejmenovat ulice nebo náměstí odkazující názvem právě na Sovětský svaz. Symbolika hraje důležitou roli u vnímání historie. A je na čase se na ni podívat s odstupem a v dnešním kontextu, a možná se některých názvů, tehdy změněných „za zásluhy“, konečně zbavit. A teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02qo467jNLbwkhyTr4BGwuwgb2oUTt6jvwKpxsfpUma5uKCeAKJpqzqgziFALJfee8l)"
+        detail: |
+          - Ruský bloger a OSINT analytik Rybar má nově vlastní televizní pořad. V jednom z prvních vysílání pořadu mimo jiné společně s hostem uvedli, že ruské VDV jednotky jen do září minulého roku přišly až o 50 % veškerého personálu. Informace jen potvrzuje dřívější tvrzení ukrajinského štábu, že některé ruské výsadkové jednotky kvůli obřím ztrátám prakticky přestaly existovat. 
+          - Litevský ministr zahraničí vyzval ostatní evropské státy, aby po vzoru Litvy vyhostily všechny ruské diplomaty. Podle něj v současné chvíli ruské ambasády neslouží k diplomatickému styku, který prakticky neexistuje, ale umožňují Rusku v Evropě financovat a organizovat dezinformační kampaně. 
+          - Budoucí prezident Pavel v rozhovoru pro BBC prohlásil, že by Ukrajina měla vstoupit do NATO jakmile bude válka u konce. Také uvedl, že by země NATO neměly klást žádné hranice na to, co by měly nebo neměly poskytnout Ukrajině. 
+          - Americký výrobce dronů General Atomics nabízí, že poskytne Ukrajině dva bojové drony za symbolický jeden dolar. Ukrajina by tam musela financovat pouze převoz a následný provoz dronů a jejich údržbu. 
+          - Ruské soudy odsoudili v nepřítomnosti ruského novináře a spisovatele Alexandra Nevzorova k 8 letům odnětí svobody za „šíření lží o ruské armádě“. 
+          - Americké ministerstvo financí informovalo, že neodhalilo žádný případ, kdy by finance poskytnuté Ukrajině byly zpronevěřeny. 
+          - Nejvyšší státní zástupce Ruské federace označil organizaci Forum svobodného Ruska za nežádoucí organizaci. 
+          - Francie poskytne Ukrajině několik svých radarů Ground Master 200 a také 12 dalších kusů houfnic CAESAR. 
+          - Včerejší ostřelování Bachmutu si vyžádalo dvě oběti na životech v řadách civilistů včetně 12letého chlapce. 
+          - Nový balík vojenské pomoci od Spojených států by měl obsahovat rakety s doletem okolo 150 km. 
+          - Podle organizace Transparency international je Maďarsko zemí s největší mírou korupce v Evropě. 
+          - Japonsko poskytne 170 miliónů dolarů na obnovu ukrajinské energetické infrastruktury. 
+          - Ukrajina by ráda ještě letos vstoupila do společného evropského roamingové zóny. 
+          - Erdogan poprvé otevřeně informoval, že Turecko nepodpoří vstup Švédska do NATO. 
+          - Maďarsko a Rakousko se společně dohodly že nebudou posílat zbraně Ukrajině. 
+          - Podle ukrajinské rozvědky nyní na straně Ruska bojuje 326 000 vojáků. 
+          - Rakouský prezident přijel na návštěvu Kyjeva. 
+        videa: |
+          - [Přiznání o ztrátách VDV jednotek ](https://twitter.com/wartranslated/status/1620409293353918464)
+          - [Boje v zákopech ](https://twitter.com/Militarylandnet/status/1620460477792014338)
+          - [Život na frontě ](https://twitter.com/ukrainiansquad/status/1620431087263682561)
+          - [Legrace na frontě](https://twitter.com/B89243637/status/1620516135547600901)
+          - [Noví zajatci](https://twitter.com/NOELreports/status/1620689938810544129)
+          - [Krásný balistický oblouk](https://twitter.com/EuromaidanPress/status/1620543068158967812)
+          - [Instalace značek „Stalingrad“ v Rusku](https://twitter.com/nexta_tv/status/1620741727765266433)
+          - [Zajatci v Bachmutu](https://twitter.com/666_mancer/status/1620719995918635011)
+          - [Loučení s hrdiny během varování před nálety](https://twitter.com/ZarinaZabrisky/status/1620569163097059328)
+          - [Trefa!](https://twitter.com/NOELreports/status/1620689526363676674)
+          - [Dron versus tank](https://twitter.com/EuromaidanPress/status/1620633413156839440)
+          - [Tváře SSO Azov Kyiv ](https://twitter.com/HonzaUA/status/1620543472435617792)
+          - [Přepad ruských pozic](https://twitter.com/PaulJawin/status/1620348230109392896)
+          - [Rusové u Bachmutu](https://twitter.com/herooftheday10/status/1620410829635190787)
+          - [Javelin versus ruský tank a BMP](https://twitter.com/NOELreports/status/1620733091877879808)
+          - [Útok na ruské pozice](https://twitter.com/666_mancer/status/1620692056313323520)
+          - [Už zase prší zápalná munice](https://twitter.com/NOELreports/status/1620520069548883969)
+          - [Rusové jeli na červenou](https://twitter.com/Gulli_ver_sn/status/1620511697059594240)
+          - [Osetínci na Ukrajině](https://twitter.com/666_mancer/status/1620461070963085312)
+          - [Bachmut](https://twitter.com/UkrainianNews24/status/1620612332882894848)
+          - [K noze a k zemi!](https://twitter.com/lenaUA/status/1620417949642416130)
+          - [Zajatci od Vuhledaru ](https://twitter.com/Azovsouth/status/1620480069201461248)
+          - [Palba na Rusy na předměstí Bachmutu](https://twitter.com/Militarylandnet/status/1620749313210216448)
       - title: "Úterý"
         year: "31. ledna 2023"
         image: assets/img/timeline/2023-01-31.jpg
