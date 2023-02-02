@@ -35,6 +35,51 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "2. února 2023"
+        image: assets/img/timeline/2023-02-02.jpg
+        desc: "Podle ministra obrany Reznikova hodlá Rusko spustit další masivní ofenzivu na „výročí“ únorové invaze, tedy 24. února. Lavrov se ohledně data vyjádřil tak, že to, co Rusko na výročí invaze chystá, přitáhne pozornost celého světa. Podle různých analytiků a ukrajinské rozvědky nyní na Ukrajině bojuje přes 300 000 vojáků, ale mobilizovaných bylo odhadem půl milionu, z nichž velká část se poslední měsíce cvičila v Bělorusku. Rusko by se tak mohlo znovu pokusit otevřít další fronty, a to hned na třech různých osách včetně dalšího útoku na Kyjev. Otázkou zůstává, jakou výzbroj a techniku je Rusko ještě schopno uvést na bojiště a jestli nové jednotky dokáží vést koordinovanou ofenzivu s použitím kombinovaných sil, když to nedokázala ani regulérní armáda. Jisté je, že Ukrajinci dělají všechno pro to, aby případná nové ofenziva selhala. Držme jim palce. Tady je pár dalších [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02M2KkJCf8xH1GrVzEhCgMuTDgQYcfUKwW441Jwqq6H9MiMLLPETLLGcLZGyL3Eu9Ll):"
+        detail: |
+          - Putin nařídil armádě, aby zabránila Ukrajincům v ostřelování příhraničních regionů Ruska. Lavrov na to konto prohlásil, že pokud Ukrajina získá systémy s delším dostřelem, bude muset ruská armáda Ukrajince vytlačit o to dál. Obě informace mají ale nejspíš za cíl vykreslit Ukrajinu jako zemi představující existenční riziko pro Rusko, a zároveň motivovat obyvatele k podpoře pro případnou další ofenzivu na severovýchod Ukrajiny.  
+          - Ukrajinská SBU podniká na rozkaz prezidenta Zelenského masivní prohlídky v domech a kancelářích některých funkcionářů s cílem odhalit účastníky korupčních praktik a vnitřní nepřátele státu. Ze stejného důvodu bude odvoláno prakticky celé vedení pohraniční stráže. Zelenský prohlásil, že nebude tolerovat zneužívání postavení u státních úředníků a že je bude měnit tak dlouho, dokud se nenajdou lidé, kteří tak činit nebudou. 
+          - Izraelský premiér Netanjahu v rozhovoru pro CNN prohlásil, že Izrael je připravený jednat o poskytnutí systémů Iron Dome Ukrajině. Systém sice nedokáže zachytávat velké naváděné střely, ale mohl by výrazně pomoci Ukrajině v boji proti dronům a menším balistickým střelám. 
+          - Lavrov v televizním rozhovoru naznačil, že Moldavsko by mohlo být dalším cílem ruské agrese, protože si prý zvolilo prezidentku „nedemokratickými způsoby“ a snaží se připojit k NATO nebo sjednotit s Rumunskem. 
+          - Rusové museli v okupované části Luhanské oblasti vypnout mobilní internet, protože místní ho využívají k tomu, aby Ukrajincům předávali pozice ruské armády pro dělostřeleckou palbu. 
+          - Gruzínská prezidentka navrhuje, aby součástí potenciální mírové dohody mezi Ruskem a Ukrajinou bylo i stažení okupujících ruských vojsk z Abcházie a Jižní Osetie. 
+          - Investigativní novinář a člen skupiny Bellingcat Christo Grozev opustil Vídeň, protože ho jeho zdroje informovaly, že mu hrozí nebezpečí od ruských tajných služeb. 
+          - Rusové po několika velmi neúspěšných pokusech o útok na Vuhledar vrátili na záporožské části fronty zpět k dělostřeleckým duelům. 
+          - Podle ukrajinské rozvědky nařídil Putin armádě, aby do konce března obsadila zbytek Doněcké a Luhanské oblasti. 
+          - Bulharsko je další zemí, která označila sověty vyvolaný hladomor za genocidu ukrajinského obyvatelstva. 
+          - Británie koupila 46 obrněných transportérů pro Ukrajinu od belgické zbrojovky OIP Land Systems. 
+          - Ve Lvově vzniklo nové centrum, které bude vyrábět náhrady končetin pro ukrajinské veterány. 
+          - Kramatorsk zasáhla ruská raketa Iskander. Tři lidé během útoku zahynuli, dvacet bylo raněno. 
+          - Pentagon nyní nevěří, že by Ukrajinci v blízké době dokázali osvobodit Krym.
+          - Ukrajinci se opět potýkají s nedostatkem 122mm a 155mm munice. 
+          - Situace okolo Bachmutu se v posledních dnech výrazně zhoršila. 
+          - Rakousko vyhostilo 4 ruské diplomaty.
+        videa: |
+          - [Po ruském útoku v Zabachmutce](https://twitter.com/NOELreports/status/1620760714565812225)
+          - [Studenti v Petrohradu šikanují kluka z Doněcku, který přišel o nohy](https://twitter.com/Lyla_lilas/status/1620967101107240960)
+          - [Ruský důstojník promluvil o mučení ukrajinských zajatců ](https://twitter.com/BBCWillVernon/status/1621039120444178433)
+          - [Co všechno může házet dron](https://twitter.com/Osinttechnical/status/1621071082563469313)
+          - [Maření ruských akcí na ostrovech na Dněpru ](https://twitter.com/NOELreports/status/1621080254566617088)
+          - [Lavrov o Moldavsku](https://twitter.com/nexta_tv/status/1621084805940281345)
+          - [Bachmut](https://twitter.com/Militarylandnet/status/1621072636393689089)
+          - [Ruský Tor šel na chuj](https://twitter.com/EuromaidanPress/status/1620965476347088898)
+          - [Po útoku na Kramatorsk](https://twitter.com/NOELreports/status/1621112705167003648)
+          - [Na frontě s dělostřelci ](https://twitter.com/Hromadske/status/1620821782025338880)
+          - [Bělorusové a dva zajatci](https://twitter.com/belwarriors/status/1620776817589383169)
+          - [Veteráni nyní můžou získat protézy přímo ve Lvově](https://twitter.com/Hromadske/status/1620778769374920706)
+          - [Mínus ruská T-80](https://twitter.com/EuromaidanPress/status/1620905204194344960)
+          - [Sbírání odpadků ](https://twitter.com/666_mancer/status/1620819720776876032)
+          - [Azerové v řadách Ukrajinců ](https://twitter.com/clashreport/status/1620509505288310786)
+          - [Mínus ruský náklaďák](https://twitter.com/PaulJawin/status/1621041842648408065)
+          - [Opět ruská zápalná munice nad Marjinkou](https://twitter.com/NOELreports/status/1620869213861871616)
+          - [Pěkný přílet](https://twitter.com/666_mancer/status/1620859938049523713)
+          - [Checkpoint u Kreminny](https://twitter.com/herooftheday10/status/1621120426129920000)
+          - [Boje u Bachmutu](https://twitter.com/nevedimka123/status/1621056640744300547)
+          - [Trefa! ](https://twitter.com/Seveerity/status/1620828308152909826)
+          - [Tvorba šrotu jižně od Chersonu](https://twitter.com/UAWeapons/status/1621117988618338309) 
       - title: "Středa"
         year: "1. února 2023"
         image: assets/img/timeline/2023-02-01.jpg
