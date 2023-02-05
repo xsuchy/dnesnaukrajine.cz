@@ -35,6 +35,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "5. února 2023"
+        image: assets/img/timeline/2023-02-05.jpg
+        desc: "Rusové podle informací ukrajinské rozvědky nově verbují ve vězeňských koloniích také ženy. Zhruba padesát už mělo opustit věznice a odjet na výcvik. Ne, dokud Putin nezačne verbovat ruskou zlatou mládež a obyvatele velkých měst, ale bude na frontu posílat jen vězně nebo příslušníky nižší třídy z východu Ruska, sotva můžeme doufat v politickou změnu uvnitř Ruska. A Putin si je toho očividně dobře vědom. Pro většinu Rusů je tak válka realitou jen v televizi, a to ještě značně pokřivená a přebarvená státní propagandou. Je to frustrující problém, který nemá žádné jednoduché řešení. Leda vítězství Ukrajiny. A i to nebude jednoduché. Tady je [pár důvodů proč](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid04P25mTHyZiRW3KSkVnavDdSmXR55Q4s2ESZ3w2EXre5enD1mKkn6C2SjshqhDnLXl):"
+        detail: |
+          - Rusové přešli do silného protiútoku u Siversku a také u Kreminny, kde v minulých týdnech postupně shromažďovali síly, aby zabránili Ukrajincům v dobytí města. Aktuálně tak Rusové tlačí hned na několika úsecích doněcké i luhanské fronty. Analytici z ISW nicméně neočekávají, že by Rusové byli schopni zaútočit současně i u Záporoží, protože podle analytiků Rusové opakovaně prokázali, že nedokáží vést koordinovanou ofenzivu na více frontách. Podle Zelenského ale čeká Ukrajinu několik těžkých týdnů, a to zejména u Bachmutu, kterému víc a víc hrozí obklíčení, neboť tu Rusko vrhá proti obraně doslova všechno, čím tu disponuje.  
+          - Na sociálních sítích se šíří falešné video, na kterém má prezident Zelenský žádat NATO o preventivní jaderný úder vůči Rusko. Ve skutečnosti video pochází z roku 2020 a Zelenský ve svém projevu mluvil o preventivních sankcích vůči Rusku, nikoliv o vojenském natož jaderném úderu. 
+          - Ministr obrany Reznikov ukázal reflektory radarových vln, pomocí kterých se Rusové pokoušeli chránit most v Chersonu před útoky HIMARS raket. Na to konto prohlásil, že současný konflikt je válkou svobodné budoucnosti proti totalitní minulosti. 
+          - Ruský neonacista Mangušev, který se nechvalně proslavil v prvních měsících války svým stand-upem s údajnou lebkou zabitého ukrajinského bojovníka, byl těžce raněn v okupovaném Stachanově u Luhansku. Kdosi ho střelil zblízka do hlavy. 
+          - V okupované Horlivce údajně Rusové přestavují školy a školky na improvizované nemocnice a přivážejí personál z Jakutska, protože skutečné nemocnice už nemají kapacitu přijímat další raněné ruské vojáky. 
+          - Ukrajinské ministerstvo obrany spouští platformu Delta, která dokáže sbírat data o dění na bojišti v reálném čase z desítek různých zdrojů a předávat je na různé úrovně armádního velení. 
+          - Podle deníku Wall Street Journal hospodářská data ukazují, že Čína dodává Rusku potřebné technologie do vojenského průmyslu navzdory sankcím. Nepřekvapivě. 
+          - Během výměny zajatců Ukrajina získala také těla dvou britských dobrovolníků, které Rusové zabili u Soledaru. 
+          - Ukrajinci se začínají cvičit v ovládání francouzských a italských systémů SAMP-T Mamba. 
+          - V přístavu Reni poblíž Oděsy se potopila rumunská loď s 860 tunami obilí na palubě. 
+          - Německo by mohlo zprovoznit až 160 tanků Leopard 1 a poskytnout je Ukrajině. 
+          - Rusové zasáhli raketami budovu Charkovské univerzity. Část budovy se zřítila. 
+          - 40 % domácností v Oděse zůstává i nadále bez dodávek elektřiny. 
+        videa: |
+          - [Ukrajinská patrola odhalila a zneškodnila ruské průzkumníky](https://twitter.com/Seveerity/status/1621955912620548096)
+          - [Dopady na Charkov](https://twitter.com/nexta_tv/status/1622137701028827136)
+          - [Rusové na jihu Bachmutu ](https://twitter.com/Militarylandnet/status/1621930016119431168)
+          - [Polský medik na Ukrajině](https://twitter.com/EuromaidanPress/status/1622022441043369984)
+          - [Trefa!](https://twitter.com/666_mancer/status/1622137591490281477)
+          - [Kanada odeslala první Leopardy](https://twitter.com/nexta_tv/status/1622010291671138307)
+          - [Ukrajinský voják a jeho erpégéčka](https://twitter.com/WarMonitors/status/1622208832838443011)
+          - [Dobrý den a dobrou noc](https://twitter.com/NOELreports/status/1622151747543175169)
+          - [Chystání dronů](https://twitter.com/666_mancer/status/1622125082691641346)
+          - [Vojenská pomoc z USA](https://twitter.com/UkrainianNews24/status/1621966127516553216)
+          - [Neonacista Mangušev ](https://twitter.com/nexta_tv/status/1621909615070904326)
+          - [Bachmut](https://twitter.com/Militarylandnet/status/1622008283140689920)
+          - [Další do fondu](https://twitter.com/666_mancer/status/1621934947622584325)
+          - [Ruský tank u Svatového ](https://twitter.com/WarMonitors/status/1622012918987460608)
+          - [Šikulové](https://twitter.com/GirkinGirkin/status/1621743389409435648)
+          - [Report z Bachmutu](https://twitter.com/NOELreports/status/1622189004228628481)
+          - [Kadyrovci vybalují dárky](https://twitter.com/666_mancer/status/1622146659810410498)
+          - [Rusové a jejich kouřová clona](https://twitter.com/Tendar/status/1621836826502651907)
+          - [M777 na frontě ](https://twitter.com/UkrainianNews24/status/1621964794109517825)
+          - [Další do fondu ](https://twitter.com/Milan8662/status/1621966202884038656)
+          - [Ukrajinci na severu Bachmutu ](https://twitter.com/Militarylandnet/status/1622150570764025859)
       - title: "Sobota"
         year: "4. února 2023"
         image: assets/img/timeline/2023-02-04.jpg
