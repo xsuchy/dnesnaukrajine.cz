@@ -35,6 +35,54 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "6. února 2023"
+        image: assets/img/timeline/2023-02-06.jpg
+        desc: "V bojích u Bachmutu padl 25. ledna ukrajinský šampion v desetiboji do 20 let Volodymyr Androščuk. Pokud by nevypukla válka, letos by pravděpodobně reprezentoval Ukrajinu na Olympijských hrách v Paříži. Celkem už během ruské invaze přišlo o život nejméně 220 ukrajinských sportovců a poškozeno nebo zničeno bylo 340 sportovišť. A my tu s vážnými tvářemi debatujeme o tom, jestli by měli ruští a běloruští sportovci startovat na Letních Olympijských hrách? Těch 220 ukrajinských kluků a holek taky chtělo soutěžit. Ale Rusko, za vydatného přispění Lukašenkova režimu, jim tuhle možnost vzalo. Už navždycky. Olympijský výbor velmi rád akcentuje, jak jsou Olympijské hry „apolitické“. To je z principu blbost, protože jakýkoliv mezinárodní event má nutně politickou rovinu (což bylo nejvíc vidět v Pekingu). Nicméně výbor očividně zapomíná na mnohem důležitější hodnoty ve sportu, než je domnělá apolitičnost: férovost, rovnost, respekt. Rusko nehraje fér, nepovažuje ostatní za sobě rovné a respekt je mu cizí. Už několik let nesmí jeho sportovci startovat pod ruskou vlajkou kvůli opakovaným skandálům. Nyní rozpoutalo vylhanou a nesmyslnou válku, při které vraždí ukrajinské atlety. Takový stát nemá vůbec patřit do olympijské rodiny. A pokud si to stále nemyslíte, tady máte spoustu důvodů:"
+        detail: |
+          - Ukrajina provedla reorganizaci armády a s tím i přejmenování jejích klíčových složek. Pluk Azov byl přetvořen na Samostatnou útočnou brigádu Národní gardy, 1. prezidentská brigáda neboli kyjevská obrana je nyní Brigáda Burevij („Hurikán“), charkovská 3. operační brigáda je nově Brigáda Spartan, 4. brigáda rychlého nasazení (která bránila Hostomel) se přejmenovala na Brigádu Rubiž (Hranice), 8. operační pluk Národní gardy se stal Brigádou Červona Kalyna a 9. operační pluk, který zastavil ruskou ofenzivu v Záporožské oblasti je nyní Brigádou Kara-Dag pojmenovanou po skalních útvarech na Krymu. 
+          - Deník Financial Times s odvoláním na ukrajinské armádní zdroje uvádí, že Rusové v nejbližších 10 dnech spustí další velkou ofenzivu. Zelenský to víceméně potvrzuje, nicméně zdůrazňuje, že Rusko se vyžívá v symbolice, a proto pravděpodobně provede něco velkého na výročí invaze, čímž se bude chtít pomstít za loňský neúspěch a dosavadní ztráty. Rusko už rozběhlo akce, které dávají tušit, že ofenziva je na spadnutí. Momentálně podnikají výpady prakticky po celé délce luhanské a doněcké fronty. 
+          - Ruský zápasník MMA Michail Turkanov, toho času bojující na Ukrajině v řadách okupantů, obdržel medaili za statečnost. V minulosti byl přitom několikrát v Rusku trestán za propagaci nacistické symboliky. Dokonce má na těle vytetováno tzv. „slovanské kolo“ a několik svastik. 
+          - Rusko plánuje provést na okupovaném území volby do místních zastupitelstev v době, kdy probíhají volby také v Rusku, a jednak tak dosadit do úřadů politiky loajální vůči Kremlu, a jednak prezentovat okupované oblasti jako integrální součást Ruské federace. 
+          - Kvůli nízkým cenám domácí ropy začalo Rusko prodávat své rezervy v čínských Jenech, aby kompenzovalo výpadky v rozpočtu. Aby mohlo rezervy opět kupit, muselo by prodávat ropu nad hodnotou stanovenou zavedeným cenovým stropem. 
+          - Na postu ukrajinského ministra obrany končí Oleksij Reznikov. Nahradí ho dosavadní šéf ukrajinské rozvědky Kyrylo Budanov. Reznikov nicméně z kabinetu neodchází a nově povede ministerstvo pro strategický průmysl. 
+          - Dva deníky, švýcarský a německý, tvrdí, že ruský patriarcha Kirill v 70. letech pracoval jako zpravodajec pro sovětskou KGB v Ženevě pod krycím jménem Michajlov. 
+          - Írán se dohodl s Ruskem na výstavbě závodu na výrobu bojových dronů na území Ruské federace v Tatarstánu. Její výrobní kapacita by mohla být až několik tisíc dronů. 
+          - Legitimní starosta okupovaného Melitopolu tvrdí, že Rusové provedli razie v domech učitelů a zabavili jim elektroniku, aby učitelé nemohli vyučovat na dálku. 
+          - Ukrajinská SBU zadržela dva kolaboranty, kteří Rusům pomáhali zaměřit naváděné rakety na kritickou infrastrukturu v Oděské a Chersonské oblasti. 
+          - Ukrajinci zasáhli jachtařský klub v okupované Nové Kachovce a zničili čluny, které Rusové používali k bojovým akcím a průzkumu. 
+          - Zelenský předložil ukrajinskému parlamentu dekret, jehož schválením by bylo prodloužilo stanné právo a také mobilizace. 
+          - Americké město Albany nabízí, že se stane partnerským městem Buči a pomůže jí s poválečnou obnovou. 
+          - Evropská unie apeluje na Gruzii, aby se připojila k protiruským sankcím na poli letecké dopravy. 
+          - První kanadské Leopardy přistály v Polsku, kde se na nich budou cvičit ukrajinské posádky. 
+          - Polsko plánuje stavbu fyzické bariéry na hranici s Kaliningradem. 
+          - Oleně Zelenské je dnes 45 let. 
+        videa: |
+          - [Modernizace T-72 v českém Excaliburu](https://twitter.com/Osinttechnical/status/1622372938187001857)
+          - [Ruské vrakoviště po jednom nevydařeném útoku](https://twitter.com/NOELreports/status/1622287339065151489)
+          - [Zasažený muničák v okupované Kachovce ](https://twitter.com/nexta_tv/status/1622489333369389056)
+          - [Mínus ruský tankista](https://twitter.com/NOELreports/status/1622561060069978113)
+          - [Novinářka v Bachmutu versus vojáci](https://twitter.com/nexta_tv/status/1622358866888359937)
+          - [Neschoval se](https://twitter.com/NOELreports/status/1622525849260986368)
+          - [Zasažený jachtařský klub v Nové Kachovce ](https://twitter.com/nexta_tv/status/1622200874175979521)
+          - [Perun versus BMP](https://twitter.com/EuromaidanPress/status/1622460577917415424)
+          - [Výsledek ruské propagandy](https://twitter.com/NOELreports/status/1622312524954615809)
+          - [Improvizovaný MLRS](https://twitter.com/EuromaidanPress/status/1622415027713069059)
+          - [Cesta vozidel Bradley z USA](https://twitter.com/NOELreports/status/1622526859698208768)
+          - [Posily jedou](https://twitter.com/UkrainianNews24/status/1622539979359387648)
+          - [Trefa kamikadze dronem ](https://twitter.com/666_mancer/status/1622515184542564353)
+          - [Ukrajinci stále drží Bilohorivku](https://twitter.com/NOELreports/status/1622524065616379904)
+          - [Krásná trefa Javelinem](https://twitter.com/rendeiro_silva/status/1622347721850986498)
+          - [Bachmut](https://twitter.com/WarMonitors/status/1622254904512217088)
+          - [Letecký přesun](https://twitter.com/UkrainianNews24/status/1622538818661281792)
+          - [Jiná kamera, která natočila zlikvidování ruské jednotky](https://twitter.com/NOELreports/status/1622305378191949826)
+          - [Dobré maskování, ale nestačilo ](https://twitter.com/666_mancer/status/1622340856261869568)
+          - [Česká T-72 na Ukrajině](https://twitter.com/NOELreports/status/1622264414597529600)
+          - [Prigožin se proletěl ve Fenceru ](https://twitter.com/WarMonitors/status/1622581374740832256)
+          - [Odražený ruský útok na Bachmut](https://twitter.com/Militarylandnet/status/1622354101622214660)
+          - [Trefa!](https://twitter.com/666_mancer/status/1622322979978858496)
+          - [Po výpadu na Vuhledar ](https://twitter.com/herooftheday10/status/1622350843943976965)
+          - [Zastavený ruský útok](https://twitter.com/UAWeapons/status/1622325275856977922)
       - title: "Neděle"
         year: "5. února 2023"
         image: assets/img/timeline/2023-02-05.jpg
