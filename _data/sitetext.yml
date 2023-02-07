@@ -35,6 +35,55 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "7. února 2023"
+        image: assets/img/timeline/2023-02-07.jpg
+        desc: "Rusové dnes pokořili další smutný rekord. A sice v největším denním přírůstku ztrát na živé síle. A bohužel pro Rusy, podle množství videí z neúspěšných ruských výpadů, které od rána plní sítě, ta čísla nejspíš odpovídají realitě. Při sledování videí z okolí Vuhledaru už si několik OSINT analytiků láme hlavu, jestli někdo ruským mariňákům vysvětlil, že když zaútočí každý den na stejném místě, ve stejnou hodinu a stejným způsobem, tak do i stejně dopadne. Jestli je definice bláznovství dělat stejnou věc stále dokola a očekávat jiný výsledek, pak se ruská armáda dočista zbláznila. Krajina kolem Vuhledaru začíná velmi rychle připomínat obří pohřebiště – a to nejen ruské techniky. Ostatně, dole ve videích se můžete přesvědčit sami, ale opět varuji, že to místy není pro slabé povahy. Zejména poslední video mě dnes trochu kazilo spaní, protože ukazuje jednu z mých nejhorších představ. Tak ho otevírejte jen, pokud jste si jisti, že se to na vás nepodepíše. A teď už novinky. Ty jsou vhodné pro všechny:"
+        detail: |
+          - Analytici z ISW nevěří, že by Rusko v příštích týdnech dokázalo shromáždit síly, které by měly šanci významně ovlivnit průběh války. Ruská armáda aktuálně postupuje tempem zhruba 100 m denně, což může působit děsivě, pokud se člověk soustředí na malý úsek fronty, jakým je i Bachmut a Soledar, ale při velikosti Ukrajiny jsou to zisky bližší nule. Okupantům prý nyní chybí nejen lidská síla, ale také munice. 
+          - Norsko alokuje 7 miliard dolarů na pomoc Ukrajina. Polovinu formou humanitární pomoci, polovinu formou vojenské. A ani tato částka nejspíš nebude konečná, jak norský premiér zmínil. Podle něj mělo Norsko v minulém roce násobně vyšší obraty z prodeje ropy a plynu než v předchozích letech, a to díky válce na Ukrajině, proto se rozhodlo část z vydělaných prostředků „vrátit“ Ukrajině. 
+          - Kadyrov věří, že „speciální operace“ skončí ještě letos. Podle něj tak, že „Západ si uvědomí svoje chyby, padne na kolena a jako obvykle bude muset začít s Ruskem opět kooperovat“. Také by podle něj mělo proběhnout referendum o nezávislosti v polském Slezsku a Rusko by mělo spustit operaci na „denacifikaci“ a „desatanizaci“ Polska. Tak určitě. 
+          - Švýcarsko zvažuje, že zruší zákaz exportu zbraní a munice do zón konfliktů. Podle Reuters se v zemi dramaticky proměnilo veřejné mínění i s ohledem na probíhající ruskou invazi a naprostá většina obyvatel je nyní pro ukončení staletí trvající neutrality. 
+          - Německo dalo zelenou dodávce celkem 187 tanků Leopard 1 Ukrajině. 88 poskytne zbrojovka Rheinmetall, dalších 99 kusů potom Flensburger Fahrzeugbau Gesellschaft. 
+          - Ruský poslanec Státní dumy Andrej Kolesnik navrhuje, aby byla znovu zavedený trest smrti. A to například pro ty, kteří opustili Rusko a vyjadřují se o něm kriticky. 
+          - Spojené státy zvažují, že zavedou 200 % clo na ruské kovy, čímž by prakticky zastavili ruský import. 
+          - Podle deníku The Moscow Times nařídila ruská vláda výstavbu bombových krytů po celém Rusku. 
+          - V loňském roce navštívilo Rusko pouze okolo 200 000 turistů. 25krát méně než v roce 2019. 
+          - Ukrajinský parlament schválil prodloužení stanného práva a mobilizace o dalších 90 dní. 
+          - Wagnerovci údajně spustili druhou vlnu verbování dobrovolníků v ruských věznicích. 
+          - Fotografie z Buči zvítězila v hlavní soutěži letošního ročníku Czech Press Photo. 
+          - Mariupolem otřásla série pěti hlasitých explozí. Cílem mělo být ruské depo. 
+          - Novým šéfem ukrajinské rozvědky se stal Vasyl Maljuk. 
+          - Ukrajinu už kvůli válce opustilo téměř 8 miliónů lidí. 
+          - V ruském městě Kstovo hoří ropná rafinérie. 
+        videa: |
+          - [„Běží... hoří...“ aneb dva ruské tanky vjely do minové pole](https://twitter.com/bayraktar_1love/status/1622632497723985920)
+          - [Za tankem... se neschovali ](https://twitter.com/NOELreports/status/1622682192018132992)
+          - [Poslední bezpečná silnice do Bachmutu](https://twitter.com/Militarylandnet/status/1622924585317416961)
+          - [Nový ukrajinský šéf rozvědky o okupantech ](https://twitter.com/NOELreports/status/1622941048279277568)
+          - [Dron s termovizí dělá Rusům ztráty](https://twitter.com/SugarEgor/status/1622644884912865286)
+          - [Ukrajinský dron vysvětlil ruskému bagristovi, aby přestal kopat ](https://twitter.com/Seveerity/status/1622922554498334720)
+          - [Wagnerovci se postarali o svého zraněného velitele (citlivé)](https://twitter.com/jirik957/status/1622868066857000960)
+          - [Boje na předměstí Bachmutu](https://twitter.com/PaulJawin/status/1622889836683177985)
+          - [Salva z improvizovaných raketometů ](https://twitter.com/bayraktar_1love/status/1622918245849112577)
+          - [Další velmi neúspěšný pokus wagnerovců o útok](https://twitter.com/Militarylandnet/status/1622872531542630400)
+          - [Ruská paragán přiznal válečné zločiny ](https://twitter.com/NOELreports/status/1622964762458968068)
+          - [A ještě jeden podobně úspěšný](https://twitter.com/Militarylandnet/status/1622687949706956810)
+          - [Teritoriální obrana ukazuje svou výzbroj](https://twitter.com/TDF_UA/status/1622848382942281728)
+          - [Mínus ruská téosmdesátka](https://twitter.com/EuromaidanPress/status/1622875311732932608)
+          - [Ukrajinci sestřelili další ruský Su-25](https://twitter.com/Azovsouth/status/1622910562475581440)
+          - [Aspoň to zkusil...](https://twitter.com/PaulJawin/status/1622852385184833536)
+          - [Ruská palba z kanónu ve zničené Marjince](https://twitter.com/nexta_tv/status/1622825857688428546)
+          - [Kamikadze drony versus Rusové u Chersonu](https://twitter.com/EuromaidanPress/status/1622959785569124352)
+          - [Tuvinci promluvili o šikaně ze strany milic ](https://twitter.com/wartranslated/status/1622642002100715521)
+          - [Slušné závaží ](https://twitter.com/OleksandrKolym/status/1622120809547403264)
+          - [Demilitarizace ruského vojáka](https://twitter.com/andrewofpolesia/status/1622541881346244608)
+          - [Bývalí wagnerovci (citlivé)](https://twitter.com/Militarylandnet/status/1622678260877328384)
+          - [Zajíc ve své jamce neseděl sám (citlivé!)](https://twitter.com/NOELreports/status/1622851133696770049)
+          - [Viděli dron, vzali roha](https://twitter.com/666_mancer/status/1622965030667919363)
+          - [Ukrajinský MiG-29](https://twitter.com/KpsZSU/status/1622929283361435648)
+          - [Cvičení Ukrajinců na Běloruské hranici](https://twitter.com/Militarylandnet/status/1622695610406080531)
+          - [Asi nejhorší způsob, jak odejít z bojiště... navždycky (velmi citlivé!)](https://twitter.com/666_mancer/status/1622713419609636895)
       - title: "Pondělí"
         year: "6. února 2023"
         image: assets/img/timeline/2023-02-06.jpg
