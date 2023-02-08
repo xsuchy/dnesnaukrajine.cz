@@ -35,6 +35,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "8. února 2023"
+        image: assets/img/timeline/2023-02-08.jpg
+        desc: "Luhanský kolaborant Pasečnik tvrdí, že Ukrajina shromáždila čerstvé síly na další velký protiútok v Luhanské oblasti. Podle něj se chystá ofenziva nejen na Svatove a Kreminnu, ale také na Lysyčansk, Trojicke a Rubižne. Samozřejmě je potřeba tvrzení těchto loutek brát s pořádnou dávkou opatrnosti, nicméně přesně tak začínali i minulé ukrajinské protiofenzivy. Nejprve identifikovali místo, které si Rusko dalo za politický cíl, potom na něj vázali velké množství ruských sil a nechali je likvidovat vlastní kapacity o připravené obrany, a když se Rusko vyčerpalo, podnikli Ukrajinci výpad na jiné části fronty, kam Rusko nestihlo přesunout dostatek rezerv. Jeho tvrzení by podporovala i skutečnost, že Ukrajina nedávno oznámila vznik nových útočných mechanizovaných brigád. Nicméně jakékoliv konkrétní kroky jsou zahaleny operační mlhou, a tak musíme počkat, zda dají příští dny a týdny Pasečnikovi za pravdu. Skoro bych mu to přál. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02QzKmQ8tQfAZtVEd91Vnp1bS6u68MJMaSoNN226Ws9bK72nPxKuLF5yqEFtSzJpmKl):"
+        detail: |
+          - Podle analytiků z ISW možná Rusko hodlá spustit svou ofenzivu, aniž by předtím shromáždilo dostatek sil. Důvodem je, že ruská armáda je orientovaná víc na politické než vojenské cíle a chce proto vyhovět Putinovým rozkazům za každou cenu. To by ale mohlo být pro Rusy potenciálně katastrofální. Takže nezbývá než držet palce, ať spustí útok co nejdříve. 
+          - Na síti se objevilo archivní video, které zachycuje doněcké milice, které při jednom z raketových útoků pálí z jednoho místa současně na ukrajinské pozice i na Doněck, aby později obvinili ukrajinskou armádu z ostřelování města. Podobnou taktiku přitom Rusové používají prakticky non-stop posledních bezmála 9 let. 
+          - Skandinávské země a Island společně vyzvali Mezinárodní olympijský výbor, aby nedovolil ruským a běloruským sportovcům účast na příští Olympiádě. K věci se vyjádřila také starostka pořádajícího města – Paříže, která uvedla, že si nepřeje, aby ve francouzské metropoli soutěžili ruští atleti, dokud bude trvat válka na Ukrajině. 
+          - Ruská tisková agentura RIA Novosti publikovala jako ruský úspěch skutečnost, že slovo zmínky o Putinovy a Rusku v proslovech prezidenta Bidena v americkém Kongresu se vrátily na úroveň z roku 2021. Tak teda gratuluji.  
+          - Ukrajinský Ukroboronprom a česká firma VOP CZ navázaly spolupráci. Společně budou vyvíjet, opravovat a vyrábět obrněná vozidla, munici a vytvoří společnou dodavatelskou síť pro klíčové komponenty. 
+          - Britský premiér ohlásil, že Británie začala trénovat ukrajinské piloty. Neprozradil ale, na jakých strojích. Premiér také přislíbil, že dodá Ukrajině rakety s větším doletem. 
+          - V Lotyšsku vypukl požár ve výrobní hale americké firmy Edge Autonomy, která vyrábí průzkumné a bojové drony mimo jiné také pro potřeby ukrajinské armády. 
+          - První Německé Leopardy 2A6 by měla Ukrajina obdržet na konci března. Celkem už je potvrzeno, že Ukrajina obdrží více než 430 kusů tanků z 11 zemí.
+          - Neonacista Mangušev, kterého pravděpodobně střelili sami Rusové zblízka do hlavy, podlehl v nemocnici utrpěnému zranění. 
+          - Podle ukrajinské rozvědky plánuje ruský Gazprom vytvořit vlastní soukromou armádu – už několikátou v Rusku. 
+          - Německý ministr obrany Pistorius prohlásil, že svět by byl lepším místem bez Putina. Nelhal. 
+          - Ukrajina vyslala 87 záchranářů na pomoc Turecku ve dvou letadla s humanitární pomocí. 
+          - SBU zadržela ruského agenta, který pomáhal korigovat palbu na Charkov.
+        videa: |
+          - [Ruské BMP bylo nově začleněno do kosmického programu](https://twitter.com/EuromaidanPress/status/1623218823770898432)
+          - [Propagandistům dochází, jak Rusko chudne](https://twitter.com/nexta_tv/status/1623024224385343488)
+          - [Rusové se pokusili o útok na ukrajinský zákop](https://twitter.com/Peter79233966/status/1623041980992303104)
+          - [Archivní video: milice z „DLR“ pálí současně na ukrajinské pozice i na Doněck](https://twitter.com/Igor_from_Kyiv_/status/1622963411188342784)
+          - [Archivní video: Obyvatelé Doněcka potvrzují, že město ostřelují vlastní milice ](https://twitter.com/Igor_from_Kyiv_/status/1622963372697190405)
+          - [Vdovy z „DLR“ dostaly jako kompenzaci kožichy](https://twitter.com/nexta_tv/status/1623067196871045125)
+          - [Pouliční boje v Bachmutu](https://twitter.com/EuromaidanPress/status/1623121180394921985)
+          - [Další ruský útok, který nevyšel](https://twitter.com/PaulJawin/status/1623202312763088896)
+          - [Ukrajinský tank loví ruské jednotky](https://twitter.com/NOELreports/status/1623045811570442248)
+          - [A ještě jeden ukrajinský tank](https://twitter.com/Milan8662/status/1623032920343515168)
+          - [Požár továrny Edge Autonomy](https://twitter.com/andrewofpolesia/status/1622998879921704960)
+          - [Status Bachmutu](https://twitter.com/NOELreports/status/1623285659833184256)
+          - [Ukrajinské BTR a pěchota útočí na Rusy](https://twitter.com/Tendar/status/1623240134467493892)
+          - [Rusům něco hoří u Makijivky](https://twitter.com/NOELreports/status/1623016289072558080)
+          - [Dělostřelci](https://twitter.com/UkrainianNews24/status/1623029170644156417)
+          - [Šampion ve skoku dalekém](https://twitter.com/NOELreports/status/1623290443055173632)
+          - [M777 při práci](https://twitter.com/nevedimka123/status/1623205684081729538)
+          - [Další nepovedený ruský útok](https://twitter.com/herooftheday10/status/1623239177646092288)
+          - [A další ](https://twitter.com/Andrii_L1983/status/1623232109635637249)
+          - [Kupředu!](https://twitter.com/NOELreports/status/1623298110406393856)
+          - [Mínus ruské vozidlo pomocí GPS munice](https://twitter.com/Osinttechnical/status/1623130621798146049)
       - title: "Úterý"
         year: "7. února 2023"
         image: assets/img/timeline/2023-02-07.jpg
