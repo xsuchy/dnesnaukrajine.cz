@@ -35,6 +35,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "9. února 2023"
+        image: assets/img/timeline/2023-02-09.jpg
+        desc: "Elon Musk dnes definitivně rozsekl debaty o tom, jestli ruskou propagandu sdílí každou chvíli z čiré naivity a nevědomosti, nebo je v tom úmysl. Muskova společnost SpaceX oznámila, že zavede opatření, aby Ukrajina nemohla využívat terminály Starlink k ovládání a navádění svých bojových dronů. Podle zástupce společnosti je využívání datových služeb k ovládání bojových dronů v rozporu s jejich účelem. Rozhodnutí přichází ve chvíli, kdy analytici hlásí, že Rusko každým dnem spustí další velkou ofenzivu a bojové drony jsou pro Ukrajince jednou z účinných metod, jak se nové invazi bránit. De facto tak rozhodnutí firmy citelně ovlivní ukrajinskou schopnost invazi čelit a povede ke zbytečným ztrátám na životech. Není to přitom poprvé. Když Ukrajinci spustili svou protiofenzivu u Chersonu, terminály Starlink tehdy „náhodou“ přestali poskytovat připojení a Musk ohlásil, že je jeho firma dál nebude pomáhat financovat, jen aby svoje rozhodnutí pár dní nato odvolal. Tehdy se o jeho motivech spekulovalo. Nyní už získávají jasnější obrysy. Ale pojďme i na [další novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Fykmaq25gQSC2G4qgyFNZnX5dukXhtFtVFHf2oyhj3fgDugjpRFykZ5Xrmr2FvXxl):"
+        detail: |
+          - Rusko spustilo protiútok v Luhanské oblasti, zatím ho ale provází obří ztráty a jen marginální zisky. Ten skutečný útok má ale teprve přijít. Podle magazínu Foregin Policy s odkazem na zdroje v ukrajinské armádě se Rusku pro tento účel podařilo shromáždit dalších 1 800 tanků, 3 950 obrněných vozidel, 2 700 dělostřeleckých systémů, 810 raketometů, 400 letadel a 300 helikoptér. Rusové nejspíš budou chtít podniknout výpad dřív, než teploty stoupnou opět na nulu a půda se stane neprůjezdnou. Podle ukrajinského parlamentu je ale nyní téměř jisté, že nový útok nebude zahrnovat výpad z území Běloruska. Nejspíš bude omezený pouze na Donbas. 
+          - Britský premiér prohlásil, že co se týče vojenské pomoci Ukrajině, žádný typ techniky není vyloučený, a to včetně letadel. Ruská ambasáda v Londýně na to reagovala tak, že pokud Británie poskytne své letouny, ponese následky rozhodnutí nejen Británie, ale i celá Evropa a zbytek světa. Zeptám se opět: proč stále fungují ruské ambasády na Západě? 
+          - Prigožin informoval, že jeho soukromá armáda přestala rekrutovat vězně. Girkin na to reagoval na Telegramu slovy, že pokud je to pravda, pak je éra wagnerovců de facto u konce, protože nikdo jiný nenahradí personál Prigožinových „batalionů smrti“, které jediné dokázaly v posledních týdnech získat alespoň nějaké úspěchy. 
+          - Jeden z bývalých velitelů Kadyrovců Danijil Martynov hledaných Ukrajinou pro válečné zločiny spáchané v Kyjevské oblasti se objevil v Turecku. Podle ruských médií vede tamější ruskou misi na pomoc zemi zasažené sérií silných zemětřesení. 
+          - Člen skupiny Pink Floyd Roger Waters promluvil před valným shromážděním OSN na pozvání Ruska. Invazi označil za nelegální, ale zopakoval narativ ruské propagandy o „provokaci“ ze strany Západu. 
+          - Maďarský premiér Orbán slíbil, že poskytne Ukrajině další humanitární a finanční pomoc. Zároveň ale zopakoval, že Maďarsko podporuje okamžité příměří a mírová jednání. 
+          - Během včerejšího ruského útoku u Kreminny přišli Rusové o první (první zdokumentovaný) BMP-T Terminator. 
+          - 55 % Švýcarů se v průzkumu vyslovilo pro povolení dodávek zbraní a munice do oblastí konfliktů. 
+          - Rusko podle dostupných dat ztratilo během invaze až polovinu celé své tankové „flotily“. 
+          - Guvernér ruské Brjanské oblasti informoval, že ruská PVO sestřelila v noci 9 dronů. 
+          - Spotřeba vodky vrostla v Rusku v roce 2022 na 5,2 litrů na hlavu za rok.  
+        videa: |
+          - [Zničený Terminátor ](https://twitter.com/bayraktar_1love/status/1623653589234098176)
+          - [Další ruský útok zastavily miny](https://twitter.com/UAWeapons/status/1623428747310366721)
+          - [Výsledky ruského útoku na Vuhledar ](https://twitter.com/Tendar/status/1623647856190947328)
+          - [Boje v Bachmutu ](https://twitter.com/UkrainianNews24/status/1623562504763842560)
+          - [Jak dopadl první ruský protiútok u Kreminny](https://twitter.com/NOELreports/status/1623632957666729984)
+          - [Zelenský a Macron](https://twitter.com/EmmanuelMacron/status/1623478512651755522)
+          - [Zelenský a britský král ](https://twitter.com/nexta_tv/status/1623336690629677056)
+          - [Likvidace okupantů u Vuhledaru ](https://twitter.com/Militarylandnet/status/1623386771282075676)
+          - [Nacista Mangušev, když ještě žil ](https://twitter.com/nexta_tv/status/1623319472277790721)
+          - [Neschovali se ](https://twitter.com/666_mancer/status/1623316621057052672)
+          - [Mínus ruský Tor](https://twitter.com/EuromaidanPress/status/1623532641755492352)
+          - [Zasažený park v Charkově](https://twitter.com/nexta_tv/status/1623305863694897157)
+          - [Bývalý archivní ruský tank](https://twitter.com/EuromaidanPress/status/1623502442720825344)
+          - [Zákopy u Bachmutu ](https://twitter.com/666_mancer/status/1623617383997865984)
+          - [Přípravy u Záporoží ](https://twitter.com/wartranslated/status/1623456581361999872)
+          - [Pod palbou v zákopu](https://twitter.com/macergifford/status/1623346458844880896)
+          - [Ani tenhle útok nevyšel](https://twitter.com/NOELreports/status/1623591279442501632)
+          - [Ukrajinské samohybné houfnice ](https://twitter.com/666_mancer/status/1623640032211861506)
+          - [Další do fondu](https://twitter.com/DimonchikKh/status/1623597738418896898)
+          - [A další ](https://twitter.com/herooftheday10/status/1623608230780829700)
+          - [Konvoj s Leopardy v Německu ](https://twitter.com/TreasChest/status/1623461778439999488)
+          - [Úklid po útoku (citlivé!)](https://twitter.com/Andrii_L1983/status/1623383015266082818)
+          - [Vykuřování z děr ](https://twitter.com/Militarylandnet/status/1623423838510882819)
+          - [Ruský voják pochopil, že dál se nepůjde ](https://twitter.com/wartranslated/status/1623379114664009744)
+          - [Momenty lidskosti ](https://twitter.com/ostravanda_/status/1623635887081807872)
       - title: "Středa"
         year: "8. února 2023"
         image: assets/img/timeline/2023-02-08.jpg
