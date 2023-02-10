@@ -35,6 +35,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "10. února 2023"
+        image: assets/img/timeline/2023-02-10.jpg
+        desc: "Rusko je teroristický stát. A celou noc a ráno se staralo o to, aby to pochopil i ten poslední „jánechciválkualemír“ mezi námi. Na Ukrajinu vypálilo více než sedm desítek raket a desítky kamikadze dronů, opět primárně s cílem zničit energetickou infrastrukturu a terorizovat a demoralizovat tak civilní obyvatelstvo. Přesto, že ukrajinská PVO byla velmi aktivní a místy i stoprocentně úspěšná, Rusové nasytili vzduch tolika cíli, že nejméně deset raket zasáhlo své cíle v šesti oblastech, a po útoku byla řada velkých měst zcela bez elektřiny, tepla, vody nebo internetu. Sestřeleno bylo údajně 100 % všech dronů a 61 ze 71 raket, nicméně je třeba nezapomínat na to, že i sestřelené objekty a rakety vychýlené ze zamýšlené dráhy letu po dopadu působí škody a zabíjejí. Současný útok je navíc specifický tím, že nejméně jedna (spíše dvě) ruská raketa přeletěla přes Podněstří, tedy vzdušný prostor Moldavska, a potenciálně i přes cíp Rumunska. Ukrajinci tvrdí, že raketa do rumunského vzdušného prostoru na malou chvíli vletěla, Rumunsko říká, že raketa se pouze přiblížila na 30 km k rumunské hranici, nicméně i tak si Rumunsko předvolalo ruského velvyslance, aby incident vysvětlil. A Podněstřím budeme v dnešním přehledu rovnou pokračovat:"
+        detail: |
+          - V Moldavsku dnes podala demisi tamější premiérka i s celou vládou. Politická nestabilita je přitom to poslední, co teď Moldavsko potřebuje. Zelenský nedávno oznámil, že Ukrajina předala Moldavsku ukořistěné materiály od ruských tajných služeb, které měly obsahovat plán na politickou destabilizaci Moldavska v podobném duchu, jako to Rusové udělali s Ukrajinou. O statně obě země sdílely podobný osud už v minulosti. Také v Moldavsku Rusko uměle vyvolalo občanskou válkou, vyzbrojilo ruskou menšinu v Podněstří a následně vyslalo své „mírotvůrce“ neboli okupující jednotky, které region okupují dodnes a Moldavsko nad ním de facto nemá kontrolu. Detaily současného ruského plánu Zelenský veřejně nesdělil, ale Putin se v minulosti nijak netajil tím, že by chtěl Podněstří připojit skrz anektovaná území Ukrajiny k Rusku, proto se dá tušit, co bylo jejím ultimátním cílem. 
+          - Putin prohlásil, že Rusko žádnou válku nezačalo. Podle něj ji začali ukrajinští nacionalisté v roce 2014 a Rusko se ji nyní snaží ukončit. Pokud si ale myslíte, že tímto prohlášením Putin urval první příčku v soutěži o nejhloupější výrok, pak vězte, že majitel wagnerovců Prigožin na otázku CNN, proč jeho armáda přestala rekrutovat vězně, odpověděl, že po odvysílání náborové kampaně jim přišlo více než 10 miliónů přihlášek od uchazečů z USA, kteří se přejí bojovat proti NATO, z nichž milion je ve fázi zvažování, proto wagnerovci aktivní nábor zastavili. Rozumí někdo té paralelní realitě, ve které ruští představitelé žijí? 
+          - Prezident Mezinárodního olympijského výboru kritizoval Ukrajinu kvůli výzvám, aby státy bojkotovaly Olympiádu v případě účasti sportovců z Ruska a Běloruska. Podle prezidenta MOV ukrajinské výzvy porušují olympijskou chartu. Dobrá, ale v té samé chartě se také píše, že cílem OH je „vytvořit mírovou společnost“. Evidentně se dá tedy charta vykládat dost selektivně. 
+          - Podle deníku Washington post s odkazem na seniorního důstojníka ukrajinské armády Ukrajinci využívají k navádění raket ze systémů HIMARS přesné koordináty poskytnuté Spojenými státy. 
+          - Sociální síť TikTok podle agentury Bloomberg rozkryla rozsáhlou ruskou dezinformační síť, která skrze platformu šířila ruskou propagandu. 
+          - Speciální pluk Národní grady (SSO Azov) se vyvinul v celou brigádu a nyní aktivně rekrutuje další vojáky do svých řad pro útočné akce. 
+          - Blog Oryx včera zdokumentoval za jediný den neuvěřitelných 69 kusů zničené ruské techniky. Na straně Ukrajiny to byly čtyři kusy. 
+          - Ukrajinští vojáci se podle belgické ministryně obrany začali v zemi cvičit v ovládání podmořských dronů. 
+          - Ruský příjem do státní kasy z exportu zboží a služeb klesl meziročně téměř čtyřikrát. 
+          - Litva předá Ukrajině 36 protileteckých kanónů na boj s íránskými drony.
+          - Polsko uzavřelo hraniční přechod Bobrowniki na hranici s Běloruskem. 
+          - Švédsko poskytne Ukrajině bojová vozidla CV 90. 
+          - Ukrajina získala ostatky 61 padlých obránců.
+        videa: |
+          - [Status Bachmutu](https://twitter.com/wartranslated/status/1623828292099768322)
+          - [Reportáž z Marjinky](https://twitter.com/wartranslated/status/1623835318045507584)
+          - [Marjinka po deseti měsících „osvobozování“](https://twitter.com/Seveerity/status/1623955133410287616)
+          - [Boje u Kreminny](https://twitter.com/NOELreports/status/1623959834512052226)
+          - [Gruzínci pod dělostřeleckou palbou](https://twitter.com/WarMonitors/status/1623859939574788096)
+          - [Estonská premiérka o nutnosti válečného tribunálu ](https://twitter.com/kajakallas/status/1623643983254626305)
+          - [Další zničený Terminátor ](https://twitter.com/EuromaidanPress/status/1623866088667881473)
+          - [Ruská helikoptéra musela přistát, dorazilo ji dělostřelectvo ](https://twitter.com/EuromaidanPress/status/1623834380367003648)
+          - [Ukrajinci odhalili Rusy na ostrově u Chersonu](https://twitter.com/Tendar/status/1624043237915742209)
+          - [Mínus ruská téosmdesátka](https://twitter.com/Seveerity/status/1623960658638213120)
+          - [BMP objevilo minu](https://twitter.com/GloOouD/status/1623952956855881728)
+          - [Trofej ](https://twitter.com/MrBavovna/status/1623808886682664961)
+          - [Hádám… trefa?](https://twitter.com/Seveerity/status/1623724761565081601)
+          - [Burevij na českém podvozku od Tatry](https://twitter.com/praisethesteph/status/1623601496767045633)
+          - [Zajíček ve své jamce… doseděl](https://twitter.com/NOELreports/status/1623795599538626563)
+          - [Po ruském útoku u Bachmutu](https://twitter.com/herooftheday10/status/1624023266993094658)
+          - [Noční palba z minometu](https://twitter.com/UkrainianNews24/status/1623971482115112963)
+          - [Trefa!](https://twitter.com/666_mancer/status/1624038442400202752)
+          - [Absolutně žádné ohledy na vlastní padlé (citlivé!)](https://twitter.com/Milan8662/status/1623690103431303168)
+          - [Boje v ruinách měst](https://twitter.com/UkrainianNews24/status/1624029949957898243)
+          - [Po akci u Bachmutu](https://twitter.com/herooftheday10/status/1624003386344349696)
       - title: "Čtvrtek"
         year: "9. února 2023"
         image: assets/img/timeline/2023-02-09.jpg
