@@ -35,6 +35,57 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "11. února 2023"
+        image: assets/img/timeline/2023-02-11.jpg
+        desc: "Další rekord pokořen. Podle ukrajinského Generálního štábu ztratili Rusové během současných ofenzivních akcí 1 140 „turistů“ a desítky kusů těžké techniky. Je to výsledek zejména série neúspěšných pokusů o průlom u Vuhledaru a Torecku, ale také těžkých bojů na předměstích Bachmutu. Sever Bachmutu je tak pravděpodobně jediný směr, na kterém se Rusům daří alespoň mírně postupovat. Nyní ale zaznívají z ukrajinské armády názory, že Rusko nejspíš nemá zdroje na spuštění dříve avizované větší ofenzivy. Někteří jsou dokonce přesvědčeni, že tohle už je „ono“. Naprosté neschopnosti ruského velení si opět všímají i ruští vojenští blogeři a nyní společně volají po hlavě Rustama Muradova, velitele, který je údajně za absurdní výpady u Vuhledaru, které vedly k obřím ztrátám, zodpovědný. Za mě k tomu řeknu jen: ať se perou. Ideálně už jen mezi sebou. A teď pár [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02UBKxBAKvqNN1yofko76ShdK3wRSDbXhGAHNCzifhmwAq6kTvkGioMurS8AhScveCl):"
+        detail: |
+          - Polský ministr sportu a turismu navrhuje, aby se na Olympijských hrách utvořil tým uprchlíků, ve kterém by startovali také ruští a běloruští atleti, kteří se staví proti Lukašenkovu a Putinovu režimu. Návrh reaguje na některé kritické hlasy, které tvrdí, že případný zákaz startu atletů z obou zemí na OH by de facto znamenal diskriminaci na základě národnosti. Proti účasti ruských a běloruských atletů je údajně už 35 zemí převážně z Evropy včetně Británie, Francie, Německa nebo Spojených států. 
+          - V Buenos Aires zadržely úřady 18 těhotných Rusek a jejich partnerů. Ženy do země přicestovaly, aby zde porodily a jejich děti tak automaticky získaly argentinské občanství. Země tzv. „falešný turismus“ nepodporuje a všech osmnáct párů tak nejspíš bude vyhoštěno. 
+          - Pouze 17 z TOP 122 světových firem opravdu opustilo ruský trh. Část jich podniká kroky, aby trh mohly opustit, většina ale podle projektu Moral Rating svůj odchod sice avizovala, ale pouze předstírá, že tak činí.  
+          -  Ve Spojených státech proběhl soud s Ruskou Viktorií Nasyrovou, která se v roce 2016 pokusila zabít svou kosmetičku ukrajinského původu a následně ji ukrást identitu. Soud ji shledal vinnou z pokusu o vraždu. 
+          - Bílý dům rozptýlil některé spekulace ohledně schvalování dodávek zbraní Ukrajině, kdy informoval, že je jen na jednotlivých zemích NATO, zda Ukrajině techniku poskytnou a jakou, a to včetně letadel. 
+          - Podle mluvčího Národní gardy se od včerejška přihlásilo už více než 20 000 zájemců do nově vzniklých útočných brigád Útočné gardy. Nyní začne třídění přihlášek pro užší výběr a následný výcvik. 
+          - Rusové dnes v noci svrhli čtyři bomby z letadel na Hadí ostrov a protilodními raketami zasáhli pobřeží u Oděsy. Důvod bombardování ani zamýšlené cíle ukrajinské velení nekomentovalo. 
+          - Černá hora ukončila svůj program, v němž bylo cizincům poskytováno občanství výměnou za významné investice. V minulosti ho využívali primárně ruští oligarchové pro sebe a své děti. 
+          - Ukrajinská PVO v noci zlikvidovala nejméně 20 kamikadze dronů. Jeden dron ale přesto zasáhl energetickou infrastrukturu poničenou během předchozího raketového útoku. 
+          - V nedávném rozhovoru majitel wagnerovců Prigožin uvedl, že při současném tempu ruská armáda v Dnipru za tři roky. Od třídenní „speciální operace“ je to celkem skok. 
+          - Tři ukrajinské jaderné elektrárny musely snížit produkci elektřiny a jedna dokonce odstavit celý blok kvůli poslednímu ruskému útoku na energetickou soustavu. 
+          - Podle ukrajinského generálního štábu včera Rusové vypálili celkem 106 raket, podnikli 59 náletů a 90krát pálili na ukrajinské pozice z raketometů. 
+          - Britské ministerstvo obrany věří, že wagnerovci ukončili nábor vězňů kvůli trvajícím neshodám s velením ruské armády a rostoucí rivalitě. 
+          - Do Bachmutu dorazily další ukrajinské posily. Situace je nyní údajně stabilní, dokonce se spekuluje o tom, že „karta se obrací“.
+          - Švýcarsko vetovalo další, tentokrát španělský návrh, o poskytnutí protileteckých kanónů švýcarské výroby Ukrajině. 
+          - Švédská firma SAAB navýší produkci střel NLAW na 400 000 za rok z důvodu zvýšené světové poptávky. 
+          - Podle Rusů shromáždili Ukrajinci u Záporoží útočnou sílu o velikosti 20 000 vojáků. 
+          - Slovensko oznámilo, že je připraveno jednat o poskytnutí svých letounů MiG-29. 
+          - Ukrajinská vláda odvolala celkem šest ministerských náměstků. 
+          - Ukrajina otevřela nový hraniční přechod s Rumunskem. 
+        videa: |
+          - [Nová mechanizovaná brigáda](https://twitter.com/NOELreports/status/1624170782719893513)
+          - [Propagandisti brečí, že se jich Ukrajinci dost nebojí ](https://twitter.com/Gerashchenko_en/status/1624353047479738368)
+          - [Přesun](https://twitter.com/UkrainianNews24/status/1624116852363231248)
+          - [Nové ukrajinské formace](https://twitter.com/visegrad24/status/1624225901880700928)
+          - [Kulometná pozice po několika bitvách](https://twitter.com/golub/status/1624313527795056640)
+          - [Zákopy u Kliščijivky](https://twitter.com/wartranslated/status/1624088163512725516)
+          - [Ruská kolona přijela k zákazu vjezdu ](https://twitter.com/NOELreports/status/1624315973388861440)
+          - [I ona bojuje za svobodnou Evropu](https://twitter.com/UkrainianNews24/status/1624120432419905536)
+          - [U Dněpru za tři roky](https://twitter.com/nexta_tv/status/1624100225609609240)
+          - [M-m-m-m-m-multikill!](https://twitter.com/NOELreports/status/1624151984042389509)
+          - [Pevnost Bachmut](https://twitter.com/UkrainianNews24/status/1624116549660418048)
+          - [V Doněcku byla zasažen muniční sklad](https://twitter.com/EuromaidanPress/status/1624427934990626817)
+          - [Boje v zákopech](https://twitter.com/NOELreports/status/1624384544550932480)
+          - [Ze série „Vůdce kouká na věci“ ](https://twitter.com/nexta_tv/status/1624032436744081411)
+          - [Ukrajinské letectvo](https://twitter.com/UkrainianNews24/status/1624343096753266689)
+          - [Ruské vozidlo šlo na chuj](https://twitter.com/Seveerity/status/1624376075169021953)
+          - [Vykuřování děr](https://twitter.com/PaulJawin/status/1624087972009193479)
+          - [Přeměna ruské techniky na houby](https://twitter.com/bayraktar_1love/status/1624098659640958976)
+          - [Ukrajinské BMP čistí bachmutské předměstí ](https://twitter.com/NOELreports/status/1624308020447531010)
+          - [Rusové poškodili most do Besarábie námořním dronem](https://twitter.com/WarMonitors/status/1624153983722872847)
+          - [A už běží pryč!](https://twitter.com/NOELreports/status/1624310155801161729)
+          - [Údajně další sestřelený Su-25 u Bachmutu](https://twitter.com/666_mancer/status/1624438151635771392)
+          - [Vysazen](https://twitter.com/UkrainianNews24/status/1624117024946257938)
+          - [Masivní exploze v Melitopolu](https://twitter.com/NOELreports/status/1624132333568679942)
+          - [Běž, Foreste!!](https://twitter.com/PaulJawin/status/1624342735741149188)
       - title: "Pátek"
         year: "10. února 2023"
         image: assets/img/timeline/2023-02-10.jpg
