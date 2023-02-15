@@ -35,6 +35,52 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "15. února 2023"
+        image: assets/img/timeline/2023-02-15.jpg
+        desc: "Ramstein-9 je v plném proudu. Ve hře jsou další tanky od západních partnerů a snad se dostane i na moderní letouny. „Snad“ proto, že to Ukrajincům jednoduše dlužíme. Ano, skutečně si to myslím. Už zkraje války řekl generální tajemník NATO důležitou větu: Zatímco my nyní platíme za naše bezpečí penězi, Ukrajinci platí svými životy. Před rokem zvedli Ruskem hozenou rukavici a jasně řekli, že jsou ochotni bránit Evropu, i když při tom možná zaplatí tu nejvyšší cenu. A po nás chtěli jen několik věcí: Abychom vzali pod křídla jejich ženy, děti a seniory, abychom jim dali část svých prostředků k tomu se ubránit, a abychom je mezi sebe přijali, až bude po všem. Jen doufám, že na tu poslední věc Evropská unie a NATO po válce nezapomenou, a svoje dveře otevřou. Jinak by ty tisíce zmařených životů připadly vniveč. A teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02wgZZQwaWZv2tCYi1k4W9ugbikaka8HezqA6jwx6CuPxd8QRCKxuZXvDUwqAxHSM6l):"
+        detail: |
+          - Podle dostupných informací prezentovaných ISW byla ruská pozemní vojska dislokovaná na Kolském poloostrově poblíž Finska zredukovaná na pětinu své předválečné síly. Přitom právě tato brigáda měla být hlavním vyzyvatelem NATO v případném konfliktu. Údajně utrpěla brigáda ve válce na Ukrajině tak velké ztráty, že nyní prakticky není bojeschopná. 
+          - Prigožin přiznal, že wagnerovci nejsou výhledově schopni dobýt Bachmut. Ukrajinci podle zdrojů v armádě připravili ve městě systém obranných perimetrů a Prigožin nyní jejich slova potvrdil, když zmínil, že jeho vojáci by museli bojovat o každý jeden dům a podstupovat masivní ztráty. 
+          - Podle analytiků z ISW nyní začalo verbovat vězně samo ruské ministerstvo obrany. Chce údajně navázat na taktiku lidských vln, kterou v minulých týdnech používali wagnerovci. Jedinou taktiku, která Rusům nesla dílčí úspěchy, byť za cenu velkých ztrát. 
+          - „Pokusy izolovat Rusko selhaly,“ prohlásil Lavrov na konci své diplomatické tour po Eswatini, Mali, JAR, Eritrei, Súdánu, Mauritánii a Angole, sedmi zemích, z nichž ani třetinu nedokáže průměrný obyvatel planety najít na slepé mapě. 
+          - Rusové na svých kanálech varovali, že Ukrajinci záměrně nechávají na opuštěných pozicích upravené náboje. Jeden z vojáků je údajně nabil do své zbraně, kde při pokusu o palbu explodovaly, a on pak zranění podlehl. 
+          - Majitel wagnerovců Prigožin přiznal, že vytvořil a financoval jednu z ruských „trollích farem“. Podle vlastních slov nebyl pouhým investorem, ale celý projekt vymyslel, uvedl do pohybu a dohlížel na jeho aktivity. 
+          - Podle ukrajinské rozvědky se Rusové současnými útoky na Bachmut a okolí snaží oddálit ukrajinskou protiofenzivu. Spojené státy a evropští partneři naznačují, že ukrajinská protiofenziva začne ještě během jara. 
+          - Bývalý prezident IIHF René Fasel obdržel ruské občanství a také 54% podíl v ruské zemědělské firmě, ve které zbylých 46 % drží Putinův blízký spolupracovník a oligarcha Timčenko. 
+          - Irsko je další zemí, která ruší svůj program „zlatých víz“ pro imigranty-milionáře. Tentokrát ale ne kvůli Rusku. Největší zájem o ně byl prý v Číně. 
+          - NATO oznámilo, že v reakci na incident s Nord Streamem vytvoří speciální útvar, který bude mít na starost ochranu podmořské infrastruktury. 
+          - Česká republika redukuje stav své ambasády v Bělorusku. Velvyslanec se vrací do Prahy a jeho práci bude vykonávat dočasný atašé. 
+          - Podle pozorovatelů shromažďuje Rusko u hranic s Ukrajinou stíhačky a helikoptéry a může se pokusit přenést boje do vzduchu. 
+          - Ukrajinská armáda dokončila evakuaci Vuhledaru. Ve městě tak zůstává jen na tři stovky civilistů, kteří město odmítli opustit. 
+          - Rusové podle ukrajinského Generálního štábu vozí těla padlých vojáků na Krym, kde jejich ostatky pálí, aby zakryli obří ztráty. 
+          - Ukrajinci vytlačili Rusy 3 km daleko od obce Ivanivske a dálnice na jihozápadě Bachmutu. 
+          - NATO navýší počet vojáků v bojové pohotovosti z původních 40 000 na 300 000. 
+        videa: |
+          - [Honza u Bachmutu](https://twitter.com/HonzaUA/status/1625602455013654528)
+          - [Ruský zákop po ukrajinském útoku](https://twitter.com/herooftheday10/status/1625506976292651011)
+          - [Ukrajinci pijí čaj, zatímco Rusové nevědomky střílí proti vlastním](https://twitter.com/TFBaguette/status/1625552312373485569)
+          - [Americký dobrovolník to pěkně shrnul](https://twitter.com/visegrad24/status/1625650416951099393)
+          - [Dron s termovizí překazil ruské průzkumné akce](https://twitter.com/NOELreports/status/1625525187939639298)
+          - [Rusové při útěku zapomněli dělo i dva členy týmu](https://twitter.com/Seveerity/status/1625585145116778504)
+          - [Útok na ruskou pozici nejspíš pomocí Meteoritu](https://twitter.com/herooftheday10/status/1625843303953334272)
+          - [Ukrajinské Humvees](https://twitter.com/TreasChest/status/1625602553298751488)
+          - [Dron sleduje další marný pokus Rusů o útok](https://twitter.com/PaulJawin/status/1625794186124337153)
+          - [Morálka drží ](https://twitter.com/NOELreports/status/1625766003002015745)
+          - [Dron přiletěl dodělat práci](https://twitter.com/SerDer_Daniels/status/1625776475818405888)
+          - [Mobíci a jejich motivace](https://twitter.com/dedzaebal/status/1625599909138161667)
+          - [Putinjugend](https://twitter.com/andrewofpolesia/status/1625799828109246464)
+          - [Další požár v Moskvě](https://twitter.com/igorsushko/status/1625713260468240385)
+          - [Videa z bojů o Soledar](https://twitter.com/NOELreports/status/1625599510821969920)
+          - [Ruský TOS-1 šel na chuj](https://twitter.com/nexta_tv/status/1625747676871499777)
+          - [Ruské BMP povýšené na táborák](https://twitter.com/NOELreports/status/1625772137238695936)
+          - [granátomet jako improvizovaný minomet](https://twitter.com/EuromaidanPress/status/1625681299641106433)
+          - [Tenhle ruský Fencer se do boje hned tak nevrátí ](https://twitter.com/UAWeapons/status/1625582475924627462)
+          - [Gruzínci v Bachmutu ](https://twitter.com/visionergeo/status/1625453777779056641)
+          - [Mobíkovi řekli, že bude sloužit na lodi, která ale neexistuje](https://twitter.com/NOELreports/status/1625821684975509505)
+          - [Tady jsou užiteční ](https://twitter.com/PStyle0ne1/status/1625215645355843585)
+          - [Trefa!](https://twitter.com/worldonalert/status/1625530247062994954)
+          - [Bývalé ruské zákopy (citlivé!)](https://twitter.com/Peter79233966/status/1625505461779791873)
       - title: "Úterý"
         year: "14. února 2023"
         image: assets/img/timeline/2023-02-14.jpg
