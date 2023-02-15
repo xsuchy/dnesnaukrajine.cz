@@ -35,6 +35,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "14. února 2023"
+        image: assets/img/timeline/2023-02-14.jpg
+        desc: "Dnešním dnem začal platit zákaz vstupu do Bachmutu pro civilisty a novináře ohlášený o víkendu ukrajinskou armádou. Nesmí sem ani civilní dobrovolníci z humanitárních organizací. Bezprostředně totiž hrozí boje přímo v ulicích města a ukrajinské velení chce minimalizovat riziko pro nevojenský personál. Analytici spekulují, že Ukrajinci připravují podmínky pro opuštění města, nicméně vojáci ve městě zatím zůstávají a rozkaz k ústupu doposud nepřišel. Spíše se bude opakovat situace z Lysyčansku a Severodoněcku, kde Ukrajinci vlákali Rusy do města do předem připravených „killzones“, aby jim zasadili co největší ztráty před tím, než bude situace neúnosná. Ostatně i sami Rusové na svých kanálech mluví o Bachmutu jako o „pevnosti“, proto v minulých týdnech dávali přednost snaze město obklíčit a odříznout od zásob namísto frontálního útoku. Situace je tedy nepříznivá, ne-li kritická, ale zdá se, že ukrajinská armáda ji přesto kontroluje. Další týdny ukážou. A teď ostatní [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02ejTDQXTKPFnUTFkRPi5Xwu8nzvBkv3Y9sWRS7jg4w3NeaW2Q5gf1jH9v9pjzRxLQl):"
+        detail: |
+          - Dvě nizozemské stíhačky F-35 a německé Eurofightery musely startovat naproti ruskému průzkumnému letadlu Il-20 a dvěma stíhačkám Su-27, které po startu z Kaliningradu letěly bez zapnutého odpovídače směrem do polského vzdušného prostoru, a eskortovat je pryč. 
+          - Ruský letecký inženýr, který v minulosti pracoval na ruských bombardérech Tu-160 uprchl z Ruska a požádal o azyl v USA. Nabízí Spojeným státům detaily o ruském leteckém programu výměnou za politickou ochranu. 
+          - Moldavsko uzavřelo letecký prostor. Podle moldavských médií informovala vláda o potenciálním bezpečnostním ohrožení poté, co do vzdušného prostoru vletěly dva neidentifikované drony. 
+          - V naprosto nepochopitelném kroku odjel maďarský ministr zahraničí Szijjártó na setkání do běloruského Minsku, kde údajně hodlá jednat o mírových řešeních pro Ukrajinu. Ostuda! 
+          - Ruský generálmajor Vladimir Makorov, který pracoval jako náměstek federálního úřadu pro boj s extremismem, se zastřelil. Zřejmě měl kancelář v přízemí, nebo se zasekla okna. 
+          - Ukrajinci poblíž Bachmutu sestřelili ruský Fencer (Su-24) provozovaný wagnerovci. Jde o stejné letadlo, v jakém se nedávno natočil Prigožin. Na palubě ale nebyl. 
+          - Spojené státy informovaly Ukrajinu, že nemají žádné rakety ATACAMS, které by mohly Ukrajině poskytnout, aniž by kompromitovaly vlastní obranyschopnost. 
+          - Podle místních explodovalo v Nové Kachovce auto se čtyřmi Rusy. Dva na místě zemřeli, další dva jsou těžce ranění. Nejspíš jde o tamější kolaboranty. 
+          - Podle norské rozvědky nyní ruská Severská flotila nese střely s nukleárními hlavicemi. Vůbec poprvé za posledních 30 let. 
+          - Německo oznámilo, že spouští vlastní výrobu munice pro systémy Gepard. Dosud munici dodávalo Švýcarsko. 
+          - Podle Serhije Hajdaje očekává ukrajinská armáda velký ruský útok z Luhanska v nejbližších dnech. 
+          - V gruzínském Batumi explodovala na pláži vyplavená námořní mina. Naštěstí nebyl nikdo zraněn. 
+          - Putin se začal po Rusku dopravovat namísto letadlem svým osobním pancéřovaným vlakem. 
+          - Až 30 % všech hospitalizovaných ruských vojáků v Horlivce údajně trpí na omrzliny. 
+          - Rusové začali v Doněcké oblasti blokovat veškeré služby Google. 
+          - Začíná v pořadí devátý summit formátu Ramstein. 
+        videa: |
+          - [Neuvěřitelný skill ukrajinských pilotů ](https://twitter.com/Seveerity/status/1625220686368088072)
+          - [Ukrajinský tank versus Rusové u Marjinky](https://twitter.com/herooftheday10/status/1625472882108248064)
+          - [V ruské Kazani už zase hoří ](https://twitter.com/nexta_tv/status/1625451132188229638)
+          - [Nový ukrajinský dron ](https://twitter.com/UkrainianNews24/status/1625475093097852929)
+          - [Video z výsadku ukrajinských speciálů na Hadí ostrov ](https://twitter.com/WarMonitors/status/1625239706727329792)
+          - [Ruský tank dotankoval](https://twitter.com/TankDiary/status/1625098173126434818)
+          - [Demobilizace pomocí minometu ](https://twitter.com/NOELreports/status/1625239206032207876)
+          - [Ukrajinci cvičí s tanky Leopard 2](https://twitter.com/nexta_tv/status/1625131183527849990)
+          - [Noční přepad](https://twitter.com/UkrainianNews24/status/1625134825253310464)
+          - [Vzkaz od Gruzínců](https://twitter.com/georgian_legion/status/1625211056833368067)
+          - [Prapor Ajdar u Bachmutu ](https://twitter.com/NOELreports/status/1625154385528426500)
+          - [V Moskvě už zase hoří ](https://twitter.com/NOELreports/status/1625252574629621780)
+          - [Ruská kolona dokolonovala](https://twitter.com/herooftheday10/status/1625267621561073664)
+          - [Zajatý Ukrajinec ](https://twitter.com/666_mancer/status/1625380339437780994)
+          - [Kupředu!](https://twitter.com/UkrainianNews24/status/1625252983167496193)
+          - [Na mobíky dopadla realita](https://twitter.com/wartranslated/status/1625174991703531520)
+          - [Trefa!](https://twitter.com/herooftheday10/status/1625444284324347904)
       - title: "Pondělí"
         year: "13. února 2023"
         image: assets/img/timeline/2023-02-13.jpg
