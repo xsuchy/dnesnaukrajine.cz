@@ -35,6 +35,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "16. února 2023"
+        image: assets/img/timeline/2023-02-16.jpg
+        desc: "Další z mobilizovaných mužů v Moskvě si vzal život. Nesouhlasil s odjezdem na Ukrajinu, za což si vysloužil v jednotce posměch a šikanu. V dopise na rozloučenou napsal, že „nehodlá sloužit lidem, kteří v člověku vzbuzují jen strach a znechucení“ a že „raději umře doma v Rusku, bez cizí krve na svých rukou“. Má můj ohromný respekt. Evidentně to byl člověk vysoce morální. Je tragédií, že musel zaplatit takovou cenu kvůli své fašistické vládě a jejím stupidním ambicím. Bohužel, současné Rusko žádnou jinou perspektivu takovým lidem nenabízí. A obávám se, že ani výsledek současné války změnu nepřinese. A teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02gHzHBmmaqrLn4eJ4GDoWddbz1iriKVW4sEc1CzCgtVrmoiFHxTKFCky3kUVdusAbl):"
+        detail: |
+          - Rusko v noci zaútočilo na Ukrajinu pomocí nejméně 32 raket ve dvou vlnách. 16 jich sestřelila protivzdušná obrana. Cílem raket byly opět elektrárny a další objekty energetické soustavy Ukrajiny. Zasaženy byly cíle ve Lvovské oblasti u Ivano-Frankivsku, v Poltavě, Kirovohradu nebo Dnipropetrovsku. Ukrajinská společnost Ukrenergo ale hlásí, že útoky nevedly ke snížení dodávek elektřiny a neměly by se objevit blackouty. 
+          - Prigožin věří, že by ruské síly mohly obklíčit Bachmut na přelomu března a dubna. Podle něj ale můžou situaci změnit západní dodávky zbraní, a i kdyby k obklíčení došlo, zdaleka by to podle něj neznamenalo dobytí samotného města. Zelenský označil Bachmut za živoucí pevnost, která umožňuje Ukrajině v klidu připravovat vlastní ofenzivu. 
+          - Studenti v ruském Volgodonsku napsali vojákům dopisy na frontu na školou předem připravený hlavičkový papír. Součástí šablony je také černobílý portrét vojáka. A jako vždy to má drobný háček. Na černobílé fotografii je zachycený voják SS během bitvy v Ardenách. 
+          - Ukrajinci tvrdí, že až 4 000 ruských vojáků projevilo zájem o „online kurzy“ Ateš vytvořené ukrajinskými partyzány, které Rusy učí, jak sabotovat vlastní vozidla a těžkou techniku a díky tomu si přesto vydělat slíbenou ruskou výplatu, ale navíc přežít. 
+          - Ukrajinská protivzdušná obrana sestřelila šest ruských průzkumných balónů nad Kyjevskou oblastí. Nesly radarové reflektory a zřejmě měly za cíl zmást protivzdušnou obranu během raketového útoku. 
+          - Švýcarsko zkonfiskuje majetek v hodnotě 140 miliónů dolarů patřící lidem napojeným na někdejšího prezidenta Ukrajiny Janukoviče. Zabavené prostředky plánuje převést Ukrajině. 
+          - Další defenestrace? V Petrohradu záhadně vypadla z okna šéfka finančního úřadu Ministerstva obrany Marina Jankina. 
+          - Podle ukrajinského ministerstva obrany jsou ztráty některých útočných formací wagnerovců u Bachmutu až 80%. 
+          - Údajně dvacet plných nákladních aut s raněnými ruskými vojáky dorazilo včera do okupovaného Starobilsku. 
+          - Česko je druhým největším poskytovatelem tanků Ukrajině, hned za sousedním Polskem. 
+          - V Bělorusku začal zinscenovaný soud s novinářem Ramanem Pratasevičem. 
+          - Izraelský ministr zahraničí Eli Cohen je v Kyjevě na oficiální návštěvě. 
+          - Nizozemsko poskytne Ukrajině 20 000 granátů pro tanky Leopard 2. 
+          - Sevastopol byl dnes údajně pod útokem ukrajinských dronů. 
+          - Putin 21. února promluví k Federálnímu shromáždění. 
+        videa: |
+          - [Boje u Bachmutu](https://twitter.com/NOELreports/status/1625959635755696128)
+          - [Kráter po ruském útoku na Pavlohrad](https://twitter.com/nexta_tv/status/1626165056369983488)
+          - [Hole-in-one](https://twitter.com/EuromaidanPress/status/1626043435995041792)
+          - [Ruský tankista se protahuje u svého zničeného stroje](https://twitter.com/PaulJawin/status/1625846145942491136)
+          - [Javelin v Bachmutu](https://twitter.com/herooftheday10/status/1625988954318155778)
+          - [Útok na ruské zákopy](https://twitter.com/EuromaidanPress/status/1625865502156369920)
+          - [Výbava wagnerovců](https://twitter.com/PaulJawin/status/1626176697702797313)
+          - [HIMARS tvoří dopravní zácpu](https://twitter.com/NOELreports/status/1626005010562617344)
+          - [Boje u Bachmutu ](https://twitter.com/666_mancer/status/1625956750888210432)
+          - [Trefa!](https://twitter.com/PaulJawin/status/1626153766759137280)
+          - [Dron nedává Rusům vydechnout](https://twitter.com/nevedimka123/status/1625949183633985581)
+          - [Ruští zajatci](https://twitter.com/NOELreports/status/1625913943846752256)
+          - [Protitankovou střelu… zničil tank](https://twitter.com/PaulJawin/status/1626126577334468608)
+          - [Evakuace raněných ](https://twitter.com/666_mancer/status/1625957144158691328)
+          - [Rychlý přepad](https://twitter.com/UkrainianNews24/status/1626165627961458689)
+          - [Ukrajinské BMP vyhání Rusy z domku](https://twitter.com/StaVlb/status/1626155078888325121)
+          - [Bachmut](https://twitter.com/herooftheday10/status/1626186571375411202)
+          - [Ničení ruské rušičky](https://twitter.com/nevedimka123/status/1625937274117537793)
+          - [Bývalé ruské zákopy (citlivé!)](https://twitter.com/Milan8662/status/1625809119939534848)
       - title: "Středa"
         year: "15. února 2023"
         image: assets/img/timeline/2023-02-15.jpg
