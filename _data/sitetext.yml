@@ -35,6 +35,55 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "17. února 2023"
+        image: assets/img/timeline/2023-02-17.jpg
+        desc: "V jednom z nejlegračnějších pokusů o vykreslení Ukrajiny jako nacistického státu informovalo ruské ministerstvo zahraničí o tom, že Zelenský ocenil čestným jménem 10. samostatnou horskou útočnou brigádu „Edelvejs“. Že prý je pojmenována po 1. horské divizi druhoválečného Wehrmachtu Edelweiss. A legrační je to hned ve třech rovinách. Ta první je, že „edelvejs“ není překlad z němčiny, jak by se mohlo zdát, ale ta rostlina se tak skutečně v ukrajinštině – a dokonce i v ruštině – jmenuje. Druhá je, že „edelvejs“ neboli plesnivec alpský, je po staletí tradičním symbolem horských jednotek napříč Evropou a dodnes se objevuje ve znaku nejen ozbrojených složek celé řady států, ale i států samotných, protože roste všude ve výškách nad 1800 metrů nad mořem od Alp až po Karpaty. Ale vůbec nejvtipnější je třetí rovina. Bezprostředně po komentáři ruského ministerstva zahraničí se ruští editoři pokusili smazat článek na ruské mutaci Wikipedie. Jaký článek, ptáte se? Ten, věnovaný ruskému Oddílu speciálního určení Národní gardy s názvem… ano, hádáte správně… „Edelvejs“. Mimochodem, když jsme u toho, tušíte, proč se „wagnerovci“ jmenují právě po známém skladateli? Samozřejmě, že i tentokrát tušíte správně! A teď pár [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0bu6Q4SPy8wEXWewAZAbkhMa7jzNFGTwe5kn1ZCWTi9MY9s5Ph35BzKnNGqjzhCBAl):"
+        detail: |
+          - Lukašenko přiletěl na jednání do Moskvy. Očekává se, že se Putin bude opět snažit zatáhnout Bělorusko do války. Lukašenko nicméně nedávno oznámil, že Bělorusko vstoupí do války jedině tehdy, pokud by ukrajinští vojáci přenesli boj přes běloruské hranice. 
+          - Vladislav Surkov, Putinův poradce a jeden z „architektů“ války na Donbasu, prozradil, že Minské dohody byly schválně navrženy tak, aby je nebylo možné dodržet. Putin přitom uvádí porušování Minských dohod jako jeden z hlavních důvodů pro loňskou invazi. 
+          - Americká ministryně vnitra Victoria Nuland uvedla, že Spojené státy podporují Ukrajinu v zasažení cílů na okupovaném Krymu. Podle ní nebude Ukrajina v bezpečí, dokud nedojde alespoň k demilitarizaci Krymu. 
+          - Podle ISW není realistické, že by ruské síly dobyly Bachmut na výročí invaze, jak si nejspíš předsevzaly. Vyžadovalo by to prý mnohem rychlejší postup, než jaký Rusko poslední měsíce předvádí. 
+          - Wagnerovci si postěžovali, že nemají dostatek dělostřelecké munice a ruská armáda jim odmítá palebnou podporu. Zřejmě důsledek vnitřního boje mezi regulérní armádou a Prigožinem. 
+          - Podle odhadů Bloomberg Economics způsobí válka na Ukrajině výpadky v ruském rozpočtu ve výši 190 miliard dolarů jen v příštích třech letech. 
+          - Slovenský parlament označil Rusko za stát podporující terorismus a současný ruský režim za teroristický. Výborně. Na co čekáme my? 
+          - Čínský prezident oznámil, že na výročí ruské invaze přednese světu svůj mírový projev. Všichni jsme na něj děsně zvědaví. 
+          - České zbrojní firmy vyrobí další mobilní protivzdušné systémy pro Ukrajinu. Financovat by je mělo Nizozemsko. 
+          - Podle magazínu The Times ztrácí nyní ruská armáda okolo dvou tisíc vojáků na každých sto dobytých metrech. 
+          - Lotyšsko nově umožnilo, aby byla vozidla zabavená řidičům za jízdu v opilosti poskytnuta ukrajinské armádě. 
+          - Nová moldavská vláda oznámila, že přístupové rozhovory do EU jsou nyní jednou z jejích hlavních priorit. 
+          - Rusko přišlo o 71 kusů těžké techniky během pouhého týdne při pokusech o průlom u Vuhledaru. 
+          - Podle Podoljaka plánuje Rusko na výročí invaze raketový útok ve třech velkých vlnách. 
+          - Skupina G7 připravuje na výročí ruské invaze obří balík protiruských sankcí. 
+          - Proběhla další výměna zajatců ve formátu 101 za 101.
+        videa: |
+          - [Ukrajinský voják zastavil útok a poslal dva wagnerovce na chuj](https://twitter.com/rammstein_fella/status/1626492555993964544)
+          - [Ruské tanky se seznamují s rasputicí ](https://twitter.com/SmartUACat/status/1626242847644041217)
+          - [V Rusku už zase hoří ](https://twitter.com/nexta_tv/status/1626457032113938433)
+          - [Ruské ztráty v HD](https://twitter.com/EuromaidanPress/status/1626416394052026369)
+          - [Ukrajinský MaxxPro přežil dvě RPG](https://twitter.com/PaulJawin/status/1626522261946507266)
+          - [Moment skonu Petea Reeda](https://twitter.com/nexta_tv/status/1626295044004012033)
+          - [Ukrajinec, kterého využila ruská propaganda, prozradil, kde vzal znak ISIS](https://twitter.com/StratcomCentre/status/1626520751523127296)
+          - [Sto za sto ](https://twitter.com/nexta_tv/status/1626255334812618755)
+          - [Australani učí Ukrajince ](https://twitter.com/EuromaidanPress/status/1626238576034738176)
+          - [Odtahová služba](https://twitter.com/operativno_ZSU/status/1626464705983266816)
+          - [Trefy u Bachmutu ](https://twitter.com/PaulJawin/status/1626553599382765568)
+          - [Pion u Bachmutu](https://twitter.com/NOELreports/status/1626334904588853254)
+          - [M-m-m-monster kill](https://twitter.com/Azovsouth/status/1626479267214139395)
+          - [Trefa!](https://twitter.com/PaulJawin/status/1626552292458520579)
+          - [Wagnerovci si stěžují na nedostatek munice](https://twitter.com/NOELreports/status/1626303348717629441)
+          - [Další zajatci ](https://twitter.com/dtcdonetskua/status/1626518245950857216)
+          - [A další ](https://twitter.com/herooftheday10/status/1626504050068934656)
+          - [Ukrajinský tank brání Rusům v ústupu](https://twitter.com/PaulJawin/status/1626512546910900232)
+          - [Když se podruhé narodíš ](https://twitter.com/small10space/status/1626230148248002561)
+          - [Ajdar na bývalých ruských pozicích](https://twitter.com/NOELreports/status/1626267422834540544)
+          - [Ruský zákop](https://twitter.com/PaulJawin/status/1626506337109655552)
+          - [Párty musí být ](https://twitter.com/nevedimka123/status/1626305984703483908)
+          - [Pozdravy od Bachmutu ](https://twitter.com/NOELreports/status/1626231557412511745)
+          - [Tenhle už nežije ](https://twitter.com/666_mancer/status/1626512803119960064)
+          - [Obránci Avdijivky](https://twitter.com/SomeGumul/status/1626344525617590274)
+          - [Pohled z helikoptéry](https://twitter.com/nevedimka123/status/1626208515919429632)
+          - [Demobilizace (citlivé)](https://twitter.com/NOELreports/status/1626556395490361346)
       - title: "Čtvrtek"
         year: "16. února 2023"
         image: assets/img/timeline/2023-02-16.jpg
