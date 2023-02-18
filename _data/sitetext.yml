@@ -35,6 +35,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "18. února 2023"
+        image: assets/img/timeline/2023-02-18.jpg
+        desc: "Nedávno jsem v jednom podcastu zmínil, že když vidím videa z výcviku západních armád, nemám pocit, že se připravují na skutečný střet dvou armád, ale spíše na protiteroristické operace. A teď podobný názor vyslovil jeden z lídrů samozvané DLR Alexandr Chodakovskij. Na svém Telegramu napsal, že se v armádě vojáci cvičí v obsazování budov, pohybu po koridorech a útoku do areálů v městské zástavbě, ale skutečné válka takhle nefunguje, protože aby mohlo na takové manévry dojít, musí se armáda nejdřív k budovám vůbec dostat. Podle něj ukázali už obránci Mariupolu, že dobře vycvičené jednotky o velikosti čety dokáží v městské zástavbě zastavit celý prapor. Rusko pak prý v Mariupolu muselo přejít k jediné taktice, která jde v takové situaci použít: srovnat všechny budovy a potenciální úkryty se zemí. A podle Chodakovského je to také jediná šance, jak by Rusové mohli dobýt Vuhledar, jinak budou jen dál kupit ztráty. Bohudík (a zároveň bohužel) se nejspíš nemýlí. Ale teď pár [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0325txiV4tcV4oaiLh5eHdyazERBpEBViZ5kg1L4SKM58nr7CEzoeqRM7WSEm61mpdl):"
+        detail: |
+          - Britové, Američané ani Ukrajinci zatím nevidí důkazy o tom, že by Rusko chystalo jakoukoliv velkou pozemní ofenzivu. Nedochází totiž ke shromažďování sil u hranic, navzdory některým falešný zprávám z minulého týdne, které mluvily o 10 000 vojácích a polních nemocnicích u hranic se Sumskou oblastí. Vypadá to tedy, že současné útoky na doněcké, luhanské a charkovské frontě, už jsou to „ono“, před čím všichni varovali. To ale neznamená, že Rusko už nemá další vojáky a techniku, které můžu na Ukrajinu vrhnout. Stále cvičí mobilizované muže na území Ruska a stále má početnou armádu v Bělorusku. Pouze to znamená, že ať s nimi má v plánu cokoliv, nestane se to ani příští, ani další týden a možná do začátku jara. Stoupá tak šance, že ve chvíli, kdy by Rusko chtělo podniknout další velký útok, stály by už naproti němu připravené západní tanky a bojová vozidla. 
+          - Putin povýšil Rustama Muradova do hodnosti generálplukovníka, a to pouze týden poté, co Muradov prakticky poslal na smrt celé dvě brigády v zoufalém pokusu o průlom u Vuhledaru. Víc než cokoliv jiného nám to říká, že Putin nemá žádné ponětí o tom, co se na bojišti ve skutečnosti děje. Může ale také jít o gesto vůči wagnerovcům, kteří po zpackané ofenzivě volali po Muradově hlavě, mocenskou hru, která má Prigožinovi ukázat, kdo je v Rusku pánem. 
+          - Podle stanice BBC, která se snaží z otevřených zdrojů shromažďovat informace o potvrzených úmrtích mezi členy ruské armády, byl denní přírůstek vojáků zabitých v akci v minulých dvou týdnech pětkrát vyšší, než jaký byl průměrný přírůstek od začátku invaze. Britská rozvědka také poprvé přišla s konkrétními čísly. Odhaduje celkové ztráty Rusů až na 200 000 vojáků, z čehož 40-60 000 bylo podle nich zabitých. 
+          - Polsko se nehodlá jen tak zbavit svých F-16, nicméně oznámilo, že je připraveno poskytnout Ukrajině své stíhačky MiG-29, a pokud by se vytvořila mezinárodní koalice, pak potenciálně i letouny F-16. Spojené státy by vznik takové koalice přivítaly. 
+          - Rusko vypálilo na Ukrajinu 4 rakety Kalibr z Černého moře. 2 zničila protivzdušná obrana, jedna dopadla na rezidenční čtvrť ve Chmelnickém, poslední nejspíš některý objekt energetické soustavy. 
+          - Britský premiér veřejně potvrdil, že Británie bude první zemí, která poskytne Ukrajině zbraně s dlouhým doletem. Nejspíš půjde o rakety Storm Shadow. 
+          - Americké ministerstvo financí prošetřuje některé aktivity Raiffeisen Bank související s jejím působením v Rusku. 
+          - Rusové přišli o další nejmodernější tank T-90M Proryv. Podala si ho střela Javelin ze vzdálenosti 1,5 kilometru. 
+          - Podle americké rozvědky čítají ztráty samotných wagnerovců nejméně 30 000 mrtvých a raněných. 
+          - Francie plánuje předat Ukrajině 25 bojových vozidel AMX-10P dříve vyřazených ze služby. 
+          - 630 ukrajinských vojáků dokončilo výcvik s vozidly Bradley.
+        videa: |
+          - [Celé video s ukrajinským Rambem ](https://twitter.com/EuromaidanPress/status/1626763933594931202)
+          - [Ukrajinec s RPG zničil nablízko ruské BMP](https://twitter.com/UAWeapons/status/1626625310903894030)
+          - [Wagnerovcům jedou posily](https://twitter.com/EuromaidanPress/status/1626873894488473603)
+          - [Snajpr při práci](https://twitter.com/PaulJawin/status/1626960835456237568)
+          - [Mobíci už si zase stěžují ](https://twitter.com/wartranslated/status/1626870604258328577)
+          - [Výroba munice pro Ukrajinu](https://twitter.com/nexta_tv/status/1626951565272645632)
+          - [Práce dronu v HD](https://twitter.com/PaulJawin/status/1626958409982435330)
+          - [Ukrajinské helikoptéry a jejich letová hladina](https://twitter.com/EuromaidanPress/status/1626718635002826753)
+          - [V ruské Ufě zase hoří ](https://twitter.com/nexta_tv/status/1626846854674542592)
+          - [Mínus dva ruské tanky](https://twitter.com/PaulJawin/status/1626851116460740608)
+          - [M113 na frontě ](https://twitter.com/NOELreports/status/1626846641989775362)
+          - [Drony versus Rusové na přehradě v Nové Kachovce ](https://twitter.com/666_mancer/status/1626908617013186567)
+          - [Snajpr s termovizí ](https://twitter.com/PaulJawin/status/1626837374666694656)
+          - [Kupředu!](https://twitter.com/UkrainianNews24/status/1626903476021108740)
+          - [Cestou necestou bahýnkem](https://twitter.com/UkrainianNews24/status/1626512695699640320)
+          - [Boje v lesích u Kreminny](https://twitter.com/PaulJawin/status/1626827382391799808)
+          - [Ukrajinci něco zničili Rusům v Čaplynce ](https://twitter.com/NOELreports/status/1626721022404861953)
+          - [Tým s automatickým granátometem](https://twitter.com/nevedimka123/status/1626854607434485761)
+          - [Noční decimace wagnerovců ](https://twitter.com/PaulJawin/status/1626623148601876481)
+          - [Masomlýnek Bachmut (citlivé)](https://twitter.com/bigSAC10/status/1626569062603005956)
       - title: "Pátek"
         year: "17. února 2023"
         image: assets/img/timeline/2023-02-17.jpg
