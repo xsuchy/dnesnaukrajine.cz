@@ -35,6 +35,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "19. února 2023"
+        image: assets/img/timeline/2023-02-19.jpg
+        desc: "Posledních 24 hodin bylo údajně klidnějších než minulé týdny, a to zejména v okolí Bachmutu. Důvodů je pravděpodobně vícero. Jednak se Ukrajincům podařilo vytlačit vyčerpané ruské jednotky a wagnerovce z některých dříve dobytých pozic na jihu a východě města, ale především museli Rusové podle ukrajinských zdrojů stáhnout od Bachmutu jednu celou dělostřeleckou baterii z důvodu velkých ztrát. Útočící Rusové tedy bez palebné podpory nedokázali podnikat žádné větší výpady, čehož Ukrajinci okamžitě využili. Pozitivní vývoj je také jižně od Vuhledaru. Navíc se stupňuje napětí mezi Prigožinem a ruskou vládou a je možné, že wagnerovci svoje útoky utlumili v rámci jakési vyděračné taktiky. Ať už je zatím cokoliv, obráncům situace nahrává. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0t73BWdktjgYxurofEmQFXoKstyjEUfYZRe7P9PZMXmXCS8Y2gSXuNp7sW61Zc92l) a politických souvislostí:"
+        detail: |
+          - Frontman německé kapely Scorpions Klaus Meine se vyjádřil k tématu kolektivní viny. Sám se narodil v roce 1948, kdy každý Němec stále v sobě nosil pocit viny z vypuknutí druhé světové války a nástupu fašismu. Prý to, že Němci svoji vinu uznali a přijali za vše zodpovědnost, umožnilo vznik moderního demokratického Německa. Proto věří, že je nutné, aby Rusové pochopili, že za to, co se nyní děje na Ukrajině, nese každý z nich část viny, a využili to k podobné sebereflexi. 
+          - Jeden ze zajatých wagnerovců na kameru vypověděl, že jim Prigožin lhal o tom, co budou na Ukrajině dělat. Vysloveně jim prý bylo slíbeno, že je nikdo nepošle na šturm ukrajinských pozic, přesto je jejich role primárně právě to. Podle stejného zajatce padlo v jednom směru (u Bilohorivky) až 2 500 vězňů, aniž by se jim podařil jakýkoliv průlom. 
+          - Ruská Státní duma pozvala zástupce Ruskem okupovaných regionů v Gruzii a Moldavsku na příští zasedání. Bývalý prezidentský poradce Arestovyč se obává, že by Putin mohl eskalovat situaci a anektovat zmíněná území, aby kompenzoval svou neschopnost dosáhnout na vytyčené cíle na Ukrajině. 
+          - Americký ministr vnitra prohlásil, že Čína nejspíš zvažuje, zda nedodat Rusku zbraně a munici. Zároveň Čínu varoval před vážnými důsledky takového kroku. Čína údajně v minulosti poskytla Rusku zimní uniformy a balistickou ochranu. 
+          - Americká viceprezidentka Kamala Harris konstatovala, že na základě shromážděných důkazů a podle současného výkladu práva Spojené státy došly k závěru, že Rusko se na Ukrajině dopouští zločinů proti lidskosti. 
+          - Macron údajně usiluje o reformu Rady bezpečnosti OSN kvůli tomu, že Rusko podle něj prakticky přestalo být světovou velmocí a mělo by proto přijít o své stálé místo v Radě. 
+          - Americký armádní generál ve výslužbě Ben Hodges věří, že pokud Ukrajina obdrží rakety s větším dostřelem, může osvobodit celý Krym ještě do konce letošního léta. 
+          - Ukrajinci nejspíš zasáhli ruskou základnu a provizorní nemocnici, kterou Rusové zřídili v rekreačním rezortu v okupovaném Berďansku, raketovou palbou. 
+          - Ukrajinští experti předpokládají, že současná ruská ofenziva bude trvat maximálně 4-6 týdnů a bude pro Rusko znamenat devastující výši ztrát. 
+          - Evropská unie zvažuje vytvořit skupinu, které by organizovala společné nákupy 155mm munice pro Ukrajinské dělostřelectvo. 
+          - V Černém moři je nyní 10 ruských válečných lodí. Celková salva ale čítá maximálně osm raket. 
+          - Na Ukrajinu včera mířilo 16 raket. K výpadkům dodávek energie ale nedošlo. 
+          - Nizozemsko vyhostí část ruských diplomatů.
+        videa: |
+          - [Tohle už asi nerozchodí, aneb ruští Pat a Mat ](https://twitter.com/rammstein_fella/status/1626896521512771584)
+          - [Vyhánění Rusů od Bachmutu ](https://twitter.com/small10space/status/1627225440275374082)
+          - [A už se perou ](https://twitter.com/NOELreports/status/1627073760150056965)
+          - [Mínus 35 kousků](https://twitter.com/herooftheday10/status/1627006141413617668)
+          - [Ruští propagandisti vyhrožují Polsku](https://twitter.com/andrewofpolesia/status/1627229920949682177)
+          - [Ukrajinci zasáhli ruskou provizorní nemocnici v Berďansku ](https://twitter.com/NOELreports/status/1627235598585954305)
+          - [Zajatý wagnerovec](https://twitter.com/wartranslated/status/1627256556663218177)
+          - [Avenger v Polsko](https://twitter.com/TreasChest/status/1627221549945171973)
+          - [Mínus ruský Meteorit](https://twitter.com/UAWeapons/status/1627230060926185472)
+          - [Jednadvacetiletá Teťana padla v boji s Rusy](https://twitter.com/visegrad24/status/1626964638423216129)
+          - [Centrum Bachmutu](https://twitter.com/NOELreports/status/1627224105127747584)
+          - [Dekapitace tanku ](https://twitter.com/AlexRaptor94/status/1627051288897769474)
+          - [Trefy!](https://twitter.com/PaulJawin/status/1627006162032816128)
+          - [Neprošli ](https://twitter.com/NOELreports/status/1626904251522772993)
+          - [Trofejní tank](https://twitter.com/Osinttechnical/status/1627245908873080838)
+          - [Dron ukončil ruské sexuální hrátky](https://twitter.com/razdjensia/status/1627223741942886400)
+          - [Ukrajinské tanky vyjely naproti ruské pěchotě](https://twitter.com/NOELreports/status/1627217981984890883)
+          - [Trefa!](https://twitter.com/PaulJawin/status/1627202681532973060)
+          - [Wagnerovci střílí na portréty ruských generálů](https://twitter.com/NOELreports/status/1627051063080636417)
+          - [Ruský tank versus Ukrajinci s RPG](https://twitter.com/wartranslated/status/1627260962246893571)
       - title: "Sobota"
         year: "18. února 2023"
         image: assets/img/timeline/2023-02-18.jpg
