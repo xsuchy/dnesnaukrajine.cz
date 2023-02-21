@@ -35,6 +35,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "21. února 2023"
+        image: assets/img/timeline/2023-02-21.jpg
+        desc: "Putin dnes pronesl svůj dlouho očekávaný projev před Federálním shromážděním. Kdo čekal nějakou zásadní informaci, musel být nutně velmi zklamaný. Putin prakticky převyprávěl všechny lži, které poslední rok šíří jeho propaganda, lhal sám sobě do kapsy o tom, jak je na tom ruská ekonomika skvěle a ruská bojová technika že je lepší než všechna západní a oznámil, že Rusko bude krok po kroku odpovídat na „ukrajinskou hrozbu“. Ne náhodou zněl jako průměrný čtenář Aeronetu, a stejně jako takoví „dezoláti“ i on tvrdil, že Rusko chce hlavně ukončit válku a mít mír. Byl naprosto bez energie a bezpečně se předvedl v nejslabší formě ve své dosavadní kariéře. Legrační bylo (kromě všeho ostatního), když obvinil Západ z toho, že se snažil sto let vyvolat v Evropě válku s Ruskem. Proto tu válku nakonec přineslo do Evropy Rusko? A vám to jako dává smysl? A aby ty snahy o mír Putin dvakrát podtrhl, tak oznámil, že Rusko odstupuje od smlouvy New START o redukci jaderného arzenálu. Hned je tu bezpečněji! Tak snad budou mít hlavu a patu alespoň [dnešní novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02KRHfTeFmp8saKkfk2NbsmBYTMJj8NvfU6R3peNhK3aF6f4MSkGj68HaM7j2Kqyekl):"
+        detail: |
+          - Rusko v posledních 24 hodinách zintenzivnilo útoky na Bachmut a vrhá na obránce doslova všechno co má. Jako kdyby hrálo vabank s životy vlastních vojáků. Je jisté, že Bachmut se stal politickým cílem současné ruské ofenzivy a s pouhými třemi zbývajícími dny do výročí invaze se Rusko uchyluje k zoufalým akcím. Podle ukrajinské posádky ve městě se ale alespoň prozatím Rusům nedaří prolomit připravenou obranu. Sám Prigožin navíc oznámil, že velení ruské armády odřízlo jeho wagnerovce od dodávek munice pro ruční zbraně a dělostřelectvo. Šojgua dokonce obvinil z velezrady. Prigožinovi Wagnerovci přitom dosud nesli hlavní tíhu útoků na Bachmut. Je vidět, že silová hra ruských elit se za posledních sto let vůbec nezměnila. Ruští silovici ve snaze upozadit Prigožina a oslabit jeho v čase sílící pozici očividně chtějí, aby zásluhy za případné obsazení Bachmutu padly na regulérní armádu, a ne jeho soukromou. Což může Rusům ještě pořádně zatopit. 
+          - Několik investigativních médií v Evropě a USA získalo údajný 17stránkový tajný ruský plán na pozvolnou integraci Běloruska do Ruské federace. Popisuje, jak by do roku 2030 mělo Bělorusko postupně integrovat ruské platební systémy a přejít na společnou měnu, předat Rusku kontrolu nad mediálním prostorem, sjednotit armádní regule a přesunout vojenskou výrobu do Ruska. Podle zdroje v západních rozvědkách Rusko vytvořilo zmíněný plán v roce 2021 jako výsledek společné práce různých větví ruské rozvědky. 
+          - Rusko spustilo dezinformační kampaň na finských sociálních sítích využívající falešné účty s portréty generovanými umělou inteligencí, které šíří zprávu o tom, že NATO nikdy nepřijde Finsku na pomoc. Jenomže zadavatel nejspíš neumí finsky, a tak využil překlad z angličtiny do finštiny, který vedl k rozkošné chybě. Namísto slova „zachránit“, angl. „save“, použili ekvivalent pro „uložit do počítače/stáhnout z internetu“, angl. „download“ nebo také „save“ A tak ruští boti spamují finské konverzace varováním, že „NATO Finsko z netu rozhodně nestáhne“. 
+          - Podle ISW Rusko integrovalo milice samozvaných republik na východě Ukrajiny do vlastní armády. Potvrdit to mělo oficiálně i ruské ministerstvo obrany. 
+          - Rusové v noci pálili ze systémů S-300 směrem na Charkov. Několik raket ale explodovalo ve vzduchu a žádná z nich nepřeletěla přes ukrajinskou hranici. 
+          - Nizozemsko oznámilo, že ruští sabotéři se v nejbližší době pokusí poškodit nizozemské podvodní kabely, plynovody nebo jiné energetické instalace. 
+          - Bělorusko tvrdí, že Ukrajina shromáždila u hranic s ním velký počet jednotek a varovalo, že by je mohlo považovat za ohrožení své bezpečnosti. 
+          - Italská premiérka přijela na oficiální návštěvu Kyjeva. Spekuluje se, že Itálie by mohla být první zemí, která poskytne Ukrajině své stíhací letouny. 
+          - Jen pár minut po skončení Putinova projevu Rusové zasáhli dělostřeleckou palbou centrum Chersonu. Na místě jsou civilní oběti. 
+          - Podle průzkumu vnímá 90 % Ukrajinců pozitivně Spojené státy a dokonce 92 % je považují za zemi přátelskou vůči Ukrajině. 
+          - Bývalí britští premiérové Boris Johnson a Liz Truss apelovali na současného premiéra, aby poskytl 
+          Ukrajině stíhací letouny. 
+          - Rusko údajně hodlá přesunout dalších 5 000 vojáků z Melitopolu k Vuhledaru a pokusit se o průlom. 
+          - Bělorusko plánuje vytvořit teritoriální armádu složenou z dobrovolníků o velikosti až 150 000 členů.
+          - Už 34 zemí se postavilo proti účasti ruských a běloruských sportovců na LOH.
+        videa: |
+          - [Aktivisti v Německu přivítali pro-ruský pochod adekvátní hudbou](https://twitter.com/Tendar/status/1627946080364027904)
+          - [Legendární Maďar o situaci v Bachmutu ](https://twitter.com/NOELreports/status/1627756583605137444)
+          - [Pořád tam je](https://twitter.com/razdjensia/status/1627958924467924994)
+          - [Vojanda a kráter po příletu z ruské strany](https://twitter.com/visegrad24/status/1627587800974471169)
+          - [Lovci tanků na čtyřkolkách ](https://twitter.com/NOELreports/status/1627971261358907392)
+          - [Meloni v Kyjevě](https://twitter.com/EuromaidanPress/status/1627990721104949249)
+          - [Ruský útok na Marjinku = mínus dvě BMP i s pěchotou ](https://twitter.com/PaulJawin/status/1627979832859525120)
+          - [Návrat demobilizovaných do Novosibirsku ](https://twitter.com/NOELreports/status/1627958817433481217)
+          - [Ukrajinská pozice v Bilohorivce](https://twitter.com/PaulJawin/status/1627940582277406720)
+          - [M777 při práci](https://twitter.com/EuromaidanPress/status/1627904448512266240)
+          - [Příprava na prorežimní shromáždění v Moskvě](https://twitter.com/igorsushko/status/1627818662282543107)
+          - [Cvičení s Leopardy ](https://twitter.com/EuromaidanPress/status/1627904448512266240)
+          - [Zachycený rozhovor wagnerovců ukazuje na střelbu do vlastních velitelů ](https://twitter.com/wartranslated/status/1627698064164065285)
+          - [Samá trefa](https://twitter.com/PaulJawin/status/1627698575827251203)
+          - [Ruská palba od Belgorodu](https://twitter.com/EuromaidanPress/status/1627804280794099720)
+          - [Čištění ruin pomocí BMP](https://twitter.com/PaulJawin/status/1627718220349153281)
+          - [Zničený ruský generátor kouře](https://twitter.com/NOELreports/status/1627781564674281474)
+          - [Cherson po zásahu ](https://twitter.com/Militarylandnet/status/1627989674365972481)
       - title: "Pondělí"
         year: "20. února 2023"
         image: assets/img/timeline/2023-02-20.jpg
