@@ -35,6 +35,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "22. února 2023"
+        image: assets/img/timeline/2023-02-22.jpg
+        desc: "Návštěva Bidena v Kyjevě nebyla zdaleka ta nejvíc ponižující událost, která se Rusku ten den přihodila. Rusové totiž chtěli před chystaným projevem Putina demonstrovat sílu, a tak naplánovali test své mezikontinentální balistické střely Sarmat. Podle amerických představitelů a různých vojenských analytiků ale střela nejspíš během testu selhala, protože ke startu rakety nakonec nedošlo a Putin se o ni ani v následném projevu nezmínil. Ruskému Medvědovi postupně vypadávají všechny zuby. Konec, který nutně musí potkat každou diktaturu, která uvěří vlastní propagandě. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0FdLiqAQ3Btbd9ouQSLptZXfGkSCxagK9g81HKGrYqbBgWsgLHKzNR9tcA5tCKcAKl):"
+        detail: |
+          - Prigožin si postěžoval, že dodávky munice wagnerovcům klesly v posledních týdnech na pouhých 20 %. Na jeho tvrzení reagoval lídr „DLR“ Chodakovskij, který jeho slova víceméně potvrdil, nicméně pro kontext uvedl, že wagnerovci jednoduše začali dostávat takový objem, který dosud dostávaly milice a regulérní armáda. Neboli že wagnerovci dosud dostávali mnohem více než ostatní, a mimo jiné i proto měli tak dobré výsledky. 
+          - Včerejšek byl ve znamení ohňostrojů. Mariupol, Debalceve, Makijivka, Kreminna, Novokarlivka, Oleški, Illovajsk, Volnovacha a možná i další města. Tam všude Ukrajinci zasáhli raketovou palbou ruské základny nebo muniční sklady. A Mariupol byl pod palbou opět i dnes ráno. Ruské kanály kvůli tomu dokonce spekulují, zda už Ukrajinci neobdrželi slíbené rakety GLSDB. 
+          - Dnes zemřel ukrajinský major Oleh Mudrak. Nikoliv na bojišti, ale na následky ruského zajetí. Oleh bránil na jaře Azovstal, potom se dostal do zajetí, kde byl mučen a ztratil nejméně třetinu předchozí váhy. Z šesti měsíců v zajetí už se potom nikdy nezotavil. 
+          - Denis Pušilin dnes fantazíroval o tom, že jsou ruské jednotky údajně už v centru Bachmutu. Za lezení do Putinovi zadnice tedy získává plný počet bodů. Za žití v realitě naopak nulu. 
+          - Bílý dům označil včerejší slova Putina o plánu Západu napadnout za absurdní, a tvrzení, že Západ vyprovokoval válku Ruska s Ukrajinou za „něco, co se nepotkává s realitou“. 
+          - Podle premiéra Fialy poskytla Česká republika Ukrajině 89 tanků, 229 obrněných vozidel, 38 houfnic, 6 protivzdušných systémů, 4 helikoptér a 1,5 miliónu kusů munice. 
+          - Podle deníku Bloomberg poskytnou Spojené státy Ukrajině také JDAM-ER. Zařízení na prodloužení dostřelu a navádění leteckých pum. Jejich dolet je až 70 km. 
+          - Rusové oznámili, že i nadále hodlají dodržovat závazky vyplývající z dohody o jaderných zbraních. Dobrá, ale proč ji tedy vůbec vypovídali? 
+          - Itálie oznámila už šestý balík vojenské pomoci Ukrajině. Bude obsahovat kromě systémů PVO SAMP-T také systémy Skyguard a Aspide. 
+          - Orbán vyhrožuje, že bude vetovat protiruské sankce, aneb řekni mi, že tě platí Kreml, aniž bys mi řekl, že tě platí Kreml. 
+          - Zelenský reagoval na informace o čínském mírovém plánu pro Ukrajinu. Odpověděl, že Ukrajina už mírový plán má. 
+          - Španělsko poskytne Ukrajině nakonec 6 kusů tanků Leopard 2.
+        videa: |
+          - [Prigožin zveřejnil fotografii ztrát wagnerovců za jediný den (velmi citlivé!)](https://twitter.com/PaulJawin/status/1628343974908903424)
+          - [Demobilizace skupiny Rusů pomocí protitankové střely](https://twitter.com/rammstein_fella/status/1628063793749143558)
+          - [Ukrajinci už zase straší běloruské pohraničníky ](https://twitter.com/nexta_tv/status/1628431630338490376)
+          - [Ruský tankista pálí na kostel ](https://twitter.com/666_mancer/status/1628303229430669313)
+          - [Ukořistěný nejmodernější ruský tank ](https://twitter.com/bayraktar_1love/status/1628466585722662913)
+          - [Zastavený ruský útok v lese u Kreminny](https://twitter.com/PaulJawin/status/1628314628311621634)
+          - [Ukrajinští piloti jsou blázni ](https://twitter.com/ItsArtoir/status/1627755779150213124)
+          - [Požár v Krasnojarsku ](https://twitter.com/NOELreports/status/1628283444676395008)
+          - [Obráncovi oznámili, že jeho kamarádi padli ](https://twitter.com/Gerashchenko_en/status/1628322540824264704)
+          - [Odstřelovači hlídají Putina během setkání na stadionu](https://twitter.com/nexta_tv/status/1628406019029073922)
+          - [Další příběh od Bachmutu v podání Vědmy](https://twitter.com/SlavaUk30722777/status/1628239441067401219)
+          - [Energie v davu je velmi… slabá ](https://twitter.com/nexta_tv/status/1628405358354898944)
+          - [Do Chersonu cosi přijelo](https://twitter.com/TreasChest/status/1628107486598135817)
+          - [Javelin dal stopku ruskému útoku](https://twitter.com/PaulJawin/status/1628053928297234433))
+          - [Plížením vpřed – do hrobu](https://twitter.com/herooftheday10/status/1628456861593739271)
+          - [Dělostřelecká palba překazila další ruský útok](https://twitter.com/PaulJawin/status/1628382017963405312)
+          - [Demobilizace](https://twitter.com/NOELreports/status/1628440160474988547)
+          - [Zbytky ruské houfnice](https://twitter.com/666_mancer/status/1628355200208584707)
+          - [Rambo ](https://twitter.com/nevedimka123/status/1628353290873307138)
       - title: "Úterý"
         year: "21. února 2023"
         image: assets/img/timeline/2023-02-21.jpg
