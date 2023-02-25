@@ -35,6 +35,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "25. února 2023"
+        image: assets/img/timeline/2023-02-25.jpg
+        desc: "Ruské ministerstvo zahraničí varovalo, že útok Ukrajiny nebo zemí NATO na okupované Podněstří by byl útokem na Rusko. Chucpe. Ruští představitelé už očividně ani nepředstírají, že Podněstří je jen další separatistický region. Regulérně jej považují ze své území. Podněstří se nicméně v poslední době objevuje ve zprávách často. Obě strany se vzájemně obviňují z provokací. Spekuluje se, že Rusko si připravuje informační prostor na úplné obsazení regionu vzdušnými výsadky. Pokud by k tomu ale mělo dojít, Ukrajina předem avizovala, že má kapacitu na to, se v Podněstří Rusku postavit a jediné, co k bude potřebovat k tomu, aby Ruskou posádku v Podněstří eliminovala, je souhlas Moldavské vlády. Velmi bych to Moldavsku přál. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0T9ALzBXBgjAKGtKLXNWV2Ua1E1ZXtpWHGFm7un51Gb8GsvbHTsHAmPsk77GM8Eeel):"
+        detail: |
+          - Ukrajina odmítla čínský mírový plán. Dnes ho shodil ze stolu i americký prezident Biden. Podle obou zemí není v plánu nic, z čeho by benefitoval kdokoliv jiný než Rusko. Blinken dokonce během proslovu v OSN zmínil, že žádná země, která podporuje ruskou invaze, nemá nárok na to mluvit o míru. Biden pak opět zopakoval, že Spojené státy nerozhodují za Ukrajince a nebudou ani jednat o míru jejich jménem. K plánu se vyjádřil skepticky i generální tajemník NATO, který navíc vyjádřil obavy z možných dodávek zbraní Rusku právě Čínou. Západní rozvědky mají údajně o čínských plánech důkazy. 
+          - Spojené státy odmítly dodat Ukrajině v nejbližší době moderní stíhačky. Prezident Biden se k tomu vyjádřil tak, že dodávají takové systémy, které jejich seniorní generálové považují za klíčové, a to jsou nyní tanky, dělostřelectvo a PVO, nikoliv letouny. Je ale možné, že některé země předem začnou cvičit vybrané ukrajinské piloty na západní stroje, aby byli připraveni na budoucí vývoj. Jednou ze zemí, která oznámila, že může začít cvičit Ukrajince na svých F-16, je Polsko. 
+          - Rusko údajně přesunulo k Bachmutu okolo dvou stovek policistů z jednotky „Achmat“. Jejich úkolem je bránit dezerci, fakticky tedy budou plnit roli sovětských bariérových jednotek. 
+          - Kadyrov v říjnu instruoval úřady, aby vytvořili nový řád „Hrdina Čečenské republiky. Letos v únoru se „nečekaně“ stal jeho prvním recipientem. 
+          - Rusko už deset dní nepoužili ani jediný íránský kamikadze dron. Spekuluje se proto, že už možná veškeré zásoby těchto zbraní vyčerpalo. 
+           - Švédsko poskytne Ukrajině 10 tanků Leopard 2A5. Německo navýší dodávku z původních 14 na 18. 
+          - Ukrajinský parlament zrušil smlouvu s Ruskem o využívání Azovského moře a Kerčského průlivu. 
+          - Lukašenko oznámil, že 28. února poletí na oficiální návštěvu Číny v rámci budování vztahů.
+          - Podle polského premiéra obdrží Ukrajina v nejbližších dnech dalších 60 kusů tanků PT-91. 
+          - Rusko pořádá společné námořní cvičení s Čínou a Jihoafrickou republikou u pobřeží JAR. 
+          - Ukrajina preventivně zaminuje další dvoukilometrový pás u hranic s Běloruskem. 
+          - Ukrajinci opět zasáhli okupovaný Mariupol. Tentokrát byl cílem muniční sklad. 
+          - Světová banka poskytne Ukrajině 2,5 miliónu dolarů ve formě grantů. 
+          - EU se shodla na 10. balíku protiruských sankcí.
+        videa: |
+          - [Rok ruské invaze ](https://twitter.com/EuromaidanPress/status/1629175540480344065)
+          - [„Kudy na Moskvu?“](https://twitter.com/nexta_tv/status/1629222198098464769)
+          - [České dodávky zbraní](https://twitter.com/DarPutinovi/status/1629140867767205889)
+          - [Stormer versus kamikadze dron ](https://twitter.com/Osinttechnical/status/1629137603621527558)
+          - [MG-3](https://twitter.com/PaulJawin/status/1629416456059330560)
+          - [Jako z druhé světové – tanky přijely na pomoc pěchotě ](https://twitter.com/walter_report/status/1628827798361047041)
+          - [Kolona Mastiffů míří do Chersonu](https://twitter.com/NOELreports/status/1629106923608936448)
+          - [Stugna versus pěchota](https://twitter.com/PaulJawin/status/1629389578657312769)
+          - [Double!](https://twitter.com/OSINTua/status/1629119667506651140)
+          - [Ukrajinci zasáhli kolaboranty přímo v Doněcku](https://twitter.com/NOELreports/status/1629404230606807040)
+          - [Bachmut, mínus Rus](https://twitter.com/NOELreports/status/1629211619656884226)
+          - [Lesy u Kreminny](https://twitter.com/666_mancer/status/1629404762746544128)
+          - [Další zajatci ](https://twitter.com/666_mancer/status/1629377905170972675)
+          - [Vuhledar](https://twitter.com/Tendar/status/1629409143508332546)
+          - [Krásné načasování ](https://twitter.com/nevedimka123/status/1629348851373993985)
+          - [A trefa!](https://twitter.com/bigSAC10/status/1629186959489761285)
+          - [Pozdrav z dronu](https://twitter.com/herooftheday10/status/1629428617468944386)
+          - [Ruské fejky](https://twitter.com/herooftheday10/status/1629429764111970306)
+          - [M-m-m-m-monster kill](https://twitter.com/Peter79233966/status/1629396284351078402)
+          - [Dělostřelecká podpora denacifikovala Rusy v domě](https://twitter.com/rammstein_fella/status/1629048971497725953)
+          - [Z pěšáka pilotem ve vteřině](https://twitter.com/Seveerity/status/1629155746154795010)
+          - [Ruské ztráty (citlivé!!)](https://twitter.com/bigSAC10/status/1629141683823681536)
       - title: "Pátek"
         year: "24. února 2023"
         image: assets/img/timeline/2023-02-24.jpg
