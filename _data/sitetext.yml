@@ -35,6 +35,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "26. února 2023"
+        image: assets/img/timeline/2023-02-26.jpg
+        desc: "Podle ukořistěných manuálů přechází Rusové za běhu na jinou organizaci armády, neboť se dosavadní rozdělení do praporních taktických uskupení (BTG) neosvědčilo. Nově jsou hlavní jednotkou ruské pozemní armády tzv. „útočné oddíly“. Ten se skládá obvykle z 2-3 útočných rot, velitelské jednotky, podpůrného dělostřelectva a dalších jednotek (průzkumné, tankové, pro elektronický boj, protivzdušné, s piloty dronů, ženijní atp.), přičemž konkrétní skladba takových útočných oddílů se liší v závislosti na tom, jaký úkol mají plnit. Nová organizace má vycházet ze zkušeností na Ukrajině a zejména taktik wagnerovců. Analytici jsou ale skeptičtí k tomu, že by Rusové dokázali tak rychle přejít na novou taktiku a úspěšně ji převést na bojiště, i s ohledem na to, jak se jim kvůli nízkým kompetencím velitelů prakticky na všech úrovních nedařilo provádět ani svou obvyklou taktiku, na kterou se vojáci a branci léta cvičili. Ale jak se říká, když nepřítel dělá chybu, nepřerušuj ho. Tak směle do toho, Ivani. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02hJe4QfNsHpjihqU1L6BvCHREpy1XdbefV1FA2Sqeu8zQFSnHHckyoBhTYW89G4Ael):"
+        detail: |
+          - Situace v Bachmutu je nadále velmi nečitelná. Rusové údajně od rána útočí znovu na Ivanivske jižně od Bachmutu, wagnerovcům se mezitím podařilo probojovat do obce Jahidne na severu Bachmutu. Chování Ukrajinské armády ale ničím nepřipomíná chování armády, která se připravuje na ústup. Bachmut dokonce navštívil velitel pozemních sil východního křídla ukrajinská armády generál Syrský a diskutoval s veliteli aktuální status a potřeby ukrajinských sil. Je tedy jisté, že některé cesty do města i z něj jsou stále pro Ukrajince poměrně bezpečné, což umožňuje nepřerušované zásobování a přesouvání posil. Jisté ale je, že situace je pro obránce den ode dne čím dál více nepříjemná.
+          - Rusové údajně mění osobní údaje deportovaných ukrajinských dětí včetně věku, aby je nešlo snadno dohledat. Děti jsou pak posíláni na speciální „tábory“, které je mají „přeučit“, rusifikovat, indoktrinovat a následně jsou nabídnuty k adopci. 
+          - Úřady v Petrohradě vyměnily pamětní desku na pomníku utlačovaným Ukrajincům, která nesla nápis: „Věčnou vzpomínku nevinným ukrajinským obětem.“ Nově je na pomníku nápis „Věčnou vzpomínku Ukrajincům“. 
+          - Podle ukrajinské vojenské rozvědky bude ukrajinská armáda připraveno spustit na jaře vlastní ofenzivu. Jejím cílem by mělo být rozdělení okupované oblasti na dvě části a izolace Krymu od pevninského Ruska. 
+          - Ředitel americké CIA v televizních rozhovoru potvrdil, že USA disponují spolehlivými důkazy o tom, že Čína zkoumá možnosti, jak dodat Rusku zbraně a munici. 
+          - Putin v televizním rozhovoru prohlásil, že pokud by došlo ke kolapsu Ruské federace, nemuseli by Rusové jakožto národ přežít. 
+          - Vjačeslav Rovnejko, ředitel organizace Interregional Fuel Union, byl nalezen mrtvý ve svém domě u Moskvy. 
+          - Rusové si podle informací na vlastních kanálech omylem sestřelili už druhý vlastní Su-25 za jediný týden. 
+          - Macron plánuje navštívit Čínu a jednat s jejími představiteli, aby se podíleli na ukončení války.
+          - Petr Pavel se vyslovil pro to, aby byla Ukrajina přijata do NATO, jakmile válka skončí. 
+          - Chorvatsko údajně poskytne Ukrajině 14 kusů helikoptér Mi-8. 
+          - Polsko oznámilo úplnou nezávislost na ruské ropě.
+        videa: |
+          - [Mateřská školka v Rusku – ta země je nemocná](https://twitter.com/Gerashchenko_en/status/1629786601889906689)
+          - [Boje u Bachmutu](https://twitter.com/WarMonitors/status/1629779805674561536)
+          - [Zraněný Rus nepobírá, proč mu Ukrajinci poskytují pomoc](https://twitter.com/nevedimka123/status/1629434559505784834)
+          - [Mobilizovaní tvrdí, že na ně střílí doněčtí, aby jim zabránili ustupovat](https://twitter.com/den_kazansky/status/1629754061539930115)
+          - [Kličko otestoval Leopard](https://twitter.com/TreasChest/status/1629368580927102977)
+          - [Rusové už zase vjeli do minového pole](https://twitter.com/EuromaidanPress/status/1629621009551597568)
+          - [Trosky Bachmutu](https://twitter.com/NOELreports/status/1629776500793782272)
+          - [V Sevastopolu vyrostl „památník hrdinům Speciální operace“](https://twitter.com/nexta_tv/status/1629541986934874117)
+          - [Velké bum](https://twitter.com/PaulJawin/status/1629762166856228867)
+          - [Trefa GPS municí](https://twitter.com/EuromaidanPress/status/1629722679447281669)
+          - [Kája Gustavů ](https://twitter.com/Osinttechnical/status/1629480150604627969)
+          - [Před válkou ajťák, nyní bojový medik ](https://twitter.com/EuromaidanPress/status/1629654984492216322)
+          - [Jedna trefa za druhou](https://twitter.com/PaulJawin/status/1629798064906027009)
+          - [Zaměřování Javelinu](https://twitter.com/herooftheday10/status/1629795650048065536)
+          - […a výsledek](https://twitter.com/herooftheday10/status/1629795943414415361)
+          - [Běloruská armádní show](https://twitter.com/NOELreports/status/1629755340978892801)
+          - [Ruské BMP i s posádkou povýšené na táborák](https://twitter.com/PaulJawin/status/1629758171274174465)
+          - [Bývalé ruské pozice ](https://twitter.com/666_mancer/status/1629750505852268544)
+          - [Trefa!](https://twitter.com/PaulJawin/status/1629736712480931841)
+          - [Destrukce ruského konvoje](https://twitter.com/PaulJawin/status/1629714798634999808)
+          - [Javelin zevnitř domu](https://twitter.com/Seveerity/status/1629438105097732096)
+          - [Kamikadze dron versus ruský blok post](https://twitter.com/PaulJawin/status/1629499645905829889)
+          - [Ukrajinský tank poškodila mina](https://twitter.com/UAWeapons/status/1629463090277367809)
+          - [Osud okupantů Ukrajiny (velmi citlivé!)](https://twitter.com/666_mancer/status/1629759099578580994) 
       - title: "Sobota"
         year: "25. února 2023"
         image: assets/img/timeline/2023-02-25.jpg
