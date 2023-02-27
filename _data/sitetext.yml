@@ -35,6 +35,54 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "27. února 2023"
+        image: assets/img/timeline/2023-02-27.jpg
+        desc: "Běloruští partyzáni z organizace BYPOL podnikli jednu z nejodvážnějších diverzních akcí od začátku válku. Dvě exploze poničily ruský AWACS – letadlo Berijev A-50 Šmel („Mainstay“ v kódu NATO) – na přistávací ploše vojenského letiště Mačuliščy u Minsku. Tento typ letadel umožňuje vzdušným silám detekovat letící cíle až na vzdálenost 600 km a je naprosto klíčový pro bezpečné operování ostatních letadel, jako jsou stíhačky a bombardéry. V posledních měsících asistoval ruským MiGům, které vypouští z Běloruského prostoru naváděné rakety na ukrajinské cíle. Je to tedy pro ruské síly citelná rána a pokud bylo letadlo poškozeno nevratně, pak i pěkných pár miliónů dolarů hodnoty stroje vyhozených do vzduchu. Sláva hrdinům! A teď [další aktuality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02ifAPWrK2TzN169GHTWoiVDSXiawPrdWQcYCAXzkUCLMmm3SBFGzEgsGfXywVhcA9l):"
+        detail: |
+          - Vyšetřovatelé dokončili exhumaci těl z hromadných hrobů u Izjumu. Ve zprávě uvádí celkem 194 těl mužů a 215 ženských těl. Jen 22 z celkového počtu těl patří vojenskému personálu. Pětice ostatků jsou těla dětí, 11 se nepodařilo identifikovat. Značná část těl ale měla svázané ruce, chybějící končetiny (nebo dokonce chybějící genitálie), bodné rány, následky tupých ran na hrudníku i hlavě, zbytky provazů omotaných kolem krku a střelná zranění včetně těch utrpěných z bezprostřední blízkosti. 
+          - Z Bachmutu přicházely už několik dní kusé informace o tom, že Ukrajinci chystají Rusům překvapení, teď se zdá, že informace dostávají konkrétní podobu. Ukrajinci pravděpodobně podnikají protiútok severně od Bachmutu s cílem izolovat ruské vojáky v „ramenech“ jimi tvořeného kotle. Vše je nicméně v tuhle chvíli pouhá spekulace, nicméně různé narážky na vznikající situaci sdíleli i vojáci, kteří v Bachmutu aktuálně bojují a novináři, kteří se u fronty pohybují. Na oficiální informace se čeká. 
+          - Bývalý ruský prezident Medveděv opět pohrozil světu apokalypsou, v případě že by měl Rusko čekat kolaps v důsledku prohrané války: „Nepotřebujeme svět bez Ruska,“ řekl, „v takovém případě pohřbíme půlku světa pod trosky – nebo i víc! Život zmizí na staletí dopředu, dokud kouřící ruiny nepřestanou vyzařovat radiaci.“ Ano, tohle mimo jiné podporují zastánci Ruska. 
+          - Maďarský ministr zahraničí oznámil, že Maďarsko nikdy nepodpoří sankce proti Rosatomu nebo ruskému jadernému odvětví. Maďarsko totiž usiluje o to, aby právě Rosatom stavěl v zemi další jaderné bloky. Sluší se připomenout, že za Rosatom dlouhodobě lobovali také v Česku někteří poslanci z ANO a odcházející prezident Zeman. 
+          - Analytici z ISW správně konstatovali, že „nekonečná živá síla“ Ruska je pouhý mýtus. Rusko podle nich čím dál více čelí problémům s doplňováním stavu zdecimovaných jednotek i přes neustávající náborové kampaně, které by měly přilákat další nebožáky k účasti v bojích. 
+          - Ruská propaganda se poslední týdny snaží šířit falešné zprávy o tom, že některé západní země volají po obnovení mírových rozhovorů s Ruskem. Všechny země, které zprávy zmiňovaly, ale takový plán popřely. 
+          - Rumunský prezident naznačil, že v případě vypuknutí konfliktu v Podněstří je ochotný nabídnout Moldavsku vojenskou pomoc, "pokud si to situace bude žádat". 
+          - Objem dodávek západních tanků v příštích týdnech a měsících by měl stačit k vytvoření dvou tankových pluků. Řekl to německý ministr obrany Pistorious. 
+          - Ruský válečný zpravodaj WarGonzo (Simon Pegov) tvrdí, že Ukrajina shromažďuje síly u západní hranice pro vpád do Podněstří. 
+          - Něco se chystá na jihu Ukrajiny. Kolaboranti začali evakuovat Chersonskou oblast. Na silnicích ke Krymu se tvoří dlouhé kolony. 
+          - Po ruském útoku drony je téměř celá oděská oblast bez elektřiny. 11 ze 14 dronů sestřelila protivzdušná obrana. 
+          - Americký miliardář Bill Ackman poskytne Ukrajině 3,25 miliónů dolarů na nákup sanitek. Sám má ukrajinské kořeny. 
+          - Německo vypravilo na Ukrajinu další vojenskou pomoc. Mimo jiném dalších 6 kusů kladečů mostů BIBER. 
+          - Petr Pavel přirovnal činy Putina vůči Ukrajině ke konání Hitlera vůči Československu. 
+          - Generál Zálužný prohlásil, že k osvobození Mariupolu dojde ještě letos. 
+          - Ukrajinci sestřelili ruský bitevník Su-25 u Avdijivky. 
+        videa: |
+          - [Policie v Moskvě zatýká lidi, co kladli kytky u místa vraždy Němcova](https://twitter.com/nexta_tv/status/1630166586202939392)
+          - [Honza u Bachmutu ](https://twitter.com/HonzaUA/status/1629598538790318082)
+          - [Dron zničil… ruskou pušku proti dronům](https://twitter.com/EuromaidanPress/status/1629927398497042436)
+          - [Dron překazil Rusům evakuaci tanku](https://twitter.com/Bodbe6/status/1630166604200792065)
+          - [Maďarský ministr o sankcích ](https://twitter.com/NOELreports/status/1630125291409494016)
+          - [Zraněný voják během přestřelky s Rusy](https://twitter.com/PaulJawin/status/1630114279364915200)
+          - [Archivní video od prvního novináře, který viděl zkázu Buči ](https://twitter.com/visegrad24/status/1629890241778597890)
+          - [POV: Rusové u Vuhledaru ](https://twitter.com/Bodbe6/status/1630171685448974340)
+          - [HIMARS time!](https://twitter.com/NOELreports/status/1629933694835204097)
+          - [Část druhá ](https://twitter.com/Bodbe6/status/1630172025330311168)
+          - [Trefa!](https://twitter.com/PaulJawin/status/1630169268930199552)
+          - [Eliminace ruských tanků a BMP včetně hodu věží](https://twitter.com/Bodbe6/status/1630167012625248256)
+          - [Další zmařený ruský útok ukončují drony](https://twitter.com/PaulJawin/status/1630154442606616578)
+          - [Ukrajinský voják pod dělostřeleckou palbou](https://twitter.com/Bodbe6/status/1630012537361104896)
+          - [Přestřelky v Marjince](https://twitter.com/NOELreports/status/1629930353358979075)
+          - [Ukrajinský tank vykuřuje Rusy z úkrytů](https://twitter.com/Bodbe6/status/1630009559405195264)
+          - [Pár dní staré, ale ukázkové!](https://twitter.com/herooftheday10/status/1629834433917341698)
+          - [Mínus dva tanky díky Stugnám](https://twitter.com/PaulJawin/status/1630058959934574592)
+          - [Minomet versus ruská pozice u Bachmutu](https://twitter.com/Bodbe6/status/1629989699442843649)
+          - [Počítání oveček ](https://twitter.com/PaulJawin/status/1630049343725002753)
+          - [Navádění palby na ruskou pěchotu ](https://twitter.com/Bodbe6/status/1629983890973642752)
+          - [Další zajatec nechápe, proč se o něm Ukrajinci starají](https://twitter.com/herooftheday10/status/1629828481994334209)
+          - [Český Vampýr](https://twitter.com/NOELreports/status/1629822556051062784)
+          - [O fous](https://twitter.com/Bodbe6/status/1629962675361857536)
+          - [Krásné trefy](https://twitter.com/Andrii_L1983/status/1629902514794405889)
+          - [Ruský útok na ukrajinské zákopy](https://twitter.com/Bodbe6/status/1629947936544108556)
       - title: "Neděle"
         year: "26. února 2023"
         image: assets/img/timeline/2023-02-26.jpg
