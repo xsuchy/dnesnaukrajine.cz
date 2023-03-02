@@ -35,6 +35,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "2. březen 2023"
+        image: assets/img/timeline/2023-03-02.jpg
+        desc: "Všechny ruské zpravodajské kanály aktuálně žijí jedním a tím samým příběhem: Údajná skupina ukrajinských sabotérů pronikla do Brjanské oblasti a zajala několik civilistů. Původní zpráva se nicméně neustále měnila. Nejdřív mělo být sabotérů 40, potom 90, jednou měli zastřelit řidiče auta a zranit jeho děti, jindy měli vzít civilní rukojmí a spoutat je, jenom aby rukojmí vzápětí sami utekli. Poté ruská média informovala, že jednotky FSB pracují na likvidaci sabotérů a v místě se údajně odehrávaly přestřelky. Mezitím se objevilo video, na kterém příslušníci „Ruské dobrovolné armády“ stojí v jedné z vesnic v Brjanské oblasti a vyzývají ruské obyvatelstvo k boji proti Putinovi – tedy ne Ukrajinci, ale údajní pro-ukrajinští Rusové. Celý incident nicméně z mnoha důvodů připomíná další divadlo ruské FSB – útok pod falešnou vlajkou, za což ho označili i ukrajinští představitelé, kteří mimochodem před týdnem varovali, že v pohraničí byla pozorována skupina Rusů s ukrajinskými rozpoznávacími znaky a že se nejspíš chystá nějaká provokace, která by ospravedlnila budoucí kroky Ruska vůči Ukrajině. Ostatně, i já jsem o téhle zprávě psal. A Putin skutečně už pár desítek minut po první zmínce o „diverzní akci“ oznámil svolání mimořádné schůze Rady bezpečnosti Ruské federace. Dnešek bude možná ještě zajímavý. Ale teď pár potvrzených [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0K83DfzSWqnEmMyRzexpc8MXC2TAbzFvop2iRR6rMGrFruWWtjixafutpKaTRm9rrl):"
+        detail: |
+          - Ukrajinská armáda se prozatím nebude stahovat z Bachmutu. Naopak, do městě opět přesunula další posily. Současná situace nicméně naznačuje, že Bachmut dřív nebo později padne. Což je pravděpodobně situace, se kterou ukrajinská armáda od začátku počítá, pouze se tu snaží zopakovat scénář ze Severodoněcku, kde relativně malá posádka dokázala týdny bez ustání decimovat útočící ruské jednotky. V tomto ohledu je Bachmut ještě mnohem dál. Rusové tu ztráceli personál v objemu až 300 vojáků denně po několik měsíců, během kterých se stále mluvilo o tom, že Bachmut musí brzy padnout. Z pohledu efektivity a zdržovací taktiky je proto už teď Bachmut jednou z nejúspěšnějších obran v moderní vojenské historii. Britská rozvědka navíc předpovídá, že změna počasí v nejbližších dnech zhorší pohyb techniky okolo Bachmutu, což bude obráncům hrát do karet. Snad jsou ty karty nějaká skrytá esa. 
+          - Podle deníku The New York Times ztratili Rusové při mechanizovaných útocích na Vuhledar okolo 130 kusů těžké techniky. A útoky – a s nimi i ztráty – pokrčovaly i dnes. Analytici označili současnou ofenzivu u Vuhledaru za největší tankovou bitvu během ruské invaze. Bitvu, během které Rusové alespoň prozatím nepostoupili ani o metr. Navíc se blíží jarní tání, kdy se krajina stane pro těžkou techniku neprostupnou a Rusům tak nezbývá mnoho času, pokud chtějí tamější obranu prolomit. 
+          - Ukrajinci údajně dokončili vývoj vlastní úpravy sovětského systému BM-30 Smerč a úspěšně ji používají. Nový raketomet nese jméno Vilcha-M a jeho dostřel s novým typem raket naváděných pomocí GPS je prý až 110 km (v budoucnu dokonce až 150 km), což je už nyní dokonce o 30 km více, než kolik činí dostřel systému HIMARS. Pokud je to pravda, mohla by právě Vilcha být za neustálými útoky na Mariupol v posledních dnech. 
+          - Spojené státy přesunuly do Evropy svoje letadlo E-6B Mercury, jehož úkolem je mimo jiné koordinování komunikace mezi americkými jadernými ponorkami. 
+          - Ukrajinská pošta vydala další sérii známek. Je na ní vyobrazena nástěnná malba slavného umělce Banksyho, kterou vytvořil, když loni potají navštívil Ukrajinu. 
+          - Palba z ruských S-300 zasáhla obytné domy v Záporoží. Nejméně jeden se částečně zřítil. Několik lidí bylo při útoku zabito a další jsou nejspíš stále pod troskami. 
+          - Srbský prezident oznámil, že na srbské občany, kteří se nechali rekrutovat ruskými wagnerovci, čeká okamžitě po návratu do země vězení. 
+          - Na světlo vypluly překvapivé informace o tom, že Srbsko poskytlo Ukrajině 3 500 kusů raket pro raketové systémy Grad. 
+          - Proruští vandalové poničili v Kodani známou sochu Malé mořské víly. Nastříkali ji do barev ruské vlajky. 
+          - Podle ukrajinského velení nemá Rusko v Podněstří sílu, která by dokázala otevřít další frontu. 
+          - Ukrajinské síly v posledních 24 hodinách čelily 170 ruským útokům na pěti úsecích fronty. 
+          - Slovensko nejspíš poskytne Ukrajině 10 z 11 dříve vyřazených letounů MiG-29. 
+          - Rusko umístilo v Moskvě a okolí další systémy PVO a radarové stanice. 
+          - Německý kancléř apeloval na Čínu, aby nevyzbrojovala Rusko. 
+        videa: |
+          - [Údajní sabotéři ](https://twitter.com/wartranslated/status/1631242033791729667)
+          - [Poslední bitva gruzínského legionáře, neznámé datum ](https://twitter.com/Heroiam_Slava/status/1630828391627644928)
+          - [Ukrajinští piloti jsou superlidi ](https://twitter.com/Osinttechnical/status/1630939675606016002)
+          - [Ruská pěchota potkala u Vuhledaru podobný osud jako tanky](https://twitter.com/NOELreports/status/1631028132198137858)
+          - [Ukrajinci versus ruské tanky](https://twitter.com/PaulJawin/status/1631251644561125378)
+          - [Zasažené Záporoží ](https://twitter.com/nexta_tv/status/1631174218887970818)
+          - [ATGM versus ruští průzkumníci](https://twitter.com/PaulJawin/status/1631022549990617090)
+          - [A-50 z běloruského letiště míří zpátky do Ruska](https://twitter.com/NOELreports/status/1631262325985484800)
+          - [Poslední mise ukrajinského dronu](https://twitter.com/EuromaidanPress/status/1631202933449670659)
+          - [Koordinovaný útok tanku a pěchoty na ruské pozice](https://twitter.com/PaulJawin/status/1631189395356131332)
+          - [Bachmut](https://twitter.com/Bodbe6/status/1630921103047622659)
+          - [Kvalitní ochrana zachraňuje životy](https://twitter.com/nexta_tv/status/1631045959441326080)
+          - [Kája Gustafů](https://twitter.com/PaulJawin/status/1631225834529759238)
+          - [Konvoj se hýbe po odminované cestě](https://twitter.com/NOELreports/status/1631057199077244932)
+          - [Ukrajinské letouny nad Bachmutem](https://twitter.com/Bodbe6/status/1631037298530721793)
+          - [Mínus dva Ivani (citlivé)](https://twitter.com/herooftheday10/status/1631224874189443073)
+          - [Mínus ruský Tyulpan](https://twitter.com/PaulJawin/status/1631238978882945030)
+          - [Ruský útok překazila mina](https://twitter.com/Bodbe6/status/1630914192738746371)
+          - [Čtyři z BTR a pes](https://twitter.com/Osinttechnical/status/1631078941887700993)
+          - [Ruský dron dorazil opuštěný ukrajinský tank](https://twitter.com/clashreport/status/1631202415532752898)
       - title: "Středa"
         year: "1. březen 2023"
         image: assets/img/timeline/2023-03-01.jpg
