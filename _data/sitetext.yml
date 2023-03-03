@@ -35,6 +35,56 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "3. březen 2023"
+        image: assets/img/timeline/2023-03-03.jpg
+        desc: "Během včerejška se vyrojily další informace k incidentu v ruském pohraničí. K akci se skutečně přihlásila „Ruská dobrovolnická armáda“ působící na straně Ukrajiny. Okázalý způsob provedení tak měl nejspíš za cíl vyslat signál a ponížit ruské pohraničníky – ukázat, že kdykoliv může kdokoliv do Ruska vstoupit a Rusko s tím nic nedokáže udělat. Nešlo ale jen o demonstraci síly, akce měla i konkrétní výsledky. Skupina sabotérů totiž přichystala na zasahující ruské jednotky různé nástrahy. Čtyři ruští vojáci speciálních jednotek a pyrotechnik odpovídající na hrozbu byli těžce raněni poté, co jejich vozidlo najelo na nastraženou minu. Akce také nezůstala bez odezvy. Zareagovali na ní partyzáni z Džankoje na okupovaném Krymu, kteří na videu oznámili, že přichystali sklady munice a mohou kdykoliv odpálit železniční trasy, aby umožnili ukrajinské armádě hladší vstup na Krym. Oproti tomu Putin podle očekávání označil akci za teroristický čin, ovšem zdá se, že opět zůstane pouze u siláckých prohlášení. Nicméně třeba ještě překvapí. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0S49hADNh6ZbBvDcGY9kHmc9hf1XNTDmW3USdASsx27SMTY8mQiNWfMnH49epeRc3l):"
+        detail: |
+          - Zatímco kolaboranti Ruska v Evropě a USA volají po míru (tedy k de facto po porážce Ukrajiny), volat v Rusku po míru může vést i k několika letům vězení. Ruské represivní složky už takto potrestaly řadu lidí, kteří nedělali nic jiného, než že drželi transparenty s nápisem „ne válce“. A podle ukrajinských představitelů chystá Rusko další zpřísnění zákonů týkajících se všeho, co Rusko nyní nazývá „diskreditace ruské armády“. Volat po míru znamená „diskreditovat ruskou armádu“? Proč asi. 
+          - Běloruští partyzáni zveřejnili video z letu malého průzkumného dronu, se kterým pronikli na Rusy využívané letiště u Minsku a bez problémů přistáli na satelitním „talíři“ ruského AWACSu. Podle nich byl průzkum následován dvěma kamikadze drony, které letadlo poškodili. Ruský letoun sice včera i tak odletěl do Ruska, ovšem podle partyzánů už se nevrátil, jak tvrdí Bělorusové, ale zůstal v Rusku, kde by měl podstoupit nutné opravy. 
+          - Podle deníku The Moscow Times oznámil Kazachstán po návštěvě ministra zahraničí Blinkena začátek nového strategického partnerství se Spojenými státy. Kazachstán byl přitom až dosud druhým nejdůležitějším členem Organizace Smlouvy o kolektivní bezpečnosti. V minulosti už své členství v organizaci zrušil Uzbekistán, Kazachstán by nyní mohl následovat. 
+          - Ukrajinci vyhodili do povětří několik mostů na vstupech do Bachmutu v přípravě na ústup z města a zřejmě se postupně stahují z východního břehu Bachmutovky za řeku. Podle blogujících vojáků z řad Ukrajinců tu sice obránci logicky vrší vlastní ztráty, ovšem poměr vůči útočícím Rusům je prý v nejaktivnějších sektorech fronty až 1:7-10 ve prospěch obránců. 
+          - Online tržnice Aliexpress znemožnila prodej DJI dronů ruským zákazníkům. Zároveň společnost vyrábějící drony omezila jejich funkcionality na území Ruska a stáhla svoje aplikace pro ovládání dronů z ruských obchodů s aplikacemi. 
+          - Kolomnou u Moskvy otřásl mohutný výbuch. Příčin byl nejspíš útok ukrajinského dronu, ale není zatím jisté, jestli explodoval ve vzduchu, nebo trefil svůj cíl.  
+          - V Rusku odsoudili 21letého brance Andreje Aleksejeva k 7 letům vězení za to, že ve Vladivostoku podpálil budovu vojenské správy. 
+          - V ruském Uljanovsku explodovalo letadlo Il-76 během testů v továrně Aviastar. Jeden z inženýrů byl zabit, 5 dalších vážně raněno. 
+          - Místní obyvatelé natočili explozi a následný požár v areálu letecké školy v ruském Krasnodaru. 
+          - Ukrajina od začátku války získala od ruské strany 1 426 těl padlých ukrajinských obránců. 
+          - Držitel Nobelovy ceny míru Ales Bjaljacki byl v Bělorusku odsouzen k 10 letům vězení. 
+          - Moldavský parlament schválil zákon měnící úřední jazyk z moldavštiny na rumunštinu. 
+          - Ukrajina poslala Turecku 101 tun humanitární pomoci.
+        videa: |
+          - [Průzkumný let běloruských partyzánů](https://twitter.com/nexta_tv/status/1631325731316793345)
+          - [Prigožinův apel na Zelenského ](https://twitter.com/NOELreports/status/1631569356810272770)
+          - [Vuhledar, speciální verze Hledání min](https://twitter.com/Azovsouth/status/1631375755622883361)
+          - [Partyzáni na Krymu](https://twitter.com/Ukraine_Twi/status/1631330671321919491)
+          - [Ničení ruských tanků ](https://twitter.com/EuromaidanPress/status/1631535122083368962)
+          - [Ruský dron minul](https://twitter.com/Bodbe6/status/1631436596359643137)
+          - [Ukrajinský kyborg](https://twitter.com/pravda_eng/status/1631444274456715264)
+          - [Dvě ukrajinské T-64 rozmetali ruská BMP ](https://twitter.com/EuromaidanPress/status/1631429677649653760)
+          - [Rusové v Marjince](https://twitter.com/Bodbe6/status/1631432833850900483)
+          - [Evakuace civilistů z Bachmutu ](https://twitter.com/EuromaidanPress/status/1631372798198263808)
+          - [Po útoku dronem na ruský sklad paliv v Tuapse](https://twitter.com/Bodbe6/status/1631422644179419136)
+          - [Dělostřelectvo zničilo ruský úkryt, ve kterém Ukrajinci předem nastražili miny ](https://twitter.com/PaulJawin/status/1631539759766962179)
+          - [Rotace pozorovatelé v JE u Záporoží ](https://twitter.com/rafaelmgrossi/status/1631329625379880965)
+          - [Mínus ruský Su-34](https://twitter.com/NOELreports/status/1631626553237950465)
+          - [Pád letounu](https://twitter.com/NOELreports/status/1631630869491326976)
+          - [Gun and run v režii Bělorusů](https://twitter.com/Bodbe6/status/1631431766731898883)
+          - [U Kreminny](https://twitter.com/am_misfit/status/1631400334169108481)
+          - [Doubleshot](https://twitter.com/Ukraine_Twi/status/1631549656869089280)
+          - [Zajatci u Bachmutu ](https://twitter.com/PaulJawin/status/1631633348832505859)
+          - [Ešelon s další ruskou technikou](https://twitter.com/NOELreports/status/1631388843793326102)
+          - [Ticho po ruském útoku, který neklapl](https://twitter.com/Bodbe6/status/1631420079811198978)
+          - [Kupředu](https://twitter.com/ukrainiansquad/status/1631309764821934082)
+          - [Dělostřelectvo zastavilo ruský postup u Bachmutu](https://twitter.com/Bodbe6/status/1631413586634461186)
+          - [Bachmut](https://twitter.com/am_misfit/status/1631563983756083201)
+          - [Kupředu na kolech a pásech](https://twitter.com/AlexRaptor94/status/1631200490846396418)
+          - [Mínus muniční sklad](https://twitter.com/PaulJawin/status/1631628256783790081)
+          - [Ukrajinský útok](https://twitter.com/Bodbe6/status/1631429444916109314)
+          - [Jiná část videa](https://twitter.com/Bodbe6/status/1631429092821159937)
+          - [Rus neprojel](https://twitter.com/PaulJawin/status/1631316201619050497)
+          - [Demobilizace Rusů](https://twitter.com/nevedimka123/status/1631581425391620096)
+          - [Odrážení Rusů](https://twitter.com/operativno_ZSU/status/1631537266152681472)
       - title: "Čtvrtek"
         year: "2. březen 2023"
         image: assets/img/timeline/2023-03-02.jpg
