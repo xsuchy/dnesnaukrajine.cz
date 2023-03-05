@@ -35,6 +35,51 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "5. březen 2023"
+        image: assets/img/timeline/2023-03-05.jpg
+        desc: "Dnes je to přesně 70 let od smrti Stalina. Jednoho z největších vrahů s lidské historii. Jeho vláda má podle různých odhadů na svědomí mezi 3-9 milióny obětí, z nichž největší počet je výsledkem řízených hladomorů na území Ukrajinské SSR. Přesto je Stalin v Rusku všeobecně vnímaný spíše jako pozitivní postava ruských dějin a značná část populace včetně velké části ruské politické reprezentace považuje Stalinův Sovětský svaz za jeden z vrcholů ruské státnosti. Putin sám pak opakovaně prohlašoval, že chce obnovit „slávu Sovětského svazu“, že rozpad svazu považuje za jednu z tragických událostí ruské historie a politiky, kteří to umožnili, neustále kritizuje a zesměšňuje. Rusko se zkrátka zaseklo ve 20. století. Jen nevidím nikoho, kdo by Rusko po válce z tohohle marasmu mohl vyvést. Ale teď už novinky:"
+        detail: |
+          - Další zdroje dementovaly zprávy o tom, že by Bachmut měl být obklíčen. Zásobovací koridor je údajně až 4 km široký a dál po něm poměrně volně proudí zásoby, munice i personál. Ukrajinské síly podle zdrojů z armády drží pevně obě křídla, kam dokonce přesunují svoje elitní jednotky, a ruským silám se nedaří smyčku utahovat. Stejný názor zastávají i analytici z ISW, kteří nevěří, že by se Rusům podařilo ve výhledné době město obklíčit. Situaci nepřímo potvrdil i Prigožin, který si opět postěžoval na zásobování jednotek a konstatoval, že pokud by wagnerovci museli svoje pozice opustit, ruská ofenziva se tu zcela zhroutí. 
+          - Šéf ukrajinské rozvědky Kyrylo Budanov konstatoval, že Rusku dojdou prostředky ke splnění vytyčených vojenských cílů ještě během letošního jara. Zároveň tvrdí, že jarní bitva bude nejspíš poslední velká bitva téhle války, protože Rusku dochází munice, technika, a především motivovaní profesionální vojáci. 
+          - Rusku se podle magazínu Bloomberg daří obcházet sankce mířící na pokročilou elektroniku použitelnou ve vojenských systémech. Využívá k tomu třetí země jako je Turecko, Kazachstán nebo Spojené arabské emiráty. 
+          - Podle ukrajinského ministerstva obrany jsou nemocnice v okupovaných oblastech přeplněné zraněnými ruskými vojáky a kvůli nedostatku logistických kapacit prakticky nedochází k jejich další evakuaci do Ruska. 
+          - Britská vojenská rozvědka informuje o případu, kdy Rusové poslali své mobilizované muže na „šturm“ pouze s ručními zbraněmi a lopatami. Důvod je podle Britů nedostatek munice v některých sektorech fronty.
+          - Podle CNN přicestovala do Spojených států skupina ukrajinských pilotů, kteří se budou cvičit na simulátorech v pilotování letounů F-16, aby se zjistilo, zda a za jak dlouho je možné piloty plně vycvičit. 
+          - Rusko údajně ztrácí kontrolu nad kozáckými pluky. Pluky Tigr a Step jsou údajně natolik rozčarované z neschopnosti ruských velitelů, že ignorují jejich rozkazy a vyhýbají se veškerému kontaktu.  
+          - Ukrajinci v blízké době začnou výrobu raket pro nové systémy Vilcha-M s doletem až 150 km. Testovací fáze prý nebude potřeba a testovat se bude rovnou při ostré palbě. 
+          - Polská policie zadržela 35letého muže, který podpálil dva sanitní vozy určené pro Ukrajiny. Ne, sympatizantům Ruska o žádnou humanitární pomoc opravdu nejde. 
+          - Podle ukrajinské armády nasadili Rusové poprvé na Ukrajině naváděné bomby UPAB-1500B, které teprve v roce 2019 představili na veletrhu.
+          - Německý Rheinmetall plánuje nákup 96 kusů tanků Leopard 1A5 vyřazených Švýcarskem z aktivní služby a následně je poskytnout Ukrajině.
+          - Británie zdvojnásobí počet tanků Challenger 2, které poskytne Ukrajině. Celkem jich tedy Ukrajina získá 28. 
+          - Počet obětí ruského útoku na obytný dům v Záporoží stoupl na 13. Jednou z obětí je osmiměsíční dítě. 
+          - Petr Pavel oznámil, že v dubnu navštíví Ukrajinu. 
+        videa: |
+          - [Prigožin o Bachmutu](https://twitter.com/wartranslated/status/1632148708748935168)
+          - [V čem přišli Rusové na frontu ](https://twitter.com/nexta_tv/status/1632338918434832384)
+          - [Ruský zákop po útoku Ukrajinců ](https://twitter.com/herooftheday10/status/1632361653743263745)
+          - [Ukrajinci bojují o svůj zákop](https://twitter.com/Bodbe6/status/1632190490278780930)
+          - [Kulometné hnízdo u Vuhledaru ](https://twitter.com/Tendar/status/1632302477121912832)
+          - [Posily na frontu nedojely](https://twitter.com/PaulJawin/status/1632276302567821313)
+          - [Mínus modernizovaný ruský tank](https://twitter.com/UAWeapons/status/1632339858533367808)
+          - [Jauvajs](https://twitter.com/PaulJawin/status/1632308772012978176)
+          - [Bachmut](https://twitter.com/DenesTorteli/status/1632097960589664256)
+          - [Ruská obranná linie](https://twitter.com/Bodbe6/status/1632366682952937472)
+          - [U Doněcku cosi bouchá](https://twitter.com/WarMonitors/status/1632364611864338434)
+          - [Mínus tank](https://twitter.com/herooftheday10/status/1632312192908312586)
+          - [Trefa! (citlivé)](https://twitter.com/Bodbe6/status/1632363041583931395)
+          - [Palba na ruské pozice](https://twitter.com/NOELreports/status/1632009843706822658)
+          - [Ukrajinské BTR v Bachmutu ](https://twitter.com/Bodbe6/status/1632106757412515840)
+          - [Polský Twardy u Bachmutu](https://twitter.com/WarMonitors/status/1632331387150782466)
+          - [Těžký kulomet v okně v Bachmutu ](https://twitter.com/Bodbe6/status/1632097200380444672)
+          - [Demobilizace okupantů ](https://twitter.com/666_mancer/status/1632374610724364293)
+          - [Ruský grad trefil ukrajinský tank](https://twitter.com/Bodbe6/status/1632096223732588545)
+          - [Ruské s MT-LB s věží určenou pro lodě](https://twitter.com/PaulJawin/status/1632334006162280449)
+          - [Nesjpíš nová ruská bomba](https://twitter.com/WarMonitors/status/1632151563278905344)
+          - [Likvidace min](https://twitter.com/PaulJawin/status/1632276468381147137)
+          - [Po přestřelce ](https://twitter.com/herooftheday10/status/1632336489718640642)
+          - [Tanky ZSU](https://twitter.com/operativno_ZSU/status/1632079909869834240)
+          - [Mobíci](https://twitter.com/Andrii_L1983/status/1632077440125206530)
       - title: "Sobota"
         year: "4. březen 2023"
         image: assets/img/timeline/2023-03-04.jpg
