@@ -35,6 +35,57 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+     - title: "Pondělí"
+        year: "6. březen 2023"
+        image: assets/img/timeline/2023-03-06.jpg
+        desc: "Řada lidí zpochybňovala útok běloruských partyzánů na ruský AWACS na letišti u Minsku, nicméně i když chybí přímé důkazy, existuje spousta vedlejších indicií o tom, že útok proběhl. Největší z nich je fakt, že AWACS jen dva dny nato z letiště odletěl do Ruska a prozatím se do Běloruska nevrátil (údajně měl odletět na opravy), další indicií je fakt, že na incident reagovaly ruské politické a vojenské špičky, a nakonec i to, že běloruské represivní složky spustily sérii razií s cílem odhalit pachatele útoku. To vše ukazuje na to, že útok skutečně proběhl, pouze škody způsobené letadlu nebyly tak velké, jak se původně tvrdilo. Letadlo bylo sice schopné odletět, ale evidentně nemohlo dál poskytovat podporu ruským MiGům. Takže nejspíš dobrá práce, kluci! A teď pár novinek:"
+        detail: |
+          - Analytici z ISW píšou, že ukrajinská armáda nejspíš provedla limitovaný taktický ústup části posádky z Bachmutu. V tom se ani podle jiných zdrojů nemýlí. Ukrajinci skutečně v minulých dnech z Bachmutu stáhli některé jednotky dál od fronty, ale nejspíš se to týkalo pouze některých velitelských štábů a aerorozvědky. Nic nenaznačuje tomu, že by se měla stahovat pěchota nebo speciální jednotky. V jejich případě probíhají dál standardní rotace. Ukrajinci nicméně přesunuli většinu obránců z pozic v Zabachmutovce na západní břeh řeky a v oblasti teď operují pouze skupiny speciálních jednotek. Obklíčení se ale ani dnes nekoná. 
+          - Britská rozvědka konstatovala, že Rusko už zprovoznilo okolo 800 dříve zakonzervovaných tanků T-62, které narychlo opatřilo lepší optikou a postupně je nasazuje na Ukrajině. Zároveň se na bojišti objevila také vozidla BTR-50, která byla poprvé uvedena do služby v ruské armádě v roce 1954. Ano, Rusko aktuálně válčí s použitím 70 let staré techniky. A to Ukrajina ještě ani nenasadila do bojů většinu nových tanků a obrněnců z letošních západních dodávek techniky. 
+          - Podle Scholze je Západ připraven poskytnout Ukrajině bezpečnostní záruky, jakmile válka skončí. Zároveň Scholz oznámil, že podmínkou pro jakákoliv mírová jednání je stažení ruských vojsk z Ukrajiny, a obratem popřel, že by Německo chtělo tlačit Ukrajinu do jakýchkoliv ústupků a unáhlených rozhovorů. 
+          - Podle deníku Financial Times možná Rusové odložili svůj záměr nakoupit balistické rakety od Íránu, protože se obávají, že by Spojené státy reagovaly dodávkou střel ATACAMS Ukrajině. 
+          - Analytici spekulují, že Čína se dostala do křížku s Ruskem poté, co Rusko dopustilo, aby na veřejnost unikly informace z jejich jednání o potenciálních dodávkách munice a zbraní. 
+          - Estonské parlamentní volby opět vyhrála současná premiérka a hlasitá zastánkyně vojenské pomoci Ukrajině Kaja Kallas. Její strana získala přes 30 % hlasů. 
+          - Podle deníku ASTRA došlo v Brjanské oblasti k přestřelce mezi ruskými branci. Jeden z branců byl během ní zabit. 
+          - Britská asociace včelařů darovala Ukrajině metrák vosku na výrobu svíček pro vojáky v zákopech.  
+          - V Haagu už v létě začne pracovat Mezinárodní centrum pro vyšetřování zločinů Ruské federace.
+          - Prigožin tvrdí, že ruská armáda odepřela jeho zástupci přístup do hlavního štábu ruské operace. 
+          - Velká exploze v noci otřásla koksovnou a plynárnou ve městě Vidnoje u Moskvy. 
+          - Ukrajinská PVO v noci sestřelila 13 z 15 dronů Shahed vyslaných na Ukrajinu. 
+          - Ukrajinské dělostřelectvo zničilo děla a MLRS Rusů na Kinburnské kose.   
+          - Ukrajinské síly v posledních 24 hodinách čelili 95 ruským útokům. 
+          - Do Kyjeva přijel předseda německé SPD.
+        videa: |
+          - [Milý ruský chlapec](https://twitter.com/nexta_tv/status/1632505628810723329)
+          - [Helikoptéry ve smyku](https://twitter.com/TheDeadDistrict/status/1632661053052973057)
+          - [Report z Bachmutu](https://twitter.com/NOELreports/status/1632695665305300993)
+          - [Rusové zničilo první Leopard 2, ehm…](https://twitter.com/NOELreports/status/1632402798179409920)
+          - [Past na orky](https://twitter.com/EvaTrmx86qc7r/status/1632421788016599040)
+          - [Pilot dronů pod ruskou palbou](https://twitter.com/UkrainianNews24/status/1632658421680861185)
+          - [ATGM na ruské pozice ](https://twitter.com/Osinttechnical/status/1632510088647790594)
+          - [Slovensko](https://twitter.com/Posledniskaut/status/1632386060259917824)
+          - [Jak uvařit ruský tank](https://twitter.com/Osinttechnical/status/1632453563581440002)
+          - [Hledání min u Vuhledaru pokračuje](https://twitter.com/EuromaidanPress/status/1632449144899141632)
+          - [Zajatý wagnerovec](https://twitter.com/picasso_ua/status/1632427884961734656)
+          - [Exploze a požár chemičky v Moskvě](https://twitter.com/NOELreports/status/1632487630242807809)
+          - [Novináři se ptali obyvatel Moskvy, zda je potřeba napadnout Polsko](https://twitter.com/nexta_tv/status/1632477722524938240)
+          - [Nedáš, dostaneš](https://twitter.com/PaulJawin/status/1632655880943460353)
+          - [Doražení opuštěných tanků](https://twitter.com/EuromaidanPress/status/1632577490685403138)
+          - [Velké bum v režii Ukrajinců ](https://twitter.com/visegrad24/status/1632558043517861889)
+          - [Kulomet Maxim s velmi zajímavou úpravou](https://twitter.com/CalibreObscura/status/1632454588782505988)
+          - [Ukrajinské BMP na předměstí Bachmutu ](https://twitter.com/NOELreports/status/1632648978327130113)
+          - [Helma zachránila život](https://twitter.com/small10space/status/1632344084491771905)
+          - [Trefa!](https://twitter.com/PaulJawin/status/1632428513964720128)
+          - [Zasažená ruská základna v okupovaném městě Volnovacha](https://twitter.com/NOELreports/status/1632453481570217984)
+          - [Rusové při pouličních bojích ](https://twitter.com/Bodbe6/status/1632378456674648065)
+          - [Rovnou do jamky](https://twitter.com/PaulJawin/status/1632682933625421824)
+          - [Ruská PVO v Tuapse](https://twitter.com/NOELreports/status/1632684571497054209)
+          - [Nový ruský robot :D](https://twitter.com/AnonOpsSE/status/1632441863104864256)
+          - [Trefa](https://twitter.com/Andrii_L1983/status/1632653625515204610)
+          - [Konvoj u Bachmutu](https://twitter.com/PStyle0ne1/status/1632482914695798786)
+          - [U Kreminny](https://twitter.com/PStyle0ne1/status/1632468851253190659)
+          - [Nepodařený ukrajinský protiútok](https://twitter.com/Militarylandnet/status/1632491304214052864)
+          - [Slovenská Zuzka](https://twitter.com/TarmoFella/status/1632704329139343360)
       - title: "Neděle"
         year: "5. březen 2023"
         image: assets/img/timeline/2023-03-05.jpg
