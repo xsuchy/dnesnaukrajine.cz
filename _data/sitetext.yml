@@ -35,6 +35,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "8. březen 2023"
+        image: assets/img/timeline/2023-03-08.jpg
+        desc: "Mezinárodní den žen. Ty ukrajinské by určitě také ocenily kytku a bonboniéru. Namísto toho si letos stejně jako jejich mužští kolegové přejí hlavně nové tanky, děla, letadla a munici, aby si mohli příští MDŽ oslavit v bezpečí ve své vlastní zemi. V ukrajinské armádě slouží desítky tisíc žen ve všech typech jednotek včetně útočných brigád a další možná stovky tisíc se denně zasluhují o to, aby mohli jejich bojující spoluobčanky efektivně pracovat: vaří obědy pro vojáky na frontě, pracují jako zdravotnický personál, starají se o logistiku nebo prostě jen udržují ukrajinskou ekonomiku v chodu. A jiné stovky tisíc pak našly společně s dětmi druhý domov v některé ze západních zemí, zatímco jejich příbuzní umírají za to, aby se jednou mohly vrátit domů. Bohužel, tohle je realita Evropy v roce 2023. Mysleli jsme si, že Rusko má v moderním světě svoje místo. A v tom jsme se šeredně zmýlili. Ale teď už [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid035BSyvshf3dsJZxdhsBvFPzAxbpcUxNJiFaU5DdUKTBBDRMHepU1dsYvcjrAGsC6ql):"
+        detail: |
+          - Ukrajinci podnikli v Bachmutu protiútokem na severozápadě města a vytlačili Rusy o zhruba kilometr nazpátek z jejich nedávno ukořistěných pozic. Po stažení Ukrajinců z východního břehu Bachmutovky je situace o něco klidnější než v minulých dnech, ale důvodem je nejspíš to, že si vyčerpání Rusové dávají pauzu. Podobně klidné jsou i ostatní úseky fronty, například u Svatového nebo Kreminny. Prigožin se po poraženeckých prohlášeních z minulých dnů nechal natočit u tanku v Zabachmutovce, kde provokoval ukrajinské velení k nasazení „profesionální armády do Bachmutu namísto starců a dětí“. Pokud dosud drželi Bachmut „starci a děti“, pak odváděli sakra dobrou práci. 
+          - V Gruzii vypukly masové protesty poté, co parlament schválil návrh zákona, zavádějící po vzoru Ruska registr „cizích agentů“. Protestující se střetli s policií a požadují stažení zákona, odklon od Ruska a přiblížení se EU. Prezidentka už avizovala, že demonstranty podpoří a zákon nepodepíše. Policie nasadila proti davům slzný plyn, gumové projektily a také maskované muže bez uniforem nebo poznávacích znaků, kteří se účastní násilných potyček. Protesty přesto dnes pokračovaly. Spojené státy kvůli navrženému zákonu a násilnému potlačování protestů pohrozily současné gruzínské vládě sankcemi.
+          - Podle deníku New York Times s odvoláním na zdroje v americké rozvědce stojí za explozemi plynovodu Nord Stream neznámá proukrajinská skupina šesti lidí, kteří si pod falešnými pasy půjčili v Polsku jachtu od ukrajinské společnosti a provedli sabotáž za pomoci potápěčské výstroje. Zároveň ale zdroje připouští, že může jít o záměrně vytvořenou falešnou stopu. 
+          - Jižní Korea dala Polsku svolení předat Ukrajině houfnice Krab, které mají některé jihokorejské součástky včetně podvozku. Kraby jsou sice na Ukrajině už od poloviny minulého roku, ale formální souhlas Jižní Korea poskytl teprve nyní. 
+          - Wagnerovci nově umožňují, aby se do jejich řad přidali i lidé, kteří se léčí s psychiatrickými problémy. K přijetí postačí schopnost vykonávat běžné úkoly stanovená na základě sebediagnózy podle zaslaných instrukcí. 
+          - Podle analytiků z ISW je nepravděpodobné, že by Rusové případné obsazení Bachmutu dokázali zúročit v dalších operacích, protože jednoduše nemají dostatek veškerých kapacit, zejména těžké techniky.  
+          - Slovenský ministr obrany v rozhovoru pro Telex prozradil, že „neutrální“ Maďarsko je ve skutečnosti zapojené ve výcviku ukrajinských vojáků, konkrétně bojových mediků. 
+          - Ukrajinská SBU informovala, že se Rusko pokouší získávat klíčové zpravodajské informace od Ukrajinců tak, že se jeho agenti vydávají za zahraniční novináře. 
+          - V Kyjevě se včera konal pohřeb čtyř vojáků, kteří byli zabiti během diverzní akce u ruského Brjansku. 
+          - V českých Krabčicích došlo k odcizení koně Zazu, který patří čečenskému vůdci Ramzanu Kadyrovi. 
+          - Proběhla další výměna zajatců. 130 Ukrajinců se vrátilo domů výměnou za 90 Rusů. 
+          - V Moskvě včera vypukl požár v budově Ministerstva vnitra.
+        videa: |
+          - [MDŽ](https://twitter.com/NOELreports/status/1633429731407192065)
+          - [Sestřih od projektu Phoenix](https://twitter.com/AkiraMnnk/status/1633421966567669762)
+          - [Noční trefa dronem ](https://twitter.com/bigSAC10/status/1633243685662883840)
+          - [V ruské televizi tvrdí, že v Británii kvůli nedostatku jídla jedí veverky](https://twitter.com/Gerashchenko_en/status/1633136675567153153)
+          - [Chystání dárečků](https://twitter.com/DarPutinovi/status/1633075290028097537)
+          - [Přepad ruských pozic a zajatci](https://twitter.com/NOELreports/status/1633087368277229569)
+          - [Vlajka EU v centru protestů v Gruzii](https://twitter.com/nexta_tv/status/1633185664366788608)
+          - [Neprošli](https://twitter.com/PaulJawin/status/1633396947636592640)
+          - [Nevybuchlá půltunová bomba](https://twitter.com/NOELreports/status/1633180953630605312)
+          - [Propuštění zajatci](https://twitter.com/KyivIndependent/status/1633135614655700993)
+          - [Ukrajinské tanky na lovu](https://twitter.com/EuromaidanPress/status/1633279868657082368)
+          - [Starší video po ubránění zákopů u Soledaru ](https://twitter.com/TarmoFella/status/1633398041053937664)
+          - [Sakra dobrá trefa](https://twitter.com/PaulJawin/status/1633351030459990018)
+          - [Tank v roli děla](https://twitter.com/NOELreports/status/1633134996499189760)
+          - [Údajný zátah na sabotéry v Bělorusku](https://twitter.com/Bodbe6/status/1633204957926047745)
+          - [Ruské BMP podniklo svůj poslední výpad](https://twitter.com/PaulJawin/status/1633422534061301760)
+          - [HIMARS time](https://twitter.com/NOELreports/status/1633245820152606720)
+          - [Noční demobilizace](https://twitter.com/PaulJawin/status/1633170266955104258)
+          - [Ukrajinci dali najíst ruským zajatcům](https://twitter.com/NOELreports/status/1633176995986128898)
+          - [Rusové v okupované škole](https://twitter.com/bluecheked/status/1633377667855659010)
+          - [Trefa!](https://twitter.com/nevedimka123/status/1633344615108562945)
+          - [Vůdce Nočních vlků o "speciální operaci"](https://twitter.com/francis_scarr/status/1633128051969015808)
       - title: "Úterý"
         year: "7. březen 2023"
         image: assets/img/timeline/2023-03-07.jpg
