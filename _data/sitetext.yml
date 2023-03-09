@@ -35,6 +35,50 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "9. březen 2023"
+        image: assets/img/timeline/2023-03-09.jpg
+        desc: "Ukrajina v noci zažila jeden z největších ruských raketových útoků. Cílem byl opět primárně civilní energetická infrastruktura nejméně ve čtyřech regionech, poškozeny byly tři teplárny a některé rozvodny, nicméně rakety už tradičně dopadaly i na obytnou zástavbu. V celé zemi jsou hlášeny výpadky proudu. Vypáleno bylo údajně 81 raket, 34 měla sestřelit ukrajinská protivzdušná obrana společně se 4 drony. Rusové tentokrát použili prakticky všechny druhy raket, které mají v arzenálu, včetně různých klamných cílů a raket, které ukrajinská PVO nedokáže v současné době sestřelovat: Ch-101, Kalibry, Ch-22, Kinžaly, Ch-47, Ch-31P, X-59 i S-300. Ve Lvově na západě Ukrajiny rakety zabily nejméně pět civilistů. Jaderná elektrárna v Enerhodaru se kvůli útoku musela opět přepnout na nouzové generátory, aby nedošlo k přerušení chlazení jaderného paliva. Pojďme to říct na rovinu a rázně: Jakákoliv země, která v 21. století cíleně ničí elektrárny, plynárny a teplárny nemá v civilizovaném světě co dělat. A může to vysvětlovat a omlouvat jakoukoliv lží, kterou si zrovna vymyslí. Nic to nemění. A teď ostatní [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0suwJ8ZuYxEDpfCNCdC5hvyELvBEAEkCiKP7TMuJvc8EEba2UbtbHtA11B2sai4Hnl):"
+        detail: |
+          - Podle západních analytiků plánovali Rusové nalákat do Bachmutu co nejvíce ukrajinských rezerv a vyčerpat je před plánovanou ukrajinskou protiofenzivou. Zálužný ale na ruskou hru nepřistoupil a nechal raději rezervisty cvičit v zahraničí a obranu Bachmutu posílil o jednotky teritoriální obrany a dobrovolnické prapory. Tento krok v nadcházejících týdnech umožní Ukrajině uvést na bojiště tři kompletní dobře vycvičené a vyzbrojené mechanizované útočné brigády a o síle až 20 000 vojáků, schopné provádět koordinované útoky za účasti všech složek armády. Ministr Reznikov informoval, že k minimalizaci ztrát potřebuje Ukrajina obdržet od partnerů 1 milión kusů 155mm dělostřelecké munice. 
+          - Ukrajinské úřady opravily svoje původní tvrzení o totožnosti zavražděného ukrajinské zajatce. Podle nových informací jde o člena černihivské teritoriální obrany Oleksandra Macijevského. Jeho tělo bylo získáno během výměny padlých vojáků a předáno rodině poté, co v márnici v Kyjevě potvrdili jeho totožnost. 
+          - Pentagon údajně zabránil Bidenově administrativě, aby sdílela svoje informace o ruských válečných zločinech s Mezinárodním trestním tribunálem. Důvodem je podle spekulací to, že informace pocházejí od americké rozvědky, a ta zatím nechce ohrozit svoje zdroje v ruských strukturách a armádě. 
+          - Bývalý americký prezident Donald Trump v pořadu Fox News prohlásil, že jeho „řešení“ ukrajinské otázky spočívalo v tom, že by Rusku nechal okupované části Ukrajiny, aby zabránil vypuknutí války. Televize poté manipulativně vystřihla část, kde tento nápad zmiňoval. 
+          - Gruzínská vládla dnes stáhla z parlamentu svůj návrh zákona o zahraničních agentech. Dva dny kvůli němu protestovaly desetitisíce lidí v centru Tbilisi a demonstrace provázely násilné střety s policií. Podporu protestujícím otevřeně vyjádřil i prezident Zelenský. 
+          - Generálník tajemník NATO vyjádřil obavy, že by Bachmut mohl padnout v příštích několika dnech. Šéf americké rozvědky předpovídá, že Rusové by následně mohli přejít do defenzivy, protože na pokračování ofenzivních akcí jim chybí kapacity. 
+          - Okupační správa Podněstří oznámila že překazila teroristický útok, který byl plánován ukrajinskou rozvědkou proti některým podněsterským politikům. Tak určitě. 
+          - Británie otevře na severu Norska základnu „Camp Viking“, 65 km jižně od města Tromsø. Její posádku bude tvořit Královská námořní pěchota. 
+          - Sbírka Dárek pro Putina dokončuje produkci 15 vozidel Viktor určených k sestřelování dronů. 
+          - Matky padlých Rusů v Baškirsku obdržely jako kompenzaci květiny a chytré hrnce. 
+          - EU do konce roku vycvičí 30 000 ukrajinských vojáků. 
+        videa: |
+          - [„Jsme obklíčeni!“](https://twitter.com/aprilsparkles1/status/1633422273133649921)
+          - [Cesta do Bachmutu je opět průjezdná ](https://twitter.com/EuromaidanPress/status/1633664152269930500)
+          - [Akce skončila zajetím pro několik Rusů](https://twitter.com/Bodbe6/status/1633772398951518208)
+          - [Blízké setkání s orkem](https://twitter.com/GirkinGirkin/status/1633695220880621570)
+          - [Celé video ](https://twitter.com/Bodbe6/status/1633774228662108161)
+          - [Likvidace požáru po dopadu rakety v Kyjevě](https://twitter.com/KyivIndependent/status/1633722647606427648)
+          - [Místo dopadu rakety ve Lvově](https://twitter.com/EuromaidanPress/status/1633768111647203330)
+          - [Ukrajinec a Rus si vyměňují názory na pár metrů při boji ve městě](https://twitter.com/Bodbe6/status/1633619895416963072)
+          - [Dron nedal tanku pokoj](https://twitter.com/NOELreports/status/1633787325393129474)
+          - [Mobíci půjdou radši do vězení než na frontu ](https://twitter.com/wartranslated/status/1633518847671123968)
+          - [Mínus ruský TOS-1](https://twitter.com/nexta_tv/status/1633521141947015198)
+          - [Napodruhé trefa](https://twitter.com/herooftheday10/status/1633788487102083074)
+          - [Medici na Doněcké frontě](https://twitter.com/EuromaidanPress/status/1633711210637197312)
+          - [Syrský stále v Bachmutu](https://twitter.com/nexta_tv/status/1633445754663587842)
+          - [Noční trápení mravenečků](https://twitter.com/Bodbe6/status/1633770653659660291)
+          - [Ukrajinské Su-25 během náletu ](https://twitter.com/EuromaidanPress/status/1633694601403056128)
+          - [Bahýnko](https://twitter.com/Seveerity/status/1633546192834396160)
+          - [Dělostřelci versus wagnerovci](https://twitter.com/Bodbe6/status/1633525750862172160)
+          - [V zákopu po dělostřeleckém přepadu ](https://twitter.com/TarmoFella/status/1633177684078391296)
+          - [Rychle přes most ](https://twitter.com/Gerashchenko_en/status/1633742164973723648)
+          - [Ruská technika v ruinách Marjinky](https://twitter.com/Bodbe6/status/1633527280591855627)
+          - [Krvavá stopa v termovizi po útoku dronu](https://twitter.com/Seveerity/status/1633581977990230020)
+          - [Gruzínci v Bachmutu ](https://twitter.com/Bodbe6/status/1633494791496318976)
+          - [Ruslana přišla o nohu, ale ne o úsměv](https://twitter.com/FutureFUkraine/status/1633433272796553216)
+          - [Výzva Rusů proti Putinovi](https://twitter.com/NOELreports/status/1633800195971350532)
+          - [Cesta do Bachmutu](https://twitter.com/Bodbe6/status/1633624483419287552)
+          - [Bývalý ruský zákop](https://twitter.com/herooftheday10/status/1633686265290792961)
       - title: "Středa"
         year: "8. březen 2023"
         image: assets/img/timeline/2023-03-08.jpg
