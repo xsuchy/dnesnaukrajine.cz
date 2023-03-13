@@ -35,6 +35,53 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "13. březen 2023"
+        image: assets/img/timeline/2023-03-13.jpg
+        desc: "Včera uplynulo 24 let od chvíle, kdy Česká republika vstoupila do NATO. Stali jsme se tehdy součástí nejsilnější a nejúspěšnější vojenské aliance v dějinách. Na území NATO se nikdy od jejího vzniku neválčilo, natož aby mezi sebou válčily státy NATO. Kombinovaná vojenská síla aliance totiž funguje jako dokonalý repelent na kohokoliv, kdo by si dělal na území jeho členů zálusk, a zároveň zaručuje bezpečí a stabilitu členských států díky vnímání obrany jakožto kolektivní otázky. Civilizovaný svět si prostě řekl, že válek bylo dost a že je lepší spolu mluvit, obchodovat a podporovat jeden druhého. Díky tomu dnes máme ten luxus, že agresivní a vylhanou válku Ruska s Ukrajinou můžeme pozorovat jako pouzí diváci a nemusíme se bát o vlastní životy a střechu nad hlavou. Přesto se pravidelně na demonstracích určité části populace objevují požadavky na vystoupení z aliance. V kontextu geopolitických událostí se to ale nedá nazvat jinak než jako vědomé ohrožení naší bezpečnosti. A pokud je přeci jen nevědomé, tak náš vzdělávací systém u některých spoluobčanů solidně selhal. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Kfw9YTn7gCqh9MkHAa1ZyY9CBuLLK9gYWpUVZ5y77CswdadW59KQspggHptMfV9Tl):"
+        detail: |
+          - Ukrajinské úřady publikovaly detaily o totožnosti zavražděného ukrajinského zajatce Oleksandra Macijevského. Oleksandr byl původně občanem Moldavska, jako dobrovolník vstoupil po únorové invazi do ukrajinských řad, kde působil jako snajpr ve 163. praporu 119. samostatné brigády černihivské teritoriální obrany. K jeho smrti mělo dojít už 30. prosince. V únoru pak Ukrajina získala zpět jeho ostatky. Prezident Zelenský Oleksandra post mortem vyznamenal titulem Hrdina Ukrajiny. 
+          - Ruští hackeři ukradli desítky gigabytů dat z chystané hry S.T.A.L.K.E.R. 2: Heart of Chornobyl a nyní vydírají ukrajinské herní studio GSC Game World, které za hrou stojí, že data zveřejní, pokud studio nevrátí do hry ruský dabing. Studio vydalo prohlášení, kde informovalo fanoušky, že jsou pod neustálými útoky už přes rok, hackeři dokonce v minulosti ukradli osobní data členů týmu, nicméně ujistili fanoušky, že se vydírat nenechají a poděkovali všem za přízeň a koupi hotové hry. 
+          - Moldavsko oznámilo, že rozkrylo síť ruských agentů, kteří měli za úkol destabilizovat politickou situaci v zemi. Sedm lidí bylo zadrženo, většina z nich měla do země přicestovat teprve nedávno, právě za tímto účelem. Úřady nicméně přesto varovaly, že Rusko hodlá využít politickou stranu Șor a jí pořádané protesty a případné nepokoje k dalším destabilizaci. Poslední z protestů se konal včera. Okolo 50 protestujících policie zadržela. 
+          - Německa policie prošetřuje napadení ukrajinského vojáka v hotelu Roomers v německém Frankfurtu. Člen ochranky hotelu, kde se voják zotavuje ze zranění utrpěných na frontě, měl Ukrajince konfrontovat kvůli jeho vojenské uniformě a následně ho napadnout, zlomit mu čelist a způsobit otřes mozku. 
+          - Švýcarsko oznámilo, že svých 60 kusů vyřazených raketových systémů země-vzduch Rapier raději rozebere, než aby je poskytlo Ukrajině. Podle Švýcarských představitelů země nechce, aby byly švýcarské zbraně použity ve válce. A k čemu je tedy vyrábí?? 
+          - Lukašenko přicestoval do Íránu na oficiální návštěvu. Během ní podepsal dohodu o vzájemné spolupráci a rozvoji obou zemí. Rusko, Bělorusko, Írán, Sýrie, Severní Korea. Tak vypadá novodobá fašistická Osa.  
+          - Prezident Pavel hovořil se svým ukrajinským protějškem Zelenským. Pavel ho ujistil o pokračující podpoře, diskutovali potřeby ukrajinské armády a domluvili také návštěvu Pavla v Kyjevě. 
+          - Americký bombardér B-52H Stratofortress předvedl demonstraci síly a přeletěl v doprovodu polských stíhaček nad Baltskými státy, někde pouhých 20-30 km od ruských hranic. 
+          - Indie oznámila, že podpoří západní sankce na export zboží do Ruska a nebude nakupovat ruskou ropu za cenu vyšší než je sankcemi stanovený strop. 
+          - Belgorodskou oblastí otřásla mohutná exploze. Ruské úřady mluví o práci PVO. Na sítích se ale objevily fotky ukazující, že k výbuchu došlo na zemi. 
+          - Do Argentiny přicestovalo od začátku invaze 10 500 těhotných Rusek, aby v zemi porodily a získaly pro děti argentinské občanství. 
+          - Ukrajina v roce 2022 poskočila na druhé místo v objemu importu zbraní a vojenské techniky. Před ní už je nyní jen Katar a Indie. 
+          - Část náborových center zřízených wagnerovci napříč Ruskem se nachází v budovách škol nebo sportovních klubů. 
+          - Podle ukrajinské rozvědky byl počet Wagnerovců až 45 000 mužů. Nyní jich zbývá pouze okolo 7 000. 
+          - Ukrajinští obránci včera čelili 102 ruským útokům. 
+        videa: |
+          - [POV Ukrajince zraněného v boji](https://twitter.com/Bodbe6/status/1634951042545909761)
+          - [Ošetřování na frontě](https://twitter.com/NOELreports/status/1635234101329555457)
+          - [Ukrajinský noční útok na Novou Kachovku](https://twitter.com/Bodbe6/status/1634922308543606784)
+          - [Prapor Aidar během útoku na ruské pozice](https://twitter.com/Militarylandnet/status/1635214841643405314)
+          - [FSB zatkla obyvatelku Chabarovsku, měla darovat peníze ZSU](https://twitter.com/nexta_tv/status/1635212999677050880)
+          - [Bachmut](https://twitter.com/Bodbe6/status/1635064572821528576)
+          - [Společná demobilizace ruských vojáků](https://twitter.com/NOELreports/status/1635259753508274176)
+          - [Křeček zákopový](https://twitter.com/EuromaidanPress/status/1635199439307681793)
+          - [O fous](https://twitter.com/Bodbe6/status/1634946339346984960)
+          - [Mínus ruský muničák](https://twitter.com/EuromaidanPress/status/1634982646391660544)
+          - [Noční práce](https://twitter.com/PaulJawin/status/1634964040966606849)
+          - [Pod palbou](https://twitter.com/ukrainiansquad/status/1634972005224304640)
+          - [Rusové se snaží sestřelit dron](https://twitter.com/Bodbe6/status/1635256258684149767)
+          - [Po přestřelce u Bachmutu](https://twitter.com/DimonchikKh/status/1635201538611376129)
+          - [Práce dronu s termovizí](https://twitter.com/PaulJawin/status/1635237445922074624)
+          - [Bachmut ](https://twitter.com/NOELreports/status/1634978043998666752)
+          - [Boje o Bachmut](https://twitter.com/Bodbe6/status/1634952974404558848)
+          - [Ruská Voroněž, i bez války](https://twitter.com/Tendar/status/1634958284636692480)
+          - [Další do fondu ](https://twitter.com/Andrii_L1983/status/1635010107200393217)
+          - [Práce mediků](https://twitter.com/Bodbe6/status/1634948692355739649)
+          - [Dopad v Bachmutu](https://twitter.com/DenesTorteli/status/1635168554550202368)
+          - [Mínus ruský tank](https://twitter.com/PaulJawin/status/1635235155236491265)
+          - [Nervózní z dronu za zády](https://twitter.com/NOELreports/status/1634936062450757632)
+          - [Prostě ho tam nechali](https://twitter.com/PaulJawin/status/1635174398213918721)
+          - [Práce snajpra](https://twitter.com/antiputler_news/status/1635020887975153665)
+          - [Marjinka, neprošli](https://twitter.com/herooftheday10/status/1635181655567777792)
       - title: "Neděle"
         year: "12. březen 2023"
         image: assets/img/timeline/2023-03-12.jpg
