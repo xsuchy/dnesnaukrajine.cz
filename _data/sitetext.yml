@@ -35,6 +35,50 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "15. březen 2023"
+        image: assets/img/timeline/2023-03-15.jpg
+        desc: "15. březen. Den, kdy v roce 1939 v Berlíně tehdejší prezident Emil Hácha odevzdal osud Československa do rukou Hitlera v domnění, že tím zaručí národu mír a právo na samostatnou existenci. Jak to dopadlo, víme. Němečtí vojáci vpochodovali do Československa a odzbrojili naši armádu, která měla zakázáno klást odpor. Namísto míru ale přišly popravy, represe a teror za vydatné podpory českých fašistů. A jen o pár měsíců později stejně vypukla válka. Jedna z nejhorších v historii. Přesto dnes různé skupiny blízké fašistům volají po tom, aby se Ukrajina vzdala a odzbrojila. V lepším případě mají nulové znalosti vlastní historie, ale spíše si přejí, aby Ukrajince potkal stejný osud, jako tehdejší Čechoslováky. Ale to bychom neměli dopustit. Už jen kvůli tomu, že už jsme tu chybu jednou udělali. A teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Vg4SjyVLY1481cMGnrPjJrVNFFADzKy6o1r5KAtvcoRr6uJTxLEPB4X76F8snso2l):"
+        detail: |
+          - Ruská stíhačka Su-27 způsobila pád amerického bezpilotního letounu MQ-9 nad Černým mořem. Podle Američanů dva ruské Suchoje několikrát proletěly nebezpečně blízko kolem dronu monitorujícího situaci na Ukrajině z mezinárodního vzdušného prostoru, přičemž na něj cíleně vypouštěly palivo. Při jednom z míjení pak mělo dojít ke kolizi, následkem které se dron zřítil do moře. Spojené státy to komentovali metaforickým mávnutím ruky, když označili ruské piloty za amatéry, kteří nevědí, co dělají. Obě strany následně odmítly, že by stály o vzájemný konflikt. 
+          - Jeden z ukrajinských velitelů v Bachmutu si postěžoval na katastrofální nedostatek dělostřelecké munice. Prý díky průzkumům znají okolo 75 % ruských palebných pozic, ale nemají, čím by je mohli zasáhnout. Zároveň uvedl, že velení jim v tuhle chvíli nedovoluje používat k ničení cílů západní zbraně, ačkoliv je mají k dispozici, kvůli jejich vysoké hodnotě. 
+          - Polsko a Slovensko oznámily, že hodlají poskytnout Ukrajině své letouny MiG-29. V obou případech jde o letouny vyřazené z aktivní služby. Polsko disponuje až 29 kusy, Slovensko 10. Na Ukrajinu by mohly odejít už během příštích 4-6 týdnů. Pokud k tomu dojde, je možné, že se přidají i další státy. 
+          - Podle britské rozvědky nutí nedostatek munice Rusy používat dávno prošlé střelivo, které je ale mimořádně nespolehlivé. V některých případech prý až 3 granáty z 20 vůbec nevybuchnou. Podle Britů je to hlavní důvod, proč očekávaná ofenziva Rusů selhává. 
+          - Pábitele Matouše Bulíře včera vyhledali a konfrontovali lidé, skutečně bojující v řadách Ukrajiny. Záznam z konfrontace najdete mezi odkazy na videa. Podle slov českých dobrovolníků mu „vystavili jízdenku zpátky do Česka“. 
+          - SBU odhalila ruského agenta, který měl podniknout atentáty na ukrajinské představitele. Mezi jeho cíli byl šéf rozvědky Budanov, ministr obrany Reznikov nebo někteří ukrajinští aktivisté. 
+          - Partyzáni v Melitopolu provedli bombový atentát na podnikatele a dopravního experta okupační správy Ivana Tkače. Explozi nepřežil. 
+          - Ukrajina dovolí duchovním z Kyjevsko-Pečerské Lávry zůstat v klášteru, pokud přejdou pod ukrajinskou pravoslavnou církev. 
+          - Během prvního měsíce dlouho očekáváné ruské jarní ofenzivy zatím Rusové obsadili 0,04 % Ukrajinského území. 
+          - Prezident Zelenský se setkal s veliteli ukrajinských sil. Všichni doporučili pokračovat v obraně Bachmutu. 
+          - V Moldavsku uspořádali další protesty také ruští občané, kteří v zemi pracují. Eh… 
+          - Putin se v Moskvě sešel s Bašárem Al-Asadem. 
+          - Nizozemsko poskytne Ukrajině dvě minolovky. 
+        videa: |
+          - [Konfrontace Bulíře](https://twitter.com/HonzaUA/status/1635947257924050944)
+          - [Bulíř podruhé](https://twitter.com/charlie_legion/status/1636011792215228417)
+          - [Ukrajinské BTR přežilo zásah protitankovou střelou](https://twitter.com/NOELreports/status/1635924852262535175)
+          - [Rusové během bitvy v zákopech omylem zastřelili vlastního ](https://twitter.com/Bodbe6/status/1635815326666354688)
+          - [Další zajatec z řad wagnerovců v ukrajinské uniformě](https://twitter.com/SerDer_Daniels/status/1635647626807762944)
+          - [Rusové svrhli masivní nálož na Kosťantynivku](https://twitter.com/nexta_tv/status/1635970406606688258)
+          - [Kosťantynivka pod těžkou palbou z Gradů](https://twitter.com/NOELreports/status/1635773766289485824)
+          - [Zničený ruský tank v Bachmutu](https://twitter.com/PaulJawin/status/1635723944094302231)
+          - [Příliš blízké setkání](https://twitter.com/NOELreports/status/1635946874417938433)
+          - [Ruský Su-24 šel u Bachmutu na chuj](https://twitter.com/nexta_tv/status/1635965410871853057)
+          - [Trefa](https://twitter.com/nexta_tv/status/1635940322134970371)
+          - [Poslední momenty Jordana Gatleyho během bitvy o Severodoněck](https://twitter.com/Bodbe6/status/1635832649339006978)
+          - [Jednotka Sršeň v akci ](https://twitter.com/PaulJawin/status/1635689659106721792)
+          - [Ruskou základnu navštívil HIMARS](https://twitter.com/NOELreports/status/1635743751866916864)
+          - [Ruská škola, normálka…](https://twitter.com/nexta_tv/status/1635935548647919638)
+          - [Mínus kamera](https://twitter.com/PaulJawin/status/1635693873900007438)
+          - [Odražený útok a zničený tank](https://twitter.com/Bodbe6/status/1635971486149124097)
+          - [Auto kolaboranta Tkače ](https://twitter.com/nexta_tv/status/1635679685072891918)
+          - [Incidentu u Národního muzea](https://twitter.com/HKlencik/status/1635903204977172480)
+          - [Po neúspěšném útoku](https://twitter.com/Bodbe6/status/1635810121241559042)
+          - [Mínus tank](https://twitter.com/PaulJawin/status/1636008803039694848)
+          - [Nedal blinkr](https://twitter.com/NOELreports/status/1636007218888732674)
+          - [Ukrajinský tank na frontě](https://twitter.com/SerDer_Daniels/status/1635831571839066114)
+          - [Trefa kamikadze dronem](https://twitter.com/herooftheday10/status/1635898452130365442)
+          - [Matyáš Zrno s dělostřelci ](https://twitter.com/MatyasZrno/status/1636023109714100226)
       - title: "Úterý"
         year: "14. březen 2023"
         image: assets/img/timeline/2023-03-14.jpg
