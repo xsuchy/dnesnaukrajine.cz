@@ -35,6 +35,55 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "19. březen 2023"
+        image: assets/img/timeline/2023-03-19.jpg
+        desc: "Boje se aktuálně odehrávají na pěti respektive šesti hlavních úsecích fronty: V Bachmutu, kde Rusové postupují nyní jen minimálně a Ukrajinci podnikli na jihu města několik menších protiútoků, severně od Bachmutu, kde Rusové plíživě postupují, ovšem za cenu ohromných ztrát, mimo jiné díky nepříznivému terénu pro útočící armádu, dále u Vuhledaru, kde Rusové včera opět neúspěšně rozbíjeli svou techniku o ukrajinskou obranu, u Avdivijky, kde se Rusům částečně daří na severní straně města posouvat frontu směrem na západ, na rozdíl od jižní strany, kde včera Ukrajinci zničili ruský konvoj, dále u města Kreminna, kde se Rusové pokouší, prozatím neúspěšně, prorazit dobře zakopané ukrajinské jednotky, a nakonec severně od Kupjansku, kde se Rusům podařilo znovu dobýt ukrajinské předmostí ve Dvoričném a posunout frontu o pár kilometrů jižněji. Rychlost postupu ale ani na – z ruského pohledu – nejúspěšnějších úsecích nenaznačuje, že by se Rusům mohl podařit nějaký zásadní průlom. Naopak Rusové přesouvají velké množství techniky k Záporoží, kde očekávají ukrajinskou ofenzivu. A skutečně, Ukrajinci dnes opět provedli průzkum bojem jižně od Orichivu. A teď zas pár novinek, které tomu všemu [dají kontext](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0d4AXe8yBGDuTNHZjc2mGRf6aAoCsnMaBfcnfYEzeFrKbSHjehEzdDapNTHsuYL4yl):"
+        detail: |
+          - Jeden z anglicky mluvících dobrovolníků popsal, jak se jim podařilo ukořistit plně funkční nejmodernější ruský tank T-90M. Ruský tank se měl přesunout na palebnou pozici a začít zaměřovat cíl, naproti němu ale byla jednotky dobrovolníků s Javelinem. Když to prý posádka ruského tanku viděl ve svých hledáčcích, okamžitě tank opustili a utekli, aniž by dobrovolníci museli vystřelit. Tank následně bleskurychle obsadili a odvezli a nyní pro něj prý shání náhradní termovizi. 
+          - Team4Ukraine informoval, že byl na Donbase vážně zraněn šrapnelem jeden z českých dobrovolníků-mediků, který má na kontě okolo 25 úspěšných evakuací. Nyní je v péči lékařů, o jeho stavu zatím organizace neposkytla bližší informace. Navíc měl padnout i další bojující Čech. Zkrátka to nebyl dobrý týden pro naše krajany na Ukrajině. Držme jim palce. 
+          - Zacharová oznámila, že Rusko je připraveno okamžitě ukončit válku a zahájit mírová jednání, pokud Západ stáhne všechna obvinění a zruší veškerá stíhání u Mezinárodního trestního soudu v Haagu,  také pokud Západ zruší veškeré protiruské sankce. Jinými slovy, Rusko není připraveno jednat o míru, ale stále žije v iluzi vlastní velikosti a síly. 
+          - Ruská ambasáda v Bratislavě vyhrožovala slovenské vládě. V příspěvku na Twitteru uvedla, že Slovensko by si mělo uvědomit, že aktivní zapojení do konfliktu může vést k nepředvídatelné a nebezpečné eskalaci, za kterou ponesou odpovědnost „aktéři přijímaných rozhodnutí“. 
+          - Wagnerovci zveřejnili video, na němž vyhrožovali násilím úřadům v jednom z ruských měst kvůli tomu, že úřady nechtěly povolit, aby byly na místním hřbitově pohřbeny dvě stovky padlých žoldáků. Úřady jim nakonec po obdržených výhrůžkách ustoupily. 
+          - Předpokládá se, že v nejbližších dnech Mezinárodní trestní tribunál požádá Interpol o součinnost při případném zadržení Vladimíra Putina. Země, které uznávají autoritu ICC, pak budou mít povinnost Putina zatknout, jakmile by se objevil na jejich území. 
+          - V Černém moři se nyní nachází několik ruských plavidel v blízkosti místa zřícení amerického dronu. Dá se tedy tušit, že Rusové se aktivně pokouší trosky najít a vylovit. 
+          - Zelenský schválil sankce vůči zhruba čtyřem stovkám dalších lidí. Většina osob pochází z Ruska ale jsou mezi nimi i lidé z Íránu a Sýrie, včetně diktátora Asada. 
+          - Rusové opět ostřelovali Karamatorsk ze systémů Smerč. Hlášeny jsou dvě oběti z řada civilistů a osm raněných. 
+          - Prigožin oznámil plán naverbovat dalších 30 000 dobrovolníku do své armády. 
+          - Úřady v Moskvě odstranily z Evropského náměstí vlajky 48 evropských států.
+          - Rusko souhlasilo s prodloužením obilné dohody o dalších 60 dnů.
+          - Putin údajně navštívil okupovaný Mariupol.
+        videa: |
+          - [Ruský Su-25 šel na chuj ](https://twitter.com/PaulJawin/status/1637125396511485954)
+          - [Ukrajinci zasáhli Kachovku](https://twitter.com/nexta_tv/status/1637390168293355520)
+          - [Kanadské Leopardy na cestě na Ukrajinu](https://twitter.com/EuromaidanPress/status/1637258837483716610)
+          - [Výhrůžky wagnerovců ](https://twitter.com/nexta_tv/status/1637152130195767305)
+          - [Kamikadze drony](https://twitter.com/EuromaidanPress/status/1637204520840167425)
+          - [Archivní video přepadu ruského BMD-4](https://twitter.com/Bodbe6/status/1637235140274298882)
+          - [Bachmut](https://twitter.com/herooftheday10/status/1637402463866068997)
+          - [Marina má novou nohu](https://twitter.com/nexta_tv/status/1637086433843326976)
+          - [Putin na Krymu](https://twitter.com/EuromaidanPress/status/1637176678756626432)
+          - [Setkání „s občany“ v Mariupolu](https://twitter.com/Hromadske/status/1637416210546475008)
+          - [Evakuace pod palbou ](https://twitter.com/Bodbe6/status/1637228131470770177)
+          - [Najdi Walda, jen s wagnerovci ](https://twitter.com/666_mancer/status/1637428444748185601)
+          - [ZSU pod palbou ](https://twitter.com/WarMonitors/status/1637188112756486146)
+          - [Ruský Rambo](https://twitter.com/666_mancer/status/1637380296017362947)
+          - [Přesná práce dělostřelců ](https://twitter.com/PaulJawin/status/1637394942459781121)
+          - [Boje v Bachmutu](https://twitter.com/Bodbe6/status/1637143796336001028)
+          - [Vampýr u Bachmutu ](https://twitter.com/NOELreports/status/1637218215918026755)
+          - [Evakuace padlého spolubojovníka](https://twitter.com/Bodbe6/status/1637092925182996487)
+          - [Igla zevnitř budovy](https://twitter.com/PaulJawin/status/1637409813536620544)
+          - [Raketa!](https://twitter.com/SkalaBattalion/status/1637369803047305217)
+          - [Práce dronů](https://twitter.com/PaulJawin/status/1637405911164633090)
+          - [Kupředu ](https://twitter.com/NOELreports/status/1637169878477025283)
+          - [Neprojeli, lokalita Opytne](https://twitter.com/PaulJawin/status/1637379528145207297)
+          - [Ukrajinské holky](https://twitter.com/SlavaUk30722777/status/1628011657812381697)
+          - [Skoro kosmonaut ](https://twitter.com/PaulJawin/status/1637382200831213569)
+          - [Bachmut](https://twitter.com/NOELreports/status/1637401284599857152)
+          - [SOF s pomocí dronu čistí Bachmut](https://twitter.com/PaulJawin/status/1637351849777823746)
+          - [U Moskvy hoří obří chemička](https://twitter.com/NOELreports/status/1637158189576732674)
+          - [Neschovali se ](https://twitter.com/PaulJawin/status/1637344295211483136)
+          - [Chystání dárečků](https://twitter.com/ukrainiansquad/status/1637428299793158144)
       - title: "Sobota"
         year: "18. březen 2023"
         image: assets/img/timeline/2023-03-18.jpg
