@@ -35,6 +35,56 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "20. březen 2023"
+        image: assets/img/timeline/2023-03-20.jpg
+        desc: "Podle Serhije Čerevatého, mluvčího východního křídla ukrajinské armády, už Rusové selhali ve své snaze obsadit Bachmut. Přiznal, že boje ve městě i na jeho krajích dál pokračují, ale zároveň konstatoval, že ztráty, které během nich utrpěla ruská armáda, znamenají, že nemají kapacitu na to, město obsadit. Podle vojáků působících přímo ve městě nejspíš Rusové sbírají síly na jeden poslední větší útok ze severu a jihu současně, nicméně i oni jsou poměrně sebevědomí v tom, že město nepadne. Prigožin už údajně připravuje mediální prostor na případný neúspěch wagnerovců, ze kterého chce vinit velení ruské armády. Proto v minulých dnech mluvil o nedostatku munice nebo cílené sabotáži zásobování ze strany regulérní armády. Příští dny tedy ukáží, zda se Ukrajinci nemýlí. Teď pár [dalších novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02ZvmSCkjZVJkVtmMFwuZrD5PfYRybS3xFRUv2qu7qnKYjeNh8b4QMRaAvnrLAH8zsl):"
+        detail: |
+          - Jihoafrická republika potvrdila své závazky vůči Mezinárodnímu trestnímu tribunálu v Haagu, tedy prakticky sdělila že vyhoví příkazu k zadržení prezidenta Putina. V JAR se má letos v srpnu konat summit skupiny BRICS, což znamená, že Putin se na něj tentokrát nesjpíš nepodívá. 
+          - Ruské ministerstvo zahraničí vydírá celý svět svým prohlášením, že na další prodloužení Obilné dohody dojde jedině tehdy, když Západ zruší některé sankce mířené na ruské zemědělství, a když Západ opět připojí ruské banky k systému SWIFT. 
+          - Prezident Pavel se vyjádřil, že Ukrajina má pravděpodobně jedinou šanci na úspěšnou ofenzivu v letošním roce, protože v příštím roce bude těžké udržet podporu západních partnerů. Zřejmě tak naráží na blížící se prezidentské primárky v USA. 
+          - Medveděv na svém Telegramu pohrozil Mezinárodnímu trestnímu tribunálu, že na něj Rusko může poslat svou nadzvukovou raketu Zirkon. Svůj příspěvek zakončil slovy: „vzhlížejte k obloze, soudci!“. 
+          - Kdosi se pokusil odpálit plynovod u Simferopolu na okupovaném Krymu. Potrubí se mu ale nepodařilo dostatečně poškodit a plyn v něm dál proudí. 
+          - Běloruský politický vězeň a občanskoprávní aktivista Losik se ve vězení pokusil o sebevraždu. S podřezaným zápěstím a krkem skončil v péči lékařů. 
+          - Vyšetřovací komise Ruské federace zahájila trestní stíhání soudců Mezinárodního trestního tribunálu v Haagu. Bože, to je klauniáda… 
+          - Ukrajinci podnikli další úspěšný protiútok na jihozápadě Bachmutu u obce Ivanivske. Rusové naopak mírně postoupili na severozápadě. 
+          - Blog Oryx včera přidal do své databáze vizuálně potvrzené zničené techniky 67 ruských kousků, z toho 20 tanků. 
+          - Skupina ukrajinských specialistů v Itálii dokončila výcvik v ovládání protivzdušných systémů SAMP-T. 
+          - 4 ukrajinští vojáci zahynuli pří blíže nespecifikovaném incidentu na jednom v armádních cvičišť. 
+          - Ukrajinci evakuovali všechny děti a jejich rodiny z města Časiv Jar západně od Bachmutu. 
+          - České ministerstvo zahraničí potvrdilo smrt českého bojovníka na Ukrajině. 
+          - Srbsko a Kosovo podepsaly smlouvy o normalizaci vzájemných vztahů. 
+          - Čínský prezident dorazil na třídenní návštěvu Moskvy. 
+        videa: |
+          - [Reportáž z Avdijivky](https://twitter.com/EuromaidanPress/status/1637514521794478080)
+          - [Neprojel ani jeden ](https://twitter.com/Bodbe6/status/1637474075135148032)
+          - [Dort a kytky pro tátu ](https://twitter.com/visegrad24/status/1637202488796299268)
+          - [Policie na Krymu zadržela čtyři školáky, kteří poničili ruskou vlajku](https://twitter.com/nexta_tv/status/1637700444188295168)
+          - [Ukrajinské helikoptéry při útoku](https://twitter.com/Osinttechnical/status/1637499503337938944)
+          - [Snajpr v Bachmutu](https://twitter.com/Bodbe6/status/1637524548013654016)
+          - [Rusové natočili sestřel vlastní helikoptéry](https://twitter.com/EuromaidanPress/status/1637576429625040896)
+          - […ale nejdřív si dám kafe](https://twitter.com/Bodbe6/status/1637747073545019392)
+          - [Auto kolaboranta udělalo pápá](https://twitter.com/nexta_tv/status/1637556409561755648)
+          - [Ruský tank neutekl před Javelinem ](https://twitter.com/bayraktar_1love/status/1637750120585261061)
+          - [Přestřelky u Bachmutu](https://twitter.com/NOELreports/status/1637775521944674310)
+          - [Spinkáčci u Bachmutu ](https://twitter.com/herooftheday10/status/1637779546266058755)
+          - [Cvičení s Leopardy](https://twitter.com/DefenceU/status/1637765676931891200)
+          - [Stormer přežil zásah Lancetem ](https://twitter.com/Bodbe6/status/1637746026265157632)
+          - [Bývalá ruská základna na severu Bachmutu](https://twitter.com/NOELreports/status/1637697970140266496)
+          - [Ruský letoun se v minulosti pokusil zneškodnit ukrajinský Bajraktar ](https://twitter.com/nexta_tv/status/1637492249142390784)
+          - [Britská vozidla na Ukrajině](https://twitter.com/EuromaidanPress/status/1637669543199002624)
+          - [Ukrajinskému vojákovi volal do zákopů vojenský komisariát ](https://twitter.com/nexta_tv/status/1637467634324185089)
+          - [SSO v Bachmutu ](https://twitter.com/Bodbe6/status/1637516098613526535)
+          - [Kolona u Bachmutu](https://twitter.com/EuromaidanPress/status/1637558463734710278)
+          - [Bahýnko](https://twitter.com/NOELreports/status/1637458659029528577)
+          - [Ruští branci navštívili ubikace juniorních vojáků](https://twitter.com/Wh0Know5/status/1637611100957974531)
+          - [Ruské zákopy a zničený ukrajinský tank](https://twitter.com/Bodbe6/status/1637629592247705602)
+          - [Vezení se na pásu, doslova](https://twitter.com/NOELreports/status/1637715706090487810)
+          - [Medici v akci](https://twitter.com/Bodbe6/status/1637515361258962944)
+          - [Mínus dva ruské útočné oddíly](https://twitter.com/NOELreports/status/1637701219874488322)
+          - [Po ukrajinském protiútoku](https://twitter.com/DenesTorteli/status/1637709769409429504)
+          - [Přepad plus zajatec ](https://twitter.com/Andrii_L1983/status/1637556991915708420)
+          - [Neúspěšný ruský útok](https://twitter.com/worldonalert/status/1637469423404498945)
       - title: "Neděle"
         year: "19. březen 2023"
         image: assets/img/timeline/2023-03-19.jpg
