@@ -35,6 +35,55 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "22. březen 2023"
+        image: assets/img/timeline/2023-03-22.jpg
+        desc: "Británie uvedla, že společně s tanky Challenger dodá Ukrajině průraznou munici s jádrem z ochuzeného uranu. Ruská propaganda se toho okamžitě chytla a snažila se informaci spinovat tak, že Británie chce dodat Ukrajině jaderný materiál nebo dokonce jaderné zbraně. Ochuzený uran přitom vzniká jako vedlejší produkt výroby jaderného paliva, obsahuje pouze okolo 0,23 % radioaktivního izotopu a využívá se proto, že má vysokou hustotu podobnou wolframu, ale je nepoměrně levnější na výrobu. Jeho radioaktivita je velmi nízká a většina emitovaných částic ani nepronikne kůží. Zdravotním rizikem je tak pouze, stejně jako u jiných těžkých kovů, primárně vdechování prachu vzniklého při explozích a vliv používání takové munice ve válečných zónách na zdraví civilistů se nikdy neprokázal. O „jaderné zbrani“ každopádně nemůže být vůbec řeč. To ale nebránilo Rusku, aby opět vyhrožovalo Západu jadernou odvetou. Korunkou na celé „kauze“ je to, že podle snímků munice ukořistěné ukrajinskou armádou Rusko samo používá střely s jádrem z ochuzeného uranu, a to ve svých tancích. Kdo ale sleduje válku od začátku, už tak nějak tuší, že pokud Rusko něco řekne, bývá pravda přesný opak. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0kKAwXbfsKsEBxCgZobrfiXAMDKd7jMCRj5UNZHBHvmfWK4CkVfg8GP9VUpYS6VaBl), nikoliv z ruských úst:"
+        detail: |
+          - Spojené státy oznámily, že poskytnou Ukrajině 31 Abramsů M1-A1 z vlastního vozového parku, namísto původně zamýšlených M1-A2, které by ale nejdřív musely zbrojní firmy vyrobit, což by znamenalo lhůtu dodání až dva roky. Americké tanky by tak mohli být na Ukrajině už na začátku letošního podzimu. 
+          - Japonsko po návštěvě japonského premiéra v Kyjevě oznámilo, že země poskytne Ukrajině 30 miliónů dolarů na nákup humanitárního materiálu a celkově pak 7,1 miliardy dolarů formou různých grantů, přičemž minimálně půl miliardy poputuje na obnovu energetické infrastruktury. 
+          - Ruská armáda zasáhla bytový dům v Záporoží raketovou palbou. Počet obětí zatím není znám, každopádně ani tady se nejednalo o vojenskou instalaci nebo cokoliv, co by se mohlo považovat za legitimní cíl. Plejáda ruských válečných zločinů tedy pokračuje. 
+          - Podle listu The Economist blokuje společnost Starlink používání internetového připojení v okupovaných oblastech Ukrajiny, nad všemi vodními plochami a také v případě, že objekt, který signál přijímá, se pohybuje rychlostí přes 100 km/h. 
+          - Íránské drony útočily na Kyjev. Ani jeden ale nejspíš nedoletěl k zamyšleným cílům, a tak bohužel drony dopadaly na civilní zástavbu. Několik lidí pravděpodobně skončilo pod troskami, další jsou raněni. 
+          - Slovensko dostane výraznou slevu na nákup 12 bitevních helikoptér Bell AH-16 Viper a 500 střel Hellfire výměnou za to, že poskytne Ukrajině 13 letounů MiG-29 sovětské konstrukce. 
+          - Politologové se víceméně shodují, že po jednání čínského prezidenta s ruským protějškem v Moskvě se z Putinova Ruska postupně stává větší a větší vazal komunistické Číny. 
+          - Podle nových videí a fotek, které se objevily na sociálních sítích, přesouvá Ruska na ukrajinské území už i tanky T-54 a T-55. 
+          - Mezinárodní měnový fond poskytne Ukrajině financování v celkové výši 15,6 miliard dolarů v příštích čtyřech letech. 
+          - Ukrajina hlásí, že dnešní ruské ostřelování ukrajinských elektrárenských instalací se obešlo bez výpadků proudu. 
+          - Prezident Zelenský nejspíš znovu navštívil okupovaný Bachmut. 
+          - V Sevastopolu se v noci opět ozývaly exploze.
+        videa: |
+          - [Austrálie ukázala, jak se dělá novinařina](https://twitter.com/nexta_tv/status/1638323540989554688)
+          - [Girkin přiznal, že na Krymu nebyl žádný občanský protest ale násilný převrat ](https://twitter.com/Biz_Ukraine_Mag/status/1638188154225061891)
+          - [Rozmetaná ruská kolona u Avdijivky](https://twitter.com/EuromaidanPress/status/1638291894441500678)
+          - [Hromadný budíček (citlivé)](https://twitter.com/nevedimka123/status/1638457778212618241)
+          - [Stejné místo ](https://twitter.com/PaulJawin/status/1638473939725713409)
+          - [Zelenský v Bachmutu](https://twitter.com/NOELreports/status/1638500383688409090)
+          - [Vyšetřování ruského válečného zločinu v režii CNN](https://twitter.com/IvanCNN/status/1638118624287236103)
+          - [T-55 míří na Ukrajinu](https://twitter.com/PaulJawin/status/1638489171017752576)
+          - [Zasažená bytovka v Záporoží ](https://twitter.com/nexta_tv/status/1638488570691301379)
+          - [Ukrajinský výpad s použitím těžké techniky](https://twitter.com/Bodbe6/status/1638243007827701774)
+          - [Moment zásahu ](https://twitter.com/KyivIndependent/status/1638498102402318337)
+          - [Video zevnitř zasažené budovy](https://twitter.com/nexta_tv/status/1638500949965656064)
+          - [Tohohle obránce už bohužel znovu děti neuvidí ](https://twitter.com/intermarium24/status/1637923822258012162)
+          - [Solovjovovi omdlel host ](https://twitter.com/nexta_tv/status/1638268015350349824)
+          - [Nová videohra se špičkovou grafikou](https://twitter.com/EuromaidanPress/status/1638390043042631680)
+          - [Boje v Marjince ](https://twitter.com/Bodbe6/status/1638254810087448576)
+          - [Kamikadze do ruského zákopu](https://twitter.com/EuromaidanPress/status/1638329894647259136)
+          - [Rusové při překračování řeky](https://twitter.com/Bodbe6/status/1638245650922962944)
+          - [Ruský Aligátor trefil vysoké napětí ](https://twitter.com/EuromaidanPress/status/1638284313576853505)
+          - [Rusové u Kreminny](https://twitter.com/Bodbe6/status/1638253692821573632)
+          - [Mínus tank s posádkou](https://twitter.com/Freedom_Ukr866/status/1638457797128990721)
+          - [Noční šichta dronů](https://twitter.com/PaulJawin/status/1638463325922050052)
+          - [Ruský Kornet ](https://twitter.com/Bodbe6/status/1638251764972417047)
+          - [Ruská evakuace](https://twitter.com/666_mancer/status/1638215236229406722)
+          - [Výroba ztrát](https://twitter.com/108_OGHB/status/1638166141007716352)
+          - [Dron versus protitanková crew](https://twitter.com/PaulJawin/status/1638410222908719104)
+          - [Loučení dvou autoritářů ](https://twitter.com/NOELreports/status/1638260413585412103)
+          - [RPG na tebe](https://twitter.com/Bodbe6/status/1638249827577262080)
+          - [Soudce ICC o Putinovi](https://twitter.com/amanpour/status/1638243718426705921)
+          - [Trefa Javelinem](https://twitter.com/PaulJawin/status/1638168451503243265)
+          - [Další noční šichta](https://twitter.com/108_OGHB/status/1638460453998166016)
       - title: "Úterý"
         year: "21. březen 2023"
         image: assets/img/timeline/2023-03-21.jpg
