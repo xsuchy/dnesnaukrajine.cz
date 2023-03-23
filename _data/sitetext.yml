@@ -35,6 +35,60 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "23. březen 2023"
+        image: assets/img/timeline/2023-03-23.jpg
+        desc: "Ruská televize zcela vážně odvysílala reportáž, kde vysvětlovala, proč jsou ruské tanky T-55 „lepší než současné západní stroje“. Je to samozřejmě způsob ruské propagandy, jak udržet morálku Rusů, kteří jsou po odvedení do armády, mírně řečeno, „rozčarovaní“ z toho, s jakou výstrojí, výzbrojí a technikou je jejich stát posílá do boje proti západním zbraním, nicméně tentokrát na to velmi ostře reagovali někteří ruští vojenští blogeři a blogující vojáci. Vysmáli se vlastní propagandě a ostře kritizovali velení ruské armády a ruský zbrojní průmysl kvůli jejich neschopnosti připravit armádu na realitu moderního bojiště. A v Evropě přitom ruská pátá kolona stále věří pohádce o velikosti a síle ruské armády. Tak jim to nechme. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid086QZLKEF3onDuZdhecFRMYhppngWZUQsfpbEZjigvyxeEmJ25LnjS6MMV7Sg4cNtl):"
+        detail: |
+          - Ruská propaganda opět perlí. Skabajeva ve svém pořadu uvedla, že ceny hygienických prostředků kvůli válce vrostly ve Francii natolik, že nyní 4 miliony Francouzů nepoužívají šampon, 3,5 milionu z nich si nečistí zuby pastou a 6 miliónů přestalo používat deodorant. A my se tu bavíme o tom, jak bojovat z dezinformacemi, zatímco Rusko nám denně ukazuje, kam může mediální prostor dojít, když se včas nezakročí. 
+          - Ruské kanály hlásí, že se ukrajinským průzkumným jednotkám podařilo prolomit obranu v Záporožské oblasti u města Polohovsky. A mírně posunout frontu směrem na jih. Hlavní nápor Ukrajinců v této oblasti se přitom teprve očekává, ale už nyní ruští blogeři začínají mírně panikařit. 
+          - Ukrajinci zaútočili na ruské lodě kotvící v Sevastopolu na okupovaném Krymu pomocí námořních i létajících dronů. Videa na sítích zachytila moment, kdy se ruská obrana pokouší zničit bezpilotní stroje. Není z nich ale patrné, jestli došlo k poškození některé z ruských válečných lodí. 
+          - Mluvčí Bílého domu pro otázky bezpečnosti komentoval skutečnost, že Rusko vyznamenalo za statečnost dva piloty, kteří vlastní neschopností narazili do amerického dronu a způsobili jeho pád do moře. Piloty označil za idioty a zdůraznil absurditu celé akce. 
+          - Velitel ukrajinských pozemník sil generál Syrský naznačil, že Ukrajina by mohla podniknout protiútok přímo u Bachmutu, když uvedl, že wagnerovci i ruská armáda u Bachmutu pomalu ztrácí bojeschopnost, čehož podle něj už brzy Ukrajina využije. 
+          - Francie aktuálně cvičí tři desítky ukrajinských pilotů na svých strojích Mirage 2000. Zároveň se zástupci Francie nechali slyšet, že pokud bude existovat politická vůle, může Francie poskytnout Ukrajině až deset zmíněných stíhacích bombardérů. 
+          - Ruské úřady zadržely velícího důstojníka centrálního vojenského okruhu Národní gardy generálmajora Vadima Dragomireckého. Měl přijmout úplatky v celkové výši 28 miliónů rublů. 
+          - Úřady zabavily ve finském přístavu Kotka ruskou loď s 20 tisíci tun hnojiva o celkové hodnotě okolo 12 miliónů €. Má patřit ruskému oligarchovi, který je na sankčním seznamu EU. 
+          - Podle politických komentátorů si Putin od návštěvy čínského prezidenta sliboval podepsání nové dohody, která by zajistila odbyt pro ruský plyn. K ní ale nejspíš nedošlo. 
+          - Podle průzkumů mezi evropskými zeměmi podporuje 65 % evropské populace vstup Ukrajiny do EU. Největší podporu má takový krok v Polsku (81 %) a Španělsku (80 %). 
+          - Rusko ve zinscenovaném procesu odsoudilo radioamatéra z Krymu, který měl doma ukrajinskou vlajku, ke 12 letům vězení za údajné špionážní aktivity. 
+          - Partyzáni nechali explodovat auto s kolaborantem Serhijem Skovyrkem v okupovaném Melitopolu. Podle kusých informací je vážně raněn. 
+          - Ruští a běloruští hokejisté nenastoupí na mistrovství světa v roce 2024, které se bude konat v Praze. IHF prodloužila zákaz jejich startu. 
+          - Švédský parlament schválil vstup země do NATO. Jedinou překážkou je tedy postoj Turecka a Maďarska. 
+          - Počet obětí raketového útoku na bytovku v Záporoží vystoupal na 18 včetně dvou dětí. 
+          - 17 dětí unesených Rusy z okupovaných oblastí Ukrajiny se vrátilo ke svým rodičům.
+          - Ukrajina požádala Japonsko, aby se přidala ke garantům bezpečnosti Ukrajiny. 
+          - Rusové se snaží probojovat k Avdijivce z jihozápadu. 
+          - V Rusku hoří Jaroslavská automobilka.
+        videa: |
+          - [Jak ruská válka mění ukrajinská města](https://twitter.com/Biz_Ukraine_Mag/status/1638518921627090945)
+          - [Rusové pálili na ukrajinské hasiče během likvidace požáru](https://twitter.com/DarPutinovi/status/1638517135105220609)
+          - [Vyznamenání ruských pilotů](https://twitter.com/nexta_tv/status/1638566827696562183)
+          - [Útok dronů na Sevastopol](https://twitter.com/EuromaidanPress/status/1638602283406467073)
+          - [Ruská propaganda o Francouzích](https://twitter.com/Gerashchenko_en/status/1638587089678737437)
+          - [Americké RPG v Bachmutu](https://twitter.com/nexta_tv/status/1638689129683722242)
+          - [V Ukrajinské televizi se děti učí, jak se chovat při náletu ](https://twitter.com/Fbeyeee/status/1638846311024795648)
+          - [Vyprošťování lidí z trosek v Záporoží](https://twitter.com/nexta_tv/status/1638684188449841152)
+          - [Mínus tank](https://twitter.com/Bodbe6/status/1638855734132654083)
+          - [Další do fondu ](https://twitter.com/uarealitynow/status/1638669527876608001)
+          - [Bachmut při dělostřeleckém přepadu ](https://twitter.com/nexta_tv/status/1638646140613672960)
+          - [Bugina na frontě](https://twitter.com/NOELreports/status/1638842833908948992)
+          - [Zevnitř ukrajinského obrněnce pod palbou](https://twitter.com/Bodbe6/status/1638569161935790080)
+          - [Mínus 14 tanků a další zničené cíle na ploše pěti dní](https://twitter.com/NOELreports/status/1638832265668055042)
+          - [Da Vinciho vlci při útoku na ruské zákopy](https://twitter.com/Bodbe6/status/1638848412299984899)
+          - [Zelenský v Charkově](https://twitter.com/nexta_tv/status/1638612943959998464)
+          - [Legionáři ze Zélandu během evakuace](https://twitter.com/Bodbe6/status/1638854746248282112)
+          - [Moment sestřelu ruského Su-30 ](https://twitter.com/rammstein_fella/status/1638804391376429058)
+          - [Boje v Bachmutu](https://twitter.com/Bodbe6/status/1638562430593761282)
+          - [Velmi přesná palba](https://twitter.com/PaulJawin/status/1638828565394235392)
+          - [Ruskou základnu navštívil strejda HIMARS](https://twitter.com/NOELreports/status/1638836846258995200)
+          - [Ranění Ukrajinci](https://twitter.com/Bodbe6/status/1638529816013012993)
+          - [Cesta do Bachmutu je stále průjezdná ](https://twitter.com/Militarylandnet/status/1638632736054456323)
+          - [Jauvajs](https://twitter.com/PaulJawin/status/1638788836661637120)
+          - [Ukrajinská krajina a budoucí slunečnice](https://twitter.com/markito0171/status/1638780615905378304)
+          - [Ruský voják prostě nechal svého raněného kolegu napospas](https://twitter.com/Bodbe6/status/1638659217627160578)
+          - [Mínus tank](https://twitter.com/PaulJawin/status/1638563937296711680)
+          - [Bachmut](https://twitter.com/NOELreports/status/1638822457913090049)
+          - [Auvajs (citlivé)](https://twitter.com/rammstein_fella/status/1638654494719213568)
       - title: "Středa"
         year: "22. březen 2023"
         image: assets/img/timeline/2023-03-22.jpg
