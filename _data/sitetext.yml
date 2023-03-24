@@ -35,6 +35,52 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "24. březen 2023"
+        image: assets/img/timeline/2023-03-24.jpg
+        desc: "Podle agentury Bloomberg možná Prigožin plánuje upozadit operace wagnerovců na Ukrajině a soustředit se opět na africké země. Wagnerovci totiž v Africe našli zlatý důl. A to často doslova. Prigožinova armáda poskytuje ochranu nejen tamějším diktátorům, ale také těžařským firmám, a dokonce některé z dolů na zlato a jiné cenné kovy a drahokamy de facto kontroluje, což podle názorů pozorovatelů tvoří páteř profitů organizace. Část samozřejmě vydělává i na kontraktech s ruským státem a jeho armádou, ovšem akce na Ukrajině s sebou nesou nepoměrně větší riziko a ztrátovost v řadách wagnerovců, která je sice nejvyšší v řadách rekrutovaných vězňů, ale i tak nutně dopadá i na elitní jednotky, jejichž řady není snadné obnovovat. Pokud by k tomu skutečně došlo, ruská ofenziva by dospěla ke svému konci. Regulérní ruská armáda nebyla schopná několik měsíců posunout frontu o jakkoliv strategicky významnou vzdálenost a její elitní jednotky jsou po roce války naprosto zdecimované, nyní často až z 90 % tvořené čerstvými branci s minimálním výcvikem a nulovými zkušenostmi. Tak snad to Jevgenij skutečně hecne. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0vUabPsFjQypuh9XAb4Gfvj3MSXJSzMDmbdDa1HGhxUf7Y5NyQq7VUrbuwkehvn8pl):"
+        detail: |
+          - Prigožin tvrdí, že zná plán Ukrajiny pro nadcházející ofenzivu. Podle něj Ukrajinská armáda prolomí obranu jižně od Záporoží, paralelně s tím vstoupí do ruské Belgorodské oblasti, kterou bude okupovat a využívat jako území k potenciální výměně, a následně přetne Luhanskou a Doněckou frontu na dvě poloviny. Ačkoliv je poněkud divoká představa, že by Ukrajinci měli vstoupit na ruské území, ať už Ukrajina chystá cokoliv, bude to velké. Poradce generála Zálužného, Američan Dan Rice včera prohlásil, že ofenziva, kterou má Ukrajina připravenou, „šokuje celý svět“. Tak hurá do toho, kluci! 
+          - Estonsko oznámilo vyhoštění dalšího diplomata. Oficiální důvod je, že onen diplomat „podrýval bezpečnost Estonska a šířil propagandu, která ospravedlňovala ruskou agresi a způsobovala rozkol v estonské společnosti“. Super, nebránil bych se, kdyby se Česko inspirovalo. 
+          - Velitel ukrajinských pozemních sil generál Syrský v rozhovoru prozradil, že původní plán během Charkovské ofenzivy byl osvobodit mnohem menší území. O 2 000 čtverečních kilometrů menší. 
+          - Bývalý důstojník ruské FSO Michajl Žilin byl v Rusku poslán na 6,5 roku za mříže. Po začátku mobilizace totiž uprchl do Kazachstánu, kde neúspěšně žádal o politický azyl. 
+          - Okupační úřady v Melitopolu oznámily, že ve městě bude jedna z ulic nově nést jméno skutečné ruské fašistky Darji Duginy, která loni zahynula při bombovém útoku. 
+          - Ukrajina předala Rusům všechny vážně raněné zajatce, u kterých bylo možné provést převoz. Ukrajina naopak získala ostatky dalších 83 padlých obránců. 
+          - Maďarsko potvrdilo, že nezatkne Putina, pokud by se objevil na maďarském území. Údajně proto, že Římský status nemá oporu v maďarské legislativě. 
+          - Podle čísel z ukrajinských oficiálních kanálů nyní padne v bojích na Ukrajině každý měsíc stejný počet Rusů, kolik jich Rusko měsíčně mobilizuje. 
+          - Podle ukrajinského generálního štábu se úmrtnost mezi ruskými raněnými vojáky v posledích týdnech skokově zvýšila. 
+          - Litva zakázala ruským občanům obdržet vízum, žádat o litevské občanství nebo kupovat litevské nemovitosti. 
+          - Samozvané soudy DLR odsoudily dva zajaté ukrajinské vojáky k 25 letům odnětí svobody. 
+          - Na Ukrajinu včera ze Slovenska odletěly první 4 ze 13 slíbených letounů MiG-29. 
+          - Severní Korea tvrdí, že otestovala „podmořské jaderné zbraně“. 
+          - Ukrajinská armáda oficiálně požádala Finsko o letouny Hornet.
+        videa: |
+          - [Video o vývoji praporu, respektive pluku Azov](https://www.youtube.com/watch?v=f7mBpzB77as)
+          - [Syrský o Charkovské ofenzivě](https://twitter.com/lukasersil/status/1638872267663761410)
+          - [4 slovenské MiGy odletěly na Ukrajinu](https://twitter.com/nexta_tv/status/1638992309248225280)
+          - [Reportér BBC pod palbou](https://twitter.com/Bodbe6/status/1638943354443427841)
+          - [Mínus tank](https://twitter.com/NOELreports/status/1639178446269038595)
+          - [Bachmut](https://twitter.com/WarMonitors/status/1639037728649273345)
+          - [Dron navádí noční palbu](https://twitter.com/PaulJawin/status/1639151490974482433)
+          - [Likvidace následků ruského ostřelování](https://twitter.com/nexta_tv/status/1639219151452422145)
+          - [Legionáři na Dněpru ](https://twitter.com/11Knuk123/status/1639009321533972481)
+          - [V Jekatěrinburgu někdo odhodil nedopalek ](https://twitter.com/nexta_tv/status/1639149195188641792)
+          - [V Aramilu taky](https://twitter.com/NOELreports/status/1639164838789169152)
+          - [Švýcarská kára na Ukrajině](https://twitter.com/EuromaidanPress/status/1639039477963210752)
+          - [Výroba ruských ztrát ](https://twitter.com/PaulJawin/status/1639217349915189249)
+          - [Přebírání zajatce](https://twitter.com/nexta_tv/status/1639009895532879873)
+          - [Rovnou do díry](https://twitter.com/EuromaidanPress/status/1639192830848507904)
+          - [Rusové evakuují svůj tank](https://twitter.com/PaulJawin/status/1639198317887275010)
+          - [Slovenská stopa](https://twitter.com/visegrad24/status/1638863889600315394)
+          - [Jauvajs](https://twitter.com/PaulJawin/status/1638999380001804300)
+          - [Kamikadze dron versus tank](https://twitter.com/EuromaidanPress/status/1639009623683342336)
+          - [Trefa!](https://twitter.com/PaulJawin/status/1639143958784913412)
+          - [Evakuace vojáků z fronty](https://twitter.com/Bodbe6/status/1638945863887388674)
+          - [Jak to vidí ukrajinský tank](https://twitter.com/EuromaidanPress/status/1638940165707272193)
+          - [Medik na frontě](https://twitter.com/Bodbe6/status/1638969994938576906)
+          - [Mínus Zoopark](https://twitter.com/Tendar/status/1639004117862416386)
+          - [Trest za krádež traktoru ](https://twitter.com/PaulJawin/status/1639219116887400448)
+          - [Počítání zářezů ](https://twitter.com/PaulJawin/status/1639011699524005889)
       - title: "Čtvrtek"
         year: "23. březen 2023"
         image: assets/img/timeline/2023-03-23.jpg
