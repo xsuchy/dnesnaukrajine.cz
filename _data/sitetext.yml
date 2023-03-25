@@ -35,6 +35,52 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "25. březen 2023"
+        image: assets/img/timeline/2023-03-25.jpg
+        desc: "Velitel ukrajinské armády generál Zálužný informoval, že „díky kolosálnímu úsilí ukrajinských obránců se podařilo situaci v Bachmutu stabilizovat“. Ačkoliv neupřesnil, co přesně tím myslel, pozorovatelé a analytici se víceméně shodují, že Rusko už úplně vyčerpalo bojeschopnost svých jednotek v okolí města. Což neznamená, že ve městě se dál nebojuje. Znamená to pouze, že Rusko nejspíš ztratilo schopnost u Bachmutu získat jakékoliv strategické ale i taktické vítězství. Ruské kanály jsou proto čím dál nervóznější z avizované ukrajinské ofenzivy a na vývoj na bojišti reagují i členové okupační správy. Ale to předbíhám. Víc v [dnešním výcucu toho nejdůležitějšího](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid08iEFCVhd52w8LPWyYEqPqh389BzikfARvPnhAR6AKuUHJ1y22BqbnqTXdAYsU1ytl):"
+        detail: |
+          - Arménie po posouzení situace vlastními soudy překvapivě informovala, že vyhoví rozhodnutí Mezinárodního trestního tribunálu a vydala zatykač na Vladimira Putina. Arménie je přitom dlouholetý spojenec Ruska, nebo jím alespoň do loňska byla. 
+          - Ukrajinská pošta vydává novou sérii známek na výročí osvobození kyjevské oblasti s motivem ruských zločinů spáchaných na Ukrajině. Série nese název „Nikdy nezapomeneme! Nikdy neodpustíme! Bucha. Irpiň. Hostomel.“ 
+          - Ruská armáda poprvé přiznala potopení lodě Saratov. Tu zasáhly ukrajinské síly už v březnu minulého roku pomocí naváděných raket během vykládky v Berďansku.
+          - Američtí senátoři apelovali na prezidenta Bidena, aby kooperoval s ICC a poskytl soudu důkazy o ruských válečných zločinech, které shromáždila americká rozvědka. 
+          - Polsko plánuje navýšit objem vyrobené munice v zemi, aby mohlo uspokojit ukrajinskou poptávku. K výrobě munice pro Ukrajinu už se přihlásilo 20 zemí. 
+          - Jeden z polských velitelů jednotek ukrajinské mezinárodní legie byl dnes zabit během bojů v Bachmutu. Další dva Poláci byli raněni.
+          - Medveděv v televizi prohlásil, že „Finsko by mohlo být zničeno v řádu několika hodin“. Prozradil mu někdo, jak si vede Rusko na Ukrajině? 
+          - Podle ukrajinské rozvědky začaly krymští kolaboranti a členové okupační správy prodávat své nemovitosti na Krymu. 
+          - Zelenský oznámil, že ukrajinská ofenziva nemůže začít, dokud Ukrajina neobdrží přislíbené zbraně a techniku. 
+          - Podle Bidena zatím Čína neposkytuje Rusku vojenskou pomoc. Stále prý ale hrozí, že se k tomu odhodlá. 
+          - Evropská unie zvažuje zavedení sankcí na země střední Asie, které pomáhají Rusku obcházet sankce. 
+          - V Luhanské oblasti padl Maksym Galiničev, 22letý juniorní šampion Ukrajiny v boxu. 
+          - Ruské dělostřelectvo zasáhlo centrum Kramatorsku. Naštěstí nebyl nikdo raněn. 
+          - IKEA prodává svůj poslední ruský výrobní závod v Novgorodské oblasti. 
+          - Kadyrov udělil sám sobě medaili za příkladnou ochranu lidských práv.
+        videa: |
+          - [Pod palbou Gradů v Bachmutu](https://twitter.com/Bodbe6/status/1639631757514354688)
+          - [Bachmut  z dronu](https://twitter.com/DenesTorteli/status/1639537282964234241)
+          - [Ruští vojáci natočili svůj apel](https://twitter.com/wartranslated/status/1639390679670374403)
+          - [Jezírko u Doněcku, kde už 9 let nikdo nerybařil ](https://twitter.com/nexta_tv/status/1639323839078227969)
+          - [Boje v ulicích ](https://twitter.com/Bodbe6/status/1639315954780848148)
+          - [Noční snajpování ](https://twitter.com/NOELreports/status/1639348719194710018)
+          - [Výcvik s britskými děly](https://twitter.com/KyivIndependent/status/1639364264967172097)
+          - [Čtyři z pěti ](https://twitter.com/golub/status/1639468776017088512)
+          - [Ukrajinská obrana](https://twitter.com/UkrainianNews24/status/1639630032258621447)
+          - [Do Bachmutu jedině pod palbou](https://twitter.com/EuromaidanPress/status/1639572576967204864)
+          - [Ukrajinský tank neutralizoval hrozbu](https://twitter.com/Bodbe6/status/1639288292448370691)
+          - [Ve tmě se neschovali ](https://twitter.com/PaulJawin/status/1639496429684047872)
+          - [Ruská PVO dvakrát minula ukrajinský dron ](https://twitter.com/bayraktar_1love/status/1639303533307543553)
+          - [Dělostřelectvo a osm obránců versus ruský šturm ](https://twitter.com/Bodbe6/status/1639274758226210817)
+          - [Po ruském útoku](https://twitter.com/Freedom_Ukr866/status/1639541400457846785)
+          - [Stormer versus dron](https://twitter.com/EuromaidanPress/status/1639517469600624642)
+          - [Neser dron](https://twitter.com/nevedimka123/status/1639538772101459968)
+          - [Ukrajinské BTR-4 pálí na ruské pozice v lese](https://twitter.com/Bodbe6/status/1639265408153796613)
+          - [Wagnerovci v Bachmutu](https://twitter.com/NOELreports/status/1639622242337185793)
+          - [Nová nástěnná malba, aneb Rusko stvořilo dalšího hrdinu ](https://twitter.com/EuromaidanPress/status/1639293517246652417)
+          - [Mínus ruský Grad](https://twitter.com/PaulJawin/status/1639621167198732292)
+          - [Odpočinek mezi boji v Bachmutu ](https://twitter.com/Bodbe6/status/1639270324951826435)
+          - [Snajpři](https://twitter.com/Militarylandnet/status/1639535373675118593)
+          - [Ukrajinská sklizeň](https://twitter.com/Lyla_lilas/status/1639282474583834625)
+          - [Co měl u sebe ruský voják](https://twitter.com/uarealitynow/status/1639357505888215075)
       - title: "Pátek"
         year: "24. březen 2023"
         image: assets/img/timeline/2023-03-24.jpg
