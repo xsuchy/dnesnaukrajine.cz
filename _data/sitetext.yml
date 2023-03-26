@@ -35,6 +35,56 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "26. březen 2023"
+        image: assets/img/timeline/2023-03-26.jpg
+        desc: "Hledaný válečný zločinec Vladimir Putin oznámil, že Rusko umístí na běloruském území jaderné zbraně. Oznámil to v den, kdy Bělorusko slaví svůj Den svobody a nezávislosti, což je samo o sobě chucpe. Není nicméně jisté, že Putin svůj plán naplní. Mezi západními analytiky panuje názor, že jde pouze o psychologickou hrozbu, jak postrašit svět jadernou eskalací a odstrašit vlády od dalšího poskytování pomoci Ukrajině. Navíc by takový krok byl dalším porušení Budapešťského memoranda, který se Ukrajina a Bělorusko vzdaly svých jaderných zbraní výměnu za bezpečnostní záruky ze strany signatářů, tedy i Ruska. „Dalším“ proto, že Rusko memorandum v minulosti porušilo tolikrát, že by se jím ostatní státy dávno nemusely řídit. Zároveň je to další krok, kteří boří běloruskou pohádku o údajné neutralitě. Na druhou stranu, ta padla ve chvíli, kdy Lukašenko nechal ruskou armádu, aby využila Bělorusko jako základnu pro únorovou invazi, ne-li dříve. Co dalšího kdo řekl a udělal? To [zjistíte tu](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0yuuvdZJkoTDgsMJEfMhjiU7UE8s1NExeL3f2JtBGHHwUcWVgNajnmBLhH4dmb9al):"
+        detail: |
+          - Putin oznámil, že Rusko v příštích 3 letech modernizuje zhruba 1 600 starších tanků. Očividně má jít o zastrašovací taktiku poté, co západní země přislíbily dodat Ukrajině přes čtyři sta vlastních tanků. Zároveň tím ale Putin potvrzuje, že ruské závody nejsou schopné vyrábět nové stroje v dostatečném množství. Navíc Rusko jen v posledním roce o více než tři tisíce tanků přišlo. Blog Oryx eviduje k dnešku obrazové záznamy o 1 894 zničených ruských tancích. 
+          - Ukrajinské ministerstvo obrany požádalo média, zpravodajce a samotné vojáky, aby odteď nezveřejňovali žádné informace o chystané ukrajinské ofenzivě. Počínaje dneškem tedy Ukrajina uvalila informační embargo na veškeré přípravy a plány, což by mohlo značit, že samotná ofenziva se blíží. 
+          - Premiér Šmyhal oznámil, že Ukrajina bude navzdory válce pokračovat s privatizací státem vlastněným společností, přičemž bude udržovat většinovou kontrolu pouze u podniků ve strategicky důležitých oblastech. 
+          - Předvolební setkání s Donaldem Trumpem v americkém městě Waco zahájil zpěvák Ted Nugent, když za hlasitého potlesku označil prezidenta Zelenského „homosexuálním podivínem“. 
+          - Předseda samozvaného krymského parlamentu prohlásil, že jedna z podmínek případné mírové dohody by mělo být převedení kontroly nad Oděskou oblastí Rusku. 
+          - Medveděv vyzval Rusy, aby stahovali a nelegálně šířili obsah digitálních služeb, které opustily Rusko, například Netflixu nebo HBO. 
+          - Ruské federativní orgány schválily vytvoření zóny volného obchodu v okupovaných oblastech Ukrajiny. 
+          - Ruští hackeři podnikli v lednu a únoru okolo tří stovek kybernetických útoků na ukrajinské instituce. 
+          - Slovinsko zadrželo dva agenty, kteří měli pracovat pro ruskou zahraniční rozvědku. 
+          - Po převozu do lazaretu zemřel u Bachmutu už třetí polský dobrovolník. 
+          - V Oděském přístavu explodovala vyplavená námořní mina. 
+          - Severní Makedonie poskytne Ukrajině 12 helikoptér Mi-24. 
+          - Před 23 lety se stal Putin prezidentem Ruské federace.
+        videa: |
+          - [Procházka Bachmutem](https://twitter.com/SlavaUk30722777/status/1639953547956715520)
+          - [Noční Bachmut ](https://twitter.com/nexta_tv/status/1639904082335866882)
+          - [Zachráněná kočka](https://twitter.com/nexta_tv/status/1639867626577965057)
+          - [Úspěšný útok na ruské zákopy](https://www.youtube.com/watch?v=ibOiLmKvgVc)
+          - [V krytu a pod palbou](https://twitter.com/Bodbe6/status/1639782261837922306)
+          - [Bleskový ukrajinský přepad](https://twitter.com/PaulJawin/status/1639694163435302919)
+          - [Bachmut](https://twitter.com/nevedimka123/status/1639892299944538112)
+          - [Pevnost Bachmut](https://twitter.com/NOELreports/status/1639887876795121664)
+          - [Ivan našel minu](https://twitter.com/herooftheday10/status/1639889499151904768)
+          - [Medveděv a stahování filmů](https://twitter.com/nikorepi/status/1639662832806502400)
+          - [Ruské BMP v rukou Ukrajinců ](https://twitter.com/EuromaidanPress/status/1639794545574703104)
+          - [U Bachmutu, mínus 17 kusů ](https://twitter.com/herooftheday10/status/1639678731013742592)
+          - [Voják natočil vlastní moment zranění ](https://twitter.com/WarMonitors/status/1639753755720577026)
+          - [Rus našel na zabitém ukrajinském vojákovi malůvky od dcery](https://twitter.com/Bodbe6/status/1639653728771874818)
+          - [Jeden po druhém](https://twitter.com/PaulJawin/status/1639689606802145280)
+          - [Rebeka učí Ukrajince zachraňovat životy](https://twitter.com/bekamaciorowski/status/1639633597568016388)
+          - [Mínus další T-90](https://twitter.com/Bodbe6/status/1639949439027621889)
+          - [Bradleys na Ukrajině](https://twitter.com/Osinttechnical/status/1639733995368853504)
+          - [Práce minometčíků](https://twitter.com/PaulJawin/status/1639907440836632576)
+          - [Ruský pokus překazily drony a miny](https://twitter.com/Tendar/status/1639937886534475776)
+          - [Dron sleduje přestřelku na pár metrů v Marjince](https://twitter.com/Bodbe6/status/1639744439676551171)
+          - [Po ruském útoku](https://twitter.com/Freedom_Ukr866/status/1639889046800400384)
+          - [ATGM tým](https://twitter.com/NOELreports/status/1639943675458273280)
+          - [Ruský Lancet zničil houfnici](https://twitter.com/Bodbe6/status/1639638750899707905)
+          - [Další do fondu](https://twitter.com/nevedimka123/status/1639714938070474752)
+          - [Trefa!](https://twitter.com/PaulJawin/status/1639884966346608644)
+          - [Mínus Rus](https://twitter.com/NOELreports/status/1639693736425795586)
+          - [Konec opalování](https://twitter.com/Freedom_Ukr866/status/1639912592213786624)
+          - [Úspěšný ukrajinský útok](https://twitter.com/PaulJawin/status/1639736341075312642)
+          - [Rusové v Bachmutu](https://twitter.com/herooftheday10/status/1639934332910411776)
+          - [Ukrajinské bitevníky](https://twitter.com/Osinttechnical/status/1639629654448386050) 
       - title: "Sobota"
         year: "25. březen 2023"
         image: assets/img/timeline/2023-03-25.jpg
