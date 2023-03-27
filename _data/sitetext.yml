@@ -35,6 +35,57 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "27. březen 2023"
+        image: assets/img/timeline/2023-03-27.jpg
+        desc: "Ruské ministerstvo zahraničí oznámilo, že uvažuje o vymáhání kompenzací kvůli poškozenému plynovodu Nord Stream. Neuvedlo ale, po kom by náhradu škody případně vymáhalo. V médiích se v posledním půl roce objevily leda velmi divoké spekulace, kdy jednou měli plynovod poničit Američané, jindy Ukrajinci, Poláci nebo dokonce Češi. A nyní vychází najevo, že pouhý den před výbuchem v oblasti působila skupina tří nebo čtyř ruských válečných plavidel, které po vplutí do oblasti přestaly vysílat údaje o své poloze, což by opět ukazovalo na samotné Rusy. Ostatně poškození plynovodu právě jimi mohlo mít za cíl vytvořit talk na stabilizaci situace na Ukrajině, kudy vede jeden z největších evropských plynovodů Družba. Pokud to bylo právě tak, evropští lídři krok Ruska prokoukli a jeho domnělý trumf naprosto anulovali přechodem na americký, alžírský a norský plyn. Nicméně, ať už plynovod poškodil kdokoliv, můžeme mu poděkovat. Díky němu jsme dnes nezávislí na ruském plynu, nakupujeme jej levněji a nemusíme kvůli tomu před nikým ohýbat páteř. Co jiného to je, než výhra? Ale teď už [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02EBvPBJc3wqKwFfCnYRvfRAy2uZcoYdYvpR9erUi9eS2T9yrG7MeQGPLHfhgmYcxJl):"
+        detail: |
+          - Ruská lidskoprávní organizace Gulagu.net oznámila, že získala uniklé materiály obsahující korespondenci špiček ruské FSB, podle kterých vedení Kremlu plánovalo na Ukrajině provést úplnou etnickou čistku. Plán měl zahrnovat odvlečení ukrajinské inteligence do koncentračních táborů, domovní prohlídky za účelem odhalení „nacionalistů“ nebo násilné potlačení protestů, které měly vypuknout po sesazení nebo zabití prezidenta Zelenského. Mobilní krematoria a černé pytle na ostatky, které invazní armáda s sebou vezla při překračování ukrajinských hranic, podle dokumentů neměly sloužit pro padlé vojáky, ale právě pro zabité odpůrce během plánovaných čistek.
+          - Ukrajinci 26. března zlikvidovali velitele jednoho z ruských útočných pluků Dmitrije Lisického. Byl jedním z velících důstojníků zodpovědných za masakr ukrajinských jednotek v roce 2014 u obklíčeného Ilovajsku. Tehdy Rusové i přes dohodnuté příměří zahájili palbu na ukrajinské jednotky ustupující po dohodnutém koridoru podél Staroběševa a kombinovanou palbou zabili několik set členů ukrajinských ozbrojených sil. 
+          - Podle analytiků z ISW Putin stále věří, že se mu podaří kompletní vojenské vítězství v probíhající invazi na Ukrajinu. Analytici proto zdůrazňují, že pouze série značných ukrajinských vítězství může vést k zahájení jakýchkoliv případných mírových jednání ze strany Ruska. 
+          - Šéf MAAE Grossi odcestoval na další návštěvu okupované jaderné elektrárny v Záporoží. Předtím opakovaně prohlásil, že ačkoliv je v areálu elektrárny několik pozorovatelů z MAAE, stav zařízení je nejasný. Chce proto vše prověřit osobně na vlastní oči. 
+          - Na moskevských billboardech se začalo objevovat video s instrukcemi, jak si připravit zavazadlo pro případy nouze, jak si vyrobit provizorní bandáž nebo jak se chovat v případě chemického a jaderného útoku. 
+          - Maďarský ministr zahraničí zdůraznil, že ačkoliv země apeluje na zahájení mírových jednání, neznamená to, že akceptuje východisko, kdy by si Rusko mělo ponechat okupovaná území. 
+          - Série explozí otřásla okupovaným Melitopolem. Podle legitimního starosty města byla cílem budova, ve které sídlí vedení okupační policie. 
+          - Evropská unie připravuje další balík sankcí pro případ, že by Rusko skutečně umístilo v Bělorusku své taktické jaderné zbraně. 
+          - V ruském Volgogradu bylo spuštěno referendum o případném přejmenování města zpět na někdejší Stalingrad. 
+          - Rusové zasáhli Slavjansk raketami S-300. Počet obětí se prozatím zastavil na dvou. 29 lidí je zraněných. 
+          - Počet Ukrajinců, kteří preferují komunikaci v ukrajinštině před ruštinou se meziročně zvýšil z 66 % na 83 %. 
+          - Podle ukrajinské pohraniční stráže se počet ruských vojáků v Bělorusku snížil na přibližně 4 000. 
+          - Partyzáni se pokusili v Mariupolu zlikvidovat šéfa policie Michajla Moskvina. Incident přežil.
+          - Olympijský výbor oznámil, že na OH v roce 2032 v Brisbane nastoupí ruští i běloruští atleti. 
+          - Ruské lodě nejspíš nebyly poškozeny během útoku dronů na okupovaný Sevastopol. 
+          - V ruském Kirejevsku explodoval ukrajinský dron. Z oblohy ho sundala ruská rušička. 
+          - Do Avdijivky ode dneška nesmí novináři, stejně jako do Bachmutu. 
+          - Ukrajinci dokončili v Británii výcvik s tanky Challenger 2.
+        videa: |
+          - [Velmi neúspěšný ruský útok](https://twitter.com/Bodbe6/status/1640019228429262856)
+          - [Wagnerovský hřbitov u Krasnodaru ](https://twitter.com/nexta_tv/status/1640256668909854720)
+          - [Zasažený Slavjansk](https://twitter.com/Hromadske/status/1640292581908295680)
+          - [Javelin na tebe!](https://twitter.com/EuromaidanPress/status/1640076944237625345)
+          - [Billboard v Moskvě](https://twitter.com/nexta_tv/status/1640042045241794565)
+          - [Spádová nemocnice pro raněné z Bachmutu](https://twitter.com/KyivIndependent/status/1640006633966247936)
+          - [Snajpr v Bachmutu](https://twitter.com/Bodbe6/status/1640288208079450112)
+          - [Místo dopadu ukrajinského dronu](https://twitter.com/EuromaidanPress/status/1639996925968523264)
+          - [Tataři proti Rusům](https://twitter.com/Arslon_Xudosi/status/1639978278088736769)
+          - [Ukrajinský tank v Bachmutu](https://twitter.com/Bodbe6/status/1640285445555728384)
+          - [Tamtéž](https://twitter.com/Bodbe6/status/1640281942628225024)
+          - [Trofej](https://twitter.com/NOELreports/status/1640234281078341633)
+          - [Ruské vrakoviště](https://twitter.com/PaulJawin/status/1640329571030511617)
+          - [Konec ruské útočné grupy](https://twitter.com/Bodbe6/status/1640283936248016896)
+          - [Bývalé ruské zákopy](https://twitter.com/herooftheday10/status/1640226909907763200)
+          - [Rusové…](https://twitter.com/Bodbe6/status/1640262349058605056)
+          - [Trefa!](https://twitter.com/PaulJawin/status/1640041054463225860)
+          - [Kraken versus ruský velitelský post](https://twitter.com/Bodbe6/status/1640153619495256067)
+          - [Jedna trefa za druhou](https://twitter.com/NOELreports/status/1640240724552609792)
+          - [Druhá část](https://twitter.com/Bodbe6/status/1640153741365071881)
+          - [Rusové se pokusili o šturm](https://twitter.com/PaulJawin/status/1640328765556310019)
+          - [Solovjov blouzní, že Rusko je jediná země, kde se dodržují lidská práva](https://twitter.com/NOELreports/status/1640022392280891392)
+          - [Neschovali se](https://twitter.com/PaulJawin/status/1640226549705129984)
+          - [Pauza na kafe](https://twitter.com/Bodbe6/status/1640147165551927296)
+          - [Bachmut](https://twitter.com/olex_scherba/status/1640227403619246080)
+          - [Ruské zásobování našlo jednu z min](https://twitter.com/PaulJawin/status/1640323951594295296)
+          - [Další do sbírky](https://twitter.com/herooftheday10/status/1640045775840321536)
       - title: "Neděle"
         year: "26. březen 2023"
         image: assets/img/timeline/2023-03-26.jpg
