@@ -35,6 +35,52 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "28. březen 2023"
+        image: assets/img/timeline/2023-03-28.jpg
+        desc: "Ruské propagandistické kanály včetně oficiálních profilů ruských ministerstev šíří video, na které mají údajní vojáci ukrajinské armády zastavit rusky mluvící ženu s dítětem v autě kvůli tomu, že předjela jejich kolonu, a po sprše vulgarit jí rozstřílet auto. Ano, už správně tušíte, že když něco šíří ruská propaganda, tak to na 99 % nebude pravda. A skutečně, kromě velmi špatných „hereckých“ výkonů by nás mělo trknout do očí několik věcí: První je, že vojáci mají na rukou žluté pásky. Stejně jako u jiných zinscenovaných videí Rusové stále nedokázali reflektovat, že Ukrajinci přešli na konci podzimu na zelené a modré pásky (protože ukrajinskou žlutou a ruskou bílou bylo někdy těžké odlišit). Druhá věc, kterou Rusové očividně neví, je nařízení z jara 2022, které zakazuje všem řidičům na ukrajinském území používat v autě kamery, aby nechtěně neodhalili Rusům polohu nebo pohyb vojáků a těžké techniky. A třetí a nejdůležitější věc je, že analytikům se podařilo geolokovat místo, kde se měl incident odehrávat a – ano, tušíte správně – došlo k němu u Doněcku, hluboko za frontovou linií na území okupovaném Rusy. Přesto na to video narazíte v dezolátních kruzích, kde se nekriticky sdílí. Jako cokoliv, co ruská propaganda vyplivne. A proto jsou tu [tyhle přehledy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02nXAikYoGpVCPXBzZm8pWQujzsZqsTstyyjWtfydwkztpS7ZxLwWaDDnuCwAibkJAl):"
+        detail: |
+          - Podle Spojených států ruský plán na umístění jaderných zbraní v Bělorusku neznamená v praxi žádnou změnu, protože už nyní má Rusko značný jaderný arsenál v Kaliningradu. To ale nebránilo běloruským propagandistům, aby z plánu vytěžili maximum. Jeden z běloruských televizních moderátorů ve svém pořadu vyhrožoval Polsku a Litvě, že teď, když je Bělorusko jaderná mocnost, vymaže obě země z povrchu. 
+          - Podle britského ministerstva obrany se Rusové snaží obklíčit Avdijivku, nicméně zatím se opakuje situace, kterou známe z Bachmutu: minimální postup za cenu velkých ztrát. Rusové údajně přesunuli na jih Avdijivky některé své elitní jednotky, které doposud působily u Bachmutu. 
+          - Maďarský parlament schválil 182hlasou většinou vstup Finska do NATO. Mluvčí vládní strany Fidész zároveň informoval, že Maďarsko je připraveno schválit i vstup Švédska do aliance, nicméně dnes se hlasovalo pouze o jedné z obou zemí. 
+          - Rada bezpečnosti OSN odmítla ruskou rezoluci odsuzující sabotáž plynovodu Nord Stream. Pro rezoluci hlasovala kromě Ruska jen Brazílie a také Čína, která byla dokonce jejím spolupředkladatelem. 
+          - Rusko v posledních 24 hodinách zasáhlo 124 obcí v 9 regionech pomoc raket, dronů, vzdušných náletů a dělostřelectva. Počet obětí se zatím zastavil na 8, 66 lidí bylo zraněno. 
+          - Francie zdvojnásobí produkci dělostřelecké munice pro Ukrajinu. Od konce března chce dodávat Ukrajině 2 000 kusů 155mm munice měsíčně. 
+          - Rusko vyhrožuje Arménii „extrémně negativními důsledky“ kvůli vyjádření Arménie, že vyhoví zatykači na diktátora Putina. 
+          - Bulharsko údajně plánuje prodat Ukrajině skrze prostředníky v třetích zemích munici v celkové hodnotě 175 miliónů eur. 
+          - Na Kerčském mostě se srazilo 5 obrněných vozidel čečenského praporu Achmat. Několik vozidel bylo silně poškozeno. 
+          - Na Ukrajinu dorazilo prvních 18 tanků Leopard 2 z Německa. Portugalsko předalo Ukrajině 3 tanky Leopard 2A6. 
+          - Německo oznámilo plán navýšení vojenské pomoci Ukrajině na pětinásobek neboli 15 miliard eur. 
+          - Ukrajinská PVO v noci sestřelila 14 z 15 íránských dronů, které mířily na Kyjev. 
+          - Solovjov ve svém pořadu vyhrožoval, že Rusko zničí všechna polská města. 
+          - Export ruské ropy do Indie se meziročně zvýšil na dvaadvacetinásobek. 
+          - Zelenský navštívil Dnipro a Nikopol. 
+        videa: |
+          - [Kurwa fajny bober!](https://twitter.com/EuromaidanPress/status/1640410856792965131)
+          - [Medik přežil naprosto šílené zranění šrapnelem (citlivé!!)](https://twitter.com/Bodbe6/status/1640383142820233217)
+          - [Britské tanky na Ukrajině](https://twitter.com/nexta_tv/status/1640604310940573696)
+          - [Běloruský propagandista](https://twitter.com/wartranslated/status/1640393692983836684)
+          - [Ukrajinci nechali Rusy obsadit budovy a pak ji odpálili](https://twitter.com/Bodbe6/status/1640466094434693120)
+          - [Mínus ruský tank během útoku na zákopy](https://twitter.com/EuromaidanPress/status/1640504473578786816)
+          - [Helma mu zachránila život](https://twitter.com/Bodbe6/status/1640678080061603841)
+          - [Rusko posílá na Ukrajinu tanky T-62M](https://twitter.com/EuromaidanPress/status/1640390975469293570)
+          - [Ukrajinci si počkali, až Rusové nastoupí, a pak…](https://twitter.com/Bodbe6/status/1640464384433745920)
+          - [Mínus ruský Tor](https://twitter.com/PaulJawin/status/1640642665262854144)
+          - [Ukrajinský snajpr versus wagnerovci](https://twitter.com/Bodbe6/status/1640385243579392007)
+          - [Ranní krupobití](https://twitter.com/NOELreports/status/1640605246232690691)
+          - [Bachmut](https://twitter.com/PaulJawin/status/1640673539366764547)
+          - [Gruzíncům nechybí dobrá nálada, ani když jsou mínus dva :/](https://twitter.com/Bodbe6/status/1640339371818622980)
+          - [Noční sestřel dronu](https://twitter.com/PaulJawin/status/1640653269553799173)
+          - [Pláž ve Skadovsku](https://twitter.com/NOELreports/status/1640683155400040451)
+          - [Dron zastavil postup Rusů – pohled ze zákopů](https://twitter.com/PaulJawin/status/1640446709724487713)
+          - [Další lumíci do sbírky](https://twitter.com/666_mancer/status/1640454637521367042)
+          - [Bachmut](https://twitter.com/PaulJawin/status/1640446243225624577)
+          - [Zbytky po ruském útoku](https://twitter.com/NOELreports/status/1640661587445858304)
+          - [Kamikadze dron](https://twitter.com/PaulJawin/status/1640370820793892864)
+          - [Další archivní technika míří na Ukrajinu](https://twitter.com/zloy_odessit/status/1640617904889643010)
+          - [Trefa](https://twitter.com/NOELreports/status/1640681901101817857)
+          - [A už peláší](https://twitter.com/PaulJawin/status/1640358227475853312)
+          - [Javelin](https://twitter.com/herooftheday10/status/1640621303836160001)
       - title: "Pondělí"
         year: "27. březen 2023"
         image: assets/img/timeline/2023-03-27.jpg
