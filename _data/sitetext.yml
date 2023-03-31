@@ -35,6 +35,52 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "31. březen 2023"
+        image: assets/img/timeline/2023-03-31.jpg
+        desc: "Turecko schválilo vstup Finska do NATO. Proti nehlasoval ani jediný z tureckých poslanců. Finsko se tak stane 31. státem aliance, čímž – poněkud ironicky – získá Rusko a NATO 1 340 km nové společné hranice. NATO dále posílí 24 000, resp. až 280 000 členů finských ozbrojených sil a teritoriální obrany (válečný stav) 240 moderních tanků, více než 1 000 moderních obrněných vozidel, desítky stíhaček 4. a 5. generace a plavidla finského námořnictva. NATO také získá kontrolu nad značnou částí Baltského moře: většinou finského zálivu (přístup k Petrohradu) a Ålandským průplavem a tím i v důsledku nad Botnickým zálivem. Gratuluji Rusku k výborně zahrané šachové partii. Pokud si Putin nepřál rozšiřování NATO směrem ke svým hranicím a přál si mít mezi Ruskem a NATO pás neutrálních států (ačkoliv už snad všichni chápeme, že to byla pitomost, která měla sloužit pouze k ospravedlnění vpádu Ruska na Ukrajinu), pak se Putinovy politické tahy vyvíjí podobně „podle plánu“ jako celá jeho „Speciální operace“. Však posuďte sami [z dnešních zpráv](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid034oBXTMHZ1EKH1irimv8w9UYzYgjmeUSASJPw5WTWjGJMv19qu5iD2dNVt6yFTpD2l):"
+        detail: |
+          - Co by se asi tak mohlo stát špatného, když se do Ruska vrátí bývalí vězni z řad vrahů a násilníků, s čistým rejstříkem, zato s ještě o vagon více zdemolovanou psychikou v důsledku dlouholetého věznění a následné účasti ve válce? Tak například obec Novy Burec v Kirovské oblasti by mohla vyprávět. Právě do ní se nedávno vrátil Ivan Rossomachin, který si před válkou odpykával trest 14 let vězení za vraždu spáchanou teprve v roce 2020. Po příjezdu podle místních strávil týden doslova „v lihu“, přičemž se prý potácel po obci se sekyrou v ruce, rozbíjel lidem auta a vyhrožoval jim, že je i s celou rodinou zabije. Místní úřady s tím ani přes opakované stížnosti obyvatel nechtěly nic udělat, a tak nakonec Rossomachin zabíjel znovu. Obětí má být starší žena, kterou našel doma s četnými bodnými ranami její vlastní syn. A to jsme teprve u první vlny omilostněných vězňů. 
+          - Novinář deníku The Wall Street Journal Evan Gerškovič, který se do včerejška pohřešoval, je ve vazbě. Ruské úřady ho viní ze špionáže ve prospěch Spojených států, za což mu hrozí až 20 let. Dnes byl převezen k soudu v Lefortovém v Moskvě, kde má být souzen za zavřenými dveřmi. Spojené státy vyzvaly své občany stále se nacházející v Rusku, aby zemi okamžitě opustili. Obávají se totiž zinscenovaných procesů. 
+          - Putinovo Rusko je jako rakovina. Tentokrát se jeho snaží příznivci snaží destabilizovat Kazachstán. 19 „separatistů“ v Petropavlovsku blízko ruských hranic oznámilo vytvoření „Lidové rady“ s konečným cílem vyhlásit nezávislost Petropavlovsku na Kazachstánu. Úřady už proti „separatistům“ zahájily trestní stíhání. Kazachstán navíc v minulosti opakovaně podpořil Ukrajinu v podobě humanitární pomoci. 
+          - Ukrajina nedovolí svým sportovcům účast na mezinárodních soutěžích včetně Olympijských her v Paříži, pokud by to znamenalo, že na stejné soutěži nastoupí také atleti z Ruska nebo Běloruska. Dánská Šermířská federace pro změnu zrušila veškeré mezinárodní turnaje poté, co nadřazená Mezinárodní šermířská federace povolila start ruským sportovcům. 
+          - Poslanci frakce LDPR navrhují, aby se 31. březen stal dalším dnem slávy ruské armády, a to kvůli obsazení Paříže Koaliční armádou (s účastí Ruska) v roce 1814. Nějaký novější vojenský úspěch než ten 200 let starý by nebyl, Ivane? 
+          - Moskevský soud poslal na sedm let za mříže důchodce Michajla Simonova kvůli tomu, že na sociální síti vKontakte ve dvou komentářích odsoudil ruské bombardování Kyjeva a Mariupolu. 
+          - Zastupitelé Čeljabinsku navrhují, aby se lidem zrušilo trestní stíhání, pokud dobrovolně narukují do ruské armády a půjdou bojovat na Ukrajinu. 
+          - Letošní kadeti z leteckého institutu v ruském Omsku nemohli prozatím dokončit svá studia, protože škole chybí součástky do jejích letadel. 
+          - Od prvního dubna bude Rusko předsedat Radě bezpečnosti OSN. Byl by to krásný apríl. Bohužel je to realita. 
+          - Putin podepsal výnos o jarních odvodech do armády. Týkají se až 147 000 branců ve věku 18-27 let.
+          - Počet ruských útoků za den se v posledních dnech snížil na polovinu až třetinu. 
+          - Ředitel zbrojního koncernu Rheinmetall se setkal s prezidentem Zelenským. 
+          - 4 původně slovenské MiGy už plní první bojové úkoly nad Charkovem. 
+          - Premiéři Slovenska, Slovinska a Chorvatska přijeli na návštěvu Kyjeva. 
+          - Orbán tvrdí, že země EU chtějí vyslat na Ukrajinu mírové jednotky. 
+          - Dnes, přesně před rokem, osvobodila ukrajinská armáda Buču.
+        videa: |
+          - [Rusové v Doněcku schovávají vojenskou techniku pod most ](https://twitter.com/PaulJawin/status/1641743302591381504)
+          - [Rusové ostřelovali Razumovku u Záporoží](https://twitter.com/nexta_tv/status/1641730573998649346)
+          - [Drony si mákly](https://twitter.com/PaulJawin/status/1641516787060580362)
+          - [Neprojeli](https://twitter.com/NOELreports/status/1641743673707704320)
+          - [Javeliny u Avdijivky](https://twitter.com/Bodbe6/status/1641504368447873041)
+          - [Ukrajinské tanky zastavili noční výpad Rusů](https://twitter.com/PaulJawin/status/1641727572483489794)
+          - [Výročí osvobození Buči ](https://twitter.com/nexta_tv/status/1641713923782246400)
+          - [Americké Strykery na Ukrajině](https://twitter.com/EuromaidanPress/status/1641753430040403972)
+          - [Odrážení útoku](https://twitter.com/PaulJawin/status/1641469137917452289)
+          - [Wagnerovci udělali z vinařství svou pevnost ](https://twitter.com/nexta_tv/status/1641508651562065932)
+          - [Mínus ruský tank, Marjinka](https://twitter.com/PaulJawin/status/1641683317060780033)
+          - [Bachmut](https://twitter.com/nexta_tv/status/1641450330905772032)
+          - [Rusové posílají na Ukrajinu další archivní kousky](https://twitter.com/NOELreports/status/1641697283510091776)
+          - [Krásná trefa](https://twitter.com/EuromaidanPress/status/1641648260019519489)
+          - [Kamikadze drony uklízí bojiště](https://twitter.com/Bodbe6/status/1641484460184023057)
+          - [Ruská turistka v Riu](https://twitter.com/nexta_tv/status/1641434284258119680)
+          - [Zácpa mezi Mariupolem a Melitopolem](https://twitter.com/Farleymarley16/status/1640990812971442181)
+          - [Trefa!](https://twitter.com/rammstein_fella/status/1641537950402879505)
+          - [Velmi úspěšný noční přepad Rusů v Bachmutu ](https://twitter.com/Bodbe6/status/1641545791389982720)
+          - [Protiletadlový kanón pálí na ruské pozice ](https://twitter.com/PaulJawin/status/1641713890865324040)
+          - [Uvnitř Bachmutu](https://twitter.com/NOELreports/status/1641695686432260098)
+          - [Trefa!](https://twitter.com/herooftheday10/status/1641765681396957184)
+          - [Mínus BMP](https://twitter.com/nevedimka123/status/1641718349372567555)
+          - [Nejspíš les u Kreminny](https://twitter.com/rammstein_fella/status/1641679401782857728)
       - title: "Čtvrtek"
         year: "30. březen 2023"
         image: assets/img/timeline/2023-03-30.jpg
