@@ -35,6 +35,53 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "3. duben 2023"
+        image: assets/img/timeline/2023-04-03.jpg
+        desc: "Ruská Národní protiteroristická komise obvinila ukrajinské tajné služby a sympatizanty Navalného Protikorupčního fondu z útoku, při kterém zemřel ruský propagandista Vladlen Tatarský a zraněny byly desítky lidí včetně členů estonského proruského hnutí „Nesmrtelný pluk“ nedávno deportovaných z Estonska. Prigožin mezitím potvrdil, že kavárna, kde k výbuchu došlo, mu skutečně patří, nicméně on sám zapochyboval, že by za výbuchem stála kyjevská vláda. Tatarský, vlastním jménem Maxim Fomin („Vladlen“ je umělé jméno odvozené od Vladimíra Lenina), byl rodák z ukrajinské Makijivky, který v roce 2014 po vypuknutí války na Donbasu uprchl z vězení, kde si odpykával 12letý trest za bankovní loupež, při které zemřely dvě ženy. Poté bojoval po boku „separatistů“ a později se přestěhoval do Moskvy, odkud provozoval proruský propagandistický kanál na Telegramu s více než půl miliónem sledujících. Mladá ruská žena Darja Trepová, která na večírek přinesla sošku s výbušninou, je nyní ve vazbě, nejspíš společně se svým manželem, členem ruské libertariánské strany. Počet zraněných se od včerejška vyšplhal na 32, z toho 10 lidí je ve vážném stavu. A jaká byla vaše neděle? Nicméně teď už [další novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0c2sav2afnow79hDoU9jsaa6cFkUxpMDMScan8gDe3KfGATwbyewEnvGguuHgbVVWl):"
+        detail: |
+          - Podle představitelů ukrajinské armády nyní Rusové přesunuli do Bachmutu i některého jednotky VDV a jiné elitní útvary a dál útočí na město i přes ohromné ztráty. Prý jde znát, že ruská armáda se neřídí vojenskou logikou, ale rozhoduje se na základě emocí, jinak totiž nejde ztráty, které útočníci trpí, ospravedlnit. Nasazení VDV jednotek znamenalo, že Ukrajinci museli opustit některé pozice blízko centra města a zaujmout novou obrannou linii podél vlakové trati. Boje jsou údajně jedny z nejintenzivnějších vůbec. 
+          - Polsko nechá na šermířských kláních startovat ruské a běloruské atlety, pokud veřejně prohlásí, že nepodporují ruskou válku vůči Ukrajině, označí ji za ilegální, potvrdí, že nemají žádné vazby na Putina, že nesloužili v armádě a že nepracují pro ozbrojené nebo jiné silové složky. Jinými slovy jim start nepovolí. Francie své turnaje po kladném stanovisku Mezinárodní šermířské federace raději zrušila úplně. 
+          - Strana dosavadní finské premiérky Sanny Marin neobhájila prvenství ve víkendových volbách a skončila až třetí. Obě strany, které ji přeskočily, jsou ale minimálně stejně, ne-li více proevropské, pro NATO a všechny jsou i pro pokračující pomoc Ukrajině. 
+          - Podle ukrajinské vicepremiérky se úřadům podařilo identifikovat 4 396 dětí, které Rusové odvlekli z okupovaných území. Ukrajina už předala Rusku jmenný seznam a bude požadovat, aby se děti vrátily ke svým rodinám. 
+          - Ruská armádě údajně musela opustit některé pozice v Doněcké oblasti. Zároveň ale Rusové koncentrují zbývající síly u Svatového a nejspíš se pokusí o další výpad v tomto směru. 
+          - Rheinmetall buduje opravárenský a logistický závod v Rumunsku, v těsné blízkosti ukrajinských hranic. Má být v provozu už na konci dubna. 
+          - Výbušnina nastražená v autě vážně zranila kolaboranta Maxima Zubareva, dosazeného šéfa okupační správy Akimovky u Melitopolu.  
+          - V Černém moři je nyní 5 ruských válečných lodí. Celková salva však čítá maximálně 12 raket Kalibr. 
+          - Na východní frontě padl ukrajinský stolní tenista Mychajlo Oprysk. 
+          - Polsko předalo Ukrajině první z přislíbených letounů MiG-29. 
+          - Zelenský pozítří opět navštíví Polsko.
+        videa: |
+          - [Ruský tankista natočil zničení sousedního tanku](https://twitter.com/EuromaidanPress/status/1642724099687587840)
+          - [Výbuch v Petrohradu ](https://twitter.com/nexta_tv/status/1642614516302204929)
+          - [Zadržení Darji Trepové](https://twitter.com/nexta_tv/status/1642662322102493184)
+          - [Prigožin vzdal Tatarskému hold v Bachmutu](https://twitter.com/nexta_tv/status/1642642746480500737)
+          - [Odmítl se vzdát… ](https://twitter.com/Bodbe6/status/1642544705018683393)
+          - [Jaro u Bachmutu](https://twitter.com/PaulJawin/status/1642655831916249092)
+          - [„Hodní“ Čečenci pod palbou v Bachmutu](https://twitter.com/Bodbe6/status/1642834913073217538)
+          - [Auto Zubareva](https://twitter.com/Hromadske/status/1642814195761840130)
+          - [Evakuace Američana, který dostal zásah protitankovou střelou](https://twitter.com/Bodbe6/status/1642573140499767301)
+          - [M777](https://twitter.com/EuromaidanPress/status/1642684840268156929)
+          - [SOF ](https://twitter.com/misfit_4/status/1642652400900276224)
+          - [Nová členka jednotky](https://twitter.com/Lyla_lilas/status/1642333086774861830)
+          - [Evakuace raněného ](https://twitter.com/Bodbe6/status/1642830968309403649)
+          - [Práce snajpra](https://twitter.com/Mamulashvili_M/status/1642552939624427520)
+          - [Bojové kozy](https://twitter.com/EvaTrmx86qc7r/status/1642459582391025665)
+          - [Boje v centru Bachmutu](https://twitter.com/Bodbe6/status/1642832692881371136)
+          - [Další kosmonaut](https://twitter.com/nevedimka123/status/1642835627568709632)
+          - [Javelin má další zářez ](https://twitter.com/PaulJawin/status/1642614732854026240)
+          - [Dobré ráno z fronty](https://twitter.com/NOELreports/status/1642781821069819904)
+          - [Bachmut](https://twitter.com/Bodbe6/status/1642829136589619200)
+          - [Demilitarizace v plném proudu ](https://twitter.com/PaulJawin/status/1642551358891999235)
+          - [Ukrajinské tanky](https://twitter.com/nevedimka123/status/1642782145625071616)
+          - [PzH 2000 při práci ](https://twitter.com/Tendar/status/1642803706432307200)
+          - [Klec ho nezachránila](https://twitter.com/Bodbe6/status/1642631192133488650)
+          - [Došel až k zákopu](https://twitter.com/herooftheday10/status/1642819280998637568)
+          - [Bum](https://twitter.com/Ukraine_Twi/status/1642773593128939520)
+          - [Zajatí Rusové ](https://twitter.com/small10space/status/1642803137051238401)
+          - [A další ](https://twitter.com/herooftheday10/status/1642816757395075073)
+          - [Headshot (citlivé!)](https://twitter.com/nevedimka123/status/1642760894542237697)
+          - [Kupředu](https://twitter.com/ukrainiansquad/status/1642488949661736961)
       - title: "Neděle"
         year: "2. duben 2023"
         image: assets/img/timeline/2023-04-02.jpg
