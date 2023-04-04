@@ -35,6 +35,67 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "4. duben 2023"
+        image: assets/img/timeline/2023-04-04.jpg
+        desc: "Zelenský po návštěvě města Jahidne u Černihivu, kde měl možnost prohlédnout si jednu z ruských mučíren, řekl na tiskové konferenci, že si přeje, aby Putin strávil zbytek života v tmavém sklepě s kbelíkem místo toalety. Ruským vojákům pak vzkázal, že stále je čas na to, opustit Ukrajinu a zachránit se, a že pokud tak neučiní, pak je v blízké době Ukrajinci zničí. Spojené státy očekávají zahájení ukrajinské ofenzívy prakticky každým dnem. Nejčastěji se pak skloňuje půlka dubna. Držme klukům a holkám palce. Jaro bude rozhodující pro budoucnost celé Evropy, ne-li světa. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02XmWcpzr5SPjmogNcEgvJCgtKNMMDqfMibBGZpvB9oyRB36PEkCPGNDq6xUy9yxtnl):"
+        detail: |
+          - Putin tvrdí, že vstup Finska do NATO představuje bezpečnostní riziko pro Rusko (Peskov dokonce mluví o „útoku na bezpečnost Ruska“) a možnou eskalaci konfliktu, kvůli které bude Rusko muset přijmout odvetná opatření. Ještě loni v červnu přitom Putin tvrdil, že vstup Finska a Švédska do NATO není nic, čeho by se Rusko mělo obávat. 
+          - Členové ruské pravoslavné církve protestují proti stavbě obří mešity v centru Moskvy, která by dokázala pojmout až 60 000 věřících. Kadyrovoci na protesty reagovali výhrůžným videem, kde protestujícím oznámili, že jim je jedno, jestli je jejich cílem Ukrajinec nebo Rus, a že se to může velmi rychle změnit. 
+          - Šéf MAAE Rafael Grossi navštíví Kaliningrad a setká se se zástupci Ruska, aby společně diskutovali situaci v záporožské jaderné elektrárně. Grossi po poslední návštěvě vyjádřil značné obavy nad ohrožením instalace z důvodu přítomnosti ruských vojáků a jejich techniky. 
+          - Wagnerovci o víkendu zveřejnili video, na kterém mučí muže, o kterém tvrdí, že je žoldák z Gruzie. Ukrajincům se ale podařilo muže ztotožnit a je jím civilista z Doněcké oblasti, který se v minulosti objevil v jedné z ukrajinských reportáží z kontaktní linie. 
+          - Ukrajině se i přes pokračující boje podařilo uvést do provozu další věž na těžbu zemního plynu schopnou čerpat až 460 000 krychlových metrů denně. Ukrajina plánuje už v příštím roce pokrýt veškerou domácí poptávku z vlastních zdrojů. 
+          - Zdravotníkům se podařilo převézt do péče lékařů v Praze těžce zraněného českého dobrovolníka-medika z projektu Phoenix, který byl před pár dny zasažen ruskou dělostřeleckou palbou během evakuace raněných. 
+          - Putin zbavil velení generála Muradova, který při útocích u Vuhledaru letos v únoru obětoval dvě celé elitní brigády a téměř 150 kusů těžké techniky, aniž by se mu podařil jakýkoliv postup. 
+          - Wagnerovci zapíchli svou a ruskou vlajku do ruin někdejší bachmutské radnice a prohlásili Bachmut za „de jure“ pod kontrolou Ruska. Ukrajinci se tomu jen vysmáli. 
+          - Předseda Rady pro lidská práva Ruské federace Fadejev volá po zablokování Wikipedie v Rusku a vytvoření její „ideologicky správné“ náhrady. 
+          - Během výměny zajatců se domů vrátilo deset vojáků a 2 ukrajinští civilisté. Většina z nich byla propuštěna ze zajetí kvůli utrpěným vážným zraněním. 
+          - Litva zakázala ruským občanům vlastnit v zemi nemovitosti. Něco, co by našemu realitnímu trhu také prospělo. 
+          - Šojgu oznámil, že Bělorusko nyní disponuje letouny a pozemními systémy schopnými nést jaderné zbraně. 
+          - Rusko údajně plánuje dát vznik novým soukromým armádám, které by nahradily wagnerovce.
+          - Dánsko ve spolupráci s Norskem poskytne Ukrajině dalších 8 000 kusů dělostřelecké munice. 
+          - Země NATO už poskytly Ukrajině pomoc v hodnotě okolo 65 miliard dolarů. 
+          - U Putinovy rezidence v Soči se objevily systémy protivzdušné obrany. 
+          - Finsko bylo oficiálně přijato do NATO. 
+        videa: |
+          - [Kadyrovci vyhrožují Moskvanům](https://twitter.com/nexta_tv/status/1643179147982667777)
+          - [U Bachmutu](https://twitter.com/Militarylandnet/status/1643215115158802432)
+          - [Ruská školka v Burjatsku ](https://twitter.com/nexta_tv/status/1642986101815083008)
+          - [Ukrajinci vygumovali ruskou pozici Meteoritem ](https://twitter.com/Tendar/status/1643226875706187778)
+          - [Údajně Gruzínec, ve skutečnosti civilista od Doněcku ](https://twitter.com/nexta_tv/status/1643231539143012353)
+          - [Ukrajinský tank, ruský zákop](https://twitter.com/Bodbe6/status/1643205561104715776)
+          - [Zničená ruská pozorovatelna i s personálem ](https://twitter.com/bayraktar_1love/status/1642935215222923264)
+          - [Čečenci na straně Ukrajiny evakuují svoje ztráty](https://twitter.com/Bodbe6/status/1642959288229306383)
+          - [Bachmut](https://twitter.com/Militarylandnet/status/1643199783497093121)
+          - [Noční zásah Oděsy](https://twitter.com/nexta_tv/status/1643110253146394625)
+          - [Přestřelky v Bachmutu](https://twitter.com/Bodbe6/status/1643211771031744513)
+          - [Podle video s Tatarským](https://twitter.com/nexta_tv/status/1642980223841861632)
+          - [Bezprostředně poté ](https://twitter.com/666_mancer/status/1642976465191948291)
+          - [Bachmut](https://twitter.com/NOELreports/status/1643135642510016514)
+          - [Zákopy plné bývalých ruských vojáků](https://twitter.com/PaulJawin/status/1642930047584731136)
+          - [Denacifikace (citlivé)](https://twitter.com/rammstein_fella/status/1642995554807422980)
+          - [Ukrajinský konvoj](https://twitter.com/nevedimka123/status/1643195286431342593)
+          - [Ruský lancet, ukrajinský tank](https://twitter.com/Bodbe6/status/1643227027594440704)
+          - [Dělostřelci s dronem ](https://twitter.com/PaulJawin/status/1643189432734842880)
+          - [Ruské údery na Vuhledar](https://twitter.com/Bodbe6/status/1643221429482078212)
+          - [Archivní vzpomínka na Buču ](https://twitter.com/Gerashchenko_en/status/1643150659733057537)
+          - [Jak to vypadá, když nedaleko dopadnou rakety z Gradu](https://twitter.com/Bodbe6/status/1643216449547239427)
+          - [Ruské zákopy (citlivé)](https://twitter.com/DimonchikKh/status/1643180660335558659)
+          - [Útok 225. praporu na ruské pozice](https://twitter.com/Bodbe6/status/1643210604801404934)
+          - [Rozvědčíci u Bachmutu](https://twitter.com/NOELreports/status/1642995588269592576)
+          - [Palba korigovaná dronem](https://twitter.com/Bodbe6/status/1643208381295886337)
+          - [Rambo u Kreminné](https://twitter.com/herooftheday10/status/1643003393844076544)
+          - [BTR-4 v Bachmutu](https://twitter.com/PaulJawin/status/1643154481276747776)
+          - [Trefa!](https://twitter.com/herooftheday10/status/1643245859562201091)
+          - [Sbírání zajatců](https://twitter.com/Bodbe6/status/1643206854225346561)
+          - [Pár ruských vraků](https://twitter.com/NOELreports/status/1642993101416570880)
+          - [Čištění zákopů](https://twitter.com/PaulJawin/status/1642941995512479747)
+          - [Mínus ukrajinský transportér ](https://twitter.com/UAWeapons/status/1642945081509306371)
+          - [Evakuace novorozeňat ](https://twitter.com/UAnimalsENG/status/1642872038506283008)
+          - [Mínus další T-90M](https://twitter.com/Bodbe6/status/1642951104219455499)
+          - [Odwagnerování u Avdijivky](https://twitter.com/NOELreports/status/1642967661352222720)
+          - [První dobrovolníci nové brigády AZOVu](https://twitter.com/Militarylandnet/status/1643235891186466818)
+          - [Nová brigáda parašutistů ](https://twitter.com/Militarylandnet/status/1643198538887602177)
       - title: "Pondělí"
         year: "3. duben 2023"
         image: assets/img/timeline/2023-04-03.jpg
