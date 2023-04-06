@@ -35,6 +35,58 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "6. duben 2023"
+        image: assets/img/timeline/2023-04-06.jpg
+        desc: "V ruském Brjanském regionu se zřítilo ultralehké letadlo patřící ukrajinskému pilotovi. Některé zdroje dokonce tvrdí, že letadlo muselo nouzově přistát poté, co utrpělo zásahy z ručních zbraní. Propagandistické kanály zveřejnily fotky ze  zadržení pilota a tvrdí, že v letadle se našel samopal AKS-74U. Celá zpráva působí, mírně řečeno, přitažená za vlasy. Pokud skutečně pilot uletěl několik desítek kilometrů přes okupované a nepřátelské území, nabízí se otázka: Co dělal protivzdušná obrana? Těžko říct, co je pro Rusko více ponižující. Jestli to, že by si tak bizarní událost vymyslelo, nebo to, že nedokázalo intervenovat vůči civilnímu letadýlku. Každopádně radši pojďme na [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02oNs59aswJWw5duEdUdHVcBQcjwdkbGTeCekQEpHxL6w5jyaSCZyMW1u1cArB9XhPl):"
+        detail: |
+          - Poté co Rusko opakovaně odmítlo vrátit pronajatá letadla od západních výrobců, Airbus oznámil, že bude sankcionovat všechny společnosti a jednotlivce, které budou pomáhat Rusku s údržbou ukradených letadel, a to i subjekty mimo Ruskou federaci, pokud budou například Rusku dodávat náhradní díly nebo jiné materiály nutné pro opravy. 97 % civilních dopravních letadel ruských aerolinek jsou západní stroje. 77 % z nich pak patří Airbusu nebo Boeingu. 
+          - Česko poskytne Ukrajině další vojenskou pomoc v celkové hodnotě okolo 30 miliónů dolarů. Většina pomoci bude ve formě materiálu a techniky, kterou ministerstvo obrany označilo jako „nepotřebnou“ pro obranyschopnost Česka. 
+          - Zelenský ve svém proslovu před diváky na náměstí během návštěvy Polska uvedl, že pokud Ukrajina vyhraje, znamená to, „že v Moldavska přetrvá svoboda, že svoboda nikdy neopustí Gruzii, a že se rozhodně vrátí do Běloruska“. 
+          - Podle webu Defense One pošlou Spojené státy Ukrajině některé experimentální zbraně pro boj s drony. Z pohledu zbrojovek to dává smysl, protože díky ruské invazi můžou testovat nové systémy rovnou v ostrém konfliktu. 
+          - Ukrajinští pohraničníci umístili na hranice s Běloruskem obří projekci, na které promítají svým „kolegům“ na druhé straně hranice následky ruské invaze – primárně záběry z raketových útoků na ukrajinská města. 
+          - Ruská RIA Novosti publikovala článek, ve kterém fantazíruje, že celý svět bude stát fronty na ruské jídlo. Eh… nějak si kromě kaviáru nedokážu vybavit nic ruského, co bych kdy viděl v obchodě. Poradí někdo? 
+          - Dva mobilizovaní Rusové, kteří odmítli účast v bojích, byli odsouzeni ke třem letům vězení. Vzhledem k osudu ostatních mobilizovaných mužů se dá říci, že vyhráli loterii. 
+          - Britové zablokovali v OSN online vysílání strůjkyně únosů dětí z Ukrajiny Lvovové-Bělovové. Rusku vzkázali, že svoje argumenty může přednést v Haagu. 
+          - Podle ukrajinského ministerstva obrany podniká Rusko v okupovaných oblastech masivní deforestaci, přičemž získané dřevo odváží do Ruska. 
+          - Představitelé Ukrajiny uvedli, že až ukrajinská armáda stane na hranicích Krymu, bude Ukrajina opět otevřená mírovým jednáním u osudu poloostrova. 
+          - Ukrajinský Ukroboronprom a koncern Polish Armaments Group budou ve spolupráci vyrábět munici pro ukrajinské tanky. 
+          - Podle guvernéra ruské Brjanské oblasti se přes hranice pokusila proniknout další skupina sabotérů. 
+          - Bulharské přístavy se uzavřely pro veškeré ruské lodě bez ohledu na to, pod jakou vlajkou plují. 
+          - Prezident Zelenský je pozván na příští summit nato, který se bude konat v červenci ve Vilniusu. 
+          - 94 % procent Ukrajinců nyní vnímá Rusko negativně, včetně 90 % obyvatel východní Ukrajiny. 
+          - Podle Reuters shromáždila Ukrajina 40 000 vojáků pro nadcházející ofenzivu. 
+          - V jedné z budov ruského ministerstva obrany v Moskvě včera hořelo. 
+          - Lotyšsko znovu zavádí povinnou vojenskou službu o délce 11 měsíců. 
+          - Polsko poskytne Ukrajině 24 samohybných 120mm minometů RAK. 
+          - Polsko předalo Ukrajině další čtyři letouny MiG-29.
+          - UEFA nechá na turnaji nastoupit týmy z Běloruska. 
+        videa: |
+          - [Mínus tři tanky](https://twitter.com/front_ukrainian/status/1643625024786513923)
+          - [Zajímání wagnerovců ](https://twitter.com/NOELreports/status/1643895838958075906)
+          - [Zatčení mobíci ](https://twitter.com/nexta_tv/status/1643903653491748864)
+          - [Spolupráce dron a BMP](https://twitter.com/Bodbe6/status/1643957033954050050)
+          - [Bachmut](https://twitter.com/nevedimka123/status/1643918590616190980)
+          - [Dron čistí Bachmut ](https://twitter.com/PaulJawin/status/1643845343774138370)
+          - [Status Bachmutu](https://twitter.com/front_ukrainian/status/1643914686516064257)
+          - [Požár ministerstva obrany](https://twitter.com/nexta_tv/status/1643657773253525506)
+          - [Trofej](https://twitter.com/EuromaidanPress/status/1643750613250088960)
+          - [Lancet polechtal houfnici ](https://twitter.com/Bodbe6/status/1643955495676289024)
+          - [Avenger už je na Ukrajině](https://twitter.com/front_ukrainian/status/1643635733301800962)
+          - [Mínus ruský radar ](https://twitter.com/EuromaidanPress/status/1643705314691391492)
+          - [Věřte v ZSU](https://twitter.com/NOELreports/status/1643659161542983710)
+          - [Zakončení výcviku v Británii](https://twitter.com/front_ukrainian/status/1643951999325446144)
+          - [Situace v zákopech ](https://twitter.com/EuromaidanPress/status/1643685685130592256)
+          - [Bývalí wagnerovci ](https://twitter.com/front_ukrainian/status/1643889938042179584)
+          - [Ruské ztráty](https://twitter.com/herooftheday10/status/1643726456382521346)
+          - [POV: Rusové v něčím domě](https://twitter.com/666_mancer/status/1643949078194057216)
+          - [Čištění zákopů ze vzduchu ](https://twitter.com/Bodbe6/status/1643730113387798529)
+          - [Mínus T-90M](https://twitter.com/front_ukrainian/status/1643885785496576001)
+          - [Trefa!](https://twitter.com/Bodbe6/status/1643945251256647682)
+          - [Mínus Nona](https://twitter.com/NOELreports/status/1643632547094568960)
+          - [S Krabem ](https://twitter.com/front_ukrainian/status/1643864801720905729)
+          - [Ivan usnul v lese](https://twitter.com/Freedom_Ukr866/status/1643843728266674176)
+          - [U Vuhledaru ](https://twitter.com/Militarylandnet/status/1643735989360402432)
       - title: "Středa"
         year: "5. duben 2023"
         image: assets/img/timeline/2023-04-05.jpg
