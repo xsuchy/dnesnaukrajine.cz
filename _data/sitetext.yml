@@ -35,6 +35,51 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "11. duben 2023"
+        image: assets/img/timeline/2023-04-11.jpg
+        desc: "Ministr obrany Reznikov naznačil, že Ukrajina plánuje další útok na ruské válečné lodě v Černém moři. Prý se pouze čeká na správný moment, aby mohla přijít „bavovna“. Od potopení Moskvy Ukrajina citelně zvětšila svůj protilodní arsenál, ať už o domácí střely Neptun nebo o zahraniční rakety Harpoon. Navíc obdržela nespecifikovaný počet námořních dronů, kterými v minulých týdnech útočila primárně na kotvící lodě v okupovaných přístavech. Jestli jde jen o psychologický boj, nebo nás čeká další černomořský ohňostroj, to se nejspíš brzy dozvíme. Každopádně některé věci jsou jistější. A o těch je [dnešní přehled](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0iaGo8SvjLbZ1pw7FenjVgV5PEiWkJKYC4noR1KiefbY3rVYeWRFzAyTqmfyTUcv1l):"
+        detail: |
+          - Podle Stálé zástupkyně ukrajinské prezidentské kanceláře na Krymu Tamily Taševy se na území poloostrova po nezákonné anexi ilegálně přestěhovalo okolo 800 000 Rusů. Taševa oznámila, že by tito lidé měli zvážit odchod z Krymu už nyní, jinak se v budoucnu vystaví riziku deportace nebo jiným zákonným krokům. 
+          - Podle deníku Politico nebyl ještě vůbec uvedený v chod loňský Zákon o půjčce a pronájmu, který schválily Spojené státy. Důvodem je prý neochota Washingtonu přistoupit k finančním závazkům a také obava z nedostatečné podpory obou hlavních politických stran. 
+          - Rusové údajně propustili několik zaměstnanců z nemocnice v okupovaném Snižném, protože si odmítli převzít ruské pasy. Nejvíc na tom ale budou tratit sami. Nemocnice v okupované části Ukrajiny totiž přetékají zraněným ruským personálem. 
+          - Prigožin začal spolupracovat s ruskou politickou stranou „Spravedlivé Rusko – Za pravdu“, což ukazuje na to, že Prigožin hodlá aktuální popularitu přetavit v politické ambice. 
+          - Rusko hodlá zavést nové tresty a omezení pro ty, kteří se vyhýbají mobilizaci. Nebudou například smět řídit auto, žádat o úvěry a půjčky nebo koupit nemovitost. 
+          - Podle deníku The Washington Post mají Spojené státy informace o tom, že Egypt plánuje tajně dodat Rusku až 40 000 raket do dělostřeleckých systémů. 
+          - Bulharsko jedná s partnery o možnosti poskytnout Ukrajině své letouny MiG-29, pokud místo nich obdrží moderní západní stroje. 
+          - Ruské stíhačky donutily americký protiponorkový průzkumný letoun Poseidon opustit mezinárodní letový prostor v Černém moři. 
+          - Ruskou Kamčatku zasypala během čtyřech hodin 8,5cm vrstva popela z největší erupce sopky Šiveluč za posledních 60 let. 
+          - Ruskou předsunutou základnu v Marjince navštívil HIMARS. Zničeno bylo několik vozidel a část personálu. 
+          - Podle průzkumu se 91 % ruské populace považuje za vlastence. 52 % pak za bezpodmínečné patrioty. 
+          - Maďarský ministr zahraničí dnes přicestoval do Moskvy na jednání o spolupráci v oblasti energetiky. 
+          - Od začátku roku už 63 ukrajinských kostelů přešlo pod patronát Pravoslavné církve Ukrajiny. 
+          - Počet pracujících lidí v mladém věku se v Rusku meziročně propadl o 1,33 milióny. 
+          - U budovy Občanské komory Ruské federace v Moskvě explodovala bomba. 
+          - Dánsko oznámilo záměr poskytnout Ukrajině 100 tanků Leopard 1. 
+        videa: |
+          - [Britové vyprovází Ukrajince domů ](https://twitter.com/front_ukrainian/status/1645730797087776768)
+          - [V ruském pořadu otevřeně zaznělo, že ruské ztráty jsou vyšší než ukrajinské ](https://twitter.com/nexta_tv/status/1645699753076744194)
+          - [Ruská stíhačka a Poseidon, nejspíš ale dřívější incident](https://twitter.com/Spriter99880/status/1645476425846095884)
+          - [Návrat domů](https://twitter.com/nexta_tv/status/1645719188634214403)
+          - [Ruská strana výměny](https://twitter.com/LogKa11/status/1645450484092751872)
+          - [Bachmut](https://twitter.com/Militarylandnet/status/1645512086867394560)
+          - [Ukrajinský voják a přesný hod granátem ](https://twitter.com/Bodbe6/status/1645735262893273093)
+          - [Kamčatka](https://twitter.com/nexta_tv/status/1645663113084125184)
+          - [Dron versus náklaďák](https://twitter.com/front_ukrainian/status/1645720570602848256)
+          - [Testování „hloubkového bombardování“ pomocí dronu](https://twitter.com/PaulJawin/status/1645705332847509505)
+          - [Co to sakra…](https://twitter.com/NOELreports/status/1645465594270035969)
+          - [Ruské zákopy](https://twitter.com/nevedimka123/status/1645493984452829184)
+          - [Bachmut](https://twitter.com/Bodbe6/status/1645464069145600005)
+          - [Pokračování](https://twitter.com/Bodbe6/status/1645464278546145280)
+          - [Rusům nevyšel další útok](https://twitter.com/Ukraine_Twi/status/1645493320989253636)
+          - [Finský Sisu na frontě](https://twitter.com/front_ukrainian/status/1645727488427929600)
+          - [Reznikov o Černomořské flotile](https://twitter.com/NOELreports/status/1645684254662074369)
+          - [Bachmut ](https://twitter.com/NOELreports/status/1645517026826371079)
+          - [Noční trefa](https://twitter.com/front_ukrainian/status/1645533592217350145)
+          - [Lancet zničil ukrajinský Buk](https://twitter.com/UAWeapons/status/1645494751930593280)
+          - [Rovnou do jamky!](https://twitter.com/PaulJawin/status/1645689255459471360)
+          - [Mínus dva](https://twitter.com/front_ukrainian/status/1645460244070268937)
+          - [Trofeje ukrajinské jednotky](https://twitter.com/NOELreports/status/1645508276975718400)
       - title: "Pondělí"
         year: "10. duben 2023"
         image: assets/img/timeline/2023-04-10.jpg
