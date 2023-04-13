@@ -35,6 +35,57 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "13. duben 2023"
+        image: assets/img/timeline/2023-04-13.jpg
+        desc: "Dnes je to přesně 9 let od začátku protiteroristické operace na Donbasu a také rok od chvíle, kdy Ukrajinci potopili pýchu ruské Černomořské flotily, raketový křižník Moskva. Dodnes neexistuje oficiální verze, která by přiblížila, jak se celá akce povedla. Ta veřejně dostupná, která se odkazuje na zdroje v ukrajinské a americké armádě, mluví o velké shodě náhod a efektu nízké oblačnosti, která umožnila ukrajinským radarům zaměřit neznámý velký objekt daleko za jejich běžným dosahem a vypálit na něj domácí střely Neptun. Jestli to tam skutečně bylo, se pravděpodobně s jistotou dozvíme až s pořádným odstupem, do té doby nezbývá než Ukrajincům pogratulovat ke skvělé práci a popřát jim více takových šťastných náhod. V Černém moři je ostatně pořád dost budoucích ruských ponorek, které by si s bohem moří a oceánů mohly dát sraz. Ale teď už [pár aktualit]():"
+        detail: |
+          - Uniklé dokumenty americké armády jsou podle několika států, které v nich figurují, směsicí pravdivých, upravených i vyloženě lživých informací. A i většina pravdivých informací je prý minimálně „zastaralá“. Hodně diskutovaná je například informace o přítomnosti speciálních jednotek západních států, zejména USA, na území Ukrajiny. Některé státy přítomnost svého vojenského personálu na Ukrajině přiznaly, nicméně zároveň vyvrátily spekulace, že by se takový personál účastnil bojů. Má jít primárně o ochranku diplomatů, analytiky nebo instruktory v ovládání poskytnuté západní techniky. Jiné státy mezitím vybrané informace označily za absurdní výmysly s cílem je poškodit na mezinárodní scéně. Že byly dokumenty před zveřejněním upraveny, ostatně tvrdí od prvního dne i Rusové. 
+          - Ukrajina tvrdí, že zná totožnost mužů na brutálním videu s dekapitací zajatce, které se objevilo na sociálních sítích, a zahájila prý kroky k jejich zadržení. Podle ruských opozičních médií oba muže na videu poznal podle nášivek a hlasů také bývalý důstojník Wagnerovy armády Medveděv, který z Ruska uprchl a požádal o azyl v Norsku. Prý jde o jeho bývalé kolegy. Zabitý muž by podle některých informací měl patřit k ukrajinské elitní jednotce Kraken. 
+          - ISW upozorňuje na to, že ruská snaha zničit ukrajinskou identitu a rusifikovat okupovaná území má silný efekt i na domácí populaci, kde jsou díky ní živeny různé nacionalistické a xenofobní proudy. Na vzestupu je proto jak krajní pravice, tak různé anti-imigrační skupiny a zesiluje se odpor k národnostním menšinám ze střední a východní Asie. Rusko se tak nechtěně čím dál více nacifikuje. 
+          - Rusko údajně chystá půdu pro další vlnu mobilizace. Nový zákon o elektronickém doručení povolávacího rozkazu, který čeká jen na podepsání Putinem, prakticky znemožňuje mužům vyhnout se mobilizaci a zavádí tresty pro ty, kteří se do 20 dnů od doručení listiny nedostaví k odvodu. 
+          - Ruská FSB tvrdí, že za explozí, která zabila Vladlana Tatarského, stojí ukrajinské tajné služby. Bombu měl ženě, která ji na oslavu přinesla, předat Jurij Denisov, který v únoru přicestoval do Ruska přes Lotyšsko a následně opustil zemi přes Arménii a Turecko. 
+          - V Krakově se pokusil upálit 62letý muž na prostranství před ukrajinskou ambasádou. Svým činem chtěl kolemjdoucí lidi upozornit na okupaci Ukrajiny a nutnost pomoci. Muž je nyní v kritickém stavu v péči lékařů. 
+          - V bojích u Bachmutu padli dva američtí dobrovolníci, kteří na Ukrajinu přicestovali už v začátku války, Edward Wilton a Grady Kurpasi. Celkem během invaze zemřelo už osm dobrovolníků z USA. 
+          - Rusové začali přejmenovávat ulice v okupovaném Melitopolu. Jedna ponese jméno po vloni zabité fašistce Dugině, druhá po bývalém vůdci DLR Zacharčenkovi. 
+          - Stálý rozhodčí soud v Haagu nařídil Rusku zaplatit ukrajinskému Naftogazu 5 miliard dolarů jako kompenzaci za majetek ukořistěný na Krymu po roce 2014.
+          - Zemřel Eduard Bagirov, propagandista a dlouholetý důvěrník diktátora Putina. Před smrtí byl týden v kómatu v péči lékařů, jelikož mu selhaly veškeré orgány. 
+          - Prezident Pavel prohlásil, že pokud se potvrdí autenticita brutálního videa vraždy ukrajinského zajatce, pak se Rusko ocitne na úrovni teroristů z ISIS. 
+          - Ukrajinský soud poslal na 11 let za mříže zadrženého velitele ruského tanku, který dal rozkaz k palbě na činžovní dům v Černihivu. 
+          - Podle Energoatomu Rusům během manipulace explodovala mina v hale 4. bloku jaderné elektrárny v Enerhodaru.
+          - Podle polského deníku PAP blokuje Francie na půdě EU dohodu o společném nákupu munice pro Ukrajinu.
+          - Satelitní snímky potvrzují, že Rusové na okupovaném území kácí celé lesy a odváží vytěžené dřevo do Ruska. 
+          - Polsko oznámilo záměr vyrábět na svém území munici z ochuzeného uranu pro tanky Abrams. 
+          - Švýcarské banky varovaly ruské klienty, že pokud budou platit daně v Rusku, uzavřou jim účty. 
+          - Lotyško žene k soudu 16 novinářů za porušení sankcí a kolaboraci s ruským Sputnikem. 
+          - Spojené státy zavedly sankce vůči maďarské bance za její aktivity v Rusku. 
+          - Norsko vyhostilo 15 ruských diplomatů, které považuje za špiony. 
+        videa: |
+          - [Záchrana dalších obětí války](https://twitter.com/nexta_tv/status/1646377169965432832)
+          - [Návštěvnice ](https://twitter.com/EuromaidanPress/status/1646386481613733889)
+          - [Rusové natočili, jak trefili minu](https://twitter.com/666_mancer/status/1646160871633059841)
+          - [Postup Rusů Bachmut za poslední měsíc ](https://twitter.com/War_Mapper/status/1645949706911068160)
+          - [Drony v noci](https://twitter.com/front_ukrainian/status/1646429372444811264)
+          - [Rusové svrhli zápalnou munici na Bachmut](https://twitter.com/NOELreports/status/1646260621191643137)
+          - [To samé, ruský pohled](https://twitter.com/Bodbe6/status/1646213443890950144)
+          - [Bachmut](https://twitter.com/small10space/status/1646430596552327169)
+          - [Mínus tank, Avdijivka](https://twitter.com/Bodbe6/status/1646268554260430854)
+          - [Mínus dva](https://twitter.com/front_ukrainian/status/1646399033332707329)
+          - [Ukrajinský vozový park ](https://twitter.com/GloOouD/status/1646161386110689283)
+          - [Za svobodu!](https://twitter.com/ukrainiansquad/status/1646129603935719425)
+          - [Rovnou do jamky](https://twitter.com/front_ukrainian/status/1646471612865052672)
+          - [Ivan udělal špatné rozhodnutí ](https://twitter.com/Bodbe6/status/1646468028190674944)
+          - [Trefa Excalibur municí](https://twitter.com/front_ukrainian/status/1646386688392941570)
+          - [Rusové v Bachmutu](https://twitter.com/small10space/status/1646444985259028480)
+          - [Přišel hodně blízko](https://twitter.com/herooftheday10/status/1646409003272921088)
+          - [Mínus BMP](https://twitter.com/front_ukrainian/status/1646209853012967424)
+          - [Bachmut](https://twitter.com/Bodbe6/status/1646311226899677184)
+          - [U Vuhledaru ](https://twitter.com/small10space/status/1646417127576838144)
+          - [TDF v Bachmutu](https://twitter.com/Bodbe6/status/1646207079403733018)
+          - [Finské dělo na frontě](https://twitter.com/front_ukrainian/status/1646178201050161155)
+          - [Bachmut](https://twitter.com/front_ukrainian/status/1646173186105409538)
+          - [Snajpr, Bachmut](https://twitter.com/Bodbe6/status/1646213019481915409)
+          - [Bachmut](https://twitter.com/herooftheday10/status/1646407685447852033)
       - title: "Středa"
         year: "12. duben 2023"
         image: assets/img/timeline/2023-04-12.jpg
