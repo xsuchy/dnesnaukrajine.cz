@@ -35,6 +35,63 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "14. duben 2023"
+        image: assets/img/timeline/2023-04-14.jpg
+        desc: "Ukrajinský novinář Volodymyr Zolkin (www.youtube.com/@VolodymyrZolkin) od začátku války natočil přes stovku rozhovorů se zajatými ruskými vojáky. Krom toho, že dobře ilustrují podmínky, v jakých Ukrajinci drží ruské zajatce, jestli se z nich něco dá jednoznačně vyvodit, pak to, že Rusko systematicky lže vlastní populaci. Mobilizovaným mužům lže o příčinách války, lže jim o tom, jak válka probíhá, lže jim o tom, kdo proti nim stojí, i o politických souvislostech a hlavně: lže jim o tom, kde a jak budou sloužit. Brancům velitelé tvrdí, že budou sloužit v týle u zásobování, že budou hlídat ruské hranice nebo že neopustí území Ruska, a ti se pak ocitnou s minimálním výcvikem a povědomí o situace někde v zákopu na frontě, kde buď zahynou, nebo je Ukrajinci zajmou. Mimochodem, často se dostanou do zajetí tak, že k nim přijde někdo, kdo mluví rusky, a bez odporu je zajme, protože jim ruská propaganda tvrdí, že Ukrajinci ruštinu zakázali, a tak je nenapadne, že právě potkali Ukrajince. A další leitmotiv všech videí je nízká úroveň vzdělání zadržených Rusů, nulový přehled o dění ve světě a geografii a nezájem o domácí politiku. Videa doporučuji všem zhlédnout, abyste si udělali obrázek, s čím Ukrajina bojuje. A teď už [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02R5AaENKp54xz3QXYBiCxcbji4BoTKqGx4J5pmXKd72R1KGMTvySvfpMJEf5GnEuSl):"
+        detail: |
+          - Že se neuposlechnutí rozkazu v ruské armádě často brutálně trestá, nikoho nepřekvapí. Překvapující je ale rozpětí potenciálních trestů, které se v závislosti na jednotce pohybují kdekoliv od pouhého propuštění z armády nebo převelení do týlu přes verbální ponižování, věznění, bití a týrání, až po trýznění, znásilňování nebo střelbu do vlastních řad či mimosoudní popravy. Ukrajinští vojáci disponují desítkami odposlechů přes ukořistěné nebo nešifrované vysílačky, které ukazují, jak ruští velitelé dávají rozkazy k palbě do ustupujících vojáků, což potvrzují i očitá svědectví z fronty a výpovědi ruských zajatců. Teď se objevil jednak další takový odposlech, ale také video, které zveřejnili sami Rusové, a na kterém natočili znásilnění vlastního spolubojovníka kovovou tyčí. Jak může někdo za takovou armádu a stát nasazovat vlastní krk, to mi zůstává záhadou.
+          - Podle ISW Rusové ztratilo schopnost vést útoky na vícero frontách současně. Dokazovat to má skutečnost, že ruské síly přesunuly některé jednotky od Avdijivky k Bachmutu, protože nedokáží útočit zároveň na Avdijivku a Bachmut, a tak raději posílily útok na Bachmut, který má politickou prioritu. 
+          - Podle ruských opozičních médií ruská armáda odmítá rodinám platit kompenzace za zabité nebo zajaté rodinné příslušníky a tvrdí jim, že o osudech mužů nemá informace, a to i v případech, kdy ukrajinská strana poskytla ruským rodinám a úřadům fotky a videa jako důkazy.  
+          - Ukrajinský ústavní soud prozkoumá legálnost tzv. Charkovských dohod, smluv, na základě kterých ruská Černomořská flotila 25 let bezplatně užívala přístav v Sevastopolu výměnou za slevu na nákup ruského plynu. 
+          - Šéf ukrajinské rozvědky Budanov v rozhovoru pro ABC News oznámil, že svět už brzy uvidí výsledky ukrajinské ofenzivy. Navíc řekl, že nevylučuje kolaps Ruské federace. 
+          - Indická státní banka varovala svoje firemní zákazníky, že bude blokovat platby za ruskou ropu, pokud přesáhnou sankcemi stanovenou cenu 60 dolarů za barel. 
+          - Tajemník ruské bezpečností rady Patrušev prohlásil, že jen „výhra Ruska nad ukrajinským nacizmem umožní návrat stability do Evropy“. 
+          - Polský premiér prohlásil, že pokud má Taiwan zůstat svobodný, nesmí Ukrajina padnout, jinak může Čína zaútočit hned následující den.  
+          - V americké Louisianě se objevil moderní ruský tank T-90A. Nejspíš bude rozebrán a prozkoumán americkými inženýry. 
+          - Německo povolilo Polsku reexportovat stíhačky MiG-29, které v minulosti od Německa koupilo. 
+          - Podle magazínu Bloomberg v bojích na Ukrajině padlo 90-95 % příslušníků ruských specnaz. 
+          - Ukrajina zakázal svým sportovcům účast na soutěžích, kde nastoupí ruští a běloruští atleti.  
+          - Lotyšsko poskytlo Ukrajině pomoc o objemu bezmála poloviny svého armádního rozpočtu.
+          - Evropská unie schválila společný nákup munice pro Ukrajinu v hodnotě 1 miliardy €. 
+          - Moldavsko pořádá velké preventivní manévry vlastních ozbrojených sil. 
+          - Čínský ministr obrany Li Šangfu navštíví v příštích dnech Rusko.
+        videa: |
+          - [Odposlech vysílačky](https://twitter.com/Azovsouth/status/1646617963343101956)
+          - [Ve válce netrpí jen lidi ](https://twitter.com/visegrad24/status/1646795094048088065)
+          - [Sběr zajatců](https://twitter.com/herooftheday10/status/1646526522076057601)
+          - [A další!](https://twitter.com/NOELreports/status/1646806682683449345)
+          - [A ještě!](https://twitter.com/small10space/status/1646770967211802625)
+          - [Turecké Kobry v Rumunsku, kampak jedou?](https://twitter.com/front_ukrainian/status/1646571434251022336)
+          - [Bývalé ruské pozice](https://twitter.com/Bodbe6/status/1646643815392894976)
+          - [Třetí šturmová v Bachmutu](https://twitter.com/front_ukrainian/status/1646833326970241024)
+          - [Rusové blouzní o ukořistěném Leopardu ](https://twitter.com/KilledInUkraine/status/1646761065831596032)
+          - [Rusové znásilnili vlastního vojáka kovovou tyčí za neuposlechnutí rozkazu (citlivé!!)](https://twitter.com/wartranslated/status/1646827039628877827)
+          - [U Ruského hřbitova ční billboard lákající ke vstupu do armády](https://twitter.com/nexta_tv/status/1646773011825958913)
+          - [Jurij byl zasažen ruskou chemickou zbraní, která mu poškodila mozek a nervy](https://twitter.com/intermarium24/status/1646468729407000577)
+          - [Noční lov](https://twitter.com/front_ukrainian/status/1646756861406769155)
+          - [Ruský snajpr zabil v Bachmutu dvojici seniorů ](https://twitter.com/Lyla_lilas/status/1646638764712681479)
+          - [Bachmut bez Rusů](https://twitter.com/Bodbe6/status/1646650200298078208)
+          - [Bachmut](https://twitter.com/ukrainiansquad/status/1646204837401444364)
+          - [Ještě neee… UŽ!](https://twitter.com/TreasChest/status/1646279417755254785)
+          - [Ukrajinský protiútok](https://twitter.com/Bodbe6/status/1646631075798458371)
+          - [Trofejní tédevadesátka](https://twitter.com/front_ukrainian/status/1646807513289875456)
+          - [Evakuace civilistů ze sutin v Nikopolu](https://twitter.com/nexta_tv/status/1646660557691387906)
+          - [Po boji](https://twitter.com/Bodbe6/status/1646648065086963713)
+          - [Zasažený park v Chersonu](https://twitter.com/EuromaidanPress/status/1646634616735043586)
+          - [Krab na frontě](https://twitter.com/front_ukrainian/status/1646764650522898436)
+          - [Bachmut](https://twitter.com/herooftheday10/status/1646634396961701888)
+          - [Nízký průlet](https://twitter.com/Seveerity/status/1646805342905331714)
+          - [Lazaret u fronty](https://twitter.com/Bodbe6/status/1646668312250572802)
+          - [Kája Gustavů](https://twitter.com/front_ukrainian/status/1646778106441498624)
+          - [Rusové cvičí děti ](https://twitter.com/lukasersil/status/1646415070602166273)
+          - [Záchrana sovy](https://twitter.com/Ashley50Nica/status/1646350189526142978)
+          - [Pivoňky v akci](https://twitter.com/front_ukrainian/status/1646806785104175108)
+          - [Bývalý ruský zákop a velké ztráty na obou stranách ](https://twitter.com/Bodbe6/status/1646681338064297985)
+          - [Rusové u Bachmutu (citlivé!)](https://twitter.com/DimonchikKh/status/1646805474279317504)
+          - [Mínus tank](https://twitter.com/front_ukrainian/status/1646551817067585536)
+          - [Bachmut](https://twitter.com/small10space/status/1646784286324846592)
+          - [Jediný tank čelí ruskému útoku](https://twitter.com/Bodbe6/status/1646623695333388289) 
       - title: "Čtvrtek"
         year: "13. duben 2023"
         image: assets/img/timeline/2023-04-13.jpg
