@@ -35,6 +35,50 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "15. duben 2023"
+        image: assets/img/timeline/2023-04-15.jpg
+        desc: "Kanál NEXTA na Twitteru ukázal, jak ho v posledních 24 hodinách začalo sledovat přes 10 000 falešných ruských účtů. Proč? Protože následně všechny účty opět provedou hromadný „unfollow“, což řekne systémům automatické kontroly obsahu na Twitteru, že stránka je problematická, a přestane ji nabízet ve feedech uživatelů. Je to jedna z mnoha taktik ruské propagandy, která využívá přirozené funkce sociálních sítí a jejích algoritmů k ohýbání dosahu témat a erozi veřejné diskuze. Od převzetí Twitteru Muskem navíc chybí jakákoliv lidská kontrola. Další taktiky zahrnují například hromadné nahlašování obsahu, využívání clickbaitového obsahu k zvětšování dosahu propagandy a fake news, phishing, nebo naopak umělé zvětšování okrajových témat skrze masové sdílení obsahu falešnými účty. Twitter s tím dokázal v minulosti poměrně úspěšně bojovat a byl v tom na míle před Facebookem nebo jinými sociálními sítěmi. Od převzetí Muskem ale postupně ruská propaganda síť plíživě pohlcuje, protože jeden z prvních Muskových kroků po převzetí firmy bylo propuštění celých týmů, které na moderaci pracovali. Lidé, co volají po absolutní svobodě slova a nulové moderaci obsahu na internetu, evidentně vůbec nerozumí tomu, jak se ruská propaganda naučila přetvořit robotické systémy v účinnou zbraň. Nebo to podporují. To už nechám na vašem zvážení. Teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02M56TCw9q8AdST1WeF4zjWfKcMowR7HBpV5nQpDezJXGBE2kRpYuUeENJmMGUUBw9l):"
+        detail: |
+          - Ukrajinské síly bojující v Bachmutu informovaly o mírném „pozitivním vývoji“ ve městě. Podle zpráv z ostatní kanálů se zdá, že se Ukrajincům podařilo podniknout sérii úspěšných protiútoků a zajmout významný počet bojovníků Wagnerovi armády. Ukrajinci také ve městě už poněkolikáté zopakovali úspěšnou taktiku, kterou zachytila videa z dronů: při ústupu nalákají Rusy do předem podminované výškové budovy, a poté, co se v ní Rusové usadí, celou budovu vyhodí do povětří. 
+          - Ruští nacionalisti natočili video, jak v Moskvě pálí Korán na protest proti stavbě obří mešity. Zajímavé je na tom primárně to, jak o činu ruská média téměř neinformují. Když se totiž Ruskem sponzorovaný švédský extremista natočil při stejném činu, ruská média dělal všechno proto, aby měla jeho sólo akce velký mediální výtlak a poškodila Švédsko během posuzování žádosti o vstup do NATO. 
+          - Dmitrij Medveděv reagoval na slova polského premiéra o tom, že Ukrajina má právo zasahovat cíle na ruském území a že války Ruska s NATO se neobává, protože by ji Rusko prohrálo. Medveděv ve své rozčílené reakci Morawieckého označil za „jakéhosi idiota“ a vzkázal, že „Polsko, jakožto předsunutá základna NATO, zmizí i se svým stupidním premiérem“. S takovými lidmi máme jednat o míru? 
+          - Okupační úřady na Krymu donutily, nejspíš výhrůžkami nebo násilím, aby 19letý student Kyrylo Kolomijec natočil veřejnou omluvu za to, že měl v pokoji pověšenou ukrajinskou vlajku. V očividně připraveném projevu se kaje a vysvětluje svou „chybu“ devatenácti lety „trávení mysli západní propagandou“. Rusko je fašistický stát. To pro připomenutí. 
+          - Ruští hackeři se pokusili sabotovat výrobu německého Rheinmetallu. Podle představitelů koncernu se ale hackerům podařilo narušit pouze jejich aktivity v oboru automotive. K vojenské produkci se nedostali. 
+          - Rusko převezlo pětici Ukrajinců z Melitopolu na Krym, odkud je převeze do Moskvy, kde je hodlá soudit za údajný terorismus. Nejspíše jde o členy tamějšího partyzánského hnutí. 
+          - Čína informovala, že neposkytovala a ani neplánuje poskytovat vojenskou pomoc kterékoliv straně konfliktu na Ukrajině a zavázala se přísněji kontrolovat vývoz zboží dvojího užití. 
+          - 9 lidí zahynulo a 21 bylo raněno po zásahu ruské rakety na činžovní dům ve Slavjansku. Zatím poslední obětí je dítě, které hasiči vytáhli ze sutin, ale vzápětí zemřelo v sanitce. 
+          - Už 32 zemí se přidalo k iniciativě vytvořit speciální vojenský tribunál pro ruské válečné zločiny. Posledním přírůstkem je středoamerická Kostarika.
+          - Analytici si všímají, že Rusko nenasadilo v Bachmutu své Terminátory. Jejich primární smysl je přitom chránit tanky v městském prostředí. 
+          - Prigožin prohlásil, že Rusko by mělo ukončit aktivní fázi války a soustředit se spíše na opevnění dobytých území a jejich obranu. 
+          - Ruská Tichomořská flotila provede v nejbližších dnech nácvik jaderného úderu. 
+          - Kanadské tanky Leopard 2 už jsou v rukou Ukrajinců. 
+        videa: |
+          - [Tenhle Ivan měl z pekla štěstí ](https://twitter.com/nexta_tv/status/1646901556640456704)
+          - [Odpálení budov po ústupu ](https://twitter.com/RALee85/status/1646654105929097216)
+          - [Bývalé ruské zákopy](https://twitter.com/11Knuk123/status/1646512923194580999)
+          - [Proměna z herce na světového lídra](https://twitter.com/ostravanda_/status/1647186387756523522)
+          - [Pálení Koránu v Moskvě](https://twitter.com/nexta_tv/status/1647168482323189761)
+          - [Péče o ruského zajatce ](https://twitter.com/TarmoFella/status/1646867531141984256)
+          - [Opuštěná ruská vozidla po zapadnutí do bláta](https://twitter.com/Tendar/status/1647144791023525888)
+          - [Helma zastavila kulku](https://twitter.com/nexta_tv/status/1646877717822861317)
+          - [Tady modlení nepomůže](https://twitter.com/DenesTorteli/status/1646567727920807955)
+          - [Bývalý český pták ](https://twitter.com/front_ukrainian/status/1647151348964794368)
+          - [Málem mínus ruský tank ](https://twitter.com/nevedimka123/status/1646950224336658434)
+          - [Gruzínský snajpr versus Rusové ](https://twitter.com/Bodbe6/status/1647053116100038658)
+          - [Ticho před Hurikánem ](https://twitter.com/front_ukrainian/status/1647139520356274177)
+          - [Kupředu!](https://twitter.com/NOELreports/status/1647192751975419906)
+          - [Zásah okupovaného Rubižného](https://twitter.com/Tendar/status/1647215507022524417)
+          - [Ukrajinský tank versus ruská pozice ](https://twitter.com/front_ukrainian/status/1646915873829969923)
+          - [Wagnerovci vypráví o známém setkání s tankem (vlákno!)](https://twitter.com/666_mancer/status/1646963164674773002)
+          - [Bachmut ](https://twitter.com/front_ukrainian/status/1646879638721908736)
+          - [Evakuace spolubojovníka](https://twitter.com/Bodbe6/status/1646995964396224514)
+          - [Dron sleduje Wagnerovce u nádraží v Bachmutu ](https://twitter.com/Militarylandnet/status/1646993688562679808)
+          - [Mínus tank ](https://twitter.com/Ukraine_Twi/status/1647168074393747458)
+          - [v Kazani něco hoří ](https://twitter.com/Tendar/status/1647213703496888320)
+          - [Mínus tank](https://twitter.com/herooftheday10/status/1647153406166052865)
+          - [Ruský tank v Bachmutu ](https://twitter.com/RALee85/status/1646561533646733318)
+          - [Ukrajinci přišli o káru ](https://twitter.com/UAWeapons/status/1646899621749243906)
       - title: "Pátek"
         year: "14. duben 2023"
         image: assets/img/timeline/2023-04-14.jpg
