@@ -35,6 +35,61 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "17. duben 2023"
+        image: assets/img/timeline/2023-04-17.jpg
+        desc: "Ukrajinský voják na jednom z videí popsal, jak se Rusové na aktuální frontě převlékají do uniforem zabitých ukrajinských vojáků a následně pronikají do týlu, kde útočí na nic netušící hlídky a kontrolní stanoviště, nikoliv s cílem zabít, ale zranit vojáky. Následně prý čekají, až pro vojáky přijedou ambulance s mediky nebo evakuační vozidla, a útočí na ně. Podobná svědectví jsem ostatně slyšel v minulosti i od českých dobrovolníků: zajatí Rusové prý nejenže vůbec nevěděli, že se podle mezinárodních konvencí na mediky označené červeným křížem (nebo půlměsícem) nesmí útočit, ale dokonce při výslechu vypověděli, že na výcviku je velitelé učili, že medici jsou jedním z prioritních cílů. Ostatně i sami medici působící na Ukrajině opakovaně v minulosti upozorňovali na to, že je Rusové cíleně ostřelují, a to do takové míry, že už po prvních měsících války preventivně přestali svá vozidla viditelně označovat. Jak totiž sami říkali, mít na střeše červený kříž bylo jako namalovat na sebe terč. Být zdravotnickým dobrovolníkem na straně Ukrajiny je proto mimořádně nebezpečná práce, projekt Phoenix by mohl vyprávět. Každý, kdo na frontě nasazuje vlastní život, aby pár cizích zachránil, je naprostý hrdina a zaslouží si náš obdiv a respekt. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid05WNE9qyL1chzFjoWe35HRiNnXy7CterjCgknpohT9KhefVcDnmmnDLW3ZUsvGcf6l):"
+        detail: |
+          - OSINT komunitě se podařilo odhalit, že za propagandistickým účtem „Donbas Devushka“ na Twitteru ve skutečnosti stojí bývalá příslušnice amerického námořnictva Sarah Bils, která se měsíce vydávala za ruskou občanku a pomocí několika podobných falešných účtů šířila nejrůznější ruskou propagandu včetně upravených uniklých dokumentů, které následně citovala i americká stanice FOX News, resp. její proruský moderátor Tucker Carlson.
+          - Pokud bychom se k politické opozici chovali tak jako v Rusku, nejspíš by nám nestačili věznice. Moskevský soud dnes poslal na 25 let za mříže za údajnou velezradu a „šíření falešných zpráv“ opozičního politika Vladimira Kara-Murzu. Po vynesení rozsudku prohlásil Kara-Murza jen: „Rusko bude svobodné. Řekněte to všem.“ 
+          - Rusko se snaží dát svým propagandistickým pohádkám realistický nádech, a tak dnes agentura RIA Novosti informovala, že si komise ruské Státní dumy předvolá amerického velvyslance, aby vysvětlil aktivity „amerických biologických laboratoří na Ukrajině“. 
+          - Íránský soud dnes vynesl rozsudek nad 10 vojáky, které viní z odpovědnosti za sestřelení ukrajinského civilního letadla v roce 2020. Velitel půjde na deset let za mříže, ostatní vojáky čekají tresty od jednoho do tří let odnětí svobody. 
+          - Nový brazilský prezident Lula vyzval světové státy, aby vytvořily tlak na USA, aby přestaly dodávat Ukrajině zbraně. Chcimíři jsou všude stejní. Místo toho, aby apelovali na agresora, aby odtáhl domů, upírají obráncům možnosti se bránit. 
+          - Spojené státy, Británie, Kanada, Japonsko a Francie vytvořili alianci s cílem vyšachovat Rusko z mezinárodního trhu s jadernou energií, například z tendrů na stavby a dostavby jaderných elektráren nebo dodávky paliva. 
+          - Podle ukrajinského ministra obrany Reznikova je počet fatalit ukrajinské armády „kriticky menší“ než na straně Ruska a nedosahuje ani na počet obětí nedávného zemětřesení v Turecku. 
+          - Kancelář ukrajinského ombudsmana informovala, že obdržela desítky videí, které pravděpodobně zachycují popravy ukrajinských zajatců Rusy. 
+          - Maďarsko se po telefonickém rozhovoru s ukrajinským ministrem zemědělství rozhodlo neblokovat tranzit ukrajinského obilí. 
+          - Ruská FSB tvrdí, že zadržela člena ISIS, muže z Tádžikistánu, který plánoval teroristické útoky v Moskvě a Novosibirsku. 
+          - Ukrajinská SBU zadržela kolaboranta z Chersonu, který se nechal okupanty jmenovat tamějším „vedoucím železnice“. 
+          - Kazašské úřady začaly trestně stíhat deset občanů, kteří se účastní bojů na Ukrajině na straně Ruska. 
+          - Ukrajina začne ode dneška dodávat na Slovensko elektřinu o objemu až 200 MW/hod. 
+          - Kanada věnuje Ukrajině zkonfiskované ruské vojenské dopravní letadlo An-124. 
+          - Útok dronu poškodil rozvodnou stanici v ruské Belgorodské oblasti. 
+          - Ukrajina už obdržela všech 13 přislíbených slovenských MiGů. 
+          - Ruští poslance a senátoři ani letos nezveřejní své příjmy. 
+        videa: |
+          - [Ukrajinci u ruských převlecích ](https://twitter.com/ZarinaZabrisky/status/1647722524304719875)
+          - [Mobilizovaní Rusové o lžích velitelů](https://twitter.com/wartranslated/status/1647892270035750913)
+          - [Bachmut z dronu](https://twitter.com/nexta_tv/status/1647843046644502529)
+          - [Rozvodna v Belgorodu ](https://twitter.com/front_ukrainian/status/1647708226777956354)
+          - [Ruský tank v Marjince trefil dron](https://twitter.com/RALee85/status/1647907496244420609)
+          - [Ruský… výcvik? ](https://twitter.com/NatalkaKyiv/status/1647814200515764224)
+          - [Přiznání wagnerovce k popravám civilistů včetně dětí ](https://twitter.com/NOELreports/status/1647933770471727107)
+          - [Zasažený Slavjansk](https://twitter.com/nexta_tv/status/1647668244612874247)
+          - [Dělostřelecká palba na ruské vojáky](https://twitter.com/herooftheday10/status/1647883024460021760)
+          - [Trosky zasaženého kostela](https://twitter.com/EuromaidanPress/status/1647836345807544320)
+          - [Javelin!](https://twitter.com/front_ukrainian/status/1647897662585176066)
+          - [Javelin z věže ](https://twitter.com/nexta_tv/status/1647627154333618177)
+          - [Další požár v Moskvě](https://twitter.com/NOELreports/status/1647886162638393344)
+          - [Bachmut](https://twitter.com/EuromaidanPress/status/1647768840154267648)
+          - [Americký Stryker ](https://twitter.com/front_ukrainian/status/1647848800688406528)
+          - [Další kolona západních strojů](https://twitter.com/GloOouD/status/1647572279340027905)
+          - [Bradley na Ukrajině](https://twitter.com/EuromaidanPress/status/1647660375352176648)
+          - [Ruský tank otevřel portál do fantazie](https://twitter.com/misfit_4/status/1647503717229551616)
+          - [Bachmut](https://twitter.com/front_ukrainian/status/1647880290285547521)
+          - [Minuty po ruské palbě](https://twitter.com/Bodbe6/status/1647698266421690370)
+          - [Ruský KamAZ našel miny](https://twitter.com/front_ukrainian/status/1647847424247857155)
+          - [Polské tanky na cvičišti ](https://twitter.com/NOELreports/status/1647912920108466176)
+          - [Bachmut, boje](https://twitter.com/Bodbe6/status/1647712809789079554)
+          - [Situace v Bachmutu](https://twitter.com/front_ukrainian/status/1647635352281133056)
+          - [Trofeje ](https://twitter.com/PStyle0ne1/status/1647673674747584517)
+          - [Kreminna](https://twitter.com/herooftheday10/status/1647853770900946944)
+          - [Čištění zbraní po bojích v zákopech ](https://twitter.com/Bodbe6/status/1647703311997366275)
+          - [Italské houfnice ](https://twitter.com/front_ukrainian/status/1647615239276359681)
+          - [Vojáci Národní gardy u Kreminné ](https://twitter.com/NOELreports/status/1647844628370976769)
+          - [Evidentně dobrá nálada](https://twitter.com/Bodbe6/status/1647692451816038400)
+          - [Po přepadu ](https://twitter.com/herooftheday10/status/1647630538293870597)
+          - [Lancet, tank přežil ](https://twitter.com/Bodbe6/status/1647690352403402752)
       - title: "Neděle"
         year: "16. duben 2023"
         image: assets/img/timeline/2023-04-16.jpg
