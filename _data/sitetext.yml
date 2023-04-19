@@ -35,6 +35,47 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "19. duben 2023"
+        image: assets/img/timeline/2023-04-19.jpg
+        desc: "Podle dánských a nizozemských médií plánovali Rusové sabotáže podmořských kabelů, plynovodů a námořních větrných elektráren v zemích na severu Evropy. Má to vyplývat ze zachycené komunikace několika neoznačených ruských lodí s vypnutou lokalizací, které se na moři několik týdnů pohybovaly. Jedna z lodí je dokonce Admirál Vladimirský, což je oficiálně ruská loď určená pro podmořský výzkum. Dánská vláda navíc tvrdí, že disponuje 112 snímky ruských vojenských lodí, které pořídil dánský hlídkový člun v Baltském moři v místě poškozeného plynovodu Nordstream, a to jen pár dní před tím, než k výbuchům došlo. Všechny ruské lodě se tehdy také pohybovaly v tamějších vodách s vypnutou lokalizací. Dánové snímky prozatím nezveřejnili s odvoláním na probíhající vyšetřování, nicméně je předali evropským rozvědkám a vyšetřovatelům. Překvapilo by někoho, kdyby za sabotáží stáli Rusové? Mě ne. Ale teď už novinky:"
+        detail: |
+          - Jižní Korea oznámila, že je ochotna poskytnout Ukrajině vojenskou pomoc, například munici. Podle prezidenta byly překročeny určité bariéry, které si Jižní Korea dala za podmínky, a to sice, že došlo ze strany Ruska k útoku na civilisty a porušení pravidel války. Rusko reagovalo obvyklou výhrůžkou, že pokud Jižní Korea zbraně poskytne, bude to Rusko považovat za aktivní účast země v konfliktu.  
+          - Doněcký kolaborant Pušilin navštívil Bělorusko, sešel se s Lukašenkem a oznámil záměr vytvořit pracovní skupinu pro ekonomickou kooperaci samozvané DLR a Běloruska. Ukrajina kvůli návštěvě odvolala ukrajinského velvyslance v Minsku. 
+          - Spojené státy obvinili 4 americké a 3 ruský občany z vytvoření několikaleté vlivové kampaně na objednávku Ruska mající za cíl šířit ruskou propagandy a ovlivňovat politické dění v zemi včetně prezidentských voleb. 
+          - Ruská FSB tvrdí, že zadržela dva muže – jednoho Rusa a jednoho Ukrajince – kteří plánovali v Kerči sabotáž energetické soustavy za použití podomácku vyrobené výbušniny. V Rusku jim hrozí doživotí. 
+          - Další z wagnerovců, který ukončil službu v Prigožinově soukromé armádě, se po návratu dopustil těžkého zločinu. Georgy Siukajev v okupované Jižní Osetii ubodal hendikepovaného muže. 
+          - Sedmdesátiletá ruská seniorka dostala od úřadů pokutu 40 000 rublů za to, že během pobytu v lázních o Zelenském prohlásila, že je to „pohledný chlapík s dobrým smyslem pro humor“. 
+          - Rusové v noci zaútočili na civilní infrastrukturu v Oděse pomocí dronů Shahed. Z 12 dronů 10 sestřelila protivzdušná obrana.
+          - Ukrajina bude partnery na příštím meetingu formátu Ramstein žádat primárně o munici do systémů PVO. 
+          - Ruská raketová palba zabila u Charkova 50letého muže a 44letou ženu, když zasáhla jejich domek. 
+          - Polsko umístí na hranici s Ruskem nejen bariéry, ale také cca 3 000 kamer. 
+          - Podle Reznikova už na Ukrajině operuje první baterie systému Patriot. 
+          - 14 britských tanků Challenger už je na Ukrajině.
+        videa: |
+          - [Zelenský v Avdijivce ](https://twitter.com/Azovsouth/status/1648312196928094208)
+          - [Zásahy Oděsy](https://twitter.com/nexta_tv/status/1648497568534626304)
+          - [Ruský voják natočil šlápnutí na minu](https://twitter.com/Bodbe6/status/1648668835317153793)
+          - [Boje o Bachmut](https://twitter.com/NOELreports/status/1648382602472988676)
+          - [Ukrajinský voják natočil neutralizaci celé útočné skupiny Rusů](https://twitter.com/Bodbe6/status/1648663333250256896)
+          - [Delší video ](https://twitter.com/PaulJawin/status/1648664724546936834)
+          - [Kráter po ruské raketě](https://twitter.com/EuromaidanPress/status/1648608256439336964)
+          - [Americké Strykery](https://twitter.com/front_ukrainian/status/1648669019816296448)
+          - [Evakuace z Bachmutu ](https://twitter.com/IvlevYorke/status/1648325970326159361)
+          - [Nevzdal se, dostal granát ](https://twitter.com/Bodbe6/status/1648671730343215107)
+          - [Slovinský tank](https://twitter.com/front_ukrainian/status/1648663176341225473)
+          - [Klídek ](https://twitter.com/DenesTorteli/status/1648570554658553857)
+          - [Finské obrněné vozy](https://twitter.com/front_ukrainian/status/1648618913029136385)
+          - [Wagnerovec a jeho granát ](https://twitter.com/Bodbe6/status/1648667858182848513)
+          - [Mínus tank](https://twitter.com/front_ukrainian/status/1648579236578353154)
+          - [Ruský voják versus automatický granátomet ](https://twitter.com/Bodbe6/status/1648657352843730945)
+          - [Bachmut](https://twitter.com/Bodbe6/status/1648489273493172226)
+          - [Ruský pohled na boje v Bachmutu ](https://twitter.com/NOELreports/status/1648600351052890112)
+          - [Bunker versus ukrajinská raketa](https://twitter.com/Bodbe6/status/1648440677397860353)
+          - [Přesná palba](https://twitter.com/UAWeapons/status/1648644868929998849)
+          - [Rusové našli další minu](https://twitter.com/nevedimka123/status/1648624757972037632)
+          - [Výměna kola pod palbou](https://twitter.com/Bodbe6/status/1648383312610701313)
+          - [Trefy!](https://twitter.com/nevedimka123/status/1648573009387569154)
       - title: "Úterý"
         year: "18. duben 2023"
         image: assets/img/timeline/2023-04-18.jpg
