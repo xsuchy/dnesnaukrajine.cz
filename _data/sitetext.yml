@@ -35,6 +35,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "20. duben 2023"
+        image: assets/img/timeline/2023-04-20.jpg
+        desc: "„Máme 30 let bezprecedentního bezpečí a prosperity, a tak nějak jsme si začali jako společnost myslet, že to tak bude navěky, že je to automatické a že na to máme nárok, protože jsme se do toho narodili. (…) Konflikt velkého rozsahu a vysoké intenzity s vyspělým protivníkem vyžaduje vědomí, že obrana opravdu není jenom o armádě, ale o celé společnosti. Je to o odolnosti, o vůli se bránit,“ řekl v rozhovoru pro Český rozhlas náčelník generálního štábu Karel Řehka. Těší mě, když někdo dokáže popsat situaci tak stručně a jasně. Samotná situace už mě ale moc netěší. Řehka má samozřejmě pravdu. Žijeme v době historicky nevídaného míru a komfortu. Jenže většina společnosti se o to nijak nezasloužila, proto si to ani neuvědomuje. Mladí lidé, včetně mě, se do toho narodili, zatímco jejich rodiče se v tom ocitli často bez vlastního úsilí a přičinění. V takové situaci jsou jedinou cestou k uvědomění a pokoře dobré historické znalosti, a ty ve společnosti zoufale absentují. Moderním dějinám se většina učitelů vyhýbá, protože vykládat dvě stě let staré události je přeci jen snadnější a „bezpečnější“ než interpretovat vývoj geopolitiky ve 20. a 21. století, navíc ve školství poznamenaném 40 lety komunismu. Pro návrat do reality přitom stačí tak málo. Třeba sledovat denně [tyhle zprávy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0mxJxV4MPqahd7BgFwgJWNSKyyPtARistVohNWLLKhbHLDJ9q3QTB2PJpU63KCtZql):"
+        detail: |
+          - Jak se žije ruským zajatcům na Ukrajině? Pravidelné jídlo, přístup ke zdravotní péči a dokonce možnost pracovat a přivydělat si stovku nebo dvě denně, které pak člověk může libovolně utratit v krámku, nebo si je ušetřit. Práce znamená buď kompletování balíčků, nebo sestavování nábytku. Pracovní týden má šest dní, neděle je pro osobní volno. Krom toho si může každý minimálně jednou za měsíc zavolat rodině a ve společných místnostech je přístup k ukrajinské televizi. Jak se žije ukrajinským zajatcům? V lepším případě žijí. I tak jsou ale biti, mučeni pro falešná přiznání k údajným zločinům a nacismu, trýzněni a vyhladověni. Domů se vrací povětšinou s trvalými následky. Ukrajinci mají všechny důvody pro to, chovat se k zajatcům stejně jako země, která je napadla. Přesto to nedělají. A to je ten rozdíl mezi civilizovanou zemí ...a Ruskem. 
+          - Spojené státy schválily další balík vojenské pomoci Ukrajině. Obsahovat má například další naváděné bomby, munici pro raketové systémy HIMARS, dělostřeleckou munici, protitankové střely a miny a přes 9 miliónů nábojů do ručních zbraní. 
+          - Podle ukrajinských úřadů se půda na Krymu rychle stává nevhodnou k zemědělské produkci kvůli tomu, že z ní Rusové ve velkém čerpají vodu, které je na Krymu obecně nedostatek. 
+          - Letecká společnost Ryanair plánuje nasadit 30 linkových spojení na Ukrajinu, jakmile to bezpečnostní situace dovolí. 
+          - Zelenský promluví v mexickém Kongresu, aby se pokusil zlomit neutralitu Mexika a získat podporu v obraně před ruskou invazí. 
+          - Ukrajina oficiálně pozvala brazilského prezidenta na státní návštěvu, aby na vlastní oči viděl následky ruské invaze. 
+          - Rusko oznámilo, že jakékoliv dodávky zbraní Ukrajině budou považovány za krok proti Rusku. Wow, blik cvak, Sherlocku! 
+          - Už šest desítek zemí nabídlo, že obnoví některá města a vesnice zničená během ruské invaze na Ukrajinu. 
+          - Úřady v Petrohradu začaly testovat rozesílání elektronických povolávacích rozkazů. 
+          - Moldavsko poskytne Ukrajině balík humanitární pomoci v hodnotě 750 tisíc eur. 
+          - Admirál Sergej Avakyants rezignoval na post velitele ruské Tichomořské flotily. 
+          - Nad Kyjevem se zřítil satelit NASA. Dopad trosek naštěstí nikoho nezranil. 
+          - Generální tajemník NATO Stoltenberg přijel na oficiální návštěvu Kyjeva. 
+          - Rusové začali evakuovat Tokmak v okupované části Záporožské oblasti. 
+        videa: |
+          - [Nová náborová kampaň ruské armády](https://twitter.com/nexta_tv/status/1648770529006956550)
+          - [Rusové chtěli vytvořit údajný „odposlech NATO jednotek na Ukrajině“, jejda](https://twitter.com/Lavrovskyi/status/1648784363503452161)
+          - [Stoltenberg v Kyjevě](https://twitter.com/front_ukrainian/status/1648988813388050432)
+          - [Ruský tank po setkání s Ukrajinci](https://twitter.com/NOELreports/status/1648728543684067331)
+          - [Rusové zasáhli Vuhledar ](https://twitter.com/nexta_tv/status/1648892494355079169)
+          - [Veterán s novou nohou](https://twitter.com/EuromaidanPress/status/1648714593873608708)
+          - [Zelenský na inspekci ve Volyňské oblasti ](https://twitter.com/nexta_tv/status/1648708933429673991)
+          - [Silnice do Bachmutu](https://twitter.com/nexta_tv/status/1648673350170836995)
+          - [Dron vs. BMP](https://twitter.com/front_ukrainian/status/1648996923343355905)
+          - [Boje o Bachmut](https://twitter.com/NOELreports/status/1648952883394621441)
+          - [Italské Iveco na Ukrajině](https://twitter.com/front_ukrainian/status/1648991855873339393)
+          - [Obránci Bachmutu](https://twitter.com/Bodbe6/status/1648803456155541506)
+          - [Gepard](https://twitter.com/front_ukrainian/status/1648974469765951489)
+          - [Boje o nádraží](https://twitter.com/NOELreports/status/1648766693219393540)
+          - [Večerní ohňostroj](https://twitter.com/front_ukrainian/status/1648926031766536193)
+          - [Sestřelený Shahed](https://twitter.com/NOELreports/status/1648999569789681664)
+          - [Americká odminovačka](https://twitter.com/front_ukrainian/status/1648917286781173761)
+          - [Bachmut](https://twitter.com/NOELreports/status/1648998331916451842)
+          - [Mínus ruský tank](https://twitter.com/front_ukrainian/status/1648701898805895170)
+          - [Rusové evakuují Tokmak](https://twitter.com/NOELreports/status/1648763168984817698)
       - title: "Středa"
         year: "19. duben 2023"
         image: assets/img/timeline/2023-04-19.jpg
