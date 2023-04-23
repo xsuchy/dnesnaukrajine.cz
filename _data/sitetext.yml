@@ -35,6 +35,51 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "22. duben 2023"
+        image: assets/img/timeline/2023-04-22.jpg
+        desc: "Ruští hackeři už od středy, a i celý dnešní den, útočí na Eurocontrol, agenturu, která zajišťuje koordinaci letového provozu nad Evropou. A mně při téhle informaci opět přichází na mysl, že je nejvyšší čas postavit digitální kriminalitu na roveň té „skutečné“ a uvědomit si, že digitální prostor není nějaký paralelní vesmír. Naopak, digitální prostor je čím dál víc provázaný s každodenním životem a to, co se v něm děje, by proto mělo mít stejnou váhu jako kriminalita „offline“. Z vlastní zkušenosti můžu říct, že nemá. Pokud si stoupnete s megafonem na náměstí a budete křičet rasistická hesla, půjdete za mříže. Když to děláte „jenom“ na Facebooku, kde to paradoxně vnímá stonásobně větší publikum, nehrozí vám nic. A Rusko proti nám 30 let vede hybridní válku, jejíž větší část se děje právě v online prostoru. A nemyslím jen vlivové operace jako jsou dezinformační kampaně, mám na mysli právě útoky na civilní infrastrukturu, kde ta ruská kriminalita naprosto převažuje. V minulosti Rusy vytvořený malware vyřadil v Česku několik nemocnic z provozu, po celém světě můžeme číst o ruských kyberútocích na úřady, instituce, elektrárny nebo banky, a teď se dozvídáme, že Rusové ohrožují milióny lidí v letadlech nad Evropou. V „reálném světě“ by stačilo mnohem míň, abychom to okamžitě označili za terorismus. V online prostoru se stále tváříme, že je to „jenom jako“. Rusové evidentně náš bagatelizující přístup vidí a dokáží ho využít ve svůj prospěch. Tak jen doufám, že přijde čas, kdy nebude potřeba, aby se přes hranice valily tanky, abychom pochopili, že s námi totalitní země dávno vede válku. A začali se včas bránit. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0LBfMj3y9hAEnhdhwzVMXcC5GW8CbTBWohguebY39LDYgmg1YsKo9GMRJuxembcq7l):"
+        detail: |
+          - SBU oznámila, že během jedné z výměn zajatců došlo k výměně jediného kněze ruské pravoslavné církve na Ukrajině za 28 ukrajinských vojáků. Ukrajina dlouho upozorňovala na to, že ruská FSB církev využívá jako základnu pro své zpravodajské operace. Tahle předávka to jen potvrzuje. 
+          - Indie pozastavila nákup ruských zbraní a techniky kvůli tomu, že platbami za ně by se vystavila riziku západních sankcí. Indie má v současné době objednán vojenský materiál v hodnotě 2 miliardy dolarů, a nepodařilo se jí zatím vymyslet, jak platbu uskutečnit bez okamžité odezvy Západu. 
+          - Moskveský soud v nepřítomnosti odsoudil šéfa ukrajinské rozvědky Budanova za terorismus kvůli jeho roli v útoku na Kerčský most a označil ho za mezinárodně hledanou osobu. Hodně štěstí, milí Rusové, v hledání státu, který se k vašemu zatykači připojí. 
+          - Česko se úplně zbavilo závislosti na ruském plynu. V první kvartálu roku 2023 klesl import ruského plynu na nulu. Veškeré dodávky nyní zajišťuje Norsko skrze terminály v Belgii a Nizozemí, odkud plyn putuje do Česka plynovody přes sousední Německo. 
+          - Spojené státy sankcionovaly indickou společnost Gatik Ship Management, která provozovala 48 tankerů obcházející protiruské sankce a dovážející ruskou ropu s cenou za jednotku nad zavedeným cenovým stropem.
+          - Twitter odstranil štítky „státní“ a „financovaná vládou“ u médií na Twitteru. Jejich primární účel přitom bylo bojovat s ruskou propagandou upozorňováním na původ informací. 
+          - Podle náměstka ministerstva obrany Blažkovce může Česká republika modernizovat dalších až několik desítek tanků T-72 pro potřeby ukrajinské armády.
+          - Na místě předvčerejší exploze v Bělgorodu vyšetřovatelé našli druhou, nevybuchlou, pumu. Tři tisíce lidí z okolních domů a bytů musely být evakuovány. 
+          - Zelenský podepsal zákon, kterým se na území Ukrajiny zavádí zákaz používání symboliky, která je historicky spojena s ruskou imperiální politikou.
+          - Podle amerického generála Milleyho dokončila Ukrajina výcvik 9 nových mechanizovaných brigád. 
+          - V Permu kdosi poničil památník deportovaných Litevců a Poláků během stalinistických represí.
+          - Rostyslav Jančyšen, baletní tanečník Oděské opery, padl před třemi dny v boji. 
+          - V zemích EU už bylo vycvičeno 16 000 nových ukrajinských posil. 
+          - Lotyšsko předá Ukrajině všechny rakety Stinger, které ještě má.
+          - Německo vyhostilo další desítky ruských diplomatů. 
+          - Bělorusku přesáhlo hranici 1 500 politických vězňů. 
+          - Albánie ukončila bezvízový režim s Ruskem. 
+          - Polsko obnovilo dovoz ukrajinského obilí.
+        videa: |
+          - [Leopardi na Ukrajině](https://twitter.com/nexta_tv/status/1649706883635200000)
+          - [Mytí koček ](https://twitter.com/front.../status/1649712492908519424)
+          - [Ruský šrot ](https://twitter.com/PaulJawin/status/1649422689201803268)
+          - [Pauza](https://twitter.com/DenesTorteli/status/1649630793617031168)
+          - [Rusům zase něco hoří](https://twitter.com/nexta_tv/status/1649666658850537472)
+          - [BT4 přes řeku](https://twitter.com/Euromaidan.../status/1649763735110815744)
+          - [Ukrajinský zákop při útoku](https://twitter.com/Bodbe6/status/1649486521735544832)
+          - [Trefa!](https://twitter.com/front.../status/1649680831642841088)
+          - [Vždycky je čas na svačinu](https://twitter.com/NOELreports/status/1649711945858072576)
+          - [Improvizovaný raketomet ](https://twitter.com/Bodbe6/status/1649570202009387011)
+          - [Americké káry](https://twitter.com/front.../status/1649435461008457734)
+          - [Sakra dobrá trefa!](https://twitter.com/Bodbe6/status/1649561925800407041)
+          - [Běž Forreste!](https://twitter.com/nevedimka123/status/1649664775696048128)
+          - [Blátíčko](https://twitter.com/NOELreports/status/1649752432249917441)
+          - [Mínus ork](https://twitter.com/heroofthed.../status/1649518542352465921)
+          - [Ruská palba na Krasnohorivku](https://twitter.com/Bodbe6/status/1649436007731691521)
+          - [Přípravy](https://twitter.com/NOELreports/status/1649412998123909123)
+          - [Rusové v Bilohorivce ](https://twitter.com/666_mancer/status/1649477520213811213)
+          - [Po bitvě](https://twitter.com/heroofthed.../status/1649704373964898304)
+          - [Dobrý den](https://twitter.com/nevedimka123/status/1649645003499610112)
+          - [Práce dronů](https://twitter.com/666_mancer/status/1649516007751315459)
       - title: "Pátek"
         year: "21. duben 2023"
         image: assets/img/timeline/2023-04-21.jpg
