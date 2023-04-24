@@ -35,6 +35,59 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "24. duben 2023"
+        image: assets/img/timeline/2023-04-24.jpg
+        desc: "Na Telegramu se objevila hlasová zpráva, kterou publikoval sám majitel wagnerovců Prigožin v odpovědi na dotaz jednoho ze sledujících, a ve které vyzývá své žoldáky, aby odteď nebrali žádné zajatce. Podle jeho vlastních slov nebudou wagnerovci porušovat pravidla humanismu tím, že by zabíjeli nebo mučili zajatce, a to tak, že prostě zajatce vůbec brát nebudou, ale raději „zničí kohokoliv, kdo se na bojišti objeví“. Ženevské konvence jsou nicméně vymahatelné, ať už s nimi jedna nebo druhá strana konfliktu souhlasí, nebo ne. Prigožin se tedy v podstatě doznává k tomu, že dal rozkaz svým bojovníkům páchat válečné zločiny. Jeho výzva paradoxně může vést k nechtěnému efektu na obránce. Pokud totiž Ukrajinci budou věřit, že zajetí není v případě wagnerovců alternativa, můžou jim klást mnohem tvrdší odpor a bojovat doslova do posledního dechu. Tak jen doufejme, že nebudou muset. A teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02PnUK3oQGypnnKBeuSRumFW53jfeg9zMpSZfRJ3NNgMR8K7HmUzAspLLMtnwbfXpdl):"
+        detail: |
+          - Světoví představitelé ostře odsoudili výroky čínského velvyslance ve Francii, který v televizi zopakoval narativ ruské propagandy o tom, že Krym je ruský, protože ho Ukrajině daroval Chruščov (byť ani to nedává smysl), a že země bývalé SSSR nemají legální status v mezinárodním právu. Členové evropského parlamentu dokonce vyzvali Francii, aby čínského velvyslance vyhostila. Na výrok reagoval kriticky i český ministr zahraničí. 
+          - Lavrov přiletěl do New Yorku, kde bude předsedat schůzi Rady bezpečnosti OSN. Spojené státy mu nakonec udělily víza. Víza ale nedostali ruští propagandisté, kteří měli delegaci doprovázet. Lavrov na to reagoval slovy: „Toto nebude zapomenuto, ani odpuštěno.“ 
+          - Medveděv pohrozil světu, že pokud skupina G7 zavede zákaz exportu do Ruska, Rusko odstoupí od obilné dohody v Černém moři. De facto tak vydírá zejména africké země potenciálních hladomorem. 
+          - Islamisté v Mali zaútočili na jednu ze základen wagnerovců pomocí výbušnin a ručních zbraní. Podle malijských úřadů bylo 29 wagnerovců během přepadu zabito a dalších více než šest desítek zraněno. 
+          - Rusko údajně nutí zdravotnický personál v okupovaném Berďansku, respektive ty, kteří si pod tlakem převzali své ruské pasy, aby se registrovali k vojenské službě. 
+          - Podle ukrajinského generálního štábu došlo v okupované obci Stanycja Luhanska k potyčce a následné přestřelce mezi ruskými vojáky a wagnerovci. 
+          - Nedávné interview s hlavou ukrajinské rozvědky Budanovem ukázalo, že má na obrazovce v kanceláři obří mapu Moskvy. Že by teasing?
+          - V Černém moři nyní operuje pouze sedm ruských válečných lodí včetně dvou raketových člunů s celkovou salvou 8 raket Kalibr. 
+          - Ruské válečné lodě kotvící v Sevastopolu byly opět pod útoky ukrajinských dronů. Rozsah škod nicméně není znám. 
+          - Lukašenko prohlásil, že „nacisti a fašisti se snaží zatáhnout zemi do třetí světové války“. 
+          - Ukrajinské vzdušné síly přišly od začátku invaze o 40 % svých letadel, tedy cca 60 kusů. 
+          - Jihovýchodně od Moskvy se zřítil ukrajinský dron se 17 Kg výbušnin. 
+          - Kypr uzavře bankovní účty čtyř tisícovek klientů s ruskými pasy.
+        videa: |
+          - [Ruská interpretka chtěla konec války, koncert ukončila armáda](https://twitter.com/NatalkaKyiv/status/1650185980463181825)
+          - [Rusové v Lysyčansku odhalili památník Leninovi](https://twitter.com/nexta_tv/status/1650388854082351105)
+          - [Kupředu](https://twitter.com/front_ukrainian/status/1650187075423969281)
+          - [Čínský velvyslanec a jeho výroky](https://twitter.com/Gerashchenko_en/status/1650060586909138945)
+          - [Wagnerovce a jejich propagandisty přerušilo dělostřelectvo](https://twitter.com/WarMonitors/status/1650080539737563137)
+          - [Vojáci, co bránili Bachmut o situaci na bojišti](https://twitter.com/EuromaidanPress/status/1650322667935866881)
+          - [Zákopy u Záporoží](https://twitter.com/nexta_tv/status/1650231415307370496)
+          - [Dálkově ovládaný kulomet](https://twitter.com/front_ukrainian/status/1650432625079730181)
+          - [Lazaret v Bachmutu](https://twitter.com/NOELreports/status/1650161773398327297)
+          - [Ruský… útok?](https://twitter.com/AndrewPerpetua/status/1650303261721624577)
+          - [Přísné trefy](https://twitter.com/front_ukrainian/status/1650384913244340226)
+          - [Výbuch v Sevastopolu](https://twitter.com/EuromaidanPress/status/1650443694238040065)
+          - [Dělostřelecká palba zabila dvě ženy v okupované Nižné Krynce](https://twitter.com/nexta_tv/status/1650154572780797953)
+          - [Rozvoz min](https://twitter.com/NOELreports/status/1650109417700950016)
+          - [Trefa!](https://twitter.com/front_ukrainian/status/1650417799301349377)
+          - [Jednotka s Grady](https://twitter.com/nevedimka123/status/1650428116395753472)
+          - [Ukrajinský MiG](https://twitter.com/front_ukrainian/status/1650399545606406146)
+          - [Neskutečná trefa](https://twitter.com/Bodbe6/status/1650194790766596099)
+          - [Mínus jeden Tulipán](https://twitter.com/front_ukrainian/status/1650389852209250305)
+          - [Bývalý ruský zákop](https://twitter.com/worldonalert/status/1650146501480394752)
+          - [Výcvik nových brigád Azovu](https://twitter.com/Militarylandnet/status/1650429228511363072)
+          - [Stormer](https://twitter.com/front_ukrainian/status/1650387701617549313)
+          - [Lukašenko o nacistech](https://twitter.com/TreasChest/status/1649855048913141761)
+          - [Snajpr pracuje](https://twitter.com/front_ukrainian/status/1650374547927867393)
+          - [Evakuace z boje](https://twitter.com/Bodbe6/status/1650210707034501121)
+          - [Mínus tank](https://twitter.com/front_ukrainian/status/1650373548312084480)
+          - [Výcvik v Nizozemí](https://twitter.com/NOELreports/status/1650159692671332353)
+          - [Snajpr](https://twitter.com/PaulJawin/status/1650405899469737984)
+          - [Překvápko!](https://twitter.com/Bodbe6/status/1650117177754759168)
+          - [Uvnitř PzH 2000](https://twitter.com/front_ukrainian/status/1650130574059749376)
+          - [Cesta do Bachmutu](https://twitter.com/Militarylandnet/status/1650217612331175942)
+          - [Dvakrát Gvozdika](https://twitter.com/nevedimka123/status/1650097627533398016)
+          - [Švédský teréňák](https://twitter.com/front_ukrainian/status/1650451407466577920)
+          - [Zpěvák Imagine Dragons o Ukrajině](https://twitter.com/TreasChest/status/1649881711365304330) 
       - title: "Neděle"
         year: "23. duben 2023"
         image: assets/img/timeline/2023-04-23.jpg
