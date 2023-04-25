@@ -31,10 +31,55 @@ portfolio:
 # 1,$s/- \([:alpha:]*.*\)\n *\(https[^ ]*\)/- \[\1\]\(\2\)/ 
 timeline:
     title: "Průběh války na Ukrajině" 
-    text: "Tak jak šla den za dnem"
+    text: "Tak jak jde den za dnem"
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "25. duben 2023"
+        image: assets/img/timeline/2023-04-25.jpg
+        desc: "Lavrov během zasedání Rady bezpečnosti OSN prohlásil, že „nikdo nedal menšině na Západě právo mluvit za celou mezinárodní komunitu“ a že státy Západy svým tlakem na ostatní země porušují klíčový princip Charty OSN, což je suverenita států. Ano, řekl to s vážnou tváří. Pódium ale naprosto ukradl pro sebe vyslanec Ekvádoru, který upozornil na to, že Rusko napadlo cizí zemi pod vylhanými záminkami, čímž se zpronevěřilo smyslu OSN, o anexi cizího území prohlásil, že je to politika, kterou uplatňovaly koloniální mocnosti a později fašistické státy, a vyzval Rusko, aby ukončilo válku tím, že se stáhne z území Ukrajiny a vrátí se k mírovému řešení mezinárodních sporů. Lavrov během proslovu zástupce Ekvádoru ze sálu odešel. Americký vyslanec označil předsednictví Ruska v Radě bezpečnosti za přehlídku pokrytectví. Nicméně to není nic nového. Nové jsou [tyhle zprávy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02ArrUuvYLVXpY9Ar6YJG6aVMvocGiqbQriMmTmTemDx3aKYqReiddJqSKTQxtsBaZl):"
+        detail: |
+          - Peskov si na konferenci postěžoval, že „Poláci jsou rusofobové a Rusko celý život nenávidí“. Napadá mě, jestli to nemůže souviset s tím, že Sovětský svaz společně s nacisty napadl Polsko, povraždil desetitisíce polských elit, následně zemi 40 let kulturně a společensky devastoval a od rozpadu SSSR jeho nástupnický stát – Rusko – nikdy nepřestalo mluvit o svrhnutí jaderných bomb na Varšavu a navrácení Polska do ruské sféry vlivu? Může? 
+          - Prigožin prohlásil, že ukrajinské jednotky okupují v Bachmutu tak malou plochu, že Rusové mají de facto volnou cestu až na Varšavu. Aha. Ještě včera přitom Prigožin omlouval neschopnost wagnerovců obsadit město tím, že pokud by to wagnerovci udělali, pak by Ukrajina ihned přešla do protiútoku. 
+          - Tradiční vojenská přehlídka v Moskvě se při příležitosti Dne vítězství letos konat nebude. Naopak, celé Rudé náměstí se na téměř dvě týdny na konci dubna uzavře veřejnosti. V Petrohradu přehlídka normálně proběhne, ovšem bez účasti ruského letectva. 
+          - Informace z fronty naznačují, že začal přípravná fáze jarní protiofenzivy. Ukrajinci v posledních 24 hodinách masivně ostřelovaly ruské cíle u Záporoží, zejména v okolí Tokmaku, a také u několika obcí na levém břehu Dněpru jižně od Chersonu. 
+          - Evropská unie a Ukrajina podepsaly dohodu o vzájemném respektování soudních rozhodnutí. Jakýmkoliv rozsudkem v EU v oblasti občanského a obchodního práva se tedy musí řídit i Ukrajinské orgány a naopak. 
+          - Ukrajinská válečný veterán, Roman Kašpur, který ve válce s Ruskem přišel o nohu, zaběhl Londýnský maraton s pomocí experimentální protézy a zabalený v ukrajinské vlajce.
+          - Hlava ukrajinské rozvědky Budanov tvrdí, že Ukrajina a Rusko jsou blízko dohody o historicky nevídaném kroku: výměně zajatců ve formátu „všichni za všechny“. 
+          - Maďarský poslanec Dúró prohlásil, že Ukrajina by měla požádat o souhlas Ruska, zda může vstoupit do NATO. Ani nevím, co na to napsat… 
+          - Rusové zasáhli ukrajinský Kupjansk, konkrétně tamější Muzeum folklóru. Jedna osoba byla zabita, devět utrpělo různě vážná zranění. 
+          - Do Moldavska dorazí v květnu skupina 40 expertů ze zemí EU, aby pomohla zemi čelit ruským pokusům o destabilizaci země. 
+          - Generál Pavel prohlásil, že Číně se nedá věřit v mediaci případných mírových rozhovorů, protože na válce nejvíce vydělala. 
+          - Rusové uzavřeli vzdušný prostor nad letištěm Vnukovo v Moskvě kvůli neznámému dronu.
+          - Proruský moderátor a šiřitel bizarních konspirací Tucker Carslon končí ve Fox News.  
+          - U Volgogradu se zřítila helikoptéra zdravotníků. Pilot na místě zahynul. 
+        videa: |
+          - [Peskov o rusofobii v Polsku ](https://twitter.com/nexta_tv/status/1650528236567162883)
+          - [Zástupce Ekvádoru k Rusku](https://twitter.com/marlowc2324/status/1650546969645924352)
+          - [Ruský voják se přišel vzdát](https://twitter.com/PStyle0ne1/status/1650787178388107265)
+          - [V Novosibirsku se objevil další hřbitov wagnerovců ](https://twitter.com/nexta_tv/status/1650797043919777794)
+          - [BMP v Bachmutu](https://twitter.com/front_ukrainian/status/1650534407722221571)
+          - [Ruský voják nezvládl vylézt z vody poté, co ho kamarádi vyklopili](https://twitter.com/Bodbe6/status/1650512125213777922)
+          - [Nabíjecí systém pro kulomety](https://twitter.com/EuromaidanPress/status/1650794275456811010)
+          - [Kupjansk po ruské palbě](https://twitter.com/nexta_tv/status/1650774900796272640)
+          - [Noční trefa](https://twitter.com/front_ukrainian/status/1650765827245764608)
+          - [Kulometná pozice](https://twitter.com/Bodbe6/status/1650573978220523520)
+          - [Leopardi na železnici ](https://twitter.com/kvistp/status/1650557943425687553)
+          - [Kočičky](https://twitter.com/front_ukrainian/status/1650584468929781766)
+          - [Gruzínci na frontě](https://twitter.com/Bodbe6/status/1650458552165621760)
+          - [Bývalý kostel v Marjince ](https://twitter.com/nexta_tv/status/1650742182607724545)
+          - [Kolona západních strojů](https://twitter.com/EuromaidanPress/status/1650682790969483264)
+          - [Trofejní tank](https://twitter.com/front_ukrainian/status/1650815590569787392)
+          - [Bývalé ruské družstvo ](https://twitter.com/NOELreports/status/1650800384514899968)
+          - [Mínus pozorovatelna](https://twitter.com/PaulJawin/status/1650792318796955649)
+          - [Trefa!](https://twitter.com/front_ukrainian/status/1650743362603872257)
+          - [Jauvajs](https://twitter.com/worldonalert/status/1650518887627214850)
+          - [Evakuace, Bachmut](https://twitter.com/Bodbe6/status/1650590632153423872)
+          - [Parašutisti a jejich Stryker](https://twitter.com/front_ukrainian/status/1650562179999883267)
+          - [Boje o zákopy](https://twitter.com/Bodbe6/status/1650571301092745221)
+          - [Hod granátem ze střechy](https://twitter.com/herooftheday10/status/1650808266077683712)
+          - [Španělé na Ukrajině](https://twitter.com/nevedimka123/status/1650733377572466691)
       - title: "Pondělí"
         year: "24. duben 2023"
         image: assets/img/timeline/2023-04-24.jpg
