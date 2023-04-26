@@ -35,6 +35,52 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "26. duben 2023"
+        image: assets/img/timeline/2023-04-26.jpg
+        desc: "Prezident Jihoafrické republiky měl oznámit, že země stahuje svou účast na Mezinárodním trestním soudu v Haagu. Znamenalo by to, že JAR nebude respektovat ani Haagem vydané zatykače. Pozorovatelé spekulovali, že rozhodnutí je motivované srpnovým zasedáním skupiny BRICS. Dorazit má totiž i diktátor Putin, na kterého Haag vydal zatykač. Dnes ale prezident své původní tvrzení opravil a označil ho za „přeřeknutí“ a „chybu v komunikaci“. JAR si očividně s nadcházející situací moc neví rady. Kdyby se ale pochlapila a Putina skutečně zatkla, těžko odhadovat, co by se dělo pak. Nějaké nápady? Než to vymyslíte, tady jsou [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02jVaKAq8bkBED5mRPybB3W4Wb44naDKGovoCmU4tYUNPGFapiyoo5FEgXSiEXReMUl):"
+        detail: |
+          - Rusové tvrdí, že na Ukrajině nasadili první tanky T-14 Armata. Prý se neúčastní bojových akcí, ale poskytují nepřímou palebnou podporu. Jednak o jejich tvrzení neexistuje žádný důkaz, ale hlavně, nasadit své nejmodernější tanky v roli obyčejné houfnice, je skutečně kumšt! 
+          - Prezidenti Ukrajiny a Číny společně mluvili po telefonu. Výsledkem telefonátu je, že Čína vyšle delegaci vedenou bývalým čínským velvyslancem v Rusku na Ukrajinu a následně dalších zemí, aby prozkoumala možná východiska pro mírové řešení ruské invaze. 
+          - Ukrajinský ministr zahraničí Kuleba vyzval NATO, aby na summitu ve Vilniusu, nebo do konce letošního roku navrhlo kroky nutné k přijetí Ukrajiny do aliance. 
+          - „Soudy“ v DLR odsoudily jednoho ze zajatých ukrajinských mariňáků k 22 letům odnětí svobody v kolonii s maximální ostrahou. 
+          - V ruské Sosvě u Sverdlovsku shořelo okolo 150 domů během šířícího se požáru. Hasičům se ani druhý den nedaří požár uhasit. 
+          - Podle místních včera chodil po Doněcku ruský voják á náhodně střílel na kolemjdoucí. Podle videí minimálně jednu osobu zranil. 
+          - Google maps aktualizovaly své satelitní snímky. Nově tak člověk může na vlastní oči vidět zkázu Mariupolu. 
+          - Neznámí útočníci podpálili pomocí Molotovů ruské Centrum pro vědu a kulturu na Kypru. 
+          - Česko zavedlo sankce vůči patriarchovi Kirillovi.
+          - Navalný byl za mřížemi obviněn z dalšího trestného činu, tentokrát terorismu. 
+          - Švédsko vyhostilo 5 ruských diplomatů pro podezření ze špionáže. 
+          - 44 Ukrajinců se vrátilo domů při další výměně zajatců. 
+          - Před 37 lety v tento den došlo k havárii v Černobylu.
+          - Rusko schválilo doživotní tresty za vlastizradu. 
+          - Rusko vyhostí 10 norských diplomatů.
+        videa: |
+          - [Ukrajinský útok na „silnici života“ u Bachmutu ](https://twitter.com/front_ukrainian/status/1650867132492652545)
+          - [Část druhá](https://twitter.com/front_ukrainian/status/1650867206312402949)
+          - [Kdosi podpálil ruské kulturní centrum na Kypru ](https://twitter.com/nexta_tv/status/1651228488047775745)
+          - [Patriot na Ukrajině](https://twitter.com/front_ukrainian/status/1651201599149047813)
+          - [Hořící Sosva](https://twitter.com/nexta_tv/status/1651166672210755584)
+          - [Jednotky Gazpromu si stěžují na chování wagnerovců ](https://twitter.com/wartranslated/status/1651163200732254208)
+          - [Ti samí](https://twitter.com/albafella1/status/1650962125043429410)
+          - [Zajatci z luhanské fronty](https://twitter.com/NOELreports/status/1650936368686571531)
+          - [Útok na ruské pozice](https://twitter.com/Militarylandnet/status/1650966148526092291)
+          - [Turecko vyznamenalo ukrajinské záchranáře](https://twitter.com/nexta_tv/status/1651064053148647427)
+          - [Mínus ruský MiG-31 nad Murmanskem](https://twitter.com/front_ukrainian/status/1651240407555092483)
+          - [Mínus tři ](https://twitter.com/NOELreports/status/1651151996840300546)
+          - [Střelba v Doněcku ](https://twitter.com/sgorlovki/status/1650871752107384835)
+          - [Východ Ukrajiny](https://twitter.com/front_ukrainian/status/1651169422399225856)
+          - [Nakažlivý smích :D](https://twitter.com/INTobservers/status/1650565524252762113)
+          - [Bradley a Bradley…](https://twitter.com/Azovsouth/status/1650793883675049987)
+          - [Sestřih ZSU](https://twitter.com/ukrainiansquad/status/1651247715341180929)
+          - [Zničená ruská kolona](https://twitter.com/Bodbe6/status/1650920789091266560)
+          - […a následky](https://twitter.com/Bodbe6/status/1650922008459313154)
+          - [Bachmut](https://twitter.com/ukrainiansquad/status/1650939969400086543)
+          - [Mínus BMP](https://twitter.com/front_ukrainian/status/1651246725783343104)
+          - [Cvičení tankistů ](https://twitter.com/Militarylandnet/status/1651117917868621825)
+          - [Ukrajinský útok na ruské pozice](https://twitter.com/front_ukrainian/status/1651190733628399618)
+          - [Zákopy u Chromového](https://twitter.com/NOELreports/status/1651158379467874306)
+          - [Mínus tank](https://twitter.com/front_ukrainian/status/1651099600508407814)
       - title: "Úterý"
         year: "25. duben 2023"
         image: assets/img/timeline/2023-04-25.jpg
