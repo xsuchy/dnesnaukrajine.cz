@@ -35,6 +35,50 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "29. duben 2023"
+        image: assets/img/timeline/2023-04-29.jpg
+        desc: "Sevastopol byl v noci pod koordinovaným útokem ukrajinských dronů. Několik jich Rusové zneškodnili na různých místech nad Krymem, ale minimálně dva zasáhly své cíle, přičemž jeden způsobil explozi a následný požár skladiště paliv a olejů určených pro Černomořskou flotilu v sevastopolském přístavu. Obří požár se teprve kolem poledne hasičům podařilo uhasit. Skladiště ale zůstane mimo provoz na dlouhou dobu. Co se týče přesnosti ukrajinské dělostřelecké a raketové palby ve srovnání s rukou, je to jako příslovečné nebe a dudy. Rusové od počátku invaze kompenzují mimořádně špatnou kvalitu jediným, co vždycky uměli: kvantitou. Bohužel to znamená, že mnohem častěji umírají pod jejich granáty i nevinní lidé. A jsou zdokumentovány i desítky, ne-li stovky případů, kdy ruská artilerie kvůli diletantismu při komunikaci a navádění palby rozcupovala ty chudáky, kteří si o palebnou pomoc zavolali. A bude to pokračovat, dokud se z Ukrajiny nestáhne i poslední ruský voják. A teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0UDtDqMgwTSmMpCw7BdP34Y7thkkxmkovtXzihYtjjQkZaXYboiprLAPLVdxa4nnEl):"
+        detail: |
+          - Prezident Pavel navštívil po Kyjevu také ukrajinské Dnipro. Během návštěvy oznámil, že Česko a Ukrajina se dohodly na společné výrobě ručních zbraní, munice, ale také lehkých bitevníků F/A-259, které vyvinula česká společnost AERO Vodochody společně s izraelskou firmou Israel Aerospace Industries.
+          - Podle britské rozvědky včerejší ruský raketový útok poprvé za několik měsíců necílil na energetickou infrastrukturu. Rusové se nejspíš pokusili cílit na shromaždiště ukrajinských rezervistů a také na depa a skladiště se západní technikou. 
+          - Velitel americký sil v Evropě generál Cavoli prohlásil, že Spojené státy úzce spolupracují s Ukrajinou na vytvoření plánu protiofenzivy, které bude mít za cíl překvapit Rusy tam, kde to nejméně čekají. 
+          - Evropský soud pro lidská práva nařídil Rusku zaplatit Gruzii kompenzaci ve výši 129 miliónů eur za nejrůznější incidenty, při kterých byla porušena lidská práva během ruské invaze v roce 2008.
+          - Putin podepsal zákon, který umožní zbavit nabytého ruského občanství ty, kteří by „diskreditovali ruskou armádu“ nebo například volali po narušení teritoriální integrity Ruské federace. 
+          - Prezident Jižní Koreje včera oznámil, že země zvažuje poskytnutí vojenské pomoci Ukrajině. Podle něj je potřeba zajistit, aby ruská invaze skončila pro Rusko porážkou. 
+          - Francie umožní své firmě Framatome, aby společně s ruským státním Rosatomem dostavěla jadernou elektrárnu v Maďarsku.  
+          - Ukrajina předala Mezinárodní komisi Červeného kříže osobní údaje 19 000 ukrajinských dětí, které okupanti odvlekli do Ruska. 
+          - Evropská unie zvažuje zavést sankce vůči zemích, které se podílí na reexportu sankcionovaného zboží do Ruska. 
+          - Prigožin prohlásil, že za současné situace zřejmě Wagnerova soukromá armáda přestane úplně existovat. 
+          - Okupanti v Melitopolu odhalili pamětní desku zesnulé fašistce Darje Dugině.
+          - Počet obětí ruského ostřelování Umani se vyšplhal na 23 včetně 4 dětí.
+          - Řecko předalo Ukrajině systém PVO S-300.  
+        videa: |
+          - [Okupanti v Melitopolu odhalili pamětní desku fašistce Dugině](https://twitter.com/nexta_tv/status/1652250549981519872)
+          - [Táborák v Sevastopolu z více úhlů ](https://twitter.com/EuromaidanPress/status/1652196025740697603)
+          - [Hoří a hoří…](https://twitter.com/front_ukrainian/status/1652204486306279429)
+          - [Ukrajinský přepad ruských pozic](https://twitter.com/Bodbe6/status/1651990007765250054)
+          - [Před… (po fotka pod tweetem)](https://twitter.com/PaulJawin/status/1652007832831574020)
+          - [Snajpr v noci ](https://twitter.com/front_ukrainian/status/1652252064595025922)
+          - [Wagnerovci ](https://twitter.com/NOELreports/status/1652275842070847490)
+          - [V Marjince vykvetly tulipány](https://twitter.com/nexta_tv/status/1652221678049525760)
+          - [Jak dopadly ruské speciální jednotky na Dněpru ](https://twitter.com/front_ukrainian/status/1652237330550251522)
+          - [Bývalé ruské zákopy](https://twitter.com/herooftheday10/status/1652212169537204224)
+          - [Rusové natočili, jak je trefilo ukrajinské dělostřelectvo ](https://twitter.com/Bodbe6/status/1652066567587282950)
+          - [Mínus tanky](https://twitter.com/front_ukrainian/status/1651957200565202944)
+          - [Ruskou základnu navštívil HIMARS ](https://twitter.com/nexta_tv/status/1652211172735688704)
+          - [Test nového dronu](https://twitter.com/EuromaidanPress/status/1652251628857344003)
+          - [Rusové posílají další šrot ](https://twitter.com/herooftheday10/status/1652076228705124352)
+          - [400 dní na frontě ](https://twitter.com/ukrainiansquad/status/1651963221358542848)
+          - [Mínus BMP](https://twitter.com/front_ukrainian/status/1652273173528735746)
+          - [Bombardování dronem ](https://twitter.com/PaulJawin/status/1652186497620275202)
+          - [Prigožin o wagnerovcích ](https://twitter.com/NOELreports/status/1652003937803722752)
+          - [CAESAR na bojišti ](https://twitter.com/front_ukrainian/status/1652216544787570690)
+          - [M777](https://twitter.com/Osinttechnical/status/1652097968827244553)
+          - [Zajatci do fondu ](https://twitter.com/NOELreports/status/1652252125076832258)
+          - [Ukrajinské Humvee](https://twitter.com/front_ukrainian/status/1651995312758697997)
+          - [Noční palba](https://twitter.com/PaulJawin/status/1652013745319624710)
+          - [Další řízená demolice ](https://twitter.com/herooftheday10/status/1652274617552101376)
       - title: "Pátek"
         year: "28. duben 2023"
         image: assets/img/timeline/2023-04-28.jpg
