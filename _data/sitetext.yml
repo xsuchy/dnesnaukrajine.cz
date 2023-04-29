@@ -35,6 +35,53 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "28. duben 2023"
+        image: assets/img/timeline/2023-04-28.jpg
+        desc: "Dnešní den nezačal dobře. Rusové v noci vypálili 23 raket Ch-101 a Ch-555 směrem na Kyjev a Dnipro ze svých strategických bombardérů Tu-95. 21 raket sestřelila ukrajinská protivzdušná obrana, z toho 11 u Kyjeva. Ty dvě, co se nepodařilo zastavit, opět zabíjely nevinné lidi. V Umani raketa dopadla na vysokopodlažní bytovku a zabila nejméně 14 lidí včetně dvou dětí. V Dnipru zabila raketa 31letou ženu a její dvouletou dceru. Ruské ministerstvo obrany ještě přisypalo sůl do rány, když na svém oficiálním telegramovém kanále jen krátce po útoku zveřejnilo fotografii z odpalu rakety s titulkem „Přesně na cíl“. Těžko říct, jestli je to z jejich strany naprostý cynismus, nebo je v ruské armádě natolik institucializovaná lež do té míry, že ministerstvo obrany upřímně věří, že rakety zasáhly vojenský cíl, protože jim to jednoduše jejich podřízení tvrdí, každopádně ať tak či tak, je neuvěřitelné, že zatímco se tohle děje, Rusko stále předsedá Radě bezpečnosti OSN. Jediný Izrael za celou dobu ruského předsednictví z jednání na protest odešel. Některé státy proti Rusku protestovaly verbálně, většina ale svou nečinností ruské předsednictví legitimizovala. Jednou se nás děti budou ptát, co jsme proti tomu všemu dělali, a my budeme muset přiznat, že jsme nedělali dost. Ale pořád na tom budeme citelně lépe než ti, co budou muset svým dětem vysvětlovat, proč když dopadaly rakety na ukrajinské paneláky, oni protestovaly na náměstí proti údajné bídě nebo „jedovaté ukrajinské mouce“. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid033cqHnemZbA4CCFZPnnufKcUdATCSnTY5TE8Uz8rsLtrsdXW8GV3vtPGpHu2Yy87vl):"
+        detail: |
+          - Podle Centra taktické medicíny koncernu Kalašnikov více než 50 % fatálních ztrát v ruské armádě tvoří případy, kdy vojáci umřeli následkem zranění, které je přímo neohrožovalo na životě, resp. šlo ztrátám předejít, pokud by Rusové měli kvalitní škrtidla a uměli je správně použít. Stejně tak 30 % amputací nohou a rukou šlo stejným způsobem předejít. 
+          - Parlamentní shromáždění Rady Evropy (PACE) označilo deportaci ukrajinských dětí do Ruska za genocidu. Zároveň stvrdilo zatykač vydaný na diktátora Putina a ombudsmanku Lvovou-Bělovou. Shromáždění také uznalo Lukašenka za spoluviníka v deportaci dětí. 
+          - Dánské ministerstvo obrany potvrdilo, že jen pár dní před výbuchem plynovodu Nord Stream v oblasti operovala ruská loď SS-750, která na palubě nese malou ponorku. Pobřežní stráž plavidlo zachytila na 26 snímcích, které Dánsko sdílelo s partnery. 
+          - Lotyšsko oznámilo, že na zápasech mistrovství světa v hokeji bude platit zákaz ruských a běloruských vlajek v hledišti. Naopak ukrajinské vlajky bude možné vyvěšovat na kterémkoliv zápase. 
+          - Reznikov prohlásil, že přípravy na protiofenzivu byly dokončeny a nyní se čeká na správné počasí a na to, až generálové vydají příslušné rozkazy. 
+          - Premiér Ukrajiny Denys Šmyhal navštívil Papeže a předal mu fotoalbum dokumentující ruské válečné zločiny na Ukrajině. 
+          - Spojené státy zavádí sankce vůči ruské FSB pro nezákonné zadržování a věznění amerických občanů v zahraničí. 
+          - Erdogan a Putin spolu během telefonického rozhovoru diskutovali budoucnost Obilné dohody. 
+          - Český prezident Pavel a slovenská prezidentka Čaputová přijeli na společnou návštěvu Kyjeva. 
+          - Kyrgyzské soudy schválily zákaz vysílání místní mutace stanice Svobodná Evropa.
+          - Ukrajina obdržela všech 19 slíbených houfnic CAESAR od Dánska. 
+          - V bojích u Bachmutu padli dva Rusové bojující v řadách Ukrajiny. 
+          - Ministři obrany Ruska a Číny se setkali v Novém Dillí.
+        videa: |
+          - [Umaň](https://twitter.com/nexta_tv/status/1651880736654258178)
+          - [Znovu Umaň](https://twitter.com/EuromaidanPress/status/1651853780869062659)
+          - [Taky Umaň](https://twitter.com/NOELreports/status/1651832013240905728)
+          - [Dnipro](https://twitter.com/TarmoFella/status/1651902767047344130)
+          - [SOF v Bachnutu](https://twitter.com/front_ukrainian/status/1651840266834149376)
+          - [Cesta do Bachmutu pod ruskou palbou](https://twitter.com/Bodbe6/status/1651643589032550400)
+          - [Ukrajinský zákop](https://twitter.com/ManiacMagic1/status/1651635421548355591)
+          - [Český pták](https://twitter.com/front_ukrainian/status/1651852130234318848)
+          - [Nové rakety v rukou obránců](https://twitter.com/UAWeapons/status/1651589030671261696)
+          - [Ruský zákop u Bachmutu](https://twitter.com/front_ukrainian/status/1651606328635273217)
+          - [Ukrajinští hackeři nabourali setkání Rusů s Íránci](https://twitter.com/KramarenkoMari3/status/1651567211604000770)
+          - [Za svobodu](https://twitter.com/ukrainiansquad/status/1651592699198287874)
+          - [Dělo v blátě](https://twitter.com/front_ukrainian/status/1651845853626216448)
+          - [Odrážení útoků](https://twitter.com/PaulJawin/status/1651882051505725442)
+          - [Další odstřel v Bachmutu](https://twitter.com/Bodbe6/status/1651667840318029825)
+          - [Mínus dva tanky](https://twitter.com/Sorcerer_UA/status/1651354653466951681)
+          - [Mínus BMP](https://twitter.com/front_ukrainian/status/1651650653410717696)
+          - [Lancet poškrábal Geparda](https://twitter.com/Tendar/status/1651877246057979906)
+          - [Pár zajatců](https://twitter.com/antiputler_news/status/1651836266881662980)
+          - [Co tam dělají??](https://twitter.com/Bodbe6/status/1651679448293339150)
+          - [Bahýnko](https://twitter.com/front_ukrainian/status/1651604444843212800)
+          - [Přestřelka v Bachmutu očima Rusů](https://twitter.com/Bodbe6/status/1651653937827553286)
+          - [Evakuace civilistů, co utíkali z Bachmutu](https://twitter.com/PaulJawin/status/1651897661513973760)
+          - [Další kosmonaut](https://twitter.com/parrot_soldier/status/1651833853353287682)
+          - [Ruské zákopy](https://twitter.com/Bodbe6/status/1651552125485215745)
+          - [Noční lov](https://twitter.com/NOELreports/status/1651894030710497280)
+          - [Lovec dronů](https://twitter.com/2uwmp/status/1651572449438302209)
+          - [Ruský Lancet versus ukrajinská S-300](https://twitter.com/UAWeapons/status/1651607986719129603) 
       - title: "Čtvrtek"
         year: "27. duben 2023"
         image: assets/img/timeline/2023-04-27.jpg
