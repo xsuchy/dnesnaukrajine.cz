@@ -35,6 +35,54 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "1. květen 2023"
+        image: assets/img/timeline/2023-05-01.jpg
+        desc: "Rusové včera večer a znovu pozdě v noci zaútočili raketami a drony na Pavlohrad a na Kyjev. Rakety a drony mířící na Kyjev údajně všechny zlikvidovala protivzdušná obrana. V Pavlohradu už situace tak pozitivní není. Nejméně tři rakety dopadly na město. Při explozích bylo poškozeno 19 vysokopodlažních budov a 25 rodinných domků. Obětí je v tuto chvíli 34 včetně pěti dětí a nejspíš další přibydou. Po jednom ze zásahů navíc městem otřásla mohutná sekundární exploze. Ruská armáda tvrdí, že trefila baterii systému S-300 a skladiště munice, Ukrajinci tvrdí, že Rusko zasáhlo areál místní chemičky, kde byla uskladněna tuhá paliva. Informace se nicméně nevylučují a pravda budou nejspíš obě tvrzení. V Pavlohradu, v areálu místní chemičky, se totiž nacházel sklad 40 let starých balistických raket a tuhého paliva do jejich motorů, které měly být v roce 2019 zlikvidovány, ale likvidace nebyla nikdy dokončena. Je tedy možné, že v areálu byla i baterie PVO, která měla místo citlivé místo chránit. Tomu by ostatně odpovídala i rychlá informace, kterou Pavlohradské úřady publikovaly jen pár desítek minut po explozi a ve které ujišťovaly obyvatele, že jim nehrozí otrava chemikáliemi. Ani jedna ze stran konfliktu nicméně nepíše o tom, že by byl zasažen sklad techniky nebo munice určené k chystané ofenzivě, tedy tahle možnost jde vyloučit, protože pokud by se tak stalo, ruské kanály by nepsaly o ničem jiném. Ale teď už [pár konkrétnějších novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0i4gu8sfXRHNqYKe4sQPP3UFnVtnTmFm2ySQuzFJHPLFieQKuQ5xXJoXtR2MjdWWYl):"
+        detail: |
+          - Bývalý ruský prezident Medveděv napsal na svém Telegramu status, kde se nejprve rozčiloval nad tím, že mu Twitteru smazal jeho poslední výzvy ke genocidě, a následně prohlásil, že cílem Ruska je „zasadit zdrcující porážku ukronacistům, Spojeným státům a jejich přisluhovačům v NATO včetně Polska“, Západ označil za „hni*y“ a svůj nenávistný příspěvek ukončil výzvou k tomu, aby si Rusko „konečně vzalo zpátky všechny své země a navždycky vzalo své lidi pod ruskou ochranu“. Dá se s někým, kdo píše takové věci, jednat o míru? 
+          - Girkin konstatoval, že Ukrajinci splnili v Bachmutu svoje cíle: vázat ruskou armádu na jediný úsek fronty, vyčerpat její útočný potenciál a nedovolit tak žádný posun fronty na ostatních úsecích, zatímco v týle probíhaly intenzivní přípravy na avizovanou ofenzivu. Zároveň si Girkin myslí, že Wagnerovci nemají sílu Bachmut „dokončit“. Rozhodně ne před 9. květnem, jak Putin nařídil. 
+          - Představitelé Ukrajiny doporučili obyvatelům žijícím pod okupací, aby si převzali ruské pasy a nestyděli se je využívat, dokud nebudou osvobozeni, aby se zbytečně nevystavovali represím nebo neohrožovali na vlastních životech. 
+          - Ukrajinské síly údajně přešly v Bachmutu na několika místech do protiútoku a donutily Rusy opustit dříve dobyté pozice. Při té příležitosti zajali desítky členů Wagnerovy armády. 
+          - Švédské a Finské námořnictvo vyhlásily stav nejvyšší pohotovosti kvůli několika ruským válečným lodím, které plují k energetickým instalacím v Baltském a Severním moři. 
+          - Šéf ukrajinské rozvědky Budanov přislíbil, že Ukrajina najde a zničí všechny pachatele válečných zločinů, ať se budou skrývat kdekoliv na světě.
+          - Kadyrov na svém kanále vyslovil přání vytvořit „dobrou“ armádu, které by v cizích zemích hájila práva údajně utlačovaných národů. 
+          - Po explozi na železnici poblíž ruského Brjansku vykolejil vlak s 60 vagóny paliva a stavebních materiálů. Nejspíš šlo o sabotáž. 
+          - Jihoafrická republika překvapivě oznámila, že Putina zatkne, pokud do země přijede, a varovala ho, aby to nedělal. 
+          - Na plánovanou demonstraci „Za mír“ na pražskou Letnou dnes nikdo nedorazil. Na místě byli jen novináři.
+          - V Leningradské oblasti kdosi odpálil výbušninou jeden z pylonů vedení vysokého napětí. 
+          - Krymský most v noci ucpaly mnohakilometrové kolony Rusů, kteří z poloostrova prchají. 
+          - Macron v telefonickém rozhovoru přislíbil Zelenskému další obrněnou techniku. 
+          - Cooper Andrews, 26letý bývalý americký mariňák padl v bojích u Bachmutu. 
+          - Mohutná exploze zničila základnu ruského personálu v Melitopolu. 
+        videa: |
+          - [Na Krymském mostě stojí opět dlouhé kolony](https://twitter.com/kvistp/status/1652665723255226374)
+          - [Pohřeb dětí zabitých v Umani ](https://twitter.com/nexta_tv/status/1652692112360501249)
+          - [Pavlohrad](https://twitter.com/NOELreports/status/1652772521614114816)
+          - [Taky Pavlohrad](https://twitter.com/NOELreports/status/1652769472640434178)
+          - [Mínus ruský tank](https://twitter.com/herooftheday10/status/1652901131016708098)
+          - [Bachmut](https://twitter.com/front_ukrainian/status/1652735626372960260)
+          - [Ukrajinský útok](https://twitter.com/NOELreports/status/1652983426926931970)
+          - [Mínus moderní ruská T-90](https://twitter.com/Bodbe6/status/1653007448909676545)
+          - [Vlak u Brjansku](https://twitter.com/EuromaidanPress/status/1653011887972286467)
+          - [Trefa kamikaze dronem ](https://twitter.com/PaulJawin/status/1652763582155587585)
+          - [Ukrajinci sestřelili ruský dron ](https://twitter.com/EuromaidanPress/status/1652900403367882752)
+          - [Ruský pokus o totéž nevyšel](https://twitter.com/Bodbe6/status/1653010082483916804)
+          - [Český pták](https://twitter.com/front_ukrainian/status/1653015353939619840)
+          - [Kozak přežil explozi miny](https://twitter.com/EuromaidanPress/status/1652855608419270657)
+          - [Na frontě](https://twitter.com/ukrainiansquad/status/1652690028772851715)
+          - [Bývalé ruské pozice ](https://twitter.com/nevedimka123/status/1652865001852399616)
+          - [Tři MiGy](https://twitter.com/front_ukrainian/status/1652979661582761985)
+          - [Snajpr v Bachmutu](https://twitter.com/Bodbe6/status/1652700366436171777)
+          - [Tahání z bryndy](https://twitter.com/front_ukrainian/status/1652953794563518465)
+          - [Trefa!](https://twitter.com/herooftheday10/status/1652958377398394880)
+          - [Ztráty wagnerovců u Soledaru ](https://twitter.com/PaulJawin/status/1652954339046989825)
+          - [Mínus tank](https://twitter.com/front_ukrainian/status/1652950492685688832)
+          - [Tahání Francouze z bláta](https://twitter.com/front_ukrainian/status/1652857164401106944)
+          - [Mínus BMP](https://twitter.com/PaulJawin/status/1652687493634961414)
+          - [Trochu jiný badminton](https://twitter.com/666_mancer/status/1652995317892038662)
+          - [Svačinka](https://twitter.com/nevedimka123/status/1652708157859217411)
+          - [Ukrajinské helikoptéry](https://twitter.com/Osinttechnical/status/1652820519421394945)
       - title: "Neděle"
         year: "30. duben 2023"
         image: assets/img/timeline/2023-04-30.jpg
