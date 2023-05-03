@@ -35,6 +35,49 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "3. květen 2023"
+        image: assets/img/timeline/2023-05-03.jpg
+        desc: "Ukrajinci v noci podnikli koordinovaný útok na desítky cílů na okupovaném území i v Rusku pomocí raket, dělostřelecké palby i dronů. U Brjansku útočily drony na vojenské letiště Sešča, na letišti Gostilicy pro změnu vypukl požár v hangáru s helikoptérami, u Kursku palba přerušila dodávky elektřiny a plynu, pod palbou byla také Kachovka, Nová Kachovka, Korsunka nebo Krynki – pravděpodobně tamější ruská shromaždiště, ostřelovány byly také ruské pozice podél prakticky celé doněcké linie a v neposlední řadě opět i instalace na okupovaném Krymu. Pozorovatelé se víceméně shodují, že rozsah palby odpovídá přípravám na ofenzivu. Ukrajinci každopádně detaily chystané ofenzivy tají i před svými partnery, protože se obávají dalších úniků jako byl ten v USA. Tak držme palce, aby vše proběhlo zdárně. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02PQJmZUsEbYnGLEroFyaZuweKmkHXes8QRePkp1wq5QzUyHVbAU2pGPZQUMLo3Ab9l):"
+        detail: |
+          - Proruské kanály se pohoršují znovuobjeveným starším videem, na kterém ukrajinský voják volá přítelkyni zabitého ruského vojáka z jeho telefonu a vysmívá se jí. Na místě je říct dvě věci: Jednak to, že takové chování opravdu není v pořádku, ani když ho dělá stát, který se brání, ale sluší se připomenout i to, že Rusové dělali od prvního dne úplně to samé, a zejména hovory a esemesky příbuzným a pozůstalým po obráncích Azovstalu byly na denním pořádku a byly i mnohem odpornější. Ruští vojáci se vdovám nejen smáli, ale otevřeně jim vyhrožovali násilím i smrtí. A vidím i značný rozdíl v tom, když podobné psychologické hry hraje národ, který se brání brutální invazi, a když je dělá ten, kdo brutální invazi vede. 
+          - FSB zveřejnila videa, na kterých údajně zatýká ukrajinské sabotéry na Krymu. Zároveň na kameru ukázala, co u nich ve vozidle našla za předměty, aby svá tvrzení dokázala. Běžný ukrajinský sabotér tak podle ruské FSB vozí v autě kromě různých druhů improvizovaných výbušnin a převleků také výložky hned několika složek ukrajinské armády a sbírku státních vyznamenání a medailí. Ruská propaganda by byla jen nekonečně směšná, kdyby jí lidé nebyly schopni brát vážně.
+          - Ukrajinské drony způsobily explozi a následný požár skladiště paliv v ruské Tamani. Nejzajímavější na téhle zprávě je právě lokalita. Tamaň totiž leží na opačném konci krymského mostu na jeho ruské straně. Jestli tedy Ukrajincům útok něco prozradil, tak to, že protivzdušná obrana, která má most chránit, proti cílům vůbec nezasáhla. 
+          - Ruská armáda, která opravdu, ale opravdu neútočí na civilní cíle, dnes dělostřeleckou palbou zasáhla jediný otevřený hypermarket v Chersonu. V tuhle chvíli se ví o třech obětech na životech a pěti raněných. Budova hypermarketu byla silně poničena. 
+          - Dánsko poskytne Ukrajině zatím největší balíček vojenské pomoci. Obsahovat bude munici, mostní tanky, odminovací vozidla nebo prostředky pro nákup munice do systémů PVO. Hodnota balíčku vyšplhá k 250 miliónům dolarů. 
+          - Ruská Státní duma schválila projedná zákon, který by zakázal úředním osobám vlastnit nemovitosti v „nepřátelských zemích“. Šance mu ale nedávám. Vlastnit nemovitosti na Západě je životním stylem ruských elit. 
+          - Člen ruské Bezpečnostní rady Patrušev prohlásil, že Spojené státy se snaží obsadit Rusko, aby našly na Sibiři bezpečný úkryt před potenciálním výbuchem supervulkánu pod Yellowstonem. 
+          - Ukrajinský parlament schválil rezoluci, která označuje „rašismus“ (ruský fašismus) za státní ideologii současného Ruska. 
+          - Ruské kanály informovaly, že Ukrajinci pronikli u Avdijivky do hloubky 1,5 kilometru za původní linii. 
+          - Zakladatel kanálu NEXTA byl v nepřítomnosti v Bělorusku odsouzen k 20 letům odnětí svobody. 
+          - Británie nepozvala Putina ani další hlavy států, kteří jsou partnery Ruska, na korunovaci krále. 
+          - U Brjansku vykolejil další vlak. Opět byly příčinou exploze, které poničily tamější trať. 
+          - PVO v noci na dnešek zničila 21 z 26 íránských dronů vyslaných Rusy na Ukrajinu. 
+          - V Tavryčance u Chersonu okupanti vztyčili další památník Leninovi. 
+          - Tinder k 30. červnu opustí ruský trh. 
+        videa: |
+          - [Tamaň](https://twitter.com/EuromaidanPress/status/1653619391081201668)
+          - [Znovu Tamaň](https://twitter.com/front_ukrainian/status/1653642632008957953)
+          - [3. šturmová na frontě](https://twitter.com/Feher_Junior/status/1653308381765984256)
+          - [Ruský novinář nabíjí Grad](https://twitter.com/francis_scarr/status/1653670280689070082)
+          - [Poděkování za Bradleye](https://twitter.com/EuromaidanPress/status/1653603033320763393)
+          - [Bradley](https://twitter.com/EuromaidanPress/status/1653505138399629319)
+          - [Leopardy v ukrajinských rukou](https://twitter.com/front_ukrainian/status/1653658345742409732)
+          - [Meteorit na ruské pozice](https://twitter.com/parrot_soldier/status/1653512268963872771)
+          - [Symbolika je důležitá, Záporožská oblast](https://twitter.com/nevedimka123/status/1653297407369658374)
+          - [Výbuch skladiště paliv na Krymu](https://twitter.com/albafella1/status/1653203092400119809)
+          - [Kapitán HIMARS](https://twitter.com/front_ukrainian/status/1653711902663376896)
+          - [9 granátů, jeden ruský voják](https://twitter.com/PaulJawin/status/1653438228236566528)
+          - [Trefa!](https://twitter.com/VictorKvert2008/status/1653517610657488897)
+          - [Šilka a Tunguska](https://twitter.com/front_ukrainian/status/1653652228840865793)
+          - [Další výroba ztrát](https://twitter.com/PaulJawin/status/1653706178705125378)
+          - [Ukrajinská PVO](https://twitter.com/Osinttechnical/status/1653621287489511426)
+          - [Ruské ztráty](https://twitter.com/front_ukrainian/status/1653654600891654144)
+          - [Neprošel](https://twitter.com/herooftheday10/status/1653439510779133956)
+          - [„Nové“ BTR-T](https://twitter.com/front_ukrainian/status/1653462261845950466)
+          - [Mínus dva tanky](https://twitter.com/GloOouD/status/1653324887342084099)
+          - [Mínus tank](https://twitter.com/PaulJawin/status/1653514444608028674)
+          - [Neprojel](https://twitter.com/Shtirlitz53/status/1653294738160721921)        
       - title: "Úterý"
         year: "2. květen 2023"
         image: assets/img/timeline/2023-05-02.jpg
