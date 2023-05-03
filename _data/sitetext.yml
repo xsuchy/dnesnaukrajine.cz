@@ -35,6 +35,47 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "2. květen 2023"
+        image: assets/img/timeline/2023-05-02.jpg
+        desc: "Girkin sdílel na Telegramu text jiné ruské figurky, ve které si autor stěžuje, že v OSN hlasovali pro rezoluci s jasně protiruským vyzněním i obvyklí spojenci a partneři Ruska. V tom není první ani poslední, celá řada ruských politiků na hlasování ostře reagovala a někteří dokonce sáhli po slovech jako „zrada“ nebo „zrádci“. V závěru tohohle textu ale autor viní z nastalé situace Putina a jeho neuvážené kroky, což je poměrně běžné u samotného Girkina, který je k Putinovi velmi kritický prakticky neustále, nicméně u ostatních blogerů nebo představitelů Ruska už to tak obvyklé není, protože Putina se většina prominentních Rusů jednoduše bojí. A nutno říct, že právem. Putin jako bývalý důstojník KGB a později jako šéf FSB má ruské tajné služby stále pod palcem a v minulosti se je nebál využít k likvidaci svých politických soupeřů nebo režimu nepohodlných novinářů. To, že čím dál více lidí Putina otevřeně kritizuje, ukazuje, že jeho moc slábne. Nebo je jako slábnoucí minimálně v elitních kruzích vnímaná. Což by Putinovi mohlo zlomit vaz. Ale možná jenom slyším trávu růst. Teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0MVnddbyUX3PRa9h2mp1K9EviKgKiZACE5GABREcgdch8Ebbd59buC39KPatiiC4Al):"
+        detail: |
+          - Ministryně pro reintegraci navzdory včerejšímu doporučení některých ukrajinských představitelů informovala, že nedoporučuje Ukrajincům na okupovaném území převzít si ruské pasy. Podle ní je nejlepší s okupanty nekomunikovat a pokusit se území opustit, pokud je to možné. 
+          - Finsko a Spojené státy diskutují o případné smlouvě, která by umožnila americkým vojákům využívat finské vojenské instalace a umístit ve Finsku americké zbraňové systémy. Finsko předem vyloučilo pouze umístění jaderných střel. 
+          - Podle starosty gruzínského Tbilisi nezískala Gruzie kandidátský status země EU kvůli tomu, že se odmítla připojit k protiruským sankcím. 87 % obyvatel Gruzie přitom podle průzkumu považuje Rusko za největší hrozbu.
+          - Podle mluvčího Bílého domu Kirbyho bylo při pokusu dobýt Bachmut v posledních 5 měsících zabito už okolo 20 000 ruských vojáků a kolem 80 000 mělo být raněno. Polovinu ztrát tvoří wagnerovci.
+          - Ukrajinské ministerstvo obrany hlásí, že 8 útočných brigád Národní gardy je připraveno a vyzbrojeno. Další jsou údajně ve fázi příprav.  
+          - Po zásahu Černihivské oblasti naváděnými bombami zahynula 14letá dívka. Poškozena byla budova obecní školy a několik rodinných domků. 
+          - Švýcarsko zopakovalo, že nemůže povolit reexport svých zbraní a munice na Ukrajinu, protože mu to zakazují vlastní zákony. 
+          - 14 panelových domů a budova školy byly poškozeny při ruských úderech na Kramatorsk. 
+          - Ukrajinci zasáhli ruské shromaždiště v Tokmaku pomocí systému HIMARS. 
+          - Dva kanadští dobrovolníci, Kyle Porter a Cole Zelenco, padli u Bachmutu. 
+          - Švédsko poskytne Ukrajině 50 útočných obrněných vozidel CV-90. 
+          - Ukrajinci podnikli několik sérií úderů na okupovanou Kachovku. 
+          - Sevastopol byl pod dalším útokem ukrajinských dronů. 
+          - Melitopol hlásí další hlasitou explozi. 
+        videa: |
+          - [Údery na Bachmut pomocí TOS-1A](https://twitter.com/nexta_tv/status/1653345780810350594)
+          - [Bývalý ruský zákop](https://twitter.com/parrot_soldier/status/1653073793063985153)
+          - [Kalibrace GPS projektilu](https://twitter.com/front_ukrainian/status/1653276325606506496)
+          - [9 nových zajatců](https://twitter.com/PStyle0ne1/status/1653143832505057282)
+          - [Příjezd do Bachmutu](https://twitter.com/Bodbe6/status/1653205285241061376)
+          - [Artilérie versus Rusové](https://twitter.com/PaulJawin/status/1653337324711735299)
+          - [Solovjov volá po denacifikaci Německa](https://twitter.com/nexta_tv/status/1653308479140945922)
+          - [Průzkum na Krymu :D ](https://twitter.com/parrot_soldier/status/1653313534543921152)
+          - [Raketa sestřelená ukrajinskou PVO](https://twitter.com/front_ukrainian/status/1653265586086871042)
+          - [Syrský v Bachmutu](https://twitter.com/nexta_tv/status/1653311645395959808)
+          - [Další masivní požár v Rusku](https://twitter.com/albafella1/status/1653081504732397576)
+          - [Pěkná trefa dronem](https://twitter.com/front_ukrainian/status/1653341547507720195)
+          - [Dron Juan to dostal :/](https://twitter.com/NOELreports/status/1653289299616358400)
+          - [HIMARS](https://twitter.com/front_ukrainian/status/1653282303257223171)
+          - [Ruské údery u Chersonu](https://twitter.com/Bodbe6/status/1653352092642291712)
+          - [Našel je!](https://twitter.com/front_ukrainian/status/1653023032456237056)
+          - [Výcvik v čistění zákopů](https://twitter.com/Bodbe6/status/1653106202539065344)
+          - [Kořist](https://twitter.com/NOELreports/status/1653084070639812639)
+          - [Neutekli](https://twitter.com/PaulJawin/status/1653284452317945858)
+          - [Bachmut](https://twitter.com/Bodbe6/status/1653051376514023426)
+          - [Palba na ruské pozice](https://twitter.com/PStyle0ne1/status/1653141581161979906)
       - title: "Pondělí"
         year: "1. květen 2023"
         image: assets/img/timeline/2023-05-01.jpg
