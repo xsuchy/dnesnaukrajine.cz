@@ -35,6 +35,57 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "4. květen 2023"
+        image: assets/img/timeline/2023-05-04.jpg
+        desc: "Dva malé drony včera v noci zasáhly kopuli jedné z budov Kremlu. Vzhledem k jejich velikosti nicméně musely startovat buď přímo z Moskvy, nebo blízkého okolí. To ale nebránilo Rusům incident obratem označit za pokus Kyjeva o atentát na Putina, a to i přesto, že všichni dobře ví, že Putin v Kremlu prakticky nepobývá. Ukrajina ostatně svou účast v incidentu vehementně popírá. Někteří ruští poslanci pod tíhu emocí volali po jaderné odvetě. Peskov obvinil z útoku Spojené státy. Medveděv pak prohlásil, že Rusům „nezbývá jiná možnost, než Zelenského fyzicky zlikvidovat“. Jen pár desítek minut po oficiálních vyjádřeních Kremlu byly ve vzduchu ruské strategické bombardéry a celou noc kroužily v blízkosti ukrajinských hranic. Na téměř celé střední a východní Ukrajině kvůli tomu platila výstraha před potenciálními útoky, ty ale nakonec nepřišly. Sluší se také zmínit, že Rusko se o likvidaci Zelenského opakovaně pokusilo, a to hned v prvních týdnech války. Podle různých zdrojů Zelenského ochranka a tajné služby překazily 5-15 pokusů o atentát, který měli provést Kadyrovci, diverzní skupiny, tajné služby nebo speciální jednotky. Z pohledu Ukrajiny už tedy konflikt nejde eskalovat více, pokud by skutečně nedošlo k použití jaderných střel. Ruské výhrůžky a silácká prohlášení proto vyznívají naprázdno, mnohdy až komicky. Ale dost legrace, teď [seriózní novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0jdZ3NSARBX1bdTgDuFoDhHXfxh8U2RK5CiQe7XCj7VMtJzsz5h8pFp3j9oS7GXEBl):"
+        detail: |
+          - 23 lidí bylo zabito a 46 raněno při posledním ostřelování Chersonu. Ruská palba cíleně zasáhla místa, kde se předpokládá velký shluk civilních osob: hypermarket, čerpací stanici, nádraží, městskou křižovatku a několik obytných domů. Ještě loni přitom Rusko tvrdilo, že 87 % zdejší populace si přeje spojení s Ruskem. Nyní Rusko ty samé lidi cíleně vraždí. 
+          - Šéf kolektivní rozvědky NATO informoval, že Rusko nejspíš chystá útoky na podmořskou infrastrukturu zemí aliance, zejména datové kabely. Už nyní prý Rusko shromažďuje informace potenciálních cílech. Podmořské kabely přitom zajišťují okolo 95 % veškeré internetové komunikace. 
+          - Protivzdušná obrana sestřelila údajný ukrajinský dron nad ruskou Voroněží a další nad Belgorodem. Rusko na popud ruší vojenské přehlídky ke příležitosti Dne vítězství prakticky ve všech velkých městech. Není ale vyloučené ani to, že si Rusové tenhle důvod vyrobili sami. 
+          - Nový balík vojenské pomoci od Spojených států v hodnotě okolo 300 miliónů dolarů bude obsahovat munici do systémů HIMARS, houfnice, dělostřeleckou a minometnou munici, protitankové střely, rakety Hydra-70 pro letadla a helikoptéry a munici do ručních zbraní. 
+          - Prigožin v posledních dvou dnech dvakrát informoval o ceně za ruský postup Bachmutem. Minulých sto metrů údajně pro wagnerovce znamenalo devět desítek padlých bojovníků, včerejších 230 metrů pak wagnerovce podle Prigožinových slov stálo 116 elitních vojáků. 
+          - V PC hře Counter-Strike můžou ruští hráči vejít do speciálního sklepního krytu, kde se shromažďují psaná svědectví vojáků v ruském jazyce o dění na Ukrajině, fotky z Buči, Irpini a dalších měst a nejrůznější články a dokumenty. 
+          - Prezident Zelenský po krátké návštěvě Finska zamířil letadlem nizozemské vlády do Haagu, kde promluvil před zákonodárci. Zmínil, že právě zde bude v budoucnu Putin souzen za svoje zločiny až Ukrajina vyhraje. 
+          - MAAE informovala, že Rusové umístili v areálu jaderné elektrárny v Enerhodaru vojenskou techniku a zbraně. V hale bloku č. 4 prý dokonce umístili vedle techniky také výbušné materiály. 
+          - Kyjev a Oděsa byly v noci pod útokem íránských dronů. 18 z 24 dronů sestřelila ukrajinská PVO. 3 drony zasáhly oděskou univerzitu. Na sobě měly nápisy „za Kreml“ a „za Moskvu“.
+          - Finsko, Švédsko, Dánsko, Norsko a Island se společně zavázaly, že podpoří vstup Ukrajiny do Evropské unie i NATO. 
+          - Moskva, Petrohrad a možná i další velká ruská města úplně zakázala lety dronů na svém správním území. 
+          - Rusko sníží produkci ropy o 500 000 barelů za den vůči produkci v únoru letošního roku. 
+          - Ukrajinci vytlačili Rusy z Pobjedy, jižně od Marjinky. 
+          - V ruském Stavropolu hoří skladiště paliv a olejů.
+        videa: |
+          - [Cherson ☹](https://twitter.com/DMokryk/status/1653850315471323138)
+          - [Ukrajinský snajpr versus ruský voják s RPG](https://twitter.com/NOELreports/status/1654038271834324995)
+          - [Cesta do Bachmutu](https://twitter.com/UAWeapons/status/1653828968628224000)
+          - [Ruští vlastenci stříhají „máničku“, akorát není rok 1970, ale 2023…](https://twitter.com/Fbeyeee/status/1653844993906204672)
+          - [Kočka v ukrajinské divočině](https://twitter.com/front_ukrainian/status/1654005413090566144)
+          - [Hudební podkres v Mariupolu](https://twitter.com/nexta_tv/status/1653834009963536384)
+          - [Evakuace](https://twitter.com/front_ukrainian/status/1654069529629061122)
+          - [Kupředu!](https://twitter.com/Feher_Junior/status/1653655110076051459)
+          - [Opilý ruský voják v Tokmaku náhodně pálí kolem sebe ](https://twitter.com/jabuttee/status/1653427927688572928)
+          - [Evakuace pod palbou](https://twitter.com/Bodbe6/status/1653768815853948928)
+          - [Kreml](https://twitter.com/nexta_tv/status/1653766333706784770)
+          - [Česká kára](https://twitter.com/front_ukrainian/status/1653822667735048195)
+          - [A český tank](https://twitter.com/front_ukrainian/status/1653805290960171023)
+          - [Zasažený muničák u Doněcku ](https://twitter.com/EuromaidanPress/status/1653957871728742402)
+          - [Ukrajinská Su-25](https://twitter.com/front_ukrainian/status/1654036302759710721)
+          - [Viktorové míří do práce](https://twitter.com/praisethesteph/status/1653820208119685124)
+          - [BMP kryje tank](https://twitter.com/Roadster1978/status/1653758631156887552)
+          - [Stavropol](https://twitter.com/front_ukrainian/status/1654065777618698240)
+          - [Dron versus BMP](https://twitter.com/Bodbe6/status/1653792647935295488)
+          - [Ruský přesun nevyšel](https://twitter.com/PaulJawin/status/1653979194135654401)
+          - [Bachmut](https://twitter.com/nevedimka123/status/1653785242115756033)
+          - [Meteorit](https://twitter.com/front_ukrainian/status/1654017238796517377)
+          - [Mínus muzikanti ](https://twitter.com/Bodbe6/status/1653828353432887303)
+          - [Trefa!](https://twitter.com/front_ukrainian/status/1653841530904358914)
+          - [V ruských zákopech](https://twitter.com/PStyle0ne1/status/1653761990228058116)
+          - [Bachmut](https://twitter.com/DenesTorteli/status/1654009978682847236)
+          - [Nabíjení pivoňky](https://twitter.com/front_ukrainian/status/1653777230617518082)
+          - [Demilitarizace](https://twitter.com/herooftheday10/status/1654038075775778819)
+          - [Neprojeli](https://twitter.com/Apocalypto321/status/1653832477486489602)
+          - [Kupředu ](https://twitter.com/nevedimka123/status/1653819251369623552)
+          - [Fantom](https://twitter.com/herooftheday10/status/1653807956952068116)
       - title: "Středa"
         year: "3. květen 2023"
         image: assets/img/timeline/2023-05-03.jpg
