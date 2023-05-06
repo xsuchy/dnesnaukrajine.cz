@@ -35,6 +35,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "6. květen 2023"
+        image: assets/img/timeline/2023-05-06.jpg
+        desc: "Rusové včera oznámili evakuaci 18 obcí v blízkosti záporožské fronty. Bezprostředně poté se v ulicích Berďansku objevily autobusy, které mají evakuaci provést. Ukrajinci ale zároveň tvrdí, že Rusové podobné evakuace využívají k rotování vojenského personálu, kdy řadí na střídačku vojenské transporty a civilní autobusy, aby chránili vojáky před případnou dělostřeleckou a raketovou palbou. Prý to dělali zatím během každé ohlášené evakuace. Ukrajinci samozřejmě na evakuační trasy na rozdíl od Rusů nestřílí, takže civilisty tím Rusové neohrožují. Zato si tím stoprocentně zajišťují ničím nerušený přesun jednotek. Chytré? Ne. Chucpe. A teď [pár dalších novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02ntGWFtj1ejiAa5cYfJZBZ5ZpKrho8dZiq7DcvKXewHCEDTGEyi8ufXK5JrCAUCtxl):"
+        detail: |
+          - Podle CNN s odkazem na zdroje v armádě nejsou systémy HIMARS tak účinné jako byly loni bezprostředně po nasazení. Rusové se údajně naučili rušit signál raket, díky čemuž občas minou cíl. I tak se ale nejspíš Ukrajincům nedávno podařilo zasáhnout ruský důstojnický šťáb v Doběcku. Zahynout mělo podle zveřejněných úmrtních listů až dvanáct důstojníků včetně jedné ženy - důstojnice. 
+          - Ukrajinské letectvo potvrdilo, že nedávno kyjevská protivzdušná obrana sestřelila ruskou hypersonickou raketu Kinžal. Je to vůbec první úspěšný zásah proti novému typu ruských naváděných střel, o kterých Rusko tvrdí, že jsou nesestřelitelné. Podle mluvčího letectva ji zničil nedávno dodaný systém Patriot.
+          - Ukrajinští představitelé informovali, že někteří západní lídři se snažili Ukrajině vymluvit jejich cíl osvobodit okupovaný Krym. Obávají se totiž toho, že Rusko by v takovém případě sáhlo po jaderných zbraních. Kdo konkrétně to Ukrajině rozmlouval, ale neprozradili. 
+          - Moldavská prezidentka prohlásila, že její země je v bezpečí jen díky Ukrajině. Podle vlastních slov si je jistá, že by Moldavsko bylo další zemí na řadě, pokud by Ukrajina nevzdorovala.
+          - Jeden z ruských bloggerů prohlásil, že až vypluje na veřejnost cena a metody „skorodobytí“ Bachmutu wagnerovci, neřekne Prigožinovi nikdo jinak než „řezník z Bachmutu“.
+          - V Nižném Novgorodu explodovalo auto propagandisty Prilepina. Jeho řidič na místě zahynul. Prilepin byl převezen s těžkými zraněními do nemocnice. 
+          - Bělorusko zavedlo kontroly má hraničních přechodech s Ruskem a intenzivně kontroluje přijíždějící Rusy. Důvod kontrol oficiálně nikde neuvádí.
+          - Zacharová označila kyjevskou vládu za „další teroristickou buňku vytvořenou Spojenými státy“ vedle ISIS a Bin Ladina. 
+          - Kadyrov oznámil, že pošle svoje bojovníky, aby nahradili wagnerovce v Bachmutu, pokud se z města stáhnou.
+          - Na Karlově mostě nově visí banner vyzývající lidí k podepsání petice za vyloučení Ruska z OSN.
+          - Rusové údajně ohlásili odstávku všech bloků jaderné elektrárny v Enerhodaru.
+          - OBSE ve své zprávě označila deportaci ukrajinských dětí za válečný zločin.
+          - Rusové v noci zasypali ukrajinské pozice v Bachmutu zápalnou municí.
+          - Krymský most byl dnes uzavřený. Údajně kvůli riziku útoku.
+          - Ukrajinci opět zasáhli Džankoj na Krymu. 
+        videa: |
+          - [RPG se pokazilo ](https://twitter.com/Bodbe6/status/1654571497426497538?t=nFsK0gF3F3HTucxuaulc2g)
+          - [Bouračka v Alčevsku ](https://twitter.com/nexta_tv/status/1654704541143818241?t=VlP9n9AocapdStn93qB0gw)
+          - [Ruský tank střílel po vlastních](https://twitter.com/Bodbe6/status/1654463623643774976?t=yY3Ar8hDYxy2smtqR1Rqww)
+          - [Banner na Karlově mostě](https://twitter.com/nexta_tv/status/1654483269482688515?t=qXyBAnGEoFtFOJOIjAlYyw)
+          - [Pivoňka](https://twitter.com/front_ukrainian/status/1654757960495538176?t=j3Akf4kjfXJicZ-yGquykQ)
+          - [Hořící Bachmut](https://twitter.com/EuromaidanPress/status/1654728238814441474?t=SusDQ18P54fUVA2h3rJD9g)
+          - [Pohled ze země](https://twitter.com/front_ukrainian/status/1654806517479096320?t=G6wWU7NteP2hCeItQ3bVWQ)
+          - [Bradleyové](https://twitter.com/Militarylandnet/status/1654772902376484865?t=aD65lNfrY8deGLOCki3jaw)
+          - [Bělorusové na frontě](https://twitter.com/Bodbe6/status/1654641623957925890?t=EQUe8mMrdtfa4tQmUff7Eg)
+          - [Ukrajinci a hořící ruské BMP](https://twitter.com/NOELreports/status/1654728893708791809?t=msBdFULgSyn1DSQaCJSEag)
+          - [Bugina](https://twitter.com/front_ukrainian/status/1654808025763389440?t=M2T0QAvqDqLKpeQmdKx7uQ)
+          - [Tank našel minu](https://twitter.com/front_ukrainian/status/1654794374209740805?t=wA9hpFSWwGvhvEGbZuks9w)
+          - [Ukrajinské tanky, Bachmut](https://twitter.com/Bodbe6/status/1654645582592368642?t=O_xcq7eKSLISkKPP_tt-Zw)
+          - [Mínus čtyřkolka](https://twitter.com/PaulJawin/status/1654492586243923968?t=9-BN4JfEo-7xrr23dy_PgQ)
+          - [Třetí šturmová](https://twitter.com/NOELreports/status/1654785635830444032?t=EY_z9SLZzzo1hSge5-s4VQ)
+          - [Budíček](https://twitter.com/2uwmp/status/1654519920921571331?t=m-baL13zPjqYOfMdXruMQA)
+          - [Bachmut](https://twitter.com/Militarylandnet/status/1654479598158065673?t=sl7akgcHUV_TaIE8zIBTRw)
       - title: "Pátek"
         year: "5. květen 2023"
         image: assets/img/timeline/2023-05-05.jpg
