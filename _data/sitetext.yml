@@ -35,6 +35,49 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "7. květen 2023"
+        image: assets/img/timeline/2023-05-07.jpg
+        desc: "Jeden z velitelů běloruského dobrovolnického pluku informoval o akci, kdy Bělorusové obsadili ruské pozice, vzali vysílačku že zabitého ruského velitele a pomocí ní si v ruštině „objednali“ dělostřelecký útok na vedlejší ruské pozice. Ruská artilerie následně prakticky vymazala celou vlastní jednotku. Podobné příběhy se objevily už několikrát, teď poprvé ale dostaly i konkrétní tvář. Rusové obecně nechápou, že spousta Ukrajinců mluví perfektní ruštinou, protože ruská státní média Rusům tvrdí, že ruština je na Ukrajině zakázaná a za používání ruštiny že jsou lidé trestáni a biti. Tak proč jim tu iluzi brát, když dává Ukrajincům příležitosti k podobným vtípkům. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02jgwR5Caa3kYYoXyCzSVbVumXyVh8pTDiu8nCPnffWmVawnMZt283vt1RM5EDQK2Cl):"
+        detail: |
+          - Ukrajinské SBU provedla razii, při které zadržela americko-italského pro-ruského bloggera Gonzala Liru žijícího v Charkově. Ve svých článcích papouškoval ty největší pohádky ruské propagandy a často psal o „ukronacistech“. Údajně mu hrozí 5-8 let za mřížemi.
+          - Ruské kanály šíří video, na kterém tři údajní Gruzínci s ukrajinskými symboly vyhrožují, že se po válce vrátí do Gruzie a rozpoutají tam násilí. Že jde o další matný pokud ruské propagandy, naznačuje špatná gruzínština plná gramatických chyb a špatné výslovnosti.
+          - Rusové začali s další nucenou deportací obyvatel okupovaného Enerhodaru. MAAE varuje před potenciálními nebezpečnými provokacemi v tamější jaderné elektrárně.
+          - Rusové ostřelovali Mykolajiv pomocí naváděných raket a také Nikopol. Ukrajinci hlásí, že se útoky obešly beze ztrát na životech, 3 lidi byli raněni.
+          - Ruská cílená dělostřelecká palba zabila u Chersonu 6 ukrajinských záchranářů, kteří prováděli odminování. Další čtyři byli během palba raněni. 
+          - Rusové hlásí, že Ukrajinci shromažďují síly poblíž Vuhledaru a ostřelují ruské pozice na doněcké a záporožské frontě.
+          - Steven Seagel bude hrát hlavní roli v chystaném ruském akční filmu o invazi na Ukrajinu. 
+          - Prigožin oznámil, že wagnerovcům byla slíbena munice, a tak prozatím v Bachmutu zůstanou.
+          - Policie na pražské demonstraci opět zadržela muže s nášivkou wagnerovců na batohu.
+          - Rusové tvrdí, že nad Krymem sestřelili dvě nově vyvinuté ukrajinské rakety Grim-2. 
+          - U ruského Sverdlovsku hoří 33 000 hektarů lesa poblíž tamějšího skladiště střeliva.
+          - Ruský letoun Su-34 ohrozil nad Černým mořem stíhačku polské pohraniční stráže.
+          - Rusové tvrdí, že zničili 22 útočných ukrajinských dronů nad Černým mořem.
+          - Christopher James Campbell, americký dobrovolník, zahynul u Bachmutu.
+          - 45 ukrajinských vojáků se vrátilo domů při další výměně zajatců.
+        videa: |
+          - [Ukrajinci zlikvidovali ruskou útočnou skupinu](https://twitter.com/EuromaidanPress/status/1655030187330011137?t=Bmp0nro3AZsk_-6Koa37QQ)
+          - [Výsek z videa, krásná trefa](https://twitter.com/front_ukrainian/status/1654881577586036737?t=EF393mm_jjK-yTQ3xhK_og)
+          - [Ukrajinský útok na ruské zákopy](https://twitter.com/Bodbe6/status/1654865520036835330?t=141avR8UsFQ0lD4Scv0Y-w)
+          - [Požár v Rusku poblíž skladiště munice](https://twitter.com/nexta_tv/status/1654932615521001481?t=sM3yK9N7OY6E1lcJMcNO1g)
+          - [Kamikaze dron versus pozorovatelna](https://twitter.com/EuromaidanPress/status/1655079904436707329?t=LnOc6f5k_oK8moS524eNYQ)
+          - [Bitevníky se vrací domů](https://twitter.com/front_ukrainian/status/1655146365868027904?t=Rqw85V55MX0Hs_kHTNAN0w)
+          - [Trefa!](https://twitter.com/PaulJawin/status/1654849522877513729?t=ChoMvQuvICR540iuLBmNGg)
+          - [Po ruském ostřelování Vuhledaru](https://twitter.com/EuromaidanPress/status/1655045035078074368?t=dHgx-VJuXuxEu_D4gCXVrw)
+          - [Zajatí Rusové chyceni v civilním autě](https://twitter.com/TreasChest/status/1654648612570247168?t=M1UY-xyXakFyfGbxtqc2QA)
+          - [Další zápalná munice na Bachmut](https://twitter.com/EuromaidanPress/status/1654958967733514240?t=VUWjArvZ5nzXsbbGRl7VxA)
+          - [Slaninaaaaa…](https://twitter.com/ukrainiansquad/status/1654819027036798977?t=S1Az8vz7aLDNREpXcEp-OQ)
+          - [Minus ruský tank](https://twitter.com/front_ukrainian/status/1655138402352656385?t=p0ywGVk_JhK_4SzH7q8LqQ)
+          - [Další do fondu](https://twitter.com/herooftheday10/status/1655131838862508034?t=Iv7J8ZcgyZNKcYBK9giA7Q)
+          - [Javeliny](https://twitter.com/front_ukrainian/status/1655128842552393729?t=tQHlhjCoR8_a_DGmhu79Pg)
+          - [Ruský dron versus ukrajinská Střela](https://twitter.com/Bodbe6/status/1654866783780626433?t=kOBliPNGqoyhdA0bHSMHfw)
+          - [Ukrajinské tanky](https://twitter.com/front_ukrainian/status/1655119586088345602?t=isDhNfM6iZS1D7X_Y39w_A)
+          - [Krásná trefa!](https://twitter.com/PaulJawin/status/1655120693569126400?t=OsOD-wdrY8OW2i9d9h4lQw)
+          - [Carl Gustaf na ruské pozice ](https://twitter.com/front_ukrainian/status/1655109357334417410?t=cSLV6_qiG0R80DY0CL31vw)
+          - [Ukrajinské dělostřelectvo versus ruské pozice v Bachmutu](https://twitter.com/Bodbe6/status/1654828328547647490?t=gY3bvJsNNgibGLjkEz1n1g)
+          - [Dron versus Rusové na Dněpru](https://twitter.com/PaulJawin/status/1654843669642465282?t=VO6SpS0SUlWkvM9Y2bt3lQ)
+          - [Západní technika v pohybu](https://twitter.com/nevedimka123/status/1655120113119395842?t=TW-XQM-5kZw6sMxUExDieg)
+          - [Bývalé ruské zákopy](https://twitter.com/DzevelinB/status/1654879763691970565?t=PbOMLyPnOt_KipAZQ-dzPQ)
       - title: "Sobota"
         year: "6. květen 2023"
         image: assets/img/timeline/2023-05-06.jpg
