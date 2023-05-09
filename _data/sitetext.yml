@@ -35,6 +35,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "9. květen 2023"
+        image: assets/img/timeline/2023-05-09.jpg
+        desc: "Rusko dnes slaví svůj „Den vítězství“, při kterém každoročně zveličuje svoje válečné úspěchy a ohýbá historii. Zatajuje například to, že druhou světovou válku společně s nacisty rozpoutalo, mlčí i o Lend-lease smlouvě, která zásadní měrou přispěla k tomu, že nacistická invaze do SSSR skončila neúspěchem. A hlavně, prezentuje svou následnou kampaň na západ jako „osvobození“, ačkoliv žádnou zemi de facto neosvobodilo, ale dobylo, rozpoutalo v ní vlastní teror a 40 let ji devastovalo. Letošní hlavní událost – vojenská přehlídka v Moskvě – ale je spíš důvodem k oslavám pro zbytek světa. Oproti minulým letům se na ní totiž představila jen zhruba třetina vozidel, pochodovali hlavně kadeti a veteráni a v celé koloně se představil jeden jediný tank: druhoválečná T-34-85, která tradičně přehlídku vozidel zahajuje. Chyběly tu Armaty i současné verze tanků T-90 Proryv, Z 51 vozidel navíc 10 dodali kadyrovci. I proruští komentátoři jsou z celé show, mírně řečeno, rozčarováni. Tradiční ukazování svalů působilo legračně. A to je jedině dobře. Teď [pár aktualit]():"
+        detail: |
+          - Putin ve svém projevu na moskevské přehlídce mimo jiné prohlásil, že „jakákoliv ideologie, která hlásá nadřazenost, je odporná, zločinná a smrtící“. Nicméně ne, nemluvil teď o vztahu Rusů vůči Ukrajincům. Jak sám vysvětlil, podle něj je tento problém problémem Západu, protože západní koalice je přesvědčená o své nadřazenosti. Malá rada: pokud je problém, že Západ se vidí jako kulturnější a rozvinutější část světa, možná je lepší takovou představu neživit. Třeba kradením praček a záchodů na dobytých územích. Putin také prohlásil, že skutečná válka je ta, kterou „Západ rozpoutal proti Rusku s cílem ho zničit“. Fašistické státy zkrátka vždycky prezentují sami sebe nikoliv jako agresora, ale jako oběť, aby ospravedlnili jakoukoliv brutalitu, kterou provádí. 
+          - Prigožin opět tlačil na ruské ministerstvo obrany, aby mu dodalo munici. Pokud se tak nestane, má v plánu zveřejnit video, které odhalí „pravdu o situaci na frontě“. Podle něj také jednotky ruské pravidelné armády opustily některé pozice na křídle Bachmutu v prostoru 2 na 0,5 km, čímž otevřely Ukrajině cestu k případnému protiútoku (nejspíš na sever od Soledaru). Navíc prý ruské ministerstvo obrany sdělilo Prigožinovi, že pokud jeho vojáci opustí pozice, bude souzen za velezradu. 
+          - Ruské televize odvysílaly záběry budovy říšského sněmu v Berlíně, na které podle nich při příležitosti Dne vítězství „opět zavlála vlajka SSSR“. Na budově nicméně žádná taková vlajka nevisela, ruská televize si záběry digitálně upravila. 
+          - Stovky lidí ve Varšavě nedovolili ruskému velvyslanci, aby položil věnec na památník padlým sovětským vojákům. Namísto toho aktivisté obložili pietní místo desítkami ukrajinských vlajek a jmény některých padlých vojáků. 
+          - Zatímco v Rusku vrcholily přípravy připomínkových akcí, na Ukrajinu mířilo 25 ruských raket. 23 jich zlikvidovala ukrajinská PVO. V Dnipru raketa zranila jednu ženu – civilistku. 
+          - Rusko údajně začalo s mobilizací mladých mužů v okupovaném Mariupolu. Rusové také údajně nahrazují původní populaci města migranty ze vzdálených ruských regionů. 
+          - Británie podle deníku Washington post připravuje dodávku raket s dlouhým doletem Ukrajině. 
+          - Ukrajinci provedli úspěšný protiútok na jihu u Avdijivky a dobyli zpět dříve ztracené pozice. 
+          - Nizozemí a Dánsko společně diskutují potenciální dodávku letounů F-16 Ukrajině. 
+          - Ukrajina vytvořil 8 nových rot operátorů útočných dronů. 
+        videa: |
+          - [Poláci nepustili ruské vyslance k pietnímu místu ](https://twitter.com/nexta_tv/status/1655862876794396673)
+          - [Pěkná trefa minometem ](https://twitter.com/PaulJawin/status/1655857805172023298)
+          - [Ruský tank ničí kostel v Marjince ](https://twitter.com/Bodbe6/status/1628502263143579650)
+          - [Policie v Moldavsku pokutuje lidi se svatojiřskou stužkou](https://twitter.com/nexta_tv/status/1655843828316643328)
+          - [Bachmut](https://twitter.com/Bodbe6/status/1655672139045806094)
+          - [V krytu během dělostřelecké palby](https://twitter.com/NOELreports/status/1655820379795988484)
+          - [Luxusní trefa](https://twitter.com/PaulJawin/status/1655903846323871744)
+          - [Putin o nadřazenosti ](https://twitter.com/nexta_tv/status/1655837946774265856)
+          - [Dron zahání lišku před útokem na ruské pozice ](https://twitter.com/EuromaidanPress/status/1655679213901582336)
+          - [Dělostřelectvo versus kulometné hnízdo ](https://twitter.com/front_ukrainian/status/1655648362769571861)
+          - [Partyzáni podpálili letadlo Rusům přímo u fabriky](https://twitter.com/PaulJawin/status/1655861032567414786)
+          - [Mínus kadyrovci (citlivé)](https://twitter.com/herooftheday10/status/1655826093994041347)
+          - [Demobilizace Rusů o Bilohorivky](https://twitter.com/PaulJawin/status/1655834801985712131)
+          - [Mínus osm okupantů ](https://twitter.com/herooftheday10/status/1655689204012138497)
+          - [Jak Rusové nechali svého ležet tři dny zraněného v poli](https://twitter.com/ne_vluchiv/status/1655744810764910592)
+          - [Cesta do Bachmutu](https://twitter.com/TarmoFella/status/1655906826221748226)
       - title: "Pondělí"
         year: "8. květen 2023"
         image: assets/img/timeline/2023-05-08.jpg
