@@ -35,6 +35,47 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "11. květen 2023"
+        image: assets/img/timeline/2023-05-11.jpg
+        desc: "Zelenský v posledním rozhovoru komentoval chystanou ofenzivu. Podle něj má Ukrajina už nyní dostatek prostředků na to, aby zaútočila a uspěla, ale znamenalo by to velké ztráty na životech, což považuje za neakceptovatelné. Proto chce ještě ofenzivu pozdržet a mít jistotu, že bude na bojišti technika a výbroj, která dokáže ztráty minimalizovat. Mluvčí amerických sil Donnell informoval, že Ukrajina obdržela od Spojenců na 600 různých druhů zbraní a techniky a disponuje tak nyní větším množstvím různých typů výzbroje než jakákoliv jiná armáda světa. Teď ještě aby těch kusů bylo dohromady dost. Tady jsou [dnešní novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02KAv8Bg1knYxDSs7rb1bYctY7hUNMfMQgRwjdrC1uTbdBCqikcBP4AwS1G3tZGybal):"
+        detail: |
+          - Mluvčí Kremlu Peskov do médií prohlásil, že Rusko postupuje velmi pomalu proto, že neválčí, ale vede „speciální operaci“. Vést válku by podle něj znamenalo srovnávat celá města se zemí, což prý nyní Rusko nedělá, ale snaží se naopak ochránit civilní infrastrukturu a životy lidí. Nechávám bez komentáře. 
+          - Protikorupční fond objevil, že rodina Borise Obnosova, ředitele ruské JSC Tactical Missiles Corporation vyrábějící naváděné rakety, vlastní v Praze historický dům v centru v Prahy v hodnotě okolo 150 mil. Kč a také luxusní apartmán v projektu „Panorama“ v hodnotě 26 milionů korun. 
+          - Británie už údajně dodala Ukrajině naváděné střely Storm Shadow s doletem až 300 km. Pokud je to pravda, pak Ukrajina aktuálně disponuje zbraněmi, které jsou schopné zasáhnout cíl kdekoliv na okupovaném území včetně celého Krymu, a stejně tak i hluboko za hranicí s Ruskem. 
+          - Titulka deníku New York Times včera hlásila: „Vladimír Putin je nejnebezpečnější blázen světa“. Podle autora, držitele tří Pulitzerových cen Thomase Friedmana, dostal Putin sám sebe do situace, kdy nemůže vyhrát, ale nesmí prohrát ani válku zastavit. 
+          - Polská jazyková komise rozhodla, že Kaliningradu se v polštině bude bez výjimky říkat Królewiec. Rusko to okamžitě označilo za provokaci „hraničící s šílenstvím“. 
+          - Kapela Imagine Dragons natočila na Ukrajině videoklip k písničce „Crushed“. Jejím hrdinou je 14letý Saša, který strávil 5 měsíců pod ruskou okupací. 
+          - Dva ukrajinské drony včera zasáhli výcvikové středisko v ruské Voroněži. Při útoku bylo podle místních médií zraněno 14 vojáků. 
+          - Putin nechal obnovit linkové lety do Gruzie a zrušil vízovou povinnost pro Gruzínce. Gruzínská prezidentka to označila za provokaci. 
+          - Ukrajinský soud poslal na 8 let za mříže člověka, který během ruské okupace vykonával roli dozorce v jedné z mučíren u Chersonu. 
+          - Obyvatel Uralsku v Kazachstánu byl potrestán 10 dny vězení za to, že 9. května k památníku maršála Žukova přinesl toaletní mísu. 
+          - Ukrajinští hackeři se nabourali do vysílání v mnoha ruských městech a pustili Rusům Zelenského projev. 
+          - Česko poskytne Ukrajině dvě baterie modernizovaného protivzdušného systému Kub. 
+          - Americké soudy umožní převést zabavené prostředky oligarchy Malofjeva Ukrajině. 
+          - Ukrajinci údajně u Bachmutu postoupili o další kilometr. 
+          - Ukrajinský dron zasáhl skladiště paliva u Brjansku. 
+        videa: |
+          - [Ruští ultras si udělali hezký den na stadionu v Mariupolu](https://twitter.com/NOELreports/status/1656385308542287875)
+          - [Protiútok u Bachmutu](https://twitter.com/IAPonomarenko/status/1656335226446938118)
+          - [Rusky napadly v Berlíně člověka s ukrajinskou vlajkou](https://twitter.com/myrodovh/status/1656456135677820932)
+          - [Kolona ukrajinských BTR-4](https://twitter.com/front_ukrainian/status/1656553474228666368)
+          - [Ukrajinský tank v Bachmutu](https://twitter.com/EuromaidanPress/status/1656327845579194368)
+          - [Sestřelený Kinžál](https://twitter.com/front_ukrainian/status/1656365081167273985)
+          - [Kinžál na součástky](https://twitter.com/front_ukrainian/status/1656304239264636929)
+          - [Čištění ruských zákopů](https://twitter.com/Bodbe6/status/1656290992721391619)
+          - [Dopad bomb na Beryslav](https://twitter.com/TreasChest/status/1656371397260636162)
+          - [Ukrajinský útok ze zálohy](https://twitter.com/11Knuk123/status/1656544511487516673)
+          - [Zajímání ](https://twitter.com/Bodbe6/status/1656290466386550785)
+          - [Rusové v Kamjance](https://twitter.com/NOELreports/status/1656403707825643520)
+          - [Mínus ruská technika u Bachmutu](https://twitter.com/UAWeapons/status/1656296809487007744)
+          - [Turecké kobry na Ukrajině](https://twitter.com/front_ukrainian/status/1656535135750176770)
+          - [Boje v Bachmutu](https://twitter.com/Bodbe6/status/1656429624006520832)
+          - [Ruský šrot](https://twitter.com/front_ukrainian/status/1656381236795899908)
+          - [Samí Leopardi!](https://twitter.com/nevedimka123/status/1656369663264309249)
+          - [Demobilizace](https://twitter.com/herooftheday10/status/1656544620279373824)
+          - [Kořistní tank](https://twitter.com/front_ukrainian/status/1656324824132665346)
+          - [Stugna versus pěchota](https://twitter.com/Bodbe6/status/1656335035929165825)
       - title: "Úterý"
         year: "10. květen 2023"
         image: assets/img/timeline/2023-05-10.jpg
