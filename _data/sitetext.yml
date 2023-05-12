@@ -35,7 +35,56 @@ timeline:
     section: timeline
     start_align: "left"
     events:
-      - title: "Středa"
+      - title: "Pátek"
+        year: "12. květen 2023"
+        image: assets/img/timeline/2023-05-12.jpg
+        desc: "Ruské vojenské kanály od včerejšího podvečera panikaří, že Ukrajinci spustili ofenzivu a snaží se obklíčit Bachmut. I když je pravda, že ukrajinské jednotky využily špatného stavu ruských jednotek na křídlech Bachmutu a provedly sérii úspěšných výpadů, zatím to nevypadá na hlavní ofenzivu. CNN ale s odvoláním na zdroj v Pentagonu tvrdí, že to, co vidíme, jsou formovací operace, které mají bojiště připravit na hlavní úder. Ukrajinské kanály dodržují informační embargo a je proto složité situaci přesně číst. Prigožin nicméně ve svých komentářích uvedl, že „situace na křídlech Bachmutu se vyvíjí podle nejhoršího možného scénáře“ a nemá prý další personál, který by mohl křídla posílit. [Novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0BgUpHvDZ19wNSTirhmRwYSmMGgkBQk1BM85dBSTvffCJ94T8bSs7PBFUx3umxJLFl)"
+        detail: |
+          - V Rusku zase hoří. V Norilsku vzplanul areál skladišť o rozloze 3 000 metrů čtverečních. V Moskvě hoří závod, který vyrábí mimo jiné také motory do stíhacích letounů MiG. Hoří i závod na zpracování odpadu v Dzeržinsku. Hoří také obří plocha Sibiře, kterou aktuálně nemá kdo hasit, protože v minulých letech s hašením významně pomáhala ruská armáda. 
+          - Ukrajinské úřady přinesly svědectví o válečném zločinu, který se odehrál v Izjumu. Ruský major tu zabil 36letou ženu za to, že „ignorovala jeho komplimenty“. Podle svědků se ženě dvořil, a když ho odmítla, střelil ji z bezprostřední blízkosti do hrudníku. Žena pak střelnému zranění podlehla. 
+          - Podle průzkumu jen 10 % voličů Orbána viní z vypuknutí války na Ukrajině Rusko. 36 % viní Ukrajinu a čtvrtina si pak myslí, že válku rozpoutaly Spojené státy. Fidesz. SPD made in Hungary. 
+          - Včera a rok nazpátek se Rusové pokusili překročit Siverský Doněc u Bilohorivky, přičemž je doslova rozmetalo ukrajinské dělostřelectvo a ztratili desítky kusů těžké vojenské techniky. 
+          - V pořadu na ruské státní televizi její moderátor zcela vážně formuloval myšlenku, že polský premiér Morawiecki byl možná uměle „vyroben“ Američany a cíleně „nakažen rusofobií“. 
+          - Ruská Vyšetřovací komise plánuje přidat předsedu trestního tribunálu v Haagu a tři soudce, kteří se podíleli na vydání zatykače na diktátora Putina, na seznam hledaných osob. 
+          - Spojené státy oznámily, že jsou připravené vyhovět požadavkům Ukrajiny na konkrétní techniku, kterou potřebuje k úspěšné ofenzivě, pokud si o ni Ukrajina řekne. 
+          - Ukrajinské ministerstvo obrany potvrdilo, že včera ukrajinské jednotky postoupily v jednom ze směrů o 2 km a zároveň neztratily žádné vlastní pozice. 
+          - Rusové v dubnu dobyli pouhých 17 km2 území za cenu cca 16 500 ztrát. Tedy ztratili téměř tisíc lidí na každý dobytý kilometr čtvereční. 
+          - Hlava ruské Vyšetřovací komise navrhuje, aby byli na frontu povoláni všichni migranti, kteří obdrželi ruské občanství. 
+          - Polský parlament jednomyslně schválil potenciální přijetí Ukrajiny do NATO ve zrychleném řízení. 
+          - Do Německa dorazily tanky Abrams, na kterých se nyní budou cvičit ukrajinské posádky. 
+          - Ukrajinci zasáhli cíl v okupovaném Melitopolu. Obyvatelé hlásí jednu silnou explozi. 
+          - Belgorodem v noci otřásla mohutná exploze. Není ale jasné, co bylo zasaženo. 
+          - Zelenský se údajně má zítra setkat ve Vatikánu s Papežem. 
+          - Všechny slíbené britské Challengery 2 už jsou na Ukrajině. 
+        videa: |
+          - [Ukrajinci při kopání zákopů objevili ostatky vojáka z druhé světové ](https://twitter.com/nexta_tv/status/1656631466564935680)
+          - [Dron asistuje ukrajinskému útoku](https://twitter.com/INTobservers/status/1656936880003317760)
+          - [Hořící Sibiř](https://twitter.com/AnonOpsSE/status/1656785109951868931)
+          - [Marjinka, město duchů ](https://twitter.com/front_ukrainian/status/1656972398669840386)
+          - [Ukrajinský tank v Bachmutu ](https://twitter.com/NOELreports/status/1656648203343745026)
+          - [Ruský výpad skončil neúspěchem](https://twitter.com/Bodbe6/status/1656791825737302017)
+          - [Požár v Moskvě](https://twitter.com/NOELreports/status/1656934158336131072)
+          - [Ukrajinské Grady u Bachmutu](https://twitter.com/front_ukrainian/status/1656902414652301312)
+          - [Ukrajinské Točky](https://twitter.com/EuromaidanPress/status/1656841875054108674)
+          - [Další se vzdal ](https://twitter.com/666_mancer/status/1656704843308843011)
+          - [3. šturmová jde do akce](https://twitter.com/Bodbe6/status/1656660142597996553)
+          - [MiG-29 ](https://twitter.com/EuromaidanPress/status/1656691786536955909)
+          - [Kupředu!](https://twitter.com/TreasChest/status/1656797655010344961)
+          - [Ukrajinský šturm ](https://twitter.com/front_ukrainian/status/1656942767824666624)
+          - [Dvě trefy](https://twitter.com/666_mancer/status/1656900678743105536)
+          - [Kraken na frontě](https://twitter.com/Feher_Junior/status/1656774151233757186)
+          - [Ukrajinský útok](https://twitter.com/NOELreports/status/1656939036592709633)
+          - [Rus zapaluje les, „jinak to udělá NATO, až přijde“…](https://twitter.com/kvistp/status/1656292662801047552)
+          - [Trefa!](https://twitter.com/front_ukrainian/status/1656903266490368000)
+          - [Přestřelka](https://twitter.com/Bodbe6/status/1656811471391666177)
+          - [Demobilizace](https://twitter.com/nevedimka123/status/1656710865184342032)
+          - [Mínus Tor](https://twitter.com/front_ukrainian/status/1656728408888311838)
+          - [Ukrajinci kdesi ve štolách ](https://twitter.com/666_mancer/status/1656897646651473920)
+          - [Šturm](https://twitter.com/front_ukrainian/status/1656715808414760977)
+          - [Mínus Pantsir](https://twitter.com/Bodbe6/status/1656712890194313244)
+          - [Ruské ztráty (citlivé!)](https://twitter.com/nevedimka123/status/1656931235426365441)
+          - [Demobilizace pomocí děl (citlivé)](https://twitter.com/2uwmp/status/1656753570048274438)
+      - title: "Čtvrtek"
         year: "11. květen 2023"
         image: assets/img/timeline/2023-05-11.jpg
         desc: "Zelenský v posledním rozhovoru komentoval chystanou ofenzivu. Podle něj má Ukrajina už nyní dostatek prostředků na to, aby zaútočila a uspěla, ale znamenalo by to velké ztráty na životech, což považuje za neakceptovatelné. Proto chce ještě ofenzivu pozdržet a mít jistotu, že bude na bojišti technika a výbroj, která dokáže ztráty minimalizovat. Mluvčí amerických sil Donnell informoval, že Ukrajina obdržela od Spojenců na 600 různých druhů zbraní a techniky a disponuje tak nyní větším množstvím různých typů výzbroje než jakákoliv jiná armáda světa. Teď ještě aby těch kusů bylo dohromady dost. Tady jsou [dnešní novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02KAv8Bg1knYxDSs7rb1bYctY7hUNMfMQgRwjdrC1uTbdBCqikcBP4AwS1G3tZGybal):"
@@ -76,7 +125,7 @@ timeline:
           - [Demobilizace](https://twitter.com/herooftheday10/status/1656544620279373824)
           - [Kořistní tank](https://twitter.com/front_ukrainian/status/1656324824132665346)
           - [Stugna versus pěchota](https://twitter.com/Bodbe6/status/1656335035929165825)
-      - title: "Úterý"
+      - title: "Středa"
         year: "10. květen 2023"
         image: assets/img/timeline/2023-05-10.jpg
         desc: "U Bachmutu se rýsuje zajímavý vývoj. Prigožin informoval, a následně jeho informace potvrdila i ukrajinská strana, že ruská 72. samostatná motostřelecká brigáda včera doslova utekla ze svých pozic na jižní straně Bachmutu o Ivanivského. Ukrajincům se pak podařilo prorazit obrannou linií Rusů do hloubky zhruba 3x2,6 km a následně úplně zničit mechanizovaný protiútok Rusů a wagnerovců. Prigožin tvrdí, že během střetů bylo zabito až pět stovek jeho vojáků, z čehož viní právě zmíněnou 72. brigádu. Sama 72. brigáda údajně přišla během prvotního útoku o dvě celé roty. Ukrajinci dodávají, že navíc velké množství bojovníků zajali. Ukrajinský útok nejspíš není součástí nějaké větší operace, ale i tak zasadil velmi tvrdou ránu ruským silám v okolí Bachmutu. Tak držme palce, a jen houšť! A teď [pár dalších novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid071kJ1oJx4KHko9xLqsyaUy3tWWx8nAfu7CBP4XgW3ZiHXwAZrxHzQ1cmAtYH4govl):"
@@ -124,7 +173,7 @@ timeline:
       - title: "Úterý"
         year: "9. květen 2023"
         image: assets/img/timeline/2023-05-09.jpg
-        desc: "Rusko dnes slaví svůj „Den vítězství“, při kterém každoročně zveličuje svoje válečné úspěchy a ohýbá historii. Zatajuje například to, že druhou světovou válku společně s nacisty rozpoutalo, mlčí i o Lend-lease smlouvě, která zásadní měrou přispěla k tomu, že nacistická invaze do SSSR skončila neúspěchem. A hlavně, prezentuje svou následnou kampaň na západ jako „osvobození“, ačkoliv žádnou zemi de facto neosvobodilo, ale dobylo, rozpoutalo v ní vlastní teror a 40 let ji devastovalo. Letošní hlavní událost – vojenská přehlídka v Moskvě – ale je spíš důvodem k oslavám pro zbytek světa. Oproti minulým letům se na ní totiž představila jen zhruba třetina vozidel, pochodovali hlavně kadeti a veteráni a v celé koloně se představil jeden jediný tank: druhoválečná T-34-85, která tradičně přehlídku vozidel zahajuje. Chyběly tu Armaty i současné verze tanků T-90 Proryv, Z 51 vozidel navíc 10 dodali kadyrovci. I proruští komentátoři jsou z celé show, mírně řečeno, rozčarováni. Tradiční ukazování svalů působilo legračně. A to je jedině dobře. Teď [pár aktualit]():"
+        desc: "Rusko dnes slaví svůj „Den vítězství“, při kterém každoročně zveličuje svoje válečné úspěchy a ohýbá historii. Zatajuje například to, že druhou světovou válku společně s nacisty rozpoutalo, mlčí i o Lend-lease smlouvě, která zásadní měrou přispěla k tomu, že nacistická invaze do SSSR skončila neúspěchem. A hlavně, prezentuje svou následnou kampaň na západ jako „osvobození“, ačkoliv žádnou zemi de facto neosvobodilo, ale dobylo, rozpoutalo v ní vlastní teror a 40 let ji devastovalo. Letošní hlavní událost – vojenská přehlídka v Moskvě – ale je spíš důvodem k oslavám pro zbytek světa. Oproti minulým letům se na ní totiž představila jen zhruba třetina vozidel, pochodovali hlavně kadeti a veteráni a v celé koloně se představil jeden jediný tank: druhoválečná T-34-85, která tradičně přehlídku vozidel zahajuje. Chyběly tu Armaty i současné verze tanků T-90 Proryv, Z 51 vozidel navíc 10 dodali kadyrovci. I proruští komentátoři jsou z celé show, mírně řečeno, rozčarováni. Tradiční ukazování svalů působilo legračně. A to je jedině dobře. Teď [pár aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02hqokb2fNCBw3ijwgRoFKdDShhkPEPaN3ybANJTnmMtLQjXu3Sct2LkwcyVDqDjerl):"
         detail: |
           - Putin ve svém projevu na moskevské přehlídce mimo jiné prohlásil, že „jakákoliv ideologie, která hlásá nadřazenost, je odporná, zločinná a smrtící“. Nicméně ne, nemluvil teď o vztahu Rusů vůči Ukrajincům. Jak sám vysvětlil, podle něj je tento problém problémem Západu, protože západní koalice je přesvědčená o své nadřazenosti. Malá rada: pokud je problém, že Západ se vidí jako kulturnější a rozvinutější část světa, možná je lepší takovou představu neživit. Třeba kradením praček a záchodů na dobytých územích. Putin také prohlásil, že skutečná válka je ta, kterou „Západ rozpoutal proti Rusku s cílem ho zničit“. Fašistické státy zkrátka vždycky prezentují sami sebe nikoliv jako agresora, ale jako oběť, aby ospravedlnili jakoukoliv brutalitu, kterou provádí. 
           - Prigožin opět tlačil na ruské ministerstvo obrany, aby mu dodalo munici. Pokud se tak nestane, má v plánu zveřejnit video, které odhalí „pravdu o situaci na frontě“. Podle něj také jednotky ruské pravidelné armády opustily některé pozice na křídle Bachmutu v prostoru 2 na 0,5 km, čímž otevřely Ukrajině cestu k případnému protiútoku (nejspíš na sever od Soledaru). Navíc prý ruské ministerstvo obrany sdělilo Prigožinovi, že pokud jeho vojáci opustí pozice, bude souzen za velezradu. 
