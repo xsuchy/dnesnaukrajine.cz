@@ -35,6 +35,52 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "13. květen 2023"
+        image: assets/img/timeline/2023-05-13.jpg
+        desc: "Přejete si něco? Z nebe padají ruská letadla a helikoptéry. Už včera se zřítila ruská helikoptéra Mi-28 na okupovaném Krymu, dnešek byl ale ještě výživnější. V ruské Brjanské oblasti došlo v pádu hned dvou stíhacích letadel (Su-34 a Su-35S) a dvou helikoptér Mi-8. Navíc to vypadá, že všechny čtyři sestřelila ruská protivzdušná obrana. Pak že ruská PVO stojí za prd! Tady si připsala stoprocentní úspěšnost. A pak se stalo [ještě tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02HzzLPKVErfL1Zf5LS4AxxH6UTzQ36KgeDYvKs8WzseHxZ7pVc8yyqu8G6135AAytl):"
+        detail: |
+          - Ukrajinci zasáhli strojní závod 90 km hluboko za frontou v okupovaném Luhansku, který hostil ruskou základnu, a prakticky základnu celou zničili. Podle úlomků raket, které byly na místě nalezeny, použili Ukrajinci při útoku klamné cíle, americké rakety ADM-160, s cílem paralyzovat ruskou PVO, což se očividně podařilo. Během útoku byl zraněn také poslanec ruské Státní dumy Viktor Vodolackij. Rusové tvrdí, že úder provedla raketa Storm Shadow. To by ale znamenalo, že Britové rakety dodali mnohem dříve, než dodání oficiálně oznámili. 
+          - Rusové v noci opět útočili pomocí íránských dronů. Tentokrát několik z nich zasáhlo cíle ve střední a jižní Ukrajině. Zásahy hlásí Mykolajiv a také Chmelnickyj, kde měla být zasažena kritická infrastruktura – podle exploze nejspíše elektrárna nebo skladiště paliva. Zraněno bylo také nejméně 21 lidí. Drony mířící na Kyjev se naopak podařilo zneškodnit všechny.
+          - Ukrajincům se během současných lokálních protiútoků u Bachmutu podařilo během tří dnů dobýt zpět 17 km2 území, které předtím Rusům dobývali několik týdnů a za cenu ohromných ztrát. Zároveň tím opět otevřeli bezpečnou cestu pro zásobovací konvoje do Bachmutu. 
+          - Podle deníku Spiegel chystá Německo další velký balík vojenské pomoci v hodnotě okolo 2,7 miliard eur. Obsahovat by mohl 20 vozidel Marder, 30 tanků Leopard 1, 18 samohybných kolových děl a další 4 baterie systému IRIS-T. 
+          - Německý Rheinmetall a ukrajinský Ukroboronprom vytvořily společný subjekt, který bude v budoucnu nejen opravovat, ale také vyrábět tanky, a to přímo na územní Ukrajiny. 
+          - Ukrajinské ministerstvo obrany na Twitteru zveřejnili text, ve kterém upozorňuje na skutečnost, že ruské válečné lodě v Sevastopolu jsou od fronty vzdálené 298 km a 700 metrů. 
+          - Podle CNN sestřelili Ukrajinci ruskou raketu Kinžal pomocí systému Patriot, když se ta naopak pokoušela zasáhnout baterii systému Patriot a zneškodnit ji. 
+          - Partyzáni v Melitopolu podnikli úspěšný bombový atentát na samozvaného ministra pro výstavbu okupované Záporožské oblasti. 
+          - EU plánuje položit v Černém moři podvodní internetový kabel, aby se Gruzie mohla částečně zbavit závislosti na ruské síti. 
+          - Prigožin se vysmál tvrzením ruského ministerstva obrany o ústupu na severu Bachmutu a nazval incident úprkem. 
+          - Spojené státy obvinily Jihoafrickou republiku z dodávek zbraní a munice Rusku. JAR to dnes popřela. 
+          - Evropská unie navrhuje zastavit dodávky ropy přes ropovod Družba do Polska a Německa. 
+          - Rusové oznámili evakuaci obyvatel z části Charkovské oblasti, kterou stále okupují. 
+          - Kypr cvičí ukrajinské vojáky, kteří budou po válce pracovat na odstraňování min. 
+          - Oleksandr Chmil, ukrajinská hokejová hvězda, padl v bojích u Bachmutu. 
+          - Zelenský dorazil do Říma na setkání s italskými politiky a Papežem.
+        videa: |
+          - [Exploze ve Chmelnickém ](https://twitter.com/nexta_tv/status/1657262080758538243)
+          - [Útok na ruské pozice ](https://twitter.com/front_ukrainian/status/1657080946422579202)
+          - [Základna v Luhansku](https://twitter.com/EuromaidanPress/status/1657143864816173058)
+          - [Něco si přejte! ](https://twitter.com/nexta_tv/status/1657351750590902272)
+          - [Padá ruská stíhačka. ](https://twitter.com/nexta_tv/status/1657344338962051073)
+          - [Jiný úhel](https://twitter.com/Gerashchenko_en/status/1657339475427467269)
+          - [Gratulujeme k trefě! ](https://twitter.com/EuromaidanPress/status/1657330602465538048)
+          - [Ruské ztráty](https://twitter.com/herooftheday10/status/1657044497820270592)
+          - [Místo dopadu helikoptéry](https://twitter.com/front_ukrainian/status/1657333935901122560)
+          - [Ukrajinský útok ](https://twitter.com/PaulJawin/status/1657365100225875968)
+          - [Javelin versus tank](https://twitter.com/front_ukrainian/status/1657123359891570689)
+          - [Trefa!](https://twitter.com/herooftheday10/status/1657143645051531264)
+          - [Okupant to zabalil a jde domů ](https://twitter.com/TreasChest/status/1657112518190420014)
+          - [Australská policie a Zetkař](https://twitter.com/nexta_tv/status/1657360897495449602)
+          - [Demobilizace wagnerovců ](https://twitter.com/Bodbe6/status/1657095155608870941)
+          - [Další do fondu](https://twitter.com/front_ukrainian/status/1657273007033778179)
+          - [Sever Bachmutu](https://twitter.com/EuromaidanPress/status/1657122567646224388)
+          - [Nabíjení pásů do kanónů ](https://twitter.com/INNAfo2023/status/1657144465021190144)
+          - [Jauvajs (citlivé)](https://twitter.com/herooftheday10/status/1657347661509394432)
+          - [Práce kamikaze dronů ](https://twitter.com/EuromaidanPress/status/1657089758072553472)
+          - [Zabitý francouzský novinář nedávno zachránil vyčerpaného ježka](https://twitter.com/Lyla_lilas/status/1657033622690443267)
+          - [Neptun ](https://twitter.com/front_ukrainian/status/1657295720834121728)
+          - [Mínus EW systém ](https://twitter.com/PaulJawin/status/1657373377336692737)
+          - [A zase trefa! ](https://twitter.com/herooftheday10/status/1657074125406339083) 
       - title: "Pátek"
         year: "12. květen 2023"
         image: assets/img/timeline/2023-05-12.jpg
