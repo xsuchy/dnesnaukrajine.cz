@@ -35,6 +35,53 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "14. květen 2023"
+        image: assets/img/timeline/2023-05-14.jpg
+        desc: "Girkin na svém Telegramu tvrdí, že letadla a helikoptéry sestřelené nad Ruskem byly zasaženy pomocí MANPADů. To by ale znamenalo, že přímo na ruském území nyní působí dobře vybavené a vyzbrojené ukrajinské diverzní skupiny. Proti tomu nicméně hovoří tvrzení některých analytiků, kteří upozorňují na to, že stroje se doslova dezintegrovaly ještě ve vzduchu, na což MANPADy jednoduše nemají dost silnou výbušninu. Klíčové je, že ať je pravda to, nebo to, pro Rusko to nevěstí nic dobrého. V obou případě to totiž ukazuje na absolutní nekompetence, a to buď protivzdušné obrany nebo pohraniční stráže. Ale teď už [pár aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0zdXVSwhQVLUfBdEf4xD16oXsMfcpTJSCeHqgumY6qcsiG1P84v3StwcPD7eeFWCel):"
+        detail: |
+          - Ukrajinci včera informovali a ruští blogeři dnes potvrdili, že během útoku Ukrajinců na pozice ruské 72. brigády jižně od Bachmutu byli zabiti plukovník 2. armádního sboru, 2 plukovníci 4. samostatné motostřelecké brigády a jeden raněn a vyřazeno bylo nejméně 20 dalších ruských vojáků. Velící důstojníci pravděpodobně zahynuli při úvodním dělostřeleckém přepadu. 
+          - Prigožin se na svém Telegramu pořádně rozohnil. „Speciální operaci“ nazval „stupidní válkou“, ruské vojáky označil za „nevinné oběti, které jejich nadřízení ponechali svému osudu“ a vývoj na frontě nazval „tragédií“. Zároveň prohlásil, že wagnerovci by měli vzít věci do vlastních rukou. 
+          - Podle britského ministerstva obrany má Rusko stále dost živé síly, kterou může uvést na bojiště, aby kompenzovalo dosavadní obří ztráty, nicméně půjde povětšinou o špatně vyzbrojené a téměř nevycvičené vojáky, 
+          - Japonsko poprvé v historii koketuje s myšlenkou na užší spolupráci s NATO. V Tokiu by se měl letos otevřít konzulát NATO a není vyloučené, že je to první krok země k budoucímu vstupu do Aliance. 
+          - Polské ministerstvo obrany oznámilo, že nad svým územím sledovalo objekt, který přiletěl z Běloruska. Podle předběžných informací se má jednat o ruský pozorovací horkovzdušný balón. 
+          - Ruský raketový útok na Ternopil zničil dva rodinné domy a dalších 12 poničil. Ruské kanály si nadšeně sdílely video z dopadu raket, nicméně video, které sdílely, nebylo z Ukrajiny, ale z Íránu. 
+          - Zelenský při návštěvě Itálie oznámil, že první krok v chystané ofenzivě bude podniknut už velmi brzy. Zároveň naznačil, že se podařilo vyjednat další systémy PVO pro Ukrajinu. 
+          - Ukrajinská PVO v noci na dnešek opět zasahovala proti desítkám cílů. Sestřelit se jí podařilo 25 dronů a 3 naváděné rakety. Některá města přesto hlásí zásahy. 
+          - Ruská letadla, která byla včera sestřelena u Brjansku, údajně letěla bombardovat cíle v Černihivské oblasti. Nikdo ze členů 4 posádek pád strojů nepřežil. 
+          - Bývalý ředitel moldavské policie byl obviněn z přípravy státního převratu. Celou akci měl řídit z Londýna. 
+          - Mezinárodní gymnastická federace nevpustí atlety z Ruska a Běloruska na své soutěže. 
+          - Zelenský po návštěvě Itálie a Vatikánu odletěl do Německa na další schůzky. 
+          - Německo poskytne Ukrajině dalších 105 průzkumných dronů Vektor. 
+          - Zelenský telefonicky hovořil s prezidentem Jihoafrické republiky. 
+          - Lukašenko je hospitalizován v nemocnici v Minsku. 
+        videa: |
+          - [Ukrajinský tank v Bachmutu ](https://twitter.com/EuromaidanPress/status/1657658505812402185)
+          - [Ukrajinský útok ](https://twitter.com/front_ukrainian/status/1657639360206962688)
+          - [Ruský voják dodělal práci sám ](https://twitter.com/PaulJawin/status/1657244712980316161)
+          - [Hon na tank ](https://twitter.com/Bodbe6/status/1657551246662696960)
+          - [Ukrajinský šturm ](https://twitter.com/front_ukrainian/status/1657442073623052289)
+          - [Pokračování ](https://twitter.com/front_ukrainian/status/1657443098132193281)
+          - [Třetí část a útěk Rusů ](https://twitter.com/front_ukrainian/status/1657443501569703937)
+          - [Mínus ruská pěchota](https://twitter.com/Bodbe6/status/1657551662389645313)
+          - [Exploze ve Chmelnickém ](https://twitter.com/EuromaidanPress/status/1657443786564280322)
+          - [Bachmut](https://twitter.com/NOELreports/status/1657662314206593024)
+          - [Polské tanky v ukrajinské řepce ](https://twitter.com/front_ukrainian/status/1657637910911262720)
+          - [Ruská technika se nechovala pod mostem ](https://twitter.com/PaulJawin/status/1657404641565343746)
+          - [CAESAR v akci ](https://twitter.com/front_ukrainian/status/1657466727033176064)
+          - [Ruská kolona, kterou v začátku války vyřadil jediný ukořistěný tank ](https://twitter.com/PaulJawin/status/1657400239748259842)
+          - [3. šturmová ](https://twitter.com/NOELreports/status/1657440012533747712)
+          - [Ukrajinská téosmdesátka ](https://twitter.com/front_ukrainian/status/1657422650975682560)
+          - [Ruská pěchota nemá dobrý den ](https://twitter.com/Bodbe6/status/1657409775234166785)
+          - [Demobilizace](https://twitter.com/DmytroSolenko/status/1657417288448978946)
+          - [Tři desítky mínus](https://twitter.com/front_ukrainian/status/1657396319986622464)
+          - [Mínus MT-LB](https://twitter.com/Bodbe6/status/1657397513140183042)
+          - [Rusové kdesi v krytu filozofují ](https://twitter.com/666_mancer/status/1657655597381169152)
+          - [Mínus BMP-3](https://twitter.com/PaulJawin/status/1657647040640286720)
+          - [Rusům hoří továrna Ferroni](https://twitter.com/Tendar/status/1657500780952158208)
+          - [Zajatec](https://twitter.com/666_mancer/status/1657664000044220421)
+          - [Běž, Forreste! ](https://twitter.com/PaulJawin/status/1657416713946685445)
+          - [Obrana ruin](https://twitter.com/nevedimka123/status/1657476815730929665)
       - title: "Sobota"
         year: "13. květen 2023"
         image: assets/img/timeline/2023-05-13.jpg
