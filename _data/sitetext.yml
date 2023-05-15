@@ -35,6 +35,47 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "15. květen 2023"
+        image: assets/img/timeline/2023-05-15.jpg
+        desc: "Rusové intenzivně řeší nově vzniklou logistickou noční můru, kterou představuje uvedení raket Storm Shadow na bojiště. Poté, co Ukrajinci začali používat systémy HIMARS, přesunuli Rusové prakticky všechny větší základny na pobřeží Azovského moře mimo dostřel systémů a poblíž fronty nechali jen síť menších decentralizovaných muničních skladů a základen, což už jim samo o sobě výrazně zkomplikovalo zásobování fronty, neboť ruská armáda je z podstaty velmi centralizovaná. Rakety Storm Shadow s dostřelem až 300 km, ale ohrožují veškerá ruská logistická centra, a to jak na celém okupovaném ukrajinském území, tak v samotném Rusku. Podle ruských vojenských blogerů nemá ruská armáda systémy, které by rakety Storm Shadow dokázaly včas ničit, a proto je jedinou její možností pokusit se ničit letadla, která rakety vypouští. V budoucnu se tak nejspíš objeví více úderů na ukrajinská letiště a provizorní přistávací plochy, nicméně jednak se nedá předpokládat, že by byly dvakrát účinné, a jednak je nyní zcela vážně na stole šance, že Ukrajina získá od západních partnerů moderní stíhačky. Ale o tom už [více v přehledu](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02oDPHUBUnC4oNZaobe9A42ZsNokxr1ENCyxxKZkK5CjaygiNH9VYDe3Yr75kLfpbLl):"
+        detail: |
+          - Podle deníku The Washington Post je Prigožin v pravidelném kontaktu s ukrajinskou rozvědkou. Dokonce měl prý nabídnout Ukrajincům pozice ruské armády výměnou za to, že ukrajinská armáda opustí zbylou část Bachmutu a nechá wagnerovce město obsadit. I když není vyloučeno, že k nějaké takové nabídce došlo, může jít také o zpravodajskou hru, jak se Prigožina zbavit tak, že se o něj postarají sami představitelé Ruska. 
+          - Británie začne trénovat ukrajinské piloty na svých letounech F-16. Zároveň začíná jednat se svými partnery o potenciálním poskytnutí zmíněných letounů Ukrajině. Už včera pak Británie oznámila, že dodá Ukrajině stovky útočných dronů s doletem až 200 km a další rakety pro systémy PVO. 
+          - Ruské ministerstvo obrany ve svém reportu poprvé tvrdí, že Rusové sestřelili raketu Storm Shadow. Nutno dodat, že podle stejných reportů už Rusové zničili několik systémů HIMARS. Reporty tak mají spíš propagandistický význam, než že by reflektovaly realitu na bojišti. 
+          - Moldavsko oznámilo, že stáhne svou účast v Meziparlamentním shromáždění Společenství nezávislých států. Podle mluvčího moldavského parlamentu nemůže dál sedět s Ruskem u jednoho stolu. 
+          - Plukovníci, kteří zahynuli při ukrajinském úderu na velitelský post v Kličšijivce u Bachmutu už mají jména. Jedním z nich je Jevgeny Brovko, který měl na starost politické záležitosti v ruské armádě. 
+          - Francie po návštěvě Zelenského oznámila, že dodá Ukrajině další desítky obrněných vozidel a lehkých tanků. Zároveň vycvičí několik praporů, které budou v budoucnu s vozidly operovat. 
+          - Ukrajinci včera obklíčili ruské síly v lesích jižně od Ivanivského. Rusové následně do oblasti přesunuli jednotky VDV, které se mají pokusit frontu stabilizovat. Není jasné, jak se situace dál vyvíjí. 
+          - Zelenský po Německu navštívil Británii a nyní je ve Francii. V Německu obdržel cenu Karla Velikého za přínos pro sjednocení Evropy a setkal se i s běloruskou opoziční lídryní Cichanouskou.  
+          - Generál Syrský potvrdil, že současný postup u Bachmutu, je prvním úspěchem chystané protiofenzivy.  
+          - Lukašenko se už několik dní neukázal na veřejnosti. Nevystoupil ani na tradičním „Dni vlajky“. 
+          - Rusové nad ránem zasáhli nemocnici v Avdijivce. 4 lidé při útoku zahynuli. 
+          - Okupovaný Tokmak hlásí nad ránem sérii mohutných explozí. 
+          - Norsko letos vycvičí dalších 3 200 ukrajinských vojáků. 
+        videa: |
+          - [Je to on! Tank Tomáš!!](https://twitter.com/praisethesteph/status/1658008305648693249)
+          - [Mínus Scooby-Doo van ](https://twitter.com/PaulJawin/status/1657834636792287232)
+          - [Ukrajinský šturm ](https://twitter.com/NOELreports/status/1657995733994225664)
+          - [Na Bachmut opět prší oheň](https://twitter.com/EuromaidanPress/status/1657877208973623297)
+          - [Les u Kreminné](https://twitter.com/GloOouD/status/1657815904137224192)
+          - [Rusko… ](https://twitter.com/nexta_tv/status/1657864398902362114)
+          - [Trefa do černého ](https://twitter.com/PaulJawin/status/1657979809425661952)
+          - [Zůstal jediný naživu, tak se vzdal ](https://twitter.com/albafella1/status/1657746225007931392)
+          - [Noční přesilovka](https://twitter.com/PaulJawin/status/1657777634581913601)
+          - [Pejsek s 3D tištěnou protézou ](https://twitter.com/nexta_tv/status/1657712237555990529)
+          - [Sběr zajatců ](https://twitter.com/NOELreports/status/1658064224944369666)
+          - [Rusové našli minu](https://twitter.com/front_ukrainian/status/1658035947013849088)
+          - [Unboxing](https://twitter.com/EuromaidanPress/status/1657855553974968322)
+          - [Bývalé ruské zákopy](https://twitter.com/herooftheday10/status/1657975525699203078)
+          - [Ukrajinské tanky v Bachmutu](https://twitter.com/EuromaidanPress/status/1657658505812402185)
+          - [Loučení se synem](https://twitter.com/visegrad24/status/1657353587939262464)
+          - [Mínus Pantsir](https://twitter.com/front_ukrainian/status/1658040152285929473)
+          - [Mínus tank](https://twitter.com/PaulJawin/status/1657996863096725504)
+          - [Bojové husy!](https://twitter.com/KramarenkoMari3/status/1657865955018522628)
+          - [Ukrajinský úder na Bachmut](https://twitter.com/front_ukrainian/status/1657822576884736000)
+          - [Cigárko v zajetí ](https://twitter.com/nevedimka123/status/1658062235380457473)
+          - [Bývalé ruské pozice](https://twitter.com/herooftheday10/status/1658049082282188804)
       - title: "Neděle"
         year: "14. květen 2023"
         image: assets/img/timeline/2023-05-14.jpg
