@@ -35,6 +35,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "16. květen 2023"
+        image: assets/img/timeline/2023-05-16.jpg
+        desc: "V noci na dnešek definitivně padla ruská pohádka o „nesestřelitelné hypersonické raketě“. Protivzdušná obrana nad Kyjevem měla mimořádně napilno. Rusové vyslali na hlavní město vůbec nejhustší salvu raket a dronů, pravděpodobně s cílem zničit některé systémy PVO. Celkem tak musela protivzdušná obrana v jednu chvíli zasahovat proti 6 raketám Kinžal, 9 raketám Kalibr, 3 raketám S-400 nebo Iskander, 6 dronům Shahed a 3 dronům Orlan. A poprvé od začátku války si připsala 100% úspěšnost. Zbytky raket sice i tak po dopadu poškodily některou civilní infrastrukturu, ale žádná raketa nedosáhla na svůj cíl. Videa z nočního Kyjeva v lecčem připomínala zásahy izraelského systému Iron Dome, minimálně co do počtu interceptorů, které byly v jednu chvíli vidět na obloze. Při útoku navíc nebyl nikdo zabit, došlo pouze ke třem zraněním. Trosky jedné z raket dopadly také do areálu kyjevské zoo, ale i tam se vše obešlo bez zranění. Gratuluji ukrajinské obsluze ke skvělé práci! A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02f62xihgbBuTtgQ5sGXB88yC8qpyhoNus8HBPEcRoXn8ZUKvF6eV23Tk5tEEJsPGDl):"
+        detail: |
+          - Ruské letectvo tvrdí, že jeho Su-57 včera sestřelil ukrajinský bitevník Su-24M nesoucí rakety Storm Shadow. Když pomineme, že Su-57 „Felon“ od svého vývoje téměř neviděl ostrou akci, tvrzení se až nápadně podobá podobným výrokům, kterými ruské složky uklidňovaly veřejnost po uvedení systémů HIMARS na bojiště. Ruské ministerstvo obrany navíc dnes informovalo, že sestřelilo dalších sedm raket Storm Shadow a že u Kyjeva zničilo jeden odpalovač raket systému Patriot. Jediná ta poslední informace je přitom v mezích pravděpodobnosti. Takže asi tak… 
+          - Na následky těžkého zranění šrapnelem dnes v noci, po dlouhém boji, zemřel „Taylor“, zakladatel projektu Phoenix, dobrovolník a zdravotník, který od začátku války organizoval zdravotní pomoc, školení bojových zdravotníků a osobně evakuoval raněné z první linie včetně linie u Bachmutu. Skutečný hrdina současného Česka. Čest jeho památce. 
+          - V okupovaném Luhansku včera došlo k explozi v prostorách holičství, kde se v tu dobu nacházel kolaborant Igor Kornet. Podle všeho bylo zraněno celkem pět lidí včetně Korneta, který je nyní ve vážném stavu nemocnici na oddělení intenzivní péče a bojuje o život. 
+          - Kadyrov tvrdí, že získal zpět svého koně, a to tak, že kontaktoval ukrajinskou tajnou službu, a ta následně uplatila českou policii 18 000 dolarů, aby zosnovala krádež koně a odvezla ho z Česka. Česká policie to označila za absurdní výmysl. 
+          - Maďarsko blokuje alokaci 500 miliónů euro z prostředků EPF Ukrajině. Jako důvod uvádí požadavek na záruky, že EPF zůstane globálním nástrojem a nebude určený pouze k vyzbrojování Ukrajiny. 
+          - Francie je druhou zemí, která oznámila, že dodá Ukrajině rakety s dlouhým doletem. Nejspíš půjde o střely SCALP-EG, francouzské varianty britských Storm Shadow. 
+          - Ukrajinská Národní protikorupční agentura zadržela hlavu ukrajinského Nejvyššího soudu. V době svého zadržení přebíral úplatek ve výši 2,7 miliónu dolarů. 
+          - Ukrajinský ministr obrany oznámil, že jedná s partnery s cílem získat pro ukrajinské letectvo 40-50 strojů F-16. 
+          - Putin podepsal dekret, který umožní cizincům získat ruské občanství výměnou za službu v armádě. 
+          - V Německu je nyní 31 amerických tanků Abrams, na kterých se budou cvičit ukrajinské posádky. 
+          - Rusko obnoví letecké spojení s Gruzií. Aerolinky Azimut získaly povolení od gruzínských úřadů. 
+          - 5 ruských pohraničníků bylo zraněno poté, co na jejich post v Kurské oblasti dopadl dron. 
+          - Francie dala zelenou výcviku ukrajinských pilotů na svých strojích. 
+          - Ruské síly nyní okupují 97 % administrativní plochy Bachmutu. 
+          - Macron prohlásil, že Rusko se stává vazalem Číny. 
+        videa: |
+          - [Ošetřování v Bachmutu](https://twitter.com/nevedimka123/status/1658176905781075969)
+          - [Wagnerovci vyhrožují ruskému poslanci ](https://twitter.com/nexta_tv/status/1658386653638008833)
+          - [Další do fondu](https://twitter.com/EuromaidanPress/status/1658277333730566144)
+          - [Šturm skončil zajetím Rusů ](https://twitter.com/PaulJawin/status/1658407237511966720)
+          - [A další ](https://twitter.com/PaulJawin/status/1658076415017861121)
+          - [Procházka ruským zákopem](https://twitter.com/666_mancer/status/1658372346372128768)
+          - [Další pěkná akce](https://twitter.com/NOELreports/status/1658411379051622400)
+          - [Kadyrov na tanku](https://twitter.com/nexta_tv/status/1658393236598054912)
+          - [Bachmut](https://twitter.com/nevedimka123/status/1658173771599994882)
+          - [Bradleyové!](https://twitter.com/EuromaidanPress/status/1658335214710693888)
+          - [Zkuste se nesmát](https://twitter.com/P_Wok_/status/1658190030081253416)
+          - [Mínus ruský Tulipán](https://twitter.com/EuromaidanPress/status/1658318605283622912)
+          - [Ukrajince trefila ruská ATGM a přežili](https://twitter.com/Bodbe6/status/1658128116261289988)
+          - [Mínus tank](https://twitter.com/EuromaidanPress/status/1658308035847266305)
+          - [Ukrajinský Flanker](https://twitter.com/front_ukrainian/status/1658369132130123779)
+          - [Bitva o Silnici života ](https://twitter.com/PaulJawin/status/1658407237511966720)
+          - [Vasylek ](https://twitter.com/666_mancer/status/1658366950374768642)
+          - [Počasí na bojišti ](https://twitter.com/nevedimka123/status/1658406987279785986)
       - title: "Pondělí"
         year: "15. květen 2023"
         image: assets/img/timeline/2023-05-15.jpg
