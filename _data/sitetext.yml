@@ -35,6 +35,61 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "18. květen 2023"
+        image: assets/img/timeline/2023-05-18.jpg
+        desc: "Spojené státy víceméně potvrdily, že při posledním raketovém útoku na Kyjev byl lehce poškozen jeden z odpalovačů raket systému Patriot. Podle informací agentury AFP byl ale ještě ten samý den opraven a znovu uveden do provozu. Zajímavá je ruská verze stejného incidentu. Rusové nejprve včera tvrdili, že Ukrajinci nemohli sestřelit vícero Kinžálů, protože prý v celé salvě byl Kinžál jen jeden. Dnes ale úplně otočili a nově ruské ministerstvo obrany informovalo, že při útoku Kinžály na Kyjev bylo zničeno pět odpalovačů raket Patriot a multifunkční radarová stanice. Ruská propaganda by si měla vybrat, která lež bude ta oficiální. Nemůžou to být obě současně. Komickou tečku tomu nicméně dodává informace, že Rusové zatkli tři konstruktéry, kteří se podíleli na vývoji raket Kinžál, a obvinili je z velezrady, za což jim hrozí až doživotní tresty. Cha. A teď [pár dalších zpráv](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02K1kGwmNbMhC8q2VzY8Njqx3Edw9gGZW3rMx2fsYLhUw99CV9CGrSogvf29T6L7VBl):"
+        detail: |
+          - Americké úřady zadržely a obvinily pachatele, který na synagogu v Detroitu a vedle stojící kočárek namaloval hákové kříže, antisemitské nápisy a slovo „Azov“. Čekáte sympatizanta Ukrajiny? Ale kdeže, dostanete Baldu. Pachatelem je Lucile Nord, 35letá Američanka, která v minulosti strávila 2 roky v Srbsku, kde se radikalizovala. Svým činem chtěla odradit Američany od podpory Ukrajiny. Klasicky v duchu hesla „když nemáme nacisty, tak si je musíme vymyslet“. 
+          - Maďarsko tvrdí, že zablokovalo balíček finanční pomoci Ukrajině v odvetě za to, že Ukrajina zařadila jednu z maďarských bank na seznam sponzorů ruské války kvůli jejím aktivitám v Rusku, respektive dává si odstranění banky z onoho seznamu za podmínku pro odblokování balíčku. Zároveň se Maďarsko nepřipojilo k vytvoření registru škod způsobených Rusy, pro jehož vytvoření se vyslovilo 43 evropských zemí Rady Evropy. 
+          - Kadyrov si nejspíš uvědomil, že jeho historka o podplácení ukrajinských tajných služeb a české policie kvůli navrácení koně by mohla být vnímána jako vlastizrada a nově tvrdí, že jeho muži odvezli koně přes hranice ještě, než si bezpečnostní složky vyjasnily, jak k nabídce přistupovat. Zároveň Kadyrov natočil video, na kterém má být právě onen zmizelý kůň. 
+          - Rusové v noci na dnešek vyslali další velkou salvu raket na kyjevská města. Rakety Kalibr a Iskander-K mířící na Kyjev se podle ukrajinských vzdušných sil opět podařilo zničit do poslední. Celkem mělo být zničeno 29 ze 30 raket. Exploze byly slyšet nad Vinickou, Chmelnickou a Kyjevskou oblastí. Není jisté, co raketa, která proletěla, zasáhla.
+          - Rusové tvrdí, že při raketovém útoku na Mykolajiv zasáhli ukrajinský muniční sklad. Podle videí a fotek z města ale Rusové trefili jeden supermarket, areál autosalonu a zemědělský objekt. Ani v jednom případě nebyly vidět nebo slyšet sekundární exploze, které by ukazovaly na zásah munice. 
+          - Kyrgyzstán zadržel žoldáka, který bojoval na Ukrajině za „LLR“, aby získal ruský pas. Soudy ho následně odsoudily k 10 letům vězení, protože stejně jako ve většině zemí světa Kyrgyzstán neumožňuje lidem službu v cizích armádách. 
+          - Rusové zasáhli několik mostů západně od Bachmutu. Zřejmě tedy definitivně upustili od svých původních plánů obsadit Bachmut a pokračovat ve výpadech dále na západ. 
+          - Partyzáni na Krymu vyhodili do vzduchu železnici na trase Simferopol-Sevastopol. Následně na poškozeném úseku vykolejilo pět vagónů projíždějícího vlaku. 
+          - Rusko oznámilo, že poskytne Íránu půjčku ve výši 1,3 miliardy eur na výstavbu železniční tepny. Můžeme se jenom domnívat, co za to Írán poskytne Rusku. 
+          - Muži, který na pražské demonstraci nesl na batohu nášivky „Z“ a logo wagnerovců, uložil soud podmínku a roční zákaz vstupu do Prahy. 
+          - Česko vypovědělo smlouvy s Ruskem, které umožňovali Rusům využívat bezplatně některé objekty a pozemky v Česku. Rusové hrozí odvetou. 
+          - Bývalý člen amerických speciálních sil Nicholas Maimer, který bojoval v řadách Ukrajiny, byl zabit dělostřeleckou palbou u Bachmutu. 
+          - Budanov oznámil, že jedním z cílů ukrajinské ofenzivy bude, vytvořit v Rusku demilitarizované pásmo o šíří alespoň 100 km.
+          - Ukrajinec původem z Burjatska odešel od soudu z doživotním trestem za napomáhání Rusům v navádění raket na Lvov. 
+          - Běloruský pluk hlásí, že při jedné z akcí u Bachmutu byl zabit jejich bojovník a čtyři další se pohřešují. 
+          - Jedna z ruských raket Kalibr, vypálených z Černého moře, dopadla ještě na okupovaném Krymu. 
+          - Ruské dělostřelectvo zabilo v Zelenivce u Chersonu 4 lidi včetně šestiletého dítěte.
+          - Francouzský senát označil sovětský Holodomor za genocidu ukrajinské populace.
+        videa: |
+          - [Ukrajinský tank předčasně ukončil Rusům smlouvy](https://twitter.com/RALee85/status/1659063494300377088)
+          - [Přestřelka na metr daleko, 1:0 pro Ukrajinu ](https://twitter.com/PaulJawin/status/1658921293012402188)
+          - [Sestřelený Kalibr u Kyjeva](https://twitter.com/front_ukrainian/status/1659097103086284800)
+          - [Když ti velitel zachrání krk ](https://twitter.com/Bodbe6/status/1658872910751072259)
+          - [Voják natočil moment, kdy byl raněn ](https://twitter.com/front_ukrainian/status/1658869586165481473)
+          - [Ukrajinský útok a vlastní ztráty](https://twitter.com/INTobservers/status/1658842006548881408)
+          - [Sabotéři vyřadili železnici u Kazaně](https://twitter.com/nexta_tv/status/1659130257587183617)
+          - [Sakra blízko](https://twitter.com/Bodbe6/status/1658994273839116289)
+          - [Ukrajinské posily přebírají pozice u Bachmutu](https://twitter.com/Bodbe6/status/1658996886659891201)
+          - [Vlak u Simferopolu](https://twitter.com/Fbeyeee/status/1659092162309439490)
+          - [Stinger versus dron](https://twitter.com/front_ukrainian/status/1659088300831907841)
+          - [Demobilizace ](https://twitter.com/2uwmp/status/1658954163546357768)
+          - [Ruská palba na Bachmut](https://twitter.com/Bodbe6/status/1658811475626979328)
+          - [Trefa!](https://twitter.com/PaulJawin/status/1658936083734831107)
+          - [Začistka](https://twitter.com/NOELreports/status/1659137735091793920)
+          - [Na frontě](https://twitter.com/Bodbe6/status/1658990593169555461)
+          - [Krásný sestřih](https://twitter.com/666_mancer/status/1659117354280779778)
+          - [Mínus tank](https://twitter.com/front_ukrainian/status/1659109301326061568)
+          - [Razie v karaoke klubu na Krymu, kde hosté nesměli zpívat ruskou hymnu ](https://twitter.com/NatalkaKyiv/status/1658868369964118016)
+          - [Z pekla štěstí ](https://twitter.com/Bodbe6/status/1659001682078887936)
+          - [Mínus dělo](https://twitter.com/front_ukrainian/status/1659128103094845440)
+          - [Bachmut](https://twitter.com/NOELreports/status/1658858616554680323)
+          - [Pauza na cigáro ](https://twitter.com/Bodbe6/status/1658945201782550528)
+          - [Pár do fondu](https://twitter.com/herooftheday10/status/1659051663078969344)
+          - [Mínus tři ](https://twitter.com/front_ukrainian/status/1658868507772084231)
+          - [O fous!](https://twitter.com/Bodbe6/status/1658997163014103041)
+          - [Čištění děr a zraněný voják](https://twitter.com/Bodbe6/status/1658874218958684173)
+          - [Rusové a puška jako dlaha](https://twitter.com/666_mancer/status/1659135275593859074)
+          - [U Bachmutu (citlivé!) ](https://twitter.com/herooftheday10/status/1658944256986304512)
+          - [Kupředu!](https://twitter.com/nevedimka123/status/1658850746329182209)
+          - [Čas vypršel (citlivé!)](https://twitter.com/herooftheday10/status/1658859751764099076)
       - title: "Středa"
         year: "17. květen 2023"
         image: assets/img/timeline/2023-05-17.jpg
