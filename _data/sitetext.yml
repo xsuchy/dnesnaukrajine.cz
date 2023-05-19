@@ -35,6 +35,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "19. květen 2023"
+        image: assets/img/timeline/2023-05-19.jpg
+        desc: "Asi největší událostí posledních 24 hodin, která naprosto změní kurz budoucího vývoje na geopolitické scéně, je smlouva, kterou podepsal ruský ministr zahraničí Lavrov a jeho ugandský protějšek Jeje Odongo. Ve smlouvě se zavazují, že ani jedna ze stran smlouvy neumístí jako první zbraňové systémy do vesmíru. Takovou oběť bych od Ugandy nečekal. Jistě to bude mít velmi negativní dopad na celý ugandský vesmírný program. Zároveň je to velká rána i pro ruský zbrojní průmysl, jehož kapacity, preciznost a technologický pokrok celý poslední rok pozorujeme. Tak. Dobrý? Tak až se dosmějete a utřete poslední slzu z oka, tady máte [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02CrxWktHzDM1vD5t6YQ7fE4BHT5TQ5jmB1LkjUxaoKirfV6PWH1i1KVxae1iBERUXl):"
+        detail: |
+          - Jeden z výtržníků, který se účastnil útoku na americký Kapitol a kterého hledá FBI, Evan Neumann, se objevil v Bělorusku, kam uprchl před spravedlností a kde se okamžitě stal miláčkem prorežimní propagandy se svými vyprávěními o zlém a zkaženém Západu. 
+          - Spojené státy oznámily, že kvůli účetní chybě nadhodnotily dosavadní pomoc Ukrajině o celé 3 miliardy dolarů. Očekává se proto, že Američané využijí potenciální účetní přebytek k poslání další vojenské pomoci Ukrajině v odpovídající hodnotě. 
+          - „Incident“ na železnici u Simferopolu podle britské rozvědky způsobil, že Rusko ztratilo dočasně železniční spojení se základnou Černomořské flotily v Sevastopolu a nemůže tak zásobovat lodě raketami, dokud se spojení neobnoví. 
+          - Ukrajinci údajně využili jeden z amerických systémů Patriot, aby sestřelili ruský bombardér nad ruským územím. Může jít o Su-35, který se zřítil před pár dny v Belgorodské oblasti. 
+          - Pentagon potvrdil, že jeden z odpalovačů raket systému Patriot byl v minulých dnech lehce poškozen, ale i s pomocí amerických inženýrů byl opět uveden do provozu. 
+          - Ukrajinci v noci na dnešek zničili u Doněcku několik ruských moderních tanků T-90, které odhalil průzkumný dron Poseidon, a následně je zasáhly rakety HIMARS. 
+          - Zelenský údajně přiletí osobně na setkání skupiny G7 v Hirošimě. Původně měl přitom na setkání promluvit pouze pomocí videohovoru. 
+          - Norsko ve spolupráci s Británií poskytne Ukrajině 8 kusů raketometů M270 a tři radary ARTHUR pro navádění dělostřelecké palby. 
+          - Dobrovolník, kterého znáte jako „Cohena“, informoval na Twitteru, že po zranění šrapnelem přišel o část nohy. 
+          - Maďarsko oznámilo, že je připraveno zprostředkovat mírové rozhovory mezi Ruskem a Ukrajinou. 
+          - Ukrajinská PVO v noci na dnešek zničila 3 rakety z vypálených 6 a také 16 z 22 kamikadze dronů.
+          - Na Rusko-islámském fóru v Kazani promluvili také zástupci Tálibánu. Svůj k svému. 
+          - Cena plynu na evropské burze klesla poprvé za dva roky pod 30 € za MWh. 
+          - Moldavsko se zbavilo závislosti na ruském plynu. 
+        videa: |
+          - [Bachmut](https://twitter.com/nexta_tv/status/1659172023359135744)
+          - [Gruzínci vítají pasažéry obnovených letů z Ruska](https://twitter.com/Hromadske/status/1659506793339338752)
+          - [Ničení ruských pozorovatelen ](https://twitter.com/EuromaidanPress/status/1659435212806279169)
+          - [CAESAR ](https://twitter.com/front_ukrainian/status/1659268457634963476)
+          - [Čištění zákopů](https://twitter.com/Bodbe6/status/1659187788124938242)
+          - [Neúspěšný ruský útok](https://twitter.com/PaulJawin/status/1659472793069649923)
+          - [Výroba šrotu ](https://twitter.com/EuromaidanPress/status/1659227846752223232)
+          - [Ukrajinské Grady](https://twitter.com/front_ukrainian/status/1659514692421779459)
+          - [Americké čluny na Dněpru ](https://twitter.com/front_ukrainian/status/1659481386435133440)
+          - [Demobilizovaní (citlivé!)](https://twitter.com/herooftheday10/status/1659466837086597121)
+          - [Vaporizace ruského MT-LB](https://twitter.com/front_ukrainian/status/1659471350522687491)
+          - [3. šturmová](https://twitter.com/front_ukrainian/status/1659466282540969985)
+          - [Bývalé ruské pozice ](https://twitter.com/herooftheday10/status/1659486524474290178)
+          - [Jauvajs (citlivé!)](https://twitter.com/front_ukrainian/status/1659250629951225872)
+          - [Bachmut](https://twitter.com/Bodbe6/status/1659200817034047491)
+          - [Český pták se svými kolegy](https://twitter.com/front_ukrainian/status/1659179466948595713)
+          - [Pozice u Bachmutu ](https://twitter.com/herooftheday10/status/1659320110740299776)
       - title: "Čtvrtek"
         year: "18. květen 2023"
         image: assets/img/timeline/2023-05-18.jpg
