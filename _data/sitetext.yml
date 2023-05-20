@@ -35,6 +35,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "20. květen 2023"
+        image: assets/img/timeline/2023-05-20.jpg
+        desc: "Ruští politici začali sami šířit, to, co už několik dní šíří ruské dezinformační kanály, a sice, že měl být na Ukrajině zasažen muniční sklad s americkou průbojnou municí obsahující ochuzený uran, v důsledku čehož měl vzniknout radioaktivní mrak, který míří směrem na Západ nad Evropu. Když pomineme, že munice s ochuzeným uranem už NENÍ radioaktivní, resp. jen velmi, velmi slabě, a NEMŮŽE způsobit radioaktivní mrak, žádné měřící stanice nezaznamenal nic, co by ruským tvrzení odpovídalo. Radioaktivita nad Evropou je jednoduše v normálních hodnotách. Korunku téhle ruské lži ale dává to, že momentálně už několikátý den vane nad Evropou vítr ze západu na východ. Ruské tvrzení tak popírá fyziku hned na několika různých úrovních, což je konzumentům propagandy už tradičně úplně jedno. Ostatně, chtít po nich byť elementární znalost jakéhokoliv školního předmětu, je samo o sobě divoká fantazie. Tak se radši pojďme podívat naopak, [co se skutečně stalo](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid022gTbNJ5gMmrLekmBLMsWAnMjxMHFfF66cvn3er3sfwkR7u77EPY4NBvV9NPcJvmYl)."
+        detail: |
+          - Spojené státy oznámily, že nebudou bránit zemím, aby reexportovaly své letouny F-16. Dánsko a Portugalsko se dnes přidaly ke koalici zemí, které vycvičí ukrajinské piloty a následně i poskytnou své stroje F-16 ukrajinským vzdušným silám. Cvičit piloty budou i Spojené státy, ačkoliv dopředu avizovaly, že letouny nejspíš neposkytnout. 
+          - Prezident Zelenský přiletěl do japonské Hirošimy na summit skupiny G7. Do země přiletěl francouzským speciálem přes čínský vzdušný prostor. Předtím navštívil Saudskou Arábii, kde promluvil na zasedání Ligy arabských států.
+          - Zástupci Číny se sešli s protějšky v Kazachstánu, Tádžikistánu a Kyrgyzstánu, kde jednali o potenciální vojensko-ekonomicky koalici středoasijských republik. Rusko očividně ztrácí v regionu vliv a Čína se nestydí jeho místo rychle vyplnit.
+          - Ukrajinské síly už drží v Bachmutu jen několik posledních ulic. Wagnerovci přesunuli do města jednotky, které donedávna držely křídla kolem města a nejspíš chtějí obsadit město i za cenu toho, že ztratí klíčové pozice okolo něj. 
+          - Srbský prezident Vučić tvrdí, že ho blíže nespecifikované „východní tajné služby“ varovaly, že existují plány na provedení barevné revoluce v Srbsku.  
+          - Rusko umístilo žalobce Mezinárodního trestního soudu v Haagu Karima Ahmada Khana na seznam hledaných osob. 
+          - Itálie možná tajně poskytla Ukrajině obrněné transportéry a kolové tanky Centauro B1. 
+          - Maďarsko oznámilo, že nepodpoří 11. balíček sankcí Evropské unie proti Rusku. 
+          - Po ruském zásahu raketou v noci na dnešek hořel desetipatrový dům v Kyjevě. 
+          - Rusko zakázalo bývalému prezidentu Obamovi vstup do země. 
+          - Ruská PVO od rána pracuje nad okupovaným Mariupolem. 
+        videa: |
+          - [Zelenský v Saúdské Arábii](https://twitter.com/front_ukrainian/status/1659528277646557184)
+          - [Snajpři a jejich úlovky](https://twitter.com/Bodbe6/status/1659696431467479040)
+          - [Mínus tank](https://twitter.com/EuromaidanPress/status/1659633370794475543)
+          - [Rozmetaná ruská útočná skupina](https://twitter.com/front_ukrainian/status/1659564255786553351)
+          - [SOF v Bachmutu](https://twitter.com/PaulJawin/status/1659817800276365312)
+          - [Jako ve filmu](https://twitter.com/UKRINFORM/status/1659604833706426374)
+          - [U Bachmutu ](https://twitter.com/EuromaidanPress/status/1659527312314966016)
+          - [Bachmut](https://twitter.com/nevedimka123/status/1659535807999361025)
+          - [Ukrajinský Su-27](https://twitter.com/front_ukrainian/status/1659819287249395712)
+          - [Bachmut](https://twitter.com/Bodbe6/status/1659662706331246592)
+          - [Exploze v Mariupolu](https://twitter.com/front_ukrainian/status/1659627497636413447)
+          - [Italští kentauři na železnici ](https://twitter.com/NOELreports/status/1659566768388489216)
+          - [Ruská kolona našla miny](https://twitter.com/PaulJawin/status/1659834015413682176)
+          - [Táborák](https://twitter.com/front_ukrainian/status/1659550813142802433)
+          - [Šturm u Bachmutu ](https://twitter.com/Bodbe6/status/1659615970040729600)
+          - [Cesta na frontu ](https://twitter.com/nevedimka123/status/1659814960027844608)
       - title: "Pátek"
         year: "19. květen 2023"
         image: assets/img/timeline/2023-05-19.jpg
