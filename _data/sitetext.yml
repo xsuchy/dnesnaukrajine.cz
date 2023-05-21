@@ -35,6 +35,50 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "21. květen 2023"
+        image: assets/img/timeline/2023-05-20.jpg
+        desc: "Wagnerovci nejspíše dokončili obsazení Bachmutu. Včera se bojovalo prakticky jen v několika posledních ulicích v jihozápadním cípu města. Dnes už ve městě nejspíš působí pouze ukrajinské speciální jednotky. Prigožin ale nyní tvrdí, že jeho wagnerovci k 25. květnu opustí Bachmut a předají pozice regulérní ruské armádě, aby se mohli věnovat jiným „projektům“, především v Africe. To by naznačovalo, že hodlá wagnerovce z Ukrajiny úplně stáhnout. Není ale jisté, zda takovou možnost vůbec má a jestli mu to vedení ruské armády dovolí. Analytici z ISW navíc tvrdí, že vzhledem k charakteru fronty se wagnerovci nebudou moci „jen tak“ stáhnout ze současných pozic, respektive že to bude možné jen za cenu vysokých ztrát. Ukrajinci totiž dále pozvolna postupují na obou křídlech města a mají celé město pokryté případnou dělostřeleckou palbou. Situace je nicméně kvůli informačnímu embargu klasicky poměrně nečitelná. Tak si zatím počtěte, co [dalšího se stalo](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Q6j57LNRgA8gVRiwNRU3gUHNW5B56mpGATGh2kbYSuWLZSQY33w6FkD3XFXvVYLtl):"
+        detail: |
+          - Policie v Volgogradu zadržela aktivistu, který dříve spálil korán před jednou z ruských mešit. Je obviněn z urážky náboženského přesvědčení. Zpráva nemá příliš velký vztah k tomu, co se děje na Ukrajině, ale působí poněkud ironicky, když Rusko na jednu stranu financuje v Evropě skupiny, které podobné protesty pořádají, ale na druhou stranu takové projevy samo ve své zemi přísně trestá. 
+          - Ruské ministerstvo obrany informovalo, že v posledních 24 hodinách jeho PVO zlikvidovala naváděnou bombu americké výroby, neuvěřitelných 12 raket Storm Shadow a také několik raket ze systému HIMARS. Aneb připomenutí, proč už prakticky nečtu zprávy z ruských zdrojů. Vymýšlet si můžu i sám. 
+          - Itálie se připojí k zemím, které budou cvičit ukrajinské piloty. O poskytnutí letadel ale Itálie nejspíš neuvažuje. Naopak Nizozemí nejspíš dodávku letadel připravuje, protože zrušilo plánovaný prodej několika stíhaček F-16 soukromé firmě a spekuluje se, že je to právě kvůli potenciální dodávce strojů Ukrajině. 
+          - Rusko varovalo západní země, že poskytnutí stíhacích letounů Ukrajině by znamenalo překročení pomyslné červené linie. To samé ale říkali u dodávek munice, dodávek tanků, HIMARSU, naváděných raket… 
+          - Německý koncern Rheinmetall plánuje spustit výrobu obrněných vozidel Fuchs ve spolupráci s ukrajinským Ukroboronpromem. 
+          - Ukrajina ujistila obyvatele okupovaných oblastí, že je nebude perzekuovat za to, že si nuceně převzali ruské pasy.
+          - Ruský Belgorod hlásí několik velkých explozí. Zasažen byl také okupovaný Berďansk. 
+          - Desítky tisíc lidí vyšly v Moldavsku do ulic za integraci země do Evropské unie. 
+        videa: |
+          - [Krásná trefa Javelinem ](https://twitter.com/Bodbe6/status/1659965337788465153)
+          - [Česká stopa](https://twitter.com/front_ukrainian/status/1660007247123042309)
+          - [Na obhlídce ruských ztrát](https://twitter.com/Bodbe6/status/1659969595443236868)
+          - [Britské káry na Ukrajině](https://twitter.com/front_ukrainian/status/1660188727392587777)
+          - [Snajpři ](https://twitter.com/PaulJawin/status/1660203438557339649)
+          - [Mínus tank ](https://twitter.com/nexta_tv/status/1660156716963577858)
+          - [Jak se žije Rusům v zajetí ](https://twitter.com/StaryBlazen/status/1659581645291241472)
+          - [Mínus ruské Grady](https://twitter.com/EuromaidanPress/status/1659999933943140352)
+          - [Noční přesun](https://twitter.com/Bodbe6/status/1660076911601541121)
+          - [Stormer versus ruský dron ](https://twitter.com/front_ukrainian/status/1660238480759300096)
+          - [RPG v Bachmutu ](https://twitter.com/Bodbe6/status/1659967439336009729)
+          - [V Rusku už zase vykolejil vlak ](https://twitter.com/nexta_tv/status/1660153596002926592)
+          - [Bachmut](https://twitter.com/EuromaidanPress/status/1659962436764459008)
+          - [Zelenský a Modi ](https://twitter.com/nexta_tv/status/1659899526885277696)
+          - [Švédská kára na Ukrajině ](https://twitter.com/EuromaidanPress/status/1660088517903679488)
+          - [Mínus tank ](https://twitter.com/front_ukrainian/status/1660164791699230720)
+          - [Gruzínci na pauze](https://twitter.com/Militarylandnet/status/1660030052535287809)
+          - [Další do fondu ](https://twitter.com/herooftheday10/status/1659864616950718464)
+          - [Bachmut ](https://twitter.com/EuromaidanPress/status/1659977841180540929)
+          - [Vykuřování z děr ](https://twitter.com/PaulJawin/status/1660240591739813888)
+          - [Třetí šturmová ](https://twitter.com/Bodbe6/status/1660052060182650885)
+          - [Otaman](https://twitter.com/front_ukrainian/status/1660177447231299585)
+          - [Práce dronů](https://twitter.com/EuromaidanPress/status/1659945827421552642)
+          - [Helikoptéry na misi](https://twitter.com/front_ukrainian/status/1659931236532469762)
+          - [Plachty nepomohly](https://twitter.com/PaulJawin/status/1660233617488977920)
+          - [Granátomet ](https://twitter.com/Osinttechnical/status/1660228580910014465)
+          - [Český Vampýr ](https://twitter.com/front_ukrainian/status/1659882474929807360)
+          - [PVO v akci ](https://twitter.com/NOELreports/status/1660239229887078402)
+          - [Mínus muničák ](https://twitter.com/Tendar/status/1660240091980222465)
+          - [Zakončení výcviku v Česku ](https://twitter.com/praisethesteph/status/1659235585695809548)
       - title: "Sobota"
         year: "20. květen 2023"
         image: assets/img/timeline/2023-05-20.jpg
