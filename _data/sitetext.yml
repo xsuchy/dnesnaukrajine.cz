@@ -35,9 +35,62 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "22. květen 2023"
+        image: assets/img/timeline/2023-05-22.jpg
+        desc: "Dobré ráno, Bělgorode! Ruské kanály informovaly, že „neznámé jednotky“ dnes překročily ruské hranice v Bělgorodské oblasti a zaútočily s pomocí tanků na areál ruské pohraniční stráže v Grajvoronu, jihovýchodně od ukrajinského města Sumy. Na sítích se současně objevila videa, kde legie „Svoboda Ruska“ ohlásila, že se „vrací domů“ a vyzvala obyvatele příhraničních obcí, aby se nebáli a spolupracovali. Na frekvencích ruských rádií se ozývalo vysílání v ruštině, které o témže informovalo a doporučovalo lidem evakuovat se do vnitrozemí. Legie sama před malou chvílí informovala, že „osvobodila“ Kozinku a postupuje Grajvoronem. Boje jsou hlášeny v dalších obcích v téže oblasti, naposledy v obci Zamost’e, ale také v Dronovce, více na severu. Ačkoliv se vůbec nedá hovořit o nějaké větší ofenzivě do Bělgorodské oblasti, pro ruskou propagandu to je katastrofa. Zatím se vyjádřil jen guvernér oblasti, na oficiální vyjádření vrchních pater ruské politiky se čeká. Můžete čekat se mnou, třeba u [těchhle novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0281k5mxQj26ymuCeRV4JogUX8kaCMn4xhWpvnnAix781FyqEJmMQGzoEFubsiLWxol):"
+        detail: |
+          - Rusko dnes ráno podniklo další koncentrovaný raketový útok, tentokrát na Dnipro. Ukrajinské PVO se podařilo sestřelit všech 20 íránských dronů a také 4 rakety Ch-101/555. Bohužel další rakety typu Iskander, Ch-22 a rakety ze systémů S-300 obranou proletěly, celkem 12. Není jisté, co bylo jejich hlavním cílem, nicméně minimálně jedna z raket zasáhla a zničila požární stanici a několik zaparkovaných hasičských a záchranářských vozidel, jiné poškodily obytné domy. 
+          - Rumunský dobrovolník, který z peněz darovaných rumunskými občany organizoval v Kyjevě stavbu mobilní nemocnice, informoval, že při jednom z útoků na Kyjev zasáhli Rusové právě staveniště, kde budoucí nemocnice rostla. Stavba přitom probíhala na civilním pozemku a nikde v okolí se nenacházel žádný vojenský cíl. 
+          - Po explozi na okupovaném Krymu se hlavní město poloostrova Simferopol ocitlo bez dodávek proudu. Krymské úřady tvrdí, že za výpadkem je „technologická závada na vedení vysokého napětí“, spíš ale šlo o práci partyzánů. 
+          - Novinář se na tiskové konferenci v Hirošimě ptal prezidenta Bidena, co si myslí o ruském výroku, že poskytnutí letounů F-16 Ukrajině představuje kolosální riziko. „Představuje. Pro ně,“ odpověděl Biden. 
+          - Rusko údajně vytváří „elitní“ skupinu uvnitř vzdušných sil kvůli dlouhodobé nespokojenosti s výkonem letectva. Skupina bude mít na starosti nálety na ukrajinské pozice podél linie kontaktu. 
+          - Ukrajinské velení informovalo, že ukrajinské síly se blíží k taktickému obklíčení Bachmutu, tedy stavu, kdy budou mít pod palebnou kontrolou veškeré příchody do města. 
+          - Ruským vojákům v zajetí promítají Ukrajinci dokument „Absolutní zlo“. Vy si jej můžete na vlastní riziko pustit tady: https://www.youtube.com/watch?v=eyrr9gLiBrM
+          - ISW věří, že wagnerovci u Bachmutu zcela vyplýtvali svůj bojový potenciál. Proto Prigožin oznámil stažení jeho vojáků z Ukrajiny, oficiálně kvůli „reorganizaci“. 
+          - Spojené státy potvrdily, že Ukrajinci můžou použít americké zbraně k zasažení cílů na Krymu. Podle nich se nejedná o ruské území, ale území Ukrajiny. 
+          - Jaderná elektrárna v Enerhodaru se následkem ruského ostřelování opět ocitla bez dodávek proudu a musel být přepojena na dieselové generátory. 
+          - Japonsko oznámilo, že poskytne Ukrajině 100 obrněných vozidel a 30 000 balíčku MRE (bojových dávek potravin). 
+          - Podle ruského ministerstva obrany už od začátku roku podepsalo smlouvu s ruskou armádou 117 000 lidí. 
+          - Joseph Borell informoval, že výcvik ukrajinských pilotů na strojích F-16 v zemích EU už se rozběhl. 
+          - Ukrajina hlásí, že sestřelila ruský letoun Su-35S nad Černým mořem jižně od Chersonu. 
+          - U ruské Voroněži vypukl požár v areálu elektrárny. Prý mu předcházely exploze. 
+          - Ukrajinci tvrdí, že včera zasáhli ruský velitelský štáb v Berďansku. 
+        videa: |
+          - [Legie a její vzkaz](https://twitter.com/Gerashchenko_en/status/1660585231559081984)
+          - [Bělgorodská oblast ](https://twitter.com/EuromaidanPress/status/1660574145564778498)
+          - [Grajvoron ](https://twitter.com/PaulJawin/status/1660599757994180608)
+          - [Útok na post ](https://twitter.com/Militarylandnet/status/1660603358296588290)
+          - [Po útoku na post pohraniční stráže (citlivé)](https://twitter.com/PaulJawin/status/1660596485929549825)
+          - [Vysílání rádia](https://twitter.com/NOELreports/status/1660568863300263936)
+          - [Legie Svoboda Ruska](https://twitter.com/NOELreports/status/1660540758791802882)
+          - [Noční střet s Rusy, 3:0 pro Ukrajince ](https://twitter.com/PaulJawin/status/1660324180338913281)
+          - [Wagnerovec se střetl s realitou ](https://twitter.com/Heroiam_Slava/status/1660390330204672001)
+          - [SOF stále operují v Bachmutu](https://twitter.com/nexta_tv/status/1660506521921265665)
+          - [Bachmut](https://twitter.com/Bodbe6/status/1660267913817776128)
+          - [Brzy…](https://twitter.com/Azovsouth/status/1660383152769040386)
+          - [Ukrajinský útok na ruské pozice ](https://twitter.com/Bodbe6/status/1660374604869664783)
+          - [Po útoku ](https://twitter.com/RomanTrokhymets/status/1660362215705268226)
+          - [Velmi neúspěšný ruský útok](https://twitter.com/EuromaidanPress/status/1660556350626353152)
+          - [Stejné místo ](https://twitter.com/EuromaidanPress/status/1660437567609741312)
+          - [Bohdana](https://twitter.com/front_ukrainian/status/1660579508632559619)
+          - [Evakuace ](https://twitter.com/11Knuk123/status/1660389970555678720)
+          - [Český pták ](https://twitter.com/front_ukrainian/status/1660538403434184704)
+          - [Před dronem se neschováš](https://twitter.com/nexta_tv/status/1660293101389316096)
+          - [Ničení ruského konvoje](https://twitter.com/EuromaidanPress/status/1660582523016036352)
+          - [Chytání pokémonů ](https://twitter.com/666_mancer/status/1660371650804629512)
+          - [Zničeno](https://twitter.com/front_ukrainian/status/1660316392007057409)
+          - [„Osvobození“ Bachmutu](https://twitter.com/TarmoFella/status/1660551230215651329)
+          - [Hon na Rusy](https://twitter.com/EuromaidanPress/status/1660487899220152321)
+          - [Ukrajinský tank ](https://twitter.com/PaulJawin/status/1660273444204814336)
+          - [Simferopol](https://twitter.com/NOELreports/status/1660394718914654208)
+          - [Ruský patriot](https://twitter.com/Fbeyeee/status/1660332407281573893)
+          - [Ruským vězňům se promítá film „Absolutní zlo“ ](https://twitter.com/albafella1/status/1660321084200087556)
+          - [Noční lov](https://twitter.com/front_ukrainian/status/1660549508889997315)
+          - [Mínus muničák](https://twitter.com/front_ukrainian/status/1660276507007221765)  
       - title: "Neděle"
         year: "21. květen 2023"
-        image: assets/img/timeline/2023-05-20.jpg
+        image: assets/img/timeline/2023-05-21.jpg
         desc: "Wagnerovci nejspíše dokončili obsazení Bachmutu. Včera se bojovalo prakticky jen v několika posledních ulicích v jihozápadním cípu města. Dnes už ve městě nejspíš působí pouze ukrajinské speciální jednotky. Prigožin ale nyní tvrdí, že jeho wagnerovci k 25. květnu opustí Bachmut a předají pozice regulérní ruské armádě, aby se mohli věnovat jiným „projektům“, především v Africe. To by naznačovalo, že hodlá wagnerovce z Ukrajiny úplně stáhnout. Není ale jisté, zda takovou možnost vůbec má a jestli mu to vedení ruské armády dovolí. Analytici z ISW navíc tvrdí, že vzhledem k charakteru fronty se wagnerovci nebudou moci „jen tak“ stáhnout ze současných pozic, respektive že to bude možné jen za cenu vysokých ztrát. Ukrajinci totiž dále pozvolna postupují na obou křídlech města a mají celé město pokryté případnou dělostřeleckou palbou. Situace je nicméně kvůli informačnímu embargu klasicky poměrně nečitelná. Tak si zatím počtěte, co [dalšího se stalo](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Q6j57LNRgA8gVRiwNRU3gUHNW5B56mpGATGh2kbYSuWLZSQY33w6FkD3XFXvVYLtl):"
         detail: |
           - Policie v Volgogradu zadržela aktivistu, který dříve spálil korán před jednou z ruských mešit. Je obviněn z urážky náboženského přesvědčení. Zpráva nemá příliš velký vztah k tomu, co se děje na Ukrajině, ale působí poněkud ironicky, když Rusko na jednu stranu financuje v Evropě skupiny, které podobné protesty pořádají, ale na druhou stranu takové projevy samo ve své zemi přísně trestá. 
