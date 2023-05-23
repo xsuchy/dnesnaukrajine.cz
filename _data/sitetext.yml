@@ -35,6 +35,52 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "23. květen 2023"
+        image: assets/img/timeline/2023-05-23.jpg
+        desc: "Ruské kanály začínají pozvolna reagovat na včerejší vpád proukrajinských ruských jednotek do Bělgorodské oblasti. Obecně ale v ruském informačním prostoru panuje značný chaos. Kreml nově tvrdí, že incident u Grajvoronu je „past, kterou Rusové na diverzanty připravili“. „Diverzanti“ každopádně oznámili, že postupují dále, a je jisté, že v tuhle chvíli drží nejméně 4 obce v pohraničí, resp. území o celkové rozloze 35 km2 a chystají zde opevněné pozice před ruským protiútokem. Také se jim podařilo sestřelit jednu z helikoptér, která přiletěla podpořit ruskou obranu a ukořistit ruské BTR 82A a systém pro elektronickou válku R-330ZH Žitel. V Bělgorodské oblasti byla dnes vyhlášena „protiteroristická operace“, ruské úřady zahájily evakuaci 9 obcí a na silnicích se začaly tvořit kolony lidí, kteří z oblasti prchají. Rusové také podle některých zdrojů museli evakuovat skladiště jaderné munice Bělgorod-22, která se nachází jen 4 km od jedné z okupovaných obcí. Je to tedy celé primárně tragédie pro ruskou propagandu, která teď musí domácímu publiku složitě vysvětlit, proč proukrajinské síly už druhý den okupují ruské území. Tak schválně, jak se bude vše dál vyvíjet. Ale teď už [další novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0MJSYZskddpHzoF4hh1GHBV3iDTKF98NuxeABSfv5VeZzeKRiA65Yh8kUWPkJ7ZFfl):"
+        detail: |
+          - Arménie zvažuje, že úplně ukončí svou participaci v Organizaci Smlouvy o kolektivní bezpečnosti (CSTO) a bude hledat bezpečnostní záruky u jiných partnerů, například EU. CSTO považuje současná vláda za nefunkční. Arménie také nově oznámila, že je ochotna uznat Náhorní Karabach za součást Ázerbájdžánu, pokud bude zaručeno bezpečí a práva tamější arménské menšiny. Očividně stačí z rovnice odebrat Rusko, a není problém najít kompromis. 
+          - V Bělgorodu se na přepážce úřadu objevila cedule informující obyvatele, že město nemá kdo bránit, protože všichni vojáci byli přesunuti na frontu na Ukrajině. Informaci dnes potvrdili také Ukrajinci. Podle nich je 90 % veškerého současného ruského personálu na Ukrajině. 
+          - Spojené státy nejspíš chystají pro Ukrajinu bezpečnostní záruky po vzoru Izraele. Tedy, že by Ukrajina nemusela být nutně členem NATO, ale těšila se i tak jeho silné podpoře a vzájemné úzké spolupráci. 
+          - Ukrajinci údajně zasáhli budovu FSB v Bělgorodu. V blízké obci pak byla zasažena budova administrativy. V obou případech nejspíš figurovaly drony. 
+          - Na posledním zvonění jedné z volgogradských škol se žák jedenácté třídy pokusil během slavnostního nástupu kapesním nožem podříznout svoji spolužačku. 
+          - Odsouzený běloruský aktivista a novinář Pratasevič byl v Bělorusku omilostněn. Původně ho soudy poslaly na 8 let za mříže. 
+          - Ukrajinské jednotky dál pozvolna postupují na křídlech Bachmutu, tempem cca 300-600 metrů denně. 
+          - Parlamentní shromáždění NATO označilo ruské válečné zločiny za genocidu ukrajinské populace. 
+          - Moldavsko oznámilo, že vyhoví mezinárodním zatykačům na Putina a Lvovou-Bělovovou. 
+          - Co se stalo s obrannným valem, který Rusko v Bělgorodské oblasti měsíce budovalo? 
+          - Solovjovova milenka porodila v USA dítě, to tak bude mít americké občanství.  
+          - Zelenský navštívil ukrajinské mariňáky na linii Marjinka-Vulhedar. 
+          - Masivní požár zachvátil továrnu na plasty v ruské Voroněži.
+        videa: |
+          - [Incident ve Volgogradu](https://twitter.com/TarmoFella/status/1660931555856994305)
+          - [Sedm ukrajinských průzkumníků zajalo 22 členů ruských specnaz](https://twitter.com/front_ukrainian/status/1660698319335637012)
+          - [3 zásahy za pět sekund](https://twitter.com/11Knuk123/status/1660607526121906177)
+          - [Tohle býval Bachmut](https://twitter.com/nexta_tv/status/1660865907143352324)
+          - [Legie Svoboda Ruska](https://twitter.com/Gerashchenko_en/status/1660918473914982400)
+          - [Mínus helikoptéra](https://twitter.com/front_ukrainian/status/1660647454939787266)
+          - [Ruské nálety na vlastní obce ](https://twitter.com/drigli_/status/1660714098319826971)
+          - [Grajvoron](https://twitter.com/loogunda/status/1660658424797884418)
+          - [V Rusku](https://twitter.com/NOELreports/status/1660697070347403291)
+          - [A zase v Rusku](https://twitter.com/Tendar/status/1660965893940076548)
+          - [Kořistní BTR](https://twitter.com/EuromaidanPress/status/1660798697331130373)
+          - [Na projížďce](https://twitter.com/Faytuks/status/1660702707240280083)
+          - [Na ruské hranici ](https://twitter.com/nexta_tv/status/1660937218326757376)
+          - [Pomník padlým hrdinům na v Kyjevě](https://twitter.com/KyivIndependent/status/1660688408778293250)
+          - [Švédské káry už jedou ](https://twitter.com/front_ukrainian/status/1660724878993924129)
+          - [Mínus pozorovatelna](https://twitter.com/EuromaidanPress/status/1660856830333943817)
+          - [Ukrajinský šturm u Bachmutu ](https://twitter.com/front_ukrainian/status/1660959038350188546)
+          - [Legie Svoboda Ruska v boji](https://twitter.com/EvaTrmx86qc7r/status/1660915547360428034)
+          - [Střelba v Grajvoronu](https://twitter.com/EuromaidanPress/status/1660644773768622080)
+          - [„Bůůůhůů, za co?“ Za co myslíš, Natašo?](https://twitter.com/visegrad24/status/1660674430748508161)
+          - [Sestřelení ruské rakety](https://twitter.com/EuromaidanPress/status/1660782843147214849)
+          - [Bachmut](https://twitter.com/PaulJawin/status/1660956230595092481)
+          - [Improvizovaný raketomet](https://twitter.com/Bodbe6/status/1660807432988139521)
+          - [Trofejní tank](https://twitter.com/front_ukrainian/status/1660944437730504705)
+          - [Ukrajinský útok tankem ](https://twitter.com/Bodbe6/status/1660706242602344457)
+          - [Fabrika u Brjansku ](https://twitter.com/front_ukrainian/status/1660904106653884417)
+          - [Wagnerovci v civilním autě neprojeli](https://twitter.com/NOELreports/status/1660970354976739329)
       - title: "Pondělí"
         year: "22. květen 2023"
         image: assets/img/timeline/2023-05-22.jpg
