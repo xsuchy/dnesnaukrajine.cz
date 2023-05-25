@@ -35,6 +35,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "25. květen 2023"
+        image: assets/img/timeline/2023-05-25.jpg
+        desc: "Prigožin oznámil, že jeho jednotky se začínají stahovat v Bachmutu. Proč? Možná proto, že v jednom z posledních rozhovorů prozradil, že jeho wagnerovci utrpěli při dobývání města ztráty čítající 20 000 zabitých vojáků – 10 000 z řad naverbovaných vězňů, dalších 10 000 z řad žoldáků. Pokud bychom byly hodně „hodní“ a předpokládali, že poměr zabitých k raněným bude u wagnerovců okolo 1:2 (Američané v Iráku dosahovali poměru 1:8,5 díky kvalitní první pomoci a včasné evakuaci), znamenalo by to jen pro wagnerovce celkové ztráty okolo 60 000. A to ve městě a na jeho křídlech bojovala také regulérní ruská armáda a čečenské sbory. Není to tedy rozhodně dobrovolný odchod. Pozice by měla po wagnerovcích nyní převzít ruská armáda – ta, která město v první řadě nebyla vůbec schopna dobýt ani nedokázala posunout frontu na ostatních úsecích během celé ruské zimní ofenzivy. Nezbývá, než jim popřát podobnou úspěšnost i při nadcházející obraně. A teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0WbcULvAAgGM5naEc7AqYxJYhCEtf8yBkYz8SXQ8hNHFV3GjgjoKPQebwp462q38Bl):"
+        detail: |
+          - Ruské dobrovolnické jednotky oznámily, že při všech diverzních akcích obou skupin byli zabiti dva jejich vojáci a 10 bylo zraněno. Potvrdily také ztrátu několika vozidel, ale naopak ukořistění ruských. Většina ztrát prý vznikla poté, co ruské letouny začaly bombardovat civilní zástavbu, u které se diverzanti nacházeli, a to i přesto, že v domech byli stále tamější obyvatelé. Podle dobrovolníků jejich výpady ukázaly, že ruská hranice není chráněná a Putinovi trvalo dva dny, než dokázal oblast dostat opět pod kontrolu. Akce tedy nejspíš splnila svůj účel a Putinovi nezbyde než posílit obranu hranic výměnou za oslabení fronty. 
+          - Mychajlo Podoljak informoval, že ofenziva Ukrajiny už začala, ale zároveň apeloval na diváky, aby si pod tím nepředstavovali automaticky velkolepé akce na frontové linii. Aktuálně podle něj probíhá intenzivní ničení ruské logistiky a instalací v týle. 
+          - Podle ruského kanálu, který se věnuje letectví, sestřelil všechny čtyři stroje (dvě stíhačky a dva vrtulníky) před několika dny nad Bělgorodskou oblastí ukrajinský systém Patriot, a to z ukrajinského území. 
+          - Ministři obrany Běloruska a Ruska podepsali společnou dohodu o umístění taktických jaderných zbraní na území Běloruska. Budou plně pod kontrolou Rusů. 
+          - Ruská Státní duma projedná zákon o „společensky užitečné práci pro děti“, který by v případě přijetí de facto legalizoval některé druhy dětské práce. 
+          - Generál Vadym Skibicky z ukrajinských tajných služeb prohlásil, že likvidace Putina a Prigožina zůstává jejich prioritou. 
+          - V Bělgorodské oblasti pracují ruští pyrotechnici na likvidaci už čtvrté letecké pumy, kterou tu upustily vlastní letouny. 
+          - Mluvčí Kremlu Peskov prohlásil, že Rusko přijde Bělorusko „osvobodit“, pokud by lidé povstali proti jeho prezidentovi. 
+          - Americká a britská průzkumná letadla od včerejška intenzivně hlídkují nad Černým mořem poblíž Krymu. 
+          - Rusové zveřejnili video, které potvrzuje, že jejich loď napadly v Černém moři ukrajinské námořní drony. 
+          - Ukrajina by měla ještě před začátkem léta obdržet 110 tanků Leopard 1A5 od Dánska. 
+          - Ukrajinský ministr zahraničí odjel na tour po Africe. Včera se setkal se zástupci Etiopie. 
+          - Ukrajinská PVO v noci zničila všech 36 íránských dronů mířících na ukrajinská města. 
+          - U Bachmutu padl ukrajinský šampion v boxu Oleksandr Onyščenko. 
+          - Spojené státy daly zelenou prodeji systémů NASAMS Ukrajině. 
+        videa: |
+          - [Ukrajinský Challenger ukazuje, jak překonává překážky](https://twitter.com/nexta_tv/status/1661670760459431937)
+          - [Útok ukrajinského námořního dronu](https://twitter.com/front_ukrainian/status/1661376844996698114)
+          - [Tiskovka](https://twitter.com/wartranslated/status/1661410527778570244)
+          - [Prigožin a Bachmut](https://twitter.com/EuromaidanPress/status/1661646135247732738)
+          - [Prigožinovo tvrzení ](https://twitter.com/front_ukrainian/status/1661632302084915201)
+          - [Aidar u Bachmutu](https://twitter.com/NOELreports/status/1661414715900166149)
+          - [V Moskvě hoří ](https://twitter.com/nexta_tv/status/1661486965970051076)
+          - [Španělští vojáci vyprovází Ukrajince po ukončeném výcviku](https://twitter.com/front_ukrainian/status/1661439922744557576)
+          - [Gepard ničí cíle u Kyjeva](https://twitter.com/EuromaidanPress/status/1661656256422068224)
+          - [Mínus tři ](https://twitter.com/PaulJawin/status/1661446262577659934)
+          - [Švédské tanky už projely Slovenskem ](https://twitter.com/front_ukrainian/status/1661443801070665807)
+          - [Velbloud uchem jehly](https://twitter.com/666_mancer/status/1661621717104467968)
+          - [Zásahy dronů](https://twitter.com/EuromaidanPress/status/1661492519404810243)
+          - [Ukrajinské akce](https://twitter.com/KrzysztofJano15/status/1661307436483985408)
+          - [V lese u Bachmutu](https://twitter.com/front_ukrainian/status/1661671719226966017)
+          - [Další výlet za hranice ](https://twitter.com/PaulJawin/status/1661676033664221186)
+          - [Stormer sundal dron](https://twitter.com/front_ukrainian/status/1661646856059867137)
+          - [Evakuace](https://twitter.com/PaulJawin/status/1661374006283452418)
       - title: "Středa"
         year: "24. květen 2023"
         image: assets/img/timeline/2023-05-24.jpg
