@@ -35,6 +35,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "28. květen 2023"
+        image: assets/img/timeline/2023-05-28.jpg
+        desc: "Podle ruských kanálů začali Ukrajinci pálit dělostřelecké granáty na kontaktní linii ve snaze zničit minová pole připravená Rusy. Společně s masivními raketovými útoky na ruské základny a logistické uzly se dá tedy s jistotou říct, že ukrajinská ofenziva začíná. Ostatně to nepřímo potvrzují i samotní ukrajinští bojovníci, kteří sdílejí příspěvky o tom, že se teď na nějakou chvíli odmlčí, a nakonec se tak dá vykládat i včerejší vzkaz generála Zálužného. Teď jen doufejme, že defenziva jde Rusům stejně skvěle jako ofenziva, a příští rok si můžeme dát plážovou párty na Krymu. Lehké to ale nebude. A bude to bolet. Tak myslete na ty, kteří to budou zažívat z první ruky. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02RTaWwZ9T5jSNJqjQPBZRR8PZsCSaxBqkkf36KfBokZazm8YbdDJvPB965rjez9W6l):"
+        detail: |
+          - Ukrajina byla v noci pod největším útokem kamikadze dronů od začátku války. Na ukrajinská města jich mířilo hned 54. 52 z nich sestřelila protivzdušná obrana. Zároveň se ale objevilo video z Kyjeva, které ukazuje, že jedna z raket vypálených PVO nejspíš selhala a zasáhla zem. Načasování není náhodné. Ukrajina dnes slaví svůj Den Kyjeva. 
+          - Podle ukrajinské rozvědky dalo Rusko do pohybu svůj plán na vytvoření nebezpečné situace v záporožské jaderné elektrárně. Má zahrnovat chemické zbraně a nastražená těla padlých Rusů, a jeho cílem má být obvinění Ukrajiny z použití chemických zbraní v areálu elektrárny. 
+          - Tálibán se střetl s Íránskými revolučními gardami na společné hranici. Nyní Talibové hrozí, že vpadnou do Íránu a potáhnou na Teherán. Největší zbrojní partner Ruska už tak možná bude brzy muset řešit úplně jiné starosti. 
+          - Muskův Twitter opustil dobrovolnou iniciativu Evropské unie pro boj s dezinformacemi. Od 25. srpna bude nicméně muset informace potlačovat tak či tak kvůli evropské legislativě, která tou dobou vejde v platnost. 
+          - Ruské kanály hlásí „mnoho zabitých“ po včerejších ukrajinských raketových útocích na ruské základny v Mariupolu a Berďansku. Dnes ukrajinské raketové útoky pokračovaly. Zasažen byl opět i Mariupol. 
+          - Podle posledního průzkumu si 64 % Ukrajinců nepřeje jednat s Ruskem o žádné podobě mírové dohody. Zároveň 67 % obyvatel nepodporuje návrat do stavu před rokem 2022 výměnou za mír.
+          - Podle některých zdrojů byl Lukašenko po včerejším setkání s Putinem hospitalizován v jedné z moskevských klinik. Informace má ale zatím podobu nepotvrzené spekulace. 
+          - V Rakousku se konečně pohnuly ledy. Rakouská vláda oznámila, že poskytne Ukrajině zařízení na odminování území v hodnotě přes dva milióny euro. 
+          - Lukašenko vyzval Kazachstán, aby se připojil k rusko-běloruské jaderné alianci. Podle něj je to ideální cesta ke „sjednocení“ zemí. 
+          - Rusové pátrají v Rostovské oblasti hned po 39 dezertérech, členech vězeňského pluku „Storm Z“. 
+          - Španělsko poskytne Ukrajině další čtyři tanky Leopard 2 a také další transportéry M113. 
+          - Příznivci Ruska si uspořádali demonstraci v Táboře. Dorazily jich asi dvě desítky. 
+        videa: |
+          - [Okupant se chlubí že zajal civilistu ](https://twitter.com/nexta_tv/status/1662471018638721024)
+          - [Dobrovolníci z Izraele](https://twitter.com/11Knuk123/status/1662759798872342528)
+          - [Ukrajinský Atlas ](https://twitter.com/front_ukrainian/status/1662529248060481536)
+          - [Bělehrad protestuje proti proruské vládě ](https://twitter.com/thefeyd/status/1662526631938801666)
+          - [Mínus T-80](https://twitter.com/front_ukrainian/status/1662771032027979777)
+          - [Mínus tank](https://twitter.com/PaulJawin/status/1662674992083918855)
+          - [Ešelon v Bělorusku ](https://twitter.com/L_Team10/status/1662509218505654278)
+          - [Hledání a ničení děl](https://twitter.com/front_ukrainian/status/1662752656966709248)
+          - [Ruský vyslanec v Londýně ](https://twitter.com/BBCPolitics/status/1662764132893097985)
+          - [Tank přijel na pomoc a už neodjel ](https://twitter.com/front_ukrainian/status/1662752163666296832)
+          - [Trefa!](https://twitter.com/DefenceU/status/1662743008914165760)
+          - [Ukrajinský terénní transportér ](https://twitter.com/front_ukrainian/status/1662745109098577921)
+          - [Vykuřování z děr ](https://twitter.com/PaulJawin/status/1662753952914370560)
+          - [PVO v Černihivu versus dron ](https://twitter.com/front_ukrainian/status/1662729266444787714)
+          - [Dana ](https://twitter.com/PaulJawin/status/1662459065203605505)
+          - [Český pták ](https://twitter.com/Osinttechnical/status/1662649462563516418)
+          - [Znova Berďansk ](https://twitter.com/front_ukrainian/status/1662437565868244992)
+          - [Lukašenko o Kazachstánu](https://twitter.com/NOELreports/status/1662782946351226880)
       - title: "Sobota"
         year: "27. květen 2023"
         image: assets/img/timeline/2023-05-27.jpg
