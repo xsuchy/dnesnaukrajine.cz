@@ -35,6 +35,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "29. květen 2023"
+        image: assets/img/timeline/2023-05-29.jpg
+        desc: "Zatímco ruské ministerstvo obrany se chlubilo tím, že úspěšně zasahuje proti raketám Storm Shadow, ukrajinský ministr obrany Reznikov informoval, že od prvního nasazení mají tyto rakety úspěšnost zásahu 100 %. A bohužel pro Rusy bude ukrajinská verze blíže pravdě. Britské rakety v minulých dnech zasáhly několik ruských muničních skladů a základen, a dokonce i velitelský štáb. To poslední víme s jistotou díky tomu, že samospráva v čuvašské Šumerlinské oblasti informovala o smrti majora, který měl zahynout po zásahu rakety na velitelský post v okupovaném Berďansku 25. května. A kdo někdy viděl, jakou explozi způsobí Storm Shadow po dopadu, tomu je jasné, že na místě muselo být obětí mnohem více. Zároveň se objevilo na ruských kanálech video, které ukazuje jinou základnu pěchoty, kterou Storm Shadow také navštívil. A není to nic pro citlivé povahy. V troskách základny jsou stále desítky těl, které nikdo neodklidil. Voják, který video točí, navíc přiznává, že pro ně nejspíš ani nikdo nepřijede, ale budou na místě spálena. Ruská armáda takto pracuje podle četných svědectví od samého začátku invaze: kde není tělo, není padlý. Jeho rodině pak nenáleží žádná finanční kompenzace a ruské úřady ho mohou vést donekonečna jako pohřešovaného, aby nemusely přiznat ztráty. Až se je ruská společnost po válce dozví, můžeme jen hádat, jakou reakci to způsobí. Ale teď už [výběr zpráv](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0ggyrndNmmsqZcNeqr3ud46MRPrb2cQPDsNPkVgwTsunbsycF1Mw38sKz3N6BF8dDl):"
+        detail: |
+          - Rusko vyslalo další masivní salvu raket na ukrajinská města. Navíc jí předcházel velký útok kamikadze dronů s cílem vyčerpat ukrajinskou PVO. Přesto se podařilo zničit většinu vzdušných cílů. Ukrajinské letectvo hlásí zničených 37 ze 40 raket Ch-101, 29 z 35 dronů Shahed a jeden zničený průzkumný dron. Zničeno bylo také všech 11 raket Iskander. Drony, které mířily na Chmelnickou oblast, měly za cíl mimo jiné i tamější letiště a nejméně jeden svůj cíl zasáhl. Pět strojů bylo údajně poškozeno. Nad Kyjevem měla PVO 100% úspěšnost, ale trosky raket a dronů po dopadu i tak poničily některé domy a civilní infrastrukturu. Ukrajinci to posměšně komentovali, že jediné, co Rusko dokáže spolehlivě ničit, je spánkový režim Kyjevanů. 
+          - Určitá nepříliš bystrá část české populace si našla nový koníček. Na internetu vulgárně útočí na cokoliv, co má kombinaci žluté a modré barvy. Schytala to tak například Třebíč, která už léta používá žlutomodré překážky, aniž by to komukoliv přišlo divné, nebo nově studenti na budějovickém Majálesu, když si oblékli montérky přes žlutá trička pro karnevalový průvod. 
+          - Ruské dezinformační kanály sdílí video z kyjevského McDonaldu, kde lidé normálně jedí, a snaží se tím dokázat, že na Ukrajině ve skutečnosti žádná válka není a že americké peníze jdou na konzumní život Ukrajinců místo na výzbroj. To kdybyste náhodou na podobné argumenty narazili i v Česku, tak ať víte, odkud vane tenhle zatuchlý vítr. 
+          - Ukrajina opět zasáhla ruské muniční sklady, depa a shromaždiště na okupovaném území. Výbuchy hlásí Mariupol, Jurijivka, Berďansk nebo ruský Bělgorod. Původcem jsou tradičně rakety ze systémů HIMARS i nové rakety Storm Shadow. Je to už minimálně třetí den v řadě, kdy Ukrajinci bez ustání ničí ruské instalace. 
+          - Podle španělského deníku El País vyhověl Twitter od nástupu Muska 83 % žádostí o cenzuru informací ze strany autoritářských režimů včetně Indie nebo Turecka, a to i během probíhajících volebních kampaní. Rok před převzetím Muskem to přitom bylo v průměru zhruba 50 %. 
+          - Prezident Jihoafrické republiky vytvořil speciální vyšetřovací komisi, která má prověřit, zda země nedodávala munici nebo zbraně Rusku. Děje se tak v reakci na obvinění ze strany Spojených států, že JAR dodala Rusku zbraně. 
+          - Diváci na turnaji ve Francii vybučeli ukrajinskou tenistku za to, že si po vyhraném utkání nepodala ruku se soupeřkou z Běloruska. Ta přitom v minulosti otevřeně podpořila Lukašenka a jeho vládu.  
+          - Podle Global Slavery Index je Rusko na 8. místě s téměř 2 milióny lidí žijících v otroctví. 
+        videa: |
+          - [Ruská základna po zásahu raketou Storm Shadow (citlivé!)](https://twitter.com/wartranslated/status/1662961530738974723)
+          - [Tři Pokémoni](https://twitter.com/front_ukrainian/status/1663072500387815427)
+          - [Ruský pop na frontě](https://twitter.com/nexta_tv/status/1662928262199115779)
+          - [Svatba přesunutá do krytu ](https://twitter.com/StratcomCentre/status/1663123677330698241)
+          - [Syrský o lymanské frontě](https://twitter.com/front_ukrainian/status/1663126150829187073)
+          - [Návrat z mise](https://twitter.com/EuromaidanPress/status/1662987369568411652)
+          - [Stormer versus raketa](https://twitter.com/front_ukrainian/status/1663091936868155392)
+          - [Ruslana už má novou nohu ](https://twitter.com/visegrad24/status/1662796037608570880)
+          - [Prigožin v areálu vinařství v Bachmutu ](https://twitter.com/NOELreports/status/1663130886462636034)
+          - [Na frontě](https://twitter.com/antoninaodessa/status/1662830320788418564)
+          - [Azerové v řadách Ukrajiny](https://twitter.com/Ian04203236/status/1662780717556744198)
+          - [MiG-29](https://twitter.com/front_ukrainian/status/1663134015237369857)
+          - [Ukrajinský šturm ](https://twitter.com/NOELreports/status/1663133979518672898)
+          - [Kyjevské metro ](https://twitter.com/DefenceU/status/1663142865470464002)
+          - [Útok tanku na ruské pozice ](https://twitter.com/herooftheday10/status/1663111348396408832)
+          - [U ruského Bělgorodu](https://twitter.com/front_ukrainian/status/1663093107389349889)
+          - [Rusové u Avdijivky](https://twitter.com/666_mancer/status/1662903953913151492)
+          - [Pěkná trefa](https://twitter.com/front_ukrainian/status/1663066871845777410)
+          - [Co trefila ruská raketa v Charkově ](https://twitter.com/NOELreports/status/1663132609306583041)
+          - [Velmi přesná artilerie ](https://twitter.com/front_ukrainian/status/1662863083369316353)
+          - [Budíček!](https://twitter.com/nevedimka123/status/1662967844538130432)
       - title: "Neděle"
         year: "28. květen 2023"
         image: assets/img/timeline/2023-05-28.jpg
