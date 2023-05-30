@@ -35,6 +35,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "30. květen 2023"
+        image: assets/img/timeline/2023-05-30.jpg
+        desc: "Další noc, další vzdušný útok na Kyjev. Tentokrát kyjevská PVO zasahovala proti 31 kamikadze dronům Shahed, z nichž 29 sestřelila. Trosky dronů ale opět padaly na obytné domy, z nichž 12 bylo poničeno a 12 obyvatel domů bylo zraněno. Rusko dnes ale poprvé okusilo svou vlastní medicínu. I samotná Moskva byla pod útokem dronů. Ruská PVO jich většinu sestřelila, nejméně tři ale zasáhly blíže nespecifikované cíle, ostatní drony po sestřelení poničily několik civilních budov. Některé zdroje mluví o tom, že dronů byly až tři desítky. Prigožin zuří a opět obviňuje ruské velení z neschopnosti. Zároveň zdůraznil, že „speciální vojenská operace“ měla sloužit k tomu, aby byly Rusové v bezpečí a nikdy se neměla přelít na její území. Ruská politická reprezentace předvedla vrcholný výkon v pomyslném mistrovství svět v pokrytectví, když označil útok drony na Moskvu za ukrajinský terorismus. Takhle… buď je to normální efekt války a legitimní odveta, nebo to terorismus je, ale potom musíme stejným okem nahlížet na stovky takových „teroristických útoků“, které už bezmála rok a půl provádí Rusové po celé Ukrajině. Nemůže to být jednou to a jindy něco jiného. A teď [pár dalších aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0346AiwNdMvULKr3TcqFRiT9pbKgWpFh8o72KAc4uvtsaiagqSVz1RziSw6e173k6l):"
+        detail: |
+          - Ruská federace vydala zatykač na amerického senátora Lindseyho Grahama na základě sestřihaného videa, které po upravení naznačuje, že Graham označil zabíjení Rusů za „nejlíp utracené americké peníze“. Na účelovou úpravu videa upozornila agentura Reuters. Graham i tak reagoval, že bude zatykač vydaný zločinným a amorálním ruským režimem „nosit jako Řád cti“. Rusku vzkázal, že se s jeho zástupci rád potká Haagu. 
+          - Protestující kosovští Srbové včera napadli jednotky KFOR ve Zveçanu. Nejméně 25 vojáků (až 41 podle jiných zdrojů) bylo raněno. 11 raněných, z toho dva vážně, hlásí italská mise. Zbylí vojáci byli povětšinou Maďaři. Mezi demonstranty přitom byli i lidé působící v srbské policii. Během nepokojů pak Srbové nasprejovali na poničenou techniku NATO symboly „Z“.  
+          - Turecký prezident Erdogan po svém znovuzvolení telefonicky hovořil s Bidenem. Bidem prozradil, že turecký prezident během hovoru otevřel i otázku dodávek letounů F-16 Turecku, což Biden podle vlastních slov podmínil přijetím Švédska do NATO. 
+          - Blog Oryx už v současné chvíli eviduje obrazový materiál k více než 10 000 kusů zničené ruské vojenské techniky. Rusko také tento týden překročilo hranici 2 000 tanků, k jejichž zničení existuje obrazový záznam. 
+          - Okupovaný Melitopol hlásí sérii velkých explozí, které otřásly městem. Zasažena byla i další města na okupovaném území včetně města Saky na Krymu, kde se nachází letecká základna. 
+          - Rusko očividně přechází do defenzivy. Ukrajinský generální štáb včera informoval, že Ukrajinci odráželi ruské útoky pouze u dvou obcí z celé současné fronty. 
+          - Putin údajně bude moci přijet na setkání BRICS v Jihoafrické republice. Země plánuje všem pozvaným státníkům udělit diplomatickou imunitu. 
+          - Zelenský ve svém projevu informoval, že společně s generály učinil rozhodnutí o načasování útočných akcí ukrajinských sil. 
+          - Dva lidé zemřeli poté, co Rusové zasáhli čerpací stanici v Torecku dělostřeleckou palbou. 
+          - Biden v rozhovoru uvedl, že poskytnutí raket ATACMS Ukrajině zatím stále není ze hry.
+          - Diverzní skupiny složené z ruských dobrovolníků opět překročily ruskou hranici. 
+          - Ukrajinský parlament schválil zavedení sankcí vůči Íránu na příštích padesát let.
+          - Dánsko poskytne Ukrajině další balík vojenské pomoci v hodnotě 2,6 miliard €. 
+          - Od začátku invaze už na ukrajinských bojištích padlo 16 dobrovolníků z USA.  
+          - U ruského Uljanovsku v noci na dnešek vykolejil vlak s palivy. 
+        videa: |
+          - [Ukrajinci obešli ruský tank a zničilo ho zezadu ](https://twitter.com/Bodbe6/status/1663224145813946376)
+          - [Kyjevská policie po útoku ruských dronů](https://twitter.com/nexta_tv/status/1663472465912242176)
+          - [Pád dronu u Moskvy](https://twitter.com/front_ukrainian/status/1663431866186186754)
+          - [Dron nad Moskvou ](https://twitter.com/PaulJawin/status/1663422643410706432)
+          - [Ukrajinský šturm na jihu Bachmutu ](https://twitter.com/front_ukrainian/status/1663473327434866689)
+          - [Moment likvidace dronu nad Moskvou ](https://twitter.com/front_ukrainian/status/1663428046685192192)
+          - [Stugna má další zářez ](https://twitter.com/EuromaidanPress/status/1663410154967113728)
+          - [Důmyslná ruská past na pyrotechniky](https://twitter.com/simon_uxo/status/1663281860737204224)
+          - [U Bachmutu ](https://twitter.com/EuromaidanPress/status/1663175812768563202)
+          - [Mínus BMP](https://twitter.com/front_ukrainian/status/1663463564168839170)
+          - [Před dronem se neschováš](https://twitter.com/PaulJawin/status/1663237815742676992)
+          - [Trefa!](https://twitter.com/front_ukrainian/status/1663470681466576896)
+          - [Nejspíš ukrajinská kazetová munice ](https://twitter.com/Bodbe6/status/1663191036804440065)
+          - [Igla versus dron ](https://twitter.com/front_ukrainian/status/1663438293583659008)
+          - [Ukrajinci natočili pohyb ruské techniky u Bělgorodu ](https://twitter.com/NOELreports/status/1663227651643916293)
+          - [Trefa do díry](https://twitter.com/front_ukrainian/status/1663227442989875214)
+          - [Ruský meteorit ](https://twitter.com/Bodbe6/status/1663174978227904513)
+          - [Ukrajinský Smerch ](https://twitter.com/front_ukrainian/status/1663211357817167873)
+          - [Trefa! (citlivé!!)](https://twitter.com/herooftheday10/status/1663487583387566081)
       - title: "Pondělí"
         year: "29. květen 2023"
         image: assets/img/timeline/2023-05-29.jpg
