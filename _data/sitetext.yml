@@ -35,6 +35,58 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "31. květen 2023"
+        image: assets/img/timeline/2023-05-31.jpg
+        desc: "Rusko už se ani nesnaží, aby jeho propaganda byla uvěřitelná. Nově informovalo, že za poslední měsíc zničilo 16 ukrajinských letadel, 400 tanků a zabilo 16 000 vojáků. Také prý ruská PVO zneškodnila 29 raket Shadow Storm a 196 raket ze systému HIMARS. Tvrzení ruského ministerstva obrany se vysmál Prigožin i všichni ruští vojenští blogeři. Jeden z kanálů spojený s wagnerovci, se dokonce vyjádřil vůči ruským tvrzení tak vulgárně a výsměšně, že ho jeho sledující podezírali z toho, že mu účet hacknuli Ukrajinci. Prigožin i Girkin pak shodně reagovali, že se celá „SVO“ dostala do fáze, že když něco prohlásí ruské ministerstvo obrany, můžou si být lidi jistí, že to není pravda. Prigožin ke kritice ještě přidal úvahu o tom, že pokud se má podařil mobilizovat ruskou společnost k podpoře operace, tak musí vědět skutečný stav na bojišti. A i na ten se teď pojďme podívat. [Dneska je toho hodně](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02AeKEmuT62coi3eRjnvsWTqdEkepugNYx1ngvQgTYkusb9pkb9o8HBpfvwRuceJjhl):"
+        detail: |
+          - Prezidentský poradce Mychajlo Podoljak popřel, že by Ukrajina stála za útoky dronů na Moskvu. Podle něj je v době AI celkem dobře možné, že se jen drony chtěly vrátit domů. Putin také komentoval útoky dronů na ruské hlavní město. Označil je za provokace a pohrozil, že Rusko bude nuceno „zrdcadlit“ akce Ukrajiny. Kyjevu tedy není reálně hrozí, že se ocitne pod útokem rusk-… aha, moment.  
+          - Kadyrov oznámil, že jeho jednotky obdržely rozkaz k nasazení v Doněcké oblasti. Mají prý vést útočné akce, jak to sám nazval, „proti satanistům“. Zároveň se objevilo komické video, na kterém jeho velitelé „plánují“ obsazení města Kryvyj Rih v Dněpropetrovské oblasti pro následný výpad na Kyjev. Ano, TikTok batalion je zpátky v „akci“! 
+          - Rusko přidalo ukrajinské generála Zálužného na seznam hledaných osob. Samo o sobě to není překvapivé, ale ruská propaganda strávila poslední tři týdny šířením tvrzení, že Zálužný byl zabit během dělostřeleckého přepadu u Bachmutu. Tak to by ho asi nehledali. 
+          - Po včerejších útocích dronů a raket na Kyjev došlo v některých oblastech k přerušení dodávek proudu. Ukrajina oznámila, že pátrá po příčině, protože podle ní nedošlo k zásahu energetické infrastruktury a do sítě stále proudí více energie, než se spotřebovává. 
+          - Ukrajinci informovali, že wagnerovce v Bachmutu postupně nahrazují ruské motostřelecké jednotky a ruští parašutisté. Ukrajinské dělostřelectvo mělo také pálit na ustupující wagnerovce na cestě z města a zasadit jim ztráty čítající až 80 lidí a několik kusů techniky.
+          - Pokračují ukrajinské raketové a dronové útoky na ruské základny a infrastrukturu. Zasaženo bylo několik skladišť paliv, například ve městech Afipsky a Ilsky v Krasnodarské oblasti. Zasaženy byly také základny v Melitopolu a Tokmaku. 
+          - Okupační správa v Luhanské oblasti hrozí zaměstnancům firem, že jim nebudou vyplácen mzdy, pokud si nepřevezmou ruské pasy. Nucená rusifikace ukrajinské populace je jasným důkazem probíhající genocidy. 
+          - Raketa, která se našla v prosinci v půlce Polska jen 10 km od výcvikového střediska NATO, je podle expertů zatoulaný ruský Kalibr. Analytici nyní řeší, jak mohla proletět tak daleko, aniž by ji zachytila protivzdušná obrana. 
+          - Gruzínský premiér na setkání v Bratislavě šířil ruskou propagandu, když prohlásil, že jeden z důvodů ruské invaze je expanze NATO, respektive ambice Ukrajiny vstoupit do aliance. 
+          - Americký senátor Lindsey Graham po seznámení se s plány ukrajinské ofenzivy prohlásil, že „v následujících dnech uvidíme velmi impresivní demonstraci ukrajinské síly. 
+          - Ukrajinci pomocí rakety HIMARS zničili velící jednotku ruského systému S-400 v Chersonské oblasti. Je to pro Rusy vůbec první ztráta tohoto typu vozidla. 
+          - Ukrajinský generální štáb informoval, že se včera skupina ruských sabotérů neúspěšně pokusila u Charkova proniknout přes hranici. 
+          - Ukrajina informovala, že povolí tranzit ruského amoniaku, pokud Rusové prodlouží obilnou dohodu v Černém moři a budou ji ctít. 
+          - Evropská unie zavedla sankce proti pěti ruským občanům, které viní z příprav akcí s cílem destabilizovat Moldavsko. 
+          - Polsko vytvoří komisi, která bude vyšetřovat ruské vlivové operace a jejich dopad na politiku. A co my?
+          - Podle deníku Politico používají wagnerovci Facebook a Twitter pro nábor nových dobrovolníků. 
+          - Ruští okupanti ukradli z Mariupolské Zoo lvíče a věnovali ho moskevskému cirkusu. 
+          - Britská zbrojovka BAE Systems otevře na Ukrajině zastoupení a později i pobočku. 
+          - Šebekino v ruské Bělgorodské oblasti bylo dnes v noci pod dělostřeleckou palbou. 
+          - Na oficiální návštěvu Moskvy přijel prezident nejchudší země světa – Eritrey. 
+          - Ruská legie oznámila, že eviduje „tisíce“ zájemců o vstup do jejích řad. 
+          - V Černém moři je nyní 12 ruských lodí se 24 raketami Kalibr. 
+          - NATO posílá do Kosova dalších 700 vojáků. 
+        videa: |
+          - [To není kamuflážní síť ale střecha, kterou navštívil HIMARS s tříštivou hlavicí ](https://twitter.com/Seveerity/status/1663829560989761537)
+          - [Kupředu ](https://twitter.com/GloOouD/status/1663585488429514762)
+          - [TikTok batalion je zpět! ](https://twitter.com/Maks_NAFO_FELLA/status/1663554983621709828)
+          - [Zasažená základna V Jurijivce s komentářem ](https://twitter.com/wartranslated/status/1663678563814391809)
+          - [Nejlepší palačinky](https://twitter.com/nevedimka123/status/1663570806440337413)
+          - [Dopad zbytků rakety PVO na silnici v Kyjevě](https://twitter.com/nexta_tv/status/1663840894980694017)
+          - [Gepard ](https://twitter.com/EuromaidanPress/status/1663758449929330689)
+          - [U Bachmutu](https://twitter.com/WarMonitors/status/1663860979900325888)
+          - [Ukrajinský šturm ](https://twitter.com/Bodbe6/status/1663548054195286018)
+          - [Snajpr pracuje ](https://twitter.com/front_ukrainian/status/1663817734142951424)
+          - [Rusové odpálili silnici v pohraničí ](https://twitter.com/nexta_tv/status/1663804055066484736)
+          - [Trefa!](https://twitter.com/EuromaidanPress/status/1663802741792153600)
+          - [Tahle setkání… ](https://twitter.com/nexta_tv/status/1663777461287493634)
+          - [Afipsky, rafinérie ](https://twitter.com/EuromaidanPress/status/1654034565512458242)
+          - [Stejné místo ](https://twitter.com/ManiacMagic1/status/1663836481872445440)
+          - [Mínus tank](https://twitter.com/PaulJawin/status/1663829914590621696)
+          - [Rusové v přestrojení za Rusy](https://twitter.com/NOELreports/status/1663611044260986884)
+          - [Ruský Su-25 ](https://twitter.com/front_ukrainian/status/1663825791400943622)
+          - [Šturm ](https://twitter.com/nevedimka123/status/1663587950192410624)
+          - [V kořistním tanku ](https://twitter.com/front_ukrainian/status/1663797597839007746)
+          - [Lovení pokémonů](https://twitter.com/e9sMy8PcGUL4FX7/status/1663845890753216512)
+          - [Mínus BMP ](https://twitter.com/front_ukrainian/status/1663613008596070400)
+          - [Marjinka](https://twitter.com/2uwmp/status/1663495699160354819)
       - title: "Úterý"
         year: "30. květen 2023"
         image: assets/img/timeline/2023-05-30.jpg
