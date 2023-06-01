@@ -35,6 +35,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "1. červen 2023"
+        image: assets/img/timeline/2023-06-01.jpg
+        desc: "Dnešní den nezačal pro Rusy dobře. Diverzní skupiny opět překročily ruské hranice, tentokrát u města Šebekino. Místní hlásily od rána těžké boje v pohraničí, ruské dobrovolnické sbory následně vstoupily až do samotného města, čemuž předcházela evakuace některých lidí, a hlavně členů místní samosprávy, které těsně před tím zachytila některá videa, jak narychlo pálí státní dokumenty v sudech před radnicí. Administrativní budovu později po útoku diverzantů zachvátil požár. Ruská verze celého incidentu je nicméně už tradičně jiná. „Trošičku“. Podle ruského ministerstva obrany k žádnému narušení hranic nedošlo a diverzní skupiny byly zastaveny a zatlačeny zpět už na hranici, přičemž měly ztratit 30 mužů. Když k tomu připočtu ztráty, co ruské ministerstvo hlásilo naposledy, a vezmu v potaz, že celá diverzní skupina má velikost jen jednoho praporu, mělo by být prakticky hotovo, ne? Ale ono ne. Ale teď už [další novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0YXSvgoQPiw6NsP2JDZHqWUEK5cA8TB8J4xXCkN7m1K1yLsfuPY4RthzmoK8hkWNcl):"
+        detail: |
+          - Rusové v noci opět zaútočili pomocí raket na Kyjev. Vypáleno mělo být 10 raket Iskander a všechny sestřelila ukrajinská PVO. Bohužel to ani tentokrát neznamenalo, že rakety byly úplně zneškodněny. Jejich trosky po dopadu způsobili smrt 3 lidí včetně 9leté dívky. Nepodařilo se jim včas dostat do protivzdušného krytu, protože byl v době útoku zamčený. Dalších 12 lidí bylo zraněno. Mezi poškozenými budovami je i jedna poliklinika, zahrada školky a několik bytovek. 
+          - Ukrajinský ombudsman oznámil, že se podařilo potvrdit předchozí domněnky, že někteří vězni, ať už vojenští nebo civilní, a také některé děti odvlečené z okupovaných obcí, byli transportováni přes území Běloruska za přímé součinnosti běloruských úřadů. 
+          - Maďarsko požádalo Evropskou unii o prodloužení zákazu dovozu ukrajinského obilí nejen do Maďarska, ale také do Polska, Rumunska, Bulharska a Slovenska. 
+          - Lavrov se na své africké tour pokusil přesvědčit vládu v Burundi, aby podpořila Rusko v probíhajícím konfliktu, nicméně neuspěl. 
+          - Ukrajinci provedli sérii útoků na ruské základny v Mariupolu, a masivně ostřelují ruské pozice u obce Polohy. 
+          - Podle průzkumu se po válce plánuje vrátit domů 62 % Ukrajinců, kteří našli azyl v sousedním Polsku. 
+          - Ukrajina požádala Německo o rakety Taurus s doletem až 500 km. Německo teď žádost posuzuje. 
+          - Norsko schválilo pětiletý program vojenské pomoci Ukrajině v celkové hodnotě 7 miliard euro. 
+          - Český Senát schválil rezoluci podporující vstup Ukrajiny do NATO ve zrychleném řízení. 
+          - Německo zruší 4 z 5 ruských konzulátů v zemi v reakci na nedávné kroky Moskvy. 
+          - Moldavsko oznámilo záměr vstoupit do EU do roku 2030. 
+        videa: |
+          - [Šebekino](https://twitter.com/nexta_tv/status/1664207527913877504)
+          - [Ukrajinci sestřelili Lancet ručními zbraněmi](https://twitter.com/EuromaidanPress/status/1664119584788475908)
+          - [Znovu Šebekino, budova místní samosprávy ](https://twitter.com/nexta_tv/status/1664198653085462529)
+          - [Trofejní tank](https://twitter.com/front_ukrainian/status/1663989638388744194)
+          - [Zatýkání vlastizrádce ](https://twitter.com/nexta_tv/status/1664174671271526400)
+          - [Trefa Javelinem ](https://twitter.com/front_ukrainian/status/1663971671420682241)
+          - [Stahující se wagnerovci z Bachmutu ](https://twitter.com/nexta_tv/status/1664167904630251520)
+          - [Děti ve školním krytu ](https://twitter.com/EuromaidanPress/status/1664116811191980032)
+          - [Komunikace v ruských zákopech ](https://twitter.com/nexta_tv/status/1663928545368854529)
+          - [Ve slovinském tanku na Ukrajině](https://twitter.com/front_ukrainian/status/1664014746440302594)
+          - [Bývalí okupanti ](https://twitter.com/KrzysztofJano15/status/1663940657986125826)
+          - [Život okupanta ](https://twitter.com/nexta_tv/status/1663922327069904901)
+          - [Evakuace sirotků z New Yorku u Bachmutu ](https://twitter.com/Lyla_lilas/status/1663827617017987072)
+          - [Ukrajinský Burevij](https://twitter.com/front_ukrainian/status/1664210227737026562)
+          - [Práce dělostřelců ](https://twitter.com/PaulJawin/status/1663964147657179136)
+          - [Trefa za jízdy ](https://twitter.com/front_ukrainian/status/1664170707528318976)
+          - [Pod Bachmutem ](https://twitter.com/small10space/status/1664195296077783040)
+          - [Zničený ukrajinský Buk](https://twitter.com/UAWeapons/status/1663889322469126145)
+          - [Čištění zákopů](https://twitter.com/front_ukrainian/status/1663919322887012357)
       - title: "Středa"
         year: "31. květen 2023"
         image: assets/img/timeline/2023-05-31.jpg
