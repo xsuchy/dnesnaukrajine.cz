@@ -35,6 +35,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "2. červen 2023"
+        image: assets/img/timeline/2023-06-02.jpg
+        desc: "Orbán během rozhovoru v jednom z maďarských rádií prohlásil, že mezi maďarskými zákonodárci panuje shoda na tom, že by se mělo Ukrajině za každou cenu zabránit přejít do ofenzivy. Jako důvod uvedl, že to povede pouze k dalším zbytečným obětem a snažil se svůj výrok uhrát na starost zejména o Ukrajince, když správně prohlásil, že útočící armáda má vždy větší ztráty než ta, která se brání. Jeho motivacím se věří jen těžko, nicméně je milé, že vzal vítr z plachet proruským dezinformátorům, kteří poměr mezi útočící a bránící se armádou dlouhodobě ignorují a snaží se tvrdit, že je to Ukrajina, kdo má větší ztráty. Zároveň je to pravda jen tehdy, pokud proti sobě stojí podobně vyzbrojené armády s podobným způsobem boje. Západní technika, která budoucí ukrajinskou ofenzivu povede, ale může snadno tento poměr změnit. Snad to tak i bude. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02afws3rYQUK5QrQ8mrz4US2dfeEuDM5odCzFdxyrPxqNZbKLDg5QVAhPByPkCDQvLl):"
+        detail: |
+          - Polsko oznámilo, že darovalo Moldavsku zbraně, munici a policejní výstroj, aby se země mohla bránit ruským pokusům o destabilizaci. Objem pomoci naplnil celkem šest dopravních letadel. Zároveň Zelenský během návštěvy Moldavska opět pohrozil ruským vojákům v Podněstří, aby oblast opustili, pokud si v budoucnu chtějí zachránit život. Spekuluje se, že Moldavsko možná dovolí ukrajinským jednotkám do Podněstří vstoupit a převzít kontrolu nad tamními obřími sklady munice. 
+          - Ruská legie opět překročila ruská hranice. Podle vlastních slov utrpěla při posledním výpadu ztráty v podobě několika raněných vojáků. Zároveň legie informovala, že Rusové při pokusu odpovědět na diverzní akce omylem rozstříleli auto s civilisty, o kterém si mysleli, že převáží diverzanty. Nejméně dva lidi při tom měli zahynout. Legionáři vyzvali civilisty, aby neohrožovali sami sebe a nevycházeli během probíhajících akcí z domů. 
+          - Ukrajina byla i dnes v noci pod útokem ruských raket. Dvě zasáhly Charkov, další mířily na Kyjev. Ukrajinské vzdušné síly informovaly, že nad Kyjevem sestřelily všech 15 raket a 21 dronů. Z některých videí je ale patrné, že ať už trosky raket, nebo pád interceptorů způsobily výbuchy i na zemi. Dva lidé byli při útoku zraněni. 
+          - Pokračují ukrajinské raketové a dronové údery na ruské základny a vojenskou infrastrukturu. Silná exploze hlásí okupovaný Berďansk, Heničesk, ale také ruský Kursk a Bělgorod. Zasaženy byly i skladiště paliv u Brjansku a Smolensku.
+          - Policie odložila vyšetřování původu jedné z dezinformací, která se šířila řetězovými maily a měla za cíl ovlivnit prezidentské volby v Česku. Pachatele se nepodařilo odhalit, stopa ale končí v Rusku. 
+          - Turecké úřady, které dohlíží na import obilí přes obilný koridor v Černém moři, hlásí, že nemůžou naplánovat další inspekce lodí, protože je nyní Rusko bez udání důvodu blokuje. 
+          - Podle generálního tajemníka NATO vyčerpala aliance zásoby munice do dělostřeleckých systémů, které mohla poskytnout Ukrajině. Zároveň vyzval země, aby navýšily produkci. 
+          - Pentagon uzavřel smlouvu s Muskovou firmou Starlink na nákup a nepřetržitý provoz terminálů Starlink pro Ukrajinu. 
+          - Podle analytiků má nyní nejspíš Ukrajina poprvé od začátku invaze stejný počet tanků jako Rusko. 
+          - Švýcarský parlament neumožní reexport švýcarských zbraní a munice do třetích zemí. 
+          - V Noginsku u Moskvy bylo při žhářském útoku zničeno 37 autobusů a minibusů. 
+          - Spojené státy oznámily, že nakoupí pro Ukrajinu další německé Gepardy. 
+        videa: |
+          - [Evakuace z fronty](https://twitter.com/operativno_ZSU/status/1664562389042298882)
+          - [Ruská legie u Bělgorodu](https://twitter.com/nexta_tv/status/1664559121629163522)
+          - [Rus ještě stále úplně nechápe, že ho Ukrajinci v zajetí nemučili ](https://twitter.com/Seveerity/status/1664222857553903618)
+          - [Multikill](https://twitter.com/front_ukrainian/status/1664559318715314178)
+          - [Znovu ruská legie ](https://twitter.com/nexta_tv/status/1664224069527519232)
+          - [A ještě jednou ](https://twitter.com/dim65609/status/1664349747979730946)
+          - [Sbírka min](https://twitter.com/666_mancer/status/1664364292731174913)
+          - [Údajně ruský TOS-1 odpovídající na průnik diverzantů](https://twitter.com/nexta_tv/status/1664331131771125760)
+          - [Ukrajinské MiGy](https://twitter.com/front_ukrainian/status/1664592871083720704)
+          - [Exploze v Berďansku](https://twitter.com/nexta_tv/status/1664560712792920064)
+          - [Ruský Pantsir neúspěšně uniká před ukrajinským dronem ](https://twitter.com/EuromaidanPress/status/1664421821113040896)
+          - [Na hranici s Běloruskem ](https://twitter.com/nexta_tv/status/1664536064957067264)
+          - [U Bachmutu](https://twitter.com/front_ukrainian/status/1664526329524387842)
+          - [Trefa!](https://twitter.com/PaulJawin/status/1664269791220363268)
+          - [Kursk dnes v noci](https://twitter.com/nexta_tv/status/1664486497003634689)
+          - [Berďansk ](https://twitter.com/front_ukrainian/status/1664567957169602561)
+          - [Trefa!](https://twitter.com/PaulJawin/status/1664549170034638849)
+          - [Znovu Berďansk ](https://twitter.com/front_ukrainian/status/1664564791979962368)
+          - [O fous](https://twitter.com/Bodbe6/status/1664386007171575809)
+          - [Mínus BMP](https://twitter.com/front_ukrainian/status/1664516627323289600)
+          - [Ruská legie loví Putinovce ](https://twitter.com/PaulJawin/status/1664539889109540864)
+          - [Bělgorod](https://twitter.com/front_ukrainian/status/1664265218342666240)
       - title: "Čtvrtek"
         year: "1. červen 2023"
         image: assets/img/timeline/2023-06-01.jpg
