@@ -35,6 +35,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "5. červen 2023"
+        image: assets/img/timeline/2023-06-05.jpg
+        desc: "Už kusé informace ze včerejšího odpoledne dávaly tušit, že dnešní zprávy budou výživné, a noční vývoj nezklamal. Ruské kanály informují, že Ukrajinci přešli na několika úsecích fronty do protiofenzivy. A ačkoliv se zatím nedá hovořit o nasazení plné síly, ale spíše jen o průzkumu bojem, objevují se informace, že se útoků účastnila i jedna z nově formovaných brigád se západní technikou. Nová 31. samostatná mechanizovaná brigáda útočila jižně od Vuhledaru, kde se jí podle ruských kanálů podařilo prorazit první linii obrany, proniknout 3km hluboko za původní frontovou linii a osvobodit Novodarivku a Neskučne. Podle videí při tom ztratili několik západních obrněných vozidel. Ukrajinci dále postupují u Novodoněckého nebo na severovýchodní části fronty u Svatového. Také obsadili ruské pozici severně od Bachmutu v Berchivce poblíž Soledaru, načež Prigožin obvinil vojáky ruské armády, že opustili své pozice a utekli, čímž informaci o postupu Ukrajinců v tomto směru potvrdil. Prigožin také informoval, že ruské jednotky opustily pozice na jihozápadním cípu Bachmutu, které teď znovu obsadili Ukrajinci. A to zdaleka není to největší, [co se stalo](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02b3u7JJAQbP3WzJ8CdDtHgm1Z1T5eZFKT8Smbddkh2PXCZd6A9cpS7YYPNMb3bCail). Sledujte:"
+        detail: |
+          - To, co původně vypadalo jenom jako série provokací z dílny ruských legionářů (Legie svoboda Ruska + Ruský dobrovolnický sbor), přerůstá pozvolna do plnohodnotné fronty. Rusové aktuálně nekontrolují 10 km2 vlastního území v Bělgorodské oblasti a dál probíhají těžké boje. Ruská legie včera vyzvala starostu Šebekina, aby se potkal s jejími zástupci u hraničního přechodu a bavili se o předání Šebekina pod kontrolu ruské legie. Jako gesto dobré vůle nabízeli několik zajatců z řad ruské armády. Starosta nejprve na jejich výzvy reagoval a s návrhy souhlasil, na setkání ale nedorazil a později natočil video, ve kterém jako důvod k odmítnutí setkání uvedl právě to, že legionáři drží zajaté ruské vojáky (dává vám to smysl?). Legionáři poté informovali, že zajatce předají ukrajinské vládě. Prigožin kvůli situaci opět kritizoval ruské ministerstvo obrany. Ke kritice se přidal i Kadyrov a nabídl, aby do Bělgorodu ruské velení přesunulo 70 000 kadyrovců. Takovou sílu nicméně čečenské jednotky ani nemají. Kadyrovců bylo před válkou okolo 12 000, přičemž okolo 1 200 se účastnilo bojů na Ukrajině.
+          - Když jsme u wagnerovců, zajímavý vývoj se odehrává uvnitř ruských ozbrojených složek. Wagnerovci zveřejnili video, na kterém je zachycený podplukovník Roman Venevitin z neslavné ruské 72. brigády, kterého sami wagnerovci zajali. Je viditelně zmlácený a na kameru se omlouvá za to, že nařídil střelbu na jednotku wagnerovců údajně kvůli osobní animozitě. Je to vůbec první otevřený konflikt mezi ruskou armádou a wagnerovci. Dosud šlo spíše o drobné potyčky a slovní výměny. Girkin na to konto volá po zatčení a uvěznění Prigožina. Interní konflikt v Rusku je tak možná mnohem pravděpodobnější, než jsme si troufali myslet. 
+          - Šéf ukrajinské Národní bezpečnostní rady Danilov uvedl, že ztráty ukrajinský sil vůči Rusům za celé desetiměsíční dobývání Bachmutu činí 1:7,5. To by stále znamenalo (podle různých odhadů) zhruba 15 000 ztrát na straně ukrajinské armády a až 5 000 zabitých (Ukrajina uvádí cca 13 000, Spojené státy odhadují 20 000 raněných a mrtvých na straně Ukrajiny a přes 100 000 na straně Ruska – poměr 1:5). Jeho číslo tedy může snadno odpovídat realitě. 
+          - Stoltenberg po schůzce s Erdoganem oznámil, že Švédsko splnilo všechny podmínky Turecka pro vstup do NATO. Zástupci Švédska a Turecka se mají potkat už příští týden a diskutovat o případném vstupu Švédska do NATO už na červencovém summitu. Ergodan tak nejspíš jen čekal, až bude po volbách a neměl v úmyslu zemi ve vstupu bránit, jak příznivci Ruska doufali. 
+          - Ukrajinci v noci na dnešek zasáhli ruské základny a sklady v Džankoj, Doněcku, Makijivce, Volnovaše, Melitopolu, Jakimivce, Mariupolu, Muromu, Glotovém, Kozince, Krasnodaru a dalších obcích, a také v ruském Šebekinu, Krasnodaru a Bělgorodu.
+          - V Německé Apoldě vypukl požár v táboře pro ukrajinské uprchlíky. V plamenech zahynul devítiletý chlapec, dalších 10 lidí bylo zraněno. Příčina požáru se zatím vyšetřuje. 
+          - Ruské ministerstvo obrany navrhuje, aby bylo možné umístit lidi do vojenských rejstříků i bez toho, aby povolaní lidé osobně navštívili vojenský komisariát. 
+          - Kyrgyzské úřady informovaly, že speciální jednotky zadržely několik lidí, kteří plánovali státní převrat. Podrobnosti ale zatím neuvedly. 
+          - V Charkově byl vztyčen nový pomník dětem, které zahynuly během ruské invaze na Ukrajinu. Kde je teď vaše „Alej andělů“, dezoláti?
+          - Revize stavu protileteckých krytů v Kyjevě odhalila, že pouze 56 % krytů ve městě je otevřených a připravených přijmou lidi. 
+          - Lotyšsko předalo Ukrajině 66 aut, které úřady zabavily lidem, kteří řídili v opilosti. 
+        videa: |
+          - [Ukořistěný ruský Tigr u Bělgorodu a další zajatci ](https://twitter.com/Arslon_Xudosi/status/1665622766702174208)
+          - [Ruská legie v Rusku](https://twitter.com/Bodbe6/status/1665432566923444224)
+          - [Pouliční boje v Rusku](https://twitter.com/PaulJawin/status/1665369014502129664)
+          - [Zajatý Rus v Rusku](https://twitter.com/NOELreports/status/1665446930728599561)
+          - [Po přestřelce (citlivé!)](https://twitter.com/herooftheday10/status/1665652144387551232)
+          - [„Když tě zraní, to děsivé není. Děsivé je, když zabijí někoho vedle a nemůžeš mu pomoct.“ ](https://twitter.com/Lyla_lilas/status/1665359318605078528)
+          - [Zajatý podplukovník wagnerovci ](https://twitter.com/wartranslated/status/1665472757696528386)
+          - [Ruští legionáři ](https://twitter.com/NOELreports/status/1665313487105449984)
+          - [Avdijivka](https://twitter.com/nexta_tv/status/1665571899022413826)
+          - [Legionáři v noci zničili ruskou techniku v Šebekinu](https://twitter.com/EuromaidanPress/status/1665631650275901440)
+          - [Kvalitní škrtidlo je otázka života a smrti (citlivé!)](https://twitter.com/frontlinekit/status/1665577493808414724)
+          - [I tahle holka bojuje](https://twitter.com/BlackStork22/status/1665370492025405441)
+          - [Ukrajinský tank T-64BV zničil ruský T-80BV](https://twitter.com/EuromaidanPress/status/1665579197014634496)
+          - [Mínus další Buk](https://twitter.com/EuromaidanPress/status/1665478785683312640)
+          - [Bambi ](https://twitter.com/Lyla_lilas/status/1665419673398042631)
+          - [Ukrajinský tank versus ruské zákopy](https://twitter.com/PaulJawin/status/1665352224141344770)
+          - [Tank s českou stopou](https://twitter.com/front_ukrainian/status/1665669482944053252)
+          - [Další ruský pokus u Avdijivky](https://twitter.com/front_ukrainian/status/1665417637810020352)
+          - [Co se tady děje?](https://twitter.com/NOELreports/status/1665644579754848257)
       - title: "Neděle"
         year: "4. červen 2023"
         image: assets/img/timeline/2023-06-04.jpg
