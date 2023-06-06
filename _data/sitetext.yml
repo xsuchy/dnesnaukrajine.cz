@@ -35,6 +35,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "6. červen 2023"
+        image: assets/img/timeline/2023-06-06.jpg
+        desc: "Devět měsíců poté, co Ukrajina poprvé informovala, že Rusové zaminovali přehradu v Nové Kachovce, aby ji odpálili při případném pokusu Ukrajinců o překročení řeky během Chersonské protiofenzivy, došlo k tomu, před čím Ukrajinci varovali, a to ve chvíli, kdy se mluví o potenciálním ukrajinském obojživelném útoku přes Dněpr na jih. Tisíce lidí ve zhruba 80 obcích jsou momentálně evakuováni, a aby Rusko přisypalo sůl do rány, jak to jen ono umí, záchranáři a policisté, kteří se na evakuaci podílí, jsou od rána pod nepřetržitou palbou ruského dělostřelectva. Několik už jich bylo zraněno. Zničení přehrady je samo o sobě ekocida, která promění úrodnou půdu na několik let v poušť, nevratně zničí celá města a odřízne Krym od dodávek pitné vody. A aby toho nebylo málo, pokud bude voda v nádrži dál klesat, může se stát, že jaderná elektrárna v Enerhodaru nebude mít, jak chladit svoje reaktory. Zelenský označil událost za srovnatelnou s použitím zbraní hromadného ničení. Ruští vojáci to očividně prožívají jinak. Na sítích se objevilo několik videí, kde vojenští blogeři celou událost vítají a vyzývají k likvidaci dalších vodních děl. Rusové také od první chvíle zaplavili informační prostor teoriemi o tom, proč za odpálením stojí Ukrajinci, a některé už pronikají do českých dezinformačních kanálů. Rozsah poškození ale těžko přisuzovat jakékoliv síle „zvenčí“. Ukrajinci jednoduše nemají zbraně o síle, která by dokázala prorazit železobetonovou konstrukci přehrady. Pro představu, v roce 41, když Sověti vyhodili do povětří nádrž v Záporoží, aby zastavili německou armádu, použili více než 20 tun trhavin. Rakety, jako je například Storm Shadow, ale mají nálož pouze o hmotnosti 450 kg a na proražení několika metrů železobatenu by navíc byla potřeba speciální hlavice. Podle Ukrajinců tedy došlo k odpálení trhavin zevnitř přehrady, přičemž rozkaz k odpálení měl dát velitel ruské motostřelecké brigády, která brání přehradu. Nebo spíš bránila. A teď [další novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0MioWmJaBmszsKvAhtspGYCUFXcNCnDKngKQERRx3miJPvVdRZ9C8vxJpWxcuRLA3l):"
+        detail: |
+          - Rusko v noci na dnešek vyslalo 35 raket na Kyjev. Podle ukrajinských vzdušných sil tentokrát PVO sestřelila 100 % z nich. Jelikož se na sítích doposud neobjevila žádná videa poškozených budov po zásahu raket jako při minulých útocích, je možné, že informace odpovídá realitě. Podle dlouhodobých statistik je Ukrajina schopna ničit 83 % příchozích raket a 89 % dronů. 
+          - Ruské ministerstvo obrany publikovalo celkové ztráty, které údajně měly utrpět útočící ukrajinské síly na Záporožské a Doněcké frontě. Podle Rusů měli Ukrajinci přijít o 1 500 mužů, 109 obrněných vozidel a 28 tanků včetně osmi Leopardů 2 a třech tanků AMX-10. K jejich tvrzení ale neexistuje žádný důkaz, jak by člověk u tak velkolepých prohlášení čekal. 
+          - Další wagnerovec, který byl za službu v ozbrojených silách omilostněn, po návratu z Ukrajiny zabíjel. 23letý Nikita Ljubimov z Čuvašska ubil k smrti svého kamaráda Igora Puškina. Činu předcházelo vyhrožování další ženě ze strany Ljubimova, se kterým úřady odmítly cokoliv dělat, protože podle místních nechtěly vyšetřovat „válečného hrdinu“. 
+          - Hackeři se nabourali do vysílání televizí v příhraničních regionech a odvysílali deep fake video, na kterém falešný Putin oznamuje evakuaci pohraničí, vyhlášení stanného práva a generální mobilizaci. 
+          - V době, kdy se objevily první informace o zničení Kachovské přehrady, publikovalo OSN na svém oficiálním účtu na Twitteru status o oslavě Dne ruského jazyka. 
+          - Ruská dělostřelecká palba poškodila u Kupjansku potrubí, ve kterém proudí amoniak. Jako by jedna ekologická katastrofa nebyla dost.
+          - Austrálie jedná s Ukrajinou o potenciálním prodeji 41 letounů F/A-18 Hornet, které australské letectvo vyřadilo ze služby. 
+          - Během výpadu ruské legie do pohraniční obce Novaja Tavolžanka byl zabit plukovník ruské gardy Andrej Stesev. 
+          - Podle ruských blogerů zahynuli včera 4 ruští piloti dronů poté, co v terénním autě najeli na vlastní minu. 
+          - U Charkova byl objeven ukrytý ruský armádní sklad s deseti tunami nejrůznější munice. 
+          - Ruská legie podniká přeshraniční výpady na linii o celkové délce přibližně 260 km.
+        videa: |
+          - [Andrej Stesev ](https://twitter.com/NOELreports/status/1666003049695834114)
+          - [Ruskýp pokus o útok u Svatového skončil katastrofou ](https://twitter.com/Teoyaomiquu/status/1665369556020330498)
+          - [Přehrada](https://twitter.com/KyivIndependent/status/1665976079016775682)
+          - [Bývalá přehrada ](https://twitter.com/front_ukrainian/status/1665998306709757952)
+          - [Nová Kachovka](https://twitter.com/nexta_tv/status/1666004261375823872)
+          - [Záchrana psa](https://twitter.com/KyivIndependent/status/1665993015775690754)
+          - [Dněpr ](https://twitter.com/front_ukrainian/status/1666019945753333760)
+          - [Rusové opouští zaplavené ostrůvky](https://twitter.com/front_ukrainian/status/1665976139863539713)
+          - [Ruský voják a vývoji v Bělgorodu ](https://twitter.com/Tendar/status/1665796654295908353)
+          - [Ruské GoPro zachytilo zničení ruského tanku minou, řidič nepřežil](https://twitter.com/EuromaidanPress/status/1665917426234716160)
+          - [Rusá legie stále v ruském pohraničí ](https://twitter.com/nexta_tv/status/1665747994837233667)
+          - [Noční akce na Dněpru ](https://twitter.com/front_ukrainian/status/1665757630634115073)
+          - [Okupanti našli vlastní minu](https://twitter.com/nexta_tv/status/1665690572080783362)
+          - [Objevený sklad munice ](https://twitter.com/EuromaidanPress/status/1665822047409410048)
+          - [Neschovali se ](https://twitter.com/PaulJawin/status/1665824830665441282)
+          - [Dookupoval… (citlivé)](https://twitter.com/herooftheday10/status/1665781522203328514)
+          - [Čištění děr ](https://twitter.com/Seveerity/status/1665850437151473665)
       - title: "Pondělí"
         year: "5. červen 2023"
         image: assets/img/timeline/2023-06-05.jpg
