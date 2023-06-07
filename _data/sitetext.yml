@@ -35,6 +35,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "7. červen 2023"
+        image: assets/img/timeline/2023-06-07.jpg
+        desc: "I přes zavedené embargo na informace z probíhajících ofenzivních akcí Ukrajiny se dá mezi řádky číst, jak se situace nejspíš vyvíjí. Jisté je, že Ukrajinci postupují tempem 200-1000 metrů denně na obou křídlech Bachmutu. Na záporožské části fronty, kde se předpokládá budoucí hlavní útok, nejspíš uspěl i další průzkum bojem a prorazil první linii obrany. Podle Rusů tu Ukrajinci využívají novou taktiku, kdy malé mobilní jednotky vozí pěchotu na kontaktní linii a vrací se okamžitě pro posily, zatímco evakuují případné raněné. Ruské ministerstvo dnes překvapivě nevydalo žádné velkolepé tvrzení o zastaveném útoku tisíců ukrajinských vozidel. Tak třeba ještě přijde. Ale teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02GHBhrqmZ2uZyfp6tJFB1xeakiVJvCEzKbijdkbY2haxM2GgnyurDFuE1JoJb9nArl):"
+        detail: |
+          - Voda z protržené přehrady zcela zaplavila zoopark Kazkova Dibrova v Nové Kachovce, kde se nacházelo okolo 300 zvířat, primárně nejrůznější ptactvo, hospodářská zvířata nebo malé opice. Předpokládá se, že kromě vodních zvířat žádné nepřežilo. Ruská média naprosto cynicky zprávu o zaplavení minizoo dementovala se slovy, že „v Nové Kachovce žádná zoo není“. 
+          - Rusové neevakuují lidi ze zaplavených oblastí podél Dněpru. Většinou jde přitom o starší lidi, kteří v místě zůstali jednoduše proto, že nemají kam jinak jít. Senioři tak často píšou a volají o pomoc, ale nikdo pro ně nepřichází. 
+          - Rusko zveřejnilo záběry z helikoptéry, které mají zachycovat zničení tanků Leopard 2 pomocí ATGM. Ze záběrů je ale i bez odborných znalostí patrné, že zasažené objekty nebyly tanky, nýbrž zemědělské kombajny. 
+          - Spojené státy oznámily, že jejich rozvědka naznačuje, že za protržením Kachovské přehrady stojí Rusko. Stejný názor zastává i Institute for the Study of War. 
+          - Ruští blogeři dnes spekulovali, že Rusko může kdykoliv zničit také přehradu v Kyjevě a potenciálně způsobit smrt stovek tisíců lidí. 
+          - Proruská aktivistka Elena Kolbasniková odešla v Německu od soudu s pokutou ve výši 900 € za schvalování zločinů. 
+          - Podle předběžných zpráv prodá Katar 15 systémů PVO Gepard zpět Německu, které je obratem poskytne Ukrajině. 
+          - Rusové na Krymu odsoudili k 15 letům za mřížemi umělce, který polil radnici v Jevpatorii žlutou a modrou barvou. 
+          - Srbský prezident informoval, že nebude namítat nic proti případným dodávkám zbraní Ukrajině. 
+          - Finsko vyhostí devět zaměstnanců ruské ambasády. Měli pracovat pro ruskou rozvědku. 
+          - Rusové si nad Krymem sestřelili vlastní průzkumný íránský dron Mojaher-6. 
+          - Česká republika bude opravovat a modernizovat ukrajinské tanky T-64. 
+          - V Haagu proběhla první slyšení ve věci ruské invaze na Ukrajinu. 
+        videa: |
+          - Voda z protržené přehrady zcela zaplavila zoopark Kazkova Dibrova v Nové Kachovce, kde se nacházelo okolo 300 zvířat, primárně nejrůznější ptactvo, hospodářská zvířata nebo malé opice. Předpokládá se, že kromě vodních zvířat žádné nepřežilo. Ruská média naprosto cynicky zprávu o zaplavení minizoo dementovala se slovy, že „v Nové Kachovce žádná zoo není“. 
+          - Rusové neevakuují lidi ze zaplavených oblastí podél Dněpru. Většinou jde přitom o starší lidi, kteří v místě zůstali jednoduše proto, že nemají kam jinak jít. Senioři tak často píšou a volají o pomoc, ale nikdo pro ně nepřichází. 
+          - Rusko zveřejnilo záběry z helikoptéry, které mají zachycovat zničení tanků Leopard 2 pomocí ATGM. Ze záběrů je ale i bez odborných znalostí patrné, že zasažené objekty nebyly tanky, nýbrž zemědělské kombajny. 
+          - Spojené státy oznámily, že jejich rozvědka naznačuje, že za protržením Kachovské přehrady stojí Rusko. Stejný názor zastává i Institute for the Study of War. 
+          - Ruští blogeři dnes spekulovali, že Rusko může kdykoliv zničit také přehradu v Kyjevě a potenciálně způsobit smrt stovek tisíců lidí. 
+          - Proruská aktivistka Elena Kolbasniková odešla v Německu od soudu s pokutou ve výši 900 € za schvalování zločinů. 
+          - Podle předběžných zpráv prodá Katar 15 systémů PVO Gepard zpět Německu, které je obratem poskytne Ukrajině. 
+          - Rusové na Krymu odsoudili k 15 letům za mřížemi umělce, který polil radnici v Jevpatorii žlutou a modrou barvou. 
+          - Srbský prezident informoval, že nebude namítat nic proti případným dodávkám zbraní Ukrajině. 
+          - Finsko vyhostí devět zaměstnanců ruské ambasády. Měli pracovat pro ruskou rozvědku. 
+          - Rusové si nad Krymem sestřelili vlastní průzkumný íránský dron Mojaher-6. 
+          - Česká republika bude opravovat a modernizovat ukrajinské tanky T-64. 
+          - V Haagu proběhla první slyšení ve věci ruské invaze na Ukrajinu.
       - title: "Úterý"
         year: "6. červen 2023"
         image: assets/img/timeline/2023-06-06.jpg
