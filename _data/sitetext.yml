@@ -35,6 +35,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "9. červen 2023"
+        image: assets/img/timeline/2023-06-09.jpg
+        desc: "Populární ruský vojenský kanál na Telegramu „Rybář“ (Rybar) zveřejnil příspěvek, ve kterém obviňuje slovenskou prezidentku Čaputovou z „drzosti“, když tvrdí, že Čaputová zapojila NATO do ovlivňování volební kampaně na Slovensku. To vše dává do souvislosti také s obvyklým pachatelem Georgem Sorosem a celý text Rybar zakončuje slovy „spoléháme se na vás, pane Fico“. Že Rusko podporuje napříč západním světem všechny antisystémové, populistické a fašistické proudy ve společnosti, to je nezpochybnitelný fakt, ale málokdy se to děje takto otevřeně. Držme Slovákům palce, ať se Slovensku podaří včas sejít z maďarské cesty. A teď [pár aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0zTiHDwADKSEd5KxMChp7Uv2T9sWCU7n5Y4CQJ9qJ2LoKdeG2fFMWUeR7B1PqPCGgl):"
+        detail: |
+          - Voda v zaplavené části Chersonské oblasti začíná pomalu klesat. Přes noc údajně ustoupila o cca 20 cm. Zároveň ale ustupující voda nepřináší pouze pozitiva. Chladící nádrži u Záporožské jaderné elektrárny hrozí narušení statiky, protože je konstruovaná tak, že voda z Kachovské nádrže vytváří tlak na její vnější stěny a působí jako protiváha k vodě v nádrži. Experti tak nyní zkoumají, zda nehrozí, že by se chladící nádrž z důvodu vnitřního tlaku vody mohla protrhnout. 
+          - Ukrajinská rozvědka zveřejnila údajnou nahrávku dvou mužů, ze které vyplývá, že Kachovskou přehradu vyhodila do vzduchu ruská skupina ženistů. Podle rozhovoru ale nebylo cílem přehradu zničit, pouze poškodit a Ukrajinu tak vystrašit, nicméně poškození bylo nakonec větší, než sabotéři plánovali. Autenticitu hovoru ale nelze potvrdit. 
+          - Podle amerického koordinátora protiruských sankcí Jamese O’Briena pomáhá Rusku obcházet protiruské sankce pětice zemí: Gruzie, Arménie, Turecko, Kazachstán a Spojené arabské emiráty. Figurují prý jako překupníci pro některé materiály a zboží, jejichž export do Ruska je sankciován. 
+          - Rusové zasáhli raketou supermarket v ukrajinské Umani. Jak už je zvykem, zásah města přiznali, ale tvrdí, že zničili sklad západní munice. Video z průmyslových kamer v supermarketu ale jejich lež snadno vyvrací. 
+          - Podle ukrajinské rozvědky se Rusku podařilo stabilizovat výrobu balistických raket a střel s plochou dráhou letu a dokáže tak vyrábět dostatek raket pro to, aby pravidelně zasahovalo Kyjev i další klíčová města. 
+          - Ukrajina tvrdí, že při jednom z posledních úderů na okupovaný Doněck zasáhla raketa budovu, kterou čečenský prapor Achmat používal jako cvičiště. Údajně při úderu zahynulo 56 čečenských vojáků. 
+          - V ruské Voroněži zasáhl ukrajinský dron panelový dům. Podle ruských blogerů nejspíš mířil na tamější letecký výrobní závod, ale elektronická rušička ho odklonila, načež se zřítil na obytný dům. 
+          - V egyptské Hurgádě včera roztrhal 23letého ruského občana žralok tygří. Podle kusých informací nešlo o turistu, ale o muže, který v Egyptě už několik měsíců pobýval, aby se vyhnul mobilizaci. 
+          - Podle amerických představitelů se Ukrajině podařily dílčí úspěchy na frontě zejména v okolí Bachmutu, nicméně za cenu značných ztrát na technice i živé síle. 
+          - V ruské Kazani zemřel soudce federálního soudu Artem Batěněv. Vyšetřovatelé informovali, že vypadnul z okna svého bytu ve 12. patře. 
+          - Podle neziskové organizace North Caucasus SOS provádí Rusko v Čečensku nucenou mobilizaci mladých mužů. 
+          - Ruská dělostřelecká palba dnes cíleně zasáhla evakuační centrum zřízené v zaplaveném Chersonu. 
+          - Čečenští kadyrovci nově nakoupili nejméně 8 obrněných terénních vozidel Shaanxi Baoji od Číny. 
+          - Na plážích v Oděse se začaly objevovat z moře vyplavené kusy domů, nábytek a další věci. 
+          - Ruské Šebekino bylo dnes v noci pod silnou dělostřeleckou palbou. 
+        videa: |
+          - [Evakuační bod v Chersonu ](https://twitter.com/UAloveLEOPARD/status/1666997535573962753)
+          - [Když si myslíš, že utíkáš před granátem… (citlivé)](https://twitter.com/front_ukrainian/status/1666856743832367105)
+          - [Ukrajinci na záporožské frontě](https://twitter.com/NOELreports/status/1667112837863358467)
+          - [Rusy zasažená samoobsluha v Umani ](https://twitter.com/nexta_tv/status/1667095085626818560)
+          - [Šebekino](https://twitter.com/NOELreports/status/1667088618643505155)
+          - [Ten cyklista…](https://twitter.com/front_ukrainian/status/1666943661387710464)
+          - [Ukrajinské pozice zasáhla ruská fosforová munice](https://twitter.com/Bodbe6/status/1666944318911725569)
+          - [Víc zachráněných ježků! <3](https://twitter.com/home_fella/status/1666888875686473728)
+          - [Šturm na ruské pozice u Avdijivky](https://twitter.com/front_ukrainian/status/1667107459226271744)
+          - [Zajímavý styl rybolovu](https://twitter.com/EuromaidanPress/status/1666913237940736000)
+          - [Ukrajinský snajpr](https://twitter.com/front_ukrainian/status/1666879604865236999)
+          - [V ruské Voroněži se zřítil útočný dron ](https://twitter.com/nexta_tv/status/1667095922709348352)
+          - [Mínus tank](https://twitter.com/EuromaidanPress/status/1666928337346781187)
+          - [Mastiff najel na minu, ale posádku zachránil](https://twitter.com/DefMon3/status/1666881152907345939)
+          - [Tank 3. šturmové ](https://twitter.com/front_ukrainian/status/1667119859954491392)
+          - [Ukrajinské Mastiffy, první najel na minu](https://twitter.com/Bodbe6/status/1666903543448494119)
+          - [Rusové v Dněperské deltě](https://twitter.com/PaulJawin/status/1666844407306280961)
+          - [Pokémoni](https://twitter.com/herooftheday10/status/1667105483667152896)
       - title: "Čtvrtek"
         year: "8. červen 2023"
         image: assets/img/timeline/2023-06-08.jpg
