@@ -35,6 +35,53 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "10. červen 2023"
+        image: assets/img/timeline/2023-06-10.jpg
+        desc: "Kvůli informačnímu embargu nemáme příliš spolehlivých informací o situaci na záporožské frontě, kde se očekává ofenziva, britská rozvědka ale ve svém pravidelném briefingu uvádí, že Ukrajincům se podařil „dobrý postup“. Z videí víme, že při tom ztratili zatím několik tanků včetně dodaných Leopardů, a také několik vozidel Mastiff a Bradley. Průnik v jednom ze směrů má délku zhruba 3 km. Daří se i další menší výpady. Rusko navíc informační vakuum využívá k tomu, aby zahltilo prostor vlastními verzemi událostí, a tak se v ruských zdrojích můžeme dočíst, že všechny útoky byly odraženy a nepřítel utrpěl pokaždé obří ztráty, což prokazatelně není pravda. Neznamená to ale, že by šlo vše hladce, naopak! Rusové poslední rok usilovně připravovali několik linií obrany a jejich dobývání s sebou ponese spoustu zmařených životů. Zatím to ale vypadá, že západní vozidla, i když zůstanou vyřazená na bojišti, dělají přesně to, k čemu jsou určena: zachraňují životy posádky. Tak se nenechme zdeptat tím, že se budou objevovat další fotografie a videa takových ztrát. Bez nich se bohužel válka vyhrát nedá. Ale teď už [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid033bsfhzoEFHGAp1H1bC6YEmpnxY9vMCXhs8fDVqE5beQxCD97uLYKuT9fwcrWT2Hel):"
+        detail: |
+          - Rusové v noci vyslali další salvu raket a dronů na ukrajinská města. Ukrajinská PVO tentokrát hlásí poměrně neuspokojivý poměr: 2 sestřelené rakety z celkem 8 vyslaných, a také 20 zničených dronů z 35. Cílem bylo primárně vojenské letiště u ukrajinského Myrhorodu. V Oděse bylo drony zasaženo několik bytových domů. 
+          - Před pražskou ruskou ambasádou se dnes konal ohlášený sraz příznivců a podporovatelů Putinova Ruska. Zaznívaly ty nejbizarnější konspirace, vlály ruské vlajky, zpívala se Kaťuša. Účast byla několik desítek lidí včetně nepravomocně odsouzeného muže, který na pražské demonstraci nesl na batohu nášivku wagnerovců. 
+          - Ukrajinským jednotkám se podařilo projet na lodích do zatopené obce Oleški na okupovaném břehu Dněpru v Chersonské oblasti a evakuovat několik lidí, které uvěznila povodeň z protržené přehrady. 
+          - Bílý dům odtajnil fotografie, které mají ukazovat závod na výrobu íránských dronů, který pomáhali vybudovat íránští inženýři blízko Moskvy. Do provozu má být uveden už na začátku příštího roku.
+          - Zloději v Polsku ukradli z vlaku mířícího na Ukrajinu 4 bedny dělostřelecké munice, a následně ji utopili v rybníku, aby zahladili stopy. Přesto je policie dopadla a hrozí jim až 10 let za mřížemi. 
+          - Rusko údajně předalo Maďarsku 11 zajatců maďarské národnosti z ukrajinského Zakarpatí, aniž by o tom Maďarsko kohokoliv předem informovalo nebo s kýmkoliv předání koordinovalo.
+          - Podle ukrajinského Generálního štábu Rusové začali s evakuací lidí v zaplavené části okupované Chersonské oblasti. Evakuují ale údajně jen ty, kteří si převzali ruské pasy. 
+          - Rusové zasáhli budovu nemocnice v Huljajpoli u Záporoží pomocí naváděné letecké pumy. Během útoku zahynul jeden ze zdravotníků a také kolemjdoucí žena. 
+          - Spojené státy informovaly, že jejich satelity zachytily explozi, která těsně předcházela zhroucení hráze Kachovské přehrady. 
+          - Belgie schválila další balíček vojenské pomoci obsahující 105mm dělostřeleckou munic v hodnotě okolo 32 mil. €. 
+          - Podle mluvčího ukrajinské armády postoupily Ukrajinci u Bachmutu o dalších 1 400 metrů za den. 
+          - Ázerbájdžán předal Ukrajině velkou zásilku humanitární pomoci. 
+          - Kanadský premiér Trudeau je na návštěvě Kyjeva.  
+        videa: |
+          - [Ukrajinský dron natočil útok ruské roty ze svých pozic ](https://twitter.com/nexta_tv/status/1667157754102915074)
+          - [Nepříjemně blízko ](https://twitter.com/NOELreports/status/1667471934186049536)
+          - [Jak vypadá dnešní ruský nacismus ](https://twitter.com/TheKremlinYap/status/1667217722092974081)
+          - [Mínus ruské BMP](https://twitter.com/EuromaidanPress/status/1667524263681687554)
+          - [Ruského vojáka zachránila vesta](https://twitter.com/Bodbe6/status/1667499240266911744)
+          - [Ukrajinský útok na ruské pozice ](https://twitter.com/Bodbe6/status/1667506171048067072)
+          - [Druhá část – u zákopu ](https://twitter.com/Bodbe6/status/1667506492931448837)
+          - [Třetí část – měli se vzdát ](https://twitter.com/Bodbe6/status/1667507022864998404)
+          - [Jiný úhel ](https://twitter.com/operativno_ZSU/status/1667109229906345985)
+          - [Bradley v akci ](https://twitter.com/front_ukrainian/status/1667414606644428806)
+          - [Na bývalé ruské pozici ](https://twitter.com/NOELreports/status/1667473871685971968)
+          - [Moře u Oděsy vyplavilo ostrůvek se srnkou](https://twitter.com/nexta_tv/status/1667449145899065345)
+          - […a také trosky domu se psem ](https://twitter.com/EuromaidanPress/status/1667151431088979974)
+          - [Ukrajinský dron to začal, ruský voják to z milosti dokončil ](https://twitter.com/PaulJawin/status/1667149453696925697)
+          - [Ukrajinci zasáhli hotel s ruskými kolaboranty](https://twitter.com/nexta_tv/status/1667423258935697408)
+          - [Titanic](https://twitter.com/front_ukrainian/status/1667452638005174272)
+          - [Rusové zasáhli dřevěnou maketu Leoparda ](https://twitter.com/EuromaidanPress/status/1667509419415068674)
+          - [V ruské Ufě hoří nákladní vlak s palivem ](https://twitter.com/nexta_tv/status/1667229657026928654)
+          - [Mínus ruský obrněnec ](https://twitter.com/EuromaidanPress/status/1667498091669487621)
+          - [Poškozený Leopard ](https://twitter.com/WarMonitors/status/1667492400476954624)
+          - [Kořist ](https://twitter.com/front_ukrainian/status/1667433254142476288)
+          - [Ruskou jednotku si našel automatický granátomet ](https://twitter.com/PaulJawin/status/1667529316446420992)
+          - [Porošenko se v Chersonu také ocitl pod palbou ](https://twitter.com/nexta_tv/status/1667180557267091457)
+          - [Ruský tank našel minové pole ](https://twitter.com/EuromaidanPress/status/1667336526865346561)
+          - [Ukrajinské dělostřelectvo pronásleduje prchající Rusy](https://twitter.com/Bodbe6/status/1667158027412070402)
+          - [Zvířata hledají úkryt u ukrajinských vojáků](https://twitter.com/Oksii33/status/1667083513512771584)
+          - [47. u Záporoží ](https://twitter.com/front_ukrainian/status/1667485710100692993)
+          - [Dělal mrtvého, je… (citlivé!!)](https://twitter.com/herooftheday10/status/1667225712825081873)
       - title: "Pátek"
         year: "9. červen 2023"
         image: assets/img/timeline/2023-06-09.jpg
@@ -77,7 +124,7 @@ timeline:
       - title: "Čtvrtek"
         year: "8. červen 2023"
         image: assets/img/timeline/2023-06-08.jpg
-        desc: "Jak nejlépe ukázat, že jste přišli „osvobodit civilní populaci od útlaku“? Podle Ruska nejspíš tak, že se na ně vykašlete, nebo jim rovnou k jedné katastrofě naložíte i další. O čem mluvím? Zatímco na pravém břehu Dněpru, který kontrolují Ukrajinci probíhají intenzivní záchranné práce v reakci na záplavy způsobené protrhnutím hráze v Nové Kachovce, Rusové civilisty na jimi kontrolovaném území neevakuují, a ti jsou tak v lepším případě už druhou noc lapeni na střechách svých domů, v horším případě utonuli. Ukrajinská armáda tak nyní využívá drony, které jindy hází na ruské pozice granáty, aby lidem na střechy shazovala jídlo a pití. Rusové navíc v duchu hesla „když už, tak už“ už druhý den nepřetržitě ostřelují civilisty a záchranáře během pokusů o evakuaci. Jeden člověk byl zabit, další dva raněni. A jako shnilou třešničku na téhle pomyslné kopě hnoje dnes se ruské dělostřelectvo pokusilo zabít prezidenta Zelenského, když dělostřelecká palba zasáhla ulici v zaplaveném Chersonu jen několik minut po tom, co ji Zelenský navštívil. Chová se takhle stát, který nezpůsobil ohromnou humanitární katastrofu? Na to si odpovězte sami, teď úpár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid034KbH4wpwCvPF85C5YyGp4RdL5nqR2ea35DgcbX3R1EhhdV7V4cLH59kE6kpW4AR7l):"
+        desc: "Jak nejlépe ukázat, že jste přišli „osvobodit civilní populaci od útlaku“? Podle Ruska nejspíš tak, že se na ně vykašlete, nebo jim rovnou k jedné katastrofě naložíte i další. O čem mluvím? Zatímco na pravém břehu Dněpru, který kontrolují Ukrajinci probíhají intenzivní záchranné práce v reakci na záplavy způsobené protrhnutím hráze v Nové Kachovce, Rusové civilisty na jimi kontrolovaném území neevakuují, a ti jsou tak v lepším případě už druhou noc lapeni na střechách svých domů, v horším případě utonuli. Ukrajinská armáda tak nyní využívá drony, které jindy hází na ruské pozice granáty, aby lidem na střechy shazovala jídlo a pití. Rusové navíc v duchu hesla „když už, tak už“ už druhý den nepřetržitě ostřelují civilisty a záchranáře během pokusů o evakuaci. Jeden člověk byl zabit, další dva raněni. A jako shnilou třešničku na téhle pomyslné kopě hnoje dnes se ruské dělostřelectvo pokusilo zabít prezidenta Zelenského, když dělostřelecká palba zasáhla ulici v zaplaveném Chersonu jen několik minut po tom, co ji Zelenský navštívil. Chová se takhle stát, který nezpůsobil ohromnou humanitární katastrofu? Na to si odpovězte sami, teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid034KbH4wpwCvPF85C5YyGp4RdL5nqR2ea35DgcbX3R1EhhdV7V4cLH59kE6kpW4AR7l):"
         detail: |
           - Analytici si všímají dvojakosti ruské komunikace o katastrofě na Dněpru. Zatímco anglicky mluvící ruské kanály a jejich čtenáři sdílí jednu spekulaci za druhou a obviňují z činu Ukrajinu, ruskojazyčná domácí propaganda slaví a vyzývá ke zničení hráze i na přehradě nad Kyjevem. Přesně jak upozorňoval přední odborník na totalitní režimy Timothy Snyder v dnes dříve sdíleném textu: Pokud chcete reportovat o tom, co říká ruská propaganda ven, je potřeba to porovnat s tím, co říká ruská propaganda dovnitř. 
           - Na internetu se objevilo video od ukrajinské školačky, jejíž rodina našla v Česku útočiště a kterou šikanuje skupina českých spolužáků ze školy v Opočně kvůli jejímu původu. České děti uráží ji, její zemi a vychvalují Rusko. Když jim na to ukrajinská holka opáčí, že „Rusko je hovno“, plivne ji jeden z kluků do obličeje. Nutno zdůraznit, že takové chování si děti nosí do školy z domova. Mamince už nabídlo několik organizací právní pomoc a škola slíbila, že konflikt bude řešit s dětmi i rodiči. 
