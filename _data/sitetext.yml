@@ -35,6 +35,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "11. červen 2023"
+        image: assets/img/timeline/2023-06-11.jpg
+        desc: "Na internetu se objevilo video, kde ruské armádní špičky diskutují, že nově by měl každý dobrovolník působící v některé ze soukromých armád podepsat smlouvu s ruskou armádou. Spekuluje se proto, že Rusko chce kvůli rostoucím konfliktům mezi regulérní armádou a wagnerovci dostal Prigožinovi žoldáky pod svou kontrolu. To by ale mohlo potenciálně konflikt ještě více prohloubit, protože Prigožin ani jeho svěřenci nemají důvěru ve vedení ruské armády, a dokonce proti Šojguovi a Gerasimovi opakovaně otevřeně kriticky vystupují. Popravdě, nic lepšího než otevřený konflikt obou ruských armád, si nemůžeme přát. Ale teď už [informace místo spekulací](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02YbbtRLVyV3nHwP7hnQUgPvEAm2yqJdsE4xe46kwWjz28Eubrp5uLhbtsUvFinK3Pl):"
+        detail: |
+          - Ukrajinská rozvědka tvrdí, že zajatci, které Rusové tajně předali Maďarsku, jsou nyní intenzivně připravováni na tiskovou konferenci, kde mají před kamerami kritizovat Ukrajinu, a naopak vychválit Ruskou pravoslavnou církev, která jejich transfer oficiálně zajišťovala. Podle ukrajinské rozvědky byla tisková konference jednou z podmínek propuštění zajatců. Z pohledu mezinárodního práva jde o občany Ukrajiny, takže není možné je přesunout do třetí země bez souhlasu jejich domoviny, nicméně Rusko má argumentovat tím, že jde o lidi ze zakarpatské oblasti, a tedy etnické Maďary. Ukrajinští politici věří, že se Rusko pokouší využít situaci k živení etnického napětí a „zakarpatského separatismu“, který ale existuje spíše v hlavách maďarských nacionalistů než v realitě. 
+          - Ruské kanály potvrzují značný postup Ukrajinců na záporožské frontě. V jednom ze směrů už má průnik za původní linii hloubku až 7 km. Ruský kanál Rybar tvrdí, že Ukrajinci obsadili obce Neskučne a Blahodatne téměř bez boje, což bude nejspíš souviset s množícími se videi, na kterých ruské jednotky hromadně prchají ze svých obranných pozic. Velký počet Rusů se také v posledních dnech Ukrajincům vzdal. Ukrajinci vyzývají, abychom brali s velkou rezervou ruská tvrzení, protože ruské kanály často zveličují počet útočící techniky a lidské síly během průzkumů bojem, aby následně mohly tvrdit, že ruští vojáci odrazili obří útok. Všechny ukrajinské kanály i přes informační embargo naznačují, že vývoj na frontě je zatím velmi pozitivní. 
+          - Putin poprvé na tiskové konferenci uznal, že Ukrajinci spustili svou ofenzivu. Bez uvedení konkrétních čísel k tomu uvedl, že Ukrajinci mají velké ztráty a obrana drží. Minimálně ten druhý výrok, jak můžeme číst i na ruských vojenských kanálech, není pravda. 
+          - Podle expertů znamená katastrofa na Kachovské přehradě konec pěstování melounů u Chersonu minimálně na několik let, možná i dekád. Odvodnění totiž bude znamenat dočasnou proměnu úrodné krajiny na step. 
+          - Podle ukrajinského Generálního štábu nyní Rusové nakládají s dezertéry a těmi, kdo nechtějí uposlechnou rozkazy, tak, že je automaticky převelí k útočným skupinám. 
+          - Rusové hlásí zvýšený pohyb ukrajinských vojáků a techniky na Charkovské části fronty. Možná se tak Ukrajinci chystají otevřít další směr své protiofenzivy. 
+          - Odhadem 700 000 Ukrajinců aktuálně nemá kvůli zničené přehradě u Chersonu stálý přístup k pitné vodě. 
+          - Podle běloruských investigativců poslao Bělorusko Rusko v prvním roce války 130 000 tun munice. 
+          - Rusko odmítlo poskytnout humanitárním misím OSN přístup do zaplavených oblastí u Chersonu.
+          - Pro vstup Ukrajiny do NATO je údajně 20 současných členských států Aliance.  
+          - Kanada předá Ukrajině zabavený ruský nákladní letoun An-124 Ruslan.
+          - U ruského Bělgorodu vykolejil další nákladní vlak. 
+        videa: |
+          - [Ukrajinské dělostřelectvo pálí na ruský konvoj ](https://twitter.com/nexta_tv/status/1667750504523264001)
+          - [Čeští Viktoři ](https://twitter.com/front_ukrainian/status/1667790908572532736)
+          - [Další tank se projel po ruských zákopech ](https://twitter.com/GwarWorin/status/1667583728929972226)
+          - [Ruské velení o žoldácích ](https://twitter.com/NOELreports/status/1667810365869113344)
+          - [Parádní trefa dronem ](https://twitter.com/front_ukrainian/status/1667586322473656320)
+          - [Ukrajinská pěchota jen těsně ](https://twitter.com/Bodbe6/status/1667701025539588099)
+          - [Záchrana kočky](https://twitter.com/KyivIndependent/status/1667480591913107456)
+          - [Útok vlčí smečky](https://twitter.com/front_ukrainian/status/1667785332304035840)
+          - [Mínus ruský tank ](https://twitter.com/nexta_tv/status/1667633986649182208)
+          - [Mínus Grad ](https://twitter.com/EuromaidanPress/status/1667758809169932290)
+          - [Ukrajinský šturm ](https://twitter.com/front_ukrainian/status/1667799196370436096)
+          - [Přehrada před a po](https://twitter.com/nexta_tv/status/1667619642162946048)
+          - [Trofeje](https://twitter.com/EuromaidanPress/status/1667653112906280961)
+          - [Pes u Chersonu zachránil kočku](https://twitter.com/DevanaUkraine/status/1667247340497895425)
+          - [Trefa!](https://twitter.com/front_ukrainian/status/1667818374737297410)
+          - [Evakuace z fronty](https://twitter.com/Bodbe6/status/1667702643446128640)
+          - [Mínus ruský Tor](https://twitter.com/front_ukrainian/status/1667807770555432960)
+          - [Ruský pohled na moment, kdy trefili dřevěnou atrapu ](https://twitter.com/PaulJawin/status/1667797027684597762)
+          - [Bývalé ruské zákopy](https://twitter.com/front_ukrainian/status/1667804691193819137)
+          - [Pokémoni](https://twitter.com/front_ukrainian/status/1667636652976513024)
+          - [Dron si je našel ](https://twitter.com/PaulJawin/status/1667781994690801664)
       - title: "Sobota"
         year: "10. červen 2023"
         image: assets/img/timeline/2023-06-10.jpg
