@@ -35,6 +35,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "12. červen 2023"
+        image: assets/img/timeline/2023-06-12.jpg
+        desc: "Ačkoliv ruské ministerstvo obrany stále publikuje zprávy o tom, jak se Rusům daří odrážet všechny útoky ukrajinských sil, i jinak velmi loajální provládní ruští blogeři bijí na poplach a přiznávají, že se na obránce valí síla, kterou nejspíš nedokáží zastavit. Nebo alespoň ne při současném způsobu boje. Obě strany už dnes také potvrzují, že ukrajinský útok směrem na Neskučne se v obci zdaleka nezastavil, ale Ukrajinci nejspíš prorazili ruské linie až za Makarivku a stále sbírají momentum. Tvrdé boje probíhají také pod Orichivem u obce Robotyne. Co by navíc mělo Rusy děsit nejvíce, je, že současných výpadů se nejspíš účastní pouze čtyři z nových útočných brigád a těžké mechanizované brigády zatím vůbec nebyly uvedeny na bojiště. Hlavní ruská obranná linie nicméně leží o několik desítek kilometrů jižněji. Ty, které Ukrajinci nyní zdolávají, bránili hlavně doněcké milice a branci – v očích ruského velení postradatelní vojáci. Takže i přes pozitivní vývoj je třeba nenechat se ovládnout přílišným optimismem. Ale teď už [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02ePkWh9aH1BsXoNVbdH84uzx1BG5HHZHo3QxNWpG8T3VYZHM78ATHiNeVVNRW1SsQl):"
+        detail: |
+          - Na sítích se objevilo video, které má zachycovat ruské bariérové jednotky střílející po vlastních ustupujících vojácích. Ruská propaganda ale tvrdí, že na videu jsou ve skutečnosti ruští vojáci, kteří střílí po ukrajinských zajatcích (nechápu ale, proč by se ve své propagandě přiznávali k válečnému zločinu). Pravda nejspíš nebude ani jedno, video působí jako zinscenované. Nicméně možná se brzy objeví další informace, které vše objasní. 
+          - Ukrajiské Operační velení Jih informovalo, že Rusové přesouvají svoje elitní jednotky (VDV, specnaz) pryč z Chersonské oblasti směrem k Záporoží, kde posílí stávající obranu. Zničení přehrady v Kachovce tedy přináší Rusům nebývalou strategickou výhodu, jak už delší dobu analytici správně zmiňovali. 
+          - Rusko tvrdí, že jižně od Krymu zničilo šest námořních dronů, které se pokusili potopit ruskou průzkumnou loď. Zveřejněné video ale spíše působí jako když Rusové střílí na narafičený znehybněný dron, pravděpodobně jeden, který už dříve zneškodnili. 
+          - Došlo k další výměně zajatců. Domů se vrátilo 95 obránců Azovstalu, mariupolských policistů a dalších příslušníků ukrajinských sil. Ruská legie také předala Rusku některé zajatce z příhraničních regionů. 
+          - Wagnerovci v rámci svého PR zveřejnili inzerát, který láká zájemce na 700 km dlouhý „výlet“ do Varšavy. Případní zájemci mají umět polsky pár vět 
+          - Rusové vyhodili do vzduchu další vodní dílo, tentokrát menší přehradu u Novodarovky na té části záporožské fronty, kde nyní Ukrajinci postupují, aby se pokusili Ukrajince zastavit. 
+          - Kadyrovci vyhověli ruskému ministerstvu obrany a podepsali smlouvu s regulérní armádou. Prigožin naopak prohlásil, že se jeho wagnerovci ministerstvu nepodřídí. 
+          - Firma Raytheon Technologies, které vyrábí systémy PVO Patriot, přislíbila, že poskytne Ukrajině další baterie Patriotů do konce roku 2024.
+          - Rusové u Chersonu pálili na civilní loďku evakuující obyvatele ze zaplavené oblasti. 6 lidí bylo při útoku zraněno. 
+          - Mezinárodní trestní soud v Haagu začal vyšetřovat explozi a následné protření hráze v Nové Kachovce.
+          - Ruští propagandisti navrhují spustit nový útok na Charkov a Oděsu. Inu, hodně štěstí. 
+        videa: |
+          - [Když tě přijde denacifikovat další nácek ](https://twitter.com/nexta_tv/status/1668165054204727296)
+          - [Pilot kamikadze dronu při práci ](https://twitter.com/EuromaidanPress/status/1668009243645992961)
+          - [Leopard v akci ](https://twitter.com/Bodbe6/status/1668163130445254656)
+          - [Ukrajinci osvobodili Storoževe ](https://twitter.com/nexta_tv/status/1668141313227739137)
+          - [Čištění Storoževe ](https://twitter.com/front_ukrainian/status/1668206295004880898)
+          - [Nepodařený ruský protiútok tamtéž](https://twitter.com/front_ukrainian/status/1668203529901621252)
+          - [Dělostřelectvo versus ruská kolona](https://twitter.com/Bodbe6/status/1668164737123622912)
+          - [Mínus ruské BMP ](https://twitter.com/front_ukrainian/status/1668213688380080128)
+          - [Kadyrovci se upsali ruské armádě ](https://twitter.com/nexta_tv/status/1668147604864090118)
+          - [Trefa!!](https://twitter.com/GloOouD/status/1667856313894797312)
+          - [Ruská PVO ](https://twitter.com/visegrad24/status/1667944154154823682)
+          - [Rusko tvrdí, že zničilo útočící drony](https://twitter.com/NOELreports/status/1667886902987374594)
+          - [Bulat s odminovačkou ](https://twitter.com/front_ukrainian/status/1667935177606148097)
+          - [Šturm u Bachmutu ](https://twitter.com/nexta_tv/status/1668127488449323009)
+          - [Mínus T-80](https://twitter.com/EuromaidanPress/status/1668205508895948800)
+          - [Osvobozené Neskučne ](https://twitter.com/nexta_tv/status/1667961189647646720)
+          - [Blahodatne ](https://twitter.com/KyivIndependent/status/1667860108296986625)
+          - [Rusové našli vlastní minu](https://twitter.com/front_ukrainian/status/1668172008385916928)
+          - [Mínus ruská základna ](https://twitter.com/KrzysztofJano15/status/1667832734520168449)
+          - [Vampýr](https://twitter.com/front_ukrainian/status/1668186933623771136)
+          - [Evakuace posádky ze zasaženého Bradleyho ](https://twitter.com/Bodbe6/status/1668211168387772416)
+          - [Bývalé ruské pozice ](https://twitter.com/PaulJawin/status/1668195982792687616)
+          - [Sporné video ](https://twitter.com/PaulJawin/status/1668200611307765761)
+          - [Pokémon](https://twitter.com/herooftheday10/status/1668231532945842176)
+          - [A další ](https://twitter.com/cryogenicbreez/status/1667881491462864897)
       - title: "Neděle"
         year: "11. červen 2023"
         image: assets/img/timeline/2023-06-11.jpg
