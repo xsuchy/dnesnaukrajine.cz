@@ -35,6 +35,50 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "13. červen 2023"
+        image: assets/img/timeline/2023-06-13.jpg
+        desc: "Podle deníku Die Welt přesunulo Rusko k Záporožské frontě až 90 % veškerých rezerv, aby se pokusilo zastavit ukrajinskou ofenzivu. Ukrajina zatím nasadila odhadem 25 % personálu, který má pro ofenzivu vyhrazena. Těžké mechanizované brigády se zatím bojů stále neúčastní. Hlavní nápor Ukrajinců tedy nejspíš zatím vůbec nepřišel. Z ukrajinských zdrojů přichází stále stejný typ zpráv: „nemůžeme nic říct, ale jde to dobře, brzy uvidíte“. Stejnou zprávu mi dnes poslal i zdroj přímo z místa. Nakonec, něco už vidět můžeme. Ale víc [v přehledu novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0BeCrxmsccJm1QYpBF8opVcHQt6NrVj8GNbCEUD9x1qjz62xUVmDyXjZEkSZBDptAl):"
+        detail: |
+          - Ukrajina už během několika dní ofenzivy osvobodila 7 obcí a získala zpět 90 km2 území. Už teď navíc přicházejí nepotvrzené informace, že se podařilo osvobodit i další obce. Rusové se opakovaně pokusili o lokální protiútoky, které ale skončili drtivou porážkou. 
+          - Ruská raketová palba v noci na dnešek opět zasáhla ukrajinská města. PVO tentokrát zlikvidovala 11 ze 14 raket a 1 ze 4 dronů. Rakety zasáhly Charkov a Kryvyj Rih. V troskách bytového domu v Kryvém Rihu zahynulo minimálně šest lidí, dalších 25 lidí bylo raněno.  
+          - Ruské kanály informovaly, že při včerejším ukrajinském raketovém útoku na ruskou základnu v okupovaném Heničesku zahynul další ruský generál, konkrétně generálmajor Sergej Gorjačev, velitel 35. kombinované armády. 
+          - Podle deníku The Wall Street Journal ukradli severokorejští hackeři v posledních pěti letech kryptoměny v hodnotě 3 miliardy dolarů, díky čemuž Severní Korea úspěšně financuje svůj vývoj balistických raket. 
+          - Spojené státy oznámily, že bleskurychle nahradí vozidla Bradley zničená během aktuální ukrajinské ofenzivy novými kusy, a to v rámci nově ohlášeného balíku pomoci v hodnotě 325 mil. dolarů. 
+          - Ruský rubl i přes masivní intervence ruské centrální banky a další mechanismy na stabilizaci hodnoty měny míří strmě dolů. Za poslední rok ztratil více než 30 % své hodnoty vůči Euru. 
+          - Ukrajina se dohodla s Moldavskem na výstavbě mostu přes Dněstr u ukrajinského Jampilu, který zajistí spojení obou zemí po souši a umožní obejít Rusy okupované Podněstří. 
+          - Rebelové v Sýrii napadli a zničili ruský vojenský konvoj. Prvotní zprávy dokonce tvrdily, že měl být při útoku použitý turecký bojový dron. 
+          - Podle ruských blogerů byly jednotky Kadyrovců přesunuty do Bělgorodu, aby pomohly bránit pohraničí před výpady ruské legie. 
+          - Japonsko navýší svou vojenskou produkci a schválilo také export zbraní a munice do dalších zemí, tedy i na Ukrajinu. 
+          - V Dubaji osvítili nejvyšší budovu světa Burj Khalifa v barvách ruské vlajky při příležitosti oslav Dne Ruska. 
+          - Spojené státy navrhují rozšířit Radu bezpečnosti OSN o dalších šest členů bez práva veta. 
+          - V ruském Irkutsku se srazily dva tankery na řece Leně. Jeden byl při srážce poškozen. 
+          - Ve věku 87 let zemřel bývalý italský premiér a Putinův blízký přítel Silvio Berlusconi. 
+          - V ruském Krasnodaru hořela ropná rafinérie. Požár už se podařilo uhasit. 
+          - Nizozemsko začne cvičit piloty na svých letounech F-16. 
+        videa: |
+          - [Karma na ruský způsob ](https://twitter.com/MattPPea/status/1668380903301693440)
+          - [Ruské BMP nejdřív ztratilo vojáka a pak našlo minu](https://twitter.com/Bodbe6/status/1668245011132030978)
+          - [Osvobozená Makarivka](https://twitter.com/EuromaidanPress/status/1668568830178738177)
+          - [Bývalá ruská základna](https://twitter.com/herooftheday10/status/1668528636113059842)
+          - [Rusové prchají z pozic](https://twitter.com/front_ukrainian/status/1668257358798114816)
+          - [V Rusku hoří obří skládka](https://twitter.com/nexta_tv/status/1668548991099850752)
+          - [Útok ukrajinského tanku](https://twitter.com/NOELreports/status/1668153560670912513)
+          - [Čištění zákopů](https://twitter.com/Bodbe6/status/1668280310457352193)
+          - [Mínus tank](https://twitter.com/front_ukrainian/status/1668559615657758727)
+          - [Pokračuje záchrana zvířat](https://twitter.com/Lyla_lilas/status/1668505123121770496)
+          - [V Petrohradu hoří fabrika](https://twitter.com/nexta_tv/status/1668526275474907138)
+          - [Rusové najeli na vlastní minu](https://twitter.com/PaulJawin/status/1668336742938853376)
+          - [Ukořistěná T-80](https://twitter.com/EuromaidanPress/status/1668468485503025154)
+          - [Burj Khalifa na Den Ruska](https://twitter.com/nexta_tv/status/1668329770470211602)
+          - [Pokémoni](https://twitter.com/herooftheday10/status/1668545182902501377)
+          - [Mínus ruské tanky](https://twitter.com/EuromaidanPress/status/1668409094254854144)
+          - [Ustupující voda odhalila ruské miny na plážích Enerhodaru ](https://twitter.com/EuromaidanPress/status/1668252478624747523)
+          - [Neschovali se](https://twitter.com/front_ukrainian/status/1668496528938348544)
+          - [Ukrajinské vozidlo najelo na minu](https://twitter.com/Bodbe6/status/1668243177508052997)
+          - [Mínus tank](https://twitter.com/EuromaidanPress/status/1668205508895948800)
+          - [Mínus BMP](https://twitter.com/front_ukrainian/status/1668344125039718402)
+          - [A další tank](https://twitter.com/PaulJawin/status/1668509298148663297)
       - title: "Pondělí"
         year: "12. červen 2023"
         image: assets/img/timeline/2023-06-12.jpg
