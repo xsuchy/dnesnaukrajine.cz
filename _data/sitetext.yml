@@ -35,6 +35,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "15. červen 2023"
+        image: assets/img/timeline/2023-06-15.jpg
+        desc: "Náměstkyně ukrajinského ministerstva obrany Hanna Maljarová zveřejnila na svém účtu na Telegramu některá čísla vztahující se k aktuálním ofenzivním akcím ukrajinské armády. V příspěvku tvrdí, že ruské ztráty jsou 5,3x vyšší než ukrajinské v sektorech na záporožské/berďanské frontě a dokonce 8,73x vyšší v bachmutském směru. Zároveň ale sama varovala, že v době války ani jedna strana neuvádí přesná čísla ztrát, aby to nepřítel nemohl využít k dalšímu plánování. Pokud to ale porovnáme s blogem Oryx, který počítá vizuálně potvrzené ztráty, nemusí být prezentovaná čísla nereálná. Přesto, že Ukrajinci nyní přezvali iniciativu a primárně útočí, i tak Oryx evidoval 3-4 x vyšší ztráty ruské techniky v závislosti na konkrétní kategorii. Většinu práce také nyní obstarává hlavňové a raketové dělostřelectvo, a zatímco to hlavňové už druhý týden neúnavně ničí pozice na ruské obranné linii, tomu raketovému se opakovaně dařilo zasahovat ruské základny a jiné větší koncentrace ruského personálu. Je tedy potřeba si zachovat zdravý odstup, nicméně ve světle těchto skutečností nelze ani shodit informace ukrajinského ministerstva obrany jako zkreslující. Nápovědou může být i svědectví novinářů z Reuters, kteří se jako první podívali s ukrajinskými jednotkami do osvobozené obce Storoževe a napsali, že „silnice k obci je lemovaná těly padlých ruských vojáků a jejich vozidel“. Ale teď už [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0ifYxvQAa6we7p9hW9kcNTdnpzX1pyuwQTLsCMfWpckLovcuy8tomCeDf5if4hDztl) očištěných o spekulace:"
+        detail: |
+          - Americký republikánský senátor zablokoval prodej některých zbraňových systémů Maďarsku, a to včetně 24 baterií systému HIMARS. Důvodem jsou obstrukce Maďarska v procesu přijímání Švédska do NATO. Maďarský ministr zahraničí Szijjártó si i na to konto povzdychl, že doufá, že se příštím americkým prezidentem stane opět Trump, který podle něj dokáže ukončit válku na Ukrajině. Trumpovi mezitím hrozí až 400 let odnětí svobody v kauze vynášení tajných dokumentů z Bílého domu. 
+          - Kanál na Telegramu údajně spojený s ruskou 205. samostatnou motostřeleckou brigádou publikoval text, ve kterém se autor de facto přiznává k odpovědnosti za výbuch přehrady v Nové Kachovce. V textu se píše, že: „podminování bylo nevyhnutelné, nicméně jsme se přepočítali a teď kvůli tomu ztratíme další významná území“. 
+          - V ruském Rostově začal show-proces s 22 ukrajinskými zajatci z Azovstalu, členy Azovu. Rusko je viní z teroristické činnosti. Je mezi nimi přitom 8 žen, část z nich sloužila v jednotkách na postu bojových zdravotnic a některé souzené ženy jsou dokonce pouhé frontové kuchařky. Všem hrozí 15 let až doživotí. 
+          - Nizozemsko plánuje financovat v Česku nákup pasivních vojenských radarů VERA-EG pro potřeby ukrajinské armády. Hodnota nákupu činí přibližně 150 miliónů eur. Litva, Velká Británie, Norsko, Dánsko, Švédsko a Island pak budou financovat nákup dalších systémů PVO, pravděpodobně Patriotů. 
+          - Lavrov oznámil, že Rusko od 17. července neprodlouží Obilnou dohodu, pokud nebudou splněna všechny kritéria daná Ruskem. Podle Putinova asistenta není Rusko spokojeno se současnými podmínkami dohody. 
+          - Podle Lukašenka utrpěla ukrajinská armáda za týden ztráty ve výši 40 000 zabitých a 100 000 raněných vojáků. Zdrojem tvrzení je ocucaný palec jeho pravé ruky. 
+          - Generální ředitel MAAE Rafael Grossi dorazil do jaderné elektrárny v Enerhodaru na ohlášenou inspekci. 
+          - Evropský parlament odsoudil zničení přehrady v Nové Kachovce a označil incident za ruský válečný zločin. 
+          - Ukrajinská PVO v noci na dnešek zlikvidovala všech 20 vyslaných kamikadze dronů Shahed-136/131. 
+          - Kryvyj Rih byl v noci opět pod palbou ruských raket. Tentokrát se útok obešel bez obětí na životech. 
+          - Prigožin zopakoval, že wagnerovci nebudou navazovat smluvní spolupráci s ruskou armádou. 
+          - U ruského Rostova vypukl požár v areálu tamější uhelné elektrárny. 
+        videa: |
+          - [Drony teď shazují lidem pomoc u Chersonu](https://twitter.com/EuromaidanPress/status/1669147963065528326)
+          - [Ferda v akci ](https://twitter.com/666_mancer/status/1668973787386191874)
+          - [Čištění pozic ](https://twitter.com/front_ukrainian/status/1668976305944113155)
+          - [Sběr Pokémonů ](https://twitter.com/NOELreports/status/1669080444703309825)
+          - [Drony versus zákopy](https://twitter.com/PaulJawin/status/1669050908309610527)
+          - [Krásná posádka](https://twitter.com/nevedimka123/status/1668953173958983681)
+          - [Francouzský AMX na frontě ](https://twitter.com/front_ukrainian/status/1669266607351250945)
+          - [Ruský náklaďák s municí našel minu](https://twitter.com/EuromaidanPress/status/1669280334880591873)
+          - [Útok](https://twitter.com/NOELreports/status/1669244177706635264)
+          - [Ruští vojáci posílají vzkazy svým velitelům](https://twitter.com/DevanaUkraine/status/1669046699480735749)
+          - [Mínus tank ](https://twitter.com/EuromaidanPress/status/1669257182377017345)
+          - [Pokémoni](https://twitter.com/front_ukrainian/status/1669225714338471936)
+          - [A další ](https://twitter.com/herooftheday10/status/1669256858127720449)
+          - [A další…](https://twitter.com/2uwmp/status/1669065028786331662)
+          - [Protiruský protest v gruzínském parlamentu ](https://twitter.com/FormulaGe/status/1668930998833225729)
+          - [Mínus ruské dělo](https://twitter.com/EuromaidanPress/status/1669226983195115520)
+          - [Trofeje ](https://twitter.com/NOELreports/status/1669018194365890560)
+          - [Drony versus tanky](https://twitter.com/front_ukrainian/status/1669294531701874690)
+          - [Ukrajinci sestřelili Shahed, který cílil na jejich radar ](https://twitter.com/EuromaidanPress/status/1668996968809652224)
+          - [Přesné údery zničily celou baterii ruských houfnic Msta](https://twitter.com/EuromaidanPress/status/1668968210673152003)
+          - [Dron zničil ruskou pozorovatelnu ](https://twitter.com/front_ukrainian/status/1669298381900988416)
+          - [Kupředu! ](https://twitter.com/nevedimka123/status/1669225890880823299)
+          - [Dělostřelectvo ukončilo piknik](https://twitter.com/PaulJawin/status/1668956494799286274)
+          - [Legie v Rusku ](https://twitter.com/Militarylandnet/status/1669264109747986432)
       - title: "Středa"
         year: "14. červen 2023"
         image: assets/img/timeline/2023-06-14.jpg
