@@ -35,6 +35,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "16. červen 2023"
+        image: assets/img/timeline/2023-06-16.jpg
+        desc: "Na zastupitele v ruské Bělgorodské oblasti se obrátilo už několik desítek obyvatel bělgorodského pohraničí, kteří jsou šokovaní tím, že jejich vlastní vojáci jim devastují a rabují domy, ve kterých bydlí během operací na zastavení výpadů ruské legie z ukrajinského území. Objevily se případy ukradených spotřebičů, vybavení, ale dokonce aut, motorek a dalších vozidel. Je vidět, že obyvatelé Bělgorodu nesledují zahraniční zpravodajství, jinak by nebyli překvapeni, protože přesně tak se zatím chovala ruská armáda všude, kam její nohy vstoupily. Ne nadarmo je ruský voják s toaletní mísou na zádech oblíbeným prvkem satirických kreseb. Je to každopádně zvláštní počet zadostiučinění, číst, že sami ruští obyvatelé najednou pociťují morální kvalitu své vlastní armády. Nicméně vás asi víc zajímají zprávy, tak [tady jsou](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0qLbNT8E3vkNyGkE4FFAm94qjXuofzUznQwJSikyarQXrBqKmzCPSdQo5xGnf3vyul):"
+        detail: |
+          - Vláda zrušila diplomatický status několika budov ve vlastnictví ruské ambasády v pražské Bubenči. Budovy Rusové desítky let bezplatně užívali a některé získali podivným způsobem. Vláda bude po Rusku požadovat finanční kompenzaci za roky, kdy Rusko neplatilo řádný nájem a bude trvat na tom, aby si budovy případně Rusko dál standardně pronajímalo. Rusko odpovědělo, že je ochotné o stavu jednat. 
+          - Pokračují ofenzivní akce na záporožské frontě. Zdá se, že Ukrajinci se pokouší otevřít několik nových úseků, zejména ve směru na Tokmak nebo Enerhodar. Zatím není jisté, jak se situace vyvíjí, ale ukrajinští blogeři opět naznačují, že si Ukrajinci připsali nějaké úspěchy. 
+          - Na ruských kanálech se okupanti „pochlubili“ videem, na kterém jejich dělostřelecká palba zasáhla dvě loďky s dobrovolníky, kteří evakuovali lidi ze zaplavené Chersonské oblasti. Během incidentu byl raněn britský humanitární dobrovolník John Jones. 
+          - Ruská propagandistka Margarita Simonjan v televizním pořadu prohlásil,a že v Česku odebírá sociálka děti rodičům, pokud rodiče bezpodmínečně nepodporují Ukrajinu a dostatečně neodsuzují Rusko. 
+          - Ruském věznici zemřel Anatolij Berezikov. Aktivista, který vylepoval protiválečné plakáty. Podle ruských úřadů spáchal sebevraždu. Sám Berezinkov těsně před svým uvězněním řekl, že se bojí, že ho zabijí. 
+          - Izrael prodá dvě stovky tanků Merkava několika nejmenovaným evropským zemím. Spekuluje se, že evropské země je nakupují, aby je mohly poskytnout Ukrajině bez porušení neutrality Izraele. 
+          - Ukrajinské speciální jednotky zachránili pětici ruských vojáků, kteří se ocitli lapení v zatopené oblasti pod Kachovskou přehradou a hrozilo jim utopení. Nyní je všech pět ve zdraví v zajetí. 
+          - Prezident Pavel v rozhovoru pro Rádio Svobodná Evropa uvedl, že by ruští občané napříč Evropou měli být nyní v souvislosti s válkou pod drobnohledem policie a tajných služeb.
+          - Během návštěvy jihoafrického prezidenta v Kyjevě zněly městem sirény varující před nálety a ozývaly se výbuchy. Pracovala protivzdušná obrana. 
+          - Okupovanou Novou Kachovkou se celou noc ozývala intenzivní střelba z ručních zbraní. Okupační správa tvrdí, že Ukrajinci překročili řeku. 
+          - Ukrajina oznámila, že zná jména i lokaci 11 ukrajinských zajatců, které Rusko předalo Maďarsku. 
+          - Dánsko a Nizozemí předá další 14 tanků Leopard 2 Ukrajině. 
+        videa: |
+          - [Likvidace minového pole](https://twitter.com/nexta_tv/status/1669630468919029760)
+          - [Simonjan ](https://twitter.com/_Roman_Maca/status/1669337208661090306)
+          - [Rusové zasáhli dobrovolníky](https://twitter.com/DylanBurns1776/status/1669385634543173653)
+          - [Palba na ruský tábor](https://twitter.com/nexta_tv/status/1669617775013249025)
+          - [Pár pokémonů](https://twitter.com/front_ukrainian/status/1669430316711268360)
+          - [Vadné RPG](https://twitter.com/Bodbe6/status/1669490725426196481)
+          - [Rusové utíkají z pozic](https://twitter.com/PaulJawin/status/1669446327229378561)
+          - [Práce dronů ](https://twitter.com/EuromaidanPress/status/1669502550511595521)
+          - [Robot klade miny](https://twitter.com/bayraktar_1love/status/1669578312379760640)
+          - [Ukrajinský tank ](https://twitter.com/front_ukrainian/status/1669609242335014913)
+          - [Ukrajinci zachránili z vody ruské vojáky](https://twitter.com/nexta_tv/status/1669602499391520773)
+          - [Mínus tank](https://twitter.com/EuromaidanPress/status/1669616057076572160)
+          - [Přestřelka s Rusy schovanými v domě](https://twitter.com/Bodbe6/status/1669496118714019840)
+          - [Ukrajinské BMP ](https://twitter.com/EuromaidanPress/status/1669469078589931522)
+          - [Ukrajinská palba](https://twitter.com/nevedimka123/status/1669453083938631681)
+          - [Pokémoni](https://twitter.com/front_ukrainian/status/1669630894838087680)
+          - [A další ](https://twitter.com/herooftheday10/status/1669628064261701635)
+          - [Konvoj v pohybu ](https://twitter.com/Bodbe6/status/1669513253775630338)
+          - [Mínus dva tanky](https://twitter.com/PaulJawin/status/1669473592159944705)
+          - [Mínus Zoopark](https://twitter.com/front_ukrainian/status/1669378270113021954)
+          - [Rakety na cestě](https://twitter.com/Bodbe6/status/1669475583611240450)
       - title: "Čtvrtek"
         year: "15. červen 2023"
         image: assets/img/timeline/2023-06-15.jpg
