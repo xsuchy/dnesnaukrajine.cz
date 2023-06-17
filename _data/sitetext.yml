@@ -35,6 +35,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "17. červen 2023"
+        image: assets/img/timeline/2023-06-17.jpg
+        desc: "Ukrajinské síly pozvolna postupují na záporožské linii hned v několika směrech. Stejně tak i u Bachmutu. Rusové stahují do oblastí další rezervy, aby se pokusily postup zastavit. Ukrajinci tu musí překonávat několika obranných linií, střídajících se s minovými poli. To s sebou nese ztráty některé těžké techniky, nicméně vhledem k tomu, že Rusové už týden recyklují několik videí stejných ukrajinských ztrát a snaží se je prodat jako nové ztráty, zdá se, že těch ukrajinských ztrát nebude zdaleka tolik, kolik Rusové tvrdí. Což už v tuhle fázi konfliktu nepřekvapuje nikoho. Nebo snad ano? Nicméně pojďme si tak či tak shrnout, [co se stalo](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid025N6kQ2tMBzDU351qh7BHTkTHMnsTqZJbaH1rfvJHQitaGU4medjYGzQErNvxh8eNl):"
+        detail: |
+          - Na sítích se objevily fotografie z jedné nedávno obsazené ruské pozice. Z popisku vojáků, kteří fotku pořídili, vyplývá, že na pozicích našli mrtvého ruského vojáka, kterého zřejmě wagnerovci zabili kladivem – jak to dělali i zajatcům v Sýrii nebo vlastím dezertérům. Nejspíš šlo tedy právě o dezertéra nebo je to výsledek stoupající rivality mezi ruskou armádou a wagnerovci.  
+          - Putin se pokusil pošpinit ukrajinského prezidenta Zelenského tím, že podle Putinových židovských přátel není Zelenský Žid, ale ostuda židovského národu. Ukrajinská židovská obec na to okamžitě reagovala slovy, že prezident Zelenský je hrdina nejen pro ukrajinské Židy, ale i pro celou Ukrajinu a svět. 
+          - Deník New York Times zveřejnil analytický článek opřený o nákresy kachovské přehrady a expertní názory, ze kterého vyplývá, že hráz, která byla navržena, aby odolala výbuchu atomové bomby, musela být poškozena jedině výbuchem zevnitř, konkrétně explozí v technickém tunelu
+          - Cherson, který stále bojuje s následky katastrofy na Kachovské přehradě, byl dnes pod silnou dělostřeleckou palbou. 23 lidí bylo v ulicích zraněno včetně tří dětí. 
+          - Rusové se včera pokusili o několik neúspěšných pokusů převzít iniciativu na frontě u Kupjansku a Kreminné. 
+          - Polský parlament téměř jednomyslně schválil rezoluci o budoucím přijetí Ukrajiny do NATO. 
+          - Delegace z afrických zemí po návštěvě Kyjeva odletěla na setkání s Putinem do Petrohradu. 
+          - Skupina amerických zákonodárců předložila návrh na poskytnutí raket ATACMS Ukrajině. 
+          - Německo poskytne Ukrajině dalších 64 raket do systémů protivzdušné obrany Patriot. 
+          - V okupovaném Mariupolu stávkují řidiči, protože už dvě měsíce nedostali výplaty. 
+          - Švédsko bude cvičit ukrajinské piloty v létání na švédských strojích JAS 39 Gripen. 
+          - Podle Putina dorazily do Běloruska první jaderné střely. 
+          - Okupovaným Berďanskem opět otřásaly exploze. 
+        videa: |
+          - [Nález v zákopech – velmi citlivé!!](https://twitter.com/herooftheday10/status/1670037415774265346)
+          - [Pilot dronu – válka budoucnosti ](https://twitter.com/front_ukrainian/status/1669985362955960320)
+          - [Evakuace u Chersonu](https://twitter.com/nexta_tv/status/1670018313601138690)
+          - [Britská houfnice ](https://twitter.com/EuromaidanPress/status/1670057455613800448)
+          - [Střely HARM ](https://twitter.com/front_ukrainian/status/1670030815324147714)
+          - [Údržba](https://twitter.com/nevedimka123/status/1669939041175756802)
+          - [Cherson](https://twitter.com/nexta_tv/status/1669736066947981312)
+          - [Práce houfnice ](https://twitter.com/EuromaidanPress/status/1669857639226900480)
+          - [A další dvě](https://twitter.com/front_ukrainian/status/1669962298419453952)
+          - [Americké střely letí na ruské pozice ](https://twitter.com/front_ukrainian/status/1670084035257745421)
+          - [Rusové u Záporoží ](https://twitter.com/nevedimka123/status/1670115326120325122)
+          - [SMART munice versus ruská vozidla](https://twitter.com/front_ukrainian/status/1670021498805932033)
+          - [Noční akce ](https://twitter.com/Bodbe6/status/1670060247061241856)
+          - [Bývalé ruské pozice ](https://twitter.com/front_ukrainian/status/1670009022471127042)
+          - [Utíkající Rusové ](https://twitter.com/soldat31/status/1669798360184659993)
+          - [Český tank ](https://twitter.com/front_ukrainian/status/1669980395134148608)
+          - [Začistka](https://twitter.com/nevedimka123/status/1670121200029163522)
+          - [Trefa!](https://twitter.com/front_ukrainian/status/1669825318310531072)
+          - [Zajímavá kolona](https://twitter.com/nevedimka123/status/1670116202763411456)
+          - [Výcvik mariňáků](https://twitter.com/front_ukrainian/status/1669808398446088193)
+          - [Ruské drony versus ukrajinská vozidla](https://twitter.com/Bodbe6/status/1670110267877801986)
       - title: "Pátek"
         year: "16. červen 2023"
         image: assets/img/timeline/2023-06-16.jpg
