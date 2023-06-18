@@ -35,6 +35,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "18. červen 2023"
+        image: assets/img/timeline/2023-06-18.jpg
+        desc: "Pozvolný postup ukrajinských sil na Záporožské části fronty pokračuje. Ruští vojenští blogeři velmi neochotně přiznávají ztráty dalších obcí na linii kontaktu. Ukrajinci nyní zvyšují tlak také ve směru na Enerhodar respektive Vasylivku. Největší tíhu bojů nyní nese ukrajinská 47. brigáda. A pak [se děje taky tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Vh6SEW4Xj4mHoms1Yj1EyL5rPxVqDKjzaJjLUmzLDH8eCEMeMgNxtySWQaZwe4Vdl):"
+        detail: |
+          - Podle mluvčího Kremlu Peskova je „demilitarizace“ Ukrajiny prakticky dokončena, což vysvětluje tím, že Ukrajina už nemá téměř žádný ze strojů sovětské výroby, který měla před válkou. To, že má násobně víc kvalitní techniky NATO, Peskov ignoroval. 
+          - Podle britské rozvědky znamená start ukrajinské ofenzivy vyšší ztráty na obou stranách, nicméně zejména ruská strana údajně zaznamenává nejvyšší ztráty od počátku války, srovnatelné jen se ztrátami, které měla při dobývání Bachmutu.
+          - Během návštěvy africké delegace v Petrohradě lhal Putin, že vojenská podpora separatistických regionů neodporuje mezinárodnímu právu ani chartě OSN. Také křivě obvinil Kyjev, že proti Rusku zahájil válku roce 2014. 
+          - Ukrajinská palba zasáhla a zničila velký ruský muniční sklad v okupovaném Rykove v Chersonské oblasti, zhruba 110 km daleko od současné fronty. Ještě několik hodin poté se z místa ozývaly sekundární exploze. 
+          - NATO spouští novou společnou iniciativu na ochranu podmořské infrastruktury. Podle aliance ruské lodě už několik měsíců intenzivně mapují západní kabely a další podmořské sítě a nejspíš plánují jejich sabotáž. 
+          - Pláže v Oděse jsou nyní prohlášeny za zdravotně závadné. Kvůli vyplavené vodě z Kachovské přehrady kvalita vody rapidně klesla a nyní hrozí šíření nakažlivých nemocí. 
+          - Spojené státy nepodpoří zrychlené přijetí Ukrajiny do NATO. Podle prezidenta Bidena musí Ukrajina splnit stejné požadavky jako jakýkoliv jiný člen v minulosti. 
+          - Ukrajinské velení informovalo, že v „tauridském“ sektoru fronty (Cherson-Záporoží) provedlo ukrajinské dělostřelectvo jen za včerejší den 1 829 misí. 
+          - Dánsko oznámilo, že je připraveno Ukrajině poskytnout své letouny F-16, pokud Spojené státy nebudou nic namítat. 
+          - V ruské Brjanské oblasti vypuknul velký požár v areálu rozestavěné nemocnici pro ruské veterány. 
+        videa: |
+          - [Boje u Kreminné ](https://twitter.com/front_ukrainian/status/1670101935406366720)
+          - [Exploze v okupovaném Heničesku ](https://twitter.com/nexta_tv/status/1670300207618162688)
+          - [Práce raketometů ](https://twitter.com/front_ukrainian/status/1670327976259473409)
+          - [Eh…?](https://twitter.com/Blackrussiantv/status/1670099982639067136)
+          - [Britský Challenger ](https://twitter.com/EuromaidanPress/status/1670355419099721728)
+          - [Zastavený ruský útok ](https://twitter.com/PaulJawin/status/1670071016461152259)
+          - [Uragány](https://twitter.com/NOELreports/status/1670324153038036994)
+          - [Odminovací nálož ](https://twitter.com/front_ukrainian/status/1670392058089992192)
+          - [Pokémoni](https://twitter.com/nevedimka123/status/1670157830358269953)
+          - [Rykove](https://twitter.com/EuromaidanPress/status/1670316709251629057)
+          - [Noční práce artilerie ](https://twitter.com/PaulJawin/status/1670345150579572736)
+          - [Začistka ](https://twitter.com/front_ukrainian/status/1670384008167817220)
+          - [Ruská palba na Ukrajince v osvobozené obci ](https://twitter.com/NOELreports/status/1670388758502424576)
+          - [Znovu Rykove ](https://twitter.com/EuromaidanPress/status/1670295275590811649)
+          - [Mínus dělo ](https://twitter.com/front_ukrainian/status/1670387538744287233)
+          - [Mínus tank](https://twitter.com/PaulJawin/status/1670396042729209857)
+          - [Trefa!](https://twitter.com/front_ukrainian/status/1670337751789477890)
+          - [Noční palba ](https://twitter.com/nevedimka123/status/1670318508251521026)
+          - [Artilerie versus ruský útok ](https://twitter.com/PaulJawin/status/1670109985420857346)
+          - [Bývalé ruské zákopy](https://twitter.com/herooftheday10/status/1670186008522924034)
+          - [Chirurgicky přesná trefa](https://twitter.com/front_ukrainian/status/1670129354297208832)
+          - [Dron dovezl na ruské pozice protitankovou minu ](https://twitter.com/PaulJawin/status/1670394143649021952)
       - title: "Sobota"
         year: "17. červen 2023"
         image: assets/img/timeline/2023-06-17.jpg
