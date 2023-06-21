@@ -35,6 +35,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "21. červen 2023"
+        image: assets/img/timeline/2023-06-21.jpg
+        desc: |
+          Ukrajině se podařilo vrátit domů 3 z 11 zajatců, které Rusko předalo Maďarsku. Maďarská vláda ústy svého ministra zahraničí také nově tvrdí, že se na předání zajatců vláda nijak nepodílela. Takové tvrzení ale nechává pouze dvě možnosti: Buď maďarská maltézská charitativní organizace, která výměnu zprostředkovala, dokázala obejít jakékoliv státní mechanismy kontroly a převézt přes hranice válečné zajatce bez vědomí celních a jiných úřadů, nebo maďarský ministr lže a Orbánův kabinet udržuje s Ruskem úzké kontakty, kterými bylo předání zajatců domluveno. Ani jedna z možností každopádně nevrhá na Maďarsko dobré světlo. Pravděpodobnější ale bude druhá z variant. Je prakticky nemožné, aby charitativní organizace dokázala domluvit výměnu válečných zajatců vlastními prostředky bez vědomí maďarských tajných služeb, a tedy i vlády. Nakládání s válečnými zajatci bez vědomí jejich domovského státu navíc odporuje mezinárodnímu právu. Maďarsko se tak stává další Pandořinou skříňkou, ze které už delší dobu nevypadlo nic dobrého, a nikdo neví, co dalšího čekat. Tak se raději [podívejme na konkrétnější novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0bZPvGBGqKG7jY9HnE8mFcL1nhMFybyHP1RTAPWBtp3f33qmYcZFwcA6u4PezYf4Cl):
+        detail: |
+          - Spojené státy údajně podepsaly smlouvu s americkou zbrojní firmou Raytheon na výrobu střel AIM-120 AMRAAM v hodnotě 1,1 miliardy dolarů. Rakety by následně měly zamířit na Ukrajinu. Nejspíš to souvisí s fotkou ukrajinského letectva, na které je ukrajinský MiG-29 s novými platformami pro odpalování střel a titulkem „nový den, nová výzva“. AMRAAM je jedna z nejspolehlivějších moderních raket na světě s doletem až 160 km, rychlostí až Mach 4 a pravděpodobností na zničení cíle 59 %. 
+          - Ukrajinský Generální štáb informoval, že Rusové přesunuli část rezerv do sektoru u Kupjansku a spustili lokální ofenzivu, aby se pokusili oslabit ostatní úseky fronty a donutit Ukrajince opustit současnou ofenzivu u Bachmutu. Podle průběžných zpráv se ale zatím Rusům nedaří postupovat a Ukrajinci jejich výpady u Kupjansku a Kreminné zastavili.
+          - Ruská propaganda poslední týdny opakovaně šířila zprávy o smrti Zálužného nebo Budanova. Naposledy měl být Budanov po zásahu do hlavy v kómatu. Poté, co se i tentokrát ukázalo, že jde o nesmysly, označili to ruští blogeři za ukrajinský PsyOp. Ukrajinské kanály přitom od začátku říkali, že zprávy nejsou pravdivé. 
+          - Šéf ukrajinské rozvědky Budanov uvedl, že navzdory prohlášením Putina a Lukašenka o údajném přesunu první jaderných hlavic do Běloruska zatím Rusko žádné jaderné zbraně Bělorusku nedodalo. Budanov ale také upozornil na to, že Rusové dodatečně zaminovali další objekty v areálu Záporožské jaderné elektrárny. 
+          - Podle ISW Rusové postupně snižují požadavky pro povinnou vojenskou službu, aby mohli mobilizovat více nových branců. Snižují se nároky na zdravotní stav, věk a mizí řada výjimek. 
+          - Rusové opět pálili v Chersonu na ukrajinské záchranáře organizující evakuaci a odklízení následků povodně. 8 lidí bylo raněno a jeden ze zdravotníků byl dokonce pod palbou zabit. 
+          - Podle britského ministerstva obrany Rusové budují další obranné linie na přístupech ke Krymu a posilují i ty stávající. Speciální vojenská operace pokračuje podle plánu. 
+          - Běloruské soudy poslaly do vězení další lidskoprávní aktivistku. Anastasija Lojka byla odsouzena k 7 letům odnětí svobody za „podněcování k nenávisti“. 
+          - Požár a následná exploze poničily továrnu na střelný prach v ruském Tambově. 4 lidé byli při incidentu zabiti. 
+          - Prezident Macron uvedl, že od 19. června jsou na Ukrajině v provozu také systémy PVO SAMP/T. 
+          - Slovensko je další zemí, která označila sovětský Holodomor za genocidu ukrajinské populace. 
+          - Další země podpořily případný vstup Ukrajiny do NATO. Naposledy Francie. 
+          - Ukrajinští partyzáni vyhodili do povětří koleje poblíž Fedosie na Krymu. 
+          - V Moskevské oblasti se zřítily dva drony v blízkosti vojenského areálu. 
+          - EU letos pomůže s výcvikem dalších 30 000 ukrajinských vojáků. 
+        videa: |
+          - [Detail na mechanismus houfnice CAESAR](https://twitter.com/EuromaidanPress/status/1671367588717412352)
+          - [Přesný zásah ](https://twitter.com/OSINTNic/status/1671091234004140034)
+          - [Útok Bradleyho ](https://twitter.com/EuromaidanPress/status/1671155892778328065)
+          - [Palba na ukrajinské záchranáře](https://twitter.com/NOELreports/status/1671243348416385027)
+          - [Kolona ZSU ](https://twitter.com/nevedimka123/status/1671436877105180674)
+          - [Zlikvidovaný ruský protiútok](https://twitter.com/parrot_soldier/status/1671133907532632066)
+          - [A další ](https://twitter.com/front_ukrainian/status/1671215560816721927)
+          - [A další](https://twitter.com/NOELreports/status/1671271291683315714)
+          - [3. šturmová v ruských zákopech ](https://twitter.com/front_ukrainian/status/1671449620721827841)
+          - [Dron u Moskvy](https://twitter.com/nexta_tv/status/1671417718958948355)
+          - [Sabotáž železnice na Krymu](https://twitter.com/EuromaidanPress/status/1671427766258999297)
+          - [Ruské pozice ](https://twitter.com/herooftheday10/status/1671181819130019841)
+          - [Kachovská přehrada](https://twitter.com/nexta_tv/status/1671248963188453376)
+          - [Snajpr](https://twitter.com/EuromaidanPress/status/1671438615467917313)
+          - [Cosi hoří za Dněprem](https://twitter.com/NOELreports/status/1671135806474399744)
+          - [U Bachmutu (citlivé!)](https://twitter.com/herooftheday10/status/1671272328670461955)
+          - [Snajpr v noci](https://twitter.com/wartranslated/status/1671434271074942976)
+          - [Dělostřelectvo neutralizovalo ruské pozice ](https://twitter.com/front_ukrainian/status/1671169531891556352)
+          - [Ukrajinské BPM pracuje na ruských pozicích ](https://twitter.com/NOELreports/status/1671406512944697346)
+          - [Pokémoni](https://twitter.com/herooftheday10/status/1671413727235653632) 
       - title: "Úterý"
         year: "20. červen 2023"
         image: assets/img/timeline/2023-06-20.jpg
