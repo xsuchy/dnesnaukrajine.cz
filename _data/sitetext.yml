@@ -35,6 +35,50 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "22. červen 2023"
+        image: assets/img/timeline/2023-06-22.jpg
+        desc: |
+          Český rozhlas měl dnes na svém webu přenášet živě konferenci Média a Ukrajina, které se účastní i někteří ukrajinští hosté včetně kyjevského starosty a také ruští opoziční novináři. Web Rozhlasu je ale od rána pod silným hackerským útokem, a tak byla celé konference vysílána primárně přes YouTube. Rusové se očividně snaží umlčet jakékoliv hlasy, které nejsou v souladu s názory současného ruského fašistického režimu. Ještě mimo území Ruské federace naštěstí státní cenzura nemá takovou sílu a vliv, aby mohla podobným setkáním úplně zabránit. Co ještě Rusko nechce, abyste věděli? [Tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0qjrj2wTkYcbZBYEUVGMuy5r3KTAxzmxrXfbza59MTpm3DLVJ6RuUHhBMeBD8Wydel):
+        detail: |
+          - Jeden ze tří silničních mostů z Chersonské oblasti na Krym byl poničen výbuchem. Rusové tvrdí, že šlo o rakety Storm Shadow. Celá scéna ale působí podivně, skoro jako zinscenovaná. Na mostě je několik převrácených aut, kterým například chybí kola, ale nejsou nijak ohořelá ani poničená šrapnely. Může se tedy jednat i o útok pod falešnou vlajkou sloužící k odůvodnění další eskalace. 
+          - V Praze vyjela do ulic tramvaj vyzdobená v ukrajinských barvách vyzývající k podpoře Ukrajiny a pomoci. O její efektivitě na poli získávání podpory nemám žádné informace, ale zato se dá s jistotou říct, že tramvaj funguje jako lakmusový papírek na české fašisty a proruské Čechy.
+          - Propagandisté nejspíš začínají připravovat ruskou populaci na ztrátu dobytých území. Bloger Dmitrijev ve svém poslední textu podrobně vysvětluje, proč Rusko „nepotřebuje“ Chersonskou a Záporožskou oblast. 
+          - Podle ukrajinských úřadů se Rusové v noci na dnešek pokusily zasáhnout přehradu v Kryvém Rihu. Ani jedna ze tří raket Kinžal ale zamýšlený cíl netrefila. Nicméně, už tušíme, odkud vítr fouká? 
+          - Analytici z ISW se domnívají, že současné ukrajinské útoky na záporožské frontě mají za cíl vyčerpat ruské jednotky a snížit jejich bojový potenciál před hlavním náporem. 
+          - Prezident Zelenský oznámil, že podle ukrajinské rozvědky Rusové zvažují teroristický útok na záporožskou jadernou elektrárnu, který by vedl k úniku radiace. 
+          - Evropské unii se zatím nepodařilo najít mechanismus, který by umožnil legálně převést zabavené ruské majetky Ukrajině. 
+          - Nová ruská učebnice „Svět kolem nás“ pro 3. třídy základních škol, neuvádí Ukrajina mezi zeměmi sousedícími s Ruskem. 
+          - Nejvyšší státní zástupce Ruska označil Světový fond na ochranu přírody za nežádoucí organizaci. 
+          - Běloruské soudy odsoudily v nepřítomnosti disidenta Vadima Prokopjeva k 25 letům vězení. 
+          - Německo, Bulharsko a Spojené státy oznámily další balíčky vojenské pomoci Ukrajině. 
+          - Británie se vyslovila pro přijetí Ukrajiny do NATO ve zjednodušeném procesu. 
+          - Tři lidé zemřeli v Kyjevě po výbuchu plynu ve vysokopodlažní bytovce. 
+          - Lotyšsko oznámilo, že předá všechny své bojové helikoptéry Ukrajině. 
+          - Melitopolem v noci otřásla série výbuchů. 
+        videa: |
+          - [Most v Čongaru pod útokem ](https://twitter.com/nexta_tv/status/1671825494969405442)
+          - [Most v Čongaru ](https://twitter.com/NOELreports/status/1671801744592982016)
+          - [Holky do nepohody](https://twitter.com/Lyla_lilas/status/1671470744801247234)
+          - [Ruského snajpra navštívil dron ](https://twitter.com/front_ukrainian/status/1671600026282254345)
+          - [Omilostněný wagnerovec jel vlakem domů ](https://twitter.com/kharkiv_warnews/status/1671615025683808259)
+          - [Rusové evakuují pod palbou zraněného kolegu ](https://twitter.com/Bodbe6/status/1671648711812739073)
+          - [Ukrajinský snajpr ](https://twitter.com/front_ukrainian/status/1671549644030050305)
+          - [Kamikadze drony](https://twitter.com/PaulJawin/status/1671598743576010757)
+          - [Ukrajinský stíhač](https://twitter.com/front_ukrainian/status/1671579599698907136)
+          - [Mínus Tulipán](https://twitter.com/EuromaidanPress/status/1671812771862953984)
+          - [Lov Pokémonů (vlákno)](https://twitter.com/front_ukrainian/status/1671552063178670083)
+          - [Obří požár v Rostově nad Donu. ](https://twitter.com/nexta_tv/status/1671774534838501376)
+          - [Ukrajinský tank při pokusu vyhnout se palbě najel na obrněný vůz ](https://twitter.com/AlexRaptor94/status/1671597005590900736)
+          - [Slovenská Zuzka](https://twitter.com/front_ukrainian/status/1671762485026738177)
+          - [Mínus kladečka min ](https://twitter.com/NOELreports/status/1671849419891695617)
+          - [Mínus tank](https://twitter.com/front_ukrainian/status/1671759654940991488)
+          - [Mínus Scooby-Doo van ](https://twitter.com/Bodbe6/status/1671666542247923715)
+          - [Trofej ](https://twitter.com/front_ukrainian/status/1671613975677550593)
+          - [Artilérie na ruské zákopy](https://twitter.com/NOELreports/status/1671812254503776262)
+          - [V ruských zákopech ](https://twitter.com/2uwmp/status/1671811734674239488)
+          - [Po ukrajinském útoku](https://twitter.com/herooftheday10/status/1671748174480900096)
+          - [Šturm ](https://twitter.com/UAloveLEOPARD/status/1671658942194233344)
       - title: "Středa"
         year: "21. červen 2023"
         image: assets/img/timeline/2023-06-21.jpg
