@@ -35,6 +35,66 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "24. červen 2023"
+        image: assets/img/timeline/2023-06-24.jpg
+        desc: |
+          Popravdě, ani nevím, kde začít, protože nestíhám ani zpracovávat to všechno, co se v Rusku děje. Prigožin včera po údajném vzdušném útoku na tábor wagnerovců de facto vyhlásil válku ruskému ministerstvu obrany, jmenovitě Šojguovi a Gerasimovi, a co na začátku vypadalo jako další z Prigožinových výlevů, se od rána přelilo do plnohodnotného pokusu o státní převrat. Wagnerovci bez odporu obsadili Rostov, minimálně část Voroněže a míří na Moskvu. Většina jednotek ruské armády se minimálně rozhodla je nekonfrontovat, některé se dokonce k Prigožinovi přidaly. Odpor tak kladou primárně ruské vzdušné síly. Dnešní report tak bude z velké části o tom, protože jen máloco dokáže tenhle cirkus přebít. Pojďme si zopakovat klíčové momenty:
+        detail: |
+          - Tři lidé byli zabiti a osm raněno během nočního raketového útoku na Kyjev. Raketu sestřelila PVO, ale její trosky následně dopadly na vysokopodlažní dům. V noci bylo zasaženo také Dnipro a Charkov. Celkem bylo vypáleno neuvěřitelných 51 raket, 41 raket a několik dronů zlikvidovala protivzdušná obrana.
+          - Putin osobně volal prezidentům státu Smlouvy o kolektivní obraně. Žádný mu ale nenabídl asistenci. Podle běloruských médií navíc diktátor Lukašenko odletěl s rodinou do Turecka, což by potvrzoval i pohyb běloruského vládního speciálu. 
+          - Ruská armáda buduje kontrolní stanoviště na příjezdech do Moskvy a spekuluje se také, že se připravuje na potenciální odpálení mostů na předměstí Moskvy.
+          - Wagnerovci sestřelili nejméně dvě bojové helikoptéry ruského letectva a také komunikační letadlo An-26 nad Voroněží.
+          - Kadyrovci oznámili, že se přesouvají do Roštová, aby se postavili wagnerovcům. Město se připravuje na střety. 
+          - Videa zachytila moment, kdy se ruské vzdušné síly pokoušely zasáhnout kolonu wagnerovců. Namísto toho ale trefily civilní vozidla.
+          - Budanov tvrdí, že Rusové dokončili přípravy na sabotáž záporožské jaderné elektrárny a ruské velení dalo plánu zelenou.
+          - Prigožin v rámci boření ruské propagandy uvedl, sanitární ztráty ruských sil jsou průměrně 1 000 vojáků denně.
+          - Projekt Gulagu.net se domnívá, že Prigožin lhal o nedostatku munice a celou dobu ji syslil pro předem připravený puč.
+          - V Kaliningradu a Petrohradu začal výdej zbraní brancům. V Moskvě branci kopou zákopy.
+          - Ukrajinci zasáhli a zničili základnu ruského Národní gardy v okupovaném Heničesku.
+          - Z Maďarska se podařilo domů na Ukrajinu převézt další dva ukrajinské zajatce.
+          - Putin obvinil Prigožina z přípravy puče a vydal rozkaz armádě „eliminovat riziko“.
+          - Běloruský pluk Kalinouského oznámil, že v 17h promluví k běloruskému lidu. 
+          - Ukrajinci využili chaosu a opět vstoupili do Bachmutu, kde obsadili několik ulic.
+          - Ruský dobrovolnický sbor vyzval stoupence k účasti na převratu.
+          - Medveděv i s rodinou byl evakuován z Moskvy neznámo kam.
+          - Německo poskytne Ukrajině dalších 20 Marderů.
+          - Wagnerovci kontrolují vojenské letiště Millerovo.
+          - Wagnerovci už jsou v Lipecku a Tule.
+          - Rubl padnul na historické dno.
+          - Očekává se kolaps fronty.
+        videa: |
+          - [Rostov](https://twitter.com/nexta_tv/status/1672562335573999617?t=UCVCSopLrVWNqYzo6I5DgA&s=19)
+          - [Achmat míří do Roštová](https://twitter.com/front_ukrainian/status/1672570992994942977?t=YRgU9aX_zhHlEmB3Md35mw&s=19)
+          - [V Rostově je slyšet střelba](https://twitter.com/nexta_tv/status/1672561324973252610?t=SYqrXZsTWC3OYZqAao43WA&s=19)
+          - [Sestřelené letadlo](https://twitter.com/UAWeapons/status/1672542143280234496?t=wTRGHqtSATv-d14N4cNLdA&s=19)
+          - [Ukrajinské APC jede přes miny](https://twitter.com/EuromaidanPress/status/1672382022818340867?t=U2l7Tfn22aF-YE6QxvjeFw&s=19)
+          - [Rusové se pokusili bombardovat kolonu](https://twitter.com/nexta_tv/status/1672558050731851776?t=BTzKSSPF4MoypjoiEvllrg&s=19)
+          - [Boje na frontě](https://twitter.com/Bodbe6/status/1672257455001153538?t=MHAGxwOA6E1bATP6QYyxFQ&s=19)
+          - [Ruská helikoptéra se těsně vyhnula střele](https://twitter.com/nexta_tv/status/1672557831482925056?t=cIlSwW851eW8rcOZY_6S7g&s=19)
+          - [Další tank mínus](https://twitter.com/EuromaidanPress/status/1672239333049520128?t=qkoO2s25gbKJPleAhGBFwQ&s=19)
+          - [Wagnerovci zaminovali silnice v Rostově ](https://twitter.com/nexta_tv/status/1672557174764064768?t=Jla1lBAkrnAxUOYtjTxnSw&s=19)
+          - [V Rostově roste napětí](https://twitter.com/NOELreports/status/1672593617775468546?t=UolJE8VqvzRFXb3JuqRvMg&s=19)
+          - [Rusové zasáhli vlastní sklad paliv ](https://twitter.com/nexta_tv/status/1672552946142261249?t=1Lmsc5eDHmB3UozkD0soAw&s=19)
+          - [Surovikinův apel](https://twitter.com/EuromaidanPress/status/1672375224086454272?t=6_WdpGE4MxOdWYzqDSntfg&s=19)
+          - [Nálada v UA armádě](https://twitter.com/NOELreports/status/1672537300390084610?t=ZmbTHtu7nDOLnPQYDIIlVw&s=19)
+          - [Blokposty v Moskvě ](https://twitter.com/nexta_tv/status/1672543037803593728?t=t7eyZX5nANVy22J_AhJ2RQ&s=19)
+          - [Wagnerovci sundali helikoptéru](https://twitter.com/Tendar/status/1672479359846711302?t=9B9qXcDd6xibIKa7-AJfCg&s=19)
+          - [Razie u wagnerovců](https://twitter.com/nexta_tv/status/1672533895726735361?t=M9I0CI0K7Kps4JO_Zar5iA&s=19)
+          - [Minus tank](https://twitter.com/EuromaidanPress/status/1672261246056292355?t=4pmZuj-UYA0DFAwf6bAI9w&s=19)
+          - [Ruské jednotky se připravují bránit mosty](https://twitter.com/nexta_tv/status/1672532388428013571?t=IrS7szccCQXHi8kraIe_6A&s=19)
+          - [Čas na HIMARS](https://twitter.com/front_ukrainian/status/1672351757693775875?t=uV2UxFRYg5IEgBOXYy0mrw&s=19)
+          - [Rostov](https://twitter.com/nexta_tv/status/1672530913597575168?t=UZldffVXZv42oHyPSK24xQ&s=19)
+          - [Wagnerovci u Voroněži](https://twitter.com/nexta_tv/status/1672525149550026752?t=eH226-H9dbpcp95uq9DGBQ&s=19)
+          - [Někteří wagnerovce vítají ](https://twitter.com/wartranslated/status/1672551944039145474?t=-OfgLkczDHxhgqbXKDlryw&s=19)
+          - [Ne každý je spokojený](https://twitter.com/nexta_tv/status/1672509327968542720?t=f8elZttz9SDXULSzSz9I4w&s=19)
+          - [Prigožin vyjednává s armádou v Rostově ](https://twitter.com/nexta_tv/status/1672465321377005568?t=Of7HTI0shsaIOF9n0zhe0g&s=19)
+          - [Wagnerovci objíždějí zátaras. Omon jen přihlíží…](https://twitter.com/Tendar/status/1672424012666765312?t=BEZ_t2pD87ljGXwchuGNwg&s=19)
+          - [Ráno v Rostově ](https://twitter.com/nexta_tv/status/1672449801781215233?t=idEARP8n73F1vj0pV4zmPg&s=19)
+          - [Partyzáni vyhodili do povětří dům s ruskými důstojníky](https://twitter.com/EuromaidanPress/status/1672308887624593411?t=TA-UI2NR-zxa7pTO5mS9uw&s=19)
+          - [Zasaženy sklad paliva](https://twitter.com/Tendar/status/1672545336517349379?t=EehKv83je11PVRotTjjfLQ&s=19)
+          - [Odrazený ruský útok](https://twitter.com/Bodbe6/status/1672347677084860418?t=Kuti_GjqpxL1HNwqAIXusw&s=19)
+          - [Zničený CAESAR](https://twitter.com/Militarylandnet/status/1672347235873333249?t=3J_vAgHEBrup1pSTJSv3JQ&s=19)
       - title: "Pátek"
         year: "23. červen 2023"
         image: assets/img/timeline/2023-06-23.jpg
