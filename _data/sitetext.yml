@@ -35,6 +35,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "26. červen 2023"
+        image: assets/img/timeline/2023-06-26.jpg
+        desc: |
+          Včera jsem v úvodníku spekuloval, že odchodem Prigožina do Běloruska vnitřní konflikty mezi ruskými ozbrojenými složkami pravděpodobně neskončí, a dnešek dává spekulacím za pravdu. Na ruských kanálech aktuálně koluje video, které podle autorů zachycuje zabití vojáka z řad ruské armády Kadyrovci za to, že měl zběhnout na stranu wagnerovců, a to ve stejném duchu jako podobně šokující video, které se objevilo několik týdnů nazpátek – nožem. Ať už tedy získal Prigožin cokoliv, rozhodně to nebyly bezpečnostní záruky pro rebelující wagnerovce a vojáky. Některé OSINT kanály jsou k autenticitě videa skeptické, nicméně není důležité, zda je pravé nebo ne (a nejspíš je), protože mnohem důležitější je vzkaz, který má vysílat. Vzkaz, který může snadno přerůst k otevřenému konfliktu obou soukromých armád. Ale pryč od domněnek, tady je [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02USuqRMri9UEeV15RMxQ8c5i3TmooJougHjxCyeLqxzqxxxj8iLshiPTjvaiti4TAl):
+        detail: |
+          - Ukrajinské síly osvobodily Rivnopol jižně od Novosilky a dál postupují. Nová videa také potvrdila dřívější spekulace, a sice že Ukrajinci překročili Dněpr u Antonivského mostu a vytvořili za levém břehu předmostí. Podle mluvčí Hanny Maljar ukrajinské síly postoupily také o další kilometr až dva na obou křídlech Bachmutu. 
+          - Austrálie oznámila další balík vojenské pomoci, který podle ní značně změní poměr sil na bojišti. Má obsahovat nejméně 28 obrněných vozidel, 14 speciálních ženijních vozidel, 28 nákladních transportérů a 14 vleků a také velký objem 105mm munice. 
+          - Vysychající Kachovská nádrž odhaluje historické poklady. Lidé už nalezli artefakty z druhé světové války, Kozáckých dob, ale i z dob Byzantské říše nebo doby kamenné – mamutí kosti.  
+          - Podle šéfa ukrajinské rozvědky jsou 4 z 6 jednotek záporožské jaderné elektrárny zaminovány ruskou armádou. Situaci v elektrárně označil za nejvíce vážnou, jaká kdy byla. 
+          - Ruská státní duma oznámila, že soukromé armády už více nebudou moci nabízet smlouvy odsouzeným vězňům. Vězni se budou moci upisovat pouze regulérní armádě. 
+          - Rusové údajně dva dny nazpátek svrhli chemickou látku na ukrajinské pozice u Marjinky. Vítr nicméně odvál chemikálii na ruskou stranu fronty. 
+          - Podle ruského deníku Kommersant nebylo prozatím zastaveno trestní stíhání Prigožina a je dál vyšetřovaný. 
+          - Pohraničníci zastavili pokus ruské sabotážní skupiny o překročení hranic v Sumské oblasti. 
+          - Ukrajinské PVO v noci zneškodnila 2 ruské rakety a několik kamikadze dronů. 
+          - Počet obětí katastrofy na Kachovské přehradě se prozatím vyšplhal na 48. 
+          - Británie údajně zvažuje přípravy na potenciální kolaps Ruska. 
+          - Severní Korea oficiálně podpořila Putina po Prigožinově puči. 
+        videa: |
+          - [Mínus BMD](https://twitter.com/EuromaidanPress/status/1673281197496242176)
+          - [Ruský tank překvapil dva ukrajinské Kirpi](https://twitter.com/AndreiBtvt/status/1673027760770490369)
+          - [Partyzáni sledují pohyb ruských lodí ](https://twitter.com/Maks_NAFO_FELLA/status/1673106323070746624)
+          - [Speciální jednotky přistávají na druhém břehu Dněpru ](https://twitter.com/EuromaidanPress/status/1673165183575814144)
+          - [Když tvůj TikTok obohatí ukrajinské dělostřelectvo ](https://twitter.com/NOELreports/status/1673237000034430976)
+          - [Útok na Pětichatky](https://twitter.com/front_ukrainian/status/1673056159480135680)
+          - [Ruský voják si vzal život (citlivé)](https://twitter.com/Fell4Campeador/status/1673107905195778057)
+          - [Sestřelený Shahed](https://twitter.com/NOELreports/status/1673252712614330369)
+          - [Ruské BTR pálí na pozice, kde přistáli Ukrajinci ](https://twitter.com/wartranslated/status/1673072292929187840)
+          - [Mínus Akácie](https://twitter.com/front_ukrainian/status/1672995625611272193)
+          - [Evakuace ](https://twitter.com/NOELreports/status/1673260250827313154)
+          - [Šojgu se objevil na videu ](https://twitter.com/Maks_NAFO_FELLA/status/1673239321489317889)
+          - [Ruské zákopy](https://twitter.com/front_ukrainian/status/1673234096141598721)
+          - [Mínus bagr](https://twitter.com/NOELreports/status/1673081394032005121)
+          - [Rusy překvapil AGS](https://twitter.com/Bodbe6/status/1673292359029727232)
+          - [Il-22M sestřelený wagnerovci ](https://twitter.com/front_ukrainian/status/1673043200511016960)
+          - [Rivnopil](https://twitter.com/NOELreports/status/1673286836544733187)
+          - [Kořist](https://twitter.com/nevedimka123/status/1673187151582830592)
+          - [Kupředu ](https://twitter.com/NOELreports/status/1672976170688692224)
       - title: "Neděle"
         year: "25. červen 2023"
         image: assets/img/timeline/2023-06-25.jpg
