@@ -35,6 +35,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "2. červenec 2023"
+        image: assets/img/timeline/2023-07-02.jpg
+        desc: |
+          České deníky přinesly zprávu o tom, že byl kvůli účasti v bojích na Ukrajině zadržen policií už druhý Čech. Proukrajinská většina společnosti se zlobí, proruská se škodolibě vysmívá. Na tomhle místě je potřeba si připomenout to, co premiér Fiala dobrovolníkům z Česka skutečně slíbil, protože to nebyla beztrestnost, ale abolice. Jinými slovy by se správně mělo stát to, že policie podle platných zákonů takové lidi zatkne, vyslechne a obviní z přečinu služby v cizí armádě. Následně premiér požádá o zastavení stíhání prezidenta, a ten žádosti vyhoví, případně dojde až k odsouzení, načež premiér a prezident udělí dotyčnému milost. Policie jedná podle zákona. Nemůže zákony ignorovat proto, že premiér někde vyslovil verbální slib. Ano, není to ideální, ale zároveň je to z obou stran správný postup. Jen musí premiér svoje slovo dodržet, až to bude potřeba. A teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02bcgHEoFXAZTbpXqJ6T973YXdYdvz1f7ufLMvrjDCdzEDx7Kp8Y28tRB1v9cZYdrUl):
+        detail: |
+          - BBC informuje, že v ukrajinských lesích u Kyjeva bylo objeveno osm britských stíhacích letounů Hurricane z druhé světové války. Letouny byly nejspíš součástí Lend-lease smlouvy mezi Spojenci a Sovětským svazem a po konci války je Sověti rozebrali a zakopali, aby za ně nemuseli Spojencům platit. Podle podmínek Lend-lease totiž Sovětský svaz měl po skončení války zaplatit za ty stroje, které přežily válku vcelku. 
+          - Projekty, které monitorují ruské „trollí farmy“ se domnívají, že Putin převzal kontrolu nad farmami ještě před Prigožinovým pokusem o puč. Jednak proto, že většina farem výrazně omezila aktivitu už okolo května letošního roku, ale hlavně proto, že většina falešných účtů Prigožina nepodpořila, ale naopak šířila kritiku jeho kroků. 
+          - U jižní strany Antonivského mostu probíhají těžké boje. Rusové se snaží zlikvidovat ukrajinské předmostí, nicméně pozorovatelé tvrdí, že všechny ruské pokusy zatím skončily neúspěchem. 
+          - V Kramatorsku dnes pohřbili Annu a Julii, dvojčata, která si 27. června zašla na jídlo do pizzerie v Kramatorsku v době, kdy ji zasáhla ruská raketa.
+          - Rusové opět ostřelovali osvobozený Cherson. Zasažen byl vysokopodlažní dům, lékárna a restaurace. Zraněn byl naštěstí jen jeden člověk.  
+          - Podle Peskova plánuje Rusko postavit centrum pro testování dronů v Nižném Novgorodu, ale také v Sevastopolu na Krymu a v Mariupolu. 
+          - Podle deníku The Guardian by přiznání Putina, že financoval wagnerovce, mohlo usnadnit jeho případný soud za válečné zločiny. 
+          - Ukrajina uspořádala cvičení na Kyjevské vodní nádrži s cílem připravit se na potenciální sabotáž. 
+          - Ukrajinská PVO v noci na dnešek zlikvidovala všech osm dronů a tři rakety Kalibr mířící na Kyjev. 
+          - Podle ukrajinských úřadů přesunuli Rusové do Berďansku a Melitopolu mobilní krematoria. 
+          - Španělsko pošle Ukrajině další 4 tanky Leopard, obrněná vozidla a mobilní polní nemocnici. 
+          - 21 států aliance písemně vyjádřilo podporu pro budoucí vstup Ukrajiny do NATO. 
+          - 40 zaměstnanců ruské ambasády v Rumunsku včera odletělo zpátky do Ruska. 
+          - Zelenský navštívil Oděsu a pogratuloval námořníkům k jejich dnešnímu svátku. 
+          - Orbán prohlásil že, „přichází čas, kdy slabé národy zmizí a silné zůstanou“. 
+          - Rusko tvrdí, že aktuálně dokáže vyrábět 1 600 tanků měsíčně. Aha!
+          - V Buče byl odhalen památník obětem ruského masakru. 
+        videa: |
+          - [Noční úder raket HIMARS na ruskou základnu ](https://twitter.com/Maks_NAFO_FELLA/status/1675247028287287296)
+          - [Neprojel ](https://twitter.com/EuromaidanPress/status/1675436650317647876)
+          - [Uvnitř BMP-1](https://twitter.com/front_ukrainian/status/1675489228166135808)
+          - [Cvičení na přehradě u Kyjeva ](https://twitter.com/EuromaidanPress/status/1675254899267731456)
+          - [Posily z Čečny](https://twitter.com/herooftheday10/status/1675389339524648960)
+          - [Ustupující řeka odhalila poklady](https://twitter.com/EuromaidanPress/status/1675202860173209602)
+          - [Vojáci míjí techniku zničenou na začátku ofenzivy](https://twitter.com/front_ukrainian/status/1675430434547679233)
+          - [Vyrušení u pauzy](https://twitter.com/PaulJawin/status/1675457000132493313)
+          - [Retro trofeje ](https://twitter.com/NOELreports/status/1675451415609634816)
+          - [Ukrajinský útok](https://twitter.com/front_ukrainian/status/1675421181975904256)
+          - [O fous](https://twitter.com/Bodbe6/status/1675314619647250433)
+          - [Ruská první pomoc (citlivé)](https://twitter.com/666_mancer/status/1675385308823552001)
+          - [Panzerfaust ](https://twitter.com/front_ukrainian/status/1675218949473009664)
+          - [Trefa!](https://twitter.com/PaulJawin/status/1675462054583451648)
+          - [Ve Španělsku odhalili nástěnnou malbu věnovanou Ukrajině](https://twitter.com/NOELreports/status/1675206920817311745)
+          - [47. brigáda](https://twitter.com/front_ukrainian/status/1675191506125090816)
+          - [Trofej ](https://twitter.com/666_mancer/status/1675438829606412289)
+          - [Ruská evakuace](https://twitter.com/PaulJawin/status/1675400789991346177)
       - title: "Sobota"
         year: "1. červenec 2023"
         image: assets/img/timeline/2023-07-01.jpg
