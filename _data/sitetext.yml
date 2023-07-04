@@ -35,6 +35,50 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "4. červenec 2023"
+        image: assets/img/timeline/2023-07-04.jpg
+        desc: |
+          Ukrajinci dále rozšiřují svůj „klín“ u obce Robotyne. Ruské pokusy o protiútok do jednoho selhaly a ruští blogeři sklesle přiznávají, že situace je tu kritická. Stejně tak se zatím drží ukrajinské předmostí na levém břehu Dněpru, jehož okolí Ukrajinci na dálku zaminovali, a tak se Rusům nedaří do oblasti projet s potřebnou těžkou technikou. Zároveň ale ukrajinské velení tvrdí, že největší objem ruských sil je aktuálně koncentrován ve směru na Lyman a Rusové se tedy dál snaží převzít iniciativu v tomto směru, aby donutili Ukrajince oslabit svou ofenzivu. Stále ale platí, že naprostá většina ukrajinských brigád vycvičených pro případnou hlavní ofenzivu, stále není na bojišti a v nejhorším případě tedy můžou posílit sektory, kde by se Rusům podařil průlom. Ten se – minimálně prozatím – naštěstí nekoná. Přesto je situace složitá a bude velmi záviset na tom, aby se Ukrajině podařil využít aktuální úspěchy na Záporožské části fronty. Držme jim palce. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02rTaiku77BfdCbYDExzToUeKLKrMT7Sk5EZf1BvzUWRuRHexx7ReSVk6NK1HwMZMil):
+        detail: |
+          - Úřady v ruském Ingušsku přichystaly pro studenty pěkný závěr studijního roku. Studenti si mohou převzít diplom jen tehdy, když si zároveň s ním převezmou před očitými svědky povolávací rozkazy. Na výběr ale tak či tak nemají, protože pokud si diplom a rozkazy nepřevezmou, čekají je až dva roky za mřížemi nebo pokuta 200 000 rublů či nucené práce. 
+          - Ukrajina údajně schválila seznam pilotů, kteří se v příštích dnech odeberou do zahraničí na výcvik v pilotování strojů F-16. Zároveň prý splnila formální požadavky a může zahájit proces převodu těchto strojů ukrajinským vzdušným silám. Podle generálního tajemníka NATO ale Ukrajina západní stíhací letouny neobdrží dříve než po skončení své ofenzivy. 
+          - Ukrajina přidal koncern Unilever na seznam mezinárodních sponzorů války. Jen loni údajně na daních odvedl do ruského rozpočtu 50 miliónů dolarů, a navíc meziročně o více než 50 miliónů dolarů navýšil svůj zisk z ruského trhu. 
+          - Kyperské posádky se začaly v Izraeli cvičit v ovládání tanků Merkava. Kypr je tedy určitě jednou ze zemí, která izraelské tanky v budoucnu obdrží, což by mohlo vést k tomu, že Kypr naopak převede své stávající T-80U Ukrajině. 
+          - Prezidentský poradce Podoljak předpovídá, že ruská fronta úplně zkolabuje v řádech týdnů. Ukrajinské síly už podle něj identifikovaly slabiny v ruské obraně a začínají je využívat. 
+          - Podle ruských vojenských blogerů padl na Ukrajině velitel čečenských speciálních jednotek „Achmat“ Jevgeny Pysarenko. 
+          - Zelenský požádal Biden, aby formálně pozval Ukrajinu do NATO, i kdyby to nemělo vést k jejímu brzkému přijetí do aliance. 
+          - Ruský Rostov předběžně vyčíslil škody, které wagnerovci způsobili městu, na 92,5 miliónu rublů (cca 23 miliónů korun?). 
+          - Vojenský areál v Kubince u Moskvy byl dnes pod útokem dronů. Zasaženo bylo také letiště Vnukovo. 
+          - Švýcarsko vyčlenilo 6 miliónů dolarů na opravu 30 ukrajinských škol zničených během ruské invaze.
+          - Zelenský v rozhovoru pro CNN řekl, že válka skončí teprve až Rusové přestanou okupovat Krym. 
+          - Ukrajina obdržela o MMF další finanční pomoc ve výši 890 miliónů dolarů. 
+          - Ve směru na Berďansk ZSU postoupily o 2km až k ruské obranné linii. 
+          - PVO v noci na dnešek sestřelila 20 útočných a 6 průzkumných dronů. 
+          - Dva lidé zemřeli při dnešním ruském ostřelování Chersonu. 
+        videa: |
+          - [Ruské vrakoviště](https://twitter.com/AlexRaptor94/status/1675947743628390407)
+          - [Kdesi v Česku ](https://twitter.com/Iveta7031/status/1675899489549180930)
+          - [Jde poprvé do útoku](https://twitter.com/d_hajmars/status/1675769251775250434)
+          - [Evakuace z boje ](https://twitter.com/Bodbe6/status/1676043024655065090)
+          - [Mínus tři Grady](https://twitter.com/nexta_tv/status/1676105191907532800)
+          - [CV-90 ](https://twitter.com/EuromaidanPress/status/1676051954840240131)
+          - [Práce dronů](https://twitter.com/PaulJawin/status/1675916534676434966)
+          - [Sumy po útoku dronů](https://twitter.com/nexta_tv/status/1675838778231980034)
+          - [Včerejší Sumy](https://twitter.com/nexta_tv/status/1675833105305796609)
+          - [M777 na kryté pozici](https://twitter.com/front_ukrainian/status/1675906345915088896)
+          - [V Rusku zase hoří ](https://twitter.com/EuromaidanPress/status/1675995106741047296)
+          - [Na frontu ](https://twitter.com/GloOouD/status/1675806255128903682)
+          - [Zničené odminovačky u nových ukrajinských pozic](https://twitter.com/front_ukrainian/status/1675925524529422351)
+          - [Odminovačka, když je v provozu ](https://twitter.com/front_ukrainian/status/1675920522171891712)
+          - [3. šturmová pod palbou ](https://twitter.com/Bodbe6/status/1676039792994185216)
+          - [Mínus T-90](https://twitter.com/PaulJawin/status/1676151518901284864)
+          - [Sestřih z fronty](https://twitter.com/nevedimka123/status/1676138457830227968)
+          - [Pokémon](https://twitter.com/Bodbe6/status/1675980672261914626)
+          - [Mínus tank](https://twitter.com/PaulJawin/status/1675945691984588813)
+          - [Trefa!](https://twitter.com/2uwmp/status/1675969932465524738)
+          - [Ruský kosmonaut ](https://twitter.com/Militarylandnet/status/1675987761940033536)
+          - [Když odminovačka funguje, jak má ](https://twitter.com/parrot_soldier/status/1676173818509815808)
       - title: "Pondělí"
         year: "3. červenec 2023"
         image: assets/img/timeline/2023-07-03.jpg
