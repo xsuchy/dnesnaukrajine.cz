@@ -35,6 +35,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "5. červenec 2023"
+        image: assets/img/timeline/2023-07-05.jpg
+        desc: |
+          Ukrajinci zasáhli obří skladišti ruské munice a raket do salvových raketometů, které si Rusové zbudovali v Makijivce u Doněcku přímo v civilní zástavbě v bloku vybydlených paneláků. Zásah způsobil sérii sekundárních detonací munice a některé explodující rakety následně poničily i domy v blízkém okolí včetně nedaleké polikliniky. Ruská propaganda už šíří verzi, že Ukrajinci záměrně ostřelovali civilní oblasti, nicméně k jejich smůle nad Doněckem celou dobu nerušeně kroužil ukrajinský průzkumný a naváděcí dron, který zachytil jak skladiště munice, tak moment, kdy ho zasáhly ukrajinské střely. Sílu exploze snadno pochopíte z fotek a videí níže, šlo skutečně o jeden z největších ruských muničních skladů vůbec, který Rusové naprosto cynicky umístili přímo do obydlené oblasti. Tím z něj podle mezinárodního práva udělali legitimní cíl a ohrozili všechny nic netušící civilisty nacházející se poblíž. Rusko přitom staví svou propagandu na tom, že obyvatele Donbasu přišlo ochránit. Tohle má být ta ochrana? Uložit přímo vedle míst, kde bydlí lidé, stovky tun výbušnin? Nicméně incident se podle všeho obešel bez civilních obětí. Ukrajinci totiž na rozdíl od Rusů nemíjí. A teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Db98Q9pVtbq4TJdmkXdyHs1KiW8WP6tmfQhJk3vAQRhQLqZsdBBGRSGg2bVkVk3Cl):
+        detail: |
+          - Vývoj okolo záporožské jaderné elektrárny začíná nabírat alarmující podobu. Poté, co Rusové evakuovali většinu „svého“ personálu z elektrárny a začali evakuovat i blízký Enerhodar, informovali Ukrajinci, že podle satelitních snímků Rusové na střechu dvou bloků umístili výbušniny a budou nejspíš chtít zinscenovat ukrajinský raketový útok tím, že je odpálí. Rusové naopak na svých kanálech masivně sdílí informaci, že Ukrajinci údajně chystají na elektrárnu udeřit raketami s radioaktivním odpadem a obvinit Rusko z jaderného ohrožení. Obyvatelé Mariupolu navíc v ulicích města vyfotili ruské vozidly, které má měřit radiaci. Osobně si nemyslím, že cílem Rusů je vyvolat jadernou havárii, ale určitě něco chystají. Nejspíš chtějí „pouze“ poškodit elektrárnu, a tak ji vyřadit z provozu, aby Ukrajincům během ústupu způsobili maximální ekonomické a případně ekologické škody. Tak jako v Nové Kachovce. 
+          - Ukrajinci bez uvedení detailů informovali, že se jim podařily značné územní zisky u Bachmutu, zejména na jeho jižní straně. Ruský bloger Sladkov dokonce tvrdí, že ruská armáda se musela úplně stáhnout z Kliščiijivky. Pokud by to byla pravda, znamenalo by to pro Ukrajince dobytí strategicky důležité pozice, která jim umožní získat palebnou kontrolu nad přístupy do Bachmutu. Ukrajinské síly tuto nicméně informaci prozatím vyvracejí, byť připouští, že se může stát brzy realitou. 
+          - Generál Syrský oznámil, že ukrajinská ofenziva postupuje očekávaným tempem, hlavní úder podle něj stále nepřišel. Stejný názor mají i analytici z ISW. Zároveň Syrský oznámil, že je jisté, že ukrajinská armáda si vezme zpátky Bachmut, a k otázce ztrát uvedl, že okupanti mají 8-10krát větší ztráty než Ukrajinci. 
+          - Deník Financial Times informoval, že během nedávné návštěvy čínské „mírové delegace“ v Kyjevě čínští vyslanci nevěřili, že americký Patriot dokáže ničit střely Kinzhal. Když jim prý ale Ukrajinci nabídli k pročtení veškerou dokumentaci, Číňané nabídku odmítli.
+          - Ukrajinský Generální štáb označuje informace o přítomnosti jaderných zbraní v Bělorusku za nepravděpodobné. Takové zbraně vyžadují značnou logistiku, přípravy a dedikovaný personál, a nic z toho zatím Ukrajinci v Bělorusku nepozorují. 
+          - Litevský prezident prohlásil, že ačkoliv na příštím summitu NATO Ukrajina nedostane vše, o co partnery požádala, prý Ukrajina „nebude zklamaná“. 
+          - Ruská propaganda se snaží prezentovat fotky své loňské katastrofy u Bilohorivky jako zničenou západní techniku včetně Leopardů a Bradleyů.  
+          - Parlamentní shromáždění OSBE označilo wagnerovce za teroristickou organizaci a Rusko za státního sponzora terorismu. 
+          - Rusové ostřelovali Pervomajske u Charkova raketami Iskander. Zranili při tom 31 lidí včetně 5 dětí. 
+          - Nizozemsko schválilo další balík vojenské pomoci Ukrajině v hodnotě okolo 118 miliónů eur.
+          - Čínský prezident údajně varoval Putina před použitím jaderných zbraní na Ukrajině. 
+          - Generála Surovikina nikdo neviděl na veřejnosti od Prigožinova pokusu o puč.
+          - Podle Reznikova se Rusové naučili rušit signál GPS u naváděných střel. 
+          - Nad Kamčatkou se zřítil ruský MiG-31. 
+        videa: |
+          - [Zaměření muničáku v Makijivce a následný úder ](https://twitter.com/Tendar/status/1676503590268026883)
+          - [GPS munice versus T90M (citlivé)](https://twitter.com/front_ukrainian/status/1676554808331759616)
+          - [Znovu Makijivka](https://twitter.com/bayraktar_1love/status/1676303492044976128)
+          - [Pervomajske](https://twitter.com/Maks_NAFO_FELLA/status/1676211969345441792)
+          - [Kolemjdoucí komentují stav techniky, kterou Rusko posílá na frontu ](https://twitter.com/wartranslated/status/1676560098250960899)
+          - [Ruský voják se sám demobilizoval (citlivé)](https://twitter.com/Bodbe6/status/1676565108787478529)
+          - [Sprintující Gepard ](https://twitter.com/EuromaidanPress/status/1676561574478352386)
+          - [Ruský ústup nevyšel ](https://twitter.com/PaulJawin/status/1676522852319735813)
+          - [Trofeje ](https://twitter.com/front_ukrainian/status/1676199422298865665)
+          - [CQC v zákopech ](https://twitter.com/NOELreports/status/1676249951683112960)
+          - [Mínus BMP](https://twitter.com/EuromaidanPress/status/1676491601634557952)
+          - [Práce BMP ](https://twitter.com/front_ukrainian/status/1676476579688464384)
+          - [Práce artilérie ](https://twitter.com/Bodbe6/status/1676564174292283393)
+          - [Americká kára ](https://twitter.com/front_ukrainian/status/1676518043596345346)
+          - [Dva se rozhodli žít ](https://twitter.com/herooftheday10/status/1676568050626166785)
+          - [Zastavený ruský útok](https://twitter.com/EuromaidanPress/status/1676410690301571073)
+          - [Lancet minul](https://twitter.com/GloOouD/status/1676196771972915202)
+          - [Liška!](https://twitter.com/bayraktar_1love/status/1676543589394907137)
+          - [Odminovací nálož ](https://twitter.com/Maks_NAFO_FELLA/status/1676532218448035845)
+          - [To je radosti ](https://twitter.com/front_ukrainian/status/1676271704371339267)
+          - [Šacování ](https://twitter.com/herooftheday10/status/1676491994133086208)
       - title: "Úterý"
         year: "4. červenec 2023"
         image: assets/img/timeline/2023-07-04.jpg
