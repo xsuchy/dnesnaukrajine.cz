@@ -35,6 +35,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "7. červenec 2023"
+        image: assets/img/timeline/2023-07-07.jpg
+        desc: |
+          Když se mluví o vojenské pomoci Ukrajině, často se zároveň uvádí hodnota balíčků, což vytváří dojem, že pomoc, kterou Ukrajině poskytujeme, platíme z našich daní. Většina techniky ale pochází z vojenských skladů a jedná se o zakonzervované kusy, které armády dávno vyřadily a dávno za ně v minulosti zaplatily. Hodnota, která se uvádí, je tedy hodnota, kterou by za techniku teoreticky někdo další mohl zaplatit, pokud by se státy rozhodly ji prodat. K tomu by ale pravděpodobně stejně nedošlo. Západní armády nakupují nové stroje, a o staré, zejména sovětské kusy, mají zájem jen některé africké nebo východoasijské země, a do nich většina západních zemí dodávat zbraně nechce. Ukrajina navíc techniku jistě jen tak nedostává, pravděpodobně si naprostou většinu normálně kupuje nebo „pronajímá“. Západní země tedy za svou starou techniku dostávají zpět nečekaně velkou hodnotu. Techniky se mohou smysluplně zbavit, a ještě tím posílit vlastní obranyschopnost v důsledku toho, že Ukrajina masivně snižuje ruskou bojeschopnost. A to se sakra vyplatí. Ale teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Rqt16N1oy1bcY8kAkG17wuWS3bjFsrBcPcwgSkqBVYUVCgKfLeoUGYZBzacyGXwil):
+        detail: |
+          - Podle britské rozvědky Rusko stahuje vojáky prakticky ze všech oblastí Ruska, aby dokázalo odolávat Ukrajincům na současné frontě. Nově stáhlo na Ukrajinu dokonce i 58. kombinovanou armádu, které jinak brání Kavkaz, a také 5. kombinovanou armádu a námořní pěchotu, bránící hranice s Čínou. 
+          - Ukrajinská PVO v noci zasahoval proti dalších íránských kamikadze dronům. Zničit se jich podařilo 12 z celkem 18 vyslaných. Jeden z dronů spadl na dálnici v Dněpropetrovské oblasti a zabil dva lidi cestující v autě. 
+          - Ukrajina koupí od Slovenska dalších 16 kusů houfnic Zuzana 2. Krom toho obě země podepsaly dohodu o budoucí společné produkci zmíněných houfnic přímo na území Ukrajiny. 
+          - Bulharsko přeprodá Ukrajině reaktory ruské výroby z vlastní nedokončené jaderné elektrárny, kterou měl stavět právě ruský Rosatom. 
+          - MAAE oznámila, že prověřila další prostory v záporožské jaderné elektrárně, ale zároveň i to, že Rusové stále nechtějí pustit její zástupce na střechy reaktorů. 
+          - Zelenský po setkání s českými představiteli v Praze zamířil na Slovensko za Zuzanou Čaputovou. Poté by se měl setkat s Erdoganem v Istanbulu. 
+          - I přes zuřící války se Ukrajina přiblížila ke schválení konopí pro léčebné účely. Návrh podporuje prezident i ministerstvo zdravotnictví. 
+          - Po setkání s ukrajinským prezidentem oznámil premiér Fiala, že Česko poskytne Ukrajině další helikoptéry a dělostřeleckou munici. 
+          - Podle Orbána podporuje Maďarsko vstup Švédska do NATO. Zbývá tedy jen Turecko. 
+          - Podle agentury Bloomberg má nyní Ukrajiny zhruba o sto tanků více než Rusko. 
+          - Při další výměně zajatců se domů vrátilo 45 ukrajinských vojáků.
+          - Spojené státy schválily dodávku kazetové munice Ukrajině. 
+        videa: |
+          - [Mobíci se zlobí ](https://twitter.com/wartranslated/status/1677273690608746498)
+          - [Mínus tank ](https://twitter.com/EuromaidanPress/status/1677305445520752641)
+          - [Poslední konverzace s Apoštolem ](https://twitter.com/PaulJawin/status/1677054185060065280)
+          - [Likvidace miny](https://twitter.com/bayraktar_1love/status/1677239045955416064)
+          - [Javelin a NLAW](https://twitter.com/front_ukrainian/status/1677230694987096066)
+          - [Trofeje ](https://twitter.com/nevedimka123/status/1677043988858130432)
+          - [Leopard 2](https://twitter.com/front_ukrainian/status/1677217298933841920)
+          - [Ruský konvoj](https://twitter.com/Bodbe6/status/1677309866136727555)
+          - [Švédská kára](https://twitter.com/front_ukrainian/status/1677205535924396034)
+          - [Viděl dron, tak se radši vzdal ](https://twitter.com/PaulJawin/status/1677300596259291136)
+          - [Po velkém ruském útoku u Avdijivky](https://twitter.com/front_ukrainian/status/1677045847702249473)
+          - [Ukrajinský útok ](https://twitter.com/Bodbe6/status/1677285216107261953)
+          - [Na Dněpru ](https://twitter.com/front_ukrainian/status/1676977661963280389)
+          - [Sbírání Pokémonů](https://twitter.com/PaulJawin/status/1677275719628406788)
+          - [Trefa!](https://twitter.com/NOELreports/status/1677247201020346374)
+          - [Bývalé ruské zákopy](https://twitter.com/herooftheday10/status/1677281090090811392)
+          - [Domů](https://twitter.com/AlexBondODUA/status/1677024744883748865)
+          - [Likvidace nevybuchlé bomby](https://twitter.com/bayraktar_1love/status/1677318430720946179)
       - title: "Čtvrtek"
         year: "6. červenec 2023"
         image: assets/img/timeline/2023-07-06.jpg
