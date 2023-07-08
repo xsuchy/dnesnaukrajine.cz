@@ -35,6 +35,51 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "8. červenec 2023"
+        image: assets/img/timeline/2023-07-08.jpg
+        desc: |
+          500. den ruské invaze a také den, kdy generál Zalužnyj slaví své 50. narozeniny. Největší dárek si pro něj připravily Spojené státy, které schválily další balík vojenské pomoci obsahující desítky vozidel, ale také kazetovou munici k ničení ruských obranných pozic. Proti tomu se ohradilo Rusko a jeho propaganda, ale také některé lidskoprávní organizace. Tento typ munice totiž vyřadilo že svého arsenálu zhruba 120 státu světa a dohodly se na zákazu jejího používání. Nutno ale říct, že mezi těmi 120 státy světa nejsou Spojené státy ani Rusko nebo Ukrajina, a že zákaz je motivovaný tím, že použití takové munice v obydlených oblastech vede ke zbytečným ztrátám na životech mezi civilisty. To je ostatně i výsledek toho, že většina států světa už několik dekád nevedla konvenční válku, ale čelila pouze teroristickým skupinám, které využívají města jako úkryty, a možná si ani nedokázaly představit, že ještě někdy skutečnou válku povedou. Ukrajina ale kazetovou munici chce využívat k efektivnímu ničení živé síly v zákopech, nikoliv proti městům. Na rozdíl od Ruska. Rusko naopak tento typ munice používá od samého začátku invaze, a to i proti městům. Například i útok na nádraží v Kramatorsku, při kterém zahynuly desítky lidí, provedlo Rusko raketou Točka s kazetovou hlavicí. Takže sorry, Ivane, ale nemáš nárok do toho mluvit. Ale teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02dRrGvcYC4gZHyGiW3r11trFfSf2F5YRRSiYEH3drf6ccacunBVPoW1s1dWzAkJLXl):
+        detail: |
+          - Náměstkyně ministerstva obrany Ukrajiny Hanna Maljar oznámila, že ZSU prakticky lapily ruské jednotky v Bachmutu. Podle ní je nyní pro Rusy obtížné se kamkoliv pohnout a téměř nemožné se z města stáhnout. Tím v podstatě řekla, že došlo k operačnímu obklíčení Bachmutu, tedy že ZSU mají všechny přístupové cesty pod palebnou kontrolou. Britská rozvědka potvrzuje, že Ukrajinci u Bachmutu si připsali značné zisky.
+          - Ministr obrany Reznikov popsal, jakým způsobem bude Ukrajina používat kazetovou minucí: 1) nesmí ji použít proti cílům na území Ruské federace 2) použita bude jen proti koncentraci živé síly nepřítele, 3) každé použití musí být zdokumentováno, oblasti použití budou po válce prioritně označeny k odminování a 4) Ukrajina bude Spojeným státům průběžně posílat hodnocení účinnosti.
+          - Pět velitelů z Azovstalu, kteří byli po výměně zajatců pod ochranou Turecka, odletělo z Instanbulu společně s prezidentem Zelenským a vrací se domů. Z Turecka s nimi letěl český vládní speciál. 
+          - Jens Stoltenberg prozradil, že má nadcházející, Summitu NATO schválí členské státy program několikaleté podpory Ukrajině, která bude mít za cíl Ukrajinu přiblížit alianci.
+          - Zelenský na Slovensko zkritizoval pro-ruské postoje části společnosti i politické scény a připomněl lidem, že stát na straně Ruská znamená stát na straně terorismu.
+          - Rusko přesune osm válečných lodí včetně raketových člunů do Azovského moře, kde vytvoří novou organizační skupinu sídlící v okupovaném Mariupolu.
+          - Podle zachycených odposlechů Rusové u Orichivu omylem rozstříleli dělostřelectvem vlastní pozice. Záznam najdete mezi videi. 
+          - Po setkání Zelenského s prezidentem Turecka Erdoganem prohlásil Erdogan, že Ukrajina si zaslouží být v NATO.
+          - Ukrajinské síly sdílely video sdělující, že „to, že jsou ticho, neznamená, že nepracují“.
+          - Během ruského ostřelování Lymanu zahynulo osm lidí a dalších pět bylo zraněno.
+          - Partyzánům v Rusku se podařilo poničit železnici u Vladimíru a Kirova. 
+          - PVO dnes úspěšně zasahovala proti pěti dronům Shahed.
+        videa: |
+          - [Rusové pálili dělostřelectvem na vlastní - odposlech!](https://twitter.com/Gerashchenko_en/status/1677341786983809024)
+          - [Rozhovor s velitelem ruské legie](https://twitter.com/nexta_tv/status/1677327220279214080)
+          - ["Jdeme vpřed" ](https://twitter.com/AlexBondODUA/status/1677696983920771075)
+          - [Ruská kazetová munice v Charkově](https://twitter.com/reshetz/status/1677351108996472839)
+          - [3. šturmová](https://twitter.com/front_ukrainian/status/1677347459771637760)
+          - [Odminovačka](https://twitter.com/EuromaidanPress/status/1677499492906553344)
+          - [Zelenský navštívil Hadí ostrov.](https://twitter.com/nexta_tv/status/1677560214638264320)
+          - [Uvnitř houfnice](https://twitter.com/front_ukrainian/status/1677580985813090306)
+          - [Dva dny na frontě](https://twitter.com/Hromadske/status/1677321570757246980)
+          - [Těžké boje](https://twitter.com/Bodbe6/status/1677455871071100929)
+          - [Minus sklad u Luhansku](https://twitter.com/nexta_tv/status/1677541016575025153)
+          - [Kurdjumivka](https://twitter.com/NOELreports/status/1677593791086166016)
+          - [Bývalý tank T-90M](https://twitter.com/EuromaidanPress/status/1677468539135881216)
+          - [BTR-4 při práci](https://twitter.com/front_ukrainian/status/1677606420609478657)
+          - [Devět Pokémonů](https://twitter.com/Bodbe6/status/1677701819865112577)
+          - [Tohle bude ponižující odchod ](https://twitter.com/NOELreports/status/1677692277475401728)
+          - [Mínus grad](https://twitter.com/EuromaidanPress/status/1677414685136617476)
+          - [Dron bombardér](https://twitter.com/PaulJawin/status/1677345095249428480)
+          - [Další italské houfnice jedou směr Ukrajina](https://twitter.com/NichoConcu/status/1677288185745887232)
+          - [Ukrajinský šturm](https://twitter.com/front_ukrainian/status/1677586968811651072)
+          - [Tam ho nečekal](https://twitter.com/Bodbe6/status/1677404844762562560)
+          - [92. u Bachmutu](https://twitter.com/NOELreports/status/1677622459753701379)
+          - [Pringles v Rusku](https://twitter.com/UAArtisansRock/status/1677459230272655361)
+
+Velké Bum
+https://twitter.com/parrot_soldier/status/1677676001218658304
       - title: "Pátek"
         year: "7. červenec 2023"
         image: assets/img/timeline/2023-07-07.jpg
