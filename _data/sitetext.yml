@@ -35,6 +35,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "11. červenec 2023"
+        image: assets/img/timeline/2023-07-11.jpg
+        desc: |
+          Ján Mazák, rodák z Košic, který 1. května přeplaval Narvu v Estonsku, aby se dostal do Ruska, už je zase zpátky v Evropě. V Rusku ho totiž uvěznili za nelegální překročení hranic, což pro něj byla zkušenost, která zásadně proměnila jeho vnímání Ruska Dokonce se nyní vyjádřil v tom smyslu, že pokud on zažil, co zažil, tak si ani nedokáže představit, v jak nelidských podmínkách vězní Rusové ukrajinské zajatce. Co si budeme povídat, asi by takový „výlet“ prospěl i řadě lidí v Česku. Nicméně, teď pár novinek: 
+        detail: |
+          - V Krasnodaru byl zastřelen bývalý velitel stejnojmenné ponorky, která v minulosti pálila rakety Kalibr na Ukrajinu, a také současný velící důstojník pro mobilizaci Stanislav Ržický. Kdosi ho čtyřikrát střelil zezadu do hlavy a zad, když byl venku běhat. Někteří pozorovatelé upozornili na skutečnost, že Ržický každý ráno běhal podobné trasy, a dokonce je veřejně sdílel v aplikaci Strava, přičemž jeden z posledních sdílených obrázků mu „laknul“ i účet jménem Kyrylo Budanov. Šéf ukrajinské rozvědky Kyrylo Budanov, ale tvrdí, že jde nejspíš o vtípek a že se smrtí Ržického nemá rozvědka nic společného. 
+          - Generální tajemník NATO Jens Stoltenberg oznámil, že Erdogan souhlasil s ratifikací žádosti Švédska o vstup do NATO a v nejbližších dnech předloží dokumenty tureckému parlamentu ke schválení. Informaci potvrdili i turečtí představitelé. Vstupem Švédska do aliance Rusko ztratí jakoukoliv kontrolu nad Baltským mořem a NATO získá velmi početné námořnictvo a špičkové vzdušné síly. Mluvčí Kremlu Peskov v reakci prohlásil, že vstup Švédska do NATO bude mít stejnou odezvu ze strany Ruska, jako vstup Finska. Trochu se v tom ztrácím, myslel tím žádnou odezvu? 
+          - Německo oznámilo těsně před zahájením summitu NATO velký balík vojenské pomoci Ukrajině. Bude obsahovat další dva odpalovače raket Patriot, 24 tanků Leopard, 40 vozidel Marder, 5 vozidel Bergepanzer 2, 20 000 kusů 122mm munice, 5 000 kusů kouřových granátů do 155mm děl, systémy pro detekci a likvidaci dronů a další vybavení. 
+          - Běloruský umělec Ales Puškin za podivných okolností zemřel v běloruském vězení, kde si odpykával pětiletý trest za smyšlené zločiny - „rehabilitaci nacismu“ a „zneužívání státních symbolů“ – proto, že maloval obrazy Bělorusů, kteří bojovali proti Sovětskému svazu. 
+          - Partyzáni ze skupiny Ateš tvrdí, že Kadyrovce vyslané na pomoc Rusům do Bachmutu zasáhlo ukrajinské dělostřelectvo, když se pokusili přiblížit k městu. Tvrzení partyzánů částečně potvrzují i některá nová videa. 
+          - Prezident Macron oznámil, že Francie poskytne Ukrajině své střely SCALP-EG s plochou dráhou letu, aby podpořila probíhající ukrajinskou ofenzivu. Podle některých zdrojů už dokonce rakety jsou na Ukrajině. 
+          - Svitlana Panková, žena, která na začátku invaze konfrontovala okupanty a podala jim semínka, „aby z nich aspoň vyrostly slunečnice“, je údajně v ruském zajetí. Rusové ji chtějí soudit za „extrémismus“. 
+          - Ukrajinci informovali, že jeden z posledních raketových útoků na okupovaný Berďansk připravil o život ruského generálporučíka Olega Cokova. Ruské kanály už jeho smrt potvrdily. 
+          - Země skupiny G7 chystají vydat společné prohlášení ohledně bezpečnostních záruk pro Ukrajinu. 
+          - 64 % obyvatel Evropské unie podle průzkumů podporuje další vyzbrojování Ukrajiny. 
+          - Ukrajinci za pět týdnů osvobodili území, které Rusové dobývali šest měsíců. 
+          - Okupovaný Tokmak, Vasylivka a Berďansk hlásí mohutné exploze. 
+          - Ve Vilniusu začal summit NATO. 
+        videa: |
+          - [Kadyrovci dorazili na frontu (citlivé!)](https://twitter.com/666_mancer/status/1678432770891161602)
+          - [Likvidace dronů ](https://twitter.com/nexta_tv/status/1678686948871815169)
+          - [Děsivá krása války](https://twitter.com/NOELreports/status/1678656477316218881)
+          - [Mínus ruský tank ](https://twitter.com/front_ukrainian/status/1678430960025493505)
+          - [Summit NATO začal](https://twitter.com/Maks_NAFO_FELLA/status/1678749611895267328)
+          - [U Berchivky](https://twitter.com/front_ukrainian/status/1678715357761085440)
+          - [Stugna při práci ](https://twitter.com/EuromaidanPress/status/1678630445133754368)
+          - [Macron o raketách](https://twitter.com/NOELreports/status/1678700834199162881)
+          - [Trofejní tanky](https://twitter.com/front_ukrainian/status/1678744522170179591)
+          - [Ruský průzkum zmařila artilérie ](https://twitter.com/PaulJawin/status/1678430273631920139)
+          - [Ústup? Úprk. ](https://twitter.com/front_ukrainian/status/1678674719925493766)
+          - [Rusové se stále snaží zničit předmostí u Olešek ](https://twitter.com/NOELreports/status/1678712515310637057)
+          - [Trefa (citlivé!)](https://twitter.com/herooftheday10/status/1678664099121582083)
       - title: "Pondělí"
         year: "10. červenec 2023"
         image: assets/img/timeline/2023-07-10.jpg
