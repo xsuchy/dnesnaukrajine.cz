@@ -35,6 +35,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "12. červenec 2023"
+        image: assets/img/timeline/2023-07-12.jpg
+        desc: |
+          Na státy NATO se snesla kritika za to, že nedaly jasnou zelenou vstupu Ukrajiny do NATO. Většina přitom je pro vstup Ukrajiny do NATO, ale zároveň chce, aby Ukrajina splnila veškeré podmínky, jako musely splnit ostatní státy, a to znamená v současné situaci nejprve vyhrát válku a zkonsolidovat svoje území. Jedno z pravidel NATO totiž říká, že do aliance nemůže být přijat žádný stát, na jehož území probíhá aktivní konflikt, nebo stát, který nemá vyřešené spory o hranice. V opačném případě by vstup takové země do NATO znamenal automatické vtažení aliance do války. Proto se na probíhajícím summitu NATO diskutovaly jiné formy bezpečnostních záruk Ukrajině, než bude možné ji oficiálně do aliance přijmout. A je to tak správně. Pokud totiž nejsme připraveni poslat na Ukrajinu vlastní armádu, nemůžeme po alianci chtít, aby dělala výjimky. Nicméně Zelenský se ve Vilniusu setkal se zástupci většiny států NATO na samostatných jednáních, a rozhovory nesou výsledky. Více [v dnešním přehledu](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0p1wcWr9gkowMkEB9dAgSN4dSkU85UrgWFmsuuEk1dCYpLeNsfk8gxPiEKrVR5FiPl): 
+        detail: |
+          - Peskov prohlásil, že bezpečností záruky Ukrajině, které nabízí skupina G7, ohrožují bezpečnost Ruska, a budou mít proto „velmi negativní následky“. Bezpečnost sousední země ohrožuje Rusko. Řekněte si to párkrát nahlas.  
+          - Běloruský ministr obrany oznámil, že wagnerovci začnou v Bělorusku asistovat při výcviku běloruské armády. Zástupci NATO ale stejně jako Ukrajinci prozatím tvrdí, že nevidí známky přítomnosti wagnerovců v Bělorusku. 
+          - Rusko dál tlačí ve směru z Kreminné na Lyman. V minulých dnech si připsali drobné územní zisky, ovšem za cenu značných ztrát. Není nicméně jasné, kde se nachází aktuální kontaktní linie. 
+          - Norsko poskytne v roce 2023 vojenskou pomoc Ukrajině za bezmála miliardu dolarů. V rámci pomoci dodá mimo jiné 1 000 miniaturních průzkumných dronů Black Hornet. 
+          - Británie poskytne Ukrajině dalších 70 vozidel, munici pro tanky Challenger a 50 miliónů liber na údržbu techniky, kterou už Ukrajině Británie v minulosti poskytla. 
+          - Polský parlament jednohlasně přijal rezoluci požadující, aby Ukrajina uznala vinu za Volyňský masakr a provedla exhumaci ostatků. 
+          - Rusko spustilo na vodu náhradu za potopený křižník Moskva. Nová loď nese jméno Cyklon a může nést osm raket Kalibr. 
+          - Ukrajinci kontrolují zákopy podél Kliščijivky. Rusové údajně do městečka posílají rezervy ve snaze podniknout protiútok. 
+          - Ukrajinská PVO dnes v noci zlikvidovala 11 z 15 kamikadze dronů. Včera v noci dokonce 26 z 28. 
+          - 11 zemí bude od konce léta cvičit ukrajinské piloty v létání na strojích F-16. 
+          - Japonsko poskytne Ukrajině systémy pro detekci dronů. 
+          - Austrálie poskytne Ukrajině dalších 30 Bushmasterů.
+        videa: |
+          - [Zelenský ve Vilniusu ](https://twitter.com/nexta_tv/status/1679094113948377090)
+          - [BTR evakuuju ukrajinské vojáky po nevydařeném útoku](https://twitter.com/Bodbe6/status/1678878360938635265)
+          - [Bachmut](https://twitter.com/EuromaidanPress/status/1678848032119353348)
+          - [Velký ukrajinský útok na Rivnopol](https://twitter.com/region776/status/1678742612940050433)
+          - [Ztráty po ruském neúspěšném útoku](https://twitter.com/Bodbe6/status/1678844078891450369)
+          - [Zastavený ruský útok](https://twitter.com/bayraktar_1love/status/1679035003169132545)
+          - [Kočička při práci ](https://twitter.com/front_ukrainian/status/1679077033517760514)
+          - [Rusové u zničeného Bradleyho](https://twitter.com/NOELreports/status/1679023823998316545)
+          - [Práce artilérie](https://twitter.com/bayraktar_1love/status/1678791122557059074)
+          - [Mínus tank](https://twitter.com/PaulJawin/status/1679083674543828992)
+          - [Snajpr](https://twitter.com/front_ukrainian/status/1679068963966181378)
+          - [Hups](https://twitter.com/Bodbe6/status/1678891212915236867)
+          - [Český pták](https://twitter.com/front_ukrainian/status/1679014061529354240)
+          - [Blbě vyřešená blindáž](https://twitter.com/PaulJawin/status/1679013951185534976)
+          - [Mínus APC](https://twitter.com/Wh0Know5/status/1679120376184426496)
+          - [Když nekoukáš nahoru ](https://twitter.com/nevedimka123/status/1678853648833470468)
+          - [Cyklon, náhrada za potopenou Moskvu ](https://twitter.com/Maks_NAFO_FELLA/status/1679094405846781953)
       - title: "Úterý"
         year: "11. červenec 2023"
         image: assets/img/timeline/2023-07-11.jpg
