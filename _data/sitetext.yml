@@ -35,6 +35,47 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "13. červenec 2023"
+        image: assets/img/timeline/2023-07-13.jpg
+        desc: |
+          Země G7 se shodly na dlouhodobých bezpečnostních zárukách pro Ukrajinu před jejím budoucím vstupem do NATO. Zavázaly se dodat Ukrajině moderní techniku pro její letectvo, námořnictvo a pozemní síly, zabezpečit další výcvik pro ukrajinský personál, přislíbily, že budou sdílet zpravodajské informace a zlepšovat ukrajinskou kyberbezpečnost. Výměnou za to požadují, aby Kyjev provedl zásadní reformy armády, ale také soudnictví. Primárním cílem společných aktivit má být Ukrajina, jejíž vojenská síla odradí Rusko od budoucích útoků. Rusko to (samozřejmě) okamžitě označilo za vlastní ohrožení. Ale jak jsme si už několikrát říkali, silná Ukrajina neohrožuje Rusko, ale pouze jeho imperiální choutky, na kterých si bohužel léta staví vlastní identitu a které značná část ruské společnosti sdílí. Smůla. Svět si po Gruzii, Čečensku a Krymu konečně řekl "třikrát a dost". A teď [pár aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid025VkxYyptt3BwP1V28UL942v4RKDQfqXiPqgV152qqH1gZ8K9npXF1oXQnT3ajCKPl):
+        detail: |
+          - Lavrov vyhrožuje Západu, že dodávku letounů F-16 Ukrajině bude považovat za „jaderné ohrožení“, a to proto, že tyto stroje dokáží v určité konfiguraci nést i taktické jaderné střely. To ale dokáží i některé jiné letouny, kterými už Ukrajina dávno disponuje. Ostatně Rusko samo podle vlastních slov plánuje upravit běloruské bitevníky Su-25, aby mohly nést jaderné střely, a stejná letadla má i Ukrajina a nejsou to jediné stroje, které jdou takto upravit. 
+          - Kyjev byl v noci pod velkým útokem kamikadze dronů Shahed a raket. Ukrajinská PVO údajně sestřelila všechny vzdušné cíle, tedy celkem 20 dronů a 2 rakety Kalibr, ale trosky několika dronů dopadly na obytné čtvrti a poničily vysokopodlažní bytové domy. V následných požárech zahynul jeden člověk a další 4 byli raněni. 
+          - Viktor Orbán jako jediný zástupce zemí NATO neoznámil během summitu aliance žádnou budoucí pomoc Ukrajině, ale naopak zveřejnil video, ve kterém vyzývá státy NATO, aby přestaly Ukrajinu vyzbrojovat, přestaly cvičit ukrajinské vojáky a zahájily mírová jednání. 
+          - Rusko podle ukrajinských sil dál akumuluje velký objem živé síly u Kreminné ve směru na Lyman a nejspíš se bude pokoušet převzít iniciativu v tomto směru, aby ztížilo Ukrajině její ofenzivu. 
+          - Skupina G7 vydala společné prohlášení, že neuvolní blokované ruské prostředky a nemovitosti do té doby, dokud válka neskončí a dokud Rusko nezaplatí Ukrajině válečné reparace. 
+          - Ukrajinští hackeři opět nabourali vysílání ruských televizí v několika regionech a pustili divákům video se sestřihem akcí ZSU, odpočtem a titulkem „čas odplaty se přiblížil“. 
+          - Na dotaz novinářů na summitu NATO Vilniusu, za jak dlouho po válce by přijal Ukrajinu do NATO, odpověděl Joe Biden, že by to trvalo „hodinu a dvacet minut“. 
+          - Generální tajemník OSN Guterres údajně nabídl Putinovi připojení jedné ruské banky k systému SWIFT výměnou za prodloužení Obilné dohody v Černém moři. 
+          - Rusko loni navýšilo výdaje na armádu o 9 % a přeskočilo tak Indii na třetí místo mezi zeměmi světa v objemu celkových vojenských výdajů. 
+          - Prigožinovy firmy od neúspěšného pokusu o puč podepsaly devět nových smluv v hodnotě 1 miliardy rublů. 
+          - Wagnerovci mají ruské armádě předat okolo 2 000 kusů těžké techniky včetně moderních tanků T-90. 
+          - Rusové včera zasáhli Záporoží a zranili nejméně dvacet osob včetně osmi dětí. 
+          - Ukrajinský parlament v prvním čtení podpořil legalizaci lékařského konopí. 
+          - Norsko posílá Ukrajině další dvě baterie systému NASAMS. 
+        videa: |
+          - [Zajatecký tábor pro Rusy](https://twitter.com/bayraktar_1love/status/1679263324133834753)
+          - [Ukrajinský voják natočil zásah dělostřeleckým granátem ](https://twitter.com/Bodbe6/status/1679145198100652034)
+          - [Pokračování Velké vlastenecké války level mobíci ](https://twitter.com/NOELreports/status/1679427187097624578)
+          - [Orbánovo video ](https://twitter.com/nexta_tv/status/1679151135196676097)
+          - [Mínus cisterny s palivem ](https://twitter.com/Bodbe6/status/1679226954753490945)
+          - [Další zastavený ruský útok](https://twitter.com/EuromaidanPress/status/1679317222345564161)
+          - [Útok pod silnou palbou artilérie ](https://twitter.com/11Knuk123/status/1679426231781998593)
+          - [Trefa!](https://twitter.com/Bodbe6/status/1679146852783104001)
+          - [Ruská zápalná munice svrhnutá na Antonivku ](https://twitter.com/bayraktar_1love/status/1679226383275286528)
+          - [Dva plavali, doplaval jeden ](https://twitter.com/operativno_ZSU/status/1679378509884448769)
+          - [Velká rvačka mobíků skončila jednou obětí na životě ](https://twitter.com/front_ukrainian/status/1679438419322101763)
+          - [Taxík pro zajatce ](https://twitter.com/Bodbe6/status/1679295782158057472)
+          - [Pokémon](https://twitter.com/herooftheday10/status/1679409316086808576)
+          - [Mínus Hyacint](https://twitter.com/NOELreports/status/1679462783975391233)
+          - [Stěžují si, že nemají kvéry, ideální](https://twitter.com/herooftheday10/status/1679443831941484544)
+          - [Šturm ](https://twitter.com/Bodbe6/status/1679221515496325120)
+          - [Slušná sbírka](https://twitter.com/nevedimka123/status/1679344665781305345)
+          - [Dron, bombardér ](https://twitter.com/PaulJawin/status/1679425179598962688)
+          - [Zraněn, přežil ](https://twitter.com/Bodbe6/status/1679147581581176833)
+          - [Dobrovolníci z Kavkazu ](https://twitter.com/NOELreports/status/1679227410414288898)
       - title: "Středa"
         year: "12. červenec 2023"
         image: assets/img/timeline/2023-07-12.jpg
