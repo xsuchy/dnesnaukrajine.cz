@@ -35,6 +35,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "14. červenec 2023"
+        image: assets/img/timeline/2023-07-14.jpg
+        desc: |
+          Úřady v Krasnodarské oblasti odhalily v jednom z parků „pomník“ věnovaný mezikontinentální raketě Sarmat, jejíž účel je primárně nést jaderné hlavice. To by nás v kontextu událostí posledních let nemělo překvapit. Každý fašistický režim, jakým je i současné Rusko, si pěstuje tzv. „kult smrti“. V nacistickém Německu byl „totenkult“ silně inspirovaný tvorbou Richarda Wagnera (podle něj se ostatně jmenují i wagnerovci), romantizoval sebeobětování se, oslavoval hrdiny a obdivoval smrt utrpěnou v boji za ideály. A podobnou mytizaci smrti si pěstuje Rusko už od konce druhé sv-… pardon… Velké vlastenecké války. Padnout v boji za vlast je v Rusku nekriticky vnímáno jako hrdinský akt, bez ohledu na to, jaká ta vlast je a jaké jsou její hodnoty. Proto ruští popové žehnají brancům jejich „avtomaty“, proto má v Moskvě ruská armáda vlastní „Katedrálu ozbrojených sil“. Putinovo Rusko zkrátka je fašistickým státem se vším, co k tomu patří. Od agresivní politiky, přes všudypřítomný syndrom oběti, démonizaci nepřátel, propagandu a mytologii až po výraznou symboliku. Ideální adept na denacifikaci! A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0359E7z8KJbTMz4n1gfuV9f15py1h9WB7JNyEQij6WSLL7qSUw8RZtx6Z65sXdoRy2l):
+        detail: |
+          - Ukrajincům se nejspíš podařilo obsadit část zákopů na ruské první linii obrany u obce Robotyne na záporožské frontě. Pokud se je podaří udržet, můžou sloužit jako dveře k útokům na druhou obrannou linii. Analytici z ISW konstatovali na to konto, že ruské obranné pozice jsou nyní velmi křehké. 
+          - Kazetová munice už údajně na Ukrajině je, pouze nebyla zatím použita na bojišti. Informoval o tom jeden z velitelů ukrajinské ofenzivy Oleksandr Tarnavskyj. Navíc se objevily fotografie, které naznačují, že Spojené státy nejsou jedinou zemí, která Ukrajině kazetovou munici poskytla. 
+          - Rusko včera svrhlo leteckou pumu na Hadí ostrov. Není jisté, jestli mířili na konkrétní instalaci na ostrově, pravděpodobnější je, že šlo pouze o gesto v reakci na to, že ostrov nedávno navštívil sám prezident Zelenský. 
+          - Americký Wall Street Journal tvrdí, že generál Surovikin je stále zadržený a společně s ním drží Rusko pod zámkem další zhruba třicítku důstojníků, které podezírá z účastni na Prigožinově puči. 
+          - Ředitel běloruské pobočky Červeného kříže nelegálně navštívil okupovaná území na Ukrajině. A aby to nebylo málo, nechal se zachytit na videích a fotkách z nášivkou „Z“ na rameni. 
+          - Mezinárodní olympijský výbor oznámil, že prozatím nebude oficiálně zvát ruské a běloruské výpravy na LOH v Paříži. O případné účasti jejich sportovců ale zatím výbor nerozhodl. 
+          - Ukrajinci zlikvidovali pomocí dronů tři malé čluny i s posádkami, když se Rusové pokoušeli zastavit bleskový ukrajinský útok na ruské pozorovatelny na tamějších ostrůvcích. 
+          - Litevské ministerstvo zahraničí udělilo své nejvyšší vyznamenání – Diplomatickou hvězdu – komunitě NAFO. 
+          - V ruském Bělgorodu explodovalo auto a zranilo jeho řidiče a několik kolemjdoucích. Není ale jasné, kdo auto řídil. 
+          - Rusové dál tlačí ve třech směrech od Kreminné. Zdá se, že se dokázali přiblížit k městu Torské. 
+          - Budanov tvrdí, že ukrajinská rozvědka má své informátory přímo v Putinově nejbližším kruhu. 
+          - Podle Pentagonu se wagnerovci aktuálně neúčastní žádných bojů na Ukrajině. 
+          - Ukrajina dnes repatriovala ostatky 62 vojáků, kteří padli v boji s okupanty. 
+          - Ruská Voroněž a také Kursk byly v noci pod útokem ukrajinských dronů. 
+          - Ukrajinská PVO dnes v noci zničila dalších 23 ruských dronů. 
+          - Prigožin údajně dorazil do Běloruska.
+        videa: |
+          - [Ukrajinský přepad a mínus ruské čluny](https://twitter.com/PaulJawin/status/1679556004852146184)
+          - [Evakuace po boji](https://twitter.com/Bodbe6/status/1679577092185522183)
+          - [Ruský Tor těsně minul ukrajinský dron ](https://twitter.com/nexta_tv/status/1679759090929598470)
+          - [O fous](https://twitter.com/Bodbe6/status/1679560670507835402)
+          - [Dron versus náklaďák ](https://twitter.com/EuromaidanPress/status/1679596812917932038)
+          - [Archivní video z Bachmutu, přecházení ulice](https://twitter.com/Bodbe6/status/1679568269508767746)
+          - [Další tank, co zahodil věž](https://twitter.com/front_ukrainian/status/1679798681841590272)
+          - [Najeli na minu, přežili](https://twitter.com/Bodbe6/status/1679587984348200962)
+          - [155mm munice](https://twitter.com/front_ukrainian/status/1679766657474985984)
+          - [Útok na ruský týl](https://twitter.com/PaulJawin/status/1679781374595678208)
+          - [Evakuace z boje](https://twitter.com/Bodbe6/status/1679643622684127232)
+          - [Pokémoni](https://twitter.com/herooftheday10/status/1679602025514795009)
+          - [Mínus Uragán](https://twitter.com/front_ukrainian/status/1679583929571893248)
+          - [Ruský dron trefil Bradleyho, výsledek není jasný ](https://twitter.com/Bodbe6/status/1679550883682459659)
+          - [Ruský tank](https://twitter.com/nevedimka123/status/1679551369202507793)
       - title: "Čtvrtek"
         year: "13. červenec 2023"
         image: assets/img/timeline/2023-07-13.jpg
