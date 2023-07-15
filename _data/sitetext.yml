@@ -35,6 +35,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "15. červenec 2023"
+        image: assets/img/timeline/2023-07-15.jpg
+        desc: |
+          Rusové tvrdí, že zadrželi osobu, která měla plánovat atentáty na propagandistky Simonjanovou a Sobčakovou. A jako vždy své tvrzení doložili fotkami ze zátahu, na kterých jsou desítky předmětů s nacistickou symbolikou, které měl mít podezřelý v bytě. Ale tentokrát šli ještě dál a přidali i video s podezřelým, na kterém dotyčný velmi nepřirozeně odříkává evidentně připravený text doznání, zatímco má na sobě tričko s motivem německých Waffen SS. Ruská FSB se stává po Hollywoodu a Bollywoodu nejlepším tvůrcem letních komedií. Nicméně pryč z říše fantazie a zpátky do reality. Tady jsou [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02zi9VjWx2tfNgdUSGrJa9C5uBXfzb5gYwvMw1VaHuZV3AKn7SWAeuVkmT7E6AadLil): 
+        detail: |
+          - Podle ruských vojenských blogerů na některých úsecích fronty ukrajinská dělostřelecká palba demoluje ruské pozice na padrť, zatímco Ruská odvetná palba je kvůli špatnému stavu děl i munice natolik nepřesná, že s ukrajinskou palbou nemůže téměř nic udělat. Je to zároveň něco, čeho si OSINT komunita všímá už delší dobu. 
+          - Karim Khan z Mezinárodního trestního soudu v Haagu připomněl Jihoafrické republice, že je povinna Putina zatknout, pokud by vstoupil do země. JAR mezitím požádala Rusko, aby na summit BRICS vyslalo místo Putina Lavrova, nicméně Rusko žádost odmítlo. 
+          -Šéf ukrajinské rozvědky na otázku, zda Ukrajina plánuje vytvořit po vzoru Mossadu jednotky, které by hledaly nepřátele kdekoliv na světě, odpověděl, že takové jednotky už existují a dělají svou práci. Prý není potřeba vytvářet něco, co už dávno funguje. 
+          - Generál Zalužnyj prohlásil, že je pouze na Ukrajině, kde bude likvidovat své nepřátele, a zda to bude i v Rusku. A že pokud partnerům vadí, že by k tomu mohla použít jejich zbraně a systémy, pak budou pro tyto účely klidně používat pouze vlastní. 
+          - Ukrajinská pohraniční stráž potvrdila, že wagnerovci už jsou v Bělorusku. Podle ruských kanálů začali cvičit běloruské vojáky. Ukrajinští zástupci nicméně poměrně sebevědomě tvrdí, že riziko opakované invaze z Běloruska nyní nehrozí. 
+          - Erdogan včera informoval, že Putin souhlasil s prodloužením Obilné dohody, nicméně jihoafrický prezident dnes naopak tvrdil, že mu Putin prozradil, že ruské podmínky pro prodloužení dohody nebyly naplněny. 
+          - Podle Girkina jsou nejpočetnější jednotky čelící ukrajinské ofenzivě na cca 70 % původního stavu, většina je ale dokonce ještě více zdecimována. Navíc Rusku dochází rezervy, které by jednotky mohly doplnit. 
+          - Rusové v noci zasáhli obydlené oblasti v Záporoží, zraněno bylo několik lidí. Zasažena byla také Sumská oblast, a to hned 110krát za jediný den. 
+          - Státy, které nabídly, že budou cvičit ukrajinské piloty na strojích F-16, stále čekají na formální schválení ze strany Spojených států. 
+          - Podle ukrajinské pohraniční stráže stahuje Rusko v rámci rotace značnou část vojáků z Běloruska. 
+          - Podle litevského prezidenta už Bělorusko de facto není suverénním státem, ale ruskou provincií. 
+          - Jihokorejský prezident bez předchozího ohlášení dorazil na návštěvu Kyjeva. 
+          - Bulharsko poskytne Ukrajině 100 kusů obrněných transportérů.
+        videa: |
+          - [Útok jde podle plánu](https://twitter.com/region776/status/1679890185440600064)
+          - [Ruská kolona byla rozstřílena na kusy pod Orichivem systémem HIMARS](https://twitter.com/NOELreports/status/1679928875566940170)
+          - [Po zásahu, ruské záběry](https://twitter.com/EuromaidanPress/status/1680215892414824448)
+          - [Jak to vypadá, když na tebe letí raketa](https://twitter.com/Bodbe6/status/1679826591780679680)
+          - [PVO versus dron](https://twitter.com/EuromaidanPress/status/1680036711362076674)
+          - [Odminování pro příští útok](https://twitter.com/bayraktar_1love/status/1679919299392045063)
+          - [Ruský tank ](https://twitter.com/EuromaidanPress/status/1679891137052459008)
+          - [Rus versus strom, 0:1](https://twitter.com/TradersAbacus/status/1679835057320493056)
+          - [Trefa](https://twitter.com/bayraktar_1love/status/1680165470563860484)
+          - [Ukrajinský tank pracuje ](https://twitter.com/front_ukrainian/status/1680248903088603136)
+          - [Hodně nepovedený ruský útok na Avdijivku](https://twitter.com/Bodbe6/status/1680180056285405184)
+          - [Bradley přežil zásah z ruské T-72](https://twitter.com/nevedimka123/status/1680184783580585984)
+          - [Ruský tank našel minu](https://twitter.com/front_ukrainian/status/1679947920160825347)
       - title: "Pátek"
         year: "14. červenec 2023"
         image: assets/img/timeline/2023-07-14.jpg
