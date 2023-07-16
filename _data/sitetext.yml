@@ -35,6 +35,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "16. červenec 2023"
+        image: assets/img/timeline/2023-07-16.jpg
+        desc: |
+          Ukrajinskou ofenzivu značně brzdí zpožděné dodávky odminovacích systémů. Ukrajina jich údajně obdržela pouze 15 % z původně přislíbených, na některých úsecích fronty přitom Rusové zaminovali až 16 km široké pásy území. Deník New York Times tvrdí, že Ukrajina i díky tomu utrpěla v prvních týdnech ofenzivy ztráty ve výši až 20 % nasazené těžké techniky. Není to ale tak hrozivé, jak to na první pohled může znít. Ukrajina totiž nasadila na bojiště v tuhle chvíli jen zlomek techniky dodané Západem a 20 % z ní jsou třeba jen nižší desítky kusů. Navíc podle Ukrajinců dodaná technika plní to, co je její primární účel – ochrana posádky. Ukrajinci nyní na některých úsecích zkouší novou taktiku, kdy vypalují trávu a křoví ve směru k ruským pozicím a žár ohně nutí miny explodovat. Zároveň se rýsuje i další možnost, jak nedostatek odminovacích systémů suplovat, a tím je v poslední době často skloňovaná kazetová munice. Ta totiž dokáže jediným projektilem saturovat velkou plochu, a nejen na ní ničit živou sílu a techniku, ale právě i miny. Možná proto ruská propaganda spustila tak masivní informační kampaň proti dodávkám kazetové munice. Hustá minová pole jsou ale nejenom největší současnou překážkou, ale často to jediné, co v některých směrech drží ruské linie pohromadě. Ale dost spekulací, teď [pár aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0QigrFR1jEj3v71N1zXEFrU36t4psHEbZM4D7hDojWra2pd6zBjgrdx8iutpWzUGgl):
+        detail: |
+          - Ruské soudy nechaly zadržet sedm mužů, kteří měli připravovat atentáty na ruské propagandistky. Zajímavé ale je, že v odůvodnění zadržení se neuvádí příprava vraždy, nýbrž pouze výtržnictví, což silně podrývá původní ruská tvrzení. Ukrajinský prezidentský poradce Podoljak k tomu uvedl, že Ukrajina nemá zapotřebí připravovat atentáty na Simonjanovou nebo Sobčakovou, protože „ani jedna z nich nemá na cokoliv žádný vliv“. 
+          - Bulharský prezident v duchu ruské propagandy obvinil Ukrajinu, že místo usilování o mír trvá na vedení války. Ukrajinci mu v reakci připomněli, že to bylo Rusko, kdo napadl cizí zemi, a že Ukrajina usiluje o mír, ovšem na celém svém území, ne pouze jeho části. 
+          - V bojích na Ukrajině byl zabit ruský podplukovník Alexandr Gorin. Podle některých zdrojů padl také velitel 96. brigády rozvědčíků Maxim Charlamov. 
+          - Sevastopol byl dnes na ránem pod útokem ukrajinských dronů, a to jak ze vzduchu, tak z moře. Kolem poledne pak údajně drony útočily znovu.
+          - V ruské armádě pokračuje čistka na velících postech. Velení byl nově zbaven generálmajor Vladimir Selivestrov, velitel 106. divize VDV u Bachmutu. 
+          - Jižní Korea navýší objem své vojenské pomoci Ukrajině a pomůže také s obnovou škol zničených Rusy během invaze. 
+          - Ruská palba v noci na dnešek zasáhla Kramatorsk. Poničen byl areál místního podniku a jeho zemědělské stroje. 
+          - Představitelé afghánského Tálibánu oficiálně požádali Rusko, aby zjednodušilo proces získávání víz. 
+          - Okupovaný Luhansk, Berďansk a Mariupol hlásí v noci na dnešek silné exploze. 
+          - Ukrajinci nyní kontrolují Staromajorské na záporožské frontě.
+        videa: |
+          - [Sevastopol byl opět pod útokem dronů](https://twitter.com/nexta_tv/status/1680470966575431680)
+          - [Dron vystopoval ruský tank (citlivé!)](https://twitter.com/EuromaidanPress/status/1680318927849549824)
+          - [„Doznání“ údajného atentátníka](https://twitter.com/NatalkaKyiv/status/1680215035740581888)
+          - [Druhý pán na holení, čím dál lepší :D ](https://twitter.com/nevedimka123/status/1680426146037465090)
+          - [Šturm ](https://twitter.com/Bodbe6/status/1680299772643627010)
+          - [Přílet rakety na jacht club, který Rusové používali jako základnu ](https://twitter.com/EuromaidanPress/status/1680313787071746048)
+          - [Mínus systém EW](https://twitter.com/front_ukrainian/status/1680471727065767936)
+          - [Evakuace raněných ](https://twitter.com/Bodbe6/status/1680264977238687745)
+          - [Ruský bunkr přiletěl navštívit dron ](https://twitter.com/nevedimka123/status/1680491915941167104)
+          - [HIMARS ](https://twitter.com/front_ukrainian/status/1680513750535643137)
+          - [Liška!](https://twitter.com/EuromaidanPress/status/1680268489104457728)
+          - [Holka na frontě](https://twitter.com/Bodbe6/status/1680264329550077952)
+          - [Nejdražší ruský tank versus laciný kamikadze dron ](https://twitter.com/front_ukrainian/status/1680479287953047552)
+          - [Noční šichta](https://twitter.com/PaulJawin/status/1680223147679727616)
+          - [Let dvou UA MiGů](https://twitter.com/front_ukrainian/status/1680278203988934656)
+          - [Trofej ](https://twitter.com/nevedimka123/status/1680492170581618690)
+          - [Pokémon dostal rozum](https://twitter.com/Bodbe6/status/1680492349586120705)
+          - [Trefa!](https://twitter.com/nevedimka123/status/1680470368681689091)
       - title: "Sobota"
         year: "15. červenec 2023"
         image: assets/img/timeline/2023-07-15.jpg
