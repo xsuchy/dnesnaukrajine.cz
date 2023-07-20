@@ -35,6 +35,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "20. červenec 2023"
+        image: assets/img/timeline/2023-07-20.jpg
+        desc: |
+          Rusko oznámilo, že jakékoliv lodě v Černé moři plující směrem k ukrajinským přístavům, bude ode dneška považovat za vojenské cíle, protož můžou podle Ruska potenciálně vézt náklad vojenského charakteru. Zároveň bude prý každý stát, pod jehož vlajkou taková loď pluje, Rusko automaticky považovat za aktivně se účastnící války na straně Ukrajiny. Putinovo fašistické Rusko tím značně zesílilo svoje vydírání hladem, zároveň ale Putin oznámil podmínky, za kterých je Rusko ochotno vrátit se k obilné dohodě: Zrušení sankcí na vybrané firmy a produkty (například hnojiva nebo obilí), připojení ruských bank k systému SWIFT, zrušení zákazu na export součástek pro zemědělské stroje do Ruska, obnovení exportu Ruských potravin na Západ a obnovení toku čpavku v potrubí vedoucím z ruského Togliati do Oděsy. Pevně doufám, že Západ se Putinem vydírat nenechá a zajistí bezpečný export ukrajinského obilí Rusku navzdory. Ale teď už pár aktualit: 
+        detail: |
+          - Prigožin se objevil na videu z Běloruska, na kterém mluví k tamějším vojákům. Situaci na frontě označil za naprosto hanebnou a sdělil, že po asistenci s výcvikem běloruské armády se wagnerovci vrátí do Afriky. Na ukrajinskou frontu se podle něj wagnerovci vrátí, jen pokud se současná situace zásadně změní. 
+          - Spojené státy poskytnou v rámci nového balíku vojenské pomoci Ukrajině 4 baterie systémů NASAMS a další kamikadze drony Switchblade, také desítky obrněných vozidel, prostředky pro odminování, boj s drony a velkou zásilku munice do 155mm děl. 
+          - V Rusku vyšla nová učebnice moderních dějin pro střední školy „Historie Ruska 11“. Obsahuje i kapitolu o ruské invazi na Ukrajinu. Krom toho, že invazi nazývá „Speciální vojenskou operací“, Ukrajina je v kapitole uvedena jako „neonacistický stát“. 
+          - Zelenský informoval, že při posledních ruských úderech na přístavní terminál v Oděse bylo nevratně zničeno 60 000 tun obilí, které mělo putovat do Číny. Cena obilí na světové burze po útocích na Oděsu poskočila o několik procent. 
+          - Ukrajinská PVO v noci na dnešek zničila 13 z 19 dronů Shahed vyslaných Rusy, také 2 ze 3 raket Kalibr a 3 z 5 raket Iskander. Na Ukrajinu zároveň letělo i 7 raket Oniks a 4 rakety Ch-22.
+          - Ruská raketová palba zasáhla v noci Mykolajiv. Zraněno bylo 18 osob, z toho 9 vážně včetně pěti dětí. Pod palbou byla také Oděsa. 4 lidé byli zraněni po zásahu úřední budovy. 
+          - Polsko zadrželo 15 osob, které podezírá z přípravy sabotáží. Mělo je naverbovat Rusko, aby vyhodili do povětří vlaky převážející vojenský i humanitární materiál pro Ukrajinu. 
+          - Britská média odhalila, že syn vývojáře ruských dronů Lancet vlastní v Británii apartmán v centru Londýna v hodnotě 1,5 miliónu liber, a sám pracuje ve strukturách OSN. 
+          - Velitel pozemních sil Oleksandr Syrský prohlásil, že nastaly podmínky pro to, aby se ukrajinská armáda vrátila do Bachmutu. 
+          - Putin se nebude účastnit summitu BRICS v JAR. Namísto něj vyšle Rusko ministra zahraničí Lavrova.
+          - U ruského Brjansku zemřeli tři ruští vojáci, když jejich auto najelo na protitankovou minu.
+          - Podle deníku The Washington Post dodává Kyrgyzstán vojenské součástky Rusku. 
+          - Ukrajinci zlikvidovali jednoho z velitelů luhanských milicí Denise Ivanova. 
+          - Irsko poskytne Ukrajině humanitární pomoc v hodnotě 5 miliónů eur. 
+        videa: |
+          - [Stugna versus skupina ruských vojáků](https://twitter.com/ManiacMagic1/status/1681331680903065601)
+          - [V Mariupolu hoří Palác kultury](https://twitter.com/nexta_tv/status/1681778486229311491)
+          - [Ukrajinský útok ](https://twitter.com/EuromaidanPress/status/1681879856567717895)
+          - [Bago s minou](https://twitter.com/ManiacMagic1/status/1681280357302190082)
+          - [Letecká puma versus ruská základna v Soledaru ](https://twitter.com/bayraktar_1love/status/1681742312982863872)
+          - [Pokémon](https://twitter.com/herooftheday10/status/1681727803148910596)
+          - [Ukrajinský útok](https://twitter.com/front_ukrainian/status/1681944537235615744)
+          - [Ruská základna na Krymu před a po](https://twitter.com/NOELreports/status/1681951163879501824)
+          - [Bývalé ruské pozice ](https://twitter.com/herooftheday10/status/1681922019355422720)
+          - [Ukrajinský útok ](https://twitter.com/front_ukrainian/status/1681933372564676608)
+          - [Odminovací nálož](https://twitter.com/NOELreports/status/1681941646492028929)
+          - [Mínus Lancet ](https://twitter.com/front_ukrainian/status/1681730941079699474)
+          - [O potenciálním útoku wagnerovců z Běloruska](https://twitter.com/NOELreports/status/1681671402707877890)
+          - [V ruských zákopech ](https://twitter.com/herooftheday10/status/1681927023025872896)
+          - [Italské houfnice míří na frontu ](https://twitter.com/front_ukrainian/status/1681954003003883520)
+          - [Mínus ruská PVO ](https://twitter.com/NOELreports/status/1681656150230552576)
+          - [Mravenečkové se neschovali ](https://twitter.com/herooftheday10/status/1681926686915305474)
       - title: "Středa"
         year: "19. červenec 2023"
         image: assets/img/timeline/2023-07-19.jpg
