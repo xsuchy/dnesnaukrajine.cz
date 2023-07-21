@@ -35,6 +35,53 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "21. červenec 2023"
+        image: assets/img/timeline/2023-07-21.jpg
+        desc: |
+          Igor „Strelkov“ Girkin pravděpodobně… dogirkinoval. Jeho manželka dnes v poledne informovala na Telegramu, že Igor byl zadržen ruskými úřady na základě obvinění z extrémismu (článek 282 ruského trestního zákoníku). Pokud se dá usuzovat z toho, jak probíhala podobná obvinění v minulosti, hrozí Girkinovi až několik desítek let za mřížemi. Stejné obvinění například vyneslo 7,5 roku pro manažera Navalného kampaně a mnohem delší tresty pro některé politiky, kteří protestovali proti invazi na Ukrajinu. Vzhledem k tomu, jak kritický byl Girkin vůči ruskému režimu v posledním roce, nebylo otázkou, zda bude zadržen, ale spíše – kdy. Igor Girkin je vůbec zvláštní postavičkou. Mezinárodním trestním soudem je hledaný pro terorismus kvůli jeho podílu na sestřelení letu MH-17. V minulosti byl také jako důstojník FSB jedním z hlavních strůjců vojenského převratu na Krymu a rozpoutání války na Donbasu. Nicméně poté, co byl Ruskem odstaven na druhou kolej, poskytoval ve svých úvahách pravidelně velmi střízlivé zhodnocení situace v Rusku i na frontě. Pokud by nebojoval na straně Ruska, ale působil v západních státech, zcela jistě by se takový člověk vypracoval na vysoké pozice v armádě a byl by respektovaným velitelem pro svou inteligenci, zkušenosti a schopnost pojmenovávat rizika dříve, než nastanou. Namísto toho si ale vybral službu postupně se fašizujícímu režimu, a tak vejde do historie pouze jako terorista. A bude zajímavé sledovat, co si pro něj Putinův režim přichystal. A ještě se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0QhpMESTEgrCa4rZTfY8e8Dhq7VWedSzYFMXvHqTHTCQ8MfHUxTscpgZKzr8eG6KEl): 
+        detail: |
+          - Videa z dronů zachytila první prokázané použití dělostřelecké kazetové munice ukrajinskou armádou. Podle svědeckých informací z fronty, včetně těch z ruské strany, má munice devastující účinek nejen na živou sílu okupantů, ale také na jejich morálku. Na několika úsecích fronty Rusové po prvních zásazích kazetovou municí úplně opustili své pozice. Spojené státy oznámily, že obdržely první reporty o použití munice na frontě, a že výsledky Ukrajinců jsou „ohromující svou efektivitou“.  
+          - Ruský proválečný a prorežimní zpěvák „Šaman“, který v minulosti šokoval například svým černým oděvem s páskou na ruce, připomínající nacistické uniformy nebo oblečení ruských kolaborantů s nacismem, ve kterém natáčel nový klip na Rudém náměstí vydaný na den Hitlerových narozenin, vydal nový videoklip k písničce s názvem „Můj boj“. Náhoda? Nemyslím si. 
+          - Podle jednoho z velitelů wagnerovců měla Prigožinova armáda na Ukrajině celkem okolo 78 000 vojáků, 49 000 z toho byli bývalí vězni. K 20. květnu evidovali wagnerovci 22 000 zabitých členů a 40 000 raněných. Nyní je v řadách wagnerovců údajně 25 000 členů včetně raněných, kteří se budou moci vrátit na bojiště, a 10 000 z nich míří do Běloruska. 
+          - Během velmi neúspěšného ruského výpadu ve směru na Krasnohorivku byl zabit ruský blogger „Miša na Donbase“, Michail Lučin. V minulosti se „proslavil“, když ukrajinští hackeři napadli jeho účty a za peníze, které vybíral na nákup dronů, mu objednali obří zásilku… ehm… gumových rekreačních šidítek pro dámy. 
+          - Rusové hrozí, že pokud výrobní linka německého Rheinmettalu v Kyjevě spustí produkci, rozstřílí ji Rusové raketami. Rheinmettal na ruské výhrůžky odpověděl, že areál továrny bude chránit vlastní moderní protivzdušná obrana přímo z dílny koncernu. 
+          - Podle ukrajinské armády bylo doposud zničeno 10 ze 190 dodaných vozidel Bradley. Další jednotky kusů byly poškozeny a opraveny nebo naopak rozebrány na součástky. Všechny ale ochránily svou posádku, která tak utrpěla jen lehká zranění. 
+          - Rusové dnes v noci opět zasáhli raketami terminály v oděském přístavu. Zničeno bylo 100 tun hrachu a 20 tun ječmene. Dva lidé byli zraněni. V Oděském přístavu nyní leží přes milión tun zemědělských produktů. 
+          - Francouzští představitelé tvrdí, že Čína dodává Rusku vojenskou pomoc neletálního charakteru, jako například balistickou ochranu, přilby nebo technologie dvojího určení.  
+          - Ukrajina recipročně oznámila, že lodě plující do ruských nebo Ruskem okupovaných přístavů budou odteď považovány za potenciální legitimní vojenské cíle. 
+          - Pohraničníci zastavili několik pokusů ruských sabotérů proniknout přes hranice do Sumské a Černihivské olbasti. 
+          - Spojené státy zavedly sankce vůči čtyřem kyrgyzským firmám, které dodaly elektronické součástky do Ruska. 
+          - Maďarsko dál blokuje vytvoření fondu pro vojenskou pomoc Ukrajině na úrovni Evropské unie. 
+          - Rusko zvýší horní věkovou hranici pro základní vojenskou službu na 30 let. Pročpak asi?
+          - Včerejší noční útok na Oděsu poničil také budovu čínského konzulátu. 
+          - Rusové dnes svrhli na Cherson zápalnou munici. Opět. 
+          - Pes Patron dnes slaví svoje narozeniny. 
+        videa: |
+          - [Dron zachytil použití kazetové munice](https://twitter.com/front_ukrainian/status/1682029370653941760)
+          - [Ukrajinský útok](https://twitter.com/NOELreports/status/1682062879632113675)
+          - [Reportáž o kazetové munici](https://twitter.com/nexta_tv/status/1682327997632638976)
+          - [Cherson dnes v noci](https://twitter.com/EuromaidanPR/status/1682156177109536769)
+          - [Ukrajinské dělostřelectvo ničí Rusy lapené v troskách Bachmutu ](https://twitter.com/herooftheday10/status/1682305134380941312)
+          - [O fous](https://twitter.com/NOELreports/status/1682278104486621184)
+          - [Ukrajinská Vědma](https://twitter.com/SlavaUk30722777/status/1682153227201167362)
+          - [Pokémoni](https://twitter.com/small10space/status/1682045063646310400)
+          - [U ruského Kursku](https://twitter.com/Maks_NAFO_FELLA/status/1682298271597838336)
+          - [Pokémon](https://twitter.com/Bodbe6/status/1682045684739084293)
+          - [Po ruském výpadu (citlivé!)](https://twitter.com/nevedimka123/status/1682099043453878275)
+          - [Oděsa](https://twitter.com/nexta_tv/status/1681998878558543872)
+          - [Kupředu ](https://twitter.com/nevedimka123/status/1682285300465139713)
+          - [Odminovací nálož](https://twitter.com/KyivIndependent/status/1682106217018056704)
+          - [V Černé hoře číšníkům došla trpělivost s ruským hostem ](https://twitter.com/nexta_tv/status/1682307997274341376)
+          - [Archivní video ukrajinského depa zasaženého ruskou kazetovou municí ](https://twitter.com/Bodbe6/status/1682187178598707200)
+          - [Mínus tank](https://twitter.com/nexta_tv/status/1682241237695479808)
+          - [Drony (citlivé!)](https://twitter.com/Gulli_ver_sn/status/1682304154247602177)
+          - [Trefa!](https://twitter.com/region776/status/1682258519410753536)
+          - [Trefa tanku](https://twitter.com/EuromaidanPress/status/1682291822133903360)
+          - [Mínus bagr](https://twitter.com/OAlexanderDK/status/1682171812967243776)
+          - [Mínus Tulipán](https://twitter.com/UAWeapons/status/1682024520683778048)
+          - [Pokémon devítiprstý ](https://twitter.com/region776/status/1682323915153231872)
+          - [Šturm](https://twitter.com/nevedimka123/status/1682248562401329152)
       - title: "Čtvrtek"
         year: "20. červenec 2023"
         image: assets/img/timeline/2023-07-20.jpg
