@@ -35,6 +35,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "22. červenec 2023"
+        image: assets/img/timeline/2023-07-22.jpg
+        desc: |
+          Satelitní snímky odhalily stovky vojenských vozidel na nově vzniklé základně pro wagnerovce v centrálním Bělorusku. Další základna wagnerovců vzniká také poblíž Brestu na samém západním cípu Běloruska při hranicích s Polskem. Polsko kvůli tomu přesouvá značnou sílu ze západu země na svou východní hranici, aby bylo připraveno na potenciální provokace u Suvalského koridoru, o kterém nedávno Putinovy propagandisti řekli, že je cílem přesunu wagnerovců do Běloruska. Putin na zvýšenou přítomnost polských vojsk u hranic s Běloruskem reagoval slovy o tom, že Polsko podle něj sní o obsazení Běloruska a Ukrajiny“, varoval Polsko, že útok na Bělorusko bude považovat za útok na samotné Rusko, a prohlásil, že „západní území Polska bylo dárkem od Stalina, na což už nejspíš Polsko zapomnělo“ a dodal, že to Polsku „rád připomene“. Polsko si kvůli výrokům Putina předvolalo ruského velvyslance. Vztahy obou zemí byly už před invazí na Ukrajinu na bodě mrazu, nicméně Putin je postupně poškozuje natolik, že bude trvat desítky let po případném konci války, opět vztahy normalizovat. A to za předpokladu, že o to vůbec budou obě strany ještě někdy stát. Ale teď už novinky: 
+        detail: |
+          - Girkin byl v Moskvě obviněn ze dvou případů „extremismu“ a byla na něj uvalena dvouměsíční vazba. Obě obvinění se týkají jeho nedávných textů na Telegramu. Policie následně zatkla několik lidí, kteří se před soudem shromáždili, aby vyjádřili Girkinovi podporu, včetně Pavla Gubareva, neonacisty a jednoho ze strůjců konfliktu na Donbasu, který se po převratu označil za vůdce donbaských milic. 
+          - Rusové informovali, že skupina ruských vojenských propagandistů se octila pod dělostřeleckou palbou (údajně s použitím kazetové munice). Propagandista Rostislav Žuravlev byl na místě zabit, další lidé byli raněni. 
+          - Zákonodárci JAR odsouhlasili vydání zatykače na Putina a konstatovali, že selhali v plnění svých mezinárodních závazků, když jej nevydali okamžitě. Škoda, že až nyní, kdy je jasné, že Putin JAR nenavštíví. 
+          - V moskevské vilové čtvrti musela zasahovat policie proti muži, který se vloupal do bývalého sídla Viktora Janukovyče ozbrojen kalašnikovem a křičel, že bojoval na Ukrajině a dům Janukovyče teď patří bohu. 
+          - První náměstek ruského ministerstva zahraničí Sergej Veršinin oznámil záměr kontrolovat namátkově všechny lodě plující Černým mořem, zda nevezou vojenský náklad. 
+          - Okupovaný Krym hlásí několik velkých explozí. Zasažena byla letecká základna, železniční stanice a skladiště paliv u Simferopolu. Podle okupantů šlo o útok vzdušnými drony.
+          - Rusové v noci na dnešek zasáhli civilní zástavbu v Doněcké oblasti. Pod granáty a raketami zahynulo 8 lidí včetně dvou dětí. Dalších pět lidí je zraněno. 
+          - Na bezpečnostní konferenci v Aspenu uvedl Zelenský, že krymský most je jeden z hlavních ukrajinských cílů.
+          - Ukrajinská rozvědka tvrdí, že v Rusku se připravuje další puč. Může ale jít jen o zpravodajskou hru.
+          - Ukrajinská PVO v noci zničila 9 průzkumných a 5 kamikadze dronů.
+        videa: |
+          - [Kazetová munice versus ruská pěchota](https://twitter.com/EuromaidanPress/status/1682536180863074304)
+          - [Propagandisti v televizi diskutují válku s Tureckem, Bulharskem…](https://twitter.com/Gerashchenko_en/status/1682395286323228672)
+          - [Definice štěstí ](https://twitter.com/Bodbe6/status/1682567664244252672)
+          - [Kazetová munice ](https://twitter.com/front_ukrainian/status/1682652087492964352)
+          - [Pozor, miny!](https://twitter.com/AndrewPerpetua/status/1682537150758244354)
+          - [Archivní video: výměna zajatců u Bachmutu ](https://twitter.com/Feher_Junior/status/1682654463973105667)
+          - [Ukrajinský útok](https://twitter.com/NOELreports/status/1682361877488103429)
+          - [Humvee zasáhl dělostřelecký granát ](https://twitter.com/Bodbe6/status/1682709193176784898)
+          - [Bývalé ruské pozice ](https://twitter.com/NOELreports/status/1682687584542027776)
+          - [Poničený přístav v Oděse ](https://twitter.com/DmytroKuleba/status/1682676367446376448)
+          - [Bavovna na Krymu](https://twitter.com/EuromaidanPress/status/1682699556079673345)
+          - [Starší ztráty techniky u obce Robotyne](https://twitter.com/clashreport/status/1682464068769050625)
+          - [Mínus tank](https://twitter.com/bayraktar_1love/status/1682734715290132480)
+          - [Dron dokončuje práci po neúspěšném ruském útoku](https://twitter.com/Bodbe6/status/1682711334209691649)
+          - [Mínus ruská základna](https://twitter.com/bayraktar_1love/status/1682437232638959637)
+          - [Leo a Brad](https://twitter.com/front_ukrainian/status/1682708865090035712)
+          - [Kupředu ](https://twitter.com/nevedimka123/status/1682698997146742784)
       - title: "Pátek"
         year: "21. červenec 2023"
         image: assets/img/timeline/2023-07-21.jpg
