@@ -17601,18 +17601,10 @@ contact:
 footer:
     legal: "Licence"
     social:
-#      - url: https://twitter.com
-#        icon: "fab fa-twitter"
-#      - url: https://facebook.com
-#        icon: "fab fa-facebook-f"
-#      - url: https://linkedin.com
- #       icon: "fab fa-linkedin-in"
       - url: "https://github.com/xsuchy/dnesnaukrajine.cz"
         icon: "fab fa-github"
       - url: "/feed.xml"
         icon: "fab fa-rss"
-#      - url: https://instagram.com
-#        icon: "fab fa-instagram"
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
