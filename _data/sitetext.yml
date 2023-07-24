@@ -35,6 +35,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "24. červenec 2023"
+        image: assets/img/timeline/2023-07-24.jpg
+        desc: |
+          Ruská propaganda ráda vykresluje Ukrajinu jako svůj bratrský národ, který je potřeba zachránit. Samo Rusko se ale postaralo o to, že Ukrajinci Rusy jako bratrský národ ještě dlouho vnímat nebudou. Zatímco do roku 2013 Ukrajinci vnímali Rusko veskrze pozitivně (podle 65 % západních Ukrajinců a až 93 % Ukrajinců na Donbasu) v roce 2017 se 57 % Ukrajinců v průzkumu vyjádřilo, že má k Rusku negativní postoj a jen necelých 20 % vnímalo Rusko pozitivně, a to i na pozadí probíhajícího konfliktu a tři roky po okupaci Krymu Ruskem, proti kterému se vyslovilo 69 % Ukrajinců (ale už tehdy měla většina Ukrajinců negativní postoj k ruské vládě a prezidentovi, pouze se snažili udržovat pozitivní postoj k běžným Rusům). Nyní, v roce 2023 vnímá Rusko negativně podle různých průzkumů až 96 % obyvatel. Zhruba stejná část společnosti by si také přála integraci Ukrajiny do Evropské unie a až tři čtvrtiny Ukrajinců se vidí v NATO. Ukrajina zkrátka o ruské přátelství nestojí. A s každým dalším dnem války tento odpor roste. A není se čemu divit, když [takhle vypadají zprávy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0y7sSX58k5wERNzpq2wmav6XWUruenmaRx5Cr5oh6EnVgN4sSD9s8F8z973tLmQCdl):
+        detail: |
+          - Moskva byla nad ránem pod útokem ukrajinských dronů. Dva z nich proletěli až nad centrum města, kde je údajně sundali z nebe ruské rušičky. Jeden z dronů následně poničil komerční mrakodrap, druhý dopadl jen kousek od budovy ruského ministerstva obrany. Ruští představitelé označili útok za „mezinárodní terorismu“ a nikdo si u toho výroku nepřipadal směšně.
+          - Ruská propaganda tvrdí, že katedrálu v Oděse poničila raketa z ukrajinského systému PVO S-300, která selhala při pokusu sestřelit ruské střely. Nicméně jako důkaz svého tvrzení přikládají snímek s fragmenty rakety, který je několik měsíců starý a s útokem na Oděsu nijak nesouvisí, proto se dá předpokládat, že celá jejich verze je lež.
+          - V ruském Kislovodsku umístily úřady billboard lákající na vstup do ruské armády zobrazující vojáka a v pozadí tank doplněný nápisem „Jsi s námi?“. Už tradičně na něm není ruská technika, ale německý Leopard 2.
+          - Už pozítří se sejdou zástupci NATO s ukrajinskými protějšky a budou diskutovat budoucnost Obilné dohody poté, co Rusko vypovědělo svou účast na dohodě.
+          - Putin podepsal výnos, kterým se zvýší horní věková hranice pro armádní rezervisty až na 55 letů u řadových vojáků, respektive na 70 let u starších důstojníků.
+          - Z petrohradského hřbitova, kde jsou pohřbeny desítky tisíc obětí stalinských čistek, zmizel ze dne na den pomník věnovaný perzekuovaným Polákům.
+          - Ruské drony v noci zaútočili na Reni, jeden z ukrajinských přístavů v dunajské deltě, několik kilometrů od hranice s Rumunskem.
+          - Rusové mírně postupují na západ od města Svatové. Podařilo se jim dokonce na jednom místě překročit řeku Žerebec.
+          - Ukrajinský dron zasáhl sklad munice na okupovaném Krymu. Údajně se ve skladu nacházely také ruské rakety Oniks.
+          - Ukrajina odhalila a zneškodnila další farmu na falešné proruské účty, která obsluhovala 150 000 SIM karet.
+          - Blinken informoval, že Ukrajina k dnešnímu dni získala zpět 50 % území, které Rusové dobyli.
+          - Rusové zasáhli panelový dům ve Vuhledaru. Počet obětí se zatím upřesňuje.
+          - Itálie nabídla pomoc s rekonstrukcí poničené katedrály v Oděse.
+        videa: |
+          - [Reni, pohled z Rumunska](https://twitter.com/visegrad24/status/1683415028953694210)
+          - [Dříve proruský starosta Oděsy k Rusům ](https://twitter.com/berlin_bridge/status/1683208949225455616)
+          - [Ukrajinský šturm ](https://twitter.com/front_ukrainian/status/1683414783410798592)
+          - [Exploze tanku](https://twitter.com/bigSAC10/status/1683117678796349442)
+          - [Trollí farma](https://twitter.com/intermarium24/status/1683076599179104256)
+          - [Bachmut dnes](https://twitter.com/Azovsouth/status/1683398305668034560)
+          - [Slušná jízda](https://twitter.com/front_ukrainian/status/1683169095162765313)
+          - [Po neúspěšném ruském útoku](https://twitter.com/UAloveLEOPARD/status/1683140456639504384)
+          - [Vuhledar ](https://twitter.com/nexta_tv/status/1683424551688912896)
+          - [Mínus tři tédevadesátky](https://twitter.com/front_ukrainian/status/1683390769279688704)
+          - [Nová kamufláž](https://twitter.com/parrot_soldier/status/1683121629046382596)
+          - [Dron versus schovka](https://twitter.com/region776/status/1683041546122465280)
+          - [Tanková kolona](https://twitter.com/front_ukrainian/status/1683209215861567489)
+          - [Dron si počíhal](https://twitter.com/operativno_ZSU/status/1683137352963706882)
+          - [Himars těsně minul](https://twitter.com/region776/status/1683112482771177475)
+          - [Dělo versus tank](https://twitter.com/UKikaski/status/1682892995694063618)
+          - [Sestřelený Switchblade 600 ](https://twitter.com/front_ukrainian/status/1683412379495694337)
+          - [Pokémon](https://twitter.com/herooftheday10/status/1683136021578358785)
       - title: "Neděle"
         year: "23. červenec 2023"
         image: assets/img/timeline/2023-07-23.jpg
