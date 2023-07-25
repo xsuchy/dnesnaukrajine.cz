@@ -35,6 +35,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "25. červenec 2023"
+        image: assets/img/timeline/2023-07-25.jpg
+        desc: |
+          Když se ohlédneme za loňskými předpověďmi vývoje války, může se zdát, že jsme byli příliš optimističtí. A jistě ano, byli. Ale nikoliv ohledně stavu ruské armády a její bojeschopnosti. Všechny předpovědi z loňského léta hrubě přecenily primárně ruskou občanskou společnost. Obecně se věřilo, že ruská společnost odmítne válku ve chvíli, kdy Putin oznámí mobilizaci. Jenže se ukázalo, že ruská společnost se na žádný odpor nezmůže, a možná ani nechce. A tak Putin od loňského roku mobilizoval až stovky tisíc nových vojáků, které obratem na Ukrajinu poslal, aniž by to s ruskou společností jakkoliv otřáslo. A dokonce i ty skupiny obyvatel, u kterých se předpokládal vzdor, dnes zastávají postoj, že válka sice zbytečná je, ale když už ji Rusko začalo, tak ji musí vyhrát. Ruská společnost totiž netoleruje jen jedinou věc: prohru. Nesnesla by, kdyby Rusko bylo vnímané jako slabá země, které se lidi dost nebojí. Zároveň se nyní v zahraničním investigativním tisku objevují informace, že Čína poslala Rusku dost materiálu na vystrojení celé nové armády, zejména keramiky na výrobu neprůstřelných plátů, ale i konkrétní kusy výstroje nebo drony. K tomu přidejte masivní zbrojní dodávky (dronů a munice) z Íránu, celé vlaky munice a materiálu ze Severní Koreje a kolaps ruské armády je odsunutý do nedohledna. Stále ale může snadno přijít. Zejména pokud by se Ukrajině podařil významný průlom ruské obrany. Blíží se? Těžko říct. Posuďte sami:
+        detail: |
+          - Okupanti provedli „horkou odstávku“ jednoho z bloků v záporožské jaderné elektrárně. Krok, který Energoatom označil za porušující veškeré bezpečnostní regule. Zároveň pozorovatelé z MAAE oznámili, že odhalili miny v pásu dělícím vnitřní areál elektrárny od vnějšího perimetru, a že jim Rusové stále neumožnili přístup na střechy bloků, kde satelitní snímky v minulosti odhalily podezřelou aktivitu.
+          - Rusové se museli stáhnout z okupované Andrijivky na jihu Bachmutu. Ukrajinská armáda tak nyní kontrolu většinu, ne-li všechny vyvýšené pozice v okolí Kliščijivky. Podle některých zdrojů jsou už Ukrajinci i v samotné Kliščijivce.
+          - Ruský bloger Rybar potvrzuje sérii vzdušných útoků na vojenské instalace Rusů na Krymu. Podle něj byly použity drony pro zmatení PVO, zatímco na cíle dopadly rakety Storm Shadow. Ve všech případech byly cíle zasaženy.
+          - Ruská palba zasáhla pláž u rybníka v Kosťantynivce v Doněcké oblasti v době, kdy se v rybníce lidé koupali. Palba zabila jedno z dětí a jednoho z rodičů a zranila dalších nejméně sedm lidí včetně čtyřech dětí.
+          - Alexej Navalný z vězení prohlásil, že Igor Girkin je „nelegálně zadržovaný politický vězeň“. Sluší se tedy Alexejovi připomenout, že Girkin je v první řadě mezinárodně hledaný terorista a válečný zločinec.
+          - Neznámý řidič o půlnoci narazil ve vysoké rychlosti do jednoho z vojenských checkpointů v Kyjevě a těžce zranil tři vojáky. Jeden z vojáků následně zranění podlehl.
+          - Spojené státy tvrdí, že mají zpravodajské informace o tom, že Rusko chystá v Černé moři incident pod falešnou vlajkou. Detaily ale neuvedly.
+          - Šojgu, společně s několikahlavou delegací z ruského ministerstva obrany, odjel na oficiální návštěvu Severní Koreje.
+          - Španělsko oznámilo nový balík vojenské pomoci Ukrajině. Obsahuje 4 tanky Leopard 2 a tři desítky dalších vozidel.
+          - Spojené státy diskutují s Rumunskem, jak zajistit export jídla a bezpečnou plavbu přes Černé moře.
+          - Podle nové úpravy zákona nesmí Rusové, kteří obdrželi povolávací rozkazy, opustit zemi.
+          - Litva nabídla Evropské unii své přístavy pro případný export obilí z Ukrajiny dál do světa.
+          - V bojích na Ukrajině zemřel ruský plukovník Jevgeny Vašunin, velitel pluku „Leningrad“.
+          - Ukrajincům se podařilo rozšířit předmostí na levém břehu Dněpru u Chersonu.
+          - Ukrajinci zasáhli ruský muniční sklad v Makijivce.
+          - Rusové dnes přišli o další Ka-52 Aligátor.
+        videa: |
+          - [Rusové vezli posily na jih Bachmutu, nedojeli](https://twitter.com/region776/status/1683509696387506177)
+          - [Ruský svět v Lysyčansku](https://twitter.com/nexta_tv/status/1683747805079240705)
+          - [Váš syn padl, tady máte cibuli](https://twitter.com/ostravanda_/status/1683576655627919360)
+          - [Mínus tanky](https://twitter.com/front_ukrainian/status/1683502890046877696)
+          - [Javelin si našel ruský tank na ústupu](https://twitter.com/wartranslated/status/1683541364972109832)
+          - [Šílená přestřelka na pár metrů](https://twitter.com/Bodbe6/status/1683468917069496323)
+          - [Útok mechanizované brigády](https://twitter.com/front_ukrainian/status/1683865225244573698)
+          - [O fous](https://twitter.com/Bodbe6/status/1683462442448216071)
+          - [Ruský velitel „motivuje“ vojáky](https://twitter.com/wartranslated/status/1683434448061181952)
+          - [Ruský tank najel na vlastní miny](https://twitter.com/front_ukrainian/status/1683846505180831744)
+          - [Pokémoni](https://twitter.com/herooftheday10/status/1683806138008043520)
+          - [Italská děla](https://twitter.com/front_ukrainian/status/1683809683222454274)
+          - [Himars time!](https://twitter.com/front_ukrainian/status/1683734546947137536)
+          - [Archiv: Evakuace z Bachmutu](https://twitter.com/Bodbe6/status/1683473427657641987)
       - title: "Pondělí"
         year: "24. červenec 2023"
         image: assets/img/timeline/2023-07-24.jpg
