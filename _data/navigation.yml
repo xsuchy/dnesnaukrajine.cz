@@ -3,7 +3,10 @@ nav:
     section: about
 
   - title: "Bitva o Kyjev"
-    section: bitva
+    url: /bitva-o-kyjev
+
+  - title: "Zdroje"
+    url: /zdroje
     
   - title: "Kontakt"
     section: contact
