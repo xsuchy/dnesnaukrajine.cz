@@ -105,11 +105,3 @@ RUSKÉ KANÁLY:
 - Perun 
 - ...atd.
 
-Fotografie pole: Wikimedia Commons/Raimond Spekking
-
-Šablona: [Agency](https://github.com/raviriley/agency-jekyll-theme), MIT
-
-Engine: [Jekyll](https://jekyllrb.com/), MIT
-
-Texty: Tom Cortés
-
