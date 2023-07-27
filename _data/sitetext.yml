@@ -38,11 +38,49 @@ timeline:
     section: timeline
     start_align: "left"
     events:
-      - title: "Čtvrtek-Sobota"
-        year: "27. červenec 2023"
-        image: assets/img/timeline/2023-07-26.jpg
+      - title: "Pátek-Sobota"
+        year: "28. červenec 2023"
         desc: |
           Moc se omlouvám, ale jsem na dovolené bez internetu. Mezitím může sledovat Tomášovi příspěvky na [Facebooku](https://www.facebook.com/dnesnaukrajine.cz). Zpětně je dodám v neděli.
+      - title: "Čtvrtek"
+        year: "27. červenec 2023"
+        image: assets/img/timeline/2023-07-27.jpg
+        desc: |
+          Už včera většina ruských kanálů informovala o začátku „ostré“ fáze ukrajinské ofenzivy, když se podle nich do boje jižně od Orichivu přidaly i první z nových útočných brigád z tzv. „Devítky“ za použití desítek kusů těžké techniky. Dnes tuto zprávu poprvé citují i západní deníky s odkazem na informace Pentagonu. A jelikož ukrajinské kanály o záporožské frontě od včerejška téměř mlčí, i to se dá považovat za potvrzení informací. Cílem aktuálního útoku má být průlom ruských pozic až k Tokmaku a případně až k Azovskému moři. Konkrétní pohyb ukrajinských jednotek nejde nyní spolehlivě odhadovat. Rusové tvrdí, že přišli o kontrolu nad městem Staromajorské, a že v oblasti hrozí obklíčení části ruských jednotek. Podle blogera WarGonzo už Ukrajinci pokračují k dalšímu městečku. U obce Robotyne údajně Ukrajinci postoupili až o 5 km směrem k Novoprokopivce. Obecně panuje na ruských kanálech velmi pesimistická nálada, padají obvinění velících z neschopnosti a zaznívají obavy o celé pluky, protože už nyní Rusové hlásí šílené ztráty ve vlastních řadách. Co se týče ztrát Ukrajiny, ukrajinské ministerstvo obrany tvrdí, že i přes iniciativu na straně Ukrajiny jsou nyní ztráty Rusů až pětkrát větší než Ukrajinců. Bohužel to pořád znamená, že se tisíce kluků z Ukrajiny nedožijí konce války. Hrdinům sláva! A teď [pár aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid05eitgHmVPcfuv8XA4sZtJpydfix5VyCkSpWCJC8VKPaS3AhcidkBjGsoanH2eCKml):
+        detail: |
+          - Po zásahu ukrajinských obilných terminálů a ukončení Obilné dohody se spekulovalo, že Rusko se chce pokusit nahradit ukrajinské obilí na světových trzích, zejména v exportech do Afriky, teď to víceméně potvrdit sám Putin během Rusko-afrického summitu v Petrohradu, když delegátům oznámil, že Rusko letos dodá do Afriky až 50 000 tun obilí zdarma a bez poplatků za přepravu. Co ale delegátům neřekl, je, že značná část přislíbeného obilí je ve skutečnosti nelegálně vyvážena neboli kradena z okupovaných oblastí Ukrajiny. Rusové dnes opět terminály v Oděse zasáhli pomocí raket. Jeden člověk při tom zahynul. 
+          - Ukrajinská PVO v noci zasahovala nad Kyjevskou, Dněpropetrovskou a Charkovskou oblastí proti raketám mířícím na vojenské letiště ve střední Ukrajině, odkud startují ukrajinské taktické bombardéry. Celkem bylo sestřeleno 36 raket, konkrétně 33 raket Ch-101/555 a tři Kalibry. Součástí salvy měly být i 4 rakety Kinžal, které zřejmě trefily cíl. O škodách ale zprávy chybí.  
+          - Prezident Biden v bezprecedentním kroku nařídil americkým agenturám, aby předal\ Mezinárodnímu trestnímu soudu v Haagu důkazy o ruských válečných zločinech. Dosud Spojené státy s Haagem nespolupracovaly, protože se obávali, že by Rusko mohlo v odvetě usilovat o stíhání amerických vojáků. 
+          - Podle satelitních snímků se na základně wagnerovců v Bělorusku nachází až 750 různých vozidel. Běloruští partyzáni také informovali, že wagnerovci nabírají nové dobrovolníky přímo mezi Bělorusy a jako jednu z podmínek smlouvy mají ochotu dobrovolníků být připraveni účastnit se bojových akcí v Polsku a Litvě. 
+          - Armáda v Nigeru provedla vojenský převrat a sesadila stávající prozápadní vládu a prezidenta. Očekává se, že junta bude naopak usilovat o spolupráci s Ruskem. V Nigeru se nachází značné zásoby uranu, ze kterých se vyrábí palivo i do evropských jaderných elektráren. 
+          - New Development Bank, banka vytvořená skupinou BRICS na financování rozvojových projektů, oznámila, že nebude investovat do projektů v Rusku, a to v obavě ze západních sankcí. 
+          - Ukrajinská armáda v blízkosti Kliščijivky zlikvidovala „Carlsona“, ruského blogera a propagandistu, který působil v čečenské jednotce Achmat. 
+          - Podle analytiků z ISW Rusové nemají příliš šancí na úspěšnou blokádu černomořských přístavů. 
+          - Rusové svrhli několik leteckých pum na areál potravinářského závodu Nibulon v Kozackém. 
+          - Rusové v noci zasáhli Charkov a zabili 74letou ženu. Další 4 lidé byli během útoku zraněni. 
+          - Mezinárodní olympijský výbor nepozval Rusko a Bělorusko na Olympijské hry v Paříži. 
+          - A ruské Altaji se zřítil vrtulník Mi-8, šest lidí zahynulo, dalších sedm je raněno. 
+          - Ukrajinská rozvědka přiznala, že stojí za loňským útokem na Krymský most. 
+          - NATO posílí průzkumné lety a patroly nad Černým mořem. 
+        videa: |
+          - [Ruský cringe, propagandistické video, které má rozdělit společnost v Německu ](https://twitter.com/nexta_tv/status/1684310037789913088)
+          - [Ruský zásah potravinářského závodu ](https://twitter.com/EuromaidanPR/status/1684136223974232071)
+          - [Ruské BTR se zraněnými vojáky nedojelo](https://twitter.com/PStyle0ne1/status/1684437290054029312)
+          - [Zelenský s generály](https://twitter.com/front_ukrainian/status/1684479083667677185)
+          - [Leopard 2 přežil zásah Lancetem ](https://twitter.com/Bodbe6/status/1684289416271912960)
+          - [Krásná destrukce ruského TOS-1 dronem ](https://twitter.com/nexta_tv/status/1684487916670554112)
+          - [Ruská raketa minula ukrajinský vrtulník](https://twitter.com/MrFukkew/status/1684317038360010752)
+          - [Úspěšný výpad přes řeku ](https://twitter.com/front_ukrainian/status/1684512346994102272)
+          - [Rusové přepadli ukrajinský MaxxPro, posádka jako zázrakem přežila](https://twitter.com/Bodbe6/status/1684342868536598529)
+          - [Fanoušek na summitu v Petrohradu ](https://twitter.com/nexta_tv/status/1684470211980709892)
+          - [Výměna štítu na monumentu v Kyjevě](https://twitter.com/KyivIndependent/status/1684208403025985536)
+          - [Zásah švédského CV90](https://twitter.com/NOELreports/status/1684509140461158401)
+          - [Ruský úprk před tankem ](https://twitter.com/Maks_NAFO_FELLA/status/1684073114194558976)
+          - [HIMARS](https://twitter.com/front_ukrainian/status/1684513836446134272)
+          - [Ukrajinský tank jede na Staromajorské ](https://twitter.com/Bodbe6/status/1684356417472327680)
+          - [Palba na dva Grady](https://twitter.com/front_ukrainian/status/1684244400728158209)
+          - [U Kreminné ](https://twitter.com/Bodbe6/status/1684201318800302082)
+          - [Mariupol, jakési bum](https://twitter.com/TreasChest/status/1684293596722126849)
       - title: "Středa"
         year: "26. červenec 2023"
         image: assets/img/timeline/2023-07-26.jpg
