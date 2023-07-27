@@ -35,6 +35,11 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek-Sobota"
+        year: "27. červenec 2023"
+        image: assets/img/timeline/2023-07-26.jpg
+        desc: |
+          Moc se omlouvám, ale jsem na dovolené bez internetu. Mezitím může sledovat Tomášovi příspěvky na [Facebooku](https://www.facebook.com/dnesnaukrajine.cz). Zpětně je dodám v neděli.
       - title: "Středa"
         year: "26. červenec 2023"
         image: assets/img/timeline/2023-07-26.jpg
