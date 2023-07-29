@@ -38,15 +38,49 @@ timeline:
     section: timeline
     start_align: "left"
     events:
-      - title: "Pátek-Sobota"
-        year: "28. červenec 2023"
+      - title: "Sobota"
+        year: "29. červenec 2023"
+        image: assets/img/timeline/2023-07-29.jpg
         desc: |
-          Moc se omlouvám, ale jsem na dovolené bez internetu. Mezitím může sledovat Tomášovi příspěvky na [Facebooku](https://www.facebook.com/dnesnaukrajine.cz). Zpětně je dodám v neděli.
+          Na setkání s africkými lídry Putin zopakoval svou nedávnou lež o tom, že Rusové se stáhli od Kyjeva v rámci dohody s ukrajinským vedením. Afričtí lídři z tzv. Africké unie naopak vyzvali Putina, aby okamžitě obnovil Obilnou dohodu a prezident JAR se dokonce nechal slyšet, že lídři si „nepřijeli do Petrohradu pro dárky“, čímž reagoval na odpouštění dluhů a přísliby investic z úst Putina. Takový summit si Putin zřejmě nepředstavoval. Z rétoriky jde cítit, že Putin ztrácí nejen vliv, ale také image nezlomného „strongmana“, jakou si každý diktátor buduje a pečlivě hýčká. Zejména od JAR, která je členem skupiny BRICS, jsou to překvapivě silná slova. Ale co… Pořád má Voloďa ještě Severní Koreu a Eritreu. A teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0WUzDQn8aFQ9RXfyuxUEdjgMfzPQWABBtGkUdgonQTCXbf3CBxNy5x4ByXgcdnJjol):
+        videa: |
+          - Ukrajinská šermířka Olha Charlanová obdržela od Mezinárodního olympijského výboru automatickou kvalifikaci na LOH v Paříži. Mezinárodní šermířská federace ji následně zrušila zákaz nastoupit na kvalifikačním turnaji čili mistrovství světa v Itálii, prý po konzultaci právě s MOV.
+          - Rusové v noci na dnešek vyslali dvě rakety Iskander na budovu tajných služeb v Dnipru. Jedná z raket dopadla na kraj budovy a poničila ji, druhé „stál v cestě“ čtrnáctipodlažní dům, jehož část se po zásahu zřítila. Naštěstí bylo jen devět lidí zraněno, včetně dvou dětí.
+          - Ukrajinci se včera pokusili zasáhnout vojenské objekty v Rusku. Nad Moskvou byl sestřelen útočný dron a u Taganrogu se po sestřelení zřítila ukrajinské raketa S-200 mířící na tamější letiště. 12 lidí bylo zraněno.
+          - Podle nejvyššího státního zástupce Ukrajiny byla exploze v Olenivce, která zabila pět desítek ukrajinských zajatců, dílem termobarické nálože, jakou používá například ruský TOS-1.
+          - Ukrajinci zasáhli ruské pozice dělostřeleckou municí, která byla podle symbolů vyrobená v Severní Koreji, ukořistěná některým spojeneckým státem a poskytnutá Ukrajině.
+          - V ruském Archangelsku si soudy předvolaly dvě dívky ve věku 9 a 11 let, aby svědčily proti své matce v případu údajné „diskreditace ruské armády“.
+          - Energoatom informoval, že okupanti unesli a mučí Serhije Potyně, zaměstnance bezpečnosti ze záporožské jaderné elektrárny.
+          - Nová videa z dronu prozradila, že Ukrajinci překročili řeku Konka západně od Olešek na levém břehu Dněpru.
+          - Ukrajinci zasáhli budovu samozvaného ministerstva vnitra v okupovaném Doněcku.
+          - Oděským Domem odborů otřásla exploze. Jeden člověk byl výbuchem zabít.
+          - Ukrajinci zničili další muniční sklad na okupovaném Krymu.
+        videa: |
+          - [Dnipro](https://twitter.com/nexta_tv/status/1685007051594805248)
+          - [Taganrog](https://twitter.com/front_ukrainian/status/1684980184569524231)
+          - [Rusové ukořistili další pračku](https://twitter.com/NOELreports/status/1685192012742434816)
+          - [Olešky](https://twitter.com/NOELreports/status/1685046237886640129)
+          - [3. šturmová](https://twitter.com/NOELreports/status/1685230543045029888)
+          - [Dnes je Den speciálních sil](https://twitter.com/front_ukrainian/status/1685207438453055488)
+          - [Rusové a jejich Grad](https://twitter.com/wartranslated/status/1685223219446329345)
+          - [Minus Buk](https://twitter.com/EuromaidanPress/status/1685093028787310593)
+          - [Ruské vraky ve Staromajorském](https://twitter.com/bayraktar_1love/status/1685033807085260800)
+          - [Oplot](https://twitter.com/front_ukrainian/status/1685217137302925312)
+          - [Tanková bitva](https://twitter.com/NOELreports/status/1685216532370997248)
+          - [Bradley ](https://twitter.com/front_ukrainian/status/1685179264243474432)
+          - [Dva se vzdali ](https://twitter.com/NOELreports/status/1685046223567286272)
+          - [Měli se vzdát](https://twitter.com/Bodbe6/status/1685000805445742592)
+          - [Doněck](https://twitter.com/front_ukrainian/status/1684983926777884680)
+          - [Ukrajinci už jsou u Kurdjumivky ](https://twitter.com/NOELreports/status/1685046231637045249)
+          - [Ruský šrot](https://twitter.com/front_ukrainian/status/1684916176856457216)
+          - [Zacharová blouzní](https://twitter.com/NOELreports/status/1685229966034706432)
+          - [Zelenský navštívil pozice u Bachmutu](https://twitter.com/NOELreports/status/1685236894852861952)
+          - [Artilerie pracuje](https://twitter.com/NOELreports/status/1684986530668916759)
       - title: "Pátek"
         year: "28. červenec 2023"
         image: assets/img/timeline/2023-07-28.jpg
         desc: |
-          Ukrajinské síly osvobodily Staromajorske. Potvrzují to fotografie a videa v online prostoru. Tím se otevírá cesta ke Staromlynivce, která je důležitým opěrným bodem Rusů na záporožské frontě ve směru na Berďansk. Zároveň ukrajinská armáda postoupila ve směru na Robotyne, kde se vyhnula městu a překonala linii obrany na východ od něj směrem na Verbove, a také v oblasti kolem Kamjanského. Navíc se objevilo hned několik videí z různých úseků fronty, na kterých Ukrajinci překonávají linii „dračích zubů“, protitankových překážek na hlavní ruské obranné linii. Západní analytici konstatují, že Ukrajinci nejspíš našli slabinu v ruské obraně, protože do místa posílají nové útočné brigády a značnou část techniky. Rusové se snaží stabilizoval frontu a povolali do boje svoje oddíly BARS. A zatímco mezi ruskými blogery se čím dál víc skloňuje slovo „kolaps“, Putin v posledních prohlášeních všechny úspěchy Ukrajinců popřel, oznámil, že Ukrajinci mají desetinásobné ztráty vůči ruské armádě a že všechny ukrajinské útoky byly rozprášeny. Na rozdíl od jeho domácího publika ale máme svobodný přístup k informacím, a tak můžeme sami vidět, že Putin lže. Ale to není žádná novinka. Tohle novinky jsou:
+          Ukrajinské síly osvobodily Staromajorske. Potvrzují to fotografie a videa v online prostoru. Tím se otevírá cesta ke Staromlynivce, která je důležitým opěrným bodem Rusů na záporožské frontě ve směru na Berďansk. Zároveň ukrajinská armáda postoupila ve směru na Robotyne, kde se vyhnula městu a překonala linii obrany na východ od něj směrem na Verbove, a také v oblasti kolem Kamjanského. Navíc se objevilo hned několik videí z různých úseků fronty, na kterých Ukrajinci překonávají linii „dračích zubů“, protitankových překážek na hlavní ruské obranné linii. Západní analytici konstatují, že Ukrajinci nejspíš našli slabinu v ruské obraně, protože do místa posílají nové útočné brigády a značnou část techniky. Rusové se snaží stabilizoval frontu a povolali do boje svoje oddíly BARS. A zatímco mezi ruskými blogery se čím dál víc skloňuje slovo „kolaps“, Putin v posledních prohlášeních všechny úspěchy Ukrajinců popřel, oznámil, že Ukrajinci mají desetinásobné ztráty vůči ruské armádě a že všechny ukrajinské útoky byly rozprášeny. Na rozdíl od jeho domácího publika ale máme svobodný přístup k informacím, a tak můžeme sami vidět, že Putin lže. Ale to není žádná novinka. Tohle [novinky jsou](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0NAw6Gy6Gb1ciPdENsLH79SKA9QQHei812FovKgzKGbv9XHT7scqhq87HUE8TnHf6l):
         detail: |
           - Mezinárodní šermířská federace diskvalifikovala ukrajinskou šermířku Olgu Charlan z mistrovství světa v Miláně. Charlan přesvědčivě vyhrála nad Ruskou Smirnovovou, ale odmítla jí podat ruku, kvůli tomu, že Smirnovová se na svých sítích fotila na podporu ruské armády, a namísto podání ruky ji nabídla ťuknutí šavlemi. Ruska si poté sedla na židli u zápasiště a hodinu odmítala místo opustit, přičemž požadovala diskvalifikaci ukrajinské soupeřky, čemuž nakonec pořadatelé vyhověli. Ukrajinská delegace se proti diskvalifikaci odvolala. 
           - Rusko vytvořilo organizaci „Druhá Ukrajina“, v jejímž čele stanul Puinův chráněnec Viktor Medvedčuk, bývalý pro-ruský ukrajinský poslanec obviněný z velezrady a později vyměněný za ukrajinské zajatce. Jejím cílem je šířit protiukrajinské nálady v Rusku a verbovat kolaboranty přímo na Ukrajině. 
