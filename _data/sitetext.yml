@@ -7,7 +7,7 @@ header:
 services:
     title: " "
     text: |
-      Tady je časová osa toho, co se každý den stalo během války na Ukrajině. Tak jak to zaznamenává [Tomáš Dvořák](https://www.tomcortes.com/). 
+      Tady je časová osa toho, co se každý den stalo během války na Ukrajině. Tak jak to zaznamenává [Tomáš Dvořák](https://www.tomcortes.com/).
       Chcete podpořit tyto pravidelné reporty? Kupte si třeba některou jeho [písničku.](https://www.tomcortes.com/poslouchej).
       Zajíma vás odkud čerpá své informace? Kouknětě na stránku [zdroje](/zdroje).
 
@@ -38,6 +38,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "30. červenec 2023"
+        image: assets/img/timeline/2023-07-30.jpg
+        desc: |
+          Vícero zdrojů informovalo, že se podařilo zastavit ruský útok vedený od Svatového a následně měl ukrajinský protiútok zatlačit Rusy o několik kilometrů zpět. Rusové prý museli ustoupit poté, co utrpěli značné ztráty. Na ostatních aktivních úsecích aktuální fronty pokračuje pozvolný postup Ukrajinci, ačkoliv se zdá, že oproti začátku týdne značně zpomalil. Pravděpodobně proto, že Ukrajinci na několika místech dorazili k hlavní obranné linii Rusů a protitankovým příkopům a nyní primárně konsolidují získané pozice před dalšími výpady. Pokračuje ale ničení ruské logistiky a zásob paliva a munice. Jak ukrajinští, tak ruští blogeři očekávají každým dnem další významný průlom. A teď nějaké [ty souvislosti](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid023fqPg35vWkMnU6uP87WkXM6n4cLc51dA4iqR6vdJ51hwSVxffHB3VDaYVhUWTfw5l):
+        detail: |
+          - Polský premiér tvrdí, že má zpravodajské informace o tom, že se skupina přibližně stovky wagnerovců přesouvá k Suvalskému koridoru, kde se pokusí vyvolat provokace v přestrojení za běloruské pohraničníky tím, že budou pomáhat migrantům nelegálně překonat bariéry na hranicích a potenciálně vyvolat střet. Polsko se dokonce domnívá, že by se wagnerovci mohli pokusit sami překročit hranice.
+          - Ukrajinské drony v noci na dnešek zasáhly komplex vysokopodlažních budov v Moskvě, kde má pracoviště nejméně šest ruských ministerstev. Protivzdušná obrana buď drony vůbec nezachytila, nebo je nedokázala zastavit.
+          - Podle deníku The New York Times Elon Musk v minulosti opakovaně odmítl zapnout Starlink nad okupovaným Krymem. Pentagon proto údajně plánuje nakoupit 500 terminálů pro Ukrajinu, které by Musk vypínat nemohl.
+          - Saúdská Arábie bude na začátku srpna hostit summit 30 zemí s cílem najít řešení míru na Ukrajině. Rusko nicméně mezi pozvanými zeměmi není. Účastnit by se neměla ani Čína.
+          - Rusové v noci svrhli dvě letecké pumy na Hadí ostrov, už potřetí jen v tomto měsíci. Není přitom jasné, zda se na ostrově nachází nějaký cíl, nebo jde jen o vysílání varování.
+          - Putin prohlásil, že od začátku ofenzívy ztratila Ukrajina 415 tanků, z toho dvě třetiny byly západní. Aha.
+          - Dva lidé zemřeli a sedmnáct bylo zraněno, když dnes ráno Rusové zasáhli budovy školy v Sumách.
+          - Most v Čongaru spojující Krym a pevninskou Ukrajinou byl údajně při včerejším zásahu zničen.
+          - Zacharová prohlásila, že Rusové brání „právo celého světa na svobodu“. Cože?
+          - Ukrajinci zasáhli muniční sklad v okupovaném Doněcku.
+          - Dva lidé zemřeli při ruské palbě na centrum Záporoží.
+        videa: |
+          - [Sumy ](https://twitter.com/nexta_tv/status/1685570440574492672)
+          - [Ruští turisté v Horlivce](https://twitter.com/Heroiam_Slava/status/1685369414915403776)
+          - [Útok dronů na Moskvu](https://twitter.com/Faytuks/status/1685462726280130560)
+          - [Perun po noční šichtě](https://twitter.com/FundPerun/status/1685309511047745536)
+          - [Krymský most je opravován](https://twitter.com/NOELreports/status/1685587562146992128)
+          - [Legionáři z Japonska a Litvy](https://twitter.com/intermarium24/status/1685422452573081600)
+          - [Mínus Buk i s nabíjecím strojem](https://twitter.com/bayraktar_1love/status/1685572136843284480)
+          - [Ofenzíva](https://twitter.com/NOELreports/status/1685555550430412800)
+          - [Mínus dělo](https://twitter.com/front_ukrainian/status/1685541815091449856)
+          - [AMX](https://twitter.com/Osinttechnical/status/1685412063810605057)
+          - [Mínus BMP](https://twitter.com/nexta_tv/status/1685512876826537984)
+          - [Trefa](https://twitter.com/Bodbe6/status/1685301401658761217)
+          - [Muniční sklad v Doněcku ](https://twitter.com/Maks_NAFO_FELLA/status/1685358145181192192)
+          - [Ukrajina ukázala nový námořní dron](https://twitter.com/EuromaidanPress/status/1685425721064525825)
+          - [Rusové ukořistili první CV-90](https://twitter.com/NOELreports/status/1685542245653508096)
+          - [Ještě že to točil](https://twitter.com/nexta_tv/status/1685277439704870912)
+          - [Dnešní Mariupolu](https://twitter.com/EuromaidanPress/status/1685409870256693248)
+          - [Byt v Dnipru ](https://twitter.com/nexta_tv/status/1685265256212312065)
+          - [Ruské zákopy](https://twitter.com/Teoyaomiquu/status/1685315797168656384)
+          - [Ruský nálet](https://twitter.com/Bodbe6/status/1685461136085319681)
+          - [Staromajorské](https://twitter.com/Gulli_ver_sn/status/1685521752695132160)
+          - [Evakuace zajatce](https://twitter.com/region776/status/1685220674326110209)
+          - [Pomlácený Kozák](https://twitter.com/Osinttechnical/status/1685400047284801542)
+          - [Rakety Brimstone](https://twitter.com/front_ukrainian/status/1685588627265306624)
       - title: "Sobota"
         year: "29. červenec 2023"
         image: assets/img/timeline/2023-07-29.jpg
@@ -82,16 +124,16 @@ timeline:
         desc: |
           Ukrajinské síly osvobodily Staromajorske. Potvrzují to fotografie a videa v online prostoru. Tím se otevírá cesta ke Staromlynivce, která je důležitým opěrným bodem Rusů na záporožské frontě ve směru na Berďansk. Zároveň ukrajinská armáda postoupila ve směru na Robotyne, kde se vyhnula městu a překonala linii obrany na východ od něj směrem na Verbove, a také v oblasti kolem Kamjanského. Navíc se objevilo hned několik videí z různých úseků fronty, na kterých Ukrajinci překonávají linii „dračích zubů“, protitankových překážek na hlavní ruské obranné linii. Západní analytici konstatují, že Ukrajinci nejspíš našli slabinu v ruské obraně, protože do místa posílají nové útočné brigády a značnou část techniky. Rusové se snaží stabilizoval frontu a povolali do boje svoje oddíly BARS. A zatímco mezi ruskými blogery se čím dál víc skloňuje slovo „kolaps“, Putin v posledních prohlášeních všechny úspěchy Ukrajinců popřel, oznámil, že Ukrajinci mají desetinásobné ztráty vůči ruské armádě a že všechny ukrajinské útoky byly rozprášeny. Na rozdíl od jeho domácího publika ale máme svobodný přístup k informacím, a tak můžeme sami vidět, že Putin lže. Ale to není žádná novinka. Tohle [novinky jsou](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0NAw6Gy6Gb1ciPdENsLH79SKA9QQHei812FovKgzKGbv9XHT7scqhq87HUE8TnHf6l):
         detail: |
-          - Mezinárodní šermířská federace diskvalifikovala ukrajinskou šermířku Olgu Charlan z mistrovství světa v Miláně. Charlan přesvědčivě vyhrála nad Ruskou Smirnovovou, ale odmítla jí podat ruku, kvůli tomu, že Smirnovová se na svých sítích fotila na podporu ruské armády, a namísto podání ruky ji nabídla ťuknutí šavlemi. Ruska si poté sedla na židli u zápasiště a hodinu odmítala místo opustit, přičemž požadovala diskvalifikaci ukrajinské soupeřky, čemuž nakonec pořadatelé vyhověli. Ukrajinská delegace se proti diskvalifikaci odvolala. 
-          - Rusko vytvořilo organizaci „Druhá Ukrajina“, v jejímž čele stanul Puinův chráněnec Viktor Medvedčuk, bývalý pro-ruský ukrajinský poslanec obviněný z velezrady a později vyměněný za ukrajinské zajatce. Jejím cílem je šířit protiukrajinské nálady v Rusku a verbovat kolaboranty přímo na Ukrajině. 
-          - Na vojenské přehlídce v Severní Koreji byla k vidění spousta „nových“ systémů, včetně údajně provozuschopných podvodních dronů nebo téměř identické kopie amerického dronu MQ-9 Reaper, který nejspíš tamní režim postavil na základě ukořistěného amerického dronu poskytnutého Koreji Ruskem. 
-          - Putin během Rusko-afrického summitu oznámil, že Rusko odpustí africkým zemím celkem 23 miliard dolarů v dluzích. Zároveň Moskva alokuje 90 miliónů dolarů na rozvoj kontinentu. 
-          - Ukrajinské protiútoky u Svatového prozatím zastavily ruský postup a dokonce se díky nim podařilo znovu obsadit část území nedávno obsazeného Rusy. 
-          - Japonsko rozšiřuje sankce na vývoz do Ruska o motory s objemem vyšším než 1 900 ccm a také hybridní a elektrické vozy. 
-          - Blog Oryx už několik dní po sobě opět evidoval více zničené ruské než ukrajinské vojenské techniky. 
-          - Ukrajinské síly zlikvidovaly teroristu Artura Bogačenka, velitele separatistického praporu „Přízrak“. 
-          - Polsko hodlá navýšit počet armádních divizí v aktivní službě ze 3 na 6. 
-          - Ukrajinská palba zničila skladiště paliv v Okupovaném Šachťarsku. 
+          - Mezinárodní šermířská federace diskvalifikovala ukrajinskou šermířku Olgu Charlan z mistrovství světa v Miláně. Charlan přesvědčivě vyhrála nad Ruskou Smirnovovou, ale odmítla jí podat ruku, kvůli tomu, že Smirnovová se na svých sítích fotila na podporu ruské armády, a namísto podání ruky ji nabídla ťuknutí šavlemi. Ruska si poté sedla na židli u zápasiště a hodinu odmítala místo opustit, přičemž požadovala diskvalifikaci ukrajinské soupeřky, čemuž nakonec pořadatelé vyhověli. Ukrajinská delegace se proti diskvalifikaci odvolala.
+          - Rusko vytvořilo organizaci „Druhá Ukrajina“, v jejímž čele stanul Puinův chráněnec Viktor Medvedčuk, bývalý pro-ruský ukrajinský poslanec obviněný z velezrady a později vyměněný za ukrajinské zajatce. Jejím cílem je šířit protiukrajinské nálady v Rusku a verbovat kolaboranty přímo na Ukrajině.
+          - Na vojenské přehlídce v Severní Koreji byla k vidění spousta „nových“ systémů, včetně údajně provozuschopných podvodních dronů nebo téměř identické kopie amerického dronu MQ-9 Reaper, který nejspíš tamní režim postavil na základě ukořistěného amerického dronu poskytnutého Koreji Ruskem.
+          - Putin během Rusko-afrického summitu oznámil, že Rusko odpustí africkým zemím celkem 23 miliard dolarů v dluzích. Zároveň Moskva alokuje 90 miliónů dolarů na rozvoj kontinentu.
+          - Ukrajinské protiútoky u Svatového prozatím zastavily ruský postup a dokonce se díky nim podařilo znovu obsadit část území nedávno obsazeného Rusy.
+          - Japonsko rozšiřuje sankce na vývoz do Ruska o motory s objemem vyšším než 1 900 ccm a také hybridní a elektrické vozy.
+          - Blog Oryx už několik dní po sobě opět evidoval více zničené ruské než ukrajinské vojenské techniky.
+          - Ukrajinské síly zlikvidovaly teroristu Artura Bogačenka, velitele separatistického praporu „Přízrak“.
+          - Polsko hodlá navýšit počet armádních divizí v aktivní službě ze 3 na 6.
+          - Ukrajinská palba zničila skladiště paliv v Okupovaném Šachťarsku.
           - Ukrajinské rakety opět zasáhly okupovaný Tokmak.
         videa: |
           - [Na zápase v šermu ](https://twitter.com/nexta_tv/status/1684502389573701632)
@@ -126,20 +168,20 @@ timeline:
         desc: |
           Už včera většina ruských kanálů informovala o začátku „ostré“ fáze ukrajinské ofenzivy, když se podle nich do boje jižně od Orichivu přidaly i první z nových útočných brigád z tzv. „Devítky“ za použití desítek kusů těžké techniky. Dnes tuto zprávu poprvé citují i západní deníky s odkazem na informace Pentagonu. A jelikož ukrajinské kanály o záporožské frontě od včerejška téměř mlčí, i to se dá považovat za potvrzení informací. Cílem aktuálního útoku má být průlom ruských pozic až k Tokmaku a případně až k Azovskému moři. Konkrétní pohyb ukrajinských jednotek nejde nyní spolehlivě odhadovat. Rusové tvrdí, že přišli o kontrolu nad městem Staromajorské, a že v oblasti hrozí obklíčení části ruských jednotek. Podle blogera WarGonzo už Ukrajinci pokračují k dalšímu městečku. U obce Robotyne údajně Ukrajinci postoupili až o 5 km směrem k Novoprokopivce. Obecně panuje na ruských kanálech velmi pesimistická nálada, padají obvinění velících z neschopnosti a zaznívají obavy o celé pluky, protože už nyní Rusové hlásí šílené ztráty ve vlastních řadách. Co se týče ztrát Ukrajiny, ukrajinské ministerstvo obrany tvrdí, že i přes iniciativu na straně Ukrajiny jsou nyní ztráty Rusů až pětkrát větší než Ukrajinců. Bohužel to pořád znamená, že se tisíce kluků z Ukrajiny nedožijí konce války. Hrdinům sláva! A teď [pár aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid05eitgHmVPcfuv8XA4sZtJpydfix5VyCkSpWCJC8VKPaS3AhcidkBjGsoanH2eCKml):
         detail: |
-          - Po zásahu ukrajinských obilných terminálů a ukončení Obilné dohody se spekulovalo, že Rusko se chce pokusit nahradit ukrajinské obilí na světových trzích, zejména v exportech do Afriky, teď to víceméně potvrdit sám Putin během Rusko-afrického summitu v Petrohradu, když delegátům oznámil, že Rusko letos dodá do Afriky až 50 000 tun obilí zdarma a bez poplatků za přepravu. Co ale delegátům neřekl, je, že značná část přislíbeného obilí je ve skutečnosti nelegálně vyvážena neboli kradena z okupovaných oblastí Ukrajiny. Rusové dnes opět terminály v Oděse zasáhli pomocí raket. Jeden člověk při tom zahynul. 
-          - Ukrajinská PVO v noci zasahovala nad Kyjevskou, Dněpropetrovskou a Charkovskou oblastí proti raketám mířícím na vojenské letiště ve střední Ukrajině, odkud startují ukrajinské taktické bombardéry. Celkem bylo sestřeleno 36 raket, konkrétně 33 raket Ch-101/555 a tři Kalibry. Součástí salvy měly být i 4 rakety Kinžal, které zřejmě trefily cíl. O škodách ale zprávy chybí.  
-          - Prezident Biden v bezprecedentním kroku nařídil americkým agenturám, aby předal\ Mezinárodnímu trestnímu soudu v Haagu důkazy o ruských válečných zločinech. Dosud Spojené státy s Haagem nespolupracovaly, protože se obávali, že by Rusko mohlo v odvetě usilovat o stíhání amerických vojáků. 
-          - Podle satelitních snímků se na základně wagnerovců v Bělorusku nachází až 750 různých vozidel. Běloruští partyzáni také informovali, že wagnerovci nabírají nové dobrovolníky přímo mezi Bělorusy a jako jednu z podmínek smlouvy mají ochotu dobrovolníků být připraveni účastnit se bojových akcí v Polsku a Litvě. 
-          - Armáda v Nigeru provedla vojenský převrat a sesadila stávající prozápadní vládu a prezidenta. Očekává se, že junta bude naopak usilovat o spolupráci s Ruskem. V Nigeru se nachází značné zásoby uranu, ze kterých se vyrábí palivo i do evropských jaderných elektráren. 
-          - New Development Bank, banka vytvořená skupinou BRICS na financování rozvojových projektů, oznámila, že nebude investovat do projektů v Rusku, a to v obavě ze západních sankcí. 
-          - Ukrajinská armáda v blízkosti Kliščijivky zlikvidovala „Carlsona“, ruského blogera a propagandistu, který působil v čečenské jednotce Achmat. 
-          - Podle analytiků z ISW Rusové nemají příliš šancí na úspěšnou blokádu černomořských přístavů. 
-          - Rusové svrhli několik leteckých pum na areál potravinářského závodu Nibulon v Kozackém. 
-          - Rusové v noci zasáhli Charkov a zabili 74letou ženu. Další 4 lidé byli během útoku zraněni. 
-          - Mezinárodní olympijský výbor nepozval Rusko a Bělorusko na Olympijské hry v Paříži. 
-          - A ruské Altaji se zřítil vrtulník Mi-8, šest lidí zahynulo, dalších sedm je raněno. 
-          - Ukrajinská rozvědka přiznala, že stojí za loňským útokem na Krymský most. 
-          - NATO posílí průzkumné lety a patroly nad Černým mořem. 
+          - Po zásahu ukrajinských obilných terminálů a ukončení Obilné dohody se spekulovalo, že Rusko se chce pokusit nahradit ukrajinské obilí na světových trzích, zejména v exportech do Afriky, teď to víceméně potvrdit sám Putin během Rusko-afrického summitu v Petrohradu, když delegátům oznámil, že Rusko letos dodá do Afriky až 50 000 tun obilí zdarma a bez poplatků za přepravu. Co ale delegátům neřekl, je, že značná část přislíbeného obilí je ve skutečnosti nelegálně vyvážena neboli kradena z okupovaných oblastí Ukrajiny. Rusové dnes opět terminály v Oděse zasáhli pomocí raket. Jeden člověk při tom zahynul.
+          - Ukrajinská PVO v noci zasahovala nad Kyjevskou, Dněpropetrovskou a Charkovskou oblastí proti raketám mířícím na vojenské letiště ve střední Ukrajině, odkud startují ukrajinské taktické bombardéry. Celkem bylo sestřeleno 36 raket, konkrétně 33 raket Ch-101/555 a tři Kalibry. Součástí salvy měly být i 4 rakety Kinžal, které zřejmě trefily cíl. O škodách ale zprávy chybí.
+          - Prezident Biden v bezprecedentním kroku nařídil americkým agenturám, aby předal\ Mezinárodnímu trestnímu soudu v Haagu důkazy o ruských válečných zločinech. Dosud Spojené státy s Haagem nespolupracovaly, protože se obávali, že by Rusko mohlo v odvetě usilovat o stíhání amerických vojáků.
+          - Podle satelitních snímků se na základně wagnerovců v Bělorusku nachází až 750 různých vozidel. Běloruští partyzáni také informovali, že wagnerovci nabírají nové dobrovolníky přímo mezi Bělorusy a jako jednu z podmínek smlouvy mají ochotu dobrovolníků být připraveni účastnit se bojových akcí v Polsku a Litvě.
+          - Armáda v Nigeru provedla vojenský převrat a sesadila stávající prozápadní vládu a prezidenta. Očekává se, že junta bude naopak usilovat o spolupráci s Ruskem. V Nigeru se nachází značné zásoby uranu, ze kterých se vyrábí palivo i do evropských jaderných elektráren.
+          - New Development Bank, banka vytvořená skupinou BRICS na financování rozvojových projektů, oznámila, že nebude investovat do projektů v Rusku, a to v obavě ze západních sankcí.
+          - Ukrajinská armáda v blízkosti Kliščijivky zlikvidovala „Carlsona“, ruského blogera a propagandistu, který působil v čečenské jednotce Achmat.
+          - Podle analytiků z ISW Rusové nemají příliš šancí na úspěšnou blokádu černomořských přístavů.
+          - Rusové svrhli několik leteckých pum na areál potravinářského závodu Nibulon v Kozackém.
+          - Rusové v noci zasáhli Charkov a zabili 74letou ženu. Další 4 lidé byli během útoku zraněni.
+          - Mezinárodní olympijský výbor nepozval Rusko a Bělorusko na Olympijské hry v Paříži.
+          - A ruské Altaji se zřítil vrtulník Mi-8, šest lidí zahynulo, dalších sedm je raněno.
+          - Ukrajinská rozvědka přiznala, že stojí za loňským útokem na Krymský most.
+          - NATO posílí průzkumné lety a patroly nad Černým mořem.
         videa: |
           - [Ruský cringe, propagandistické video, které má rozdělit společnost v Německu ](https://twitter.com/nexta_tv/status/1684310037789913088)
           - [Ruský zásah potravinářského závodu ](https://twitter.com/EuromaidanPR/status/1684136223974232071)
@@ -165,19 +207,19 @@ timeline:
         desc: |
           OSN odmítlo ruská tvrzení o příčině masakru vězňů v trestanecké kolonii v Olenivce. Rusko se snažilo tvrdit, že kolonii zasáhly ukrajinské rakety ze systému HIMARS, to ale analýza OSN spolehlivě vyvrátila. Systémy HIMARS dělají od začátku působení na Ukrajině Rusům velké vrásky. Jednak proto, že stojí za zničením desítek ruských základen, ohromného počtu živé síly a techniky, ale také proto, že Rusům se doposud nepodařilo zničit ani jeden z dodaných kusů. Kvůli tomu si ruská propaganda v minulosti vymýšlela nejrůznější tvrzení, ať už o údajných zničených HIMARSech, kdy jednou šlo o kamion s dřevem, jindy o jiná vojenská vozidla, například samohybná děla, nebo Rusko sbíralo střepiny raket a následně je umísťovalo a fotilo u náhodných incidentů, aby mohlo obvinit Ukrajinu, že používá americký systém k zasahování cílů v Rusku nebo v civilních oblastech, a tím odradilo spojence od další pomoci. Podobné lži sice ochotně přebírala pátá kolona v západních zemích, ale spojenci se obelhat nenechali. A tak systém HIMARS i v posledních dnech opět spolehlivě ničil ruské logistické uzly, muniční sklady a základny na okupovaném území. V noci na dnešek například v Tokmaku, včera v Horlivce. Je to zbraň, která měla možná vůbec největší podíl na otočení vývoje války a hraje klíčovou roli v při probíhající ukrajinské ofenzivě. Jak se jí daří? O tom více v [dnešním přehledu](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0oLdmyMbjVhW3QFq2zU1RbXwW7JdmYUYJYNYHZcS7JKDE8NgDX2aYKV8chZT7tx6ql):
         detail: |
-          - Ruští vojenští blogeři v posledních dnech prakticky bez výjimky bijí na poplach. Ukrajina podle nich pokračuje v téměř nerušeném ničení ruských pozic pomocí dělostřelectva, na které ruská armáda marně hledá odpověď. Nyní se objevují zprávy, že Ukrajinci spustili velký útok na jednom z úseků záporožské fronty, a situace je prý pro Rusy neudržitelná. Všechno je potřeba brát s rezervou, protože Rusové si v minulosti často vymýšleli zprávy o útocích, aby následně mohli tvrdit, že vše odrazili, nicméně ruská tvrzení částečně podporují i informace z ukrajinské strany. Jisté je, že Ukrajincům se daří v oblasti Kliščijivky, ze které se Rusové nejspíš stahují, a aktuálně se snaží využít situaci také u obcí Robotyne a Staromajorske. Ruský bloger Rybar dokonce tvrdí, že u obce Robotyne útočí Ukrajinci se zapojením 8O kusů těžkých vozidel včetně tanků a prolomili obranu ve třech směrech. Naopak Rusové využili rotaci ukrajinských jednotek na úseku fronty u Kreminné, který přebraly nezkušené ukrajinské brigády, aby přešli do útoku, a situaci je tu nadále vypjatá. 
-          - Většina prezidentů afrických zemí bude bojkotovat Rusko-africký summit, který začíná už zítra v Petrohradě, a má se ho osobně účastnit Putin. Své prezidenty vysílá jen 16 z celkově 54 zemí, 10 dalších vyšle své premiéry, 16 zemí vyšle jen náměstky nebo ministry, 5 zemí se nebude summitu účastnit vůbec. 
-          - Moldavsko oznámilo, že zredu zemí. kuje počet personálu ruské ambasády na 10 diplomatů a 15 úředníků a techniků, protože podle Kišiněva využívali Rusové ambasádu k nepřátelským zpravodajským akcím. 
-          - Ruští propagandisti v televizní diskuzi u Solovjova blouznili o tom, že je potřeba vyslat wagnerovce na „exkurzi do Řešova“, který je podle nich „starověké ruské město Rjašev“. Tak kurwaaa do toho, kluci! 
-          - Ruské ministerstvo zahraničí na svých kanálech zveřejnilo „analýzu“ o údajném porušování lidských práv v Česku a „chronických problémech“ naší politiky. Bizár. 
-          - Maďarský ministr zahraničí prohlásil, že účast ruských a běloruských sportovců na Olympiádě může pomoci k dosažení míru na Ukrajině. 
-          - Ruský Nejvyšší soud rozhodl, že účast ve válce proti Ukrajině může být základem pro vyhnutí se trestu u odsouzených osob. 
-          - Rusové u Toretsku cíleně ostřelovali hasiče, kteří se pokoušeli uhasit požár vzniklý při dřívějším ruské ostřelování. 
-          - Do Běloruska přijel v pořadí už jedenáctý konvoj s wagnerovci. Tentokrát obsahuje i šest obrněných vozidel Ščuka. 
-          - Ruské soudy poslaly do vězení na 22 let člověka, který podle nich stál za sabotážemi kolejí u Brjansku. 
-          - Spojené státy schválily další balík vojenské pomoci Ukrajině v hodnotě 400 mil. dolarů. 
-          - Estonsko a Lotyšsko po Litvě nabídly také své přístavy k exportu ukrajinského obilí. 
-          - Ruské lodě v Černé moři zaujaly postavení k blokádě ukrajinských přístavů. 
+          - Ruští vojenští blogeři v posledních dnech prakticky bez výjimky bijí na poplach. Ukrajina podle nich pokračuje v téměř nerušeném ničení ruských pozic pomocí dělostřelectva, na které ruská armáda marně hledá odpověď. Nyní se objevují zprávy, že Ukrajinci spustili velký útok na jednom z úseků záporožské fronty, a situace je prý pro Rusy neudržitelná. Všechno je potřeba brát s rezervou, protože Rusové si v minulosti často vymýšleli zprávy o útocích, aby následně mohli tvrdit, že vše odrazili, nicméně ruská tvrzení částečně podporují i informace z ukrajinské strany. Jisté je, že Ukrajincům se daří v oblasti Kliščijivky, ze které se Rusové nejspíš stahují, a aktuálně se snaží využít situaci také u obcí Robotyne a Staromajorske. Ruský bloger Rybar dokonce tvrdí, že u obce Robotyne útočí Ukrajinci se zapojením 8O kusů těžkých vozidel včetně tanků a prolomili obranu ve třech směrech. Naopak Rusové využili rotaci ukrajinských jednotek na úseku fronty u Kreminné, který přebraly nezkušené ukrajinské brigády, aby přešli do útoku, a situaci je tu nadále vypjatá.
+          - Většina prezidentů afrických zemí bude bojkotovat Rusko-africký summit, který začíná už zítra v Petrohradě, a má se ho osobně účastnit Putin. Své prezidenty vysílá jen 16 z celkově 54 zemí, 10 dalších vyšle své premiéry, 16 zemí vyšle jen náměstky nebo ministry, 5 zemí se nebude summitu účastnit vůbec.
+          - Moldavsko oznámilo, že zredu zemí. kuje počet personálu ruské ambasády na 10 diplomatů a 15 úředníků a techniků, protože podle Kišiněva využívali Rusové ambasádu k nepřátelským zpravodajským akcím.
+          - Ruští propagandisti v televizní diskuzi u Solovjova blouznili o tom, že je potřeba vyslat wagnerovce na „exkurzi do Řešova“, který je podle nich „starověké ruské město Rjašev“. Tak kurwaaa do toho, kluci!
+          - Ruské ministerstvo zahraničí na svých kanálech zveřejnilo „analýzu“ o údajném porušování lidských práv v Česku a „chronických problémech“ naší politiky. Bizár.
+          - Maďarský ministr zahraničí prohlásil, že účast ruských a běloruských sportovců na Olympiádě může pomoci k dosažení míru na Ukrajině.
+          - Ruský Nejvyšší soud rozhodl, že účast ve válce proti Ukrajině může být základem pro vyhnutí se trestu u odsouzených osob.
+          - Rusové u Toretsku cíleně ostřelovali hasiče, kteří se pokoušeli uhasit požár vzniklý při dřívějším ruské ostřelování.
+          - Do Běloruska přijel v pořadí už jedenáctý konvoj s wagnerovci. Tentokrát obsahuje i šest obrněných vozidel Ščuka.
+          - Ruské soudy poslaly do vězení na 22 let člověka, který podle nich stál za sabotážemi kolejí u Brjansku.
+          - Spojené státy schválily další balík vojenské pomoci Ukrajině v hodnotě 400 mil. dolarů.
+          - Estonsko a Lotyšsko po Litvě nabídly také své přístavy k exportu ukrajinského obilí.
+          - Ruské lodě v Černé moři zaujaly postavení k blokádě ukrajinských přístavů.
         videa: |
           - [Ruští výsadkáři vjeli u Kliščivijivky do pasti ](https://twitter.com/front_ukrainian/status/1684142849359597568)
           - [Šojgu je v Severní Koreji ](https://twitter.com/nexta_tv/status/1683978660406087681)
