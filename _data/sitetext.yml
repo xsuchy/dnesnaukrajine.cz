@@ -38,6 +38,52 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "1. srpen 2023"
+        image: assets/img/timeline/2023-08-01.jpg
+        desc: |
+          Ministr zahraničí Ukrajiny Dmytro Kuleba oznámil úspěšnou dohodu s Chorvatskem, které tak poskytne své přístavy na Dunaji a ve Středozemním moři k exportu ukrajinského obilí. Mezitím už šest lodí v Černém moři ignorovalo ruskou blokádu a pluje do ukrajinských přístavů. Dohlíží na ně, krom tradičního dronu FORTE11, nově od pobřeží Rumunska také americký P-8 Poseidon. Letadlo určené k ničení nepřátelských lodí. I v době psaní reportu je Poseidon ve vzduchu. Vypadá to tedy, že svět testuje, jak moc myslí Rusové svoje výhrůžky vážně, a zdá se, že nejlepší odpovědí na ně je, jednoduše je ignorovat. Ostatně stejně jako ruské jaderné výhrůžky. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0gdrFEWDmNdM17g2HAoAGS4FZYzJw8eMubSfV59McMei1hGJtR6etCUbuEABdXrzCl): 
+        detail: |  
+          - Moskvu dnes v noci opět zasáhly ukrajinské útočné drony. Tentokrát to odneslo Ministerstvo hospodářského rozvoje Ruské federace sídlící v jednom z moderních věžáků. Letiště Vnukovo bylo kvůli ohrožení drony dočasně uzavřeno. Je tedy více než evidentní, že Rusové aktuálně nemají dostatek systémů PVO, aby zabránili několikasetkilometrové cestě dronů až k cílům v samotném hlavním městě. 
+          - Zástupci Mali a Burkiny Faso, dvou zemí, kterým bylo nedávno pozastaveno členství v ECOWAS (ekonomické unii západoafrických států), oznámili, že v případě vojenské intervence v Nigeru vstoupí do války na straně nigerské junty. Podporu Nigeru vyjádřila také Guinea a Libye. Rusko začalo aktivně napomáhat destabilizaci Afriky. 
+          - Podle informací na OSINT kanálech povolalo Rusko na frontu v rámci nejnovější rotace také jediný útvar speciálních jednotek, který se doposud bojů na Ukrajině neúčastnil – 14. brigádu specnaz, která byla dosud vedena jako strategická rezerva. Navíc plní na frontě úkoly běžné pěchoty. 
+          - Ukrajinské námořní drony ráno zaútočili na ruské lodě Vasyl Bykov a Sergej Kotov v Černé moři jihozápadně od Sevastopolu. Rusové tvrdí, že útoky se podařilo odrazit a všechny drony zničit. 
+          - Rusko zabavilo majetky ukrajinského oligarchy Rinata Achmetova. Ten se zároveň soudí s Ruskem o kompenzace za majetek, které mu Rusko zabavilo v okupovaných regionech Ukrajiny. 
+          - Ukrajina a Moldavsko se dohodly na výstavbě nového, 641 metrů dlouhého mostu, který překlene Dněstr a propojí obě země poblíž ukrajinského Jampilu. 
+          - Američané varovali Rusko, že jakýkoliv ozbrojený střet kterékoliv země NATO s wagnerovci bude považovaný za útok Ruska na celou Alianci. 
+          - Rusové zasáhli Charkov pomocí kamikadze dronů. Poničena byla ubytovna a sportovní areál. Prozatím se mluví o jednom raněném. 
+          - Rusko oznámilo, že bude hostit setkání se zástupci Tálibánu, na kterém se bude diskutovat boj s terorismem. Ne, to není satira. 
+          - Orbánova strana i přes původní sliby bojkotovala zasedání parlamentu, kde mělo dojít ke schválení vstupu Švédska do NATO. 
+          - Okupanti zasáhli nemocnici v centru Chersonu. Jeden člověk byl na místě zabit, další je v ohrožení života v péči doktorů. 
+          - Nové snímky potvrdily, že železniční most v Čongaru z Krymu na pevninskou Ukrajinu byl vyřazen z provozu. 
+          - Počet obětí ruského útoku na Kryvyj Rih se vyšplhal na šest a počet zraněných na 81 včetně sedmi dětí. 
+          - Podle ukrajinské rozvědky mobilizovali Rusové násilně na okupovaných územích až 60 000 lidí. 
+          - Propuštění velitelé Azovu a obránci Azovstalu se vrátí na bojiště jako součást Národní gardy. 
+          - Spojené státy se dohodly s Bulharskem a Jižní Koreou na dodání další 155mm munice. 
+          - V posledních devíti dnech zničili Rusové cíleně 180 000 tun ukrajinského obilí. 
+          - Během bojů na Ukrajině dnes padlo pět dobrovolníků z Běloruska. 
+        videa: |
+          - [Petrohrad](https://twitter.com/nexta_tv/status/1686101656310587392)
+          - [Moskva](https://twitter.com/Maks_NAFO_FELLA/status/1686310104788828161)
+          - [Znovu Moskva](https://twitter.com/front_ukrainian/status/1686312592015269889)
+          - [Dron nad Moskvou](https://twitter.com/trbrtc/status/1686200037678661632)
+          - [Přijel zabíjet, byl zabit ](https://twitter.com/KilledInUkraine/status/1685955609936465920)
+          - [Oprava Bradleyho ](https://twitter.com/front_ukrainian/status/1686270724137213952)
+          - [Bradley](https://twitter.com/Osinttechnical/status/1686126598934671360)
+          - [Třetí šturmová ](https://twitter.com/NOELreports/status/1686307118796640256)
+          - [Mínus Lancet](https://twitter.com/front_ukrainian/status/1686113474877779968)
+          - [Video z tankování, všimněte si cisterny maskované za návěs se dřevem ](https://twitter.com/UKikaski/status/1685975485413511168)
+          - [Šturm](https://twitter.com/front_ukrainian/status/1686084408619503616)
+          - [Zničená technika na začátku června](https://twitter.com/Bodbe6/status/1685983478964240384)
+          - [Mínus Tulipán](https://twitter.com/bayraktar_1love/status/1686083542671917056)
+          - [Lancet trefil atrapu](https://twitter.com/front_ukrainian/status/1686291191304769536)
+          - […a další ](https://twitter.com/noclador/status/1686329693002194945)
+          - [Kadyrovci trefili keř. V Rusku. ](https://twitter.com/Osinttechnical/status/1686232775936892928)
+          - [Práce artilerie ](https://twitter.com/front_ukrainian/status/1686097736075010048)
+          - [Archiv: Ruská loď cíleně naráží do ukrajinské v Azovském moři, 2018 ](https://twitter.com/GlasnostGone/status/1685965944328204288)
+          - [Archiv: Bitva u Chromového ](https://twitter.com/Bodbe6/status/1686093292918702080)
+          - [Rozebrání na díly (velmi citlivé!)](https://twitter.com/bigSAC10/status/1686091347218829313)
+          - [Rusové u Kreminné (citlivé!)](https://twitter.com/666_mancer/status/1686312351807500288)
       - title: "Pondělí"
         year: "31. červenec 2023"
         image: assets/img/timeline/2023-07-31.jpg
