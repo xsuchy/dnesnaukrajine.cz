@@ -38,6 +38,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "2. srpen 2023"
+        image: assets/img/timeline/2023-08-02.jpg
+        desc: |
+          Zatímco si Polsko včera připomínalo výročí Varšavského povstání, dvě nízko letící běloruské helikoptéry cíleně narušily polský vzdušný prostor u obce Białowieża, Bělorusko nejdřív incident popřelo, ale když se objevily fotky a videa, oznámilo, že čeká na reakci Polska. Polsko si kvůli tomu předvolalo běloruského velvyslance. Zároveň na sítích kolovaly fotografie, které měly zachycovat wagnerovce u polského hraničního kamene, nicméně si ukázalo, že jde o podvrh. Na fotce byl polský pohraničník, kterému kdosi digitálně upravil nášivky a vlajky na výstroji. Polsko také o incidentu informovalo NATO a přesouvá na hranice s Běloruskem další vojáky. Já jen doufám, že při příští provokaci přivítá běloruské helikoptéry v Polsku raketa země-vzduch. Ale teď už novinky: 
+        detail: |
+          - Rusové včera tvrdili, že námořní drony, které napadly jejich lodě v Černém moři, byly zneškodněny. Ukrajinci ale zveřejnili nahrávku údajného odposlechu ruských vojenských kanálů, na kterém posádka jedné z lodí žádá o evakuaci jednoho mrtvého a pětice raněných námořníků. Pokud je nahrávka pravdivá, pak minimálně jeden z dronů zasáhl jednu z lodí a pravděpodobně ji i poškodil. 
+          - Video z dronu zachytilo moment, kdy 5 raket HIMARS naváděných dronem zasáhlo ruské cvičiště na ostrově Džarylhač na jihu Chersonské oblasti. Dá se předpokládat, že při útoku utrpělo Rusko ztráty čítající až desítky mužů (některé reporty uvádí až 200 mrtvých a raněných) a několik kusů techniky. 
+          - Vladimir Putin podepsal zákon, který zakazuje používat k registraci na ruské stránky zahraniční maily. Zároveň je nově nezákonné využívat VPN k přístupu na stránky, které blokuje ruský cenzurní úřad Roskomnadzor. Rusové přitom masivně VPN využívají k přístupu z západním službám. 
+          - Rusové dnes ostřelovali a poničili skladiště obilí v Izmailu, ukrajinském přístavu v dunajské deltě, kam mířily i některé lodě, které ignorovaly ruskou námořní blokádu. 
+          - Během ruské invaze už bylo zničeno 27 muzeí, 98 historických památek, 19 pomníků, 12 knihoven a 117 duchovních míst. 
+          - Island úplně uzavřel svou ambasádu v Moskvě a požádal Rusko, aby zredukovalo počet diplomatů v Reykjavíku. 
+          - Slovensko poskytlo Ukrajině další dvě houfnice Zuzana-2, které financovaly Německo, Dánsko a Norsko. 
+          - Člověk, který byl zabit při včerejším zásahu nemocnice v Chersonu, byl mladý doktor Dmytro Bily. 
+          - Ukrajinská PVO v noci na dnešek zneškodnila 23 ruských kamikadze dronů Shahed-136/131. 
+          - Rusko nabídlo Alžírsku, že pomůže navýšit bojeschopnost alžírských ozbrojených sil. 
+          - Ukrajinci dnes zasáhli okupovaný Simferopol na Krymu a také přístav v Sevastopolu.
+          - Během bojů u Bachmutu padl americký dobrovolník a válečný veterán Jeff Jones. 
+          - Ukrajinci vytlačili ruské síly z několika pozic jižně od Avdijivky. 
+          - Ve Vuhledaru stále žije okolo stovky lidí, převážně seniorů. 
+        videa: |
+          - [HIMARS zasáhl několika raketami ruské cvičiště](https://twitter.com/Hromadske/status/1686407322325614593)
+          - [Údajný odposlech ](https://twitter.com/Seveerity/status/1686433539879817222)
+          - [Izmail](https://twitter.com/nexta_tv/status/1686646715313487872)
+          - [ATGM versus jediný ruský voják](https://twitter.com/Bodbe6/status/1686352399051448325)
+          - [Český Vampýr pracuje na frontě](https://twitter.com/front_ukrainian/status/1686659578497294337)
+          - [Útok na Kryvyj Rih](https://twitter.com/nexta_tv/status/1686415217587085312)
+          - [Mínus Pjon](https://twitter.com/bayraktar_1love/status/1686653307979177984)
+          - [Útok na budovu vojenské správy v Rusku](https://twitter.com/Hromadske/status/1686364910018838528)
+          - [Noční shoz](https://twitter.com/front_ukrainian/status/1686640991703343104)
+          - [Zasažená škola v Charkově](https://twitter.com/nexta_tv/status/1686339244573261824)
+          - [Boje u Kliščivijky](https://twitter.com/Bodbe6/status/1686481173952765952)
+          - [Gruzínci vítají autobus s ruskými turisty](https://twitter.com/visegrad24/status/1686383145070084096)
+          - [Rus natáčí útok na vlastní základnu ](https://twitter.com/front_ukrainian/status/1686679446323929088)
+          - [Ukrajinský tank pálí na ruské pozice](https://twitter.com/Bodbe6/status/1686483512784822272)
+          - [Likvidace min](https://twitter.com/front_ukrainian/status/1686649138937561088)
+          - [Evakuace pod palbou ](https://twitter.com/Bodbe6/status/1686487742673190912)
+          - [Palba na ruské pozice ](https://twitter.com/NOELreports/status/1686666508699639809)
+          - [Kořistní BPM-3](https://twitter.com/front_ukrainian/status/1686631764238712833)
+          - [První pomoc na ruských pozicích ](https://twitter.com/herooftheday10/status/1686635064203804672)
+          - [Odminování pomocí Meteoritu](https://twitter.com/front_ukrainian/status/1686357753894252544)
+          - [Trofeje ](https://twitter.com/nevedimka123/status/1686455527520223257)
       - title: "Úterý"
         year: "1. srpen 2023"
         image: assets/img/timeline/2023-08-01.jpg
