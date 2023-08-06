@@ -38,6 +38,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "6. srpen 2023"
+        image: assets/img/timeline/2023-08-06.jpg
+        desc: |
+          Na mírovou konferenci v Saúdské Arábii bylo pozváno 40 států světa, převážně těch, které si doposud udržovaly neutralitu. A zatímco Ukrajina se konference samozřejmě účastnila, Rusko vůbec pozváno nebylo. Už tento krok je sám o sobě poměrně velký zdvižený prostředníček od pořadatelské země směrem k Rusku. Konkrétní společné prohlášení států zatím vydáno nebylo, nicméně ukrajinská delegace tvrdí, že ukrajinský mírový plán, tedy integrita ukrajinského území a ukrajinská suverenita, má širokou podporu napříč zúčastněnými státy. Snad na to navážou i konkrétní kroky a tlak na Rusko. Nejhorší je, skončit jen u slov. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02EK6QmPxvNhKKaMvH6ysgw7HGkVkFwoK1tJ4scX3hrFH9EP9moizLo3WndRMNs6Ckl): 
+        detail: |
+          - Ukrajinská PVO dnes zasahovala proti desítkám raket a dronů. Celkem mělo na Ukrajinu mířit kolem 70 vzdušných cílů, z toho 27 byly kamikadze drony. Protivzdušná obrana sestřelila nejméně 17 Kalibrů a 13 raket Ch-101 a všech 27 dronů Shahed. Součástí salvy byly i ruské Kinžaly, které se nejspíš zničit nepodařilo. Většina střel mířila na Chmelnickou oblast. Zasažena byla továrna na letecké motory Motor Sich. Jedním z cílů bylo určitě i letiště, ze kterého startují ukrajinské Fencery. 
+          - Mluvčí generálního tajemníka OSN odsoudil útoky ukrajinských dronů na moskevské mrakodrapy a označil je za nebezpečnou eskalaci. Což je poměrně bizarní, když ruská strana dělá to samé už rok bez ustání a krom jaderných zbraní už „eskalovala“ úplně všechno, co mohla i jak mohla. 
+          - Lotyšsko zdůvodňuje svoje rozhodnutí vyhostit na 6 000 ruských občanů tím, že odmítají jakoukoliv integraci do lotyšské společnosti. Podle úřadů se dotčené osoby i přes několik let života v Lotyšsku odmítají naučit, byť jen základy lotyšštiny. 
+          - Ukrajinská šermířka, která si odmítla podat ruku s ruskou soupeřkou, vypověděla, že po zápase obdržela desítky zpráv, kdy ji rusky mluvící lidé ponižovali nebo jí dokonce vyhrožovali smrtí. Nic nového. 
+          - Podle ruských kanálů přestaly ruské úřady vydávat padlým wagnerovcům certifikáty o účasti ve válce na Ukrajině. Jejich příbuzní tak nemají nárok na benefity a finanční kompenzace. 
+          - Mládě tygra, které Rusové ukradli z mariupolské zoo, umřelo v moskevském cirkusu. A to je v podstatě všechno, co o tomhle střetu dvou civilizací potřebujete vědět.
+          - Ukrajinská armáda kontroluje nejméně polovinu Kliščijivky. Přičemž druhou polovinu má pod palebnou kontrolou. 
+          - Ruského zpěváka Šamana zachytilo video, jak zdraví své fanoušky zdviženou pravicí v duchu jeho životních vzorů.
+          - Rusové svrhli leteckou pumu na transfuzní centrum v Kupjansku. Na místě jsou mrtví i ranění.
+          - Polsko zvažuje, že úplně uzavře hranice s Běloruskem ve světle posledních událostí. 
+          - Ukrajinci odrazili pokus Rusů o lokální protiofenzivu poblíž obce Robotyne. 
+          - Rusové tvrdí, že se zmocnili Novoselivského, západně od Svatového. 
+          - Nad ruskou Tulou a Kalugou dnes zasahovala protivzdušná obrana. 
+          - Doněckem v noci otřáslo několik explozí.
+        videa: |
+          - [Šaman hajloval před fanoušky](https://twitter.com/ruinwanderer/status/1687887786647396352)
+          - [Ukrajinci zasáhli doněckou univerzitu ](https://twitter.com/nexta_tv/status/1688067302099505152)
+          - [Mínus muničák](https://twitter.com/NOELreports/status/1688107268707934208)
+          - [Námořní dron postrašil plaváčky v Sevastopolu](https://twitter.com/nexta_tv/status/1687772707591475200)
+          - [Mínus muničák](https://twitter.com/EuromaidanPress/status/1687998674545278976)
+          - [Leo](https://twitter.com/front_ukrainian/status/1687828456799612929)
+          - [Rusové ostřelují ukrajinské pozice za Konkou](https://twitter.com/NOELreports/status/1687831992702791680)
+          - [Kazetová munice](https://twitter.com/front_ukrainian/status/1687828456799612929)
+          - [Drony zastavily útočící Rusy](https://twitter.com/NOELreports/status/1687821590388781056)
+          - [Drony versus bunkry](https://twitter.com/nevedimka123/status/1688080400956968960)
+          - [Ruské pozice (citlivé)](https://twitter.com/herooftheday10/status/1687887416562999296)
+          - [Na ruských pozicích (citlivé!)](https://twitter.com/nevedimka123/status/1688095666059255808)
+          - [Na cvičišti ](https://twitter.com/Militarylandnet/status/1687780322723708928)
+          - [Odminovací nálož](https://twitter.com/AlexRaptor94/status/1687984232822374400)
       - title: "Sobota"
         year: "5. srpen 2023"
         image: assets/img/timeline/2023-08-05.jpg
