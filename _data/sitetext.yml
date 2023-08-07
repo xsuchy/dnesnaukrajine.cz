@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "7. srpen 2023"
+        image: assets/img/timeline/2023-08-07.jpg
+        desc: |
+          Na ruských kanálech jeden z vojenských blogerů publikoval historku, která se měla stát v posledních dnech poblíž obce Robotyne, kde Ukrajinci vedou jeden ze svých útoků. Její pravdivost se nedá nezávisle ověřit a ukrajinská strana ji zatím nijak nekomentovala (když pomineme výsměch a gratulace z neoficiálních míst), nicméně Rusové obvykle zveličují pouze svoje úspěchy, nikoliv svá selhání. Podle zprávy měl jeden z ruských velitelů nechat převléknout celou jednu četu do ukrajinských uniforem a vyslat ji za nepřátelské linie (převlékání se do uniforem nepřítele je mimochodem válečný zločin). Nicméně velitel o svém plánu dostatečně neinformoval ostatní jednotky v okolí nebo komunikace nefungovala, a tak se stalo, že převlečené Rusy „odhalil“ ruský dron a zaměřil na ně dělostřeleckou palbu. Jen při ní mělo zahynout 32 vojáků. Aby se ale nasypal do rány pěkný kopec soli, Ukrajinci reagovali na příchozí granáty protibaterijní palbou a pokryly ruskou dělostřeleckou pozici kazetovou municí, následkem čehož mělo zahynout dalších 19 vojáků a další utrpěli těžká zranění. Velitel, který „geniální“ plán vymyslel, prý po zjištění výsledku dezertoval a je stále na útěku. Zdá se to přitažené za vlasy? Možná, pokud nesledujete vše, co se na Ukrajině děje. Bohužel (nebo spíš bohudík?) je dost dobře možné, že se to stalo. Třeba se brzy dozvíme víc. Teď [pár potvrzených zpráv](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0VSbjNm5WmooDJirVhSyyge2dDYpaSE4FFAypgRSsQq46PRUYv5eeLtRo5bfPH8iFl): 
+        detail: |
+          - Mluvčí Kremlu Peskov prohlásil v rozhovoru pro New York Times, že ruské prezidentské volby „nejsou skutečná demokracie, ale jen drahá byrokracie“. Putin podle něj opět vyhraje s více než 90 % hlasů. Později svá slova popřel s tím, že novináři špatně interpretovali jeho výrok. Podle toho, jak vypadaly volby v Rusku v minulých letech, novináři interpretovali jeho výrok naprosto přesně. 
+          - Medveděv komentoval mírový summit v Saúdské Arábii. Vysmál se celé akci s tím, že mírový summit bez Ruska nemá smysl, a prohlásil, že podmínky pro mírové rozhovory beztak ještě naplněny nebyly, protože je podle něj potřeba, aby „Ukrajina nejprve prosila o milost“. 
+          - Ukrajinské ministerstvo obrany uvedlo, že Rusové se opakovaně v minulých týdnech snažili zasáhnout a vyřadit ukrajinské letectvo, nicméně Ukrajincům se prozatím vždy podařilo přemístit letadla dříve, než rakety dosáhly cíle. 
+          - Ruská propagandistka Skabajevová ve svém pořadu tvrdila, že při průzkumu, který dělali tvůrci pořadu na ukrajinských sociálních sítích, objevili zhruba 284 000 úmrtních listů souvisejících s válkou na Ukrajině. Projekce?
+          - Ukrajinci včera zasáhli a poničili dva mosty spojující Krym a Cheronskou oblast – Čongarský most a Heničevský most. Na prvním zmíněném rakety prorazily vozovku, druhý se dokonce částečně zřítil. 
+          - K třetímu srpnu Rusko na oficiálních kanálech informovalo o zničení celkem už 458 ukrajinských stíhaček a 245 helikoptér. Což je celé ukrajinské letectvo. Třikrát. 
+          - V Německém parlamentu údajně došlo ke shodě vládnoucích stran a je tak otevřena cesta k poskytnutí střel Taurus Ukrajině. 
+          - Ukrajinští vojáci objevili v troskách jedné z ruských raket ze systému Tornado-S vyrobené v únoru 2023 počítačové součástky z Číny.
+          - Podle velitele tavrijské skupiny svrhli Rusové na ukrajinské pozice chemické látky pomocí Gradů. Nikdo naštěstí nebyl raněn. 
+          - Česko poskytlo Ukrajině simulátor pro výcvik pilotů na strojích F-16. Vyzkoušet ho byl už i sám prezident Zelenský.
+          - Devět občanů Slovenska obdrželo od prezidentky Čaputové povolení sloužit v ukrajinských ozbrojených silách. 
+          - Ruské vedení prohlásilo, že stojí pouze o ta území, která jsou "ruská podle ruské Ústavy". Eh.
+          - 22 ukrajinských zajatců se vrátilo domů při poslední výměně.
+          - ZSU vstoupily ze dvou směrů do obce Urožajne. 
+          - Ukrajina obdržela francouzské rakety SCALP.
+        videa: |
+          - [Zelenský o „ruském světě“](https://twitter.com/cryptodrftng/status/1688074317559726080)
+          - [Ukrajinský voják k Solovjovovi](https://twitter.com/nikorepi/status/1688264590818258944)
+          - [Zastavený ruský útok u Luhansku](https://twitter.com/worldonalert/status/1688211227720204288)
+          - [Rusové ukryli minu do panáčka pro zpomalování dopravy](https://twitter.com/Lyla_lilas/status/1688123927279677440)
+          - [Rusové natočili zastrašování ukrajinského zajatce (citlivé!)](https://twitter.com/666_mancer/status/1688281069466869760)
+          - [Hodně slušná trefa](https://twitter.com/front_ukrainian/status/1688436486029377537)
+          - [Velmi, velmi, velmi nízký průlet](https://twitter.com/Feher_Junior/status/1688106745472638976)
+          - [WTF? Ukrajinská posádka utopila vlastní tank u Makarivky](https://twitter.com/NOELreports/status/1688441735624429568)
+          - [Co se učí děti v okupovaném Mariupolu](https://twitter.com/nexta_tv/status/1688125843971645440)
+          - [Trefa!](https://twitter.com/front_ukrainian/status/1688502280251740160)
+          - [V Rusku opět hoří tisíce hektarů lesů ](https://twitter.com/nexta_tv/status/1688468827112116224)
+          - [Rusové chtěli nabít dělo ](https://twitter.com/front_ukrainian/status/1688489636195147776)
+          - [Hořící Bradley, nejspíš starší video ](https://twitter.com/NOELreports/status/1688530486065287168)
+          - [Ruský tank našel u Marjinky minu](https://twitter.com/front_ukrainian/status/1688258301736185856)
+          - [Bonus: Z přehlídky v Bělorusku odešlo dělo po svých ](https://twitter.com/SkyAboveUkraine/status/1687857746073260033)
       - title: "Neděle"
         year: "6. srpen 2023"
         image: assets/img/timeline/2023-08-06.jpg
