@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "8. srpen 2023"
+        image: assets/img/timeline/2023-08-08.jpg
+        desc: |
+          Ruská propaganda se snaží oživit svoji loňskou dezinformační kampaň, kdy publiku na Západě tvrdila, že žádná válka na Ukrajině není a vše je jeden velký podvod. Metoda je naprosto totožná: proruské účty šíří opět dva druhy sdělení. Jeden obsahuje videa z normálního života v Kyjevě (aktuálně například noční život v metropoli nebo kyjevská koupaliště) a snaží se vyvolat dojem, že když se lidi můžou bavit, tak netrpí válkou. Ten druhý jsou pak jednoduché otázky jako „kde jsou nějaká videa nebo fotky dokazující, že se na Ukrajině opravdu válčí“ (přestože internet přetéká takovými materiály, protože jde díky chytrým telefonům o nejlépe zdokumentovanou válku v historii lidstva) šířené tisícovkami falešných, ale bohužel i skutečných účtů. Chcete vidět fotky a videa? Tady je denně máte. Ale na vás si beztak ruská propaganda dávno nepřijde. Tak pojďme [na novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid021KYbihDJ9Cfz682Z9rcYfirxDipyRKi5FDjJDLtmWyyMatV3845a3EeTZFGGb7Pcl): 
+        detail: |
+          - Rusové včera zasáhli raketami ukrajinský Pokrovsk, zhruba 50 km od fronty. Zničena byla budova restaurace a přilehlé bytovky. Rusové tvrdí, že zasáhli „hotel se zahraničními žoldáky a restauraci, kde se scházeli“. Z fotek je ale patrné, že žádný hotel zasažený nebyl, a naopak existují desítky fotek civilistů, kteří byli při útoku raněni. Ruská tvrzení jsem se dokonce pokusil ověřit na mapách, a ani jeden ze čtyř hotelů v Pokrovsku nevypadá jako budovy na fotkách a videích. Z ruské strany jde tedy opět o lež. Lež, při které zahynulo nejméně 7 lidí a 67 bylo zraněno. Mezi zabitými je pět civilních obětí, jeden záchranář a jeden voják. 
+          - Polská pohraniční stráž požádala ministerstvo obrany, aby vyslalo dalších 1 000 vojáků na hranice s Běloruskem. K hranicím totiž míří další vlna nelegálních migrantů, kterou organizují běloruští pohraničníci. Lotyši dokonce ukázali fotografie, jak běloruští pohraniční prostříhali díry v plotech, kterými poté prováděli migranty do Evropy. Bělorusko navíc zahájilo vojenská cvičení u hranic s Litvou a Polskem poblíž Suvalského koridoru. 
+          - Na konci mírového summitu v Saúdské Arábii se zúčastněné státy nedokázaly shodnout na všech bodech ukrajinského mírového plánu. Údajně panuje široká shoda na požadavcích na teritoriální integritu a suverenitu Ukrajiny, ale státy se rozchází v otázkách trestání ruského vedení za válečné zločiny. Tyto body plánu zpochybňují hlavně státy na jižní straně zeměkoule. 
+          - „Paša Mercedes“, Ruskem podporovaný pop ukrajinské pravoslavné církve moskevského patriarchátu, byl propuštěn z vyšetřovací vazby na kauci, která činí v přepočtu okolo 20 miliónů korun. Pro jistotu opakuji informaci ještě jednou: Duchovní pravoslavné církve byl schopný složit kauci 20 miliónů korun. Asi kvalitní byznys. 
+          - Severokorejští hackeři se nabourali do sítí ruského výrobce raket a několik měsíců v něm těžili informace. Severní korea následně upravila svůj raketový program, nejspíš právě na základě vytěžených informací. 
+          - Ruská pátá kolona v Česku šíří video, na kterém podle ní Ukrajinci kapitulují. Ve skutečnosti jde o video z dronu, který dohlížel na nedávnou výměnu zajatců na východě Ukrajiny. 
+          - V tureckém přístavu Derince explodovalo skladiště obilí během nakládání. 10 lidí bylo zraněno a zničeny byly potenciálně až desítky tisíc tun obilí. 
+          - Ruský Roskomnadzor začal masově blokovat VPN protokoly, aby znemožnil Rusům přístup na zahraniční weby a „závadné“ stránky. 
+          - Zelenský varoval Rusy, že pokud bude pokračovat blokáda Černého moře, bude na konci války Rusko bez lodí. 
+          - Ukrajinci podle ruských kanálů překročili Dněpr na dalších místech u Chersonu a obsadili první linii ruské obrany. 
+          - Ukrajinci sestřelili ruský Ka-52 Aligator nad frontovou obcí Robotyne. 
+          - Ukrajina navýšila produkci ATGM Stugna-P na čtyřnásobek. 
+          - Už 29 dobrovolníků z USA padlo v bojích na Ukrajině. 
+        videa: |
+          - [Ukrajinský tank přežil dva zásahy z RPG](https://twitter.com/Seveerity/status/1688643569534279680)
+          - [Život v Rusku](https://twitter.com/Gerashchenko_en/status/1688460291909005312)
+          - [Ruský voják sám sebe zmrzačil pomocí RPG](https://twitter.com/bigSAC10/status/1688597786504183810)
+          - [Ukrajinský výpad přes Dněpr ](https://twitter.com/WarFrontline/status/1688587258855669772)
+          - [Silo v Turecku](https://twitter.com/BernieSpofforth/status/1688536718465462272)
+          - [HIMARS versus dělo](https://twitter.com/EuromaidanPress/status/1688642549680934912)
+          - [Pokrovsk](https://twitter.com/ZelenskyyUa/status/1688602975860609024)
+          - [Znovu Pokrovsk](https://twitter.com/maria_avdv/status/1688607196416761857)
+          - [V Rusku dochází k raziím a zatýkání v muslimských komunitách](https://twitter.com/visegrad24/status/1688531136002015232)
+          - [M777 na pozici](https://twitter.com/Osinttechnical/status/1688656612561498112)
+          - [Češi na Ukrajině](https://twitter.com/FundPerun/status/1688584160863260672)
+          - [Bývalá ruská základna](https://twitter.com/Feher_Junior/status/1688292079607107584)
+          - [Trofejní tank ](https://twitter.com/front_ukrainian/status/1688854517180215296)
+          - [Evakuace z fronty](https://twitter.com/Bodbe6/status/1688556915670822912)
+          - [Ruské zákopy](https://twitter.com/PStyle0ne1/status/1688851843391090689)
+          - [Noční sběr](https://twitter.com/Ukraine_Twi/status/1688781580544729088)
+          - [Trofeje](https://twitter.com/nevedimka123/status/1688528001342832640)
       - title: "Pondělí"
         year: "7. srpen 2023"
         image: assets/img/timeline/2023-08-07.jpg
