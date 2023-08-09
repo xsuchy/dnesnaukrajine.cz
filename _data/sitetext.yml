@@ -38,6 +38,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa."
+        year: "9. srpen 2023"
+        image: assets/img/timeline/2023-08-09.jpg
+        desc: |
+          Včera před 15 lety vstoupily ruské invazní síly do Gruzie, několik dní poté, co neoznačení vojáci – ve skutečnosti ruské speciální jednotky – přišli „na pomoc utlačované ruské menšině“ v nikým neuznané Jižní Osetii. Scénář stejný jako na Ukrajině. Ale ani tehdy to nebylo poprvé. Rusové už si ho úspěšně vyzkoušeli o 18 let dříve v Moldavsku. A stejně jako dnes, už tehdy Rusko vojákům tvrdilo, že se Gruzie zmocnili fašisti – ostatně jako už o 40 dříve při invazi do Československa. Sovětský svaz i jeho oficiální pokračovatelský stát Rusko si pohádkami o fašistech jednoduše ospravedlňovalo téměř každou vojenskou agresi, protože mýtus o vítězství nad fašismem je důležitou součástí ruské identity. O tom, že druhá světová válka začala spojenectvím nacistického Německa a Ruska, se ovšem důsledně mlčí. I o tom, co to ten fašismus vlastně je. Bohužel. Ale teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid038Ge3ckgPAQ2sYtoTm9HYsUY8GzJKYMzaanCaojiFpK8Tm4pQUSqXAaGHxWCq2UVRl): 
+        detail: |
+          - O působení wagnerovců v Bělorusku aktuálně kolují různé, často protichůdné informace. Podle běloruských partyzánů se údajně staví nový tábor pro wagnerovce poblíž Homelu, na jihovýchodě Běloruska poblíž hranic s Ukrajinou. Analytici z OSINT komunity ale naopak tvrdí, že wagnerovce odváží autobusy do Rostova a Krasnodaru, protože Lukašenko odmítá platit jejich pobyt v Bělorusku a Moskva se k financování jejich přítomnosti také nemá. Část wagnerovců pak na základě kontraktů odjela do Sýrie. 
+          - Podle agentury AP News s odkazem na ruský vládní dokument plánovalo Rusko vytvořit 25 nových trestaneckých kolonií na okupovaných územích Ukrajiny. V článku se také uvádí, že Rusové nechávali zadržené civilisty oblečené do ruských uniforem kopat zákopy, a dělali z nich tak potenciální cíle pro ukrajinské drony a artilerii. Jiné vězně nechávali Rusové kopat společné hroby, a ty Ukrajince, kteří nucené práce odmítli, u hrobů rovnou vojáci postříleli. 
+          - Ukrajinské – nejspíš speciální – jednotky podnikly úspěšný výpad za Dněpr, při kterém se zmocnily rádiové stanice Rusů a vlákaly další ruské jednotky do léčky falešným voláním o poskytnutí posil. Ruské kanály mluví o desítkách zabitých nebo zajatých Rusů. Navíc ruští blogeři tvrdí, že zajatci měli u sebe mobilní telefony s plány ruských opevnění na celém levém břehu Dněpru. 
+          - Velká exploze zničila závod Zagorsk v ruském městě Sergijev Posad. Vyráběla se v něm nejrůznější optická zařízení, hledí a zaměřovače včetně termovizorů nebo okulárů pro noční vidění. Podle místních úřadů explodoval v areálu sklad pyrotechniky, který si pro tyto účely od závodu pronajímala soukromá firma. Podle videí ale ve skladu byla mimo jiné dělostřelecká munice. 
+          - Tajemník ukrajinské bezpečnostní rady Danylov tvrdí, že Prigožinův puč byla akce zosnovaná samotným Putinem, která měla za cíl odhalit potenciální zrádce v řadách ruských důstojníků. Desítky jich už byly zadrženy. 
+          - Ruská výsadková loď Oleněgorský Gorňak, kterou zasáhl ukrajinský dron, je v suchém doku v Novorossijsku. Podle některých expertů je ale pravděpodobně poškozena tak, že možná nepůjde vůbec opravit. 
+          - Ukrajinská SBU zastavila pokus ruských hackerů o nabourání se do struktur ukrajinské armády. Hackeři údajně sázeli na telefony nebo tablety zajatých ukrajinských vojáků, z nichž se pokoušeli do sítí vlámat.  
+          - Rusko rozeslalo do škol nové učebnice moderní historie, přičemž se chlubí, že kompletně přepsalo látku týkající se posledních zhruba padesáti let a přidalo oslavné kapitoly o „speciální vojenské operaci“. 
+          - Putin předložil ruské státní Dumě ke schválení nové dodatky Ústavy, které zbavují Rusko povinnosti informovat OSN a Radu Evropy o případném vyhlášení stanného práva nebo stavu ohrožení v Rusku. 
+          - Profesor Fedir Šandor, Ukrajinec maďarského původu, který na začátku invaze vstoupil do armády a poté učil své univerzitní studenty na dálku přímo ze zákopů, bude novým velvyslancem v Maďarsku. 
+          - Německý koncern Rheinmetall nakoupil 50 tanků Leopard 1 od belgické zbrojovky. Nejméně 30 z nich po technických úpravách a vylepšeních odcestuje na Ukrajinu. 
+          - Oleksij „Tichy“ Najda, také zvaný „Terminátor“, který se proslavil likvidací celé skupiny útočících Rusů na ukrajinské zákopy na jednom z videí z Bachmutu padl v boji. 
+          - Itálie pozastavila program tzv. „zlatých víz“ pro občany Ruska a Běloruska, které hojně využívali právě ruští oligarchové a jejich děti. Neuvěřitelné, že až teď. 
+          - Rusko opět tvrdí, že Polsko chce okupovat západní Ukrajinu a později ji připojit k Polsku. Míra projekce je mezi ruskými představiteli neuvěřitelná. 
+          - Švédská společnost Satcube poskytla Ukrajině 100 kusů mobilních terminálů pro satelitní internet. 
+          - Rusko hlásí, že zničilo dva útočné drony, které dnes v noci mířily na Moskvu. 
+          - Spojené státy daly zelenou výcviku ukrajinských pilotů na strojích F-16.
+        videa: |
+          - [Exploze fabriky v Rusku](https://twitter.com/nexta_tv/status/1689191882184654848)
+          - [Ruský pop o Ukrajincích ](https://twitter.com/delToro_Fella/status/1689080770328252417)
+          - [Ruskou diverzní skupinu odhalil dron a…](https://twitter.com/front_ukrainian/status/1689181431304445952)
+          - [Zničená ruská technika při přepadu za Dněprem ](https://twitter.com/Danspiun/status/1689229483050475520)
+          - [Pokrovsk minuty po zásahu raketami ](https://twitter.com/nexta_tv/status/1688878384070184961)
+          - [Su-25 ](https://twitter.com/EuromaidanPress/status/1688995996083294210)
+          - [Ruský zajatec o nacistech ](https://twitter.com/Fbeyeee/status/1689182391250653184)
+          - [Velký počet zajatých Rusů ](https://twitter.com/region776/status/1689204937488797696)
+          - [Kazetovka](https://twitter.com/Azovsouth/status/1689166054356910080)
+          - [Američan v ZSU](https://twitter.com/11Knuk123/status/1689018567784538112)
+          - [Neúspěšný útok námořního dronu](https://twitter.com/front_ukrainian/status/1689175943330295808)
+          - [Vykuk](https://twitter.com/visegrad24/status/1689002209487257601)
+          - [Mínus dva tanky](https://twitter.com/region776/status/1689243867114250240)
+          - [3. šturmová](https://twitter.com/front_ukrainian/status/1689247023579484160)
+          - [Zkusil to ](https://twitter.com/worldonalert/status/1689209595636379649)
       - title: "Úterý"
         year: "8. srpen 2023"
         image: assets/img/timeline/2023-08-08.jpg
