@@ -38,6 +38,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "10. srpen 2023"
+        image: assets/img/timeline/2023-08-10.jpg
+        desc: |
+          Včera uplynuly tři roky od chvíle, kdy Ruskem podporovaný diktátor Lukašenko nechal zfalšovat prezidentské volby a po letech vládnutí se opět nelegálně chopil moci v zemi. Následné masové protesty brutálně potlačily jím ovládané bezpečnostní složky a stovky lidí byly uvězněny, zatímco jiní za podivných okolností zemřeli. Dva roky nato poskytl Lukašenko Putinovi svoje území pro spuštění nelegální invaze do Ukrajiny. Lukašenko by přitom dávno nebyl u moci nebýt klíčové podpory z Putinova Ruska. Prohra Rusů na Ukrajině tak může snadno znamenat i konec Lukašenka a návrat Běloruska mezi světové demokracie. Zároveň je pravděpodobné, že konec Lukašenka by uspíšil konec války. A jak Putin, tak Lukašenko si to nejspíš dobře uvědomují. Nicméně [pojďme na novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid023AMWQcGBcFXktMMmBYRnQBd7WVgHyEihJoovFSCE813fKmLwdgcxjaZAKzCm7agRl): 
+        detail: |
+          - Ruský důstojník popsal v textu na Telegramu, jak si ruská armáda vytvořila kulturu lží, kdy se všichni od nejnižších důstojníků až po velitele sborů podílí na vytváření zpráv o údajných úspěších ruské armády a zničené ukrajinské technice, aby uspokojili nejvyšší velení. Zároveň nikdo nechce reportovat neúspěchy nebo poukazovat na nepravdivé zprávy, protože by se společně s tím zhroutil celý systém. 
+          - Nová učebnice historie pro ruské školy obsahuje také kapitolu o Koněvovi, kde se mimo jiné píše, že Koněv zabránil bombardování Prahy, za což mu vděční Pražané vztyčili sochu, kterou ale současné vedení nechalo strhnout. 
+          - Více než 70 budov bylo poničeno v ruském městě Sergijev Posad, kterým včera otřásl masivní výbuch v areálu závodu na výrobu optiky a pokročilé elektroniky. Úřady také mluví o 35 obětech a 12 pohřešovaných. 
+          - Ukrajina oznámila dočasný koridor pro civilní lodě plující z ukrajinských přístavů. Zároveň ale varovala, že trasy můžou být Rusy zaminované. 
+          - Jaderná elektrárna v Záporoží se v noci opět na chvíli ocitla bez proudu a musela být přepojena na náhradní zdroj. 
+          - Rusko poslalo do vězení dalšího aktivistu. Igor Baryšnikov si odsedí 7,5 roku za „šíření fake news o ruské armádě“. 
+          - Ukrajina předala Spojeným státům první podrobný report efektivity kazetové munice na bojišti. 
+          - Rubl se propadl na historické minimum. Za jedno euro momentálně koupíte více než 107 rublů. 
+          - Rusové zesilují svoje útoky ve směru na Kupjansk. V oblasti je velmi aktivní ruské letectvo. 
+          - Nejméně tři lidé zemřeli při včerejším ostřelování obydlené čtvrti v Záporoží.
+          - Německo poskytlo Ukrajině další dva odpalovače pro systém PVO Patriot. 
+          - Polsko pošle na hranice s Běloruskem celkem 10 000 vojáků. 
+          - Ruský dron zničil skladiště paliv v ukrajinském Rivném. 
+        videa: |
+          - [Ruská propaganda na českém Tik Toku pro české děti ](https://twitter.com/poplasny/status/1688989900824068096)
+          - [Trefa snajpra](https://twitter.com/region776/status/1689511472924385280)
+          - [Medik sestřelil dron, který útočil na jeho evakuační vozidlo](https://twitter.com/EuromaidanPress/status/1689534447228522499)
+          - [Mobíci se stěžují, že je neplatí ](https://twitter.com/wartranslated/status/1689391019257663488)
+          - [Český Vampýr na ruské pozice](https://twitter.com/Maks_NAFO_FELLA/status/1689286763921997824)
+          - [Mínus tank](https://twitter.com/region776/status/1689586111440670720)
+          - [3. šturmová](https://twitter.com/NOELreports/status/1689571844871860224)
+          - [Mínus dvojice ruských snajprů](https://twitter.com/region776/status/1689583168918376448)
+          - [Trofejní BMP](https://twitter.com/front_ukrainian/status/1689547750214352896)
+          - [Počítání tref](https://twitter.com/herooftheday10/status/1689569531033735168)
+          - [Ruská kazetová munice](https://twitter.com/region776/status/1689571534443323392)
+          - [Mínus skupina pilotů dronů](https://twitter.com/nevedimka123/status/1689549147437711360)
+          - [Poláci v legii našli minu](https://twitter.com/front_ukrainian/status/1689297776734011392)
+          - [Pár tref dronem (citlivé!)](https://twitter.com/region776/status/1689554050185056256)
+          - [Česká Dana](https://twitter.com/front_ukrainian/status/1689556801165910016)
+          - [Trefa!](https://twitter.com/region776/status/1689528930381045761)
+          - [Evakuace posádky vozidla](https://twitter.com/Bodbe6/status/1689308501737152512)
+          - [Mínus Grad s posádkou](https://twitter.com/region776/status/1689451625633796096)
+          - [Kupředu](https://twitter.com/nevedimka123/status/1689566855625613312)
+          - [Trefa!](https://twitter.com/herooftheday10/status/1689529531726462978)
       - title: "Středa."
         year: "9. srpen 2023"
         image: assets/img/timeline/2023-08-09.jpg
