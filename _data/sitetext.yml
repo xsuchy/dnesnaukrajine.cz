@@ -38,6 +38,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "11. srpen 2023"
+        image: assets/img/timeline/2023-08-11.jpg
+        desc: |
+          Ukrajinské síly prolomily ruskou obranu u města Robotyne a vstoupily do města. Rusové hlásí těžké ztráty kvůli špatné koordinaci obrany. Někteří velitelé prý dokonce nechali pěchotu jít přes vlastní minová pole, aby se pokusili odrazit ukrajinský útok. V bojích padl na ruské straně také kapitán FSB Roman Debelov. Rusové se naopak pokouší prolomit ukrajinskou obranu u Kupjansku. Ukrajinské úřady proto začaly s evakuací civilistů z potenciální válečné zóny. Dnes se ale objevily informace, že ukrajinské síly tu zahájily poměrně silný protiútok a vypadá to tedy, že minimálně prozatím se Rusům prolomit obranu nepodaří. Situace je tu ale složitá. Zároveň se objevují informace o dalších ukrajinských útocích za Dněpr. Jedna ze skupin ukrajinských speciálních jednotek dokonce podnikla úspěšnou akci poblíž Kachovky, což je už minimálně čtvrté místo u břehů Dněpru, kde se podařilo řeku překročit a provést průzkum bojem. A taky se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid031KKzfF1645PJsdm1i3sCZMZyp8HhrWkiiZ4sPxFBirhuDAxqcfVmbNjkJueKUM2Ql):
+        detail: |
+          - Několik ruských raket opět zasáhlo Záporoží. Cílem byl hotel Reikartz, kde se v minulosti ubytovávali převážně západní novináři, humanitární pracovníci a poradci včetně delegací z OSN, které z něj organizovali evakuaci civilistů z Mariupolu. Hlášen je jeden zabitý člověk a 16 raněných. 
+          - Ruská agentura RIA Novosti přišla s další neuvěřitelnou propagandou. Podle zprávy ukrajinská armáda tajně prodává těla padlých Rusů do Egypta, kde se z těl vyrábí falešné starověké mumie pro následný prodej sběratelům po celém světě. Hádám… faraon Tutanchujlo? 
+          - V rafinérii v běloruském Mozyru vypuknul včera malý požár, který ale hasiči zvládli poměrně rychle uhasit. Je to přitom zhruba deset dní, co ukrajinské tajné služby oznámily, že mají informace o tom, že Rusové chystají v rafinérii sabotáž, aby zatáhli Bělorusko do války. 
+          - Zelenský oznámil další velký krok k vymýcení korupce, tentokrát na vojenských komisariátech a v náborových centrech. Propuštěni budou všichni oblastní komisaři a nahradí je veteráni, kteří kvůli nejrůznějším zdravotním limitacím nemůžou dál sloužit na frontě.
+          - Podle ISW plánuje Rusko de facto znárodnit ruského internetového giganta Yandex před příštími prezidentskými volbami. Jeho zakladatel a majitel nedávno odsoudil ruskou invazi na Ukrajinu. 
+          - Státy ECOWAS se připravují na vojenskou intervenci v Nigeru. Pro-rusky orientovaná junta v Nigeru na konto oznámila, že pokud cizí vojska překročí hranice, pak popraví legitimního prezidenta. 
+          - Německo nejspíš nakonec přeci jen dodá Ukrajině rakety Taurus. Upraví ale naváděcí program tak, aby s raketami nešlo zasahovat cíle na ruském území. 
+          - Polský prezident Duda prohlásil, že Ukrajina pravděpodobně stále nemá dost zbraní na to, aby zvrátila poměr sil v probíhající válce. 
+          - Ázerbájdžán navýší pomoc Ukrajině a nabídl, že vycvičí specialisty na odminovací práce. 
+          - Ruská raketa zasáhla bytovku u Ivano-Frankivsku. Na místě zemřel osmiletý chlapec. 
+          - Microsoft přestane od 30. září nabízet aktualizace softwaru uživatelům v Rusku. 
+          - Rusko začalo používat na Ukrajině severokorejskou munici do Gradů. 
+          - Několik dronů opět dopadlo na Moskvu. 
+        videa: |
+          - [Zásah hotelu Reikartz](https://twitter.com/Tendar/status/1689941179540951040)
+          - [Korupce v praxi: ruská masová konzerva](https://twitter.com/intermarium24/status/1689732601026609152)
+          - [Mobící si zase stěžují ](https://twitter.com/wartranslated/status/1689912145251639297)
+          - [Exploze dronu v Moskvě](https://twitter.com/nexta_tv/status/1689941663043497984)
+          - [Bohdana](https://twitter.com/front_ukrainian/status/1689883596117393408)
+          - [Mínus Uragán](https://twitter.com/UAloveLEOPARD/status/1689653676456185856)
+          - [Na cestě za Dněpr](https://twitter.com/KyivIndependent/status/1689989556982984704)
+          - [Evakuace](https://twitter.com/Bodbe6/status/1689999543192985600)
+          - [Mozyr ](https://twitter.com/Hromadske/status/1689614912148942849)
+          - [Polem nepolem ](https://twitter.com/Osinttechnical/status/1689850376160505856)
+          - [Ruský tank najel na vlastní minu](https://twitter.com/Bodbe6/status/1689632335229272064)
+          - [Rusové se pokusili sestřelit dron ](https://twitter.com/getty776/status/1689969556486520832)
+          - [Mínus tank](https://twitter.com/front_ukrainian/status/1689941273421950976)
+          - [Mínus T-90](https://twitter.com/getty776/status/1689970622104010753)
+          - [Robotyne](https://twitter.com/front_ukrainian/status/1689900194857357312)
+          - [Minomet](https://twitter.com/Bodbe6/status/1690000873340981248)
+          - [Díra v ruském tankeru](https://twitter.com/front_ukrainian/status/1689701223002222592)
+          - [Ukrajinský jeep najel na minu](https://twitter.com/Bodbe6/status/1689999013817225217)
+          - [Bum ho!](https://twitter.com/UAloveLEOPARD/status/1689819594003795968)
+          - [O fous](https://twitter.com/Bodbe6/status/1689645890863337472)
       - title: "Čtvrtek"
         year: "10. srpen 2023"
         image: assets/img/timeline/2023-08-10.jpg
