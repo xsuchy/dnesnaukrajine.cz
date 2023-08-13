@@ -38,6 +38,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+     - title: "Neděle"
+        year: "13. srpen 2023"
+        image: assets/img/timeline/2023-08-13.jpg
+        desc: |
+          Ukrajinské jednotky rozšířily svoji přítomnost u obce Kozači Laheri na levém břehu Dněpru. Co původně vypadalo jako pouhé diverzní akce, se postupně mění v regulérní předmostí odkud Ukrajinci podnikají další výpady do okolí. Podle Rusů míří přes Dněpr „loď za lodí“ přivážející už nejenom příslušníky SOF, ale také vojáky z teritoriální obrany. Pokud je to pravda, pak se nejspíš Ukrajinci pokouší po několika týdnech průzkumu otevřít novou frontu na jihu Ukrajiny. To by mohlo silně zatopit Rusům u Záporoží, protože právě tam nedávno Rusové přesunuli od Chersonu svoje elitní sbory a teď budou postaveni před dilema, který směr s pomocí nich bránit, aby se fronta nezhroutila, než se podaří dostat na Ukrajinu další mobilizované posily. Navíc se objevilo video, na kterém ruský major, kterého Ukrajinci nedávno zajali během úspěšné léčky, předává Ukrajincům informace o ruských opevněních v oblasti. Teď jen musíme věřit, že se Ukrajincům povede předmostí udržet. Levý břeh Dněpru je klíčem, který otevírá cestu na Krym. A pak se [děje ještě tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02njUPQeGjtuUGDufuvtKYbq7mECK1xgFdhMov1HUKWZ5AWozKFjcZLYFYFsmv4Yel): 
+        detail: |
+          - Proruská pátá kolona svolává po republice demonstrace namířené proti Ukrajincům poté, co v posledních dnech došlo ke dvěma násilným činům, které měli spáchat občané Ukrajiny. Doufám, že se vše řádně vyšetří a případný pachatel dostane trest, jaký si zaslouží. Chystané demonstrace ovšem nejsou projevem touhy po spravedlnosti, ale kmenovitosti, nenávisti a pokrytectví. V Česku se průměrně za rok ohlásí až 700 případů znásilnění, přičemž skutečný počet znásilnění je podle Amnesty International až 12 000. Češi tedy každý měsíc znásilní až 58 respektive 1 000 osob a nikdo kvůli tomu nesvolává demonstrace proti Čechům. Ukrajinci v Česku navíc nevykazují vyšší míru trestné činnosti než zbytek populace a podle dat policie se většina trestné činnosti děje uvnitř komunity. 
+          - Britská vojenská rozvědka se domnívá, že Kreml přestal financovat Prigožinovu soukromou armádu. Wagnerovci zastavili nábor nových členů a zdá se, že hodlají redukovat celkový počet žoldáků a částečně rozpustit jednotky, které vytvořili pro konflikt na Ukrajině. 
+          - Rusové zastavili v Černém moři obchodní loď Sukru Okan, která navzdory blokádě mířila do ukrajinského přístavu Izmail. Spustili na ni varovnou palbu z helikoptéry, aby ji poté podrobili prohlídce. 
+          - Rusové opustili obec Urožajne na záporožské frontě. Videa zachytila ukrajinskou dělostřeleckou palbu s použitím kazetové munice, jak dopadá na ruské jednotky ustupující na pozice za vesnicí. 
+          - V okupovaném Urzufu u Mariupolu mělo dojít k přestřelce mezi Kadyrovci a ruskými vojáky. 4 vojáci ruské armády byli při přestřelce zabiti. 
+          - Podle britské rozvědky začali Rusové používat proti ukrajinským cílům íránské drony Shahed vyrobené přímo v Rusku. 
+          - Ukrajina sestřelila v posledních 3 měsících už 13 „nesestřelitelných“ ruských raket Kinžal. 
+          - Medaizona už dokázala identifikovat 30 000 ruských vojáků zabitých na Ukrajině. 
+          - Před Krymským mostem se utvořila kolona aut, která už čítá okolo 1 300 vozidel. 
+          - Už 14 zemí podpořilo bezpečností záruky Ukrajině, které představila skupina G7. 
+          - Ruský útok na Pokrovsk u Doněcku si vyžádal celkem 10 obětí na životech. 
+        videa: |
+          - [Zajatý ruský major předává Ukrajincům informace o ruských pozicích ](https://twitter.com/region776/status/1690705811884949504)
+          - [3. šturmová našla raněného Rusa](https://twitter.com/wartranslated/status/1690646919402356736)
+          - [Útěk z Urožajného pod ukrajinskou palbou ](https://twitter.com/Militarylandnet/status/1690655568854171648)
+          - [Další ešelon míří na Ukrajinu](https://twitter.com/region776/status/1690691422117326848)
+          - [3. šturmová](https://twitter.com/Bodbe6/status/1690427044406910976)
+          - [Ruský muničák v Radensku pár minut po zásahu ](https://twitter.com/EuromaidanPress/status/1690444289434955776)
+          - [Pokémoni](https://twitter.com/region776/status/1690698902339780608)
+          - [Mechanizovaný útok na ruské pozice](https://twitter.com/region776/status/1690679977283563520)
+          - [Mínus dělo](https://twitter.com/nexta_tv/status/1690710234170277888)
+          - [Minul, přesto se trefil ](https://twitter.com/EuromaidanPress/status/1690596543592562688)
+          - [Evakuace](https://twitter.com/Bodbe6/status/1690422354604699648)
+          - [Hadí ostrov](https://twitter.com/nexta_tv/status/1690663286390370304)
+          - [O fous](https://twitter.com/Bodbe6/status/1690720367256473600)
+          - [Týpek v Polsku lepí nálepky lákající na nábor k wagnerovcům ](https://twitter.com/region776/status/1690366097240010753)
+          - [Dron vs. PVO](https://twitter.com/front_ukrainian/status/1690379105743548416)
+          - [Mínus ruský muničák](https://twitter.com/nexta_tv/status/1690582133180448768)
+          - [HIMARS versus muničák](https://twitter.com/EuromaidanPress/status/1690528846909775872)
+          - [Přestřelka v Urzufu ](https://twitter.com/nexta_tv/status/1690477423601569792)
+          - [Ruský Su-30 u Kaliningradu ](https://twitter.com/bayraktar_1love/status/1690653928981938176)
+          - [Útoky dronů v Černém moři ](https://twitter.com/nexta_tv/status/1690358070965051392)
+          - [Mínus BMP-3](https://twitter.com/front_ukrainian/status/1690434245628420096)
+          - [Mobilizace v Omsku](https://twitter.com/herooftheday10/status/1690579030653673472)
       - title: "Sobota"
         year: "12. srpen 2023"
         image: assets/img/timeline/2023-08-12.jpg
