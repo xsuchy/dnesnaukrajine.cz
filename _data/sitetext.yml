@@ -38,6 +38,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "14. srpen 2023"
+        image: assets/img/timeline/2023-08-14.jpg
+        desc: |
+          Video z dronu včera zachytilo ruský „hit-and-run“ protiútok pomocí tanků a BMP na jihu Kliščijivky, kdy vozidla bez jakéhokoliv odporu přijela skoro až k zástavbě za intenzivní palby a poté zase rychle ustoupila. Na Ukrajince kvůli tomu mířila kritika, jak je možné, že nepracuje dělostřelectvo, Javeliny, tanky…  Dnes se ale objevilo video ze severu Andrijivky (prakticky stejná lokalita) a zdá se, že ruský protiútok byl mnohem méně úspěšný, než se mohlo na první pohled zdát. Na jednom místě totiž Rusové přišli hned o tři své moderní tanky T-90M, jedno MT-LB a BMP. Přijít o jednu tédevadesátku je problém, přijít hned o tři je katastrofa, protože Rusko jich dokáže vyrábět kvůli sankcím jen velmi omezené množství a velmi složitou cestou pro ně získává klíčové komponenty a elektroniku. Obecně se dá říct, že videa z posledních dní dávají člověku okusit trochu optimismu, vždy je ale třeba vnímat i cenu každého osvobozeného kilometru. A ta se platí v lepším případě západní technikou, v horším případě životy ukrajinských vojáků. Proto apelujme dál na vlády, ať zajistí to první. A teď další [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0yU5yxPJyBXkxgm8rADGHvVKqfsqbzbdT6VAiTKZvw9dTPaFNsUjgUTMbFECv6mYrl): 
+        detail: |
+          - Turecko údajně intenzivně pracuje na diplomatické komunikaci s Ruskem s cílem pozvat Putina na jednání do Ankary. Turecko sice není vázáno Římským statutem k tomu, aby Putina zadrželo a předalo soudu v Haagu, nicméně je přinejmenším znepokojivé, že by Putin měl v době probíhající agresivní války navštívit zemi, která je členem NATO. 
+          - Rusko si předvolá zástupce Ázerbájdžánu, aby „pochopilo“, jaký typ pomoci země poskytla Ukrajině a jakou další pomoc poskytnout hodlá. Zároveň bude chtít Rusko vědět, jestli to znamená, že Ázerbájdžán otevřeně stojí v konfliktu na straně Ukrajiny. Děje se tak poté, co Ázerbájdžán oznámil, že značně navýší vícero druhů pomoci Ukrajině. 
+          - Na povrch vyplouvají další detaily ohledně zastrašování civilní lodi v Černé moři. Šlo o tureckou loď plující pod vlajkou Palau. Rusové na ní provedli výsadek z helikoptéry jen 30 námořních mil od břehů Turecka v mezinárodních vodách, a to poté, co loď ignorovala ruská varování a výhrůžky včetně varovné střelby. 
+          - Rubl překonal magickou hranici 100 rublů za dolar a stále se propadá, i přes pokus ruské státní banky uměle zvýšit cenu zvýšením poptávky po rublu. Zároveň jsou intervence centrální banky něco, co sice v krátkodobém horizontu pomáhá měnu bránit, ale v delším horizontu rubl ještě více poškodí. 
+          - Rusové opět ostřelovali Oděsu. Jednak z raket srovnala se zemí část obchodního centra Fozzy. Jaký měl obchoďák vojenský význam, mi ale uchází. Mohlo ovšem jít i o raketu, kterou odklonila práce PVO. Ta totiž hlásí, že zničila všech 15 dronů a 8 raket Kalibr, které Rusové vypustili. 
+          - Polsko zadrželo dva muže, kteří vylepovali v Krakově a Varšavě letáky lákající na nábor mezi wagnerovce. Oba jsou občané Ruska. Polsko je obvinilo ze špionáže a uvalilo na ně vazbu. 
+          - Francie oznámila, že bude pokračovat s výcvikem nových ukrajinských vojáků, a to přesto, že už vycvičila 6 000 vojáků, ke kterým se původně zavázala. 
+          - Ukrajina se začíná připravovat na blížící se podzim a zimu. Opět hrozí, že Rusové budou terorizovat civilní populaci útoky na energetickou soustavu země. 
+          - Ruská polytechnická škola v Tatarstánu údajně organizuje nezletilé studenty, aby pomáhali stavět drony pro ruskou armádu. 
+          - Automobilka Mercedes-Benz odstřihla ruské dealery od aktualizací softwaru a online systémů pro diagnostiku závad. 
+          - Ukrajinci odhalili a zlikvidovali ruskou sabotážní skupinu, která se pokusila překročit hranici u města Sumy. 
+          - Z Británie se vrací 900 ukrajinských mariňáků, kteří se v zemi cvičili ve vedení obojživelných operací. 
+          - Ukrajinci kontrolují Urožajne a už podnikají další výpady směrem na Staromlynivku. 
+          - Místní hlásí od rána střelbu z ručních zbraní v Oleškách u Chersonu. 
+        videa: |
+          - [Ruský protiútok](https://twitter.com/GloOouD/status/1690788919955066880)
+          - [Po ruském neúspěšném protiútoku](https://twitter.com/UKikaski/status/1691017966727344130)
+          - [Mínus mýtický ruský Terminátor](https://twitter.com/anno1540/status/1690984823022620672)
+          - [Ruská inspekce turecké lodi](https://twitter.com/JulianRoepcke/status/1690824074484699136)
+          - [Ruský konvoj se potkal s HIMARS raketou](https://twitter.com/ItsArtoir/status/1690726581126250498)
+          - [Překonání minového pole](https://twitter.com/UKikaski/status/1690826745723715584)
+          - [Čištění zákopů](https://twitter.com/region776/status/1690744712066674689)
+          - [Artilérie versus ruská pěchota](https://twitter.com/bayraktar_1love/status/1691026526425284608)
+          - [85letý zajatec](https://twitter.com/region776/status/1690981754801430528)
+          - [Petrohrad, kulisy versus realita](https://twitter.com/Lyla_lilas/status/1690967515260743681)
+          - [Rusové našli minu](https://twitter.com/region776/status/1690800724882640896)
+          - [Ukrajinské bitevníky pálí rakety HARM](https://twitter.com/EuromaidanPress/status/1690896267600138240)
+          - [Útok tankem](https://twitter.com/region776/status/1691033384766861312)
+          - [Mínus sabotéři ](https://twitter.com/Heroiam_Slava/status/1691020293530157056)
+          - [Úprk Rusů z Makarivky](https://twitter.com/region776/status/1690973633043394561)
+          - [Evakuace](https://twitter.com/GloOouD/status/1690831209893429249)
+          - [Ruský bombardér ](https://twitter.com/region776/status/1691037086500192256)
+          - [Další ruský ešelon](https://twitter.com/herooftheday10/status/1691005400005451776)
+          - [Pokémon!](https://twitter.com/nevedimka123/status/1690765933365620738)
       - title: "Neděle"
         year: "13. srpen 2023"
         image: assets/img/timeline/2023-08-13.jpg
