@@ -38,6 +38,52 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "15. srpen 2023"
+        image: assets/img/timeline/2023-08-15.jpg
+        desc: |
+          Britská média píší o výsledcích pitvy provedené na ostatcích dvou britských humanitárních dobrovolníků Chrise Parryho a Andrewa Bagshawa, kteří loni za podivných okolností zmizeli poblíž Bachmutu, a později vyšlo najevo, že jsou po smrti. Původně se věřilo, že jejich vozidlo zasáhla dělostřelecká palba na cestě k Soledaru, kde jejich těla vyzvedli ruští vojáci, rodina Bagshawa ale nyní informovala, že pitva ukazuje na jiný scénář. Oba prý měli střelná zranění na hrudníku a hlavě a po těle různé stopy po násilí, a to i přesto, že jako všichni dobrovolníci působící u fronty, nosili neprůstřelnou vestu. Bagshawův otec proto věří, že jejich vozidlo zastavili wagnerovci, unesli je a po výslechu a mučení zabili. Incident se navíc odehrál v době, kdy wagnerovci obsazovali Soledar a okolí Bachmutu za cenu obřích ztrát a kdy oznamovali, že v rámci pomsty nebudou brát žádné zajatce. Proto je verze s únosem více než pravděpodobná. A bohužel nepřekvapivá. A teď pár [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0tLpKxivSAMDBKV68Xcz3M8v56mgooT4RfgqyCH1wBQwACtsciXbtQV19xBQtrYn3l): 
+        detail: |
+          - Rusové vyslali nad ránem velkou salvu raket převážně na západní Ukrajinu. Zasažen byl Lutsk, Lvov, ale také Dnipro i další města. Poškozeno bylo odhadem 40 domů včetně budovy školky ve Lvově, kde raketa dopadla na dvorek školky. V Dnipru byl poničený sportovní areál, v Lutsku průmyslový areál. Několik lidí během útoků zahynulo, desítky lidí vyvázly se zraněními. Ukrajinská PVO dokázala zneškodnit tentokrát pouze 16 z celkem 28 raket různého typu. 
+          - Šojgu opět lhal, že „Rusko nepoužívá kazetovou munici kvůli humanitárním důvodům, ale může toto rozhodnutí ještě přehodnotit“. Rusko používá kazetovou munici prakticky od prvních dnů války a mnohokrát ji použilo i proti civilním cílům a městské zástavbě, což dokazují desítky videí pořízených během invaze. 
+          - Ruská centrální banka v zoufalé snaze zachránit rubl skokově zvedla úrokové sazby na 12 %. To bude mít ale nejspíš také drastický dopad na celou ruskou ekonomiku, a hlavně ruskou střední třídu. 
+          - Rusové se opět pokusili překročit hranice s Ukrajinou v Černihivské oblasti. Dvě sabotážní skupiny utrpěly ztráty v přestřelce s ukrajinskými pohraničníky a musely se stáhnout zpět za hranice. 
+          - Ukrajina zadržela bývalého generálmajora SBU Valeryho Šajtanova a soudy ho následně poslaly na 12 let za mříže za velezradu. Podle vyšetřovatelů měl spolupracovat s ruskou rozvědkou. 
+          - Ukrajinci stále drží obě předmostí na levém břehu Dněpru. Rusové údajně do oblasti stahují některé jednotky, které předtím narychlo přesouvali k Záporoží. 
+          - Ukrajinci zasáhli velitelský post ruské armády v Jurevce u Mariupolu. Podle ruských kanálů zemřel při útoku ruský plukovník Viktor Anatolijevič. 
+          - Zelenský podnikl „tour“ podél současné fronty, navštívil sedm různých brigád, které se účastní bojů a předal vojákům vyznamenání. 
+          - Ukrajina obdrží systémy pro vyhledávání a ničení letících dronů Cortex Typhon C-UAS od norské společnosti Kongsberg. 
+          - V ruské Machačkale (Dagestán) explodovala čerpací stanice. 30 lidí zemřelo a 105 bylo raněno. 
+          - Rumunsko oznámilo, že navýší objem obilí přepravovaného z Ukrajiny na dvojnásobek. 
+          - Německý Rheinmetall ještě letos dodá ukrajinské armádě své průzkumné drony Luna. 
+          - Na jedné z rumunských pláží včera explodovala vyplavená ruská námořní mina. 
+          - V ruské Kubáni se zřítil cvičný letoun L-39. Jeden z pilotů zahynul. 
+          - Moldavsko včera opustilo 45 vyhoštěných ruských diplomatů. 
+          - Ruské jednotky údajně úplně ustupují z obce Robotyne. 
+        videa: |
+          - [Zelenský je na frontě](https://twitter.com/nexta_tv/status/1691159405931147264)
+          - [Rusové posílají na Ukrajinu další archivní kusy](https://twitter.com/Bazilis/status/1691047552244760576)
+          - [Bradley přežil zásah](https://twitter.com/region776/status/1691301413216010240)
+          - [Šturm](https://twitter.com/front_ukrainian/status/1691369802357481473)
+          - [Gepard u Oděsy](https://twitter.com/EuromaidanPress/status/1691143899455041546)
+          - [Evakuace na čtyřkolce](https://twitter.com/Yuri_Gagarin_UA/status/1691180782927171585)
+          - [Vyprošťování z trosek v Lutsku ](https://twitter.com/nexta_tv/status/1691381115628437504)
+          - [Sedm](https://twitter.com/region776/status/1691340585901387776)
+          - [Azov na cvičišti ](https://twitter.com/Militarylandnet/status/1691141802651168770)
+          - [Lvov](https://twitter.com/EuromaidanPress/status/1691399332442877953)
+          - [Návrat po práci ](https://twitter.com/GloOouD/status/1691218618166505472)
+          - [Mínus dělo](https://twitter.com/region776/status/1691377225927729152)
+          - [Ajdar](https://twitter.com/Bodbe6/status/1691081760413450240)
+          - [Mínus Akácie](https://twitter.com/EuromaidanPress/status/1691152707447595008)
+          - [O fous](https://twitter.com/GloOouD/status/1691171463716356097)
+          - [Mínus ruská odminovačka](https://twitter.com/Osinttechnical/status/1691084867839172609)
+          - [Barbecue (citlivé!!)](https://twitter.com/region776/status/1691404721159077888)
+          - [Ruští vojáci neutekli před artilérií ](https://twitter.com/nevedimka123/status/1691350473729544192)
+          - [Ruský dron zasáhl Stryker](https://twitter.com/Militarylandnet/status/1691375518761840640)
+          - [Ruský člun, ukrajinský dron](https://twitter.com/front_ukrainian/status/1691150004021243922)
+          - [3 bratři ](https://twitter.com/region776/status/1691312785677041664)
+          - [Mechanizovaný útok](https://twitter.com/NOELreports/status/1691087041654562817)
+          - [Dron v noci](https://twitter.com/small10space/status/1691140014661316619)
       - title: "Pondělí"
         year: "14. srpen 2023"
         image: assets/img/timeline/2023-08-14.jpg
