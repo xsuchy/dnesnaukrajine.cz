@@ -38,7 +38,7 @@ timeline:
     section: timeline
     start_align: "left"
     events:
-      - title: "Středa
+      - title: "Středa"
         year: "16. srpen 2023"
         image: assets/img/timeline/2023-08-16.jpg
         desc: |
