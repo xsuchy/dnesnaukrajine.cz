@@ -38,6 +38,47 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "17. srpen 2023"
+        image: assets/img/timeline/2023-08-17.jpg
+        desc: |
+          Zatímco poslední týdny se západní deníky předháněly v tom, kdo napíše více šokující titulek o „selhávající ukrajinské ofenzivě“, teď se naopak objevují zprávy o tom, jak začíná mít ukrajinská armáda navrch. Kde je pravda? Pravda je tak trochu obojí, a zároveň ani jedno. Ukrajinci už při zahájení ofenzivy měli nad ruskými vojsky navrch. To je ostatně důvod, proč vůbec ke změně dynamiky války mohlo dojít, zároveň není pravda, že by ofenziva selhávala. Selhávala jen vůči vysokým očekáváním západních pozorovatelů, ačkoliv před tím Ukrajinci opakovaně varovali. Upozorňovali, že kvůli pomalým dodávkám bude náročné překonat ruská minová pole a opevnění, která mezitím Rusové měli čas vybudovat. Přesto všechno je stále iniciativa na straně Ukrajiny a překvapivě i nyní si dokáží Ukrajinci držet příznivější poměr ztrát vůči bránícím se Rusům. Rozhodně se tedy nedá mluvit o selhání ofenzivy - spíše o vleklém startu. A bohužel se nejspíš povleče i další týdny. Tak si nastavme správná očekávání. A teď [pár aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0rKdpWy1ZYDRZD2GZWMhVqbEpAwhQ3Ke1T4UV4wBYiu3ZeUPxPXMUvMJUXhyjFa8bl): 
+        detail: |
+          - Rusko začalo ve velkém mobilizovat cizince, kteří mají kromě původního i ruské občanství. Logika je, že si „nezasloužíš ruské občanství, pokud odmítáš službu v armádě“. Ruské úřady proto začaly podnikat razie v podnicích, které zaměstnávají cizince, a ty s dvojím občanstvím odváží rovnou na vojenské komisariáty. Dá se předpokládat, že takové praktiky způsobí odliv zahraničních pracovníků z Ruska, což by v krajním případě mohlo uspíšit kolaps ruské ekonomiky. 
+          - Zemřeli dva ruští generálové. V 58 letech odešel na věčnost Gennady Žitko, který velel východnímu křídlu invazních vojsk na Ukrajinu v prvních měsících invaze. Včera ho následoval generálporučík ruské federální rozvědky Gennady Lopyrov. Ten podlehl vleklé nemoci v ruském vězení, kde si odpykával 10letý trest za přijetí úplatku. 
+          - Ruské úřady zahájily trestní stíhání Grigoryho Melkoňance, ředitele hnutí Golos. Viní ho z organizování „nežádoucí neziskovky“. Nedivím se. Golos totiž v Rusku monitoruje volební podvody. A Rusko v příštím roce čekají prezidentské volby, které historicky masivní volební podvody vždy provázely. 
+          - Ruská letectvo dnes přišlo o dva moderní bojové vrtulníky Ka-52 Aligator. Jeden byl sestřelený u Bachmutu, druhý, když se pokoušel krýt ústup Rusů o obce Robotyne. Celkem už tak Rusové přišli na Ukrajině o třetinu všech svých aligátorů. 
+          - Ruská policie pátrá po dalším wagnerovci, který se po amnestii za službu na Ukrajině dopustil násilného činu. Alexej Chlebnikov měl u Volgogradu znásilnit dítě. Před válkou seděl ve vězení za krádeže aut, loupeže a vraždu. 
+          - V ruském Tambově místní vyfotili billboard, který zobrazuje mapu Ruska zahrnující i Aljašku, Finsko a celou jižní a východní Evropu včetně Česka. Všemu vévodí nápis: „My vás naučíme Rusko milovat.“ 
+          - Česko zavedlo sankce vůči Borisovi Obnosovi, řediteli ruské společnosti, která vyrábí taktické rakety. Sankce dopadnou i na jeho blízké rodinné příslušníky. 
+          - Finsko chystá výstavbu největšího skladu prostředků pro likvidaci následků chemické nebo jaderné katastrofy v celé Evropské unii. 
+          - Wagnerovci si založili v Bělorusku firmu. Podle zápisu do obchodního rejstříku se budou věnovat „vzdělávacím činnostem“. 
+          - Spojené státy údajně nabídli Íránu, že uvolní některé sankce, pokud Írán přestane zásobovat Rusko raketami a drony. 
+          - Baltské země a Polsko zvažují úplné uzavření hranic s Běloruskem na konci srpna. 
+          - Rumunsko se přidá k zemím, které budou cvičit ukrajinské piloty na strojích F-16. 
+          - Ukrajina od začátku války vyřadila ze služby 5 ruských výsadkových lodí. 
+          - Švýcarsko se připojilo k 11. balíčku evropských sankcí vůči Rusku. 
+          - Generál Surovikin je v Rusku údajně držen v domácím vězení.
+        videa: |
+          - [Útok ukrajinského tanku](https://twitter.com/region776/status/1691876438503469275)
+          - [Evakuace z minového pole](https://twitter.com/Bodbe6/status/1691851960062722493)
+          - [V Kyrgyzstánu zatkli wagnerovce](https://twitter.com/nexta_tv/status/1691832634043719955)
+          - [Pokémoni](https://twitter.com/region776/status/1692094900941242368)
+          - [HIMARS versus ruské cvičiště](https://twitter.com/EuromaidanPress/status/1691942662583029985)
+          - [Ukrajinské boty pro hledače min](https://twitter.com/intermarium24/status/1692076441255514144)
+          - [Urožajne](https://twitter.com/region776/status/1692072414216429864)
+          - [Bradley tvoří kouřovou clonu](https://twitter.com/Militarylandnet/status/1691918744119873830)
+          - [Rusové mobilizují cizince](https://twitter.com/tweetforAnna/status/1691827132735906220)
+          - [Točna pro raněné z fronty](https://twitter.com/GloOouD/status/1691817563863367950)
+          - [Aligátor šel za válečnou lodí ](https://twitter.com/region776/status/1692114379045740690)
+          - [Ukrajinský tank na bojišti ](https://twitter.com/Bodbe6/status/1691927926055256322)
+          - [Trefa dronem](https://twitter.com/region776/status/1692018758037201336)
+          - [Trefa!](https://twitter.com/front_ukrainian/status/1692071040300568778)
+          - [Ruské kladení min](https://twitter.com/region776/status/1691866365802787228)
+          - [Spoooousta pokémonů](https://twitter.com/herooftheday10/status/1691831772000968824)
+          - [Video z telefonu okupanta](https://twitter.com/war__online/status/1692066938623578151)
+          - [Challenger](https://twitter.com/region776/status/1691843552366788791)
+          - [Ruský voják a jeho tank](https://twitter.com/Bodbe6/status/1691906593456067018)
       - title: "Středa"
         year: "16. srpen 2023"
         image: assets/img/timeline/2023-08-16.jpg
