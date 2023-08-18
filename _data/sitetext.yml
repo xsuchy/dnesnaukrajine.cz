@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "18. srpen 2023"
+        image: assets/img/timeline/2023-08-18.jpg
+        desc: |
+          Český Nejvyšší správní soud nedávno potvrdil rozsudky z nižších instancí, že vypnutí dezinformačních webů po začátku ruské invaze, nebylo v rozporu se zákonem. Osm hlavních dezinformačních webů tehdy bylo odpojeno od české domény a defacto znepřístupněno pro jejich čtenáře, a to na celé tři měsíce. Bohužel od té doby jsou dávno zpátky v provozu a valí do méně vzdělané části populace – své hlavní cílové skupiny – ruskou propagandu v objemu ještě větším než před válkou. Ve sněmovně sice v minulých měsících byly snahy přijmout legislativu, která by boj s dezinformacemi umožnila, ale narazily na odpor hlavně vládní ODS. A tak si dál necháváme radikalizovat nižší střední třídu ruskými výmysly a působit neopravitelné rozkoly v rodinách. V online světě se přitom války dávno přelily do informačního prostoru, kde působí nevratné škody primárně demokraciím, které se na rozdíl od totalitních států, nedokáží proti nepřátelskému působení účinně bránit. A po příštích volbách můžeme sotva čekat, že se to změní. A to i ve světle takového dění: 
+        detail: |
+          - Úřady v Karélii se rozhodly kompenzovat finančně přeživší po masakru způsobeném dvěma členy Wagnerovy skupiny, bývalými vězni, kteří se po amnestii obdržené za účast ve válce na Ukrajině vrátili domů, kde při brutálním útoku postupně zabili 6 lidí. V jednom případě dvojice mužů zabila otce dvou dětí, které útoku přihlížely, a následně spálila jejich dům. Tato konkrétní rodina dostane od radnice „pomoc“ ve výši 10 000 rublů (105 dolarů). 
+          - Ruské orgány poslaly do vazby v Čečensku studenta z Volgogradu, který v květnu letošního roku na veřejnosti spálil Korán. Ve vazbě pak studenta osobně přišel surově zbít syn Ramzana Kadyrova Adam. Tak vypadá „spravedlnost“ v Rusku. 
+          - Na Moskvu zaútočilo několik dronů a v době psaní reportu hlásí některé kanály, že další jsou nejspíš na cestě. Cílem byla byznys čtvrť Moscow city, kde sídlí i několik ruských ministerstev. Zasažena byla budova tamějšího výstaviště. 
+          - Ukrajina splnila další krok nutný k přiblížení se EU. Zelenský podepsal ústavní zákon, který mění způsob, jakým se vybírají soudci ústavního soudu tak, aby byl ústavní soud více nezávislým na politické reprezentaci. 
+          - Česko pravděpodobně předá Ukrajině více než desítku sovětských bitevníků Mi-24V. Naznačila to ministryně obrany Černochová poté, co oznámila úspěšné převzetí prvních moderních bojových helikoptér z USA. 
+          - Rusko údajně našlo snadný způsob, jak obcházet cenový strop na ruskou ropu, a to tak, že nechává cenu samotné ropy nízkou, ale významně navyšuje cenu za přepravu, čímž kompenzuje rozdíl v ceně. 
+          - Šéf slovenského generálního štábu Daniel Zmeko navštívil velitelský post ukrajinského operačního velení Jih. 
+          - Ukrajinské námořní drony opět útočily na ruské lodě v Černém moři. Rusové tvrdí, že útoky odrazili. 
+          - Do Istanbulu doplula z ukrajinského přístavu první loď od formálního ukončení obilné dohody. 
+          - Generální tajemník NATO prohlásil, že aliance bude stát za Ukrajinou až do jejího vítězství. 
+          - Kdosi vyvěsil ukrajinskou vlajku na stožár poblíž sídla FSB v Nižném Novgorodu. 
+          - V přístavu v Novorossijsku dnes vypukl z neznámých příčin velký požár. 
+          - Ve Volgogradu vypukl požár v závodě na zpracování kovu. 
+        videa: |
+          - [Rusové chtěli přirazit k břehu s loďkou](https://twitter.com/region776/status/1692242261067878448)
+          - [270 nových dronů](https://twitter.com/front_ukrainian/status/1692473421576245533)
+          - [Ukrajinci přepadli ruské vojáky](https://twitter.com/Bodbe6/status/1692288256174362627)
+          - [Požár v Novorossijsku ](https://twitter.com/nexta_tv/status/1692445505723199604)
+          - [Solovjov volá po útoku na NATO](https://twitter.com/TheKremlinYap/status/1692081408175464844)
+          - [Výcvik v Kanadě](https://twitter.com/EuromaidanPress/status/1692295237723459734)
+          - [Demobilizace na ruský způsob](https://twitter.com/DefMon3/status/1692493404360286330)
+          - [Včerejší sestřel Aligátora](https://twitter.com/Osinttechnical/status/1692422168301236226)
+          - [Bohdana na výletě lodí](https://twitter.com/EuromaidanPress/status/1692219990412308945)
+          - [Noční palba granátometem ](https://twitter.com/GloOouD/status/1692167800259780875)
+          - [KrAZ](https://twitter.com/666_mancer/status/1692180039222100072)
+          - [Mínus radar](https://twitter.com/region776/status/1692462529665286173)
+          - [Leo 2 na frontě](https://twitter.com/front_ukrainian/status/1692459232862331094)
+          - [Na frontě u Záporoží ](https://twitter.com/Osinttechnical/status/1692338797369770355)
+          - [Koordinace útoku dronem ](https://twitter.com/region776/status/1692221572827037882)
+          - [Rusové zasáhli vagon s municí](https://twitter.com/DefensePolitics/status/1692260536191521008)
+          - [Trosky aligátora](https://twitter.com/front_ukrainian/status/1692458837410816138)
       - title: "Čtvrtek"
         year: "17. srpen 2023"
         image: assets/img/timeline/2023-08-17.jpg
