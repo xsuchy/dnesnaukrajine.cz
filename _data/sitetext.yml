@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "19. srpen 2023"
+        image: assets/img/timeline/2023-08-19.jpg
+        desc: |
+          Ukrajinci údajně překonali minová pole u Robotyne a postoupili k další linii ruské obrany. Na ukrajinských kanálech se o aktuálním průlomu mluví jako o „začátku bitvy o Tokmak“. Ruští blogeři jsou opět v panice a snaží se (poměrně otevřeně rasisticky) hledat problémy v údajné nízké morálce ne-etnických Rusů (Tuvinců a Čuvašů), kteří klíčové úseky brání. Kdybych použil stejná slova, jako používají ruští blogeři, Facebook by mě nejspíš obratem zablokoval. Rusové se snaží žonglovat jednotky mezi Chersonskou a Záporožskou oblastí, aby byli připraveni na předpokládaný blížící se průlom, nicméně Ukrajinci toho zároveň využívají a dál ničí ruské základny a muniční sklady v týle. Na mapě se může zdát, že se téměř nic neděje, ve skutečnosti se toho děje zatraceně hodně. Ale teď trochu [kontextu](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid098zYggj7vEtZgRHPYvF8GqH7QX8BMeYki84qv1L1RY2dcvbtEm6iHtCVxkuWBpJJl): 
+        detail: |
+          - Ruský raketový útok dnes zasáhl Černihiv. Jedna z raket dopadla na Divadlo Tarase Ševčenka, kde se konala výstava dronů. Počet obětí se prozatím zastavil na sedmi včetně šestiletého dítěte. Počet obětí už čítá 117 lidí. Na ruských kanálech na Telegramu se slaví nad fotkami civilních obětí. 
+          - Ruská propaganda šíří fake video, které podle ní zachycuje polské žoldáky, jak střílí po Ukrajincích proto, že odmítají překročit Dněpr. Kvalita produkce je tentokrát opravdu mrzká. 
+          - V Enerhodaru otřásla exploze budovou, kde se scházely špičky okupační správy. Výbuch zranil hned několik Ruskem dosazených „náměstků“ z nejrůznějších úřadů. 
+          - Polské rozvědce se podařilo odhalit spiknutí ruských tajných služeb, jehož cílem bylo narušit dodávky zbraní Ukrajině, které se realizují přes polské území. 
+          - Ukrajinci pomocí dronů zasáhli ruské vojenské letiště u Novgorodu. Rusové přiznávají, že se podařilo poškodit jeden ze zaparkovaných strategických bombardérů. 
+          - Na veřejnosti koluje údajný nový odhad ztrát podle amerických úřadů. Má jít o 500 000 vojáků celkem, z toho 300 000 ztrát mají tvořit ztráty ruské armády. 
+          - Šéf evropské diplomacie prohlásil, že Čína je na rozdíl od Ruska opravdovým geopolitickým hráčem. Rusko označil za čerpací stanici, jejíž majitel má atomovku. 
+          - Ruská diplomacie slaví velký úspěch. Rusové budou moci z Vladivostoku nově létat přímou linkou do Severní Koreje. 
+          - Zacharová během pátečního briefingu vyzvala Ukrajince, aby složili zbraně a asistovali ruské armádě. 
+          - V ruské Machačkale vypukly protesty kvůli neustálým plošným výpadkům proudu. 
+          - Kyjevem dnes otřásla série explozí. Nejspíš v důsledku raketového útoku. 
+          - Zelenský s manželkou jsou na oficiální návštěvě Švédska. 
+          - Moldavsko nabídlo Ukrajině pomoc s exportem obilí. 
+        videa: |
+          - [Černihiv…](https://twitter.com/Tendar/status/1692846588883091948)
+          - [Taky Černihiv](https://twitter.com/wartranslated/status/1692877262582939832)
+          - [Díra v Sigu](https://twitter.com/nexta_tv/status/1692803181951021512)
+          - [Robotyne](https://twitter.com/front_ukrainian/status/1692806811240599789)
+          - [Pokémoni](https://twitter.com/region776/status/1692769265475293665)
+          - [Pokémoni](https://twitter.com/herooftheday10/status/1692759121756393846)
+          - [Dron ](https://twitter.com/region776/status/1692897054065086889)
+          - [Mínus minovačka](https://twitter.com/bayraktar_1love/status/1692844685792838013)
+          - [Bradley a jeho TOW](https://twitter.com/region776/status/1692853215854002475)
+          - [Přestřelka](https://twitter.com/UAloveLEOPARD/status/1692795081793896541)
+          - [Trefa](https://twitter.com/region776/status/1692804335040934065)
+          - [Dobrovolník ze Skotska](https://twitter.com/kvistp/status/1692677317804388399)
       - title: "Pátek"
         year: "18. srpen 2023"
         image: assets/img/timeline/2023-08-18.jpg
