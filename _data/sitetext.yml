@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "21. srpen 2023"
+        image: assets/img/timeline/2023-08-21.jpg
+        desc: |
+          21. srpna. Den, kdy si připomínáme jedno smutné výročí. Přesně před 55 lety vtrhla vojska Varšavské smlouvy do tehdejšího Československa. Proč? Protože jsme si dovolili koukat se až moc na Západ. Protože jsme se chtěli mít dobře. Moskva nás jednoduše považovala za „svou sféru vlivu“, a tak nám potřebovala připomenout, kdo drží otěže. A co říkala tehdy sovětská propaganda obyvatelům SSSR? Že se Prahy zmocnili fašisti, provedli státní převrat a chystali se rozpoutat teror na české populaci. Vlastně nejen tehdy. Ruská propaganda to tvrdí dodnes. Nepřipomíná vám to něco? Připomíná, že? Chcete-li osvěžit paměť i dnešním okupantům, můžete to udělat jednoduše tady: [https://www.zbraneproukrajinu.cz/](https://www.zbraneproukrajinu.cz/). A teď pár [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0s1Pb2uw2fRpKR4Xs6LRDswVUKnL4RHnq4tUZBd2M5PZ2qocoodprRGBn7vJNhDfvl): 
+        detail: |
+          - Moskva údajně plánuje nalákat pomocí mediální kampaně až 300 000 Rusů k přestěhování se do Mariupolu, aby tak kompenzovala populační úpadek jakožto důsledek války. Překlad: Rusko zavraždilo nebo donutilo opustit domovy 300 000 z necelých 500 000 původních obyvatel Mariupolu. Města, kde 44,4 % předválečné populace tvořili etničtí Rusové a kde až 80 % všech obyvatel mluvilo rusky. Tolik k údajné ochraně ruskojazyčné populace ze strany Ruska. 
+          - Na ruském kanálu na Telegramu se objevila fotka s památníkem věnovaném dítěti, které zahynulo při útoku ruské rakety na Černihiv. Autor příspěvku ji doplnil komentářem: „Prodám dětské boty. Nenošené.“ Příspěvek získal 47 000 smějících se reakcí z celkových cca 49 000. 
+          - Rusko vytváří nový 18. kombinovaný armádní sbor, který bude údajně tvořen z velké části nově mobilizovanými vojáky a bude mít na starost stráž na okupovaném území, aby Rusové mohli uvolnit zkušenější jednotky a poslat je na frontu. 
+          - Na dotaz dánských novinářů, zda je Ukrajina připravena dělat územní ústupky výměnou za členství v NATO, odpověděl Zelenský, že ano. Ukrajina se prý ráda vzdá Bělgorodu. 
+          - Špičky ruské FSB údajně předložily diktátorovi Putinovi plán, který by zahrnoval odchod Šojgua a Gerasimova z jejich funkcí a zavedení všeobecné mobilizace. 
+          - Dánsko vycvičí 70 ukrajinských pilotů v ovládání strojů F-16 a poskytne 19 kusů těchto letounů. Rusko krok Dánska už tradičně označilo za eskalaci konfliktu. 
+          - Šéfeditor německého BILDu vtipkoval, že v příštích týdnech nejspíš vypadne z oken několik představitelů ruského kosmického programu. 
+          - Jeden z dronů útočících na Moskvu dopadl na enklávu, kde žijí ruští oligarchové, jen pár bloků od domu propagandistky Margarity Simonjan. 
+          - Německý kancléř Scholz otevřeně podpořil ruskou opozici a všechny ty, kteří se v Rusku staví proti válce a ruskému imperialismu. 
+          - Na záporožské frontě padl Oleksij Chilskyi, herec dniperského divadla. Do armády se sám přihlásil hned po vypuknutí války. 
+          - Rusové zasáhli v posledních 14 hodinách Cheron celkem 47 dělostřeleckými granáty. 2 lidé zemřeli a 3 byli zraněni. 
+          - Finsko oznámilo, že přestane poskytovat jakékoliv finance na rozvoj zemím, které spolupracují s Ruskem. 
+          - 7 lidí je v kritickém stavu poté, co Rusové zasáhli obytné čtvrti v Kupjansku dělostřeleckou palbou. 
+          - Maďarsko začne od příštího rolu nakupovat plyn od Turecka a Ázerbájdžánu. 
+          - Ruské kanály popisují situaci v obci Robotyne jako „velmi složitou“. 
+          - Prezident Zelenský se v Dánsku setkal s královskou rodinou. 
+        videa: |
+          - [Ruský mechanizovaný útok u Kliščijivky nevyšel ](https://twitter.com/GloOouD/status/1693346597449372015)
+          - [Jiné záběry, jiný útok (?)](https://twitter.com/front_ukrainian/status/1693633937124315404)
+          - [Vymáhání pravidel silničního provozu na Ukrajině](https://twitter.com/DefenceU/status/1693341150751437005)
+          - [Rusové na Dněpru prosí nadřízené o evakuaci ](https://twitter.com/Heroiam_Slava/status/1693523247860449387)
+          - [U Moskvy pracovala PVO](https://twitter.com/nexta_tv/status/1693498830572974282)
+          - [3. šturmová ](https://twitter.com/front_ukrainian/status/1693564863233118268)
+          - [„Je mi 19 let, chci žít!“](https://twitter.com/Heroiam_Slava/status/1693585797545410744)
+          - [Mínus Tulipán](https://twitter.com/GloOouD/status/1693572070280442103)
+          - [Mínus ruský člun](https://twitter.com/front_ukrainian/status/1693580251257774205)
+          - [Berďansk, právě teď](https://twitter.com/NOELreports/status/1693651340210102273)
+          - [Mínus vyprošťovací vozidlo](https://twitter.com/front_ukrainian/status/1693552764452745227)
+          - [Trefa!](https://twitter.com/GloOouD/status/1693654355549835323)
+          - [Neobelstil dron (velmi citlivé!)](https://twitter.com/herooftheday10/status/1693601257657627115)
+          - [Bradley](https://twitter.com/front_ukrainian/status/1693525660046688394)
       - title: "Neděle"
         year: "20. srpen 2023"
         image: assets/img/timeline/2023-08-20.jpg
