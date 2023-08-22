@@ -38,6 +38,37 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "22. srpen 2023"
+        image: assets/img/timeline/2023-08-22.jpg
+        desc: |
+          Ukrajinská armáda evakuuje obce u Kupjansku včetně části města kvůli hrozícímu postupu a sílícím útokům ruské armády na tomto úseku fronty. Rusové včera tvrdili, že už obsadili obec Synkivka severozápadně od Kupjansku, nicméně svoje tvrzení doložili videem, které se podařilo geolokovat a bylo natočeno daleko za liniemi poblíž okupovaného Luhansku. Zatím se tedy bojuje před Synkivkou. Ukrajinci nicméně preventivně zničili některé mosty v oblasti, neboť se bojuje pouhých 10 kilometrů od Kupjansku a Rusové sem přesunuli velký objem techniky i lidské síly, aby se pokusili zmařit ukrajinskou ofenzivu na ostatních úsecích fronty. Armáda a policie se tu navíc potýkají s problémem, který představují kolaboranti s Ruskem. Většina populace, která byla proukrajinská, se totiž dávno evakuovala, a zůstali hlavně kolaboranti, z nichž mnozí poskytují Rusům informace a souřadnice k navádění artilérie. Ukrajina (možná bohužel) i během probíhající války ctí ústavně zaručené osobní svobody, a tak nepřistupuje k deportaci lidí, jako to dělá Rusko na okupovaných územích. Hrát podle pravidel proti nepříteli, který žádná pravidla nectí, je sice ctnost, ale také hendikep. Ctnost, která bude stát Ukrajinu zbytečné ztráty na životech. Ale těžko jí to zazlívat. A teď [pár aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02XTMMxRWEt8PfsaQZZLaGLgYfWv5U9yFZ9UWvA1s3pPLRaQ8rK49NWCNwDhY3NTxWl):
+        detail: |
+          - Alexej Navalnyj vyzval své podporovatele, aby nebojkotovali ruské prezidentské volby a přišli v září volit „ve všech 40 regionech Ruska“. Proč jsem závěr předchozí věty zdůraznil? Ruská federace má oficiálně 36 regionů, kde je možné volit (a to včetně okupovaného Krymu). Zbylé 4 regiony jsou, ano, tušíte správně, Doněcká, Luhanská, Záporožská a Chersonská oblast. Navalnyj je tedy očividně považuje za součást Ruské federace. 
+          - Prigožin se opět objevil na videu, tentokrát už z Afriky. Slíbil, že splní úkoly, kvůli kterým do Afriky dorazil a vyzval obyvatele afrických států, aby se se přidali k wagnerovcům v boji za svobodnou Afriku. Rusko. Země, kde je všechno naopak. Svoboda v tomhle případě znamená kontrolu z Moskvy. 
+          - Ukrajinské úřady zabavily majetek ruského generála Valeryho Kapašina. Ten vlastnil v Poltavské oblasti několik luxusních nemovitostí, zhruba dvacítku komerčních objektů a pozemky. Celková hodnota zabaveného majetku se odhaduje na 27 miliónů dolarů. 
+          - Samozvané soudy v Mariupolu odsoudily další tři členy Azovu k 24 respektive 18 letům odnětí svobody za smyšlený pokus o střelbu do civilistů. 
+          - Bulharsko by podle jeho premiéra mohlo poskytnout Ukrajině dalších 100 bojových vozidel do konce září letošního roku. 
+          - Americká společnost MSD přestane dodávat do Ruska lék Zapatier, jediný lék na žloutenku typu C na tamější trhu. 
+          - V JAR začíná summit skupiny BRICS. Na jednání přiletěl místo Putina jeho ministr zahraničí Lavrov.
+          - Rusové zasáhli raketami obytnou čtvrť v Krivém Rihu. Ta byla po útoku několik hodin bez elektřiny. 
+          - Francie údajně dodá Ukrajině další rakety SCALP. Původní várka měla být „testem“. 
+          - Řecko se přidá k zemím, které vycvičí novou generaci ukrajinských pilotů.  
+          - Spojené státy vyzvali své občany, aby okamžitě opustili Bělorusko. 
+          - Moskva byla opět pod útokem ukrajinských dronů. 
+          - Zelenský se setkal s prezidentem Srbska. 
+        videa: |
+          - [47. evakuovala dobytou obec Robotyne](https://twitter.com/nexta_tv/status/1693896508612006201)
+          - [Robotyne ](https://twitter.com/GloOouD/status/1693916043809345948)
+          - [Prigožin v Africe ](https://twitter.com/nexta_tv/status/1693697383115161863)
+          - [Wagnerovci na dětském táboře pro deportované ukrajinské děti](https://twitter.com/SarahAshtonLV/status/1693657039413665904)
+          - [Trefa!](https://twitter.com/region776/status/1693942565241053626)
+          - [Urožajne](https://twitter.com/front_ukrainian/status/1693932613851873515)
+          - [Práce artilerie ](https://twitter.com/region776/status/1693906762813063626)
+          - [Rusové zničili ukrajinský Stryker](https://twitter.com/NOELreports/status/1693860500629528989)
+          - [Rusové se pokusili utéct z palby](https://twitter.com/region776/status/1693710156549455949)
+          - [Mínus Aligátor](https://twitter.com/nevedimka123/status/1693665904259744180)
+          - [Rusové tvrdí, že M-55S, ve skutečnosti jejich vlastní T-90M](https://twitter.com/clashreport/status/1693921864249409835)
       - title: "Pondělí"
         year: "21. srpen 2023"
         image: assets/img/timeline/2023-08-21.jpg
