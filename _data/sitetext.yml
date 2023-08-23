@@ -38,6 +38,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "23. srpen 2023"
+        image: assets/img/timeline/2023-08-23.jpg
+        desc: |
+          Ukrajina dnes slaví svůj Den státní vlajky, zítřek pak připadá na Den ukrajinské nezávislosti, který připomíná vyhlášení samostatného státu v roce 1991. 92 % Ukrajinské populace se tehdy v referendu vyslovilo pro odtržení od SSSR, a to včetně 83 % obyvatel Donbasu a 54 % obyvatel Krymu. Pro nezávislosti hlasovalo dokonce i 55 % všech obyvatel Ukrajiny, kteří sami sebe vnímali jako ruské národnosti. O 3 roky později se pak novodobé Rusko mimo jiné zavázalo v Budapešťském memorandu k tomu, že bude respektovat nezávislost a územní celistvost Ukrajiny, že nebude na Ukrajinu vyvíjet ekonomický ani politický nátlak a že proti Ukrajině nepoužije žádné zbraně s výjimkou sebeobrany (stejné závazky dalo Rusko Bělorusku a Kazachstánu). Jak ruské sliby a závazky dopadly, to můžeme každý den číst. Třeba i v dnešním [přehledu novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0VTvEftvphrAgZqkjvN9MhLVjHwJ6sU4WKdozy3NZEhXwu9iE5NdUFBQLvm4QoGRdl): 
+        detail: |
+          - Putin během televizního projevu prohlásil, že se Rusko, navzdory především západním prognózám, v roce 2022 zařadilo mezi pět nejsilnějších ekonomik světa a předběhlo Německo. Netuším, podle jaké metriky k tomu Putin dospěl, ale podle HDP nebo HDP na obyvatele není Rusko ani v první desítce, zatímco Německo s téměř poloviční populací je obvykle na 4. místě. 
+          - Rusko údajně potopilo několik přívozů poblíž pilířů Krymského mostu ve snaze ochránit je před budoucími útoky ukrajinských dronů. Ukrajinci nedávno představili svůj podvodní dron s dosahem až 900 km. Celkem Rusové plánují potopit šest lodí. 
+          - Ukrajina oznámila, že Rusko jí předalo ostatky 12 vojáků, kteří byli Ruskem dosud vězněni jako váleční zajatci. Rusko přitom neinformovalo Ukrajinu o tom, že by byl jejich zdravotní stav vážný nebo že by se v posledních týdnech jakkoliv zhoršil. 
+          - Moskevská policie si údajně stěžuje na nízkou efektivitu pušek proti dronům, které nafasovala. Jejich dostřel prý není takový, jaký výrobce uvádí a navíc se objevily zprávy, že používání pušek může mít velký vliv na plodnost. 
+          - Podle průzkumu mezi obyvateli Ukrajiny dnes 90,4 % obyvatel Ukrajiny neuznává okupovaná území za součást Ruska. 82 % by i dnes hlasovalo pro nezávislost země na SSS/Rusku. 
+          - Rusové opět zasáhli obilné sýpky v přístavní Oděse. PVO se podařilo zneškodnit 11 kamikadze dronů. Bohužel to nestačilo. Celkem jich na Oděsu mířilo 20.
+          - Ministr obrany Reznikov oznámil, že od roku 2014 se vojenských operací zúčastnilo zhruba 1 milión ukrajinských občanů. 
+          - Ukrajinci podnikli sérii protiútoků u Kupjansku a podařilo se jim zatlačit Rusy zpět na některé původní pozice. 
+          - Rusko odvolalo generála Surovikina z postu velitele ruských vzdušných a vesmírných sil. 
+          - Chorvatsko poskytne Ukrajině další balík vojenské pomoci v hodnotě 30 miliónů eur. 
+          - Polsko nakoupí 96 kusů bojových helikoptér Apache od Spojených států. 
+          - Dánsko začalo cvičit prvních šest ukrajinských pilotů na strojích F-16. 
+          - Prezident Portugalska přijel na svou první oficiální návštěvu Kyjeva. 
+          - Další ukrajinský dron zasáhl jeden z mrakodrapů v Moscow city. 
+        videa: |
+          - [Putin hledá hodinky na druhé ruce. Dvojník?](https://twitter.com/nexta_tv/status/1694051732358119521)
+          - [Tak vypadá státník](https://twitter.com/JanLipavsky/status/1693525368206930060)
+          - [Je to náš dron? Sakra, není!](https://twitter.com/UKikaski/status/1693700884234928525)
+          - [Nad obcí Robotyne](https://twitter.com/GloOouD/status/1694104362157568276)
+          - [Přílet na Doněck](https://twitter.com/region776/status/1694265822569717823)
+          - [Zásah v Moscow city](https://twitter.com/EuromaidanPress/status/1694159495008542808)
+          - [Putin a ekonomika](https://twitter.com/NatalkaKyiv/status/1694015964306657737)
+          - [Mínus Tulipán](https://twitter.com/EuromaidanPress/status/1694152977219469620)
+          - [Orichiv po měsících ruského ostřelování](https://twitter.com/EuromaidanPress/status/1694122526514036885)
+          - [Likvidace nevybuchlé munice](https://twitter.com/Bodbe6/status/1694123151825760636)
+          - [Mínus polní muničák](https://twitter.com/Osinttechnical/status/1694007061195997435)
+          - [Údajně mobilizace migrantů v Rusku](https://twitter.com/Anna_Lena2022/status/1693962022210199880)
+          - [Rosomak](https://twitter.com/front_ukrainian/status/1694053621787177150)
+          - [Rusové u Robotyne (citlivé)](https://twitter.com/herooftheday10/status/1694079304173224130)
+          - [Mínus BMP](https://twitter.com/Internl_Leaks/status/1694054608971407822)
       - title: "Úterý"
         year: "22. srpen 2023"
         image: assets/img/timeline/2023-08-22.jpg
