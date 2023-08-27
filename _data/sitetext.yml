@@ -38,6 +38,51 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "27. srpen 2023"
+        image: assets/img/timeline/2023-08-27.jpg
+        desc: |
+          Ruská propaganda, zdá se, působí ve vlnách, které se pravidelně opakují. Aktuálně Ruskem ovládané účty na sociálních sítích opět oživují svoje strategii ze začátku jara letošního roku, kdy publikovaly fotky náhodných luxusních nemovitostí v zahraničí a tvrdily o nich, že jsou to vily, které si pořídil Zelenský, jeho rodina nebo kdokoliv z představitelů Ukrajiny z peněz poskytnutých Západem. Většinou šlo přitom o fotky nemovitostí ukradené z různých webů realitních kanceláří, a poněkud ironicky šlo v několika případech o vily vlastněné ruskými oligarchy nebo o objekty, které jim byly z důvodu sankcí zabaveny. A tyto hoaxy mají své diváky i mezi českou pátou kolonou, která je ochotně šíří. Ruskou propagandu bychom mohli s klidným svědomím ignorovat, ale jelikož máte určitě ve svém okolí někoho, kdo jí můžu potenciálně naletět, je dobré vědět, co ruská dezinfo scéna aktuálně řeší, abyste poznali, kdy jí někdo propadl. Ale teď zpátky do reality. Tady jsou [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid027dxSLkyneoH67VMo8siN6hSXdZYFy1UXhnMPUHHHLgvi7VfM6TUD4GGsHeAzdFkdl):
+        detail: |
+          - Poblíž Žitomyru se včera srazily dva cvičné letouny československé výroby L-39 Albatros. Všichni tři piloti bohužel zahynuli. Jedním z nich byl i „Džus“, pilot, který od začátku války bránil nebe nad Kyjevem a objevil se i v reportážích českých médií. Pro ukrajinské vzdušné síly je to nepříjemná ztráta, protože šlo o tři velmi zkušené piloty s několika sty lety na kontech. Z pohledu seniority šlo o dva kapitány a jednoho majora. Teď už jim nebe nikdo vzít nemůže. 
+          - Ukrajincům se podařilo pomocí vlny šestnácti kamikadze dronů zasáhnout letiště ruských vzdušných sil v Kursku. Zatím ale není jisté, jestli byla poničena některá letadla. Ukrajinci nicméně hlásí, že mezi zasaženými cíli byly 4 letouny Su-30, jeden MiG-29, radarová stanice systému S-300 a dvě vozidla PVO Pantsir-S1. Pro potvrzení zásahů by musely existovat veřejně satelitní snímky nebo videa přímo z letiště. 
+          - Putin údajně zaúkoloval vládu, aby odstranila překážky k umožnění dětské práce. Nově by tak mohli děti už od 15 let vykonávat práci na plný úvazek, aby Rusko kompenzovala odliv pracujících mužů v souvislosti s válkou na Ukrajině. 
+          - Generál Zálužný se nedávno setkal na polské hranici se západními generály a společně diskutovali úpravu ukrajinské strategie a také to, jak bojovat v blížící se zimě. Válka se podle nich nevyhnutelně přenese i do roku 2024. 
+          - Ukrajinci podnikají výpady z osvobozené obce Robotyne nejen na jih, ale také na východ k Verbovému. Údajně se tu podařilo vytlačit Rusy z jejich opevnění. 
+          - Podle ruských kanálů na Telegramu kdosi pronikl na ruskou základnu v Jevpatorii na okupovaném Krymu a zabil ve spánku – nejspíš nožem – 14 ruských vojáků. 
+          - Z Oděského přístavu vyplula už druhá civilní loď s nákladem obilí od ukončení Obilné dohody.
+          - V okupovaném Berďansku vypukl silný požár v areálu, kam Rusové navezli těžkou techniku. 
+          - Ukrajinská PVO dnes v noci zneškodnila všechny 4 ruské rakety s plochou dráhou letu. 
+          - Ukrajinci údajně spustili útok na obce Kopani a Verbove na Záporožské frontě. 
+          - Ruský vyšetřovací komise potvrdila, že Prigožin a Utkin jsou po smrti. 
+          - Ukrajinci zasáhli ruskou základnu v okupované Horlivce. 
+        videa: |
+          - [Další pokus vyslat tankovou věž na měsíc ](https://twitter.com/Osinttechnical/status/1695495261915680811)
+          - [Rusové údajně unesli něčí dítě, aby se chránili před drony](https://twitter.com/Bodbe6/status/1695781367802401216)
+          - [Bitva o Robotyne](https://twitter.com/region776/status/1695428612240052348)
+          - [Mínus tank](https://twitter.com/nexta_tv/status/1695681666478477669)
+          - [Kemerovo, Rusko, hoří údajný sklad pyrotechniky](https://twitter.com/nexta_tv/status/1695390621584797740)
+          - [Stejný požár, jiný úhel ](https://twitter.com/Hromadske/status/1695396714943832444)
+          - [Trefa!](https://twitter.com/nevermind787/status/1695813662022447383)
+          - [Mínus Hyacint](https://twitter.com/region776/status/1695696179651342552)
+          - [Moc hezké letáky shazované na ruské pozice ](https://twitter.com/parrot_reborn/status/1695656376595317208)
+          - [Mínus tank](https://twitter.com/EuromaidanPress/status/1695520815024886190)
+          - [HIMARS versus Msta](https://twitter.com/region776/status/1695446910407192644)
+          - [Ruská T-80BV](https://twitter.com/Osinttechnical/status/1695619249291575535)
+          - [AGS versus ruští vojáci](https://twitter.com/GloOouD/status/1695523114120036488)
+          - [Ukrajinský tank versus ruské zákopy](https://twitter.com/region776/status/1695712006190579829)
+          - [Ukrajinský bitevník](https://twitter.com/front_ukrainian/status/1695397997071257865)
+          - [Redukce stavu ruského personálu ](https://twitter.com/GloOouD/status/1695483171775684747)
+          - [Odminovací nálož](https://twitter.com/front_ukrainian/status/1695690512202662187)
+          - [O fous](https://twitter.com/Bodbe6/status/1695778852679692690)
+          - [Čištění zákopů](https://twitter.com/front_ukrainian/status/1695714890768384312)
+          - [Kazetovka na ruské zákopy](https://twitter.com/NOELreports/status/1695762221001855100)
+          - [Začistka v Kliščijivce ](https://twitter.com/GloOouD/status/1695452301614363031)
+          - [Ruský konvoj u Kachovky](https://twitter.com/region776/status/1695722781873463640)
+          - [Ukrajinský tank v akci ](https://twitter.com/front_ukrainian/status/1695680857158160707)
+          - [Trefa!](https://twitter.com/region776/status/1695430922328531197)
+          - [Improvizované pozorovací zařízení ](https://twitter.com/Osinttechnical/status/1695517008849186864)
+          - [Ruský dron zničil CAESAR](https://twitter.com/UAWeapons/status/1695505360570707969)
       - title: "Sobota"
         year: "26. srpen 2023"
         image: assets/img/timeline/2023-08-26.jpg
