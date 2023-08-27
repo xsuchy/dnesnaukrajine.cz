@@ -38,6 +38,51 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "26. srpen 2023"
+        image: assets/img/timeline/2023-08-26.jpg
+        desc: |
+          Ruské jednotky bránící sektory jižně od nedávno osvobozené obce Robotyne podle analytiků z ISW nemůžou rotovat a nedostávají posily. Je tedy dost dobře možné, že Rusové vyčerpali veškeré dostupné zálohy u Záporoží a nyní tu bojují doslova se vším, co mají k dispozici. Ruské velení totiž raději poslalo své nově formované brigády tvořené mobilizovanými muži na frontu ke Kupjansku, aby se pokusilo převzít iniciativu v Charkovské oblasti. Generál Syrský ale tvrdí, že ukrajinská obrana tu pevně drží a velení prý podniká všechny potřebné kroky k tomu, aby se Rusům žádný průlom nepodařil. Mapa kontrolovaných území se prozatím v Charkovské oblasti skutečně nijak významně nehýbe. Rusové tu navíc při posledních útocích přišli o těžkou techniku a utrpěli značné ztráty personálu. Situace je ale dynamická a může se kdykoliv změnit. Bude také velmi záležet na tom, jak efektivní budou jednotky tvořené mobilizovanými muži v boji proti četným ukrajinským opevněním. A ještě se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02catVGFFCDDgvb2rjwohzQTHiAcbKA7hufg7qmswkihbwwpciy1rydBxzGZPLLM9l):
+        detail: |
+          - Ukrajinský Generální štáb informoval, že Rusové přesunuli do Záporožské oblasti dalších 1 500 vojáků z Burjatska a nechali je nastěhovat se do domů k civilní populaci, aby nemuseli koncentrovat velké množství personálu na jednom místě a nevystavovali se nebezpečí od ukrajinských raket. De facto tak používají místní obyvatele jako živý štít před dělostřeleckými přepady.  
+          - Neonacistická jednotka Rusič bojující na straně Ruska ohlásila „stávku“. Dožaduje se, aby ruská vláda dojednala propuštění dvou členů jednotky zadržených ve Finsku a jejich předání Rusku. O zadržené žoldáky má totiž zájem Ukrajina, která je chce soudit za válečné zločiny. A vše nasvědčuje tomu, že Finsko hodlá Ukrajině vyhovět. 
+          - Americký generál Milley věří, že ukrajinským silám se podařilo prolomit první linii ruské obrany. Podle něj je ofenziva krvavá a náročná, ale Ukrajincům zbývá stále dost personálu i techniky. Zároveň jde o nejvíce opevněnou část tzv. Surovikinovy linie. Další postup by tedy mohl být rychlejší. 
+          - Peskov prohlásil, že wagnerovci nebyli nijak financováni ruským státem. Jeho tvrzení je přitom v rozporu s tím, co prohlásil nedávno sám Putin, když vyčíslil, kolik wagnerovci obdrželi z federálního rozpočtu. 
+          - Budanov v rozhovoru prohlásil, že Ukrajina bohužel drží méně ruských zajatců, než kolik má Rusko těch ukrajinských. Zároveň pochybuje, že se tento poměr někdy podaří zvrátit. 
+          - Podle ukrajinského Generálního štábu vozí Rusové do okupované části Záporožské oblasti civilní personál z Ruska, aby si usnadnili manipulaci s výsledkem chystaných voleb. 
+          - Lukašenko tvrdí, že wagnerovci zůstávají v Bělorusku. Satelitní snímky jejich táborů ale toto tvrzení minimálně částečně vyvrací.  
+          - Ukrajinci zasáhli základnu ruské 126. brigády pobřežní stráže na okupovaném Krymu. 
+          - Moskva v noci na dnešek uzavřela veškerá letiště v obavě před ukrajinskými drony.
+          - Turecký ministr zahraniční se setkal s prezidentem Zelenským v Kyjevě. 
+          - Ukrajinci sestřelili ruský bitevník Su-25 poblíž obce Robotyne. 
+        videa: |
+          - [Ruští vojáci se chtěli stáhnout na pozice obsazené Ukrajinci ](https://twitter.com/nexta_tv/status/1695061819193258138)
+          - [Hellrider? ](https://twitter.com/region776/status/1695361191412175046)
+          - [Noční likvidace ruské techniky](https://twitter.com/GloOouD/status/1695356534966862038)
+          - [Trefa!](https://twitter.com/region776/status/1695374511875735890)
+          - [V Rusku byl odstraněn hřbitov wagnerovců u Jekatěrinburgu](https://twitter.com/nexta_tv/status/1695090727619907949)
+          - [Peklo na frontě](https://twitter.com/GloOouD/status/1695161059437428966)
+          - [Kosťa a jeho vzpomínky na okupaci Chersonu](https://twitter.com/Hromadske/status/1695072311676743738)
+          - [Přesun pod palbou](https://twitter.com/Bodbe6/status/1695073358767960257)
+          - [Ruský tank našel minu](https://twitter.com/EuromaidanPress/status/1695279399342334192)
+          - [Kořist](https://twitter.com/GloOouD/status/1695363642319839536)
+          - [Trefa!](https://twitter.com/front_ukrainian/status/1695328482685792532)
+          - [Šturm s kulometem v ruce](https://twitter.com/EuromaidanPress/status/1695070019603107890)
+          - [Výpad a ústup ukrajinského tanku](https://twitter.com/Bodbe6/status/1695055139814482162)
+          - [Katastrofální výsledek ruského protiútoku](https://twitter.com/worldonalert/status/1695123858846597397)
+          - [Kiril z Luhansku](https://twitter.com/Slidstvo_info/status/1694744099662766553)
+          - [3. šturmová](https://twitter.com/Bodbe6/status/1695040880023834880)
+          - [Sakra dobrá trefa](https://twitter.com/region776/status/1695281430312673494)
+          - [Tanky mínus](https://twitter.com/GloOouD/status/1695122074971357442)
+          - [Okupant na šrot](https://twitter.com/nevedimka123/status/1695161953956581783)
+          - [HIMARS vs. Uragan](https://twitter.com/front_ukrainian/status/1695317443005047123)
+          - [Mínus ruský Su-25?](https://twitter.com/small10space/status/1695164258537894332)
+          - [Artilérie](https://twitter.com/region776/status/1695350925651767511)
+          - [Ukrajinský pták](https://twitter.com/front_ukrainian/status/1695366245627928904)
+          - [Bývalé ruské pozice ](https://twitter.com/Militarylandnet/status/1695361332868993212)
+          - [Úhybný manévr napomohl](https://twitter.com/region776/status/1695104785681465620)
+          - [Postřeh! (citlivé)](https://twitter.com/Peter79233966/status/1695170306208342237)
+          - [Naštěstí minuli](https://twitter.com/nevedimka123/status/1695161953956581783)
       - title: "Pátek"
         year: "25. srpen 2023"
         image: assets/img/timeline/2023-08-25.jpg
