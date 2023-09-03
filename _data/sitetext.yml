@@ -38,6 +38,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "3. září 2023"
+        image: assets/img/timeline/2023-09-03.jpg
+        desc: |
+          Rusové podnikli velký mechanizovaný útok ve směru od Svatového k obci Novojehorivka na frontě Kupjansk-Lyman. Útok ale skončil fiaskem. Rusové tu přišli nejméně o šest kusů těžké techniky a utrpěli značné ztráty. U Sinkivky se nejspíše Rusům podařilo obsadit obec Lyman Peršij, nicméně podle zpráv přímo z fronty tu počet ruských útoků poslední dobou výrazně klesá, a je tak možné, že Rusové už definitivně vyčerpali svoje kapacity. Sluší se připomenout, že podle ukrajinské armády sem Rusové přesunuli zhruba 100 000 vojáků a značný počet těžké techniky. Zároveň šlo ale z velké části o čerstvě mobilizované vojáky, a ti se očividně ve vedení ofenzivních akcí neosvědčili tak, jak Rusko doufalo. Rusku se tak (minimálně prozatím) nepodařilo ke Kupjansku uvázat žádnou z nových ukrajinských útočných brigád, což je síla, která se – doufám – brzy naplno projeví u Záporoží. A věřím, že vy doufáte taky. Ale teď pár nedělních [aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02J29N3PLzEos9RZHcotAGaybf2v3BikZhst3X3dyTjT5dtuyHdGcoaDYw9gj488nil):
+        detail: |
+          - Britská rozvědka ve svém brífinku potvrzuje, že Rusové verbují do armády pracovníky z řad migrantů ze střední Asie, aby oddálili případnou mobilizaci. Výměnou za službu v armádě jim slibují zrychlený proces získání ruského občanství a vysoké mzdy. Rusko údajně mobilizuje také muže v okupované části Chersonské oblasti. 
+          - Velitel ukrajinských sil na jižní frontě generál Tarnavskyj potvrdil, že Ukrajinci prolomili první „Surovikinovu linii“ u Záporoží. Podle generála je to zároveň obranná linie, kterou Rusové budovali ze všech nejdéle. Odhadem trávili budováním první linie až 60 % času, zatímco zbylých 2x20 % věnovali budování druhé a třetí. 
+          - Člen Orbánova štábu Gergely Gulyas během řeči na maďarské univerzitě prohlásil, že Rusko nepředstavuje žádnou hrozbu pro střední Evropu a vyzval Západ, aby poskytl Rusku bezpečnostní záruky. Zároveň odmítl, že by se Ukrajina měla v budoucnu stát členem NATO. 
+          - Podle deníku The Washington Post nová pravidla Twitteru (X), která zavedl Musk po převzetí firmy, usnadnila ruské propagandě šíření ve virtuálním prostoru. Překvapených je přesně nula lidí.  
+          - Ve Lvově se při příležitosti městského maratonu konal „Běh nezdolnosti“. Trasu 70 metrů zdolávali lidé, kteří kvůli ruské invazi přišli o končetiny nebo jsou upoutaní na vozík. 
+          - Státy NATO plánují velké námořní cvičení v Baltském moři, při kterém budou nacvičovat odrážení případného ruského útoku. 
+          - Rusové v noci opět útočili na Oděsu pomocí kamikadze dronů. Ukrajinská PVO jich údajně 22 z celkem 25 sestřelila. 
+          - V ruském Burjatsku došlo k přestřelce mezi policií a horníky – zaměstnanci nefritového dolu. 
+          - V Petrohradu hoří sklad paliv společnosti Ruči. Podle svědků mu předcházely exploze. 
+          - Rusové oznámili, že stahují tanky Armata z oblastí bojů. Eh… ony tam někdy byly??
+          - Nobelova nadace nakonec nepozve zástupce Ruska a Běloruska na předávání cen. 
+          - 2 lidé zemřeli při ruském ostřelování Vuhledaru. 
+        videa: |
+          - [Bajraktar je zpět, bejby](https://twitter.com/UAWeapons/status/1698331819282718772)
+          - [Kliščijivka](https://twitter.com/region776/status/1698278179025441116)
+          - [Ukrajinský tank se vrací z bitvy](https://twitter.com/Militarylandnet/status/1698067850605261085)
+          - [4 Pokémoni](https://twitter.com/region776/status/1698287288353235113)
+          - [Petrohrad](https://twitter.com/nexta_tv/status/1698274868620321002)
+          - [Cesty u Kreminné](https://twitter.com/GloOouD/status/1698259935740547189)
+          - [Miny, všude](https://twitter.com/region776/status/1698034722038005975)
+          - [Bojová „motlitba“](https://twitter.com/GloOouD/status/1698107845235904971)
+          - [Mínus… cosi?](https://twitter.com/ManiacMagic1/status/1698276745156182020)
+          - [Palba na ruské zákopy](https://twitter.com/region776/status/1698302457955430771)
+          - [Dron navádí pěchotu ](https://twitter.com/Bodbe6/status/1698089891425616078)
+          - [Jauvajs](https://twitter.com/region776/status/1698278273317589230)
+          - [Pokémoni](https://twitter.com/Gulli_ver_sn/status/1698047859667399017)
+          - [Práce dronů ](https://twitter.com/region776/status/1698194594587136140)
       - title: "Sobota"
         year: "2. září 2023"
         image: assets/img/timeline/2023-09-02.jpg
