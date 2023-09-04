@@ -38,6 +38,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "4. září 2023"
+        image: assets/img/timeline/2023-09-04.jpg
+        desc: |
+          Ukrajinské ministerstvo obrany oznámilo, že při nočním útoku na přístav v deltě Dunaje jeden z ruských kamikadze dronů minul cíl a explodoval po dopadu na území Rumunska. Svoje tvrzení Ukrajina doplnila videem, které dopad dronu do Rumunska zachytilo. Rumunsko nicméně ukrajinské tvrzení popřelo a vydalo prohlášení, že „ruský útok pomocí dronů nepředstavoval žádné bezprostřední vojenské riziko pro území Rumunska ani jeho teritoriální vody“. Je to tedy už několikátý incident, kdy bylo ohroženo území členského státu NATO (ruský dron v Záhřebu, zbloudilá raketa hluboko v Polsku…), a které dotčený stát diplomaticky „zahrál do autu“. A nejspíš ne poslední. [Novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02VTGZsDjd8xWYTKzCY88WyvCTLkehSrX1sh8f9NLQgaKqC7hDcztvpbaRxqYzmSfBl)
+        detail: |
+          - Ukrajinský ministr obrany Reznikov rezignoval na svůj post ve vládě. Jeho nástupcem se stal Rustem Umerov. Ruské kanály na Telegramu okamžitě začaly šířit fotku nového ministra obrany a srovnávají ji s nacistickou karikaturou Žida, zejména kvůli jeho dlouhému nosu a tmavým rysům. Umerov je potomek krymských Tatarů a prezident Ukrajiny má židovské kořeny. To je pro pořádek, aby nebyl pochyb o tom, na které straně stojí nacisti. 
+          - V Česku byl v nepřítomnosti odsouzen k 21 letům vězení Alojz Polák. Ten se už od roku 2016 účastnil bojů na Donbasu v řadách separatistů a jako snajpr má údajně na svědomí životy 4 ukrajinských vojáků. Polák nicméně naposledy komunikoval na sociálních sítích před více než rokem a podle českých dobrovolníků na straně Ukrajiny je Polák dávno po smrti. 
+          - V Rusku si včera připomínali smutné výročí událostí z 3. září roku 2004, kdy speciální jednotky vtrhly do školy v Beslanu, kde čečenští teroristé drželi 1 128 lidí jako rukojmí. Během zpackaného zásahu tehdy zemřelo 333 lidí (186 byly děti) a dalších 800 bylo zraněno. 
+          - Americké ministerstvo spravedlnosti se obrátilo na Kongres, aby posvětil převedení zabaveného ruského majetku v souvislosti se sankcemi Ukrajině. Celková hodnota zabaveného majetku se pohybuje okolo 1 miliardy dolarů. 
+          - V okupované obci Konskije Rozdory explodovala nálož v kavárně, kde se scházeli okupanti s místními kolaboranty. Údajně také okupanti využívali prostory kavárny ke skladování munice. 
+          - Prezident Jihoafrické republiky oznámil výsledky vyšetřování údajného pašování velkého objemu zbraní lodí z JAR do Ruska. Podle prezidenta neexistují důkazy, které by tvrzení prokázaly. 
+          - Rusové v noci útočili na Oděskou oblast pomocí 32 kamikadze dronů. 23 jich zničila ukrajinská PVO. Poničen byl areál agrikulturní společnosti a její sklady. Naštěstí nebyl nikdo raněn. 
+          - Šéfka německé parlamentní bezpečnostní komise kritizovala kancléře Scholze, že pouze on aktuálně blokuje dodávky raket Taurus Ukrajině. 
+          - Erdogan se dnes setká s Putinem v Soči, kde budou diskutovat diplomatické řešení války na Ukrajině a budoucnost Obilné dohody. 
+          - V ruském Batajsku dav lidí zbil a opakovaně postřelil neletální pistolí bývalého wagnerovce za to, že se účastnil bojů na Ukrajině. 
+          - Podle satelitních snímků začali Rusové obkládat svoje letadla na vojenských letištích pneumatikami, aby je ochránili před drony. 
+          - Polsko začalo deportovat ty Ukrajince, kteří se doma vyhýbají vojenské službě.  
+          - Francie oznámila, že bude cvičit ukrajinské piloty na strojích F-16. 
+        videa: |
+          - [Ruský voják v noci potkal ukrajinské speciály](https://twitter.com/NOELreports/status/1698363611087864182)
+          - [Trojitý zásah: HE munice, kazetová munice a dron jako třešnička (citlivé!)](https://twitter.com/CasualArtyFan/status/1698489893163237743)
+          - [U Kliščijivky se vzdala velká skupina Rusů](https://twitter.com/region776/status/1698597122613101008)
+          - [Artilérie rozprášila ruské posily u Verbového](https://twitter.com/EuromaidanPress/status/1698610599608102983)
+          - [Vadná ruská raketa zranila ukrajinského vojáka](https://twitter.com/Bodbe6/status/1698437198419308752)
+          - [Bajraktar je zpět!](https://twitter.com/GloOouD/status/1698587995186614361)
+          - [Mínus T-90](https://twitter.com/EuromaidanPress/status/1698518240958316973)
+          - [Mínus BMP](https://twitter.com/front_ukrainian/status/1698629172820591086)
+          - [Přestřelka u Bachmutu](https://twitter.com/Bodbe6/status/1698484886720462945)
+          - [Mínus další tank](https://twitter.com/front_ukrainian/status/1698569862220554240)
+          - [Ruský voják ukazuje svoje zranění… a nechtěně i svá nacistická tetování ](https://twitter.com/AndrewPerpetua/status/1698490367232860182)
+          - [Ukrajinský nálet](https://twitter.com/front_ukrainian/status/1698589954555748779)
+          - [Dron sleduje šturm](https://twitter.com/Bodbe6/status/1698415882441986253)
       - title: "Neděle"
         year: "3. září 2023"
         image: assets/img/timeline/2023-09-03.jpg
