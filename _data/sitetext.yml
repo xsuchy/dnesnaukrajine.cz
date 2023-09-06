@@ -38,6 +38,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "6. září 2023"
+        image: assets/img/timeline/2023-09-06.jpg
+        desc: |
+          Novinář konfrontoval Putina s jeho tvrzeními, že na Ukrajině vládnou nacisti, zatímco prezident Zelenský je etnický Žid. Putin reagoval tak, že Zelenského podle něj dosadily do úřadu prezidenta západní vlády, aby poskytly glorifikaci nacismu na Ukrajině krytí. Podle Putina se také „rusofobie“ a nacismus staly standardem nejen na Ukrajině, ale i v baltských státech, kde se prý „překrucuje historie, aby vyhovovala evropským politikům“. Pojďme si opět připomenout, že v Rusku je zakázáno učit studenty o paktu Molotov-Ribbentrop a spojenectví Sovětského svazu s nacisty a nedávno z iniciativy Putinova kabinetu vydala Federace nové učebnice, kde se zásadním způsobem překrucují události 20. století, aby se Rusko zbavilo viny za své vojenské intervence a okupace. Zatímco ve střední a východní Evropě se konečně zbavujeme vylhaných sovětských narativů zakořeněných ve veřejném prostoru, Rusko se rozhodlo svoje lži ještě více prohloubit. Je tedy tou poslední zemí, která by někoho měla školit o překrucování historie. A teď pár [aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02mCGSREEopkXhcb9drsrXxg9yznc2cKcYgEeXdfntTMtvSFBTJTkNpGpem9uakpoUl): 
+        detail: |
+          - Solovjov ve svém pravidelném televizním pořadu označil události v Buči za „fejky“. Podle něj jsou takových zvěrstev schopni vojáci Německa, Británie nebo USA, ale ruský voják by prý nikdy nic takového neudělal, protože je to v ruské kultuře naprosté tabu. Jedno slovo: Katyň. 
+          - Lukašenko si plánuje posvítit na občany Běloruska, kteří utekli do zahraničí. Podle nových pravidel si Bělorusové nebudou moct nechat obnovit občanky a pasy na zahraničních konzulátech, ale budou kvůli novým dokladům muset přijet zpátky do Běloruska.
+          - Moldavsko oznámilo, že nebude platit Gazpromu údajný dluh ve výši 709 mil. dolarů. Nezávislý audit podle Moldavska nepotvrdil jeho výši. Zaplaceno tedy bude jen 8,6 mil. dolarů a zbytek nároku nechá Moldavsko posoudit soud. 
+          - Rumunsko stále popírá, že by ruský dron explodoval na jeho území. Analytici z OSINT komunity mezitím z videí pomocí geolokace spolehlivě určili místo dopadu a podpořili tak ukrajinská tvrzení. 
+          - Americký ministr vnitra Anthony Blinken dorazil do Kyjevě. V Kyjevě je nyní také první dáma Česka, která přicestovala na pozvání Oleny Zelenské na setkání prvních dam partnerských států. 
+          - Kubánské úřady odhalily skupinu pašeráků lidí, která pro Rusko verbovala mezi Kubánci dobrovolníky pro účast v bojích na Ukrajině v řadách ruských sil. 
+          - Podle deníku The Moscow Times útočily v noci na dnešek ukrajinské drony na Putinovo sídlo u Tveru. Jeden z dronů dopadl poblíž sídla.  
+          - Ruští propagandisti v televizi diskutovali potenciální válku s Japonskem kvůli nedávným výrokům Japonska o ruské okupaci Kuril. 
+          - Členové ruské legie podnikli výpad do Brjanské oblasti a během přestřelky zlikvidovali několik členů ruské pohraniční stráže FSB. 
+          - Podle satelitních snímků vybudovali Rusové náhradní mostovku vedle nedávno poničené části mostu ukrajinskými drony. 
+          - Rusové v noci opět útočili na civilní infrastrukturu v Oděse. Poničeny byly skladiště obilí i obilné terminály. 
+          - Arménie oznámila, že mezi 11. a 20. zářím uspořádá společné cvičení arménské a americké armády. 
+          - Zmínky o generálu Surovikinovi z ničeho nic zmizely z webu ruského ministerstva obrany. 
+          - Automobilka Mercedes-Benz předala Ukrajině 100 nákladních vozů Zetros. 
+        videa: |
+          - [Putin o Zelenském ](https://twitter.com/visegrad24/status/1699113228062589163)
+          - [Legie v Brjansku](https://twitter.com/GloOouD/status/1699139572691546214)
+          - [Mínus muničák](https://twitter.com/nexta_tv/status/1699102508906356930)
+          - [Dron plus HIMARS](https://twitter.com/NOELreports/status/1699069737119219775)
+          - [Solovjev](https://twitter.com/Gerashchenko_en/status/1699063307477594163)
+          - [Bohdana](https://twitter.com/region776/status/1699319066429907450)
+          - [GPS munice na ruské dělo](https://twitter.com/Osinttechnical/status/1699213905086562808)
+          - [Počítání ztrát dronem ](https://twitter.com/herooftheday10/status/1699037830427644083)
+          - [Kazetová munice](https://twitter.com/region776/status/1699118631689543966)
+          - [A znovu ](https://twitter.com/front_ukrainian/status/1699318988151394741)
+          - [Ukrajinský tank najel na minu](https://twitter.com/NOELreports/status/1699117115070960092)
+          - [Mínus tank](https://twitter.com/herooftheday10/status/1699292550350217348)
+          - [Ruské zákopy u Verbového, bývalé ](https://twitter.com/region776/status/1699072169924530215)
       - title: "Úterý"
         year: "5. září 2023"
         image: assets/img/timeline/2023-09-05.jpg
