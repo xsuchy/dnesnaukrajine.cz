@@ -38,6 +38,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "8. září 2023"
+        image: assets/img/timeline/2023-09-08.jpg
+        desc: |
+          Vzpomínáte si na loňský incident, kdy moře vyplavilo na břehy Krymu „neznámé“ námořní drony? Tak dnes už víme, co se tehdy stalo, a to díky citacím z nové biografické knihy o Elonu Muskovi. V ní se píše, že Musk nechal loni vypnout pokrytí Starlinkem u okupovaného Krymu v době, kdy na přístav v Sevastopolu mířilo několik ukrajinských námořních dronů s ambicemi potopit nebo poškodit většinu kotvících lodí ruské Černomořské flotily. Namísto toho ale drony ztratily po cestě spojení a nečinné je pak vyplavilo Černé moře na krymské pláže, což Rusům umožnilo je prozkoumat a připravit se na další útoky. Musk informace nijak nepopřel, ale vysvětlil, že ve skutečnosti internet nevypl, ale naopak ho odmítl zapnout v oblasti Sevastopolu na žádost americké a ukrajinské armády, protože využití Starlinku pro navádění dronů považoval za přímé zapojení společnosti do války, a protože se prý obával ruské jaderné odvety a „eskalace války“. V biografii se navíc píše, že Musk byl během loňského roku v kontaktu se zástupci ruské armády. Muskovy kroky vedly k tomu, že Rusko mohlo další měsíce bez obav pálit rakety z lodí v Černém moři na vojenské ale i civilní cíle. Jeho alibistický přístup a neochota umožnit Ukrajině zasáhnout ruskou vojenskou infrastrukturu stála životy stovek civilistů a možná tisíců vojáků. Není to navíc poprvé, kdy Musk Starlink na svůj povel nechal vypnout, aby nemohl být využitý Ukrajinci při útočných akcích. Během ofenzivy, která vedla k osvobození Chersonu, si ukrajinští vojáci stěžovali na vypadávající pokrytí Starlinku blízko fronty. Musk tehdy přiznal, že nechal Starlink podél fronty vypnout, aby ho Ukrajinci nemohli používat k pilotování vzdušných dronů. Po tlaku Pentagonu ho nechal zapnout s tím, že omezil příjem signálu u rychle se pohybujících objektů. K tomu se objevují nové a nové analýzy, které ukazují, že po převzetí Twitteru Muskem a zavedení nových pravidel se na platformě začala mnohem rychleji šířit ruská propaganda. V lepším případě je tedy Musk naivní, pomatený srab, v horším případě vědomě spolupracuje s nepřátelskou mocností. A tím bohužel [dnešní zprávy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0SXn4xqqy6hDbMCWKgbAG7YS2Tj5FfQ9W5qVy6NLQsQewv9XTbZneUNazgiQf6ee3l) zdaleka nevyčerpaly veškerou negativitu:
+        detail: |
+          - Do okupovaného Mariupolu přicestovala ilegálně čínská operní pěvkyně Wang Fang a v troskách tamějšího divadla zničeného ruskými nálety zazpívala „Kaťušu“. Ukrajinské úřady celou cynickou šarádu ostře odsoudily a vydaly zákaz vstupu všem dalším čínským blogerům na celé území Ukrajiny. Ministerstvo zahraničí Ukrajiny bude žádat po Číně vysvětlení. 
+          - Arménská rozvědka tvrdí, že odhalila ruský plán na provedení státního převratu v zemi, kterého se má účastnit až 12 000 wagnerovců – původně jich v zemi bylo okolo 3 000, nyní sem dalších několik tisíc dorazilo z Běloruska. Kremlu se údajně nelíbí společné cvičení USA a Arménie a chce sesadit premiéra Pašinjana a nahradit ho někým více loajálním Rusku. 
+          - Běloruští vojáci pro kanál NEXTA vypověděli, že následkem společného cvičení pod vedením wagnerovců se začala v jednotkách objevovat „vězeňská hierarchie“. Lidé, kteří jsou si s instruktory blízcí, mají nejrůznější výhody, zatímco porušování kázně se trestá fyzickým násilím. 
+          - Rusové tento víkend pořádají na okupovaných územích volby. Vzhledem k tomu, že valná většina států světa neuznala ruský nárok na okupovaná území, jsou takové volby v rozporu s mezinárodním právem. 
+          - U ruské Kalugy pojala armáda ochranu vojenského letiště velmi… ruským způsobem. Ruští pravoslavní kněží pokropili tamější základnu sty litry svěcené vody z vojenské helikoptéry. 
+          - Pentagon oznámil další balík vojenské pomoci v hodnotě 600 mil. dolarů. Bude krom jinhé obsahovat dalších 190 obrněných vozidel. 
+          - Továrna na mikročipy Kremnij EL v ruském Brjansku byla opět terčem dronů následkem čehož v jedné z budov vypukl požár. 
+          - V Charkově přivítaly školáky nové provizorní školy zbudované v prostorách metra a podzemních krytech. 
+          - Ruské raketa zasáhla budovu policie v Kryvém Rihu. Nejméně jeden člověk zemřel a 52 bylo zraněno. 
+          - Americká rozvědka věří, že Ukrajinci ještě letos prolomí ruskou obranu na Záporožské frontě. 
+          - U Avdijivky se ukrajinské síly přiblížily k obci Opytne a doněckému letišti. 
+          - V Moskvě dnes hořela budova ředitelství Celní správy Ruské federace. 
+          - Chorvatsko začalo reexportovat ukrajinské obilí skrze své přístavy. 
+          - Ukrajinská rozvědka prý aktivně jedná s dalšími ruskými piloty. 
+        videa: |
+          - [Názor voliče na „volby“ v Nové Kachovce ](https://twitter.com/nexta_tv/status/1700103078911914394)
+          - [Baterie M777 chráněná systémem Osa](https://twitter.com/Bodbe6/status/1700095502308577383)
+          - [Slovenská Božena pracuje ](https://twitter.com/bayraktar_1love/status/1700091816194769048)
+          - [Čínská slavice](https://twitter.com/nexta_tv/status/1700076233038393386)
+          - [Rusové pod palbou při ústupu z Kliščivjivky](https://twitter.com/Heroiam_Slava/status/1699664489933599166)
+          - [Mínus Buk](https://twitter.com/nexta_tv/status/1700068034302427471)
+          - [Dron sleduje práci ukrajinské helikoptéry](https://twitter.com/EuromaidanPress/status/1699777037546721359)
+          - [Vyprošťování z trosek po útoku na Sumy](https://twitter.com/nexta_tv/status/1700042693005484346)
+          - [Trefa minometem ](https://twitter.com/Bodbe6/status/1699790923675418696)
+          - [Trefa dronem ](https://twitter.com/region776/status/1699872757725745190)
+          - [Neúspěšný ruský útok](https://twitter.com/GloOouD/status/1700048856564580537)
+          - [U Chersonu explodovalo auto s členy FSB](https://twitter.com/nexta_tv/status/1699827743993504076)
+          - [Moskva a celní správa](https://twitter.com/Maks_NAFO_FELLA/status/1699902428341297286)
+          - [Gepard versus Shahed](https://twitter.com/nexta_tv/status/1699774586467004896)
+          - [Mínus tank](https://twitter.com/GloOouD/status/1699861861884199347)
+          - [A zase ty drony](https://twitter.com/nevedimka123/status/1700090984162353496)
+          - [Tiktokeři se střetli s realitou ](https://twitter.com/herooftheday10/status/1699805848711614789)
       - title: "Čtvrtek"
         year: "7. září 2023"
         image: assets/img/timeline/2023-09-07.jpg
