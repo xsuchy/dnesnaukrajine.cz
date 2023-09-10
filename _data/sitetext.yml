@@ -38,6 +38,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "10. září 2023"
+        image: assets/img/timeline/2023-09-10.jpg
+        desc: |
+          Ruská propaganda aktuálně šíří část projevu generálního tajemníka Jense Stoltenberga, která má dokázat, že Rusko chtělo v únoru 2022 mír a že NATO odmítlo. V šířeném odstavci se píše, že Putin byl ochotný odvolat útok na Ukrajinu, pokud by NATO zaručilo, že nebude expandovat dál na východ. To ale není celá citace. Stoltenberg ve skutečnosti pokračoval: Putin nejenže chtěl zaručit, že se NATO nebude rozšiřovat, ale zároveň chtěl, aby se NATO vrátilo do situace z roku 1997 a stáhlo veškerou vojenskou infrastrukturu z území členských států, které se připojily po roce 1997 – tedy například i z Česka. Putin tedy předložil nesplnitelnou podmínku, která, pokud by mu Západ vyhověl, by znamenala, že celá střední a východní Evropa by zůstala nechráněná a Putin mohl ve své dobyvačné válce pokračovat až k hranicím někdejšího východního bloku za cenu miliónů životů a tisícovek zničených měst. NATO navíc neexpanduje z vlastní vůle. Státy se k alianci připojují dobrovolně, a to nejčastěji právě z obavy před Ruskem. Z Putinovy strany tedy nešlo o žádnou nabídku míru, ale o jasnou deklaraci, že žádný mír nenabízí, jenom destrukci a zmar. A teď jsme toho denně svědkem. [Přesvědčte se sami](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0cK1vzSVnQaYWGrN8PgVJ1vtsm3tkCGMcnYQR8tj34EJMATgh6koJdXk32TG9MtCdl): 
+        detail: |
+          - Během summitu G20 se Spojené státy, Evropská unie, Indie a Saúdská Arábie dohodly na vytvoření nového ekonomického koridoru, který by usnadnil obchod Západu s Indií – což znamená, že by zároveň oslabil pozici Ruska. Zároveň se ale země nedokázaly shodnout na znění společné deklarace k situaci na Ukrajině a jednoznačně jmenovat Rusko jako agresora, a tak nakonec vydaly pouze velmi obecné odsouzení války jako takové a vyzvaly všechny zúčastněné strany, aby dodržovaly chartu OSN. 
+          .
+          - Rusko podle ukrajinské rozvědky rozmístilo u hranic s Ukrajinou 46 systémů Iskander. Většina z nich prý je namířena na civilní cíle. Rusko tedy nejspíš v blízké době začne systematicky ničit ukrajinskou civilní infrastrukturu, jako už to dělalo loni na podzim a v zimě. 
+          - V řadách Ruska nyní na Ukrajině bojuje také Vjačeslav Kaňus, který byl teprve nedávno odsouzen k 17 letům vězení za brutální vraždu své partnerky. V cele ale strávil necelých šest měsíců, poté podepsal smlouvu s armádou.  
+          - Ruská dělostřelecká palba včera zasáhla automobil dobrovolníků z humanitární organizace Road to Relief u obce Časiv Jar. Ze čtyř lidí ve voze byl jeden zabit, dva zraněni a jeden se pohřešuje. 
+          - Brazilský prezident Lula da Silva ubezpečil Putina, že nebude v Brazílii zatčen, pokud přicestuje v příštím roce na summit G20, a to i přesto, že Brazílie je signatářem Římského statutu. 
+          - Lavrov ve svém projevu prohlásil, že konflikt na Ukrajině je „válka vyhlášená Západem Rusku prostřednictvím Ukrajiny“. 
+          - Ukrajinská PVO v noci zasahovala proti ruským dronům nad Kyjevem. 25 z celkem 32 se podařilo sestřelit.
+          - Budanov potvrdil, že systém Tsarlin-… pardon… Starlink už delší dobu nefunguje u pobřeží Krymu. 
+          - Muskův „X“ žaluje Kalifornii kvůli zákonům, které nařizují sociálním sítím moderovat obsah.
+          - Podle ukrajinské rozvědky je nyní na okupovaném území Ukrajiny 420 000 ruských vojáků. 
+          - V Rumunsku objevili trosky dalšího ruského kamikadze dronu. 
+          - Ukrajinské síly vstoupily do Opytného. 
+        videa: |
+          - [Ukrajinský Leopard 2 proti dvěma ruský T80 ](https://twitter.com/EuromaidanPress/status/1700817088237957232)
+          - [Ruský voják tvrdil, že se vzdává… a pak hodil granát ](https://twitter.com/auto_glam/status/1700515844609003922)
+          - [Škrtidlo a zpátky ke kulometu ](https://twitter.com/GloOouD/status/1700825701354479937)
+          - [Útok ukrajinských tanků](https://twitter.com/Bodbe6/status/1700810324511768709)
+          - [Na Krymu hoří vojenská základna](https://twitter.com/NOELreports/status/1700507283786994034)
+          - [Mínus odpalovač Lancetů](https://twitter.com/GloOouD/status/1700799470185623607)
+          - [Miny…](https://twitter.com/nevedimka123/status/1700755953090519301)
+          - [3. šturmová postupuje](https://twitter.com/region776/status/1700512856620646818)
+          - [Dva Leopardi ](https://twitter.com/GloOouD/status/1700788788140626006)
+          - [Pěkný úlovek dronu ](https://twitter.com/region776/status/1700805007761940830)
+          - [Uuuf, hodně přesná trefa](https://twitter.com/parrot_reborn/status/1700519947615490171)
+          - [Vzkaz](https://twitter.com/front_ukrainian/status/1700823841423958189)
+          - [O fous](https://twitter.com/Bodbe6/status/1700642824356598089)
+          - [Trefa kazetovou municí ](https://twitter.com/nevedimka123/status/1700781878137999621)
       - title: "Sobota"
         year: "9. září 2023"
         image: assets/img/timeline/2023-09-09.jpg
