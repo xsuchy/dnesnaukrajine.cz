@@ -38,6 +38,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "11. září 2023"
+        image: assets/img/timeline/2023-09-11.jpg
+        desc: |
+          O zinscenované volby Rusy na okupovaných území není velký zájem. Okupační správa proto jezdí s volebními urnami po vesnicích přímo k lidem domů za doprovodu vojáků. Řada lidí ale ani na takové výzvy nereaguje a z domu nevychází. Ruské statistiky o vysoké volební účasti v prvních několika hodinách od otevření volebních místností, jsou tedy zcela jistě vycucané s prostředníčku. Pořádání voleb na cizím území navíc odporuje mezinárodnímu právu a jediný skutečný účel tohoto divadla je vytvořit dojem legitimity ruských struktur a pomocí zfalšovaných výsledků „dokázat“ ruská tvrzení o touze obyvatel východní Ukrajiny připojit se k Rusku tím, že ve volbách jasně „zvítězí“ Putinova strana Jednotné Rusko (sic!), která čirou náhodou volby na okupovaném území organizuje, případně strany místních kolaborantů z řad údajných separatistů. [Novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02BYU1YZTH3GeW9kj1SVsCcYNxUZKt9EYh5JqDdDTBnLwA3MKBdAGQzmJGBtVo6HQml) 
+        detail: |
+          - Ukrajina opět převzala kontrolu nad ropnou plošinou „Boiko Towers“ v Černém moři. V minulých týdnech se Rusové pokoušeli zastavit ukrajinské výsadky za pomoci letectva. Neúspěšně. Jeden takový střet ukrajinských člunů s ruskými stíhacími bombardéry zachytila i videa. Ropnou plošinu obsadila ruská armáda už v roce 2015 a od té doby ji používala částečně jako vojenskou základnu. 
+          - Rusko oznámilo, že nabízí výměnu zadrženého amerického novináře Gershkoviche za plukovníka FSB Vadima Krasikova. Zatímco Gershkovich je pravděpodobně zadržován na základě vyfabulovaného obvinění ze špionáže, plukovník Krasikov si odpykává doživotní trest v německém vězení za vraždu čečenského armádního důstojníka. 
+          - Zvláštní zpravodajka pro otázky mučení při OSN na tiskové konferenci prohlásila, že „mučení prováděné ruskou armádou na ukrajinských civilistech a válečných zajatcích dosáhlo takové úrovně, že je možné jej označit za systematickou a ruským státem podporovanou strategii“. 
+          - Podle ukrajinského Generálního štábu plánuje Rusko během podzimu nuceně mobilizovat mezi 400 a 700 tisíci lidí včetně 40 000 muži z Čečenska. Mobilizace se bude opět týkat primárně chudých regionů. Petrohradu a Moskvy se má dotknout jen minimálně. 
+          - Ukrajinci včera vypustili balónky nesoucí ukrajinskou vlajku nad okupovaný Doněck. Celá akce ale neměla jen symbolický rozměr. Rusové totiž ve snaze vlajku sundat z oblohy odhalili svoje palebné pozice, na které následně útočilo ukrajinské dělostřelectvo. 
+          - Ruští propagandisté nebyli vpuštěni na tiskovou konferenci Emanuela Macrona na summitu G20 v Indii. Mluvčí ruského ministerstva zahraničí Zacharová to označila za „projev rasismu a agresivního nacionalismu“ a vyzvala Francii k omluvě. 
+          - Rusové na Telegramu informovali o nedávném chaotickém ústupu u Opytného, kdy ruské jednotky rozstřílelo vlastní dělostřelectvo, protože je považovalo za šturmující Ukrajince. 27 lidí bylo zabito, 34 zraněno. 
+          - Brazilský prezident vycouval ze svých dřívějších tvrzení, že Brazílie by nezatkla Putina, pokud by do země přicestoval, a vysvětlil, že takové rozhodnutí není na prezidentu ani poslancích, ale brazislké justici. 
+          - Finsko hlásí, že Rusové budují na základnách u finských hranic nová skladiště a depa pro vojenskou techniku, a to i přesto, že naprostou většinu techniky ze základen přesunuli na Ukrajinu. 
+          - Orbán oznámil, že Maďarsko hodlá přejít u jaderné elektrárny Paks z ruského na francouzské palivo. 
+          - Mluvčí ukrajinských sil Humenjuk prohlásila, že Krymský most „už brzy nebude provozuschopný“. 
+          - Rada Evropy odsoudila falešné volby pořádané Ruskem na nelegálně okupovaných územích.
+          - Německá ministryně zahraničí přijela do Kyjeva na neohlášenou návštěvu. 
+          - Ukrajinský režisér Oleh Sencov byl opět raněn během bojů na Ukrajině. 
+          - Kim Čong-Un údajně odcestoval vlakem do Ruska na setkání s Putinem. 
+          - Německo poskytne Ukrajině dalších 40 vozidel Marder. 
+        videa: |
+          - [Operace Boiko Towers](https://twitter.com/nexta_tv/status/1701180490202444200)
+          - [Ukrajinského vojáka těsně minul granát z BMP](https://twitter.com/Osinttechnical/status/1701001962836430980)
+          - [Ukrajinská artilérie odhalila a zničila ruskou skupinu u Sum](https://twitter.com/region776/status/1700881516832981159)
+          - [Ruské ztráty po útocích u Kupjansku ](https://twitter.com/region776/status/1700921671937606070)
+          - [Šturm za asistence Humvees](https://twitter.com/region776/status/1700939061303861697)
+          - [Mínus Grad](https://twitter.com/EuromaidanPress/status/1701162665526149196)
+          - [Rusové natočili shazování zakázaných chemických granátů ](https://twitter.com/region776/status/1700913762558189759)
+          - [Rusko uvádí do provozu… tanky T-55??](https://twitter.com/region776/status/1701084673118785898)
+          - [Evakuace](https://twitter.com/Bodbe6/status/1700940461056139313)
+          - [Rusové u Novoprokopivky](https://twitter.com/DefMon3/status/1700979249598063089)
+          - [Trefa!](https://twitter.com/region776/status/1701121900477559056)
+          - [Postřeh! (citlivé)](https://twitter.com/nevedimka123/status/1700962763613380655)
+          - [Mínus T-90M](https://twitter.com/region776/status/1701098808598524408)
       - title: "Neděle"
         year: "10. září 2023"
         image: assets/img/timeline/2023-09-10.jpg
