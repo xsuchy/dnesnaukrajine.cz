@@ -38,7 +38,7 @@ timeline:
     section: timeline
     start_align: "left"
     events:
-      - title: "Pondělí"
+      - title: "Úterý"
         year: "12. září 2023"
         image: assets/img/timeline/2023-09-12.jpg
         desc: |
