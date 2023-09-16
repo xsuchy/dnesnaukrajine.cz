@@ -38,6 +38,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "16. září 2023"
+        image: assets/img/timeline/2023-09-16.jpg
+        desc: |
+          „Nejtemnější místa v pekle jsou vyhrazena těm, kteří si udržují nestrannost i v časech morální krize,“ napsal údajně Dante Alighieri, pravděpodobně už někdy ve 13. století. A pravda je to stále. Svět občas dospěje do chvíle, kdy „neutralita“ je jenom honosná nálepka pro alibismus, ignoranci, neochotu a pohodlnost. Zároveň je to něco, co se rozhodně nedá vyčíst účastníkům dnešní „demonstrace proti bídě“. Ti si stranu vybrali, což byl vidět jednak z toho, jak se už před konáním akce stihli mezi sebou pohádat, zda si můžou přinést ruské vlajky, a jednak z toho, že na demonstraci byl opět policií zadržen člověk s nášivkou wagnerovců na prsou. Zajímavé je v tomhle kontextu, že ačkoliv český parlament považuje současné Rusko za teroristický stát, zatímco wagnerovce jako teroristickou skupinu (zatím) nevede, nosit vlajky a symboly wagnerovců trestné je, zatímco nošení symbolů Ruska nikoliv. Možná je v tom logika, jen ji nevidím. Ale teď už pár sobotních [aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Cr3SVn4nZ3Yi1bWqPXpSmYgfqihsQUvjnqESnhpQLGYK1R8ioztsb58KNPCqairkl): 
+        detail: |
+          - Dron zachytil situaci, na kterou Ukrajinci už v minulosti mnohokrát upozorňovali, a sice palbu Rusů do vlastních řad. Incident na videu se stal během nedávného obklíčení Andrijivky, kdy se desítky ruských vojáků rozhodli ve světle beznadějné situace vzdát. Když se ale o kapitulaci dovědělo ruské velení, nařídilo pokrýt kapitulující vojáky dělostřeleckou palbou. Video pak zachytilo přílet munice na skupinu Rusů těsně před tím, než je stihli Ukrajinci spoutat a odvést. 
+          - Baltské státy zakázali pohyb vozů s Ruskou SPZ na svém území vyjma těch vozidel, která cestují do Kaliningradu. Ta vozidla, která už v baltských zemích jsou, musí země okamžitě opustit. Stejný krok nově ohlásilo také Finsko. Zákaz vstupu pro auta s ruskými značkami zavede od poloviny září také Polsko. 
+          - Ukrajinci úspěšně otestovali svůj nový dron „Sea baby“, když s ním zasáhli ruskou raketovou loď Samum plující z Kerčského průplavu do Sevastopolu. Loď následně musely odtáhnout do přístavu remorkéry a potopení bránily pytle se vzduchem rozmístěné kolem lodi. 
+          - Erdogan oznámil, že Švédsko stále nesplnilo podmínky Ankary pro ratifikaci vstupu Švédska do NATO. Zpráva přichází ve chvíli, kdy Spojené státy uvalily sankce na pět tureckých firem za to, že umožňují Rusku obcházet sankce. 
+          - Zhruba 10 000 chasidských Židů z celého světa navštívilo včera v rámci každoroční pouti i přes zuřící válku ukrajinskou Umaň, kde se nachází hroby zakladatelů hnutí. Tolik k „zemi ovládané nacisty“. 
+          - Evropská unie zrušila embargo na dovoz ukrajinského obilí do sousedících států. Polsko, Maďarsko a Slovensko ale zároveň prodloužily jimi uvalená embarga.
+          - U Voroněže zahynuli tři ruští vojáci poté, co mezi nimi došlo k hádce, která vyústila v to, že jeden z vojáků odjistil výbušný granát. 
+          - Dvě nákladní lodě propluly dočasným koridorem z ukrajinských přístavů. Obě vezou obilí určené africkým zemím. 
+          - Ruská loď Admirál Makarov musela být odtažena do přístavu. Je možné, že i tu zasáhly ukrajinské drony. 
+          - Tři ruské výsadkové lodě z Černomořské flotily byly preventivně přesunuty do Azovského moře. 
+          - Severní Makedonie vyhostila další ruské diplomaty. Už potřetí od začátku invaze. 
+          - Čečenský vůdce Kadyrov je údajně hospitalizován v kritickém stavu. 
+        videa: |
+          - [Rusové nechali střílet do vlastních ](https://twitter.com/NOELreports/status/1702970659377234429)
+          - [Dron s amplionem vyzýval Rusy ke kapitulaci ](https://twitter.com/Tendar/status/1702942188483563634)
+          - [Padlí ruští vojáci, všude…](https://twitter.com/region776/status/1703055963132207317)
+          - [Bitva o Andrijivku](https://twitter.com/nexta_tv/status/1703018614352138594)
+          - [Po hádce u Voroněže](https://twitter.com/bayraktar_1love/status/1703065654092317018)
+          - [Cože??](https://twitter.com/region776/status/1702719974551568485)
+          - [Kamera zachytila letící šrapnel](https://twitter.com/KyivIndependent/status/1702659327402610991)
+          - [Drony v akci ](https://twitter.com/EuromaidanPress/status/1702976703889305833)
+          - [Po přepadu konvoje](https://twitter.com/region776/status/1702978742577238437)
+          - [Těžké boje u Tokmaku](https://twitter.com/GloOouD/status/1702778282024853829)
+          - [Mínus dělo](https://twitter.com/front_ukrainian/status/1703116793152147479)
+          - [Noční trefa](https://twitter.com/region776/status/1703063340262769105)
+          - [V Petrohradu hoří obchoďák](https://twitter.com/NOELreports/status/1702807816681988270)
+          - [Mínus dva Buky](https://twitter.com/GloOouD/status/1703109602416406876)
+          - [Trefa!](https://twitter.com/region776/status/1703066659806994902)
+          - [Neodešli ](https://twitter.com/NOELreports/status/1703058299803799892)
+          - [Po dobytí pozice (citlivé)](https://twitter.com/region776/status/1702723528192303621)
+          - [Nebojácnej ](https://twitter.com/Bodbe6/status/1702801425430954217)
+          - [Pion](https://twitter.com/region776/status/1702674248970784777)
+          - [M113 najela na minu](https://twitter.com/Bodbe6/status/1702659648896016419)
+          - [Odminování](https://twitter.com/NOELreports/status/1702803121250980186)
       - title: "Pátek"
         year: "15. září 2023"
         image: assets/img/timeline/2023-09-15.jpg
