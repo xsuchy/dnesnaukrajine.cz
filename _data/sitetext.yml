@@ -38,6 +38,37 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "17. září 2023"
+        image: assets/img/timeline/2023-09-17.jpg
+        desc: |
+          Investigativní deník The Insider přinesl informaci, že šéfredaktor moldavské pobočky ruského Sputniku Vitaliy Denisov, kterého nedávno Moldavsko na hodinu vyhostilo, byl ve skutečnosti důstojníkem ruské zahraniční rozvědky se specializací na vytváření a šíření dezinformací. Vzhledem k tomu, že Sputnik je i v dalších zemích včetně Česka (společně s Russia Today) hlavním nástrojem šíření ruské propagandy (dezinformace nejen šíří, ale i aktivně vytváří) a že ruský stát má nějakou formu kontroly nad většinou ruských médií, samotná informace, že v jeho redakci pracují členové ruské rozvědky, není překvapivá. Mnohem důležitější otázky jsou, zda o jeho skutečné práci věděl i zbytek redakce, a také, kdo další v chobotnici jménem Sputnik je ve skutečnosti ruský rozvědčík. Co šéfredaktor české mutace Alexej Saryčev? Protože ve světle těchto informací se loňské vypnutí hlavních dezinformačních kanálů najednou nejeví jako přehnaný krok. A pokud by se potvrdilo napojení ruské rozvědky i na český Sputnik, definitivně by to krok správce domény ospravedlnilo. Bohužel je to jedna z těch informací, které nám nejspíš česká kontrarozvědka neprozradí. Tak zpátky k [informacím](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid029USutoLRqkaujzfKcf5iwMzGJGSwXt4G2ALf6TTSVm2bbXF2Kb9ry8RXBGwm8Jt2l), které si nemusíme domýšlet:
+        detail: |
+          - Ukrajinci hlásí, že nalezli tělo Daniela Burkeho, britského dobrovolníka, který se pohřešuje od srpna poté, co zmizel ze svého bytu v Záporoží. Mezi zahraničními dobrovolníky se nyní šíří obavy, že na Ukrajině působí agenti Ruska, kteří mají za cíl právě zahraniční pracovníky a vojáky. 
+          - Rusové údajně začali prodávat některé nemovitosti a podniky na okupovaném Krymu, které v minulosti znárodnili neboli ukradli původním ukrajinským majitelům. Důvodem je údajně shánění prostředků na další financování války. 
+          - Okupanti vypálili protitankovou řízenou střelu na civilní vozidlo u obce Strileča, nejspíš v domnění, že jde o vojáky. Na místě zemřel muž a žena, další muž v seniorském věku je zraněn. 
+          - Norsko hlásí, že na ruských základnách u společných hranic je nyní zhruba 20 % vojáků, kteří tam byli před začátkem invaze. 
+          - Skupina republikánských senátorů vyzývá prezidenta Bidena, aby okamžitě poskytl Ukrajině střely ATACMS. 
+          - Kanada vloží dalších 24 miliónů dolarů do fondu pro společný nákup zbraní pro Ukrajinu. 
+          - Ukrajina plánuje zvýšit produkci a export uranu, aby oslabila Rusko na světovém trhu. 
+          - Některé ruskojazyčné kanály tvrdí, že Kadyrov je už možná po smrti. 
+          - Ukrajinská PVO sestřelila v noci na dnešek 12 z 16 ruských dronů. 
+          - Rusové pokračují v opevňování Tokmaku. 
+        videa: |
+          - [Po zásahu řízenou bombou ](https://twitter.com/nexta_tv/status/1703360340841341122)
+          - [Ukrajinská PVO nad Oděsou](https://twitter.com/EuromaidanPress/status/1703320131630514635)
+          - [Pokémoni](https://twitter.com/GloOouD/status/1703367931101360489)
+          - [Pluk K2 odráží velký ruský útok](https://twitter.com/nevedimka123/status/1703370520576631138)
+          - [Trofejní tank](https://twitter.com/front_ukrainian/status/1703382113494433918)
+          - [Šturm](https://twitter.com/GloOouD/status/1703162516065419424)
+          - [Ti správní Čečenci v akci ](https://twitter.com/region776/status/1703320147363332606)
+          - [Vampýr](https://twitter.com/front_ukrainian/status/1703316046294163917)
+          - [Kamikadze dron trefil Rusy během evakuace](https://twitter.com/2uwmp/status/1703384121458749598)
+          - [Kupředu ](https://twitter.com/nevedimka123/status/1703319087542153327)
+          - [Mínus Buk](https://twitter.com/bayraktar_1love/status/1703128040216072568)
+          - [Rumunský raketomet na Ukrajině](https://twitter.com/Heroiam_Slava/status/1703291222960283662)
+          - [Práce ve vzduchu ](https://twitter.com/Osinttechnical/status/1703206783454425473)
+          - [Rusové u Kliščijivky](https://twitter.com/region776/status/170341342592855275)
       - title: "Sobota"
         year: "16. září 2023"
         image: assets/img/timeline/2023-09-16.jpg
