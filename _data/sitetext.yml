@@ -38,6 +38,36 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "18. září 2023"
+        image: assets/img/timeline/2023-09-18.jpg
+        desc: |
+          Britská rozvědka ve svém pravidelném briefingu konstatovala, že Rusko opět používá svoje elitní sbory a jednotky VDV (parašutisty) jako lehkou pěchotu ve snaze zalepit vznikající díry v obraně na Záporožské frontě. Podobnou taktiku údajně použilo Ruské také ve snaze zabránit pádu Andrijivky a u Bachmutu, kdy poslalo na pomoc zdecimované 72. motostřelecké brigádě, bránící se z posledních sil rozhodujícímu útoku ukrajinské 3. šturmové, parašutisty z 31. výsadkové brigády. Výsledek tohoto konkrétního rozhodnutí je, že během následných bojů padl i velitel 31. výsadkové brigády plukovník Andrej Kondraškin, jehož sektorem se Ukrajinci probojovali až do samotné vesnice. Ztráty mezi důstojnickým sborem navíc utrpěly i další ruské formace v Andrijivce: 57., 72. a 85. motostřelecká brigáda, přičemž zabit byl také velitel ruských průzkumníků. Obě situace – jak ta, kterou popisuje britská rozvědka, tak ta, která se odehrála u Bachmutu – ukazují jednak na nedostatek dobře vycvičené regulérní pěchoty, jejichž práci musí dělat jednotky, které mají jiné primární určení, ale také na nemožnost vybavit a podpořit jednotky potřebnou těžkou technikou. Doufejme tedy, že jde o systémový problém, a nejen o náhodné excesy. A teď pár [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0QhrHB7CrNdZsiQfjq7FvudXmKN8C7cnPJH567euFD3UjsjGHAqP5J313mitFWxt6l): 
+        detail: 
+          - Polsko si včera připomínalo 84 let od chvíle, kdy Sovětský svaz napadl Polsko po boku nacistického Německa. Už tehdy přitom Sověti tvrdili, že důvod ke vpádu je ochrana ruskojazyčné menšiny: „Čelíce nastalé situaci, sovětská vláda dala příkaz Hlavnímu štábu Rudé armády, aby rozkázal vojskům překročit hranici a bránit životy a majetky obyvatel Západní Ukrajiny a Západního Běloruska,“ napsal tehdy Molotov polskému vyslanci. A byla to lež stejně tehdy jako loni v únoru. 
+          - Čína tvrdí, že přijala opatření, která zamezí exportu dronů do Ruska. Nově čínské firmy nesmí dodávat na ruský trh drony o hmotnosti 4 kg a vyšší, stejně tak drony, které mají celkovou nosnost 
+          7 kg a více. Nařízení se dále týká dronů s dobou letu delší než 30 minut a všech dronů, které mají schopnost nést jakýkoliv náklad a na povel jej uvolnit. Zákaz vývozu dopadne také na některé klíčové součástky pro drony. 
+          - Wagnerovci v Africe neměli dobrý týden. Na sítích se objevila videa, kde jejich žoldáky a technická vozidla přepadly místní bojůvky, a to konkrétně v Mali a ve Středoafrické republice, s výsledkem ne zrovna příznivým pro wagnerovce. 
+          - Podle Ukrajinců chce Kreml převézt na okupovaná území dělníky ze Severní Koreje. Skutečný účel ale může být skrytá mobilizace takových pracovníků, jako se to v minulosti stalo dělníkům ze zemí střední Asie. 
+          - Ve Voroněži nalezli místní obyvatelé neznámý dron a předali ho vojákům z ruské gardy. Dron později explodoval v budově gardistů, když se ho pokoušeli prozkoumat. 
+          - Prezident Zelenský po odchodu ministra Reznikova kompletně vyměnil personál na ministerstvu obrany. 
+          - Krym byl v noci na dnešek opět pod útokem dronů. Exploze hlásí Sevastopol a Mys Fiolent. 
+          - Ruští vojáci se účastnili vojenské přehlídky v Mexiku na mexický Den nezávislosti. 
+          - Na pobřeží Bulharska se zřítil neznámý dron nesoucí minometný granát. 
+          - Ukrajinská armáda potvrdila osvobození Kliščijivky u Bachmutu. 
+        videa: |
+          - [Azovstal](https://twitter.com/EuromaidanPress/status/1703669433355665889)
+          - [Evakuace u Bachmutu](https://twitter.com/Bodbe6/status/1703710527954846099)
+          - [Drony odhalili útočící Rusy](https://twitter.com/GloOouD/status/1703474731935052076)
+          - [Kliščijivka](https://twitter.com/EuromaidanPress/status/1703455103624036400)
+          - [Andrijivka](https://twitter.com/front_ukrainian/status/1703680598546460723)
+          - [Znovu Andrijivka](https://twitter.com/UkrdefenetlyWin/status/1703483319931850924)
+          - [Francouzské lehké tanky](https://twitter.com/EuromaidanPress/status/1703589909506793657)
+          - [Ruské zákopy u Verbového, bývalé ](https://twitter.com/GloOouD/status/1703517132292567480)
+          - [Nestihl odhodit](https://twitter.com/region776/status/1703728498685473157)
+          - [Nové video Zelenského](https://twitter.com/ZelenskyyUa/status/1703665289567633625)
+          - [Zajatý Rus z Doněcka, 95 let](https://twitter.com/region776/status/1703441174789583011)
+          - [Munice Vulcano](https://twitter.com/bayraktar_1love/status/1703536822947651947)
       - title: "Neděle"
         year: "17. září 2023"
         image: assets/img/timeline/2023-09-17.jpg
