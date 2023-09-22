@@ -38,6 +38,47 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+     - title: "Pátek"
+        year: "22. září 2023"
+        image: assets/img/timeline/2023-09-22.jpg
+        desc: |
+          Podle nových videí se Ukrajincům podařilo přesunout těžkou techniku za ruskou „Surovikinovu linii“ u Verbového. Naoko se tu postup téměř na dva týdny zastavil, nicméně důvodem bylo primárně to, že Ukrajinci po úvodním proražení hlavní obranné linie v režii pěchoty, zvolili pohyb do stran podél linie, namísto postupu dál za ní, aby vyčistili větší úsek, zneškodnili rozsáhlá minová pole, rozšířili průlom a opevnili pozice pro případné ruské protiútoky. A ty skutečně přišly. Rusko stáhlo k Verbovému doslova všechno, co mělo k dispozici, a to nejen rezervisty z týlu, ale také mobilní jednotky parašutistů, které i tady využívá jako pouhou pěchotu s cílem zalepit vznikající díry v obraně. Klíčové teď bude, zda dokáží Ukrajinci efektivně využít těžkou techniku v dalším postupu za obranné linie. Rusko každopádně nemá v týle prakticky žádnou „ulitou“ techniku ani živou sílu. Vše je aktuálně na frontě a skrytá mobilizace nedokáže nahrazovat ztráty na bojišti. Ukrajinci proto stále věří, že ještě letos dojdou ke Krymu. A nám nezbývá než věřit jim. Ale zpátky k [novinkám](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02rBgYzZaSqdoTqRhpygrci9vFkFPVQHrXhBSfa9YcXuVzMJiVXJvvFLn57gW1xaJUl): 
+        detail: |
+          - USA schválily další balík vojenské pomoci v hodnotě 325 mil. dolarů. Obsahovat bude primárně munici do systémů PVO, dělostřelecké rakety a granáty (včetně kazetové munice) a protitankové střely. 
+          - Erdogan si postěžoval, že v sídle OSN visí „LGBT barvy“. Ve skutečnosti barevná výzdoba sálu připomíná cíle světového společenství v oblasti udržitelné ekonomiky a ochrany přírodních zdrojů. 
+          - Ukrajinské speciální jednotky se údajně opakovaně pokusily proniknout do okupovaného Enerhodaru. Nepodařilo se jim ale vytvořit opěrný bod, protože narazily na silný odpor. 
+          - Americké úřady vrátily Ukrajině některé historické artefakty ukradené z ukrajinských muzeí, které byly zadrženy při celní kontrole, když se je ruští občané pokoušeli provézt do země. 
+          - Mezi zabitými ruskými vojáky během operace Ázerbájdžánu v Náhorním Karabachu byli i čtyři starší důstojníci: jeden kapitán, dva podplukovníci a jeden plukovník.
+          - Iniciativa Dárek pro Putina úspěšně dokončila další projekt: sbírku na nákup odminovacího stroje Božena-5. 
+          - Ukrajinská PVO v noci na dnešek úspěšně zasahovala proti 38 ze 44 ruských naváděných raket. 
+          - Z Čornomorsku vyplula další loď s ukrajinským obilím. Veze 17 600 tun nákladu do Egypta. 
+          - Ruskou Tulou se v noci ozvalo několik explozí, načež v celém městě vypadl proud. 
+          - Bulharsko vyhostí sofijského opata a dva další duchovní ruské pravoslavné církve. 
+          - Místní hlásí, že z přístavu v Sevastopolu se po sérii explozí valí hustý dým. 
+          - Demonstranti v Jerevanu potřísnili ruskou ambasádu červenou barvou. 
+          - Ukrajinci zasáhli základnu Rusů v okupované Bachčisaraji na Krymu. 
+          - První americké Abramsy dorazí na Ukrajinu v řádu jednotek dnů. 
+          - Slovensko údajně zruší embargo na dovoz ukrajinského obilí. 
+        videa: |
+          - [Zásah velitelského postu Černomořské flotily](https://twitter.com/nexta_tv/status/1705171980897456624)
+          - [Zelenský v Kanadě](https://twitter.com/KyivIndependent/status/1705085980309696610)
+          - [Video zachytilo, jak Rusové omylem zasáhli vlastní parašutisty artilérií](https://twitter.com/Maks_NAFO_FELLA/status/1704902183886454807¨)
+          - [Zasažené Kurachové ](https://twitter.com/nexta_tv/status/1705152887095996910)
+          - [Ukrajinská snajperka](https://twitter.com/Bodbe6/status/1704998936484712794)
+          - [Mínus BMP](https://twitter.com/GloOouD/status/1705156716571005121)
+          - [I tak se dá hasit tank](https://twitter.com/bayraktar_1love/status/1705140841197474242)
+          - [Skoro](https://twitter.com/herooftheday10/status/1704983076135113076)
+          - [Čištění Andrijivky](https://twitter.com/Bodbe6/status/1704868236267765885)
+          - [Na cvičišti ](https://twitter.com/EuromaidanPress/status/1705160760374997342)
+          - [Ruský voják natočil zásah obrněnce ukrajinskou raketou ](https://twitter.com/GloOouD/status/1704944036300181835)
+          - [Trefa dronem ](https://twitter.com/herooftheday10/status/1704982204390977781)
+          - [Mínus Pjon](https://twitter.com/bayraktar_1love/status/1704983786948116930)
+          - [Andrijivka](https://twitter.com/Bodbe6/status/1705187877594808416)
+          - [Společné foto](https://twitter.com/herooftheday10/status/1705195132838887757)
+          - [Mínus tank](https://twitter.com/nevedimka123/status/1705114839562023170)
+          - [3. šturmová ](https://twitter.com/front_ukrainian/status/1705183911599280245)
+          - [O fous u Kliščijivky](https://twitter.com/Bodbe6/status/1704980233307238841)
+          - [Zákopy plné, ale nikde ani živáčka](https://twitter.com/herooftheday10/status/1705186999018176926)
       - title: "Čtvrtek"
         year: "21. září 2023"
         image: assets/img/timeline/2023-09-21.jpg
