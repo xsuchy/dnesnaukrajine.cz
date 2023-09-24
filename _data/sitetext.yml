@@ -38,6 +38,47 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "24. září 2023"
+        image: assets/img/timeline/2023-09-24.jpg
+        desc: |
+          Ruský ministr zahraničí Lavrov na tiskové konferenci po zasedání OSN prohlásil, že Rusko je připraveno jednat o Ukrajině se Zelenským „a těmi v USA a Británii, kdo ho řídí“, nicméně prý Rusko nebude brát v potaz nabídky k ustanovení klidu zbraní, „protože už v minulosti jednou naletělo“. Také prohlásil, že Zelenského mírová formule nepřichází v úvahu, a že Rusko je ochotné ihned respektovat územní celistvost a nezávislost Ukrajiny, pokud to bude znamenat „respektování ukrajinské deklarace nezávislosti z roku 1991 a tehdejší ústavy“, kde se prý Ukrajina zavázala zůstat neutrálním státem a neusilovat o členství v žádné vojenské alianci. Bystřejší už vědí, že to, jak Lavrov svoje myšlenky formuloval, de facto znamená, že Rusko jednat nechce a nebude. Primárně proto, že Lavrov opět naznačil, že prezident Zelenský není suverénním zástupcem suverénního státu, nicméně také vyřčenou podmínkou. Ukrajinská deklarace nezávislosti ani ústava totiž nemluví o neutralitě, naopak jasně říkají, že Ukrajina je suverénním státem a má právo vytvářet ekonomická a bezpečnostní partnerství na základě vůle lidu. Logicky. Tak jako každá jiná ústava každého jiného nezávislého státu. Netuším tedy, kdy to Ukrajina měla slíbit, ale ve zmíněných smlouvách to jednoduše není. Navíc, apel na dodržování slibů od země, která nedodržuje ani mezinárodní smlouvy a právo, natož nějaké sliby, je – mírně řečeno – úsměvné. Tak pojďme raději na zprávy. A radši si sedněte, bude toho dost: 
+        detail: |
+          - Ruská propaganda stále častěji tvrdí, že se bojů na Ukrajině účastní regulérní armáda některého ze států NATO. Nedávno například Rusové tvrdili, že zničili tank Leopard 2 (video ukazuje zásah, ale nikoliv zničení), jehož posádku tvořili tankisté Německého Bundeswehru, nyní tvrdí, že ruské rakety zasáhli vojenské letiště v Kremenčuku, zničili letouny Su-24, tamější sklad raket Storm Shadow a SCALP a zabili „velký počet personálu NATO a polské piloty, kteří se stroji létali“. Historka je to hezká, ale naráží na jeden zásadní problém: letiště v Kremenčuku je letištěm pro vrtulníky startující vertikálně a nemá žádnou přistávací plochu pro letadla. To ale ruské propagandě nevadí, její diváci nemají čas ani kompetence k tomu informace ověřovat, důležité je neustálé krmení publika tím, že Rusko bojuje s celým NATO, aby se snáze omluvilo, proč Rusko tolik prohrává. 
+          - Wagnerovce v Africe čekají perné měsíce. Nejdříve se včera objevila informace, že se v Mali zřítilo transportní letadlo Il-76 patřící právě ruským žoldákům, a hned vzápětí vyšlo najevo, že afričtí Tuaregové vyhlásili wagnerovcům válku. Tuaregů je aktuálně cca 4,2 miliónu a „jejich“ území zahrnuje polovinu rozlohy Mali, Alžírska, Nigeru a část západní Libye a severu Burkiny Faso. Zelenský se navíc setkal s prezidentem Súdánu a jedno z témat společné diskuse bylo právě působení wagnerovců v zemi, a to je pár dní poté, co se objevily spekulace, že ukrajinská rozvědka byla zapojena do útoků dronů na jednotky wagnerovců. 
+          - Jeden z ukrajinských vojáků, který se vrátil domů díky úspěšné výměně zajatců, vypověděl do médií, jak jeho trestaneckou kolonii přijeli navštívit zástupci Mezinárodního Červeného kříže, respektive zaměstnanci jeho ruské pobočky. Prý přijeli zrovna ve chvíli, kdy ruští dozorci nutili ukrajinské zajatce pochodovat areálem a zpívat ruskou hymnu, načež se zajatcům smáli, natáčeli si je na telefon a plácali je po zádech, zatímco je uráželi. 
+          - Šéf estonské rozvědky prozradil, že Estonsko poskytlo v prvních dnech války Ukrajině zpravodajské informace, které umožnily odrazit ruský vzdušný výsadek na letiště v Hostomelu. 
+          - Norská policie zadržela bývalého důstojníka wagnerovců, který dříve požádal v zemi o politický azyl. Zadržen byl, když se pokoušel překročit hranice zpět do Ruska. 
+          - Spojené státy ustanovily komisi, která bude dohlížet na distribuci vojenské pomoci Ukrajině. Povede jí generál Robert Storch inspektor z amerického Pentagonu. 
+          - Británie údajně posledních 18 měsíců pořádala tajné diplomatické schůzky se zástupci Ruska v New Yorku a Vídni. 
+          - Polský ministr obrany prohlásil, že polská armáda se v budoucnu stane největší pozemní silou v Evropě.
+          - Rogozin, bývalý šéf Roskosmosu, byl „zvolen“ ruským senátorem za okupovanou Záporožskou oblast. 
+          - Ukrajinci oznámili palebnou kontrolu nad ruskou zásobovací trasou z Horlivky do Bachmutu.
+          - Místní obyvatelé hlásí, že ruský Kursk byl zasažen drony. Cílem měl být tamější budova FSB. 
+          - Budanov oznámil, že útoky na Krymský most se brzy stanou běžnou událostí. 
+          - Ukrajinci opět zasáhli ruskou základnu v okupovaném Tokmaku. 
+          - Ukrajina a Kanada podepsaly Smlouvu o volném obchodu. 
+        videa: |
+          - [O ruském Červeném kříži ](https://twitter.com/cryptodrftng/status/1705683550152892531)
+          - [Archiv: Krym v roce 2014](https://twitter.com/qirimlia/status/1705586088008462712)
+          - [Tuaregové jdou do války](https://twitter.com/Heroiam_Slava/status/1705817465928716348)
+          - [Rusové se vrací z Ukrajiny domů ](https://twitter.com/nexta_tv/status/1705817824415911955)
+          - [Trefa!](https://twitter.com/NOELreports/status/1705567695968616482)
+          - [Klobouček!](https://twitter.com/front_ukrainian/status/1705916401888752059)
+          - [Kirpi dostal zásah, přesto zvládl evakuovat raněné vojáky](https://twitter.com/Bodbe6/status/1705706267547664811)
+          - [Trefa!](https://twitter.com/GloOouD/status/1705686707260047576)
+          - [Poničená technika jede na opravy do Ruska](https://twitter.com/front_ukrainian/status/1705684398081757556)
+          - [Cosi spadlo na Kursk](https://twitter.com/nexta_tv/status/1705891890472661152)
+          - [Archiv: ukrajinský pilot evakuuje svůj stroj během ostřelování letiště](https://twitter.com/TheDeadDistrict/status/1705786469586030872)
+          - [Skóre: 4 z 8 ruských tanků](https://twitter.com/Heroiam_Slava/status/1705599115143385223)
+          - [Ukrajinská diaspora přivítala Zelenského v Kanadě ukrajinskou hymnou](https://twitter.com/nexta_tv/status/1705554074765054018)
+          - [Mínus tank](https://twitter.com/GloOouD/status/1705905320520777951)
+          - [Vampýr](https://twitter.com/front_ukrainian/status/1705904193372909815)
+          - [Artilérie zničila ruské antény](https://twitter.com/Bodbe6/status/1705602093459861582)
+          - [Dron versus tank](https://twitter.com/NOELreports/status/1705660787749007725)
+          - [Stryker se vrací z boje](https://twitter.com/front_ukrainian/status/1705634119034511418)
+          - [Ošetřování zajatce](https://twitter.com/nevedimka123/status/1705759645455819136)
+          - [Ruská evakuace](https://twitter.com/666_mancer/status/1705664219557838900)
       - title: "Sobota"
         year: "23. září 2023"
         image: assets/img/timeline/2023-09-23.jpg
