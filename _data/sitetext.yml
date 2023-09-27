@@ -38,6 +38,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "27. září 2023"
+        image: assets/img/timeline/2023-09-27.jpg
+        desc: |
+          Ruské kanály hlásí, že Ukrajinci obnovili ofenzivu u Verbového a Novoprokopivky. Ukrajinci to potvrzují, ale podle prezidenta Zelenského se uvedl do pohybu i další, blíže nespecifikovaný plán. Jedno z videí dokonce zachytilo zničení ruského tanku ukrajinskou střelou na jižním cípu Novoprokopivky. Je tedy možné, že Ukrajinci už drží pozice v samotné vesnici, resp. jejích ruinách. Rusové každopádně stahují další jednotky do okupovaného Tokmaku, což dává tušit, že průlom obrany berou jako pravděpodobný výsledek budoucích ukrajinských akcí. Už aby to bylo. Ale teď pár aktualit: 
+        detail: |
+          - Rusové zveřejnili další videa, která mají dokazovat, že admirál Sokolov žije. Na jednom videu admirál gratuluje sportovcům k úspěchům na turnaji. Ten ale skončil 18. 9. a útok na Sevastopol přišel o 4 dny později. Na jiném mluví o operacích flotily… v budově velitelství, které už dnes nestojí. Ukrajinská rozvědka nicméně oznámila, že se pokusí znovu ověřit své dřívější informace. 
+          - Ruská propaganda skutečně tlačí incident v kanadském parlamentu, co jí síly stačí. Nově tvrdí, že Ukrajina vydala poštovní známku s Yaroslavem Hunkou, což je samozřejmě lež. Kvůli incidentu dnes také rezignoval poslanec Anthony Rota, který Hunku v sále přivítal, za což ho následně kritizovala jak sněmovní koalice, tak opozice. 
+          - Nové ruské video lákající muže ke službě v armádě tvrdí, že se vojáci nezastaví, dokud nedojdou do Berlína, a divákům naznačuje, že účastníci „speciální operace“ dostanou byty a pozemky v Oděse. 
+          - Rusko začalo se stavbou železničního spojení z Ruska do Mariupolu a Volnovachy, aby mohlo zásobovat okupované oblasti i v případě, že to nebude možné dělat přes Krymský most. 
+          - CNN tvrdí, že část wagnerovců opět bojuje na frontě u Bachmutu. Její tvrzení potvrzuje také operační velení Východ. Má se jednat o wagnerovce převezené z Běloruska. 
+          - Twitter (X) ve všech zemích mimo Evropu deaktivoval funkci, skrze kterou mohli uživatelé ohlašovat podvodné zprávy a dezinformace týkající se voleb. 
+          - Šojgu na tiskovce prohlásil, že systematická implementace různých opatření a plánů umožní splnit cíle „speciální vojenské operace“ do roku 2025.
+          - V Rostově nad Donem začal další zinscenovaný soud s ukrajinskými vojáky, kteří bránili Azovstal. Všem hrozí až doživotní vězení.
+          - Lavrov prohlásil, že Finsko vstupem do NATO „pošlapalo vlastní reputaci a přidalo se k anti-ruskému projektu Spojených států. 
+          - 30 až 50 součástek ze zemí mimo Rusko podle ukrajinského námořnictva průměrně obsahují ruské naváděné rakety. 
+          - Odvolací soud potvrdil Navalnému 19 let ve věznici se speciálním režimem za údajný terorismus. 
+          - Auto velitele Doněckých milicí Chodakovského se ocitlo pod palbou. Chodakovský ale přežil. 
+          - SBU zadržela dva obyvatele Kyjeva, kteří podle ní měli pomáhat Rusům navádět rakety. 
+          - Už sedm nákladních lodí proplulo dočasným koridorem z ukrajinské Oděsy. 
+          - Ukrajinský dron zneškodnil elektrickou rozvodnu poblíž Kursku. 
+          - Rusko znovu usiluje o členství v Radě pro lidská práva v OSN. 
+          - Ukrajinci zasáhli vojenské letiště Čkalkovský u Moskvy.
+        videa: |
+          - [Nové ruské náborové video ](https://twitter.com/JayinKyiv/status/1706703496265777498)
+          - [Havárie letadla wagnerovců v Mali](https://twitter.com/yurapalyanytsia/status/1706978242177990908)
+          - [Evakuace pod palbou](https://twitter.com/front_ukrainian/status/1706987011129630974)
+          - [Trefa dronem ](https://twitter.com/nexta_tv/status/1706957562657075306)
+          - [Gepard versus dron ](https://twitter.com/EuromaidanPress/status/1706717769620762859)
+          - [Pion](https://twitter.com/nevedimka123/status/1706708287259849186)
+          - [Ruská artilérie dostala munici – bez výbušniny](https://twitter.com/TheDeadDistrict/status/1706893029771022424)
+          - [Mínus dělo, precizní trefa](https://twitter.com/GloOouD/status/1707007524237455777)
+          - [Trefa polským dronem](https://twitter.com/front_ukrainian/status/1707015758738227205)
+          - [Evakuace z fronty](https://twitter.com/GloOouD/status/1706757723365187755)
+          - [Ukrajinci se seznamují s F-16](https://twitter.com/NOELreports/status/1706956899856351447)
+          - [Sbírka](https://twitter.com/herooftheday10/status/1707007343282544640)
+          - [Termobarické granáty na ruský zákop](https://twitter.com/UkrdefenetlyWin/status/1706909973089783924)
+          - [Dron na lovu](https://twitter.com/Veteransforukr1/status/1706682665636688135)
+          - [Leopard 2](https://twitter.com/Osinttechnical/status/1706665527668531689)
       - title: "Úterý"
         year: "26. září 2023"
         image: assets/img/timeline/2023-09-26.jpg
