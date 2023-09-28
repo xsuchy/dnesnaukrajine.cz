@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "28. září 2023"
+        image: assets/img/timeline/2023-09-28.jpg
+        desc: |
+          Ruská dobrovolnická legie na Ukrajině oznámila, že spouští novou vlnu akcí v Bělgorodské oblasti. Děje se tak jen několik dní poté, co legie oznámila, že ukrajinské úřady umožnily vstup na území Ukrajiny desítkám nových zájemců, které předtím ukrajinská rozvědka pečlivě prověřovala. Podle zpráv na Telegramu překročila ruská legie hranici u Hrabovského, respektive u ruských obcí Starosele a Terebreno. Zatím prý operace probíhá beze ztrát. Otázkou je, jestli vůbec ruské pohraničí stále na ruské straně někdo stráží. Rusko totiž v minulých týdnech stahovalo veškeré rezervy do oblastí bojů, a je tak klidně možné, že hranice aktuálně hlídají jen drobné posádky na postech pohraniční služby FSB. Vzpomeňme si, jak dlouho trvalo, než Rusko bylo schopné odpovědět na Prigožinovu vzpouru. Načasování je každopádně zřejmé – snaha oslabit ruské linie na frontě tím, že legie Rusy donutí povolat některé útvary k obraně hranic. Bude zajímavé sledovat, jak se to bude tentokrát vyvíjet. A teď [pár dalších aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02TJ8P6p8tJ1utLh5raLH5X7eD4qqc8KUrENXQX5ETPZzu6XLU5VjTT26Y51Wtidnel): 
+        detail: |
+          - Ukrajinci na záporožské frontě opět zajali ruskou diverzní skupinu, která se pokusila proniknout za ukrajinské linie oblečena do ukrajinských uniforem. Převlékání se do uniforem protivníka je podle Ženevských konvencí válečný zločin. 
+          - Ukrajina předala Česku skupinu podvodníků, kteří v Česku prováděli telefonní spoofing a celkem měli vylákat z 665 důvěřivých Čechů 7,6 miliónů eur. Skupina také v Česku verbovala zdejší občany ke spolupráci na podvodech. 
+          - Evropská unie varovala některé firmy a vlády v západních zemích, že zavede úplný zákaz na vývoz některých součástek, které Rusko využívá ve svých raketách a dronech, pokud exportéři nezajistí, aby zboží nekončilo v Rusku. 
+          - Švýcarsko odsouhlasilo prodej 25 tanků Leopard 2A4 německému Rheinmetallu pod podmínkou, že tanky nebudou přeprodány Ukrajině. Dá se ale očekávat, že Německo místo toho pošle 25 jiných a tyto si nechá. 
+          - Soud samozvané LLR odsoudil ve zinscenovaném procesu seržanta ukrajinské armády k 19 letům odnětí svobody za údajnou minometnou palbu na obydlenou oblast. 
+          - Maďarsko vysílá do Běloruska svou velvyslankyni jako první země EU od krvavého potlačení protestů, které vypukly v Bělorusku po volbách před třemi lety. 
+          - Několik evropských zemí oznámilo, že budou bojkotovat fotbalová utkání s týmy z Ruska, poté, co UEFA umožnila ruským a běloruským týmům účast v turnaji. 
+          - Generální tajemník NATO dorazil do Kyjeva na neohlášenou návštěvu. Kromě něj je v Kyjevě také francouzský ministr obrany. 
+          - Polští vyšetřovatelé potvrdili, že raketa, která loni dopadla do polského pohraničí, byla ukrajinská. 
+          - Česká vláda dala zelenou nákupu 24 moderních víceúčelových stíhacích letounů F-35 Lightning. 
+          - Několik ruských propagandistů se svěřilo médiím, že našli před dveřmi domu prasečí hlavy. 
+          - Tisíce lidí zůstali trčet na ruských letištích poté, co letištní systémy napadli hackeři. 
+          - Kazachstán oznámil, že podpoří i další balíky protiruských sankcí. 
+          - Rusko snížilo dodávky uranu do Spojených států o polovinu. 
+        videa: |
+          - [Komediální recenze západních zbraní ruským vojákem :D](https://twitter.com/TheKremlinYap/status/1707132044008956371)
+          - [Zajatá diverzní skupina](https://twitter.com/PStyle0ne1/status/1707357208697086295)
+          - [O fous](https://twitter.com/Bodbe6/status/1707113669442552066)
+          - [Kokosovna v Avdijivce byla zasažena leteckými pumami](https://twitter.com/nexta_tv/status/1707369474968404322)
+          - [Dopady na Koksovnu](https://twitter.com/nexta_tv/status/1707426746977419332)
+          - [Definice slova „overkill“](https://twitter.com/Reevesity/status/1707114586506223719)
+          - [Šturm na ruské nory](https://twitter.com/Bodbe6/status/1707195846788329733)
+          - [Přesná trefa = mínus tank](https://twitter.com/GloOouD/status/1707106052372660481)
+          - [Mínus skladiště paliv](https://twitter.com/front_ukrainian/status/1707330733881061647)
+          - [Ruský voják našel vlastní minu (velmi citlivé!)](https://twitter.com/region776/status/1707444050427838752)
+          - [Ruský tank po zásahu ATGM](https://twitter.com/front_ukrainian/status/1707443556518916473)
+          - [Ruská zákopy (citlivé!)](https://twitter.com/region776/status/1707289746698023034)
+          - [Dron versus Terminátor](https://twitter.com/serhiyprytula/status/1707051994366497034)
+          - [Boženka pracuje](https://twitter.com/front_ukrainian/status/1707425348277723489)
+          - [Výcvik 13. brigády](https://twitter.com/Bodbe6/status/1707389152172368123)
+          - [Ošetřování zranění minou (velmi, velmi citlivé!!)](https://twitter.com/nevedimka123/status/1707375642440794141)
       - title: "Středa"
         year: "27. září 2023"
         image: assets/img/timeline/2023-09-27.jpg
