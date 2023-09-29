@@ -38,6 +38,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "29. září 2023"
+        image: assets/img/timeline/2023-09-29.jpg
+        desc: |
+          Lavrov obvinil Francii a Německo z toho, že zničily územní celistvost Ukrajiny tím, že podle něj nezajistily, aby se dodržovaly Minské dohody. Nezávislí pozorovatelé přitom zdokumentovali, že Minské dohody se nedodržovaly od první minuty jejich platnosti, a byly to právě Ruskem řízené milice, kdo je začal porušovat jako první. Experti se navíc víceméně shodují, že Minské dohody byly Ruskem navržené tak, aby dodržet v první řadě vůbec nešly a že je Rusko nikdy ani neplánovalo ctít, pouze je využilo k přezbrojení a politickému tlaku, aby mohlo ospravedlnit další agresivní akce. Což také udělalo. A proto tu teď musíme číst [podobné zprávy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0RKZuSfxZhxNhBpZtDCVEgH7rbLt3WsoLKpsay2MVei6sjoKHtUxkQfkBZfvaMUCkl): 
+        detail: |
+          - Americké ministerstvo vnitra potvrdilo, že Ukrajinci používají poskytnuté zbraně v souladu s jejich účelem a vzájemnými dohodami, a že nedochází k jejich vyvádění do špatných rukou. Tím tedy udělalo tečku za argumenty proruské páté kolony, že zbraně končí na černém trhu.  
+          - Arménie se obrátila na Rusko a žádá, aby Rusko vrátilo zhruba 400 miliónů dolarů, které Arménie zaplatila za zbraně a které doposud Rusko nedodalo. Rusko vrácení peněz odmítlo s tím, že podle smlouvy stále může zbraně doručit. 
+          - MAAE vydala oficiální stanovisko, ve kterém vyzývá Rusko, aby okamžitě stáhlo veškerý vojenský personál z elektrárny v Enerhodaru a zajistilo její bezpečný provoz. 
+          - Putin se setkal se zástupci ministerstva obrany a jedním z velitelů wagnerovců Andrejem Troševem. Troševa zaúkoloval, aby začal vytvářet dobrovolnické jednotky. 
+          - Ruská palba včera zničila budovu základní školy v Avdijivce, která byla teprve před dvěma roky zrekonstruována mimo jiné i díky finanční pomoci z Litvy. 
+          - Německá vláda dala povolení koncernu Rheinmetall vybudovat závod na Ukrajině, kde se budou vyrábět a opravovat obrněná vozidla a náhradní díly.
+          - Ukrajina letos uvedla do provozu 58 nových vrtů na zemní plyn a stala se tak poprvé v historii nezávislá na importu plynu ze zahraničí. 
+          - Ruská propaganda vysílala reportáž o revitalizaci Kaliningradu a použila přitom jako ilustrační záběry videa z polského Elbínku.  
+          - Čečenský Grozný se stane ruským kulturním městem roku 2025. Ano, Rusko je až tak moc velká parodie na stát. 
+          - Podle ruského vojenské blogera Rybáře obnovila Ukrajina ofenzivní akce přes Dněpr v Chersonské oblasti. 
+          - Bělorusko opět tvrdí, že polský vrtulník narušil běloruský vzdušný prostor. Polsko to odmítá.
+          - Ruský kanál Fighterbomber hlásí, že ruská PVO sestřelila vlastní Su-35 poblíž Tokmaku. 
+          - Po explozi u Berďansku zůstalo okupované město částečně bez dodávek proudu. 
+          - Rusové zasáhli domky v Krasnohorivce a zabili dva civilní obyvatele. 
+          - Ukrajinský dron zneškodnil radarovou stanici Kasta u Kursku. 
+          - Delegace Talibánu přijela do ruské Kazaně na jednání. 
+        videa: |
+          - [Požár po včerejším útoku dronu na rozvodnu u Kursku](https://twitter.com/nexta_tv/status/1707655798216589621)
+          - [Padající letadlo u Tokmaku](https://twitter.com/GloOouD/status/1707523191344648347)
+          - [Trefa! ](https://twitter.com/EuromaidanPress/status/1707553023202144673)
+          - [Náročný šturm](https://twitter.com/Bodbe6/status/1707562319058731336)
+          - [CV-90 pálí na ruské opevnění](https://twitter.com/front_ukrainian/status/1707673205874339926)
+          - [Sestřih z jižní fronty](https://twitter.com/GloOouD/status/1707495777008828578)
+          - [Jauvajs](https://twitter.com/region776/status/1707631133008232448)
+          - [Ruský útok zastavily drony – mínus čtyři tanky a dvě BMP](https://twitter.com/bayraktar_1love/status/1707723767407947906)
+          - [Stejný útok, pokračování](https://twitter.com/Osinttechnical/status/1707551386429194266)
+          - [Práce dronů](https://twitter.com/region776/status/1707452713079078937)
+          - [Bulat na frontě](https://twitter.com/front_ukrainian/status/1707726708109967473)
+          - [Práce dronů](https://twitter.com/herooftheday10/status/1707704243535130973)
+          - [Snajpr s termovizí ](https://twitter.com/danielapruna2/status/1707684609507336306)
+          - [Mínus Bučanka s municí](https://twitter.com/Osinttechnical/status/1707640507038334984)
+          - [Mínus tank po zásahu SMART municí](https://twitter.com/Osinttechnical/status/1707421223003566570)
       - title: "Čtvrtek"
         year: "28. září 2023"
         image: assets/img/timeline/2023-09-28.jpg
