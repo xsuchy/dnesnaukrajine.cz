@@ -38,6 +38,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "1. října 2023"
+        image: assets/img/timeline/2023-10-01.jpg
+        desc: |
+          Už 38 zbrojovek z 19 zemí světa z celkem 252 zbrojovek pozvaných na ukrajinské zbrojní fórum (DFNC1) se připojilo k ohlášené alianci. Ukrajina láká firmy na speciální ekonomický režim a nadnárodní spolupráci, která by měla vést k rychlejšímu a efektivnějšímu vývoji moderních systémů, aby Západ mohl lépe čelit současným i budoucím hrozbám totalitních států, jako je Rusko nebo Čína. Od Zelenského je to mimořádně chytrý krok. Ukrajina by tak výrazně posílila svou obranyschopnost i přivedla do země značný kapitál, který jí i kvůli válce zoufale chybí. Navíc se Ukrajina stává zemí s bezkonkurenčně největšími zkušenostmi s ničením ruských zbraňových systémů, což jsou zkušenosti, o které každá světová zbrojovka určitě stojí. A svůj zájem už projevily i české firmy. Ale o tom více v [dnešní svodce](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid025M4r427MosgViWWxonAUzqbnoiH1Ldh9uUhE9aRUfu2YZvMrnFXnTbcqo9XKFSJsl): 
+        detail: |
+          - Ruské útoky ve směru na Kupjansk poslední dny postupně slábly a nyní se omezily pouze na drobné přestřelky a výpady. Důvodem jsou velké ztráty personálu a techniky, které tu Rusové utrpěli při pokusu prorazit linie směrem na Synkivku. Ukrajinci ale hlásí, že Rusko shromažďuje nové síly, částečně tvořené wagnerovci, a očekává se, že brzy spustí nový útok. 
+          - Velitel charkovské obrany Melnyk oznámil, že Rusko v první dni války dokázalo zničit 90 % veškeré protivzdušné obrany v oblasti včetně velitelského postu, protože všechny instalace byly vybudovány ještě za dob Sovětského svazu, a Rusko tak znalo veškeré plány instalací a jejich umístění. 
+          - Americký senát poté, co Republikáni paralyzovali Bidenův kabinet, a ten musel narychlo schválit financování na příští rok, ve kterém chybí financování pomoci Ukrajině, vydal společné prohlášení obou zastoupených stran, že USA budou nadále vojensky podporovat Ukrajiny. 
+          - Ruská vyšetřovací komise odhalila rozsáhlou korupci v závodě na opravu lodí Novik. Skupina lidí zahrnující i bývalého ruského poslance vyváděla z firmy až 80 % prostředků určených na údržbu ruských válečných lodí. 
+          - Nový britský ministr obrany Shapps oznámil, že poprvé bude určitý britský vojenský personál působit přímo na Ukrajině. Předpokládá se, že půjde pouze o instruktory. 
+          - Ukrajinci zasáhli ruský letecký závod ve Smolensku pomocí dronů. Minimálně jeden z dronů byl zneškodněn elektronickými systémy a zřítil se na obydlenou oblast. 
+          - Česká zbrojovka poskytne Ukrajině licenci k domácí výrobě pušek CZ BREN 2. Na Ukrajině se budou vyrábět pod lokální značkou „Síč“. 
+          - V nové ruské školní učebnici se objevila ilustrační fotka k článku o ruské protivzdušné obraně. Na fotce je ale americký Patriot. 
+          - Francie poskytne Ukrajině dalších 6 houfnic CAESAR, 8 samohybných pontonových přívozů a 8 odminovacích robotů. 
+          - Ukrajinci se dnes schází na náměstích a hromadně vzdávají poctu padlým vojákům při příležitosti Dne obránců.
+          - Rusové postupně vyřazují z osnov výuku ukrajinštiny ve školách v okupovaných oblastech. 
+          - Ukrajinská PVO v noci na dnešek sestřelila 16 ze 30 kamikadze dronů nad jižní Ukrajinou. 
+          - U Ivano-Frankivsku explodovala po protržení část ropovodu. Z místa se válí hustý dům. 
+          - Ukrajina k dnešnímu dni zničila už více než 5 000 ruských dronů. 
+          - Evropská Unie doposud vycvičila 27 000 ukrajinských vojáků. 
+          - Slovensko se stalo další obětí v informační válce.
+        videa: |
+          - [Video v reakci na kritiku ukrajinské ofenzivy](https://twitter.com/NatalkaKyiv/status/1707812329432232136)
+          - [Dojemné video ukrajinských paragánů](https://twitter.com/DefenceU/status/1708064177036705984)
+          - [Mínus ruská útočná skvadra](https://twitter.com/GloOouD/status/1708218860304834980)
+          - [Medicína na frontě](https://twitter.com/Kochevenko/status/1708355816695209993)
+          - [Ukrajinský dron nad Soči](https://twitter.com/Maks_NAFO_FELLA/status/1708368727341756727)
+          - [Pád dronu ve Smolensku ](https://twitter.com/front_ukrainian/status/1708419834101321820)
+          - [Trefa!](https://twitter.com/GloOouD/status/1708179292364906993)
+          - [Velmi přesná trefa (a velmi citlivé!)](https://twitter.com/region776/status/1708393418714726629)
+          - [Lov pomocí dronu s termovizí ](https://twitter.com/front_ukrainian/status/1708381127134646586)
+          - [Hod věží pokračuje! ](https://twitter.com/Osinttechnical/status/1708241643181064569)
+          - [Rusové u Bachmutu](https://twitter.com/region776/status/1708386835779780755)
+          - [Návrat s kořistí ](https://twitter.com/nevedimka123/status/1708390552486473732)
       - title: "Sobota"
         year: "30. září 2023"
         image: assets/img/timeline/2023-09-30.jpg
