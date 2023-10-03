@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "3. října 2023"
+        image: assets/img/timeline/2023-10-03.jpg
+        desc: |
+          Ukrajinci už si zase dělají z ruských úředníků legraci po telefonu. Tentokrát zveřejnili video, na kterém ukrajinský voják ze slavného pluku K2 volá postupně třem manažerům ruského Uralvagonzavodu jako „někdo, kdo zrovna bojuje na Donbasu“, aby si postěžoval na špatný stav mechanických dílů nových tanků, časté poruchy a nefunkční systémy a vyčetl jim, že tanky ze sovětské éry byly spolehlivější než kus z roku 2021, který se mu dostal do rukou. Poté, co se manažeři vymlouvají a omlouvají, tak jim vpálí, že je naprosto nepřijatelné, aby ukrajinský voják musel překonat tolik překážek, aby vůbec tank ukořistil, a nakonec zjistil, že tank ani pořádně nefunguje. Krásná práce. Ale dost legrace, teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02NhL7X7A5Kh5eJza8fUdqDhkMwmJjjwu8F5eRr1hjzk7h5e7PUngWEqDrnVuyBT35l): 
+        detail: |
+          - Podle deníku The New York Times s odkazem na zdroje v americké vládě se Putin v následujících měsících pokusí oslabit nebo úplně přerušit americkou a evropskou vojenskou pomoc Ukrajině. Využijte k tomu narativy ruské propagandy, proruská uskupení nebo strany v jednotlivých zemích a také nové technologie jako je AI. Putin prý věří, že dokáže západní pomoc oslabit skrze vlivové operace natolik, že v čase ruská armáda opět získá převahu na bojišti. 
+          - Ruská vyšetřovací komise obvinila čtyři ukrajinské velitele z údajného terorismu. Čtveřici šťastlivců tvoří šéf rozvědky Budanov, velitel letectva Oleščuk, velitel námořnictva Nejižpapa a velitel dronového pluku Burdeňuk. Protože když něco dělá Rusko, je to jen „speciální operace“, když se jeho nepřítel brání, je to vždy „nacismus a terorismus“. 
+          - Šojgu na tiskové konferenci oznámil, že není potřeba vyhlašovat další vlnu mobilizace, aby byly naplněny potřeby „speciální vojenské operace“. Ve skutečnosti ale mobilizace nikdy neskončila a Rusko skrytě mobilizovalo stovky tisíc branců zejména ze vzdálených chudých regionů Federace. 
+          - Rusko údajně plánuje test rakety Burevestnik s jaderným pohonem. Raketu ale zatím nikdo nikdy neviděl a pravděpodobně existuje pouze na papíře nebo ve fantaziích Putinových propagandistů. 
+          - Bývalý britský ministr obrany Ben Wallace prohlásil, že jsme svědky počátku boje o Krym a musíme dát Ukrajině vše, co potřebuje, aby válku ukončila nejrychleji, jak to jen lze. 
+          - Ukrajina vyřadila maďarskou banku OTP ze seznamu mezinárodních sponzorů války ve snaze získat podporu Maďarska pro další balíčky vojenské a finanční pomoci EU. 
+          - Ukrajina přidala tři čínské firmy obchodující s ropou a plynem na seznam mezinárodních sponzorů ruské války kvůli jejich trvající spolupráci s Ruskem. 
+          - Výsledkem opilecké hádky tří vojáků v Kyjevě jsou dva mrtví. Přeživšímu hrozí až 15 let za dvojnásobnou vraždu. 
+          - Na okupovaném území se srazila ruská Strela-10 s projíždějícím vlakem. Tři vojáci přitom zahynuli. 
+          - Arménský parlament ratifikoval Římský statut a nyní tedy plně uznává pravomoc soudu v Haagu. 
+          - V Rusku nyní stojí 110 pomníku diktátora Stalina. 90 % z nich přitom vzniklo až za vlády Putina. 
+          - Ukrajinci zničili Rusům systém elektronické války Borisoglebsk-2 s cenovkou 200 mil. dolarů. 
+          - Ukrajinská PVO zlikvidovala v noci 29 z 31 dronů a jednu naváděnou raketu Iskander. 
+          - Spojené státy připravují i přes politické tahanice další balík pomoci Ukrajině. 
+          - V ruském Rostově na Donu hoří skladiště vojenských uniforem. 
+          - Instagram zablokoval profil synovi Kadyrova Adamovi. 
+          - Zelenský navštívil velitelství u Kupjansku.
+        videa: |
+          - [Reklamace tanku po telefonu](https://twitter.com/AleksandrX13/status/1709070881576652866)
+          - [Ruský šrot po nevydařeném útoku](https://twitter.com/nexta_tv/status/1708976723969106359)
+          - [Bradley](https://twitter.com/GloOouD/status/1708894578894373209)
+          - [Rusové dostali „novou“ munici do minometů ](https://twitter.com/PStyle0ne1/status/1708958198093275480)
+          - [Ukrajinský tank pracuje na ruských pozicích](https://twitter.com/region776/status/1709091782716514478)
+          - [Pieta v Kyjevě s účastí 27 evropských ministrů ](https://twitter.com/nexta_tv/status/1708923830142370026)
+          - [Mínus 27](https://twitter.com/GloOouD/status/1709144370098651233)
+          - [Trefa!](https://twitter.com/region776/status/1709156055907967215)
       - title: "Pondělí"
         year: "2. října 2023"
         image: assets/img/timeline/2023-10-02.jpg
