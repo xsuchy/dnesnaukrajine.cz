@@ -38,6 +38,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "7. října 2023"
+        image: assets/img/timeline/2023-10-07.jpg
+        desc: |
+          Další den, další válka. Svět bohužel očividně stále odmítá vylézt ze svého zaprděného teplíčka a připustit si, že ruská invaze na Ukrajinu má globální dopady. A že ty dopady budou jen horší, dokud se Západ Rusku jasně nepostaví. Všechny diktátorské režimy a teroristické skupiny po celém světě teď už přes rok a půl sledují laxní reakci Západu na probíhající konflikt a cítí svou příležitost. Bezpečnostní struktury, které vzešly z druhé světové války, se čím dál více ukazují jako neschopné reagovat na situaci, kdy se některá země rozhodne nerespektovat mezinárodní právo a rozpoutat dobyvačnou válku. S každým dalším dnem, kdy má Rusko své vojáky na Ukrajině, tak roste i šance, že Čína napadne Taiwan. A na Blízkém východě už ta napnutá struna dnes ráno praskla. Víc v [dnešním reportu](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0EPcCcY7rv4SjNJcPyPTWuZDty58MPFbbWuWibgUZSBeeR75Y2h5h2hDWvjMmmqTBl): 
+        detail: |
+          - Spojencem Ruska – Íránem – vyzbrojení teroristé z Hamásu de facto vyhlásili válku Izraeli. Během masivní raketové baráže překročili hranice a rozpoutali teror ve městech u hranic s pásmem Gazy. Jak na zprávy o vraždění civilistů v ulicích Sderotu reagují ruské kanály? Přesně tak, jak byste čekali: Slaví a radují se, že Izrael nebude moct podpořit Ukrajinu, když musí bojovat doma, sdílí produkty dlouhodobé nechutné ruské antisemitské propagandy a vysmívají se Izraelcům u brutálních videí zveřejněných členy Hamásu. Rusko-Írán-Čína. Nová Osa zla. 
+          - Ruská PVO si opět sestřelila vlastní stíhací letoun, tentokrát poblíž Mariupolu. Ruské kanály sice tvrdí, že letoun byl ukrajinský, ale jednak ukrajinské letouny nelétají za frontovou linii, ale hlavně sestřel vlastního letounu potvrdil i ruský kanál Fighterbomber. 
+          - Po sérii neúspěšných ruských útoků ve směru na Synkivku u Kupjansku podnikly ukrajinské síly protiútok ve směru na Lyman Peršyj a vytlačily Rusy z pozic v tamějších lesích. 
+          - Ukrajinci v noci na dnešek opět zasáhli okupovaný Sevastopol. Na místě bylo slyšet několik explozí, část města se ocitla bez proudu a Rusové preventivně uzavřeli Krymský most. 
+          - Okupační správa v Záporožské oblasti oznámila, že lidé, kteří si nevyzvednou do konce roku 2023 ruský pas, nebudou mít od Nového roku přístup ke zdravotní péči.
+          - Peskov reagoval na tragédii v Hroze. Celou událost komentoval jen slovy, že „Rusko nezasahuje civilní cíle“. Co by taky měl dělat jiného než bez ustání lhát.
+          - Partyzáni v Nové Kachovce vyhodili do vzduchu auto i s šéfem místní buňky Putinovy strany Jednotné Rusko. Ten je nyní v kritickém stavu v nemocnici. 
+          - Ukrajinská SBU vylákala ruského špiona z okupovaného Podněstří a na Ukrajině ho pak zatkla. Pro Rusko měl vytvořit špionážní síť v Oděse. 
+          - Ukrajincům se podařilo získat nové pozice na východní straně Novoprokopivky a připravují půdu k budoucímu útoku na samotnou obec. 
+          - Rusové opět zasáhli přístavní infrastrukturu u Oděsy a zničili terminály pro export obilí při masivním útoku pomocí raket a dronů. 
+          - Počet obětí ruského útoku na pietní shromáždění v Hroze se vyšplhal na 52.
+          - Severní Korea začala podle USA dodávat Rusku dělostřeleckou munici. 
+          - Rusové se pokouší obnovit ofenzivu v Marjince. Zatím bez výsledku. 
+          - Turecko poskytlo Ukrajině 600 ks kulometů Canik M2 50. cal.
+          - Počet vězňů v Rusku se meziročně snížil o 54 000. Proč asi. 
+        videa: |
+          - [Mínus tři při přestřelce na blízko](https://twitter.com/herooftheday10/status/1710570308300652771)
+          - [Valery přišel o syna a zetě při útoku na Hrozu ](https://twitter.com/NOELreports/status/1710342926948073969)
+          - [Ukrajinská PVO u hranic s Rumunskem](https://twitter.com/Schizointel/status/1710478650397589867)
+          - [Postřeh!](https://twitter.com/GloOouD/status/1710378897383006375)
+          - [Mínus BMP](https://twitter.com/Osinttechnical/status/1710388209652261140)
+          - [Budoucí pole slunečnic](https://twitter.com/region776/status/1710546980412571878)
+          - [Ruská palba na Ukrajince u Novoprokopivky](https://twitter.com/NOELreports/status/1710302526552044014)
+          - [Vampýr u fronty](https://twitter.com/region776/status/1710296161830023228)
+          - [Mínus dva tanky](https://twitter.com/NOELreports/status/1710361521300058586)
+          - [HIMARS na rande s ruským cvičištěm](https://twitter.com/region776/status/1710278208464241077)
+          - [Kultura na frontě](https://twitter.com/nevedimka123/status/1710490501412003918)
+          - [Pás min zničený dělostřeleckou palbou ](https://twitter.com/Osinttechnical/status/1710436121644081246)
       - title: "Pátek"
         year: "6. října 2023"
         image: assets/img/timeline/2023-10-06.jpg
