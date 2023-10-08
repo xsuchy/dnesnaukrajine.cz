@@ -38,6 +38,35 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "8. října 2023"
+        image: assets/img/timeline/2023-10-08.jpg
+        desc: |
+          Ruská propaganda oživuje dvě pohádky své propagandy a přidává jednu novou. Ta první se věnuje údajnému luxusnímu životu Zelenských a šíří vymyšlené účty za drahé klenoty, které si má Olena Zelenská kupovat při státních návštěvách. Druhá je už několik zopakovaný koordinovaný útok na veřejnou debatu, kdy proruské účty šíří prakticky totožný status: „Jak to, že jsem za 24 hodin útoku na Izrael viděl více videí z bojů než za téměř dva roky na Ukrajině.“ Copy-paste tohoto ruského narativu opět šířili i někteří proruští politici z konzervativní části spektra včetně Donalda Trumpa mladšího. Novinkou je ale tvrzení, že Hamás získal zbraně pro svůj útok na Izrael na černém trhu od Ukrajiny. Někteří představitelé Hamásu to dokonce sami řekli do médií. Je tedy víc než jisté, že Rusko o útoku na Izrael nejen vědělo předem, ale nejspíš ho i aktivně podpořilo. Že by ale Hamás měl zbraně z Ukrajiny, je jednoduše lež. Hamás je naopak léta vyzbrojovaný Íránem a Ruskem. A i analytici z ISW ve svém nejnovějším briefingu uvedli, že Rusko nejspíš zneužívá Hamás, aby odvrátilo pozornost světa od Ukrajiny. A nutno říct, že podle hlavních zpráv všech světových médií se mu to daří. Takže si pojďme připomenout, [co se děje na Ukrajině](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02VZQPtUeJ7CHtE8NGKoeLb2EQmSxdmcT44huaC8VbR1yWSaBNqEG8qgApbcQTuCR2l):
+        detail: | 
+          - Na internetu se objevila fotka údajně z okupovaného Mariupolu zachycující rusky psaný billboard, který má lákat ruské děti na letní tábor s vojenskou tematikou. To by nebylo nic nového, takové tábory Rusko pořádá pravidelně, tenhle se ale nachází v Severní Koreji. 
+          - Elon Musk odporučil svým fanouškům sledovat několik zdrojů k tématu Izraele. Jedním z nich je známý OSINT účet z Libanonu, který šíří ruskou propagandu, antisemitské názory a nijak se netají sympatiemi k Hizbaláhu.
+          - Dánsko odkoupilo závod na výrobu munice, který v roce 2008 samo prodalo, a hodlá v něm znovu spustit domácí výrobu munice. O provoz se má postarat společně několik soukromých firem. 
+          - 15 civilistů bylo zraněno při ruské dělostřelecké palbě na rezidenční oblasti v Kosťantynivce a v Chersonu. 
+          - Ukrajina v očekávání ruských útoků na energetickou soustavu navýšila kapacitu výroby energie o 1,7 gigawattů. 
+          - Lukašenko tvrdí, že Bělorusko vyvinulo svou vlastní verzi satelitního internetu po vzoru Starlinku. 
+          - Ruská muzea odmítají vrátit více než 110 000 artefaktů ukradených z Ukrajiny během okupace.
+          - Rusové tvrdí, že Ukrajinci shromažďují síly k útoku přes Dněpr v Chersonské oblasti. 
+          - Ze Severní Koreje míří do Ruska bezprecedentní počet nákladních vlaků.  
+          - Ukrajina poskytne bezplatné bydlení 2 400 válečným veteránům. 
+          - Po celém Kyjevě dnes vlají vlajky Izraele. 
+        videa: |
+          - [Vojáci Ukrajiny podpořili Izrael ](https://twitter.com/nexta_tv/status/1710966418550702253)
+          - [O další moderní tank míň](https://twitter.com/GloOouD/status/1710994905965760987)
+          - [Táborák](https://twitter.com/Azovsouth/status/1710609046049300945)
+          - [HIMARS versus TOS](https://twitter.com/bayraktar_1love/status/1710597169760067833)
+          - [Ruská pěchota neměla dobrý den ](https://twitter.com/GloOouD/status/1711083131237797916)
+          - [U Verbového](https://twitter.com/region776/status/1711003914496344256)
+          - [Trefa ruské útočné grupy](https://twitter.com/GloOouD/status/1711037992607887690)
+          - [Ostřelování ruských pozic](https://twitter.com/region776/status/1711068905509466363)
+          - [Mínus čtyři tanky](https://twitter.com/GloOouD/status/1710966603318284488)
+          - [T90 hoří kousek od zákopů](https://twitter.com/GloOouD/status/1710924195637469546)
+          - [3. šturmová](https://twitter.com/region776/status/1710962312411222228)
       - title: "Sobota"
         year: "7. října 2023"
         image: assets/img/timeline/2023-10-07.jpg
