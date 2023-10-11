@@ -38,6 +38,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "11. října 2023"
+        image: assets/img/timeline/2023-10-11.jpg
+        desc: |
+          Rusové už několik dní bez ustání útočí na Avdijivku s cílem obklíčit město. Zapojeno je několik tisíc vojáků, stovky tanků a obrněných vozidel, stíhací bombardéry i helikoptéry. Jejich dosavadní strategie „blitzkriegu“ ale podle všech ukazatelů nedokázala prolomit ukrajinskou obranu. Rusové ztratili v bezhlavých útocích desítky kusů těžké techniky jen za posledních 24 hodin, výsledkem čehož je, že na severní straně města posunuly frontu o pár stovek metrů k dalším remízkům. Ukrajinské kanály mluví o úplném selhání ruské ofenzivy, ruské víceméně říkají to samé s tím, že když se rychlý útok nepovedl, další útok na město by mohl znamenat několikaměsíční dobývání s nejasným výsledkem, a to proto, že město je už od roku 2014 Ukrajinci soustavně opevňováno a okolí zaminováváno. Jeden z ruských blogerů sice tvrdí, že Rusové nyní mohou ostřelovat hlavní komunikaci mezi posádkou ve městě a týlem, ale vzhledem k tomu, že tím zároveň postaví dělostřelectvo na dostřel ukrajinské protibaterijní palbě, není to zrovna velký úspěch. Je ale na místě vývoj u Avdijivky i dál sledovat. I kdyby jen z čiré škodolibosti. A teď pár [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0iJye1sXXymS1Zrmu1kUnzYamx4jJzMnj1pwNKFApLcnxFVhTW6dr5ZfvpBjG2Xyfl):  
+        detail: |
+          - Spojené státy a Velká Británie oznámily další balíčky vojenské pomoci Ukrajině. Celková hodnota obou balíčku přesáhne 310 miliónů dolarů. Zaměřeny by měly být primárně na další protivzdušnou obranu. Kanada posílá Ukrajině novou zásilku zimních uniforem a zimního vybavení a také tisíce kusů různých druhů dělostřelecké munice. Německo také oznámilo nový balík pomoci - ten bude obsahovat mimo jiné další systém Patriot, systémy Iris-T a Gepard. 
+          - Ukrajinská rozvědka odhalila dva kolaboranty, bratry ve věku 23 a 30 let, kteří spolupracovali s Rusy a poskytovali jim informace k zaměřování raketové palby. Právě oni dva jsou zodpovědní i za ruské ostřelování Hrozy, kde zahynulo k dnešnímu dni už 55 lidí. 
+          - Podle zatím nepotvrzených informací byla explozí poškozena ruská hlídková loď Pavel Deržavin ve vodách poblíž Sevastopolu poté, co najela na vlastní námořní minu. 
+          - Kadyrov na konferenci označil Stalina za zrádce kvůli tomu, že vystěhovával obyvatele z ruských národnostních menšin. S Putinem to očividně nekonzultoval. 
+          - Ukrajinská SBU zadržela muže, který se v Charkově pokusil vyhodit do povětří rozvodnu plynu. Naverbovat a instruovat ho měla ruská tajná služba. 
+          - Belgie bude první zemí, který poskytne Ukrajině prostředky zmrazené Rusku v souvislosti se sankcemi. V tuhle chvíli jde o zhruba 1,7 miliard eur. 
+          - Dánsko chce dodat první stroje F-16 Ukrajině ještě na jaře roku 2024. Naopak Belgie oznámila, že první stroje nejspíš poskytne až v roce 2025. 
+          - Británie poskytne Ukrajině systémy MSI-DS Terrahawk Paladin na obranu energetické infrastruktury před kamikadze drony. 
+          - Bulharské úřady odhalily zločinné spiknutí s cílem exportovat do Ruska zboží, které může být využité pro vojenské účely.  
+          - Německá vláda objednala u koncernu Rheinmetal 150 000 kusů dělostřelecké munice pro Ukrajinu. 
+          - Turecko, Bulharsko a Rumunsko zvažují, že společně zbaví Černé moře ruských volně plujících min. 
+          - V Ukrajinském parlamentu leží návrh na zařazení Hamásu na seznam teroristických organizací. 
+          - V Bruselu začalo další setkání formátu Ramstein s účastí prezidenta Zelenského. 
+          - U Avdijivky byl sestřelen ruský Su-25. 
+        videa: |
+          - [Noční přepad ruského náklaďáku](https://twitter.com/nexta_tv/status/1712039724192338279)
+          - [Mínus 15 tanků v jediném směru ](https://twitter.com/GloOouD/status/1712117283227660500)
+          - [O dobývání obce Robotyne](https://twitter.com/Hromadske/status/1712038162329940023)
+          - [Mínus další tank](https://twitter.com/EuromaidanPress/status/1712104514298249630)
+          - [Neschovali](https://twitter.com/NOELreports/status/1712116749221441701)
+          - [Dva ukrajinští zajatci za jedno tělo padlého Rusa](https://twitter.com/Bodbe6/status/1711805782868611403)
+          - [Lancet s dlouhým doletem zničil ukrajinský Su-25](https://twitter.com/EuromaidanPress/status/1711924583681720386)
+          - [Rusové lynčují brance na frontě](https://twitter.com/nevedimka123/status/1712066754019545599)
+          - [Bývalé ruské pozice v Kliščijivce](https://twitter.com/Bodbe6/status/1711914687107829958)
+          - [Javelin u Avdijivky](https://twitter.com/EuromaidanPress/status/1712069785385677179)
+          - [Trefa GPS municí](https://twitter.com/bayraktar_1love/status/1711809673102299617)
+          - [Výjezd mediků na frontu](https://twitter.com/Bodbe6/status/1711918716655390931)
+          - [Mínus tank](https://twitter.com/nevedimka123/status/1712062160048734691)
+          - [Mínus další tank](https://twitter.com/herooftheday10/status/1712030815972892705)
       - title: "Úterý"
         year: "10. října 2023"
         image: assets/img/timeline/2023-10-10.jpg
