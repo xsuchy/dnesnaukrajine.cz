@@ -38,6 +38,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "13. října 2023"
+        image: assets/img/timeline/2023-10-13.jpg
+        desc: |
+          Pátek. Podle ukrajinských velitelů u Avdijivky ztratili Rusové za pouhé dva dny u Avdijivky okolo 2 000 vojáků a až stovky kusů těžké techniky. Přesto jejich výpady dál pokračují a Ukrajinci hlásí, že i na jejich straně jsou ztráty personálu a některé techniky, zároveň ale dodávají, že ztráty nepřítele jsou nepoměrně vyšší. Rusové se nyní pokouší dobýt skládku „Terrikon“ na severu Avdijivky, ze které je poměrně dobrý výhled na zbytek města. Ukrajinci jim tu ale kladou tuhý odpor, což se odráží i v denních přírůstcích ztrát. Ukrajinci naopak pozvolna postupují od Kliščijivky a vytváří si více prostoru na západ od obce Robotyne. Situace je ale kvůli informační mlze velmi nepřehledná. Tak nezbývá než, jako obvykle – držet všechny čtyři palce. A teď [pár aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid021X3qmky9sCUbyzQCS1ZPakcrFMGgLCco2JjTpwf8dNHeeXJLgKWWSQ1sSmUUe3UXl) pro lepší kontext: 
+        detail: |
+          - Zdroj v ukrajinské rozvědce tvrdí, že ruský hlídkový člun Pavel Deržavin nenajel u Sevastopolu na minu, ale zasáhl ho experimentální ukrajinský dron „Sea Baby“. Navíc se objevily informace, které naznačují, že poškozena byla i jiná loď – nosič raket Kalibr třídy Bujan-M – a drony útočily také na remorkér, který jedné z lodí vyjel na pomoc. 
+          - Nizozemský premiér nečekaně navštívil Oděsu a společně s prezidentem Zelenským se setkal s vojáky, kteří se zotavují v tamější nemocnici. Při té příležitosti oznámil, že Nizozemsko poskytne Ukrajině další baterie systému Patriot a nové hlídkové čluny. 
+          - Parlamentní shromáždění Rady Evropy (PACE) schválilo rezoluci, která de facto označuje Vladimíra Putina za nelegitimního vládce Ruska tím, že označuje dodatky k ruské ústavě umožňující Putinovi vládnout až do roku 2036 za ilegální. 
+          - Rusům se během jejich nákladné ofenzivy u Avdijivky podařilo obsadit zhruba 4,5 čtverečních kilometrů území ve dvou různých směrech. 
+          - Rusové zaútočili kamikadze dronem na starší pár, který cestoval v autě poblíž Beryslavi. Žena útok nepřežila, muž vyvázl s těžkými zraněními. 
+          - Rusové zasáhli raketou budovu správy sociálního zabezpečení v Pokrovsku. 13 lidí bylo zraněno a jeden člověk zemřel. 
+          - Wagnerovci zveřejnili video, na kterém ikona zabitého Prigožina „pláče“. Ano, až takhle bizarní současné Rusko je. 
+          - Spojené státy tvrdí, že Severní Korea poskytla Rusku zhruba 1 000 kontejnerů s municí a vojenským materiálem.
+          - Rusové na Krymu zatkli právníka Alexeje Ladina, který často zastupuje politické vězně nebo vězněné Ukrajince. 
+          - Ukrajinský soud poslal na doživotí za mříže ženu, která pomáhala Rusům navádět rakety na vojenská zařízení.  
+          - Ukrajinští sabotéři vyhodili do povětří ruský vlak s municí v okupovaném Melitopolu. 
+          - Rusové zadrželi tři z Navalného právníků a viní je z účasti na extremistické skupině. 
+          - Během útoku Hamásu na Izrael zahynulo také 12 ukrajinských občanů. 
+          - Rusové ztratili u fronty další bitevník Su-25. 
+        videa: |
+          - [Další tank na holení ](https://twitter.com/GloOouD/status/1712750787061858403)
+          - [Nebyl to jen zničený most](https://twitter.com/front_ukrainian/status/1712869535592644965)
+          - [Gepard versus drony](https://twitter.com/EuromaidanPress/status/1712688407321686053)
+          - [Dál už neprojeli ](https://twitter.com/Bodbe6/status/1712799676200550490)
+          - [Ruská zápalná munice svržená na Avdijivku ](https://twitter.com/GloOouD/status/1712721430540886316)
+          - [Dron se nefláká](https://twitter.com/EuromaidanPress/status/1712840614537253117)
+          - [Ukrajinský šturm ](https://twitter.com/region776/status/1712816617946763394)
+          - [Tři zásahy jednoho tanku](https://twitter.com/Bodbe6/status/1712571304065253823)
+          - [Přepad ruských pozic pomocí tanku](https://twitter.com/EuromaidanPress/status/1712627000978833677)
+          - [Trefa Javelinem](https://twitter.com/GloOouD/status/1712578429617328252)
+          - [Ruský vlastňák ](https://twitter.com/nexta_tv/status/1712895870528598269)
+          - [Mínus BMP](https://twitter.com/front_ukrainian/status/1712900016568684692)
+          - [Lov na tanky](https://twitter.com/region776/status/1712740190392131691)
+          - [Ježdění nahoře se nevyplácí ](https://twitter.com/bayraktar_1love/status/1712784274225586495)
+          - [Mínus TOS](https://twitter.com/GloOouD/status/1712834830310719542)
+          - [Ukrajinský raketový systém Alder](https://twitter.com/region776/status/1712826649186533581)
+          - [Tři mouchy jedním… ](https://twitter.com/nevedimka123/status/1712817807132381418)
+          - [Neodjel](https://twitter.com/herooftheday10/status/1712777460775895273)
       - title: "Čtvrtek"
         year: "12. října 2023"
         image: assets/img/timeline/2023-10-12.jpg
