@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "14. října 2023"
+        image: assets/img/timeline/2023-10-14.jpg
+        desc: |
+          Putin popřel, že by Rusko stálo za poškozením podmořských sítí mezi Finskem a Estonskem. A měl u toho skončit. Poté ale ještě dodal, že neměl o existenci takových sítí ani tušení, a následně nabídl jako vysvětlení jakési neexistující zemětřesení. Skoro jako dítě, které něco provedlo, a tak si vymýšlí pohádky, aby se zbavilo viny. Jedním z aktérů, který Putinovo vysvětlení nebere, je Británie. Ta proto posílá 20 000 vojáků na základny NATO v severní Evropě jako odstrašující sílu, a zároveň pošle skupinu lodí a letadel na ochranu kritické infrastruktury před dalšími případnými „nehodami“. Strategie „na hrubý pytel – hrubá záplata, je beztak ta jediná, které diktátoři rozumí. I tahle záplata je ale přinejhorším plátěná. A teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02qiHPXWgwATqQ6THgP44M2WdT4KcxKEQ62N35keN6cxm1j8cuaQP8uxSwKQ9L2SRol): 
+        detail: |
+          - Podle deníku The Wall Street Journal obdržel Hamás krátce před útokem na Izrael 93 miliónů dolarů od digitálních peněženek skrz kryptoburzu sídlící v Moskvě. Stejná burza zároveň funguje jako spolehlivý nástroj pro Rusko, jak obcházet západní sankce. Rusové přes burzu nakupují kryptoměny za rubly a následně je prodávají za dolary. Že kryptoměny slouží velmi dobře k financování terorismu a organizovaného zločinu po celém světě, překvapí asi málokoho. 
+          - Společně s Avdijivkou zesílili Rusové také svoje výpady ve směru na Kupjansk. Jejich cílem je město znovu obklíčit a dobýt, ale od toho jsou zatím doslova na míle daleko. Generál Syrský k tomu řekl, že ukrajinské jednotky v oblasti jsou na tento vývoj velmi dobře připraveny. Tak snad. 
+          - Rusové zasáhli raketami Smerč obec Bahatyr u Doněcku. Poškozeno bylo na 20 domů, budova kostela, školy a elektrická rozvodna. Pod raketami zahynul 11letý kluk a několik dalších lidí bylo zraněno. 
+          - Stav ruského vozového parku nejlépe ilustruje vizuální potvrzení, že Rusové přišli během útoku na Avdijivku také o starý sovětský transportér BTR-50 ze začátku 50. let.  
+          - Ruský diplomat Nikolaj Kobrinec byl nalezen mrtvý ve svém hotelovém pokoji v Turecku. Do země přicestoval na setkání ruských velvyslanců. 
+          - Na Krymu i v ruském pohraničí je horko. Zasažen byl opět Taganrog a výbuchy hlásí i Sevastopol, nad kterým intenzivně pracuje ruská PVO. 
+          - Ukrajinské jednotky u Avdijivky hlásí, že Rusové na tomto úseky začali opět používat bariérové jednotky. 
+          - Putin odsoudil kroky Izraele a podpořil Palestince, Hamás mu za to dnes poděkoval. Vrána k vráně… 
+          - Rusové oznámili, že dokončili opravu Krymského mostu a jeho dálniční sekce je opět plně v provozu. 
+          - Podle Jusova mají stále Rusové jako jeden ze strategických cílů zatáhnout Bělorusko do války. 
+          - Arménský prezident schválil účast Arménie na Římském statutu. 
+        videa: |
+          - [Zastavené ruské útoky na Avdijivku ](https://twitter.com/bayraktar_1love/status/1713171060487557460)
+          - [V Moskvě hoří areál skladů ](https://twitter.com/nexta_tv/status/1713140497718399150)
+          - [Špatný hod granátem málem stál Ukrajince několik životů ](https://twitter.com/Bodbe6/status/1713160299644391796)
+          - [Chytej!](https://twitter.com/GloOouD/status/1713155149286318439)
+          - [Mínus Tornado ](https://twitter.com/front_ukrainian/status/1713205567391486271)
+          - [Dron – bombardér ](https://twitter.com/region776/status/1713107345847566812)
+          - [Trefa dronem ](https://twitter.com/NOELreports/status/1713133381720936455)
+          - [Slušné skóre](https://twitter.com/nevedimka123/status/1713120145470545953)
+          - [Rovnou na komoru ](https://twitter.com/region776/status/1713189453437825364)
+          - [Rusům nevyšel přepad](https://twitter.com/NOELreports/status/1713218612687671470)
+          - [37 minut ukrajinské ofenzivy](https://twitter.com/Bodbe6/status/1713162119846199807)
+          - [Kuchaři 47. brigády](https://twitter.com/wartranslated/status/1713110555538386985)
+          - [Kam si sakra myslel, že dojde?](https://twitter.com/GloOouD/status/1713147379514216600)
+          - [Uvnitř PzH 2000](https://twitter.com/front_ukrainian/status/1713092608694669740)
+          - [Noční údery artilerie](https://twitter.com/region776/status/1713098380526899557)
+          - [V okupovaném Ilovajsku hoří plynovod](https://twitter.com/front_ukrainian/status/1713074142436557163)
+          - [Ruská Msta-S při práci ](https://twitter.com/Bodbe6/status/1712960361140240596)
+          - [Mínus tank a posádka](https://twitter.com/herooftheday10/status/1713154936240775497)
+          - [Vzácné ruské BTR-90 kdesi na frontě](https://twitter.com/AndreiBtvt/status/1712867191849107695)
       - title: "Pátek"
         year: "13. října 2023"
         image: assets/img/timeline/2023-10-13.jpg
