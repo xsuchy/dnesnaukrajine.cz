@@ -38,6 +38,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "16. října 2023"
+        image: assets/img/timeline/2023-10-16.jpg
+        desc: |
+          Asi žádný kus moderní technologie neproměnil současná bojiště tolik jako malé komerční drony. Civilní kvadrokoptéry shazující minometné i jiné granáty se poprvé ve větší míře objevily v Myanmaru, kde je rebelové začali používat proti tamější vojenské juntě. Masové rozšíření ale přišlo až s válkou o Ukrajinu. Ukrajinci se na nový typ boje adaptovali jako první díky mimořádné vynalézavosti, Rusům několik měsíců trvalo, než začali s Ukrajinci držet krok. Nyní už ale na obou stranách existují desítky různých typů dedikovaných modelů dronů pro podobné účely a desítky úprav komerčních dronů pro shazování nejrůznější munice nebo kamikadze nálety. A zkušenosti z Ukrajiny se propsaly i do útoku Hamásu na Izrael, kdy se teroristům podařilo zničit jeden z nejlepších tanků světa – izraelský tank Merkava IV – pomocí hlavice od RPG shozené z dronu (spekuluje se Hamás měl za poradce právě Rusy). Jelikož tanky mají obecně nejmíň chráněný právě vršek, protože jsou konstruované, aby odolaly zásahům z pozemních systémů, současné konflikty nejspíš zásadním způsobem ovlivní budoucí design vozidel. Není totiž udržitelné, aby dron za několik tisíc korun dokázal bez větších problémů zničit stroj za stovky miliónů. Izraelci už podle posledních fotek instalují na tanky – opět na základě zkušeností z Ukrajiny – protidronové klece, se kterými jako první přišli Rusové, kteří doufali, že je ochrání před americkými Javeliny. Mezitím mají na Ukrajině drony mimořádně plodné týdny. Ale o tom víc v [dnešním souhrnu](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid033HP1jNpDg5pj4HiSFjjgKkwvYV1ue8biM7aSufQ8EzXMHVR8LpDBaevNz5B6QVzUl): 
+        detail: |
+          - Na dotaz novinářů, za konflikt v Gaze může ohrozit americkou vojenskou pomoc Ukrajině, odpověděl prezident Biden, že Spojené státy jsou nejmocnějším státem v historii a určitě mají dost kapacit na pomoc oběma zemím při zachování vlastní obranyschopnosti. 
+          - Šéf ukrajinské rozvědky Budanov se aktivně účastnil zpravodajské operace, která vedla k tomu, že se Ukrajincům vzdalo 19 ruských vojáků bez jediného výstřelu. Budanov osobně komunikoval s ruskými vojáky přes vysílačku a přesvědčil je, aby složili zbraně. 
+          - Projekt „Army of Drones“ ukrajinské armády si za poslední týden připsal osobní rekord. Drony získané díky projektu dokázaly poničit nebo úplně zničit 428 kusů ruské techniky – mimo jiné 101 děl, 88 obrněných vozidel a 75 tanků. 
+          - Ruské propagandistické kanály tváří v tvář neúspěšné ofenzivě u Avdijivky začaly pozvolna měnit použitou rétoriku a snaží se nyní zpětně vytvořit dojem, že nikdy nešlo o důležitou akci ani o důležité město. 
+          - Během setkání rozpočtové komise ruské Státní dumy prohlásil ruský ministr financí Siluanov, že naprostá většina dronů, které dnes Rusko používá na bojišti proti Ukrajině, pochází z Číny. 
+          - Ruská žoldnéřská jednotka Redut spustila v Rusku náborovou kampaň, ve které láká do svých řad bývalé wagnerovce. 
+          - V ukrajinské armádě nyní slouží o 40 % žen více než před invazí. Jejich počet se letos zvýšil na 43 000. 
+          - Rusko vyslalo do Černého moře další dva raketové čluny o celkové salvě až 20 raket Kalibr. 
+          - Počet i objem ruských útoků na Avdijivku se za posledních 24 hodin výrazně snížil. 
+          - Šéf OBSE Bujar Osmani ze Severní Makedonie přijel na návštěvu Ukrajiny. 
+          - Ruský ministr zahraničí Lavrov pozítří navštíví Severní Koreu. 
+          - Dnes je to 600 dní od chvíle, kdy Rusko vpadlo na Ukrajinu. 
+        videa: |
+          - [Z proruské influencerky v Německu zpátky do reality](https://twitter.com/uname_was_taken/status/1712932755233701991)
+          - [HIMARS navštívil kontrolní centrum dronů ](https://twitter.com/GloOouD/status/1713778846300831777)
+          - [Zásah ruského checkpointu u Bělgorodu ](https://twitter.com/region776/status/1713883989394743508)
+          - [Na ruských pozicích ](https://twitter.com/Bodbe6/status/1713720407226716643)
+          - [Konec ruské kolony u Marjinky](https://twitter.com/GloOouD/status/1713922210971169221)
+          - [3. šturmová ](https://twitter.com/NOELreports/status/1713950886676811853)
+          - [Po bitvě](https://twitter.com/region776/status/1713845475592618364)
+          - [Boje o zákopy](https://twitter.com/Bodbe6/status/1713691492617756909)
+          - [Mínus ruská helikoptéra](https://twitter.com/GloOouD/status/1713638764055048564)
+          - [Kazetová munice](https://twitter.com/region776/status/1713773432096321564)
+          - [Ruský útok sledoval dron ](https://twitter.com/Bodbe6/status/1713577449412317191)
+          - [Mínus bagr co kopal zákopy](https://twitter.com/front_ukrainian/status/1713943132935442859)
+          - [Dron na lovu](https://twitter.com/region776/status/1713807929202331988)
+          - [Pilotův skill](https://twitter.com/region776/status/1713881982588064184)
+          - [Po ruském útoku (citlivé!)](https://twitter.com/GloOouD/status/1713578448990404956)
+          - [Plížením vpř-… tak nic (citlivé!)](https://twitter.com/region776/status/1713946732030202135)
+          - [Ruský voják dokončil sám svou demobilizaci (velmi citlivé!)](https://twitter.com/GloOouD/status/1713872999982432708)
       - title: "Neděle"
         year: "15. října 2023"
         image: assets/img/timeline/2023-10-15.jpg
