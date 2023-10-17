@@ -38,6 +38,37 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "17. října 2023"
+        image: assets/img/timeline/2023-10-17.jpg
+        desc: |
+          Ukrajinci v noci na dnešek zasáhli hned dvě ruská vojenská letiště. Jedno v přístavním Berďansku, druhé poblíž Luhansku. Zprávy o úderu přicházely postupně celý den. Nejprve o něm informoval ruský kanál o letectví Fighterbomber, který už ráno napsal, že ruská letiště zažila jeden z nejvíce devastujících úderů za celou „speciální vojenskou operaci“. Poté se začala objevovat první videa ukazující právě na Berďansk a Luhansk, ze kterých bylo zřejmé, že úder byl opravdu masivní. Útok později potvrdily i ukrajinské kanály. Co tedy dosud víme? Obě letiště byla zasažena pomocí raket a podle fotografií zbytků munice pořízených Rusy přímo na letišti šlo nejspíš o vůbec první použití amerických raket ATACMS ukrajinskou armádou – varianty s kazetovou hlavicí. Poškozeno bylo nejméně 9 strojů, převážně helikoptér Ka-52, což by znamenalo ztrátu techniky za více než sto miliónů dolarů, ruské kanály ale naznačují, že ztrát na technice bylo dokonce více a zároveň mluví i o ztrátách v řadách leteckého personálu a zničené uskladněné munici. Výbuch muničního skladu ostatně potvrzují i videa. Pokud skutečně šlo o rakety ATACMS, pak jsou nyní v dostřelu ukrajinských sil veškeré ruské základny na okupovaných územích Ukrajiny. A podle paniky, která aktuálně vládne na ruských vojenských kanálech, jsou si toho Rusové dobře vědomi. A tím dnešní krasojízda nekončí. Více [tady](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid025GGgnGyVRt1oWz8PDNstEG6fKGVDMh4EYT41gNPmBfexmvD4mo3uD4vjW8FadXY9l): 
+        detail: |
+          - Ruská ofenziva u Avdijivky neskončila kolosálním fiaskem – fiasko dál pokračuje! Ruské vojenské kanály píší o tom, že jednotky, kterým se přes masivní ztráty přeci jen podařilo dobýt některé pozice, jsou nyní lapené v pasti. Ukrajinci k nim nepouští zásoby ani posily a postupně je decimují pomocí dronů a dělostřeleckých granátů s tříštivou submunicí. Nemůžou tedy postupovat dál, ale nemůžou se ani bezpečně stáhnout, a tak čekají zakopaní na to, zda je někdo přijde vysvobodit. A od Avdijivky nyní přichází další a další videa, která obří ztráty mezi ruským personálem potvrzují. Rusové mezitím změnili rétoriku a nyní mluví o tom, že u Avdijivky místo ofenzivy provádí „aktivní defenzivu“. Ve skutečnosti se stále snaží útočit, zejména na jižní straně města. 
+          - V okupovaném Berďansk nachází obyvatelé vysokopodlažních bytovek ve schránkách výzvy k předložení veškerých dokumentů o vlastnictví nemovitosti do 10 dnů okupačním úřadům. Pokud tam neučiní, budou jim byty zabaveny. Rusko podobným stylem krade a poté přeprodává ukrajinské nemovitosti zájemcům z Ruska od samého začátku invaze. 
+          - Putin se v Pekingu setkal s čínským prezidentem, ale i dalšími lídry nejen z okolních států. Do Pekingu na setkání s Putinem zavítal také Viktor Orbán, který Putina ubezpečil, že Maďarsko chce dál budovat vzájemné vztahy a nestojí o konfrontaci s Ruskem. 
+          - Rada bezpečnosti OSN neschválila návrh rezoluce o konfliktu v Gaze předložený Rusy, protože text rezoluce ani jednou nezmiňuje palestinský Hamás. Pro rezoluci kromě Ruska hlasovala Čína, Spojené arabské emiráty, Gabon a Mosambik. 
+          - Mluvčí Kremlu Peskov prohlásil při rozhovoru s novináři, že prezident Putin „nemá v současnosti žádné politické rivaly v Ruské federaci, ani je mít nemůže“. A ne, nepřekrucuji jeho slova, skutečně řekl toto. 
+          - Arménský prezident v projevu obvinil OSKB z nečinnosti během konfliktu s Ázerbájdžánem. Státům vyčetl, že nedokázali přijít Arménii na pomoc a Rusko dokonce obvinil ze zrady. 
+          - Ruský parlament jednomyslně schválil odstoupení od smlouvy o zákazu provádění testů jaderných zbraní. 
+          - Spojené státy poskytnou Ukrajině 700 mil. dolarů na obnovu a modernizaci dopravní infrastruktury. 
+          - Ukrajinci hlásí, že u záporožské fronty sestřelili další ruský Su-25 – už třetí za pouhý týden. 
+          - Na Ukrajinu dorazilo všech 31 tanků Abrams poskytnutých Spojenými státy. 
+        videa: |
+          - [Takové ruské ztráty…](https://twitter.com/Bodbe6/status/1714281882173776265)
+          - [Nebo takové ](https://twitter.com/Bodbe6/status/1714287688994701314)
+          - [Další rozprášený útok](https://twitter.com/GloOouD/status/1714298826385723758)
+          - [Berďansk](https://twitter.com/Tendar/status/1714268723757064528)
+          - [Šturm na ruské pozice s podporou dělostřelectva](https://twitter.com/region776/status/1714185041809690689)
+          - [Dron zastavil ruské posily](https://twitter.com/region776/status/1714163797114622401)
+          - [Protitanková střela těsně minula ruské BTR](https://twitter.com/OSINTNic/status/1714026309142102293)
+          - [Noční práce artilerie](https://twitter.com/region776/status/1714219585514467812)
+          - [Viktor!](https://twitter.com/front_ukrainian/status/1714299365408305639)
+          - [Zápal pro boj (citlivé!)](https://twitter.com/region776/status/1714159440122028139)
+          - [Jak skončili ruští bajkeři ](https://twitter.com/Bodbe6/status/1714284790797791325)
+          - [Trefa!](https://twitter.com/region776/status/1714122245814264036)
+          - [Po bitvě](https://twitter.com/herooftheday10/status/1714029696902476001)
+          - [Evakuace tanku](https://twitter.com/Bodbe6/status/1714083599484383691)
       - title: "Pondělí"
         year: "16. října 2023"
         image: assets/img/timeline/2023-10-16.jpg
