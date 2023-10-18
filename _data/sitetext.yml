@@ -38,6 +38,36 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "18. října 2023"
+        image: assets/img/timeline/2023-10-18.jpg
+        desc: |
+          Ruský vojenský bloger „Rybář“ informoval, že Ukrajinci překročili Dněpr poblíž Antonivky u Chersonu s nejméně dvěma pluky a podařilo se jim proniknout ke dvěma z přilehlých obcí. Vesnice Pojma je podle některých kanálů dokonce už pod ukrajinskou kontrolou. Zároveň se má chystat další překročení řeky více na sever. Akci potvrzují i ukrajinské kanály, které už před pár dny naznačovaly, že se něco chystá, ale odmítaly poskytnout detaily s odvoláním na utajení. Útok nepřímo potvrzují také informace, že Rusové se pokusili zasáhnout koncentraci jednotek poblíž Chersonu pomocí raket a dělostřelectva. Nyní tedy můžeme považovat za fakt, že regulérní ukrajinské jednotky působí na levém břehu Dněpru. Nejde tentokrát jen o speciální jednotky, jako tomu bylo doposud. Neexistují sice spolehlivé informace o celkové síle a zapojené těžké technice, ale z reakcí na ruských kanálech se dá tušit, že berou útok jako velmi vážný. Co naopak víme, je, že ruské řady tu v posledních týdnech značně prořídly, protože Rusko odvolalo část posádek na obranu záporožské fronty. Objevují se také informace, že Rusové urychlují opevňování Krymu a přístupových cest, protože předpokládají, že nedokáží udržet kontrolu nad okupovaným Jihem Ukrajiny. Překročení řeky bylo nevyhnutelné, teď je třeba držet palce, aby se podařilo předmostí udržet. A teď pár [dalších novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid037EirVT38vqZYRwq8Qg47UYmPSwUkT15X1MVh4SninyYaFNtTKQcin44FqmhqjQ1Gl):
+        detail: |
+          - Že Rusové odmítají přiznat vojáky a důstojníky v zajetí potvrzuje nové video novináře Zolkina, na kterém se ptá zajatého velitele roty Melnikova, jestli by mohl popsat divákům, jak hrdinně padl. V ruské televizi totiž odvysílali smyšlenou reportáž o tom, jak Melnikov do poslední minuty bojoval se svými muži za Rusko, než jako hrdina padl, jen aby nemuseli přiznat, že se Melnikov Ukrajincům vzdal. Ukrajinci přitom pravidelně posílají Rusům seznamy lidí v zajetí, ti ale často informace ignorují a příbuzným vojáků tvrdí, že se jejich kluci ztratili. 
+          - Ukrajinské drony zasáhly v noci na dnešek ruskou základnu poblíž letiště Chalino u Kursku. Celkem bylo použito nejméně 18 dronů, rozsah škod a ztrát prozatím zkouší stanovit ukrajinská rozvědka. Na základně ale bylo v době útoku až 3 000 ruských vojáků a 80 kusů techniky. 
+          - Švédsko hlásí, že byl poškozen podmořský telekomunikační kabel spojující Švédsko s Estonskem. Společně s poničenou podmořskou infrastrukturou mezi Estonskem a Finskem pár dní nazpět, lze nyní nejspíš vyloučit přirozené příčiny a mluvit o sabotáži. 
+          - Ukrajinská PVO v noci zneškodnila několik dronů a raket nad Slavjanskem. Trosky jedné z raket bohužel dopadly na areál studentských kolejí a poškodily jednu z budov. Ukrajina ale hlásí, že se celý incident obešel beze ztrát. 
+          - Rusové zvyšují počet průzkumných akcí u Kupjansku a mnohem častěji také pálí jejich artilerie. Britská rozvědka si ale nemyslí, že by Rusové měli šanci prolomit tamější ukrajinskou obranu, pokud by opět přešli do útoku. 
+          - Ukrajině se podařilo opravit už 410 zdravotnických zařízení poničených Rusy během invaze. Dalších 413 budov se opravuje. 
+          - Rusové zasáhli rezidenční čtvrť v Záporoží, v troskách jedné z budov zahynuli dva lidé a další tři se stále pohřešují. 
+          - Report OSN vyčíslil škodu způsobenou Rusy zničením Kachovské přehrady na 14 miliard dolarů. 
+          - Ukrajinské pozemní síly údajně zformovaly 5 nových mechanizovaných brigád. 
+          - Zelenský potvrdil, že rakety ATACMS jsou už od září v arzenálu Ukrajiny.
+        videa: |
+          - [ATACMS na Ukrajině](https://twitter.com/nexta_tv/status/1714357961575854135)
+          - [Práce hasičů v Záporoží ](https://twitter.com/KyivIndependent/status/1714503120221560833)
+          - [Chalino](https://twitter.com/bayraktar_1love/status/1714561723363979678)
+          - [Ruská besídka školy](https://twitter.com/nexta_tv/status/1714319707359096962)
+          - [Bývalá ruská jednotka](https://twitter.com/TheDeadDistrict/status/1714219478815314253)
+          - [Paladin](https://twitter.com/nevedimka123/status/1714570028786286643)
+          - [Jen těsně vedle ](https://twitter.com/Bodbe6/status/1714451937024721206)
+          - [Další ruský útok mínus](https://twitter.com/GloOouD/status/1714339043557642325)
+          - [Rusové pálí na Ukrajince na levém břehu Dněpru ](https://twitter.com/NOELreports/status/1714588499423203343)
+          - [Mínus Grady a munice](https://twitter.com/region776/status/1714573525502304715)
+          - [Ruský Su-25 sleduje dron](https://twitter.com/bayraktar_1love/status/1714586821135335786)
+          - [Šturm](https://twitter.com/nevedimka123/status/1714538575839052129)
+          - [Bradley](https://twitter.com/Militarylandnet/status/1714341046727880729)
       - title: "Úterý"
         year: "17. října 2023"
         image: assets/img/timeline/2023-10-17.jpg
