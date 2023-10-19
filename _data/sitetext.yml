@@ -38,6 +38,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "19. října 2023"
+        image: assets/img/timeline/2023-10-19.jpg
+        desc: |
+          Rusové dnes znovu útočili na pozice kolem Avdijivky a opět utrpěli těžké ztráty. Na severu města u Krasnohorivky se navíc podle některých zdrojů podařilo vytlačit Rusy zpět z některých pozic, které při svých bezhlavých výpadech obsadili. Podle fotek a videí už Rusové u Avidjivky přišli nejméně o 63 kusů těžké techniky, ve skutečnosti nejspíš o mnohem více. Zajímavý vývoj nabral také ruský útok ve směru na Kupjansk, o kterém se stále více mluví jako o pouhém falešném výpadu s cílem odvést pozornost od Avdijivky (která Ukrajince skutečně překvapila). Ukrajinským silám se údajně podařilo přejít do protiútoku, vytlačit Rusy ze Synkivky a zatlačit je zpět k obci Lyman Peršij, odkud zdejší ruská ofenziva začínala. Vše je ale potřeba brát s rezervou kvůli informačnímu embargu, které při probíhajících akcích stále platí. Takže pojďme na [celkový kontext](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02DgzDhgh9ZYamVKzieowaQQfFt1WnHedgzozq6RSFGAnLPAm2yrjTzLksPCbaK9HGl): 
+        detail: |
+          - V ruské Kazani byla zatčena novinářka tatarsko-baškirské sekce rádia Svobodná Evropa Alsu Kurmaševa, která jinak žije v Praze, nicméně do Ruska cestovala z rodinných důvodů. Zatčena byla kvůli tomu, že se v Rusku neregistrovala jako „zahraniční agent“ podle platného ruského zákona, který takto označuje jakékoliv organizace a osoby, které mají příjmy ze zahraničí, včetně například příjmů z reklamy na YouTube. 
+          - Podle zprávy Evropského komisaře pro zaměstnanost a sociální věci pomohla imigrace z Ukrajiny s nedostatkem kvalifikovaných pracovníků v řadě evropských zemí a snížením nezaměstnanosti. Už 1,87 miliónu Ukrajinců v 19 zemích Evropy podepsalo pracovní smlouvy. 
+          - Okolo 1 000 občanů Ruska se obrátilo na ruskou vládu, aby je pomohla evakuovat z Gazy. Co tam tisíc Rusů dělalo v první řadě, to je tématem řady spekulací. V minulosti se totiž objevily informace, že Hamásu pomáhali ruští horníci a další specialisté s hloubením tunelů. 
+          - Ukrajinských hackerům se podařilo zneškodnit web skupiny Trigona na tzv. darknetu. Skupina byla zodpovědná za tvorbu tzv. „ransomware“, škodlivých programů, které uzamknou napadnuté počítače a poté vydírají uživatele o peníze výměnou za vrácení dat. 
+          - Bývalý vrcholový manažer Roskosmosu Vladimir Meškov uprchl z Ruska a je nyní na ruském seznamu hledaných osob. Měl prý z organizace vyvést více než 600 miliónů rublů určených na rekonstrukci výzkumného centra. 
+          - Lukašenko odmítl splatit zhruba 200 miliónů dolarů, které si jeho režim půjčil od ruských investorů. Ti se obrátili na ruskou vládu, aby zastavila další půjčky Bělorusku.
+          - Ukrajinci dnes zasáhli raketami základnu ruských raketových sil v okupovaném Sevastopolu na Krymu. 
+          - Nové satelitní snímky potvrzují zničení několika helikoptér na letištích v Luhansku a Berďansku. 
+          - ISW potvrzuje, že nejméně dvě roty ukrajinských mariňáků překročili Dněpr u Chersonu.  
+          - Lavrov po setkání s Kim Čong-Unem prohlásil, že Severní Korea pomůže Rusku vyhrát. 
+          - Více než 30 nákladních lodí už proplulo koridorem do nebo z ukrajinských přístavů. 
+          - ZSU tvrdí, že sestřelili další ruský Su-25, tentokrát poblíž fronty u Chersonu. 
+          - Ruský patriarcha Kiill prohlásil, že ruské nukleární zbraně jsou vůlí Boha. 
+        videa: |
+          - [Raní ruský útok u Avdijivky](https://twitter.com/region776/status/1714944930450493531)
+          - [Rusové pozorují ukrajinského robota na kladení min](https://twitter.com/bayraktar_1love/status/1714697065853251879)
+          - [Mínus Akácie](https://twitter.com/nexta_tv/status/1714683775961969023)
+          - [Ukrajinská M777 potřebuje pauzu](https://twitter.com/voluntaristyler/status/1714806056436617551)
+          - [Další krásný hod věží, tentokrát ruská T-62](https://twitter.com/EuromaidanPress/status/1714763659371503989)
+          - [Mínus polní skladiště min](https://twitter.com/nexta_tv/status/1714656423731163394)
+          - [Evakuace zraněného](https://twitter.com/Bodbe6/status/1714631924495392817)
+          - [Kudos za to, že to zkusil](https://twitter.com/region776/status/1714827181946536120)
+          - [Mínus odpaliště dronů](https://twitter.com/bayraktar_1love/status/1714665234231660712)
+          - [To si tak pilotuješ dron a najednou…](https://twitter.com/albafella1/status/1714819381358661922)
+          - [Z trosek v Záporoží vytáhli kočku](https://twitter.com/nexta_tv/status/1714642737130041779)
+          - [Trénink s Viktorem ](https://twitter.com/front_ukrainian/status/1714650055531954479)
+          - [Přesná trefa!](https://twitter.com/region776/status/1714678631329640891)
+          - [Robotyne](https://twitter.com/Bodbe6/status/1714797132731855032)
+          - [Krásné přistání na kapotu](https://twitter.com/EuromaidanPress/status/1714720587765997702)
+          - [Ježek! <3](https://twitter.com/ivanofarsky/status/1714690021993701509)
+          - [Mínus bagr](https://twitter.com/front_ukrainian/status/1714959153133748349)
+          - [Ruská PVO nad Rostovem](https://twitter.com/region776/status/1714925553739039076)
+          - [A pak něco vyskočilo z křoví a kouslo ho do zadku!](https://twitter.com/_tredecim_/status/1714745907030147234)
       - title: "Středa"
         year: "18. října 2023"
         image: assets/img/timeline/2023-10-18.jpg
