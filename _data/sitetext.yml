@@ -38,6 +38,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "20. října 2023"
+        image: assets/img/timeline/2023-10-20.jpg
+        desc: |
+          I dnes pokračují ruské výpady v okolí Avdijivky a i dnes pokračují masivní ztráty v ruských řadách. Pokud čísla ukrajinského štábu ilustrují správně tempo ztrát, pak dnešek značí hned dva rekordy v denním přírůstku. Ke ztrátám u Avdijivky (až 900 ruských vojáků) se totiž přidaly také ztráty od Lymanu, kde se Rusové pokusili o nový výpad, který (alespoň prozatím) skončil podobnou katastrofou. Nejsmutnější na celém ruském plánu je, že nejspíš nemá žádný vojenský, ale pouze propagandistický význam. Rusko už delší dobu nezaznamenalo nic, co by se dalo označit za úspěch, a tak chtělo dobýt některé menší město ještě před přicházející zimou, aby mohlo ruskému publiku dodat potřebnou motivaci a morální podporu. Hodně štěstí všem ruským propagandistům, kteří budou muset současné fiasko spinovat do pozitivního světla. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid023vWqxvAMnkszM2HurWFo2fBxTiRC58Un491NBi5qMbS8iXQTP66A3CEiJ2HhcWjZl): 
+        detail: |
+          - Kim Čong-Un prohlásil, že Severní Korea plánuje navázat plodné vzájemné vztahy s Ruskem. Vím, že většině zdejších čtenářů to netřeba připomínat, ale přesto zopakuji: Pokud fandíte straně, která buduje strategické partnerství s nejrepresivnější komunistickou diktaturou na planetě, pak skutečně stojíte na špatné straně dějin a v žádném případě nejste „ti hodní“. 
+          - Skupina ukrajinských techniků vyvinula šifrované vysílačky HIMERA G1, jejichž výroba stojí pouhých 100 dolarů za kus, nejdou rušit ruskými elektronickými systémy a konfigurují se pomocí smartphonů. Cena šifrovaných vysílaček americké armády je přitom okolo 15 000 dolarů za kus. 
+          - Prezident Biden se obrátil k národu v televizním projevu a vyzval Američany, aby podpořili Ukrajinu v obraně před Ruskem stejně jako Izrael proti teroristické organizaci Hamás. Současnou situaci ve světě popsal jako střet demokracií a autokracií. 
+          - Ukrajinská rozvědka tvrdí, že ruská pravoslavná církev financuje a organizuje soukromé společnosti, které cvičí budoucí vojáky pro nasazení na Ukrajině. Peníze na aktivity prý církev dostává od blízkých kruhů kolem Vladimíra Putina. 
+          - Rusové dnes ráno zasáhli dělostřeleckou palbou vesnici Piščanivka u Chersonu na levém břehu Dněpru. Potvrdili tím tedy, že Ukrajincům se podařilo překročit řeku a proniknout k nejbližším obcím. 
+          - Ministr zahraničí Kuleba informoval, že Ukrajina bude zásobena od USA dalšími rakety ATACMS na pravidelné bázi. Zároveň věří, že na začátku roku 2024 by Ukrajina mohla obdržet první letouny F-16. 
+          - Šéf ruské Investigativní komise Bastrykin navrhuje, aby bylo odebráno ruské občanství těm imigrantům, kteří odmítají službu v ruských ozbrojených silách na Ukrajině. 
+          - Putin údajně navštívil ruský štáb v Rostově nad Donem, kde se setkal s velitelem invazních vojsk Gerasimovem, aby získal informace z první ruky o situaci na bojištích. 
+          - Lavrov po návštěvě Severní Koreje prohlásil, že Rusové by měli do země zavítat na své výlety a dovolené. 
+          - Ukrajinský režisér Sencov byl opět raněn na frontě. Tentokrát utrpěl poranění na boku od ruského šrapnelu. 
+          - Kazachstán zakázal vývoz do Ruska u 106 druhů zboží, které lze využít ve vojenském průmyslu. 
+          - Rusko zrušilo svou účast na Konvenci o ochraně národnostních menšin Rady Evropy. 
+          - NATO kvůli podezřením z ruské sabotáže posiluje přítomnost v Severním moři. 
+          - Chorvatsko poskytlo Ukrajině celou letku transportních helikoptér Mi-8.
+        videa: |
+          - [Krásný moment z jednoho z videí ](https://twitter.com/bayraktar_1love/status/1715302362074497121)
+          - [Delší video ](https://twitter.com/region776/status/1715301746220929202)
+          - [Ruský voják natočil přílet Gradů na jeho pozici](https://twitter.com/GloOouD/status/1715286641017856485)
+          - [Znovu Avdijivka](https://twitter.com/region776/status/1715151153582022684)
+          - [A ještě](https://twitter.com/bayraktar_1love/status/1715311629120811447)
+          - [Zálužný navštívil Avdijivku](https://twitter.com/wartranslated/status/1715069513077563695)
+          - [Na Dněpru](https://twitter.com/front_ukrainian/status/1715024093391589884)
+          - [Dobrý den, mohu dál na vteřinu?](https://twitter.com/666_mancer/status/1715098118130204915)
+          - [Úspěšnost ruských útoků](https://twitter.com/region776/status/1715164366985961525)
+          - [Drony versus T-90M](https://twitter.com/EuromaidanPress/status/1715276674395230411)
+          - [Drony u Avdijivky](https://twitter.com/GloOouD/status/1715316075561206151)
+          - [Po ruském pokusu o průlom](https://twitter.com/EuromaidanPress/status/1715173143352922206)
+          - [Ukrajinské stíhačky](https://twitter.com/region776/status/1715002994402729999)
+          - [Našel miny](https://twitter.com/front_ukrainian/status/1715079347109875723)
       - title: "Čtvrtek"
         year: "19. října 2023"
         image: assets/img/timeline/2023-10-19.jpg
