@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "21. října 2023"
+        image: assets/img/timeline/2023-10-21.jpg
+        desc: |
+          Na levém břehu Dněpru poblíž Chersonu pokračuje velmi nepřehledná situace, nicméně i ruští blogeři přiznávají, že Ukrajinci drží pozice na několika místech za řekou. Jedno z míst má být vesnička Krynky, kterou v minulých dnech opakovaně bombardovalo ruské letectvo. Ukrajincům se ale podle blogera Romanova podařilo evakuaovat raněné a dostat přes řeku zpátky další posily. Ukrajincům se také podle videí přímo od Rusů podařilo zasáhnout dělostřeleckou palbou vozidla ruských mariňáků na silnici poblíž obce Olešky. Operace tedy v oblasti dál probíhají, jen je těžké správně interpretovat jejich rozsah a postup kvůli informačnímu embargu. Ale to není jediný úsek fronty, kde se bojuje. Z jiných naopak informace máme. Pojďme se [na ně podívat](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid036oH7UQP9pUSRijtNCzpoij2R1EEzocNuWCYbMr5NpLswdp7jyYn3nivwNR4c8wjWl):  
+        detail: |
+          - Masomlýnek Avdijivka pokračuje i dnes – druhým dnem obnovené ruské ofenzivy. Objevují se informace, že se Rusům opět podařilo mírně posunout dřívější frontu, Ukrajinci nicméně stále drží „Terrikon“ na severu města a dál zasazují Rusům obří ztráty. Úspěšnost ruské taktiky lidských vln bude velmi záviset na ukrajinské logistice. U Bachmutu, kde ji také Rusové použili, často došla Ukrajincům munice a museli bráněné pozice opustit. Stejný problém hrozí i tady. 
+          - Podle deníku The Wall Street Journal s odkazem na zdroje v americké armádě jsou ztráty Rusů na aktivní části Záporožské fronty v poměru 5:1 vůči ukrajinským, a to i přesto, že je to ukrajinská armáda, kdo útočí. Důvodem má být primárně aktuální ukrajinská dělostřelecká převaha. 
+          - Německo oznámilo další balík vojenské pomoci Ukrajině. Bude mimo jiné obsahovat další tři systémy PVO Gepard a 20 průzkumných dronů RQ-35 Heidrun, 20 dronů Vektor nebo 13 obrněných transportérů. 
+          - Estonská rozvědka hlásí, že Rusové nyní nemají dostatek dělostřelecké munice k podpoře ofenzivních operací, proto se dají od Ruska očekávat výhledově pouze boje nízké intenzity. 
+          - Spojené státy předaly stovce zemí světa své zpravodajské informace o ruských vlivových operacích s cílem zdiskreditovat demokratické volby a procesy a ovlivňovat jejich výsledky. 
+          - Šéf ukrajinské Bezpečnostní rady Danilov se nechal slyšet, že kdyby Moldavsko a Gruzie využily situace k osvobození Ruskem okupovaných území, usnadnily by situaci i Ukrajině. 
+          - Kazachstán popřel, že by vysloveně zakázal vývoz 106 výrobků dvojího určení, zároveň ale ujistil svět, že veškerý export probíhá v souladu s mezinárodními sankcemi. 
+          - Ukrajinci znásobili počet min na severní hranici na šestnáctinásobek. Půl miliónu min má odradit Rusko od dalšího pokusu o útok z Běloruska. 
+          - Rusko se pokusilo naverbovat norského občana pod rouškou „Ruské geografické společnosti“, aby fotografoval norské vojenské základny. 
+          - Rusko zbavilo velení vzdušných sil generála Surovikina. Na jeho místo byl dosazen generálplukovník Afzalov. 
+          - Podle fotek na ruském Telegramu už Rusko používá granáty a rakety od Severní Koreje. 
+          - U tádžické základny Gissar se zřítilo ruské transportní letadlo Il-76. 
+        videa: |
+          - [Dron versus plně naložený TOS-1A](https://twitter.com/EuromaidanPress/status/1715533609631707252)
+          - [Další ruský útok skončil v plamenech ](https://twitter.com/NOELreports/status/1715648993726693479)
+          - [Javelin](https://twitter.com/UAWeapons/status/1712135129458491509)
+          - [Ruský… eh… útok?](https://twitter.com/UKikaski/status/1715482529430454511)
+          - [GPS munice](https://twitter.com/front_ukrainian/status/1715398120832377331)
+          - [Pod palbou](https://twitter.com/LvivJournal/status/1715661511073390861)
+          - [Ruský útok na Pervomajske](https://twitter.com/region776/status/1715652493135519961)
+          - [Trénink překonávání řek](https://twitter.com/front_ukrainian/status/1715670301810315532)
+          - [Klip z delšího videa – kazetová munice versus ruská pěchota](https://twitter.com/CasualArtyFan/status/1715379182958469178)
+          - [Drony SBU](https://twitter.com/Maks_NAFO_FELLA/status/1715662759180853388)
+          - [Počítání ](https://twitter.com/EuromaidanPress/status/1715503161941893120)
+          - [Útok dvou vozů Bradley](https://twitter.com/front_ukrainian/status/1715616425128104039)
+          - [Stugna versus pěchota](https://twitter.com/GloOouD/status/1715673391351394795)
       - title: "Pátek"
         year: "20. října 2023"
         image: assets/img/timeline/2023-10-20.jpg
