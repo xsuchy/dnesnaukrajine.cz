@@ -38,6 +38,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "24. října 2023"
+        image: assets/img/timeline/2023-10-24.jpg
+        desc: |
+          Rusům se po téměř dvou týdnech bezhlavých útoků podél Avdijivky podařilo vytlačit Ukrajince z vyvýšených pozic na skládce na sever od města. Pozice ale nedokáží držet kvůli ukrajinské dělostřelecké palbě, a tak se z kopce stala šedá zóna. Ukrajinci naopak provedli protiútok na jihu ve směru na Pisky, kde vytlačili Rusy z některých dříve dobytých pozic. Ukrajinci k Avdijivce podle dostupných videí přesunuli některou západní techniku, jako jsou bojová vozidla Bradley. Rusům se tedy částečně daří to, co si nejspíš předsevzali: vázat k Avdijivce techniku, kterou by Ukrajinci mohli využít k průlomu. Pořád ale převažují názory, že cena, kterou za to Rusové platí, není ospravedlnitelná. Ale proč je odrazovat! Pojďme proletět [aktuality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid03Hw3wBnRaPSnHFo7L3ebUQmWC8DR8Kf2gqKU37yi6LK5ricxZTKPFKrv1rLiR96wl): 
+        detail: |
+          - Maďarsko opět blokuje finanční pomoc EU pro Ukrajinu. Uvolnění pomoci podmiňuje právními zárukami, že se maďarské finanční instituce znovu neobjeví na sankčních seznamech Ukrajiny. Od Orbána to ale není to nejhorší, co tento týden předvedl. Během projevu k výročí Maďarského povstání proti sovětské okupaci přirovnal Evropskou unii k další okupaci cizí mocností a prohlásil, že Maďaři jasně odmítli liberální demokracii, kterou jim EU neustále nutí. V Budapešti kvůli tomu vyšly do ulic tisíce lidí. 
+          - Washington post tvrdí, že ukrajinská SBU už delší dobu operuje v Rusku, kde provádí atentáty na ruské představitele. Jedním z nich měl být i bombový atentát, na Alexandra Dugina, který ale namísto něj usmrtil jeho dceru Darju. SBU prý také úzce spolupracuje s americkou CIA a britskou MI-6 na výměně informací. Deník konstatuje, že jsme svědky vzniku obdoby izraelského Mosadu. 
+          - Německá politička Sahra Wagenknecht z Levicové strany vytváří vlastní, otevřeně proruskou stranu. Podle komentátorů jde o snahu Kremlu pokrýt si kromě německé pravice (AfD) také voliče na levé straně spektra. 
+          - V Krasnodarském kraji údajně kdosi přinesl na ruskou základnu dort a alkohol letcům k oslavě 20. výročí od ukončení studií. Obojí bylo ale otrávené, což se bohužel zjistilo dříve, než se někdo stihl otrávit. 
+          - Podle ukrajinské vojenské rozvědky má Rusko nyní na území Ukrajiny 400 000 vojáků. Zároveň šéf rozvědky Jusov prohlásil, že je mizivá šance, že by se opakovala situace z jara 2022. 
+          - Španělské úřady zabavili historické zlaté artefakty, které se ruští překupníci podařili propašovat z Ukrajiny do Španělska a tam je prodat. Cena artefaktů se odhaduje na 60 mil. €. 
+          - Turecká prezidentská kancelář informovala, že prezident Erdogan podepsal vstup Švédska do NATO a předal protokol ke schválení tureckému parlamentu. 
+          - Objem obchodu mezi Ruskem a Indií letos vyrostl na dvojnásobek oproti loňskému roku – rekordních 44 miliard dolarů. 
+          - Švédští vyšetřovatelé oznámili, že podmořské sítě v Baltské moři byly poškozené „cíleným vnějším působením“. 
+          - Na přístav v okupovaném Sevastopolu v noci na dnešek útočila trojice námořních dronů. 
+          - V posledních 24 hodinách Rusové provedli 90 útoků na dvou hlavních úsecích fronty. 
+          - Ruský ministr zahraniční Lavrov přiletěl na státní návštěvu Íránu. 
+          - Praha hostí setkání tzv. „Krymské platformy“. 
+        videa: |
+          - [Lavrov v Íránu](https://twitter.com/nexta_tv/status/1716451638091928017)
+          - [Rusové zapíchli vlajku do skládky na severu Avdijivky](https://twitter.com/wartranslated/status/1716763826685727155)
+          - [Ruská evakuace a kazety](https://twitter.com/TheDeadDistrict/status/1716392324484202691)
+          - [Avdijivka](https://twitter.com/NOELreports/status/1716718262438789331)
+          - [Mínus TOS-1](https://twitter.com/GloOouD/status/1716530037258584453)
+          - [Mínus devět kusů těžké techniky](https://twitter.com/EuromaidanPress/status/1716575223527739643)
+          - [Před a po (citlivé)](https://twitter.com/wartranslated/status/1716733469164802507)
+          - [Útok ukrajinského tanku](https://twitter.com/region776/status/1716721705455059270)
+          - [Trefa!](https://twitter.com/NOELreports/status/1716575218901172377)
+          - [Munice pro drony](https://twitter.com/FellaBrigade/status/1716138202858188840)
+          - [Pod palbou ](https://twitter.com/nevedimka123/status/1716709154130108472)
+          - [Mínus tank](https://twitter.com/GloOouD/status/1716537932721357043)
+          - [Naběhnout si](https://twitter.com/region776/status/1716758240749621543)
+          - [Pěkná trefa](https://twitter.com/bayraktar_1love/status/1716569914171867180)
+          - [Ukrajinský PVO: evakuace](https://twitter.com/Bodbe6/status/1716628029512814825)
+          - [Trefa artilerie](https://twitter.com/NOELreports/status/1716480064785686609)
       - title: "Pondělí"
         year: "23. října 2023"
         image: assets/img/timeline/2023-10-23.jpg
