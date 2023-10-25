@@ -38,6 +38,47 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "25. října 2023"
+        image: assets/img/timeline/2023-10-25.jpg
+        desc: |
+          Zatímco Rusové vrhají další a další techniku a živou sílu na bojiště u Avdijivky, objevily se zprávy o prvních zničených útočných skupinách tvořených starými známými – wagnerovci. Ukrajinci také obnovili svou ofenzivu na jihu Bachmutu, u Novoprokopivky a v neposlední řadě na levém břehu Dněpru, kde údajně probíhají boje u další obce a Rusům se stále nedaří Ukrajince vytlačit zpátky za řeku. Ukrajinci podle ruských kanálů využili hustou mlhu posledních několika dní, aby převezli přes řeku další jednotky a ty teď dělají Rusům velké starosti. A co se děje dalšího? [Tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0yDbrwrvAq8BCsBrVU5Vm3gzqUAhPcyfZkCQ7w4QUxnvSwUbDkCxG3U7rurqzP2rml): 
+        detail: |
+          - Finská policie tvrdí, že za poškozením podmořských kabelů skutečně stojí rusko-čínská loď NewNew Polar Bear. Loď údajně plula se spuštěnou kotvou, čímž podmořské sítě protrhla. Vzhledem k tomu, že obě místa jsou od sebe kilometry vzdálená, je logický vysvětlením, že loď za sebe táhla kotvu úmyslně s cílem sítě poškodit. 
+          - Poté, co Kadyrovův syn Adam brutálně zbil ve vazbě vězně, kterého Čečencům předhodila Moskva kvůli pálení koránu, rozhodlo se vedení ruského Tatarstánu udělit Adamovi státní vyznamenání za „přínos pro posilování mezietnické a mezicírkevní harmonie a míru“. 
+          - Kvůli summitu tzv. Krymské platformy v Praze se několik státních institucí včetně Vlády, ministerstev a policie ocitlo pod hackerskými útoky proruské skupiny NoName057. Ta se k útokům sama přihlásila a označila je za odplatu. 
+          - Rusko nyní k útokům na ukrajinské instalace používá vedle íránských Shahedů také drony Italmas z domácí produkce. Ty mají oproti Lancerům dolet až 200 kilometrů a nesou větší hlavice. 
+          - Nový předseda představenstva ruského Lukoilu Vladimir Nekrasov zemřel ve věku 66 let, údajně na srdeční zástavu. Jeho předchůdce loni v srpnu také zemřel, poté co „vypadl z okna“.
+          - Ukrajinská armáda zformovala tzv. Sibiřský prapor, ve kterém bojují exklusivně jen občané Ruska, kteří přicestovali do země skrze třetí země, aby se postavili Putinově Rusku. 
+          - NATO slavnostně otevřelo pobočku v Kazachstánu, která bude kazašským silám pomáhat s výcvikem ve standardu NATO. Putin pomalu ale jistě ztrácí svoje někdejší partnery. 
+          - V jednom z aut z polské prezidentské flotily, které doprovázelo prezidenta Dudu mimo jiné i při cestách na Ukrajinu, našla prezidentská ochranka sledovací zařízení. 
+          - Zelenský prohlásil, že letos se Ukrajinci nebudou pouze bránit „teroristickým útokům Ruska na kritickou infrastrukturu“, ale také na ně odpoví. 
+          - Šojgu oznámil, že Rusko má nový systém, který za pět dní dokázala sestřelit 24 ukrajinských letadel. A pak má člověk brát ruské statistiky vážně. 
+          - Sevastopolem otřásly dvě mohutné exploze, údajně z tamějšího vojenského přístavu. Zatím nejsou dostupné zprávy o škodách. 
+          - Moldavsko omezilo přístup ke 22 ruskojazyčným médiím, které podle něj Rusko využívá v informační válce. 
+          - Rusové v noci na dnešek poškodili při raketovém útoku jednu z budov u Chmelnické jaderné elektrárny. 
+          - Austrálie posílá Ukrajině další vojenskou pomoc v hodnotě 12,5 miliónu dolarů. 
+          - Ukrajinští farmáři i v době války dokázali osít 4,95 miliónů hektarů. 
+        videa: |
+          - [Šojgu o novém systému](https://twitter.com/TheDeadDistrict/status/1717117320072397126)
+          - [Jak dopadl další ruský útok](https://twitter.com/region776/status/1717123762456535412)
+          - [Ukrajinský Su-27 pálí raketu proti vzdušnému cíli](https://twitter.com/EuromaidanPress/status/1717006565092233568)
+          - [Projev Pavla k Ukrajině](https://twitter.com/Kartul_girl/status/1716862071420121109)
+          - [Kolona v mlze](https://twitter.com/TheDeadDistrict/status/1717040639672557928)
+          - [Mínus muničák](https://twitter.com/front_ukrainian/status/1717159076625265043)
+          - [A může jet domů](https://twitter.com/GloOouD/status/1716782466839531872)
+          - [Hromadná demobilizace](https://twitter.com/region776/status/1717141939575984259)
+          - [Medik na frontě](https://twitter.com/MVS_UA/status/1717084667986198655)
+          - [Prozatímní vítěz v hodu věží ](https://twitter.com/worldonalert/status/1716927674227228907)
+          - [TOW na frontě](https://twitter.com/TheDeadDistrict/status/1717119004135834012)
+          - [Trefa!](https://twitter.com/GloOouD/status/1717081853553791267)
+          - [U Avdijivky](https://twitter.com/NOELreports/status/1716910082393505914)
+          - [Jak vypadá radost](https://twitter.com/TheDeadDistrict/status/1716871062317904360)
+          - [Neprojel](https://twitter.com/front_ukrainian/status/1717098964766364024)
+          - [Mínus ruští průzkumníci](https://twitter.com/Bodbe6/status/1716956761591275794)
+          - [Ruský voják s ukořistěným Javelinem](https://twitter.com/TheDeadDistrict/status/1716822864576532573)
+          - [Ukrajinský šturm](https://twitter.com/small10space/status/1717072195048849776)
+          - [Dron čistí bojiště (citlivé!)](https://twitter.com/GloOouD/status/1716925294370759162)
       - title: "Úterý"
         year: "24. října 2023"
         image: assets/img/timeline/2023-10-24.jpg
