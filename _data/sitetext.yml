@@ -38,6 +38,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "26. října 2023"
+        image: assets/img/timeline/2023-10-26.jpg
+        desc: |
+          Elon Musk uspořádal online diskusi na své platformě „X“ se dvěma samozvanými experty na geopolitiku a proruskými komentátory: investorem Davidem Sachsem a prezidentským kandidátem americké krajní pravice Vivekem Ramaswamym. Musk v diskusi prohlásil, že směřujeme k třetí světové válce, a že Rusko, Čína a Írán předběhly Západ v kapacitě průmyslu ale také kvalitě hypersonického a nukleárního arsenálu. A k překvapení nikoho se na konci diskuse shodli, že Ukrajina nemůže válku vyhrát, a proto by měla kapitulovat a postoupit Rusku některá území výměnou za mír. Dozvěděli jsme se tedy primárně to, že v kompetencích a chápání souvislostí ani jeden z trojice nepředčí průměrného českého „chcimíra“. A teď pár aktualit (nejen) ze samotné Ukrajiny: 
+        detail: |
+          - Rusům de podařilo mírně postoupit na jižní straně Avdijivky a oblast kolem skládky Terrikon je stále šedou zónou, po které se nyní pohybují maximálně ruští průzkumníci pod rouškou noci. Situace se tedy mírně zkomplikovala, nicméně zatím se neobjevují žádné známky toho, že by se Ukrajinci hodlali z města stahovat, zejména proto, že stále kontrolují dobře opevněné pozice a stále působí Rusům obří ztráty. 
+          - Arménský prezident oznámil, že nevidí důvod pro pokračující přítomnost ruských jednotek na základnách v Arménii. Zároveň bude podle něj Arménii hledat nové partnery pro svou bezpečnost, protože Rusko selhalo v plnění svých smluvních závazků. 
+          - Rusko tvrdí, že sestřelilo dvě ukrajinské rakety ATACMS americké výroby. Dokazovat to má fotka trosek motoru. Motor se nicméně v určité fázi letu sám oddělí a samovolně spadne a motor na fotce ani nenese známky poškození raketou PVO. 
+          - Česká Policie zahájila trestní stíhaní na Kreml napojené aktivistky a samozvané konzulky nikým neuznané Doněcké lidové republiky Nely Liskové kvůli jejím slovům, že „společný úkolem bude Česko deukrajinizovat a denacifikovat“. 
+          - Kyrgyzstán plánuje po vzoru Ruska přijmout zákon o „zahraničních agentech“. Test zákona je prakticky totožný. Podobný zákon chce iniciovat také staronový slovenský premiér Fico. 
+          - Zástupci 69 zemí vydali během setkání Krymské platformy v Praze společnou deklaraci vyzývající Rusko k okamžitému ukončení okupace všech území Ukrajiny včetně Krymu. 
+          - Spojené státy, Japonsko a Jižní Korea společně odsoudily severokorejské dodávky zbraní a munice Ruské federaci. Tak to se mi ulevilo… 
+          - Rusko v noci opět zasáhlo raketami okolí Chmelnické jaderné elektrárny. 1 860 domácností se kvůli tomu ocitlo bez dodávek elektřiny. 
+          - Studie irské univerzity v Corku konstatuje, že Rusové proměnili deepfake videa a dezinformace v regulérní nástroj vedení války. 
+          - Ukrajinský soud posla na 15 let za mříže kněze ruské pravoslavné církve na Ukrajině na základě obvinění ze špionáže. 
+          - Podle deníku The Insider využívají Rusové k výrobě raket Kinžal součástky nakoupené ve státech Evropské unie. 
+          - Rusko provedlo zkoušku svých mezikontinentálních balistických střel schopných nést jaderné zbraně. 
+          - Maďarský parlament opět odmítl zařadit na program schůze hlasování o členství Švédska v NATO. 
+          - Fico přesně v duchu svých předvolebních slibů oznámil úplný konec vojenské pomoci Ukrajině. 
+          - Evropská unie dodala Ukrajině oproti plánu zatím pouze 30 % přislíbené dělostřelecké munice. 
+          - V okupovaném Berďansku explodovalo auto s několika členy ruské FSB. 
+        videa: |
+          - [Ruská útočná skupina se ocitla pod palbou kazetovou municí](https://twitter.com/wartranslated/status/1717299370314387483)
+          - [Neúspěšný výpad ruské skupiny k UA zákopům (citlivé!!)](https://twitter.com/TonyaLevchuk/status/1717158589725302984)
+          - [O fous](https://twitter.com/EuromaidanPress/status/1717191785674395804)
+          - [Trofejní tank](https://twitter.com/TheDeadDistrict/status/1717497464398184594)
+          - [Mínus ruská útočná grupa](https://twitter.com/region776/status/1717186715302130001)
+          - [Ruský tank hodil ručník do ringu ](https://twitter.com/GloOouD/status/1717432083826499814)
+          - [Ruský dron těsně minul](https://twitter.com/TheDeadDistrict/status/1717479519064355268)
+          - [Po ruském útoku u Kupjansku](https://twitter.com/herooftheday10/status/1717493854910267638)
+          - [Mínus T-90M](https://twitter.com/front_ukrainian/status/1717466982012874866)
+          - [Ukrajinský šturm](https://twitter.com/region776/status/1717480009089351898)
+          - [Rusko představilo „své“ nové samohybné dělo](https://twitter.com/TheDeadDistrict/status/1717441677047083222)
+          - [Práce dronu](https://twitter.com/region776/status/1717221186130841883)
+          - [Ruský voják zběhl a přeplaval řeku k ukrajinským pozicím](https://twitter.com/TheDeadDistrict/status/1717375739245273385)
+          - [Ukrajinci shodili zápalnou munici na ruský zákop (citlivé!!)](https://twitter.com/GloOouD/status/1717224936308085170)
+          - [Dron versus BMP](https://twitter.com/region776/status/1717506336718794758)
+          - [U obce Robotyne](https://twitter.com/GloOouD/status/1717203460158869582)
+          - [Mínus cosi](https://twitter.com/region776/status/1717482567736377542)
+          - [Dostali se až k zákopům, tam skončili (citlivé!)](https://twitter.com/GwarWorin/status/1717263630356361475)
+          - [Helikoptéra a její neřízené rakety](https://twitter.com/region776/status/1717264337319137291)
       - title: "Středa"
         year: "25. října 2023"
         image: assets/img/timeline/2023-10-25.jpg
