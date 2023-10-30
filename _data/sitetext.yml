@@ -38,6 +38,37 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "30. října 2023"
+        image: assets/img/timeline/2023-10-30.jpg
+        desc: |
+          Deník The Insider získal mailovou komunikaci jednotky GRU s číslem 29155, která je často označována jako „Putinovi atentátníci“. Maily potvrzují, že jednotka je zodpovědná za bombový útok z roku 2011 v Bulharsku a také za útok na muniční sklad ve Vrběticích. Na základnu údajně pronikla trojice agentů už v roce 2011 a nastražila plastické trhaviny ve skladu 152mm munice bulharského obchodníka Gebreva, který je plánoval poskytnout Gruzii, která po ruské invazi z roku 2008 hledala způsoby, jak doplnit svůj arsenál pro případ další ruské invaze. V roce 2014 potom sklad vyhodili do vzduchu a o rok později se v Bulharsku pokusili obchodníka Gebreva dvakrát otrávit. Agenti pak byli za úspěšné akce Putinem povýšeni na vysoké pozice a jeden z agentů, Andrej Averjnanov, dokonce přebral po zesnulém Prigožinovi jeho aktivity v Africe a aktuálně dohlíží na hybridní operace v Africe, východní Asii a Blízkém východě. Vzpomínáte si ještě, jak na obvinění reagoval tehdejší prezident Zeman? Tak ti „čučkaři“ měli samozřejmě pravdu. A tím dnešní „krasojízda“ [novinkami zdaleka nekončí](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid024UjkYm8Ba9nyYGfdUuR8JH8FooHuDffqA6c21j149FCaH3v8zd8txJ5Zda9vD5nul): 
+        detail: |
+          - Otřesný zločin zažila v noci na 28. října okupovaná Volnovacha. Ruští vojáci, údajně kadyrovci, tu večer přišli do jednoho z domů, kde zrovna slavila širší rodina narozeniny jednoho z členů rodiny, a vyzvali otce – majitele domu, aby dům vyklidili a poskytli ho k potřebám ruské armády. Otec to odmítl a Rusové odešli. Později se ale vrátili a celou čtyřčlennou rodinu a všech pět příbuzných postříleli v jejich postelích. Dětem bylo 4 a 9 let. Na sítích se dnes objevily fotografie přímo z místa činu. 
+          - Z protižidovských pogromů, které vypukly včera v Dagestánu, obvinil mluvčí Kremlu Peskov ukrajinské tajné služby. Prý je „evidentní a zřejmé“, že ukrajinská rozvědka záměrně vytváří v Rusku antisemitské nálady, aby prezident Zelenský získal body na mezinárodní scéně. Hlava Dagestánu shodně obvinila z porgromů ukrajinské kanály na Telegramu. 
+          - Ruští blogeři si jako jeden muž stěžují na ruské útoky u Avdijivky, které nejsou ničím jiným než lidskými vlnami. Prý ruské jednotky útočí bez palebné podpory a někdy i bez těžké techniky, takže se vojáci ani při většině výpadů nedostanou na dostřel ručními zbraněmi. 
+          - Rusové tvrdí, že nad Krymem sestřelili osm raket Storm Shadow. Jelikož se mezitím objevila videa ukazující stoupající kouř z přístavu v Sevastopolu, je možné, že rakety opět zničily trup některé z kotvících lodí. 
+          - Rusové odvolali velitele sil v Chersonské oblasti Makareviče, pravděpodobně kvůli tomu, že ani po dvou týdnech nedokázal vytlačit Ukrajince z jejich předmostí na levém břehu Dněpru. 
+          - Rusové opět chladnokrevně zavraždili zajaté ukrajinské vojáky. Ukrajinské drony vyfotily u ruských pozic ve směru na Tokmak těla ukrajinských vojáků s rukama svázanýma za zády. 
+          - Britská rozvědka hlásí, že poprvé v historii začaly ruské soukromé armády verbovat také ženy pro bojové role, konkrétně by měly plnit role odstřelovaček nebo operátorek dronů. 
+          - Na bezpečnostním fóru v Pekingu strašil Šojgu Číňany, že „Západ chce přenést válku mezi Ruskem a Ukrajinou do jihovýchodní Asie a Pacifiku. 
+          - Nový republikánský předseda sněmovny Johnson oznámil, že podpoří vojenskou pomoc Izraeli, ale ne Ukrajině. 
+          - Rusové opět zasáhli centrum Chersonu dělostřeleckou palbou. Na místě jsou civilní oběti. 
+          - Německo cvičí dalších 61 ukrajinských vojáků v ovládání systému PVO Patriot. 
+          - Ukrajinci u Avdijivky sestřelili další ruský bitevník Su-25. 
+        videa: |
+          - [Vzdušná rozvědka navádí palbu](https://twitter.com/EuromaidanPress/status/1718953396026372524)
+          - [Neprošli](https://twitter.com/region776/status/1718915216216625386)
+          - [Bývalý ruský zákop](https://twitter.com/Bodbe6/status/1718719975148474825)
+          - [Mínus další T-90M](https://twitter.com/EuromaidanPress/status/1718916148266250749)
+          - [Mínus při pokusu přejet přes miny](https://twitter.com/region776/status/1718910673303027738)
+          - [Mínus BTR ](https://twitter.com/bayraktar_1love/status/1718734652632867128)
+          - [Ruská kolona](https://twitter.com/region776/status/1718659996924477950)
+          - [Snajpr = mínus dva](https://twitter.com/herooftheday10/status/1718965804463423801)
+          - [PVO nad Sevastopolem](https://twitter.com/front_ukrainian/status/1718941742374727865)
+          - [Neprojel](https://twitter.com/region776/status/1718909507219460144)
+          - [Salva Uraganů](https://twitter.com/nevedimka123/status/1718907096962347510)
+          - [Nálada?](https://twitter.com/volodarskijo/status/1718690798563147871)
       - title: "Neděle"
         year: "29. října 2023"
         image: assets/img/timeline/2023-10-29.jpg
