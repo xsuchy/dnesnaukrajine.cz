@@ -38,6 +38,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "31. října 2023"
+        image: assets/img/timeline/2023-10-31.jpg
+        desc: |
+          Ukrajinské ofenzivě na záporožské frontě začíná docházet dech. Západ bohužel nedodal slíbenou techniku, se kterou ukrajinské plány počítaly, v potřebném počtu, ale zato chtěli západní politici rychle vidět jakýkoliv výsledek. Rusové také dostali až příliš mnoho času na to, aby opevnili svou „Surovikinovu linii“, což se ukázalo jako největší problém. Analytici tedy spíše nevěří, že by se do konce roku podařilo splnit ambiciózní cíle ofenzivy, na druhou stranu se ale také shodují, že nejde ani mluvit o neúspěchu, protože ukrajinské akce znatelně urychlily „obrušování“ ruské armády, a to do takové míry, že Rusko nasazuje na frontu čím dál starší a čím dál méně relevantní techniku, a také čím dál méně vycvičený personál. Zároveň se spustily akce u Chersonu, které můžou s kartami ještě značně zamíchat, a na jaře roku 2024 by Ukrajina měla dostat první stroje F-16, které mohou také bojiště proměnit, zejména proto, že citelně omezí možnosti Rusů podnikat vzdušné útoky. Když tedy někteří politici na Západě varovali, že je třeba se připravit na vleklou válku, nemýlili se. Jsme ale připraveni my? Zkuste o tom přemýšlet u [dalších novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0ofoQE1mqnZBegDrd54AFiFrJwdVjKPa4U6UQmxLtupRyQ33Z2msTf7rvANpkfFw7l): 
+        detail: |
+          - Američtí republikáni předložili Kongresu návrh vojenské podpory Izraele bez podpory Ukrajiny. Bílý dům republikány kritizoval za to, že dělají z války na Ukrajině nástroj politického boje. Zelenský nyní hostí delegace obou soupeřících stran v Kyjevě, aby se pokusil republikány přesvědčit k větší podpoře. 
+          - Podle generála Syrského Rusové značně posílili uskupení sil v oblasti Bachmutu a pokouší se přejít z obrany k útočným operacím. První pokusy ale podle Syrského skončily pro Rusy velkými ztrátami, aniž by čehokoliv dosáhly.
+          - Kadyrov na setkání s čečenskou vládou prohlásil, že v případě, že v zemi vypuknou protesty, měly by se rozhánět třemi varovnými výstřely do vzduchu a čtvrtý výstřel by měl mířit na hlavy demonstrantů. 
+          - Britský ministr obrany se nechal slyšet, že Británie nedopustí, aby se zapomnělo na válku na 
+          Ukrajině a že Británie poskytne Ukrajině vše, co potřebuje, aby se Rusku ubránila. 
+          - Rusové tvrdí, že zadrželi dva vojáky zodpovědné za devítinásobnou vraždu ukrajinských civilistů ve městě Volnovacha. Má jít o smluvní vojáky z dálného východu. 
+          - U ruského Permu explodovala budova fabriky Solikamsk Ural. Jde o jeden z největších zbrojních závodů v Rusku, kde se vyrábí munice a trhaviny. 
+          - Při pokusu rozehnat protižidovský pogrom v Dagestánu zemřel na následky utrpěných zranění jeden ze zasahujících policistů. 
+          - Blinkenovi děti šly letos na Halloween koledovat převlečeni za prezidenta Zelenského a jeho manželku. 
+          - Ruské rakety zasáhly jednu z ukrajinských tepláren a způsobily výpadky proudu. 
+          - Ve Francii byl zatčen vrcholný manažer ruské Alfa Group Alexej Kuzmičev. 
+          - Ukrajinci nejspíš drží část obce Krynky na levém břehu Dněpru. 
+        videa: |
+          - [Bývalá ruská kolona](https://twitter.com/front_ukrainian/status/1719294005534454019)
+          - [U Bachmutu](https://twitter.com/region776/status/1719254915237998655)
+          - [Vybalování zabavené íránské munice](https://twitter.com/OSINTNic/status/1719028289405067467)
+          - [Badabooom!](https://twitter.com/TheDeadDistrict/status/1719221242350211127)
+          - [Dron to odmakal](https://twitter.com/region776/status/1719024464510472200)
+          - [Ruský Terminátor u Kreminné](https://twitter.com/TheDeadDistrict/status/1719293554080776415)
+          - [Trefa!](https://twitter.com/GloOouD/status/1719080444711317662)
+          - [Další útok skončil v troskách ](https://twitter.com/region776/status/1719308458565251300)
+          - [3. šturmová](https://twitter.com/front_ukrainian/status/1718991197975232880)
+          - [Mínus TOS-1](https://twitter.com/TheDeadDistrict/status/1719218976910201145)
+          - [Trefa!](https://twitter.com/region776/status/1719170866041454720)
+          - [Údajně na levém břehu Dněpru ](https://twitter.com/TheDeadDistrict/status/1719033382628208948)
+          - [Leo 2](https://twitter.com/GloOouD/status/1718985367255126441)
+          - [Neshlukujte se!](https://twitter.com/region776/status/1719269092799250640)
+          - [Ani u Vuhledaru to Rusům nevyšlo](https://twitter.com/NOELreports/status/1719076264818982951)
+          - [Mínus Meteorit](https://twitter.com/Bodbe6/status/1719081482394738942)
+          - [Mínus Buchanka](https://twitter.com/front_ukrainian/status/1719265863990153247)
+          - [Drony… (citlivé!)](https://twitter.com/region776/status/1719260501681807846)
+          - [Mínus BMP](https://twitter.com/front_ukrainian/status/1719245023282073977)
+          - [Oběd](https://twitter.com/nevedimka123/status/1719261452970742122)
+          - [Po ruském útoku](https://twitter.com/region776/status/1719171437565759625)
       - title: "Pondělí"
         year: "30. října 2023"
         image: assets/img/timeline/2023-10-30.jpg
