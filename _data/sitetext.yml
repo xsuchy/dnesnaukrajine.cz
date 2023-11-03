@@ -38,6 +38,50 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "3. listopadu 2023"
+        image: assets/img/timeline/2023-11-03.jpg
+        desc: |
+          Putin během dialogu se členy Občanské komory Ruské federace znovu opakoval několik největších lží ruské propagandy: že Rusko na Donbasu chrání ruskojazyčnou populaci, že Ukrajina prováděla masakr obyvatel „Novoruska“ a že Krym byl zabrán jako preventivní krok v ochraně obyvatel před „nacisty“. A přidal i dva nejnovější „hity“, a sice, že Západ organizuje v Rusku pogromy nebo že Ukrajina prodává zbraně Hamásu. Není divu, že Putin je tolik oblíbený u naší ruské páté kolony. Uvažují podobně. Za jejich neúspěchy a trapasy také vždycky může někdo jiný; rozhodně ne to, co sami říkají, dělají nebo jak se rozhodují. Ale teď zpátky k [novinkám](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0bRpxMQoPp8Bg5nZZxM9cTfEqHMKdhvaoEwpeYzSnVCHZuKmDcNyqqTMKn6HoLbZUl): 
+        detail: |
+          - Jihokorejská rozvědka věří, že Severní Korea předala Rusku také balistické střely, protivzdušné rakety, protitankové střely, ruční zbraně, granáty, minomety a munici do ručních zbraní. Severní Korea začala hromadně uzavírat své ambasády po celém světě, nejspíš proto, že hodlá naplno rozvíjet vztahy pouze s Ruskem, Íránem a Čínou. 
+          - Ve Francii byla zatčena dvojice lidí, která označovala židovské restaurace a domy, kde bydlí Židé, Davidovými hvězdami. Jak vyšlo později najevo, jde o občany Moldavska, kteří podle jejich slov jednali na objednávku kohosi z Ruska, pravděpodobně ruské rozvědky. 
+          - Rusům se v minulých dnech podařilo přiblížit ke koksovně na severu Avdijivky a začali shromažďovat síly pro útok na samotný areál. Ukrajinci ale posilují obranné pozice a obecně se má zato, že Rusy dokáží dlouho držet v šachu. 
+          - Soud v Haagu vyhověl žalobě ukrajinské energetické firmy DTEK a nařídil Rusku zaplatit 267 mil. dolarů jako odškodnění za ilegálně zabavené nemovitosti na Krymu. 
+          - V Kyrgyzstánu byl unesen ruský aktivista kritický k současnému režimu a následně nelegálně převezen do Moskvy, kde byl údajně vystaven mučení. 
+          - Ukrajina v noci zažilo po delší pauze útok masivní vlnou kamikadze dronů. PVO jich zneškodnila 24 z celkem 38. Zasaženo bylo několik regionů. 
+          - V Charkově musela být stržena část budovy Charkovské univerzity, protože ji noční útok ruských dronů poškodil natolik, že hrozila zřícení. 
+          - Ukrajinci údajně zasáhli raketami velitelství ruské Dněperské armádní skupiny v obci Strilkove u Heničesku. 
+          - Na sítích se objevilo už druhé video s bojovníky Hamásu, na kterém je kdosi instruuje v ruštině. 
+          - Německo oznámilo, že plánuje pokračovat s vojenskou pomocí Ukrajině nejméně do roku 2032. 
+          - Podle americké rozvědky hodlají wagnerovci poskytnout Hizballáhu systém PVO Pantsir. 
+          - Rusko při obnovené ofenzivě u Vuhledaru ztratilo už nejméně 18 kusů těžké techniky. 
+          - Kreml sdělil, že nemá informace o tom, že by Wagnerovce nově vedl Prigožinův syn. 
+          - Ukrajinské speciální jednotky nově povede generálmajor Viktor Chorenko.
+          - Nizozemsko poskytne Ukrajině munici v celkové hodnotě 500 mil. euro. 
+          - Izrael přestal Rusům předem avizovat své nálety na pozice v Sýrii. 
+          - Francie se dohodla s Kazachstánem na vojenské kooperaci. 
+          - Ukrajinci sestřelili další ruský bitevník Su-25. 
+        videa: |
+          - [ATACMS](https://twitter.com/nexta_tv/status/1720369299007701370)
+          - [Rusové u Vuhledaru ](https://twitter.com/EuromaidanPress/status/1720410496216470011)
+          - [Zachránila ho vesta](https://twitter.com/Bodbe6/status/1720213981925626180)
+          - [Mínus další kolona](https://twitter.com/TheDeadDistrict/status/1720433019364762107)
+          - [Na vodě](https://twitter.com/region776/status/1720360861888643373)
+          - [ATGM versus pěchota](https://twitter.com/Bodbe6/status/1720427914364121248)
+          - [Na Ukrajině jsou první Archery](https://twitter.com/TheDeadDistrict/status/1720378954211635336)
+          - [Mínus BTR](https://twitter.com/front_ukrainian/status/1720345527932346872)
+          - [Trefa!](https://twitter.com/region776/status/1720346038459060504)
+          - [10. říjen u Avdijivky](https://twitter.com/TheDeadDistrict/status/1720148549294272862)
+          - [Vampýr](https://twitter.com/region776/status/1720415801965236422)
+          - [Mínus 5 Zooparků](https://twitter.com/bayraktar_1love/status/1720367512884273594)
+          - [Ruské ztráty](https://twitter.com/region776/status/1720354091619270720)
+          - [U Verboveho ](https://twitter.com/Bodbe6/status/1720233186481836519)
+          - [Trefa minometem ](https://twitter.com/region776/status/1720373297773433317)
+          - [Mínus TOS](https://twitter.com/bayraktar_1love/status/1720407942199967947)
+          - [Roj dronů](https://twitter.com/region776/status/1720322859355234408)
+          - [Ukrajinský Fencer](https://twitter.com/front_ukrainian/status/1720360291219710238)
+          - [Pokémoni](https://twitter.com/region776/status/1720063120272658584)
       - title: "Čtvrtek"
         year: "2. listopadu 2023"
         image: assets/img/timeline/2023-11-02.jpg
