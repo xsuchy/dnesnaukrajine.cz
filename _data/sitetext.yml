@@ -38,6 +38,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "6. listopadu 2023"
+        image: assets/img/timeline/2023-11-06.jpg
+        desc: |
+          Podle ukrajinské vojenské rozvědky shromáždilo Rusko odhadem 165 raket Kalibr, 160 raket Ch-101/555/55, 290 raket Iskander-K/M, 80 raket Kinžal a 150 raket Ch-22/32. Nyní čeká na první mrazové dny, aby mohlo provést devastující útok na ukrajinskou energetickou soustavu a vyvolat humanitární krizi. Loni se to Rusku nepovedlo i díky západním systémům PVO, letos ale Rusko průběžně vyčerpává ukrajinskou obranu, aby byl hlavní útok skutečně efektivní. Ukrajina se snaží na útok připravit, což v posledních týdnech znamenalo hlavně omezení práce protivzdušné obrany na nejnutnější zásahy. I proto výrazně klesl počet zneškodněných raket a dronů. Zároveň ukrajinští politici obráží jednu zemi za druhou, aby získali co nejvíce odpalovačů a munice, než k útoku dojde. Dostávají dost? Bohužel si to nemyslím. Ale Zelenský slibuje překvapení, tak snad to nejsou jen plané sliby. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0JVhiXm2aLz4PidUgL4uN6oUSzX9VZxPggi26LMMQ5BdVrv3PW4Vq2RKiFx2RCySol):
+        detail: |
+          - Ukrajinská lidskoprávní organizace zkompilovala několik výpovědí propuštěných ukrajinských válečných zajatců, které popisují hrůzy prováděné wagnerovci na zajatcích. Mezi děsivým výčtem jsou mimo jiné dekapitace a napichování ostatků na kůly, řezaní uší a prstů, případně upalování zaživa. Podle jednoho z propuštěných vojáků to wagnerovci dělali „jen tak pro zábavu“. 
+          - Spojené státy se dohodly s Arménií, že budou dlouhodobě cvičit arménské vojáky a také že američtí vojáci se nově budou účastnit mírových misí v Arménii. Dosavadní partnerství Arménie a Ruska se tedy dá definitivně považovat za ukončené. 
+          - Ukrajinské úřady odhadují, že pouze 7 % personálu „dobrovolnických sborů“ z okupovaných částí Záporožské a Chersonské oblasti – praporů Sudoplatov a Margelov – tvoří místní obyvatelé. Zbytek jsou žoldáci z Ruska a Srbska. 
+          - Loď Askold byla dnes už podruhé zasažena raketami v kerčské loděnici. Na sítích se tentokrát objevila i videa a snímky přímo z místa a dá se tušit, že tento moderní ruský raketový člun jen tak na vodu nevypluje. 
+          - Asistent generála Zálužného, major Hennadij Častjakov zahynul při bombovém atentátu. Kdosi mu dnes, na jeho narozeniny, doručil balíček s dárkem, ve kterém byla ukrytá bomba. 
+          - Zelenský reagoval na Trumpovo tvrzení, že vyřeší válku za 24. Pozval Trumpa na Ukrajinu a prohlásil, že potřebuje jen 24 minut na to, aby Trumpovy vysvětlil, že nedokáže vyřešit nic. 
+          - Podle agentury Bloomberg jedná Rusko s Libyí o umístění nové ruské pobřežní základny. Pokud by se s Libyí dohodlo, získalo by neomezený přístup do Středozemního moře. 
+          - Fico oznámil, že neposkytne Ukrajině vojenskou pomoc na státní úrovni, ale nebude bránit soukromým zbrojovkám, aby exportovaly své produkty na Ukrajinu. 
+          - Ukrajina podle ředitele Ukroboronpromu spustila před časem vlastní masovou výrobu kamikadze dronů s doletem až 1 000 km. 
+          - Rusové dál usilovně budují železniční spojení mezi Rostovem a okupovaným Mariupolem a Doněckem. 
+          - Na sítích se objevila videa, která mají zachycovat ukrajinské speciální jednotky lovící wagnerovce v Súdánu. 
+          - Francouzská zbrojovka Verney-Carron dodá Ukrajině ruční zbraně za v přepočtu 38 miliónů dolarů. 
+          - Ruští vojáci zabili jednoho Gruzínce a dalšího unesli v jedné z obcí na okupovaném území Gruzie. 
+          - Rusové během posledního raketového útoku zasáhli Muzeum umění v Oděse. 
+          - Putin se bude opět ucházet o křeslo prezidenta. Wow. Překvapení. 
+          - Nad Ukrajinou se v noci objevila silná polární záře. 
+        videa: |
+          - [Lov na wagnerovce v Súdánu](https://twitter.com/TheDeadDistrict/status/1721552217600147952)
+          - [Loď Askold, třikrát trefa](https://twitter.com/EuromaidanPress/status/1721601858827878482)
+          - [ATGM](https://twitter.com/region776/status/1721434840825020423)
+          - [Další ruský útok ](https://twitter.com/TheDeadDistrict/status/1721475623036604556)
+          - [Avdijivka, pořád dokola](https://twitter.com/GloOouD/status/1721578911413260376)
+          - [Ani v noci neprošli ](https://twitter.com/region776/status/1721553012123144620)
+          - [Ruská POV: Mínus MT-LB](https://twitter.com/TheDeadDistrict/status/1721388200545959942)
+          - [Postřeh!](https://twitter.com/region776/status/1721586847217037719)
+          - [Sestřelení Shahedu](https://twitter.com/EuromaidanPress/status/1721474696347066544)
+          - [Bradley při útoku](https://twitter.com/front_ukrainian/status/1721526592575291659)
+          - [Kutilův raketomet](https://twitter.com/region776/status/1721532545773580356)
+          - [Na vodě](https://twitter.com/nevedimka123/status/1721419353713684961)
+          - [Zneškodnění dronů](https://twitter.com/TheDeadDistrict/status/1721387758810280320)
+          - [Ruský komplex zákopů](https://twitter.com/region776/status/1721479495285444693)
+          - [Zelenský o Putinovi](https://twitter.com/GloOouD/status/1721250301443719241)
+          - [Přepad](https://twitter.com/region776/status/1721532643635056770)
+          - [Mínus několik kusů](https://twitter.com/front_ukrainian/status/1721425144944422935)
+          - [Před a po](https://twitter.com/small10space/status/1721599505525547505)
+          - [Ukončil se sám (velmi citlivé!!)](https://twitter.com/bigSAC10/status/1721536681562550374)
       - title: "Neděle"
         year: "5. listopadu 2023"
         image: assets/img/timeline/2023-11-05.jpg
