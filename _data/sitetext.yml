@@ -38,6 +38,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "7. listopadu 2023"
+        image: assets/img/timeline/2023-11-07.jpg
+        desc: |
+          Projekt „Chci žít“ oznámil, že Ukrajina brzy otevře další detenční centrum pro ruské zajatce. Těch prý v posledních týdnech rapidně přibývá zejména kvůli situaci na frontě a klesající morálce Rusů, kterou se Rusko nyní opět pokouší dostat pod kontrolu používáním bariérových oddílů. Nedávno se mluvilo o tom, že Ukrajina nemá dostatek zajatců, aby mohla provádět výměny, to ale není pravda. V ukrajinských detenčních centrech je ruských zajatců dost. Problém není jejich kvantita, ale kvalita. Rusko vyměňuje zajaté Ukrajince obvykle pouze za důstojníky, rozvědčíky, nejlépe pak za specialisty jako jsou piloti. A většina současných zajatců v detenčních centrech jsou branci, wagnerovci anebo žoldáci. Zkrátka vojáci, které Rusko může snadno nahradit v rámci mobilizace, a je pro něj tedy snadnější i levnější takové zajatce vůbec nepřiznat a radši je evidovat jako padlé nebo ztracené. Dokonce i když Ukrajinci zveřejní rozhovory se zajatci nebo jejich totožnost, ruské úřady je dál zamlčují, a to nejen proto, aby nemusely nikoho měnit, ale také proto, aby rodinám nemusely platit žádné kompenzace. Ukrajina proto čím dál více zapojuje zajatce do výrobních procesů nebo prací v průmyslu a zemědělství, aby nemusela nést náklady na jejich věznění. Neříká se nadarmo, že v neexistuje v Rusku levnější věc, než je lidský život. Ale teď už pár novinek: 
+        detail: |
+          - Z nových snímků vyplývá, že Ukrajinci nyní po Dněpru na levý břeh plaví také těžkou techniku. Jakou a v jakém množství? To se v tuto chvíli neví, ale na ruských kanálech, které tyto informace potvrzují, panuje aktuálně poměrně pochmurná nálada a Rusové potvrzují, že za řekou operuje nejméně jedno ukrajinské BTR-4. 
+          - Ukrajinské ministerstvo zdravotnictví uvádí, že Rusko za 1,5 roku války poškodilo už 1 468 zdravotnických zařízení a 193 dalších bylo úplně zničeno. Také zničilo 350 civilních ambulančních vozů a okolo 125 ukradlo a odvezlo na okupovaná území. 
+          - Podle ukrajinské vojenské rozvědky začali Rusové v okupované části Chersonské oblasti podminovávat kritickou infrastrukturu, jako jsou elektrické rozvodny, sloupy vysokého napětí a plynovody. 
+          - Ukrajinská artilérie zasáhla budovu v okupovaném Doněcku, kde se cvičili budoucí ruští piloti dronů. Podle ruských kanálů zahynulo i několik důstojníků. Celkový počet obětí zatím není znám. 
+          - Podle nových informací nezahynul Zálužného asistent při bombovém atentátu, ale při nehodě způsobené nezodpovědnou manipulací s ručními granáty. 
+          - Maďarsko varovalo, že může vetovat snahy Ukrajiny o vstup do EU. Jako důvod Orbán opět uvedl smyšlený útlak maďarské menšiny v Zakarpatí. 
+          - Ukrajina hodlá legalizovat lékařské konopí, aby usnadnila válečným veteránům boj s bolestmi a psychickými problémy. 
+          - Pět nizozemských strojů F-16 míří do výcvikového střediska v Rumunsku, aby se na nich mohli cvičit ukrajinští piloti. 
+          - Zelenský musel zrušit a odložit na neurčito plánovanou cestu do Izraele poté, co na veřejnost unikly plány cesty.  
+          - Místní obyvatelé hlásí exploze poblíž ruského letiště v Taganrogu u Rostova. 
+          - Zelenský uvedl, že na Ukrajině začal operovat další komplex NASAMS. 
+          - Blog Oryx už eviduje 13 000 kusů zničené ruské techniky. 
+        videa: |
+          - [Ruský voják o tom, proč se vzdal](https://twitter.com/PStyle0ne1/status/1721669805407703367)
+          - [Rusové se pochlubili tímhle videem ze zajímání ukrajinských vojáků](https://twitter.com/region776/status/1721762552525607081)
+          - [Doněck](https://twitter.com/EuromaidanPress/status/1721893008705204424)
+          - [Doněck podruhé](https://twitter.com/front_ukrainian/status/1721913257844187291)
+          - [Tak to taky neklaplo](https://twitter.com/region776/status/1721865112699678975)
+          - [Trefa!](https://twitter.com/GloOouD/status/1721819652379025619)
+          - [Mínus tři ](https://twitter.com/region776/status/1721869481818173705)
+          - [Bulat](https://twitter.com/TheDeadDistrict/status/1721789885277757652)
+          - [Neprojel, utekl](https://twitter.com/GloOouD/status/1721811122980884952)
+          - [Když máš ničit drony, ale nejde ti to ](https://twitter.com/region776/status/1721917007107653767)
+          - [Trefa](https://twitter.com/region776/status/1721866028668629005)
+          - [Návrat z mise](https://twitter.com/front_ukrainian/status/1721857135288459340)
+          - [Evakuace neproběhla](https://twitter.com/region776/status/1721781874304196817)
+          - [Bohdana](https://twitter.com/front_ukrainian/status/1721854700683714934)
+          - [Stugna má další zářez](https://twitter.com/region776/status/1721744631287914630)
+          - [Po ruském útoku](https://twitter.com/bigSAC10/status/1721934534415908926)
+          - [BTR-T](https://twitter.com/front_ukrainian/status/1721824011628228884)
+          - [Ukrajina má talent ](https://twitter.com/UKRINFORM/status/1721622025087623513)
+          - [Skoro](https://twitter.com/region776/status/1721702531502620742)
+          - [Bren-2](https://twitter.com/front_ukrainian/status/1721823345132400643) 
+          - [Lancet vs. ukrajinský radar](https://twitter.com/WarVehicle/status/1721916048788619664)
       - title: "Pondělí"
         year: "6. listopadu 2023"
         image: assets/img/timeline/2023-11-06.jpg
