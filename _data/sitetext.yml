@@ -38,6 +38,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "8. listopadu 2023"
+        image: assets/img/timeline/2023-11-08.jpg
+        desc: |
+          Spojené státy i státy EU popřely informaci kolující ve veřejném prostoru, že prý tlačily na Ukrajinu, aby začala jednat s Ruskem. Jelikož původní zpráva byla z „anonymních zdrojů“, je velmi pravděpodobné, že šlo od začátku o ruskou dezinformaci, čemuž ostatně nahrává i to, jakým způsobem ruské kanály informaci následně spinovaly. Nejrůznější proruské účty na základě zmíněné informace tvrdily, že NATO tím de facto uznalo, že ho Rusko vojensky porazilo. Ve skutečnosti NATO jednak vůbec s Ruskem neválčí, jednak Rusko nedokázalo doposud vojensky porazit ani „papírově“ násobně slabší Ukrajinu (a nevypadá, že by to v budoucnu dokázalo), a jednak objem pomoci Ukrajině od zemí NATO tvoří jen zlomky procent armádních rozpočtů jednotlivých členských států. Naopak je po roce a půl války na Ukrajině více než zřejmé, že Rusko pravděpodobně nikdy nepředstavovalo pro NATO rovnocenného soupeře a jediná věc, kterou Rusko může NATO reálně ohrožovat, je jeho jaderný arzenál. Přesto Solovjov ve svém pořadu nedávno prohlásil, že Rusko se „nezastaví v Kyjevě, Varšavě ani Paříži, ale až tehdy, kdy se bude cítit, že ho nikdo neohrožuje“. Můžeme se tomu smát, ale nesmíme zapomínat, že tahle rétorika není určená pro nás. Jejím cílem jsou posluchači v Rusku, kterým podobné řeči dodávají sebevědomí a motivaci narukovat do armády a umřít pro Putinovy plány v ukrajinských zákopech. A v tom plní svůj účel perfektně. Nicméně pojďme se podívat na [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid03X9yxQuAhaJPNr8eV2XHA2bAYrrqvbeFwAYPRRXm1kLY6oHqY3QpvN2niZZiG7til): 
+        detail: |
+          - Putin v dubnu podepsal dekret, kterým omilostnil jednoho z nejbrutálnějších vrahů v moderní ruské historii, Vladislava Kaniuse, aby následně Kanius mohl narukovat do ruské armády a účastnit se bojů na Ukrajině. 
+          - V okupovaném Luhansku zahynul při bombovém atentátu kolaborant a bývalý velitel luhanských milicí Michail Filiponenko. Byl to už druhý pokus o jeho zabití a opět šlo o nálož umístěnou pod autem.
+          - Ukrajinci znovu zasáhli výcvikové středisko pro budoucí piloty dronů v okupovaném Doněcku. Rusko v reakci na útoky požádalo o urgentní schůzi Rady bezpečnosti OSN. 
+          - FSB oznámila, že zadržela muže v Burjatsku, který měl spolupracovat s ukrajinskou rozvědkou a přemlouvat ruské vojáky, aby se na Ukrajině vzdali. 
+          - Ukrajinské předmostí na levém břehu Dněpru má nyní sílu minimálně jednoho praporu a v oblasti už operuje i několik kusů těžké techniky. 
+          - Nová slovenská vláda zablokovala plán svých předchůdců poskytnout Ukrajině vojenskou pomoc v celkové hodnotě okolo 40 mil. eur. 
+          - Severní Makedonie nevpustila Lavrova na setkání OBSE. Rusku jednoduše sdělila, že její vzdušný prostor je ruským letadlům uzavřen. 
+          - Podle amerického ministerstva vnitra financuje Kreml masivní dezinformační kampaň proti Ukrajině v Latinské Americe. 
+          - Skupina G7 oznámila, že nevrátí Rusku zmrazené prostředky, dokud Rusko nezaplatí válečné reparace. 
+          - Německo pomůže Ukrajině s internetovým pokrytím v oblastech zničených během ruské invaze. 
+          - Evropská komise doporučila zahájit jednání s Ukrajinou a Moldavskem o vstupu do EU. 
+          - Francie oznámila další vojenskou pomoc Ukrajině v hodnotě 200 mil. eur. 
+          - Finsko plánuje zakázat dovoz ruského LNG. 
+        videa: |
+          - [Solovjov](https://twitter.com/Gerashchenko_en/status/1722177561843679597)
+          - [Za Dněprem](https://twitter.com/GloOouD/status/1721954697613828353)
+          - [To si tak člověk oře…](https://twitter.com/EuromaidanPress/status/1722071504395944244)
+          - [Pokémoni](https://twitter.com/TheDeadDistrict/status/1722145766951489848)
+          - [Avdijivka, zase…](https://twitter.com/region776/status/1722065724229792002)
+          - [Ruský cvičák navštívil HIMARS](https://twitter.com/JayinKyiv/status/1722013262089273533)
+          - [Údajně prapor tvořený ukrajinskými zajatci ](https://twitter.com/region776/status/1722205116135285084)
+          - [Několik much jednou ranou](https://twitter.com/region776/status/1722151704488206591)
+          - [UA artilerie](https://twitter.com/region776/status/1722202024706748586)
+          - [Evakuace na Dněpru ](https://twitter.com/EuromaidanPress/status/1722057094466019767)
+          - [Nová ruská propaganda o NATO](https://twitter.com/Fbeyeee/status/1721879133964439701)
+          - [Mínus skladiště min](https://twitter.com/EuromaidanPress/status/1722011419535716418)
+          - [Doslova rozprášená jednotka](https://twitter.com/region776/status/1722071972514025860)
+          - [Munice se šrapnely](https://twitter.com/TheDeadDistrict/status/1722110369835921540)
+          - [Kupředu](https://twitter.com/region776/status/1722169589424119819)
+          - [Rusové skočili do UA zákopu, aby utekli dronu](https://twitter.com/region776/status/1722159970144378952)
       - title: "Úterý"
         year: "7. listopadu 2023"
         image: assets/img/timeline/2023-11-07.jpg
