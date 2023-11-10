@@ -38,9 +38,9 @@ timeline:
     section: timeline
     start_align: "left"
     events:
-      - title: "Čtvrtek."
-        year: "9. listopadu 2023"
-        image: assets/img/timeline/2023-11-09.jpg
+      - title: "Pátek"
+        year: "10. listopadu 2023"
+        image: assets/img/timeline/2023-11-10.jpg
         desc: |
           Orbán tvrdí, že Ukrajina odmítla v březnu loňského roku podepsat mírovou smlouvu s Ruskem kvůli tlaku Spojených států. I kdyby to byla pravda, loni v březnu stála ruská armáda U Kyjeva, obkličovala Charkov a Černihiv a chystala se z Chersonu provést výpad k Oděse. Jakákoliv mírová dohoda, kterou by tehdy Ukrajina uzavřela, by znamenala konec Ukrajiny, úplnou kontrolu Ruska nad ukrajinským černomořským pobřežím a spojení pevninského Ruska s Podněstřím. Že to Ukrajina odmítla, může Kyjevu vyčítat jen… Orbán. Dnes je vyjednávací pozice úplně jiná. Rusko si na Oděsu může sotva dělat pomyšlení a jeho sen o propojení Podněstří pevninským mostem se dávno musel rozplynout. Stejně tak už Rusko nekontroluje a nejspíš nikdy kontrolovat nebude Charkovskou oblast a Cherson. V čele Ukrajiny totiž tehdy naštěstí nestáli politici, kteří by celou zemi Rusku odevzdali lusknutím prstu i bez hrozby války. Jako Orbán. Nicméně pojďme se podívat na další [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0T8sRPyhqq8FeKNmMjPUG6DDkLLyEVuj6pAMnkxkiuXPrz4WjnHFQvHccL353jkByl): 
         detail: |
@@ -72,7 +72,7 @@ timeline:
           - [U Novoprokopivky](https://twitter.com/TheDeadDistrict/status/1722907666681373125)
           - [Minus T-90](https://twitter.com/GloOouD)
           - [Mínus T-80](https://twitter.com/front_ukrainian/status/1722951778839277612)
-      - title: "Čtvrtek."
+      - title: "Čtvrtek"
         year: "9. listopadu 2023"
         image: assets/img/timeline/2023-11-09.jpg
         desc: |
