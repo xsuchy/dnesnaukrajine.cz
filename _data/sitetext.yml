@@ -38,6 +38,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "11. listopadu 2023"
+        image: assets/img/timeline/2023-11-11.jpg
+        desc: |
+          Česká republika odtajnila seznam vojenské pomoci poskytnuté Ukrajině. A… jako klobouk dolů. Myslím, že Česko může být na sebe právem hrdé. Od začátku války totiž Ukrajině poskytlo už 4 helikoptéry, 62 tanků, 131 bojových vozidel, 16 systémů PVO, 47 dalších vozidel, 13 samohybných děl, 12 raketových systémů a 4 900 raket, 645 protitankových střel, 8 022 střel proti lehce obrněným cílům, 128 minometů, 17 400 minometných granátů, 4,2 miliónu kusů munice do malých zbraní a další výbavu. Část pomoci přitom tvořila vyřazená technika a munice z armádních skladů, část byly nové objednávky od českých zbrojních firem. Stáří materiálu osciluje mezi roky výroby 1968 až 2019. Navíc byly některé dodávky realizovány pomocí financování ze zahraničí nebo formou výměny: Česko poskytlo vyřazenou techniku a za to dostalo od partnerů novou. V celkovém objemu pomoci přepočteném na HDP se tedy řadíme mezi světovou špičku. To je rozhodně důvod k hrdosti. A teď pár [aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02YgAb1UWqLgNF4hDvHhbEgDAULDKyJNtBQYyYLhki1iHratJRdnjhng2mYFGuwCiZl): 
+        detail: |
+          - Na den přesně před rokem osvobodila ukrajinská armáda Cherson. Ukrajinské vojáky tehdy vítaly v ulicích nadšené davy, a to i přesto, že Rusové ve svých zfalšovaných referendech tvrdily, že naprostá většina obyvatel si přála žít v Rusku. Od té doby prakticky nepřetržitě prší na Cherson ruské granáty a rakety. Logicky. Tak se přeci chová stát, která tvrdí, že jsou mu nakloněni 4 z 5 civilních obyvatel. 
+          - Ruské jednotky vstoupily severně od Avdijivky do obce Stěpove. Není ale jasné, jestli se jim podařilo pozice udržet, protože četná videa zachytila poměrně ostré ukrajinské protiútoky, při kterých asistovala i vozidla Bradley. 
+          - U Charkova roste nová škola, která dokáže pojmout až 500 žáků a učitelů, a je konstruována tak, že její část je pod úrovní země a funguje zároveň jako kryt, který odolá ruským balistickým střelám a raketám ze systémů S-300/400. 
+          - Kazašský prezident Tokajev včera uvedl do rozpaků celou ruskou delegaci. Když Putin už poněkolikáté zkomolil Tokajevovo jméno, ten bez váhání přepnul do kazaštiny a zbytek setkání nepromluvil ani slovo rusky. 
+          - Exploze a následný masivní požár poničily továrnu Kotovsk v Tambově, jihovýchodně od Moskvy, kde se mimo jiné vyrábí střelný prach. 
+          - Rusové podle Ukrajinců údajně upravili svoje drony Lancet tak, že nyní dokáží překonat i protidronové sítě. 
+          - Ukrajinci zasáhli raketami HIMARS velkou ruskou kolonu, která vezla posily do Chersonské oblasti. 
+          - Obě ruské lodě, které předevčírem zasáhly ukrajinské drony, šly podle informací rozvědky ke dnu. 
+          - 44 % obyvatel Ukrajiny má zkušenost s válkou z první ruky. 
+          - U ruské Rjazaně kvůli sabotáží vykolejil nákladní vlak. 
+          - Litva předala Ukrajině další systém NASAMS. 
+        videa: |
+          - [Ukrajinské drony u Avdijivky](https://twitter.com/nexta_tv/status/1723282500208783564)
+          - [Rusové ve Stěpovém](https://twitter.com/region776/status/1723160674694754695)
+          - [Tambov](https://twitter.com/GloOouD/status/1723102413354102890)
+          - [Dánský CAESAR](https://twitter.com/nexta_tv/status/1723124317100163350)
+          - [Zničená kolona s posilami](https://twitter.com/TheDeadDistrict/status/1723209101100933518)
+          - [Avdijivka](https://twitter.com/region776/status/1723168835828867460)
+          - [Rjazaň](https://twitter.com/EuromaidanPress/status/1723302845644976159)
+          - [Ruská základna ve Skadovsku po návštěvě od strejdy HIMARSe (citlivé!)](https://twitter.com/GloOouD/status/1722998784005726472)
+          - [Trefa! (citlivé!)](https://twitter.com/herooftheday10/status/1723270589014573096)
+          - [Avdijivka](https://twitter.com/TheDeadDistrict/status/1723278844805685716)
+          - [RDK na ruské straně hranic](https://twitter.com/region776/status/1723027791896002653)
+          - [Dva najednou](https://twitter.com/EuromaidanPress/status/1722992004593029555)
+          - [Do třetice… (citlivé!)](https://twitter.com/TheDeadDistrict/status/1723199548275769730)
+          - [Bradley a Leo](https://twitter.com/region776/status/1723332725317546217)
+          - [Neprošel](https://twitter.com/small10space/status/1723259722009030713)
+          - [Bulat v noci](https://twitter.com/front_ukrainian/status/1723301712461520965)
+          - [Drony se činí](https://twitter.com/region776/status/1723282565736616113)
+          - [Trefa (citlivé!)](https://twitter.com/cryogenicbreez/status/1723306223565463698)
       - title: "Pátek"
         year: "10. listopadu 2023"
         image: assets/img/timeline/2023-11-10.jpg
