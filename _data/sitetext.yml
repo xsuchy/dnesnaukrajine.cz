@@ -38,6 +38,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "12. listopadu 2023"
+        image: assets/img/timeline/2023-11-12.jpg
+        desc: |
+          Deník The Washington Post zveřejnil článek, ve kterém tvrdí, že za sabotáží plynovodu Nord Stream stojí důstojník ukrajinské armády. Jak už je zvykem u podobných tvrzení, informace pochází od „anonymního zdroje obeznámeného s plány operace“. Když podobné „zdroje“ používal vyoutovaný novinář Hersh, ukázalo se, že „anonymním zdrojem“ je ve skutečnosti ruský rozvědčík. Sluší se taky připomenout, že stejný deník kdysi publikoval článek, ve kterém parafrázoval slova ukrajinských velitelů o tom, že neútočí na ruské území, a následně psal, že „mimo záznam ukrajinští velitelé přiznávají, že stojí za některými velkými útoky, jako například tím na Krymský most“. Krym a naprostá většina délky mostu je přitom na mezinárodně uznávaném území Ukrajiny. A bohužel je to jen jeden z miliónů střípků, tvořící mozaiku opakovaného selhávání médií v informování o zásadních událostech a poskytování fakticky správného kontextu. Tak si pojďme trochu [toho kontextu](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02N2URsBjYUrohBQeaeb6EQoXsDCKSgJeUrjnHxzov5CVbhgv9EinGMDaeSjDH7NfYl) přečíst: 
+        detail: |
+          - Ruské sabotážní skupina se pokusila proniknout přes hranice do Sumské oblasti, kde zabila dva civilisty ve věku 59 a 70 let projíždějící kolem na motocyklu. Minulý týden Rusové podnikli podobný výpad, na který stejně jako nyní odpověděla ukrajinská pohraniční stráž, ale tehdy si boje vyžádaly životy pěti ukrajinských pohraničníků. 
+          - Rusko před pár dny odvolalo svou 810. námořní brigádu ze záporožské fronty, aby pomohla bránit levý břeh Dněpru v Chersonské oblasti. Její velitel byl ale téměř okamžitě zraněn a 8. listopadu zemřel na následky zranění v nemocnici v Moskvě. 
+          - Rusko podle ukrajinských velitelů spustilo svou třetí vlnu ofenzivy u Avdijivky. Podle prvních fotek a videích ji ale opět provází masivní ztráty. Jen první den obnovené ofenzivy stál Rusy odhadem 800-900 vojáků a desítky kusů techniky. 
+          - Silná exploze poničila ruskou provizorní základnu v okupovaném Melitopolu, kterou Rusové zřídili v areálu tamější pošty. Při výbuchu byli údajně zabiti tři z ruských důstojníků, kteří se tam v tom čase sešli. 
+          - RIA Novosti informovala, že Rusko už „relokovalo“ z okupovaných území Ukrajiny 730 000 ukrajinských dětí. Rusko se ani nesnaží válečné zločiny skrývat, ale hrdě se k nim hlásí. 
+          - Šéf evropské diplomacie Borell předpokládá, že objem americké vojenské pomoci bude v čase klesat, proto podle něj musí být Evropská unie připravena svoji pomoc naopak navýšit. 
+          - Rusové údajně přesunuli další jednotky k Bachmutu a pokouší se dobýt zpět ztracené pozice. 
+          - Německo plánuje navýšit rozpočet pro Ukrajinu na dvojnásobek – na 8 miliard eur. 
+          - Rusko v posledních 24 hodinách ostřelovalo 120 ukrajinských obcí v 8 regionech. 
+          - Ruský raketový útok na Cherson poničil tamější budovy městské knihovny. 
+          - Česko a Taiwan podepsaly smlouvu o spolupráci na rekonstrukci Ukrajiny. 
+          - Ruská palba na ukrajinské město Toreck si vyžádala životy dvou seniorů.
+          - Na území Ukrajiny je nyní 4,9 miliónů uprchlíků ve vlastní zemi. 
+        videa: |
+          - [Rusové u Avdijivky](https://twitter.com/GloOouD/status/1723603640869343250)
+          - [Ukrajinci v obci Topoli u Charkova](https://twitter.com/KyivIndependent/status/1723487311567212665)
+          - [Tamtéž](https://twitter.com/region776/status/1723618769841664367)
+          - [Trefa artilerie](https://twitter.com/EuromaidanPress/status/1723655361033302178)
+          - [Postřeh!](https://twitter.com/GloOouD/status/1723653216687014223)
+          - [Vodáci](https://twitter.com/region776/status/1723594080704139592)
+          - [Uvnitř Kraba](https://twitter.com/front_ukrainian/status/1723614986725962222)
+          - [Ukrajinský protiútok](https://twitter.com/NOELreports/status/1723427846427672819)
+          - [Zápal pro věc](https://twitter.com/region776/status/1723700196394061994)
+          - [Na sever od Avdijivky](https://twitter.com/EuromaidanPress/status/1723538386680434864)
+          - [Jurij Gagarin](https://twitter.com/GloOouD/status/1723447871385796634)
+          - [Dron se činil](https://twitter.com/EuromaidanPress/status/1723433223311532044)
+          - [Banzaaai](https://twitter.com/region776/status/1723698202472489035)
+          - [Zkoumání toho, co zbylo po ruském útoku](https://twitter.com/NOELreports/status/1723627261167870436)
+          - [Noční dron](https://twitter.com/region776/status/1723678240831852907)
+          - [Dronům se neschováš](https://twitter.com/ayzin_illya/status/1723631384894255187)
+          - [Trefa!](https://twitter.com/region776/status/1723697810720379320)
+          - [Zásah civilní lodě v Oděse ruskou raketou ](https://twitter.com/front_ukrainian/status/1723686066689814753)
+          - [Vykládka (velmi citlivé!)](https://twitter.com/region776/status/1723375493250986306)
+          - [V mlze](https://twitter.com/nevedimka123/status/1723613650408046645)
       - title: "Sobota"
         year: "11. listopadu 2023"
         image: assets/img/timeline/2023-11-11.jpg
