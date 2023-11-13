@@ -38,6 +38,55 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "13. listopadu 2023"
+        image: assets/img/timeline/2023-11-13.jpg
+        desc: |
+          Několik ruských deníků publikovalo údajnou citaci zdroje z ruského ministerstva obrany, že budou ruské jednotky v Chersonské oblasti „staženy na výhodnější pozice“ a část jich bude převelena na východní frontu, aby posílily tamější výpady ruských sil. O pár desítek minut později ale deníky zprávu stáhly, a naopak psaly, že šlo o omyl. Pravdivost výroku ověřit nelze, nicméně klidně pravdivý být může, protože Ukrajinci skutečně dělají Rusům u Chersonu velké starosti a za řeku proudí čím dál více kusů těžké techniky i živé síly. Ruské kanály dokonce tvrdí, že jsou tu v přečíslení 1:3 a že Ukrajinci už mají za řekou tanky (i když to druhé se zdá nepravděpodobné). I pokud by se ale ukázalo, že šlo v případě informace o ústupu o kachnu, může mít taková zpráva negativní dopad na už tak dost nízkou morálku ruských jednotek, jako ostatně vždy, kdy v minulosti musely ustupovat nebo jim jen ústup hrozil. Proto není ani vyloučeno, že šlo o ukrajinskou psychologickou operaci. Každopádně pojďme od spekulací k [informacím](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0bLvGDanwnpMcDWbbyrj3p8UkcaLTNMrpQRmcQHbyP8ge8sMQa68gJxYPk8zjEpXKl): 
+        detail: |
+          - Kadyrovův osmnáctiletý syn Achmat má novou funkci. Dnes byl slavnostně jmenován prvním čečenským ministrem pro trénink a sport. Takhle nakonec končí každá diktatura. Rozdává funkce rodině a přátelům, protože jim neustále potřebuje udržovat status a zároveň nikomu cizímu nevěří. 
+          - Podle mluvčího ukrajinského námořnictva nedokáže nyní Rusko pálit svoje rakety z Černého moře, a to proto, že útoky ukrajinských dronů donutily Rusy přesunout lodě ze Sevastopolu do přístavu v Novorossijsku, který ale nemá infrastrukturu k nakládání raket ani jejich skladování. 
+          - Rusko nakoupilo od Číny necelých 1 600 kusů vojenských terénních vozidel Desertcross-1000-3. První z nich už používají ruští vojáci na záporožské frontě. 
+          - Šéf unijní diplomacie přiznal, že EU nebude schopna dodat Ukrajině původně slíbený 1 milión dělostřeleckých granátů do konce letošního roku. 
+          - Rusko plánuje zvýšit tresty za vyhýbání se vojenské službě a zavede přísnější tresty také k napomáhání nebo k vyzývání k takového činu. 
+          - Ukrajinský energetický gigant DTEK objednal dalších 70 000 metrických tun uhlí z Polska v obavě z potenciálních ruských útoků na elektrárny. 
+          - Ukrajinské letectvo informovalo, že úspěšně upravilo sovětské systémy BUK, aby byly schopné odpalovat rakety západní výroby. 
+          - Spojené státy údajně odkoupily 60 systémů PVO Gepard od Jordánska s cílem poskytnout je Ukrajině. 
+          - Rusko údajně využívá letadla civilních aerolinek pro přesun mobilizovaných vojáků z Novosibirsku do Rostova. 
+          - Američtí zástupci odhadují, že ve válce už padlo 70 000 Ukrajinců a na 120 000 bylo zraněno. 
+          - Finsko prozkoumává legální cesty, jak poskytnout zabavené ruské prostředky Ukrajině. 
+          - Ukrajinských obilným koridorem úspěšně proplula už 100. obchodní loď. 
+          - V Rumunsku se začali cvičit první piloti na strojích F-16. 
+          - Německo poskytne Ukrajině další dva systémy IRIS-T. 
+        videa: |
+          - [Ghost Rider ](https://twitter.com/EuromaidanPress/status/1723971458395750622)
+          - [Ruský zpackaný útok, po kterém řidič přejel vlastní (citlivé!)](https://twitter.com/region776/status/1723955622910267807)
+          - [Ruskou základnu navštívil HIMARS (citlivé!)](https://twitter.com/JayinKyiv/status/1723820232026800359)
+          - [V Rumunsku začal výcvik na strojích F-16](https://twitter.com/nexta_tv/status/1724057298807439523)
+          - [Šturm](https://twitter.com/BenYehuda65/status/1723604475737260193)
+          - [Kazetovka (citlivé!)](https://twitter.com/region776/status/1723985595742200211)
+          - [Mínus Orlan](https://twitter.com/front_ukrainian/status/1724096112598880467)
+          - [Nejhorší rozhodnutí zbytku jejich života](https://twitter.com/bayraktar_1love/status/1724041485476106624)
+          - [Zastavená evakuace](https://twitter.com/region776/status/1723733408499540036)
+          - [Pokémoni](https://twitter.com/TheDeadDistrict/status/1723997547201548418)
+          - [Zraněné batole po ruské palbě na Cherson ](https://twitter.com/EuromaidanPress/status/1724051332770799868)
+          - [Vnuk](https://twitter.com/TarmoFella/status/1724132056458788880)
+          - [Noční lov](https://twitter.com/EuromaidanPress/status/1723883418109276372)
+          - [Pokémoni](https://twitter.com/region776/status/1724126157908677012)
+          - [Otakar Foltýn z Vuhledaru ](https://twitter.com/Team4Ukraine1/status/1724023133135335428)
+          - [Nahoře!](https://twitter.com/region776/status/1724075260751036455)
+          - [Ruské dárky](https://twitter.com/gaz_EOD/status/1724047224596779197)
+          - [U Avdijivky](https://twitter.com/TheDeadDistrict/status/1723940431581385093)
+          - [Ruský dron, ukrajinský člun](https://twitter.com/region776/status/1723968491957670061)
+          - [Na vodě](https://twitter.com/PStyle0ne1/status/1723994352911868010)
+          - [Cesta do práce](https://twitter.com/BenYehuda65/status/1723687530787168339)
+          - [Hodný Rus](https://twitter.com/TheDeadDistrict/status/1723996963006275632)
+          - [Postřeh!](https://twitter.com/region776/status/1724098768243732853)
+          - [Plížení kupředu](https://twitter.com/GloOouD/status/1723996543793947126)
+          - [Zkusil to, neutekl](https://twitter.com/TheDeadDistrict/status/1723761412411929062)
+          - [Našli minu (citlivé!)](https://twitter.com/region776/status/1724021173456142489)
+          - [Rusové v Krynkách](https://twitter.com/NOELreports/status/1723990791167607060)
+          - [Byl tam!](https://twitter.com/nevedimka123/status/1724091771695636901)
       - title: "Neděle"
         year: "12. listopadu 2023"
         image: assets/img/timeline/2023-11-12.jpg
