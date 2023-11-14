@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "14. listopadu 2023"
+        image: assets/img/timeline/2023-11-14.jpg
+        desc: |
+          Rusové si stěžují na svých kanálech na horšící se situaci na levém břehu Dněpru. Ukrajinci dál kupí v oblasti techniku, ruší ruskou komunikaci a podnikají noční útoky na ruské pozice. Podle nových informací také Ukrajinci přeťali ruské zásobovací trasy z Kinburnské kosy až k nové Kachovce, což vede ke katastrofické situaci některých bojujících ruských jednotek. Ukrajinci naopak poměrně hladce rotují jednotky v oblastech, kde podnikají výpady, a podařilo se jim odrazit několik ruských pokusů o znovudobytí dříve ztracených pozic. Ale levý břeh Dněpru nebylo jediné místo, kde se [něco dělo](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02pmNHNyeKn1o69V6i9CHmcD1i8XcS8tH5CvWARUrUgUuLxCiGd6hZrw1gYQFPgZpHl): 
+        detail: |
+          - Šéf ukrajinské rozvědky Budanov nevěří, že Rusko bude ochotné přistoupit na jakékoliv dohody a válka se tak podle něj může vléct klidně další roky. Zároveň ale předpovídá, že Rusko ztratí v roce 2025 schopnost udržovat svoji válečnou ekonomiku v chodu a namísto velkých ofenziv bude podnikat jen náhodné raketové útoky na ukrajinská města a infrastrukturu. 
+          - Eurokomisař Breton zodpovědný za společnou produkci munice pro Ukrajinu upřesnil, že plán nebyl dodat 1 mil. kusů munice do konce kalendářního roku, ale do 12 měsíců ode dne, kdy k dohodě došlo, což vychází na březen 2024. K tomuto termínu uvedl, že stále věří, že je možné munici dodat.  
+          - Finsko zavede zvýšená opatření na hranicích s Ruskem. Rusko totiž uměle přesouvá k finským hranicím migranty z Afriky a Blízkého východu, nejspíš ve snaze destabilizovat zemi a vytvořit humanitární krizi podobně, jako to dělá už roky na hranicích Běloruska a Polska. 
+          - Rusko zavede nová pravidla pro příští prezidentské volby, které jednak umožní volit i v regionech, kde je vyhlášeno stanné právo (okupovaná Ukrajina), a jednak znemožní nezávislým novinářům, aby se účastnili mítinků volebních komisí. 
+          - Francie v rámci výcviku ukrajinských vojáků připravuje Ukrajince také na nepříjemné podmínky na frontě. A to tak, že například umísťuje u zákopů mršiny zvířat, aby si vojáci zvykly na hnilobný zápach smrti. 
+          - Ruský soud poslal na 7,5 roku do vězení muže, který na sociální síti přirovnal Stalina k Hitlerovi. Oficiální odůvodnění rozsudku zní: rehabilitace nacismu. 
+          - Ukrajinci pravděpodobně zasáhli pomocí dronů továrnu KG Mašinostrojenija v Kolomně. V závodu se vyrábí mimo jiné rakety Kinžal a Iskander. 
+          - Rusko včera zasáhlo areál nemocnice v Chersonu. Při útoku zemřeli dva lidé ve věku 45 a 62 let a byla zničeno několik sanitek. 
+          - Podle britské rozvědky až 15 % ruských vojáků užívá drogy, které si navíc opatřují přímo na frontě. 
+          - Podle amerických úřadů pomáhá Rusku obcházet sankce odhadem 100 lodí ve 30 zemích. 
+          - Elon Musk údajně promluví na konferenci o umělé inteligenci… v Moskvě. 
+          - Ukrajinský dron v noci poničil ruskou továrnu na výbušniny u Brjansku.
+          - Arménský prezident oznámil, že se nezúčastní setkání OSKB v Minsku. 
+          - EU poskytne Ukrajině humanitární pomoc v hodnotě 118 mil. dolarů. 
+          - Ukrajinci opět zasáhli okupovaný Tokmak. 
+        videa: |
+          - [Mínus T-80BV](https://twitter.com/TheDeadDistrict/status/1724386813941313851)
+          - [U Kupjansku](https://twitter.com/GloOouD/status/1724189164525027352)
+          - [Ruská minometná pozice aneb FAFO](https://twitter.com/TheDeadDistrict/status/1724381563750641676)
+          - [Tak to bylo těsné!](https://twitter.com/Osinttechnical/status/1724186888381063209)
+          - [Útok dronu natočený na straně příjemce](https://twitter.com/NOELreports/status/1724371654388642290)
+          - [U Avdijivky](https://twitter.com/TheDeadDistrict/status/1724377448223998048)
+          - [Kupředu ](https://twitter.com/nevedimka123/status/1724333241878913193)
+          - [Snajpři](https://twitter.com/region776/status/1724299268553585089)
+          - [Ruská dálkově ovládaná zbraň](https://twitter.com/TheDeadDistrict/status/1724284021213933637)
+          - [Ukrajinská letka](https://twitter.com/Osinttechnical/status/1724186894509002861)
+          - [Mínus ruská loďka](https://twitter.com/front_ukrainian/status/1724357685951295867)
+          - [Mínus 20 kusů](https://twitter.com/NOELreports/status/1724376130369519729)
+          - [Trefa!](https://twitter.com/ANDRU6307/status/1724344564746469849)
+          - [Headshot! (citlivé)](https://twitter.com/bigSAC10/status/1724124190574289039)
+          - [Udržování kázně v ruské armádě](https://twitter.com/region776/status/1724410263032778966)
       - title: "Pondělí"
         year: "13. listopadu 2023"
         image: assets/img/timeline/2023-11-13.jpg
