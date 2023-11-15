@@ -38,6 +38,47 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "15. listopadu 2023"
+        image: assets/img/timeline/2023-11-15.jpg
+        desc: |
+          Deník The Guardian odhalil, že jeden z předních německých novinářů a dokumentaristů Hubert Seipel v minulosti obdržel celkem 600 000 eur od ruského oligarchy Alexeje Mordašova s blízkými vazbami na Putina. Platby byly realizovány z různých offshorových společností, aby nešly snadno vysledovat. Seipel nepopřel, že by peníze dostal, a dokonce přiznal, od koho. Nevidí na tom ale nic špatného. Podle Seipelovy verze byly peníze sponzorským darem na jeho knihu a dar nijak neovlivnil to, jak psal svoje články. Problém je, že údajný sponzorský dar obdržel Seipel dávno poté, co kniha vyšla a byla na pultech knihkupectví. A co se týče psaní na objednávku, Seipel sice tvrdí, že k ničemu takovému nedocházelo, nicméně zároveň je autorem dvou knih o Putinovi, kde ho vykresluje velmi pochvalně a jedna dokonce nese podtitul „Proč Evropa potřebuje Rusko“, a také v roce 2012 natočil snímek „Já, Putin“. Sám o sobě pak tvrdí, že se s Putinem více než stokrát setkal osobně. Německé deníky oznámily, že Seipela prověří, nicméně Seipel je pravděpodobně jen malinká špička ledovce toho, jak si Putin kupuje vliv a mínění po celém světě. Každopádně ještě se [stalo tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Dt9Ft3bwv2vFqoahzaAs41HtiAEtEBj7SHt2LfCZ8gXFJiGD2Z7ZmvsByzYmfEgHl): 
+        detail: |
+          - Ruská strategie dvojitého úderu opět vedla k zabití dvou členů hasičského sboru u Záporoží. Rusko cíleně vysílá další rakety nebo granáty na cíl s několikaminutovým zpožděním, aby zasáhlo záchranáře, kteří přijedou likvidovat následky prvního útoku. 
+          - Putin omilostnil vraha novinářsky a kritičky režimu Anny Politkovské. Bývalý ruský policista Sergej Chadžikurbanov bylo v roce 2014 odsouzen k 20 letům vězení. Přihlásil se ale jako dobrovolník a odjel bojovat na Ukrajinu, načež mu Putin udělil milost. 
+          - Slovensko opět zopakovalo, že neposkytne Ukrajině žádnou vojenskou pomoc z armádních skladů, ale zároveň sdělilo, že bude poskytovat humanitární pomoc, a to včetně odminovacích vozidel Božena-4.
+          - Evropská unie chystá nová opatření proti ruské ropě a plynu, která by Dánsku umožnila provádět inspekce ruských lodí v dánských průplavech a potenciálně odmítnout lodí proplout. 
+          - Ukrajina spustila program, který nabízí pojištění obchodním lodím přepravujícím ukrajinské suroviny. Slibuje si od něj, že bude motivovat více firem k využívání koridoru. 
+          - Web Fokus vydal článek, ve kterém tvrdí, že skupinu ruských sabotérů v oblasti Černobylu překvapilo stádo divočáků a jednoho z Rusů zabilo. 
+          - Podle OSINT účtu DeepState použili Rusové na dvou místech fronty – u Bachmutu a u Svatového – chemické zbraně, konkrétně jed chlorpicrin. 
+          - Ruská palba zasáhla obytný dům v obci Selidovo v Doněcké oblasti a zabila jednu z obyvatelek domu. 
+          - Čínský prezident přiletěl do San Franciska, kde se setká se svým americkým protějškem. 
+          - Musk v online diskusi na platformě X nazval Zelenského člověk s „mentalitou řezníka“. 
+          - Kadyrovův syn Adam obdržel další státní vyznamenání, tentokrát za „službu Islámu“. 
+          - Ukrajina obdrží dalších 25 renovovaných německých tanků Leopard 1A5. 
+          - Ukrajinci údajně zasáhli ruskou základnu u Krasnodaru. 
+          - Rusové přišli u Avdijivky u další bitevník Su-25.
+        videa: |
+          - [Za co bojují Čečenci (zkuste se nesmát)](https://twitter.com/nexta_tv/status/1724433293473353919)
+          - [Úder raketami na ruskou základnu v Brylivce](https://twitter.com/EuromaidanPress/status/1724638423309299975)
+          - [Ruská armáda](https://twitter.com/GloOouD/status/1724765165835681882)
+          - [Mínus Uragán](https://twitter.com/front_ukrainian/status/1724784723623621099)
+          - [Mínus technika dělostřelců](https://twitter.com/EuromaidanPress/status/1724555393546789236)
+          - [SOF AZOV u Kreminné](https://twitter.com/NOELreports/status/1724455561788354832)
+          - [Základna u Krasnodaru ](https://twitter.com/Maks_NAFO_FELLA/status/1724510545393369228)
+          - [Mínus Bradley](https://twitter.com/TheDeadDistrict/status/1724747703198876028)
+          - [Prosil bych si doubleshot](https://twitter.com/nevedimka123/status/1724724493459837075)
+          - [Mínus Tor](https://twitter.com/bayraktar_1love/status/1724504310300471529)
+          - [Ssss…bum!](https://twitter.com/TheDeadDistrict/status/1724747516904604147)
+          - [Mínus BMP](https://twitter.com/front_ukrainian/status/1724725598222733603)
+          - [Dobyté ruské pozice u Kreminné](https://twitter.com/GloOouD/status/1724492919019589790)
+          - [U Avdijivky](https://twitter.com/TheDeadDistrict/status/1724675645765026174)
+          - [Bývalé ruské zákopy](https://twitter.com/herooftheday10/status/1724710545029251239)
+          - [Začistka](https://twitter.com/Bodbe6/status/1724586619989086536)
+          - [Ruská autonehoda](https://twitter.com/TheDeadDistrict/status/1724673417536754147)
+          - [Mínus tank](https://twitter.com/aeronavty/status/1724762010385068184)
+          - [Naváděná raketa vystřelená z tanku](https://twitter.com/TheDeadDistrict/status/1724657061252743398)
+          - [Trefa!](https://twitter.com/bigSAC10/status/1724509098039771233)
       - title: "Úterý"
         year: "14. listopadu 2023"
         image: assets/img/timeline/2023-11-14.jpg
