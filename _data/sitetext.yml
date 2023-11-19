@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "19. listopadu 2023"
+        image: assets/img/timeline/2023-11-19.jpg
+        desc: |
+          O krásný moment v ruském vysílání se postaral americko-ruský novinář žijící v Moskvě Michael Bohm. V dalších z televizních debat, kde figuroval jako host, diskutovali propagandisté o údajném americkém ovlivňování ruských voleb. Potom, co se navzájem ujistili, že k vměšování každý volební rok dochází, zeptali se Bohma, na to, co si o tom myslí on a jestli vidí paralely v USA, načež jim Bohm sdělil, že nechápe, proč se údajného ovlivňování zvenčí tak děsí, když je výsledek voleb stejně předem daný. Moderátor pak rychle změnil téma a Bohmovu poznámku zahrál do autu. Byla to ale nezvyklá chvíle upřímnosti, jakých se jinak v ruské televizi poskrovnu. Pojďme se proto raději podívat, co říkají jiná než ruská média a nezávislé kanály: 
+        detail: |
+          - Ruská státní média včera přinesla příběh údajného ukrajinského pilota, který zběhnul na stranu Ruska. Ukrajina popřela, že by se něco takového stalo a nejsou o tom zprávy ani na jiných kanálech. Ruská propaganda pravděpodobně příběh vytvořila, aby se vyrovnala se skutečností, že jim nedávno zběhl vlastní pilot i s helikoptérou. 
+          - Apple, Disney, Warner, Discovery, Paramount, Sony. To jsou některé z velkých firem, které oznámily konec inzerce na platformě X poté, co se jejich reklamy zobrazovaly vedle otevřeně antisemitských a nacistických příspěvků.   
+          - Orbán na sjezdu vlastní strany Fidész prohlásil, že „napraví chybu Bruselu“ zahájit přístupové rozhovory s Ukrajinou. Podle něj je tak teď Ukrajina „mnoho světelných let“ od vstupu do EU. 
+          - Ukrajinský odstřelovač údajně stanovil nový rekord, když trefil ruského vojáka na vzdálenost 3,8 km. Informaci měl potvrdit i člověk, který pušky vojákům dodává. 
+          - Rusko v noci opět útočilo kamikadze drony na Ukrajinu. Tentokrát drony letěly i přes severní hranici. Ukrajinská PVO jich zničila 15 z celkem 20.
+          - Ukrajinské síly podle aktuálních informací vytlačily Rusy z levého břehu Dněpru na vzdálenost 3-8 kilometrů hlouběji do vnitrozemí. 
+          - Rusko tvrdí, že v Moskevské oblasti sestřelilo několik dronů mířících na hlavní město. 
+          - 6 lidí včetně tříletého dítěte bylo zraněno při ruském ostřelování Chersonu. 
+          - Kazachstán zablokoval vysílání ruské propagandy skrz kanál Sputnik24. 
+          - Ukrajinci obsadili vyvýšené pozice na skládce suti u Horlivky. 
+          - Girkin oznámil, že bude kandidovat na prezidenta. 
+        videa: |
+          - [Noční šichta PVO](https://twitter.com/nexta_tv/status/1726184513406115879)
+          - [Údajný snajpr-kill na 3,8 km ](https://twitter.com/EuromaidanPress/status/1726218690272596401)
+          - [Drony](https://twitter.com/TheDeadDistrict/status/1726111575755390996)
+          - [Mezinárodní legie u Bachmutu](https://twitter.com/region776/status/1726225090331971854)
+          - [Budíček](https://twitter.com/region776/status/1726188573341483027)
+          - [Potyčky s migranty na finských hranicích ](https://twitter.com/nexta_tv/status/1725905237209129168)
+          - [HIMARS v akci](https://twitter.com/region776/status/1726180036972360000)
+          - [Ruská protitanková jednotka na jeřábu](https://twitter.com/front_ukrainian/status/1726219455607529742)
+          - [Bývalé ruské pozice ](https://twitter.com/herooftheday10/status/1726195668463865982)
+          - [Neschhovali se](https://twitter.com/region776/status/1726161742307410280)
+          - [Ukrajinci u Horlivky](https://twitter.com/LaraLar93023545/status/1725577017251299787)
+          - [Čištění zákopů](https://twitter.com/region776/status/1726153693064814789)
+          - [Mínus Pantsir](https://twitter.com/Maks_NAFO_FELLA/status/1726233169375203670)
+          - [Ruská kazetová bomba](https://twitter.com/front_ukrainian/status/1726197984688525748)
+          - [Azov u Kreminné ](https://twitter.com/region776/status/1726126082427097390)
+          - [Kazety na ruskou pěchotu ](https://twitter.com/front_ukrainian/status/1726151217204666518)
+          - [Zasažená ruská základna](https://twitter.com/region776/status/1726068764016537699)
+          - [Jeden nestačil ](https://twitter.com/herooftheday10/status/1726199456268234864)
+          - [Zajímání kolaboranta](https://twitter.com/region776/status/1725932344274727378)
       - title: "Sobota"
         year: "18. listopadu 2023"
         image: assets/img/timeline/2023-11-18.jpg
