@@ -38,6 +38,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "20. listopadu 2023"
+        image: assets/img/timeline/2023-11-20.jpg
+        desc: |
+          V nové knize polského novináře Parafianowicze „Polsko ve válce“ je popsána jedna z klíčových událostí minulého roku s doposud neznámými detaily. Polsko v květnu minulého roku prakticky bez povšimnutí poskytlo Ukrajině jako první země svoje stíhačky. Parafianowicz nyní tvrdí, že ví, jak vše proběhlo. Polská vláda byla údajně frustrovaná nerozhodností Západu a odmítla čekat, až se jeho představitelé dohodnou na dalším postupu, proto nechala rozebrat zhruba desítku stíhaček MiG-29 a hromádky dílů poté navezla na několik míst v lesích u hranic s Ukrajinou. Ukrajincům pak jednoduše předala informaci, že u hranic se nachází „ztracené“ součástky určené k vyzvednutí, Ukrajinci pro součástky okamžitě vyrazili a na svých základnách stroje zase obratem složili. Pokud jednou o téhle válce vzniknou filmy, doufám, že na podobné husarské kousky tvůrci nezapomenou. Není jich totiž málo a některé jsou až bizarní. Ale teď [zpátky do současnosti](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid027nrFebyUF36idW3xRvJXRD9qEn1HTBBHgqouSn3DQWvbU7eCXjDW2H35w27Bbh6Al): 
+        detail: |
+          - Ruské ministerstvo zahraničí přidalo ukrajinskou zpěvačku Jamalu na seznam hledaných osob kvůli „šíření falešných informací o ruské armádě“. Způsob, jakým Rusko tento nový zákon doposud využívá k zastrašování a věznění kritiků, je naprosto odporný a na úrovni teď nejhorších režimů na současné planetě. 
+          - Slovensko oznámilo, že bude muset blokovat příští balík EU sankcí, pokud by měl obsahovat zákaz dovozu ruského jaderného paliva. Podle slovenského ministra zahraničí neprošly slovenské jaderné elektrárny dostatečnou transformací na to, aby mohly využívat západní palivo.
+          - Podle ruských kanálů nyní v oblasti kolem obce Krynky na levém břehu Dněpru operuje nejméně 250 ukrajinských vojáků s několika kusy těžké techniky. Rusové omezily svoje protiútoky a namísto toho se snaží Krynky rozbombardovat na kusy leteckými pumami.  
+          - Na hraniční přechod Vartius mezi Ruskem a Finskem dorazila finská armáda, aby pomohla pohraničníkům chránit hranice před Ruskem organizovanou ilegální migrací. 
+          - Norské stíhačky musely před čtyřmi dny startovat naproti několika ruským stíhačkám a bombardérům, které mířily do vzdušného prostoru NATO. 
+          - Republikáni požadují, aby příští balík pomoc Ukrajině byl schválen zároveň s financováním posílení jižní hranice USA s Mexikem. 
+          - Delegace z Japonska navštívila Kyjev a při té příležitosti přislíbila pomoc s rekonstrukcí ve výši 175 miliónů dolarů. 
+          - Jedna z lodí vezoucí ukrajinské obilí se u pobřeží Turecka vinou silné bouře rozlomila vejpůl. 
+          - Zelenský po tlaku zdravotníků odvolal velitelku vojenských mediků Teťanu Ostaščenkovou.
+          - Katar nabídl Ukrajině pomoc s repatriací Ukrajinců unesených do Ruska. 
+          - Ukrajina repatriovala těla 94 zabitých příslušníků ozbrojených sil. 
+          - Šéf Pentagonu Lloyd Austin dorazil do Kyjeva. 
+        videa: |
+          - [Rotace na frontě](https://twitter.com/Bodbe6/status/1726407892608114848)
+          - [Mínus T-90M](https://twitter.com/region776/status/1726454418718269824)
+          - [Ruská pěchota a kazety](https://twitter.com/TheDeadDistrict/status/1726505313573208172)
+          - [Mínus ruská pěchota](https://twitter.com/region776/status/1726536809172303963)
+          - [Rusové pod palbou kazet](https://twitter.com/Bodbe6/status/1726327836418732271)
+          - [Zásah základny v aeroklubu](https://twitter.com/EuromaidanPress/status/1726541003908120602)
+          - [Ruské minové pole](https://twitter.com/TheDeadDistrict/status/1726237466959720463)
+          - [Ničení radarů v Kurské oblasti ](https://twitter.com/GloOouD/status/1726537717947985921)
+          - [Mínus velitelské vozidlo](https://twitter.com/region776/status/1726527416099815509)
+          - [Přestřelka na sousedních pozicích ](https://twitter.com/Bodbe6/status/1726572572953997814)
+          - [Odtah](https://twitter.com/front_ukrainian/status/1726567375359938787)
+          - [Ukrajinští ženisté pod palbou](https://twitter.com/Bodbe6/status/1726555442502041776)
+          - [Evakuace koní z Avdijivky](https://twitter.com/EuromaidanPress/status/1726364221212881222)
+          - [Bum, bum a bum](https://twitter.com/region776/status/1726558836075737304)
+          - [Bradley versus Rus v zákopu](https://twitter.com/TheDeadDistrict/status/1726433876459864274)
+          - [Rovnou do jamky (citlivé!)](https://twitter.com/region776/status/1726529665974890865)
+          - [PzH 2000](https://twitter.com/front_ukrainian/status/1726245073560711259)
+          - [Leo na frontě](https://twitter.com/NOELreports/status/1726267403565170698)
+          - [Grillovačka](https://twitter.com/region776/status/1726437864823796107)
+          - [Přestřelka](https://twitter.com/Militarylandnet/status/1726322265950928908)
       - title: "Neděle"
         year: "19. listopadu 2023"
         image: assets/img/timeline/2023-11-19.jpg
