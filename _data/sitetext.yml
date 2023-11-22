@@ -38,7 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
-      - title: "Pondělí"
+      - title: "Středaí"
+        year: "22. listopadu 2023"
+        image: assets/img/timeline/2023-11-22.jpg
+        desc: |
+          Musím říct, že na mě poslední týdny padá lehká deprese. Je pro mě čím dál těžší sledovat kanály konkrétních ukrajinských vojáků a být svědkem toho, jak se jeden po druhém v určitou chvíli odmlčí. Míchá se ve mně smutek, vztek a neuvěřitelná bezmoc. Smutek za každý život, který Putin kvůli svému křehkému egu zmařil. Vztek na všechny, kdo Rusko na Západě podporují a smějí se lidem do obličeje, protože vědí, že v demokracii jim – na rozdíl od fašistického Ruska – nic nehrozí. A bezmoc z toho, jak laxní je odpověď ruskými penězi kompromitovaného kolektivního Západu. A pak se k tomu všemu člověk doví, že lidi už jsou válkou „unaveni“. V Česku. Kde žádná válka není. Pro většinu světové populace je to totiž jen další reality show, která už trvá moc dlouho a nepřináší jim vzrušení nebo jiné emoce, které by udržely jejich pozornost. Takže díky vám, kteří se stále díváte. A speciální díky vám, kteří se nejen díváte, ale i zajímáte. A teď [pár aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0NdeSgxcYbxoJdEtLD5XJkw9tFtt4C78Tcf5mwvjSK8vSZtB88a62eqBZ1EGMZaTml): 
+        detail: |
+          - Vladimir Putin udělil milost za službu v armádě dalšímu otřesnému zločinci. Nikolaj Ogolobjak byl v roce 2010 odsouzen k 20 letům odnětí svobody za účast na čtyřnásobné rituální vraždě v Jaroslavli, kterou provedl jako člen satanistického kultu. Letos se přihlásil jako dobrovolník do ruské jednotky Storm Z, na frontě byl těžce raněn a nyní je zpátky v Rusku a na svobodě. 
+          - Na sítích se objevilo video zevnitř školní auly, kde se konal koncert pro ruské mariňáky. Natočené ve chvíli, kdy budovu zasáhly ukrajinské rakety. Podle předběžných informací zahynulo 25 ruských vojáků a také zpěvačka Polina Menšich, která na koncertě vystupovala. 
+          - V Rostově byl zastřelen kriminální boss Vladimir Borisenko, který si v minulosti odpykával 16letý trest odnětí svobody, ale byl z vězení propuštěn poté, co si odsloužil několik měsíců na Ukrajině jako člen wagnerovců.
+          - Společnost vlastnící magazín Forbes zrušila plánovaný prodej firmy miliardáři Austinu Russelovi kvůli jeho vazbám na kremelského oligarchu Magomeda Musajeva. 
+          - Nový balík německé vojenské pomoci Ukrajině bude obsahovat 4 systémy IRIS, 20 000 kusů 155mm munice, protitankové miny a další materiál. 
+          - Švýcarsko souhlasilo s odprodejem 25 tanků Německu za podmínky, že nebudou převezeny na Ukrajinu. 
+          - Litva dodala Ukrajině tři milióny kusů 7,62x51mm munice, zimní uniformy a dálkové detonátory. 
+          - Ukrajinská PVO tentokrát zničila všech 14 kamikadze dronů vyslaných v noci na Ukrajinu. 
+          - Slovenský parlament posvětil návrh Ficovy vlády na ukončení vojenské pomoci Ukrajině. 
+          - 23letý brazilský dobrovolník Júlio César Sales Soeiro padl v bojích s Rusy u Andrijivky. 
+          - Kanada poskytne Ukrajině pomoc v hodnotě 869 miliónů eur na ploše příštích tří let. 
+          - Partnerské státy už vycvičili více než 100 000 ukrajinských vojáků a rezervistů.
+        videa: |
+          - [Avdijivka](https://twitter.com/NOELreports/status/1727003717030089099)
+          - [Moment zásahu koncertu pro ruské mariňáky ](https://twitter.com/nexta_tv/status/1727118403440099428)
+          - [U Avdijivky](https://twitter.com/herooftheday10/status/1727242090307023059)
+          - [Ukrajinský tank pod palbou](https://twitter.com/Bodbe6/status/1727036784482377999)
+          - [Rusové u Avdijivky](https://twitter.com/GloOouD/status/1727244141413691581)
+          - [Ukrajinci u Avdijivky](https://twitter.com/Militarylandnet/status/1727314760331600269)
+          - [Tamtéž, Bradley přijel na pomoc](https://twitter.com/Militarylandnet/status/1727320560110383184)
+          - [Ukrajinské drony na levém břehu](https://twitter.com/front_ukrainian/status/1727288990141993021)
+          - [Rusové na dálnici M-14 na levém břehu Dněpru ](https://twitter.com/NOELreports/status/1727001951479669082)
+          - [Neschoval se](https://twitter.com/nevedimka123/status/1727247224097407404)
+          - [Migranti na rusko-estonské hranici](https://twitter.com/nexta_tv/status/1727019265218195811)
+          - [Na levém břehu](https://twitter.com/visegrad24/status/1727111675109875756)
+          - [Repasování starších ukrajinských BTR](https://twitter.com/TheDeadDistrict/status/1727052248323359228)
+          - [GUR na Krymu?](https://twitter.com/GloOouD/status/1727223911321075935)
+          - [U Avdijivky](https://twitter.com/Maks_NAFO_FELLA/status/1727315825307050198)
+          - [Návštěva oknem](https://twitter.com/NOELreports/status/1727238341203202524)
+          - [Javelin](https://twitter.com/herooftheday10/status/1727319157769646163)
+      - title: "Úterý"
         year: "21. listopadu 2023"
         image: assets/img/timeline/2023-11-21.jpg
         desc: |
