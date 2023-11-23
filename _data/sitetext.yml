@@ -38,6 +38,49 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "22. listopadu 2023"
+        image: assets/img/timeline/2023-11-22.jpg
+        desc: |
+          Putin přiletěl do Minsku na další setkání zemí OSKB. Poprvé se setkání nebude účastnit delegace z Arménie. Arménský prezident se, poté, co Rusko selhalo ve své roli „mírotvůrce“ při konfliktu s Ázerbájdžánem, rozhodl hledat alternativní partnerství a spojenectví a předem avizoval, že do Minsku nepoletí. Zřejmě konečně pochopil to, na co si přicházejí mnozí: Že Rusko pomáhá vždy jen a pouze sobě. Smlouvy a sliby dodržuje jen, dokud z nich samo profituje, v opačném případě je bez mrknutí oka poruší. Bohužel si stále příliš mnoho politiků myslí, že se jde s Ruskem v otázce Ukrajiny dohodnout. A tak tlačí na Ukrajinu, aby jednání spustila, místo toho, aby tlačili na Putina. Ten přitom jednat nechce a nejspíš ani nebude. Během projevu na summitu OSKB sice prohlásil, že je potřeba najít řešení „ukrajinské tragédie“, ale zároveň tím ukázal, že za situace odmítá převzít zodpovědnost a chce, aby řešení hledali všichni ostatní. Přitom by řešení z jeho strany bylo tak snadné: odejít z Ukrajiny. Místo toho musíte dál číst [podobné zprávy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02S6GLJWSaGLN8CVKRQ4JdfV2X9eJuvgskqDdjWKWvRueibsMMm4P2zHoYx3wd6AKQl):
+        detail: |
+          - Severní Korea vypustila do vesmíru svou první špionážní družici. Podle jihokorejských představitelů ji s tím pomáhalo Rusko. Moskva pravděpodobně pomáhá Severní Koreji s vesmírným programem výměnou za vojenský materiál a munici. 
+          - Podle ruských médií jsou Maďarsko a Kypr přední země pro ruské investice. Rusové tu prý kupují nemovitosti, aby následně mohli požádat o povolení k pobytu v dané zemi, nebo se rovnou ucházeli o občanství. 
+          - Orbán opět tlačí na Evropskou unii. Nově oznámil, že bude blokovat jakoukoliv pomoc Ukrajině a stejně tak přístupové rozhovory Ukrajiny a EU, pokud Unie „kompletně nezreviduje svoji strategii vůči Kyjevu“. 
+          - Ukrajinské síly odrazily další sérii ruských útoků poblíž Avdijivky. Podle nových videí také Ukrajinci vytlačili Rusy zpátky z obce Stěpové. Rusové údajně přišli při útocích o 80 % použité těžké techniky. 
+          - Ukrajinská rozvědka tvrdí, že civilní letectví v Rusku je na prahu kolapsu. Až 35 % letadel už prý muselo být rozebráno na součástky, aby Rusko dokázalo udržet ve vzduchu dostatek letadel. 
+          - Nový argentinský prezident navrhnul Zelenskému, že uspořádá summit jihoamerických zemí, aby Zelenský mohl získat nové spojence a vysvětlit, proč mají i tamější státy podpořit Ukrajinu.
+          - Na schůzi formátu Ramstein, které se účastnil i ukrajinský generál Zálužný, byla vytvořena nová koalice čítající 20 zemí, která společně poskytne Ukrajině systémy protivzdušné obrany. 
+          - Finsko aktuálně nechalo otevřený pouze jeden z hraničních přechodů s Ruskem, a to na samém severu země. Norsko zvažuje, že svůj jediný přechod do Ruska úplně uzavře.  
+          - Ukrajinský dron smrtelně zranil ruského propagandistu Borise Maksudova ve chvíli, kdy se pohyboval s ruskými vojáky v blízkosti fronty. 
+          - Jeden z propagandistů kanálu GreyZone napojeného na wagnerovce „Bílý“ byl zabit u Popasné při úderu raketami HIMARS.
+          - Rusko začalo přiznávat status veterána wagnerovcům, kteří bojovali na Ukrajině. 
+          - Nizozemské volby vyhrál pravicový populista a proruský politik Geert Wilders. 
+          - Bulharsko poskytne Ukrajině 100 obrněných transportérů. 
+          - Německo poskytlo Ukrajině dalších 20 vozidel Marder.
+        videa: |
+          - [Bradley, kouřová clona a explozivní munice](https://twitter.com/EuromaidanPress/status/1727634126830792740)
+          - [Putin v Minsku](https://twitter.com/nexta_tv/status/1727637798897729615)
+          - [Noční dron](https://twitter.com/region776/status/1727514944353255710)
+          - [Mínus Shahed](https://twitter.com/bayraktar_1love/status/1727687208193200601)
+          - [V Luhanské oblasti ](https://twitter.com/EuromaidanPress/status/1727514839294120392)
+          - [Ruské kazety u Avdijivky](https://twitter.com/region776/status/1727331486263824775)
+          - [Trefa!](https://twitter.com/NOELreports/status/1727336887885627740)
+          - [Po zásahu ruského koncertu ](https://twitter.com/nexta_tv/status/1727406176382665080)
+          - [Padá nejen sníh](https://twitter.com/region776/status/1727637904728707131)
+          - [Mínus propagandista](https://twitter.com/Shtirlitz53/status/1727584996066488374)
+          - [Mínus BMP-3](https://twitter.com/front_ukrainian/status/1727694137737064497)
+          - [Kafe v zákopech ](https://twitter.com/EuromaidanPress/status/1727567840058696012)
+          - [Mínus tři](https://twitter.com/region776/status/1727364308148101627)
+          - [Hopla](https://twitter.com/TheDeadDistrict/status/1727409310903291989)
+          - [Pokémon](https://twitter.com/herooftheday10/status/1727624400281739344)
+          - [Zásah ruského velitelského postu ](https://twitter.com/EuromaidanPress/status/1727499747131281652)
+          - [Trefa!](https://twitter.com/herooftheday10/status/1727623451018510553)
+          - [Tady není WC](https://twitter.com/GloOouD/status/1727598664292466979)
+          - [Noční Krasnohorivka](https://twitter.com/region776/status/1727668186122957187)
+          - [Zápal pro věc (velmi citlivé!)](https://twitter.com/GloOouD/status/1727363592163635520)
+          - [Nový ruský dron](https://twitter.com/front_ukrainian/status/1727666065537118663)
+          - [Noční práce s kazetovou municí](https://twitter.com/region776/status/1727354023353962811)
       - title: "Středa"
         year: "22. listopadu 2023"
         image: assets/img/timeline/2023-11-22.jpg
