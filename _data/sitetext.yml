@@ -38,6 +38,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "24. listopadu 2023"
+        image: assets/img/timeline/2023-11-24.jpg
+        desc: |
+          Putin vypustil na svobodu další bestii. Denis Gorin ze Sachalinu byl třikrát odsouzený za celkem 13 brutálních vražd, po kterých některé své oběti naporcoval a jedl. Jeho bratr Jevgenij, se kterým všechny hrůzy páchal, byl zabit spoluvězni. Poslední trest, který si měl Denis odpykat po rozsudku z roku 2018, čítal 22 let za mřížemi. Letos ale Denis dobrovolně narukoval, odsloužil si svůj kontrakt a byl puštěn na svobodu. Na ruských sociálních sítích způsobila zpráva o jeho propuštění šok. Je to přitom už druhý vrah-kanibal, který se během posledních týdnů dostal na svobodu díky dobrovolné účasti v Putinově válce. Že v Putinově Rusku žádná spravedlnost neexistuje, o tom se můžeme přesvědčovat dennodenně. Ale tohle je i na fašistickou diktaturu trochu silná káva. Každopádně pojďme ze sebe tuhle informaci rychle oklepat, protože tady jsou [další aktuality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0k51EE3BycHyp58Ggp5sdu2328Kcw5DBJymFgm21ErDWqVUvjKXjMTbhyd5SX2qt5l): 
+        detail: |
+          - Na jednom z úseků fronty u Avdijivky Rusové vykopali dlouhý tunel těsně před ukrajinské zákopy, odkud následně vedli překvapivý útok. První světová válka mezitím volala, že chce vrátit svoje taktiky.
+          - Čtyři ruští rozvědčíci byli otráveni jedem v jídle v Rusy okupovaném Melitopolu. Tři z nich na následky otravy zemřeli, poslední bojuje o život v nemocnici. 
+          - SBU údajně provedla úspěšný atentát v Bělgorodu na Oleksandra Slisarenka, kterého dříve Rusové pověřili vedením okupační správy Charkovské oblasti.  
+          - Europol vytvořil novou skupinu tvořenou OSINT analytiky, která bude vyšetřovatelům pomáhat s mapováním ruských válečných zločinů na Ukrajině. 
+          - Arménský premiér kritizoval Rusko kvůli tomu, že údajně neplní své závazky. Arménie prý stále nedostala zbraně, za které už Rusku zaplatila. 
+          - Ukrajinští chirurgové úspěšně vyoperovali fragment z ruského granátu ze srdce 4leté holčičky, která byla zasažena při ruské palbě na Cherson. 
+          - Na jihu Moskvy hoří velká elektrická rozvodna Čagino. Je to přitom už druhá rozvodna v Moskvě poničená během pouhých dvou dní. 
+          - Rusko údajně jedná s čínskými firmami a prozkoumává možnosti, jak propojit pevninské Rusko a Krym podmořským tunelem. 
+          - Putinův blízký přítel, 70letý politik Mironov, adoptoval dvouletou holčičku ilegálně odvezenou z Ukrajiny. 
+          - Ukrajinská rozvědka identifikovala dalšího z ruských velitelů, který nařídil masakry civilistů v Buči. 
+          - Na Cherson v noci na dnešek letělo 91 raket. Poničeno je mnoho, většinou civilních, budov. 
+          - Bělorusko nově zavede výjezdní doložky po vzoru někdejšího Sovětského svazu. 
+          - Ukrajinci v noci pravděpodobně opět zasáhli letiště ve městě Džankoj. 
+          - Ukrajina by v zimě měla získat další systém Patriot od Německa. 
+        videa: |
+          - [Ruský útok z tunelu](https://twitter.com/albafella1/status/1727684293747466382)
+          - [Ukrajinská medička při ruském útoku](https://twitter.com/GloOouD/status/1727703930187006445)
+          - [Dodávka munice](https://twitter.com/Heroiam_Slava/status/1727663859425517715)
+          - [Lesy u Kreminné](https://twitter.com/GloOouD/status/1727810966782345531)
+          - [Mínus ponton](https://twitter.com/EuromaidanPress/status/1727869830387142871)
+          - [Čagino u Moskvy](https://twitter.com/igorsushko/status/1727887163558408343)
+          - [Budíček (citlivé!)](https://twitter.com/region776/status/1727981437302018158)
+          - [Po ruském útoku, Kreminná](https://twitter.com/herooftheday10/status/1727820681725768137)
+          - [Trefa kazetovkou](https://twitter.com/front_ukrainian/status/1728015548695343254)
+          - [Ukrajinský dron](https://twitter.com/TheDeadDistrict/status/1727921069376393392)
+          - [U Svatového ](https://twitter.com/region776/status/1728009216177340840)
+          - [Na Krymu](https://twitter.com/bayraktar_1love/status/1727966717324702005)
+          - [Ruská evakuace](https://twitter.com/region776/status/1727968989501177976)
+          - [Bradley](https://twitter.com/front_ukrainian/status/1728045459216728322)
+          - [Něco horkého na probrání (citlivé!)](https://twitter.com/region776/status/1727958496044593182)
+          - [Highway to hell](https://twitter.com/bayraktar_1love/status/1728037600487731606)
+          - [Artilérie](https://twitter.com/region776/status/1727889623643537820)
+          - [Dva se vzdali](https://twitter.com/herooftheday10/status/1728023847494947326)
+          - [FPV dron](https://twitter.com/region776/status/1727740440399777921)
       - title: "Čtvrtek"
         year: "23. listopadu 2023"
         image: assets/img/timeline/2023-11-23.jpg
