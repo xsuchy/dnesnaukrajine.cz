@@ -38,6 +38,54 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "25. listopadu 2023"
+        image: assets/img/timeline/2023-11-25.jpg
+        desc: |
+          Ukrajina si dnes připomíná 90 let od sovětského Holodomoru, umělého hladomoru vyvolaného Sověty, při kterém zemřely milióny obyvatel Ukrajiny. A tak Rusové poslali jako dárek svoje ohňostroje. Na Kyjev v noci na dnešek mířilo 75 kamikadze dronů, a to i přesto, že ve městě se v tu chvíli nacházely delegace z několika evropských zemí včetně například švýcarského prezidenta. Ukrajinská PVO je naštěstí nad Kyjevem velmi spolehlivá a 71 dronů dokázala zlikvidovat. I tak ale jejich trosky působily na zemi škody. Drony, které PVO zničit nedokázala, zasáhly energetickou soustavu a způsobily ve městě výpadky proudu. Dodávky elektřiny se naplno podařilo obnovit až dnes odpoledne. Zelenský pak varoval Rusko, že ohrožování energetické soustavy Ukrajiny může mít důsledky nejen pro okolní země, ale i pro samotné Rusko, a to v případě, že Ukrajina podnikne odvetné akce. A ještě se [stalo tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02e27Ug7c91EjkRV1HGfc8gnZAYe9exr1wBebWSML3HEHDEUW6MvwVZL8sQ2bbETg5l): 
+        detail: |
+          - Velení NATO vyzývá státy EU, aby vytvořily jakýsi „vojenský Shengen“, který by umožňoval rychlé a efektivní přesuny vojsk v případě pokračující ruské agrese a nutnosti reagovat na vojenské hrozby na východních hranicích aliance. 
+          - Podle deníku The Economist dokáže Rusko zneškodnit okolo 2 000 ukrajinských dronů každý týden díky moderním systémům pro vedení elektronické války, do kterých Rusko v minulých letech značně investovalo. 
+          - Zelenský na tiskové konferenci oznámil, že partnerské státy poskytnou několik vojenských lodí jako ozbrojený doprovod pro obchodní lodě plující ukrajinským námořním koridorem. 
+          - Lukašenko varoval Zelenského, že nedokáže zabránit ruským vojskům, aby pronikaly na ukrajinské území z Běloruska. Slíbil ale, že žádný běloruský voják na Ukrajinu nevstoupí. 
+          - Podle ruského ministra dopravy už Rusové přišli kvůli sankcím o 76 civilních letadel, která pro nedostatek náhradních dílů nemůžou zpátky do vzduchu. 
+          - Rusové se snaží upravit svou námořní základnu v Novorossijsku, aby jim umožnila provádět nabíjení balistických raket do válečných lodí Černomořské flotily. 
+          - Podle BBC opustilo Ukrajinu od začátku ruské invaze 650 000 Ukrajinců, na které se vztahuje branná povinnost. 
+          - Ukrajinské síly ve snaze oslabit ruskou ofenzivu u Avdijivky spustily lokální protiútok u Horlivky. 
+          - I přes nekončící útoky Rusů na křídlech Avdijivky se za poslední týden fronta téměř nepohnula. 
+          - Estonská rozvědka věří, že Rusové nemají síly na to, vytlačit Ukrajince zpátky za Dněpr.
+          - Ukrajina ukončí mobilizaci těch, kteří dokončili povinnou službu v armádě. 
+          - Kanada poskytne Ukrajině 11 000 útočných pušek a 9 mil. kusů munice. 
+          - Ázerbájdžán poskytl Ukrajině své odminovací roboty. 
+        videa: |
+          - [Vzdušný poplach na tiskovce](https://twitter.com/nexta_tv/status/1728430971832213928)
+          - [O ukrajinských dronech ](https://twitter.com/TheDeadDistrict/status/1728297198000001396)
+          - [Ruská technika hledá miny](https://twitter.com/region776/status/1728454535419756665)
+          - [Noční útok na Kyjev](https://twitter.com/nexta_tv/status/1728416392532136258)
+          - [Mínus ruští dronaři ](https://twitter.com/EuromaidanPress/status/1728428378225520890)
+          - [U Svatového ](https://twitter.com/nexta_tv/status/1728081946679423289)
+          - [Spaní v zákopu](https://twitter.com/EuromaidanPress/status/1728216936683810913)
+          - [Bývalá T-90 ](https://twitter.com/TheDeadDistrict/status/1728327620708999212)
+          - [Jeden přežil (citlivé!)](https://twitter.com/NOELreports/status/1728419314804609079)
+          - [Práce dronu ](https://twitter.com/region776/status/1728438432303841521)
+          - [Ruská technika u Avdijivky](https://twitter.com/TheDeadDistrict/status/1728297018542444735)
+          - [Kazety a ruská pěchota](https://twitter.com/nevedimka123/status/1728397520727064744)
+          - [Trefa!](https://twitter.com/region776/status/1728418639983059228)
+          - [Trefy dronem](https://twitter.com/TheDeadDistrict/status/1728078945424126228)
+          - [Mínus komunikační věž ](https://twitter.com/region776/status/1728410187965645124)
+          - [Mínus náklaďáky](https://twitter.com/front_ukrainian/status/1728330460084998592)
+          - [Dron přiletěl na pomoc](https://twitter.com/region776/status/1728337284829987306)
+          - [Školka v Kyjevě](https://twitter.com/Maks_NAFO_FELLA/status/1728361830995906807)
+          - [Nigerijec v ruských řadách](https://twitter.com/region776/status/1728351351028293704)
+          - [Mínus Grad](https://twitter.com/Tendar/status/1728328763329413514)
+          - [Snajpr v noci](https://twitter.com/region776/status/1728274247494295788)
+          - [Archivní video zásahu Krymského mostu](https://twitter.com/Maks_NAFO_FELLA/status/1728145425608134903)
+          - [Kamarádi](https://twitter.com/nevedimka123/status/1728323311036489860)
+          - [Přepad po vodě](https://twitter.com/region776/status/1728105459901690346)
+          - [Trefa!](https://twitter.com/front_ukrainian/status/1728445891022065664)
+          - [Rusové v zákopu](https://twitter.com/region776/status/1728095996515873116)
+          - [Dron pracoval](https://twitter.com/nevedimka123/status/1728408622676242693)
+          - [Trefa!](https://twitter.com/herooftheday10/status/1728338245434621991)
       - title: "Pátek"
         year: "24. listopadu 2023"
         image: assets/img/timeline/2023-11-24.jpg
