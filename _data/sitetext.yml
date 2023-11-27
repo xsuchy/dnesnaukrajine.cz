@@ -38,6 +38,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "27. listopadu 2023"
+        image: assets/img/timeline/2023-11-27.jpg
+        desc: |
+          Pondělí. Černé, a částečně i Azovské moře, zasáhla masivní bouře, údajně největší minimálně za posledních sto let. Pobřeží Krymu a západní břehy Ruska bičoval silný vítr o rychlosti až 144 km/h a vlny na některých místech dosahovaly výšky až deseti metrů. Voda zaplavila některá pobřežní města včetně oblíbeného letoviska v Soči nebo krymskou Jevpatorii, ničila pobřežní infrastrukturu včetně silnic a železnic… anebo ruských obranných staveb. Komunita analytiků dychtivě očekává první snímky z pláží na Krymu, kde Rusové v posledních měsících vybudovali kilometry zákopů a protitankových zábran. To vše pravděpodobně voda minimálně značně poničila. Voda také mohla zásadním způsobem ovlivnit ruské obranné instalace v přístavech nebo kolem Krymského mostu, zejména ty, tvořené různými sítěmi a ponořenými bárkami. Navíc se objevují zatím nepotvrzené informace, že jeden z ruských hlídkových člunů třídy Raptor se v bouři rozlomil vejpůl. Existuje fotografie, ale není jisté, zda je to opravdu zmíněná loď. Každopádně ruští propagandisti už, podle očekávání, obvinili Spojené státy z použití geologických zbraní proti Rusku. Ale zpátky do reality. Tady jsou [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0hsZJoELHijiRbLHRNGMjr51Fwjg5VwLUTT1mDZ15DUaCRheAGdw3ToGT4RBf1B3Ml): 
+        detail: |
+          - Objem exportu z některých západních zemí do Kyrgyzstánu vyrostl meziročně až o 5 500 %. Kyrgyzstán je totiž oblíbenou destinací pro firmy, které takto obcházejí protiruské sankce. A Západ, jako by tuhle skutečnost naprosto ignoroval. Některé země si ale s obcházením sankcí žádné velké starosti nedělají. Například Turecko, jehož vývoz do Ruska v roce 2023 vystoupal, a to i u výrobků, které mohou Rusové využívat ve zbrojním průmyslu. 
+          - Nejméně 10 ukrajinských regionů se v některou chvíli během posledních 24 hodin ocitlo bez dodávek elektřiny následkem bouře v Černém moři, která se nad pevninou změnila ve sněhovou a poničila vedení vysokého napětí. 
+          - Ukrajinské velení varuje, že pokud budou stagnovat dodávky zbraní a Rusku se naopak bude dařit dál zbrojit, může se válka v budoucnu opět přelít i do dalších regionů vyjma východu a jihu země. 
+          - Ministryně obrany Černochová oznámila, že Česko bude částečně kompenzovat klesající dodávky zbraní Ukrajině ze západních států tak, že poskytne exportní licence soukromým zbrojovkám. 
+          - Britská rozvědka tvrdí, že Rusko už přesunulo veškeré baterie PVO z Kaliningradu včetně moderních systémů S-400 na bojiště na Ukrajině. 
+          - Ukrajinské síly odrazily útoky ruských VDV jednotek, které měly Ukrajince vytlačit z pozic u obce Krynky na levém břehu Dněpru. 
+          - Rusko vydalo zatykač na Andyho Stona, mluvčího společnosti Meta. Viní ho z „propagace terorismu“. 
+          - Podle posledního průzkumy agentury STEM by každý sedmý Čech volil otevřeně pro-ruské strany. 
+          - Litva hlásí, že pozoruje historicky vůbec nejvyšší aktivitu běloruské KGB, a to nejen na litevském území. 
+          - Podle nových videí Ukrajinci zasáhli letecký závod ve Smolensku, nejspíš pomocí dronů. 
+          - Ukrajinský šachový velmistr Artem Sačuk padl na frontě. 
+        videa: |
+          - [Zábava na ruský způsob](https://twitter.com/wartranslated/status/1729056231246192650)
+          - [Soči](https://twitter.com/front_ukrainian/status/1729058272576233842)
+          - [Bývalé ruské kolony](https://twitter.com/bayraktar_1love/status/1729100167763390689)
+          - [Orbán o Ukrajině](https://twitter.com/nexta_tv/status/1728843851203301564)
+          - [Špatné rozhodnutí ](https://twitter.com/nevedimka123/status/1729051035371803005)
+          - [Posily](https://twitter.com/region776/status/1728969939783160303)
+          - [Zásah Smolensku](https://twitter.com/Azovsouth/status/1729087465951289674)
+          - [Brazilci na frontě](https://twitter.com/rendeiro_silva/status/1727318079208837136)
+          - [Ruský kulometčík ](https://twitter.com/region776/status/1729038606835306710)
+          - [Pal!](https://twitter.com/nevedimka123/status/1729040719174832400)
+          - [Souboj dronů ](https://twitter.com/front_ukrainian/status/1729059013739065741)
+          - [Trefa!](https://twitter.com/EuromaidanPress/status/1729110320583414078)
+          - [Noční dron](https://twitter.com/region776/status/1729052835306971529)
+          - [Mínus tři](https://twitter.com/NOELreports/status/1729101067202482319)
+          - [Bradley přežil zásah](https://twitter.com/Bodbe6/status/1729095971412611490)
+          - [Gepard při práci](https://twitter.com/TheDeadDistrict/status/1728877419329990666)
+          - [Vojenské skladiště v Jakutsku](https://twitter.com/igorsushko/status/1729046989269258328)
+          - [Jih Ukrajiny](https://twitter.com/United24media/status/1728896673785733212)
+          - [Práce dronu](https://twitter.com/EuromaidanPress/status/1729070055093043349)
+          - [Ukrajinský dron pomáhá Rusům vystoupit ](https://twitter.com/wartranslated/status/1728741216534286817)
+          - [Rusové u Charkova](https://twitter.com/region776/status/1728836038129525127)
+          - [Dron finišuje práci (citlivé!)](https://twitter.com/ayzin_illya/status/1729114384646254616)
       - title: "Neděle"
         year: "26. listopadu 2023"
         image: assets/img/timeline/2023-11-26.jpg
