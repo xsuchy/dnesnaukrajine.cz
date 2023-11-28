@@ -37,7 +37,48 @@ timeline:
     text: "Tak jak jde den za dnem"
     section: timeline
     start_align: "left"
-    events:
+    events:                                                                                                                                                                             
+      - title: "Úterý"
+        year: "28. listopadu 2023"
+        image: assets/img/timeline/2023-11-28.jpg
+        desc: |
+          Marianna Budanová, manželka šéfa ukrajinské rozvědky Kyryla Budanova, byla údajně hospitalizována pro podezření z otravy těžkými kovy. Vyšetřovatelé pracují s verzí, že šlo o pokus o vraždu. Zároveň prý vykazovali známky otravy i někteří zaměstnanci rozvědky. Pokud by se podezření potvrdilo, byl by to ze strany Ruska odporný, ale bohužel ne překvapivý čin. Trestání lidí za (skutečné i smyšlené) zločiny jejich rodinných příslušníků je pro diktatury typické a od dob Sovětského svazu se v tomhle ohledu v Rusku nic nezměnilo. Extrémním případem je Severní Korea, kde mohou být odsouzeny k smrti celé generace za ideové zločiny některého člena rodiny. Jen o něco mírnější verze takového režimu pak existuje i uvnitř Ruska – v Čečensku. A v Česku nevadí otevřeně deklarované přátelství s takovými režimy až 55 % populace. Jako by [tyhle zprávy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Rp75j9UhLPWb7o6oR3zm4fdMW2xYb9LQuV3LKUV24FUm16xoHwDNMqKT9KBLxaaXl) nestačily: 
+        detail: |
+          - Pokus vyvolat na finských hranicích migrační krizi si údajně „objednal“ personální ředitel současné ruské vlády a provedení plánu měl na starost ruský ministr vnitra. Jejich plán ale selhal, a to díky bleskové reakci finských úřadů, které bez váhání nechaly hranice uzavřít. Aktuálně je v provozu jediný hraniční přechod a Finsko oznámilo, že je v případě nutnosti připraveno zavřít i ten. 
+          - Dělostřelecká munice ze Severní Koreje dělá Rusům starosti. Množí se totiž případy, kdy byla obsluha děl zabita nebo zraněna poté, co granát explodoval ještě v hlavni. Videa zachytila některé ruské dělostřelce, jak si kopou speciální zákopy poblíž děl, aby je chránily před případnou nehodou. 
+          - Rusové spustili útoky na Avdijivku ze dvou nových směrů. Ukrajinská obrana nicméně v tuhle chvíli drží. Na severu se Rusové pokouší dobýt koksovnu. Na jihovýchodě mírně postoupili do industriální zóny na předměstí, nicméně podle ukrajinských kanálů je to z ukrajinské strany připravená past.
+          - Zelenský slíbil šéfce Evropské komise, že Ukrajina v nejbližší době přijme další potřebné protikorupční zákony a také zákony o národnostních menšinách, které požaduje EU pro budoucí přijetí Ukrajiny do Unie.  
+          - Putin posvětil ruskou vládou předložený rozpočet na rok 2024. Neuvěřitelných 39 % z něj půjde na zbrojení. Rozpočet taky počítá se schodkem veřejných financí ve výši 9,5 miliard dolarů ročně. 
+          - Německá vláda i americké ministerstvo vnitra opět popřely informace některých deníků, že by představitelé západních států tlačili Ukrajinu k mírovým rozhovorům s Ruskem.
+          - Deset lidí zemřelo, více než dvě desítky byly zraněny a okolo 2 500 tisíc lidí je izolováno od okolního světa následkem silné sněhové bouře, která včera zasáhla Oděskou oblast.
+          - Rusové odsoudili dalšího krymského Tatara za údajný „terorismus“ k deseti letům odnětí svobody. Jeho „zločinem“ bylo, že pořádal na Krymu náboženské debaty. 
+          - Ukrajinci v noci zasáhli cíle v okupovaném Doněcku. Podle videí byla pod útokem ukrajinských dronů také ruská Rjazaň. 
+          - Na obsazených ruských pozicích našli ukrajinští vojáci opět granáty a miny čínské výroby. 
+          - Ruské kanály informovaly, že se Rusové museli stáhnout ze Stěpového „na lepší pozice“. 
+          - Viceprezident ruské Sberbanky Vasev náhle zemřel ve svých 42 letech na zástavu srdce. 
+          - Ukrajinští partyzáni údajně u Melitopolu vyhodili do povětří auto s kadyrovci. 
+          - Spojené státy přijaly od začátku invaze už 57 000 ruských žadatelů o azyl. 
+          - Kadyrov oznámil, že plánuje poslat na Ukrajinu další 3 000 svých vojáků. 
+          - Rusko spustilo výrobu vlastních námořních dronů.
+        videa: |
+          - [Rusové u Dněpru ](https://twitter.com/wartranslated/status/1729430963606700284)
+          - [Mínus ruská kulometná pozice ](https://twitter.com/bayraktar_1love/status/1729433523268780049)
+          - [Mapování ruských ztrát](https://twitter.com/region776/status/1729485396105670762)
+          - [Ruské rybaření na ledu](https://twitter.com/ManiacMagic1/status/1729016462113968361)
+          - [Za Dněprem](https://twitter.com/region776/status/1729206362792739094)
+          - [Rusko, země, která by chtěla někoho denacifikovat](https://twitter.com/bad_moskal/status/1729231350618812919)
+          - [Bitva o Krynky](https://twitter.com/GloOouD/status/1729202117112721474)
+          - [Britský generál ve výslužbě k evropským lídrům](https://twitter.com/Flash_news_ua/status/1728882039556813250)
+          - [Mínus dva](https://twitter.com/region776/status/1729417632879976779)
+          - [Johnson o pomoci Ukrajině ](https://twitter.com/nexta_tv/status/1729419569851240749)
+          - [Mínus čtyři ](https://twitter.com/region776/status/1729150530373750947)
+          - [Rusové připravovali výpad… ](https://twitter.com/EuromaidanPress/status/1729398468429381695)
+          - [Mínus BMP-3](https://twitter.com/TheDeadDistrict/status/1729380051156623575)
+          - [Trefa! (velmi citlivé!)](https://twitter.com/GloOouD/status/1729483580617757086)
+          - [Od sebe! (citlivé!)](https://twitter.com/region776/status/1729490534618616013)
+          - [Mínus Orlan](https://twitter.com/front_ukrainian/status/1729495714789556518)
+          - [Ukolébání dronem (citlivé!!)](https://twitter.com/region776/status/1729195975770878125)
+          - [Začistka u Avdijivky](https://twitter.com/nevedimka123/status/1729427693056167993)
       - title: "Pondělí"
         year: "27. listopadu 2023"
         image: assets/img/timeline/2023-11-27.jpg
