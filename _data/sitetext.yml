@@ -37,7 +37,45 @@ timeline:
     text: "Tak jak jde den za dnem"
     section: timeline
     start_align: "left"
-    events:                                                                                                                                                                             
+    events:
+      - title: "Středa"
+        year: "29. listopadu 2023"
+        image: assets/img/timeline/2023-11-29.jpg
+        desc: |
+          Putinův poradce a šéf vyjednávacího týmu Vladimir Medinský tvrdí, že podmanění Ukrajiny nikdy nebyl cíl Ruska. Zároveň ale potvrdil, že mezi podmínkami Ruska při jednáních v Turecku v roce 2022 byl a nadále je například zákaz Ukrajině, aby vstoupila do NATO, deklarace neutrality a také uznání Krymu za součást Ruska a nezávislost Donbasu, prý kvůli „ochraně ruskojazyčné populace“. Jeho slova jsou ale ostře v rozporu s tím, co Rusko v realitě dělá a o čem jeho představitelé mluví. Ve chvíli, kdy Putin formálně vyhlásil čtyři okupované oblasti za součást Ruské federace, pak Medinského tvrzení spolehlivě vyvrátil. O ochraně ruskojazyčné populace také nemůže být řeč, protože Rusko bezmyšlenkovitě bombarduje frontová města, Cherson a Oděsu, kde žije převážně ruskojazyčná populace. Jazyk navíc nedefinuje státní příslušnost ani národnost. Francouzsky mluvící Belgičan není automaticky Francouz, anglicky mluvící Američan není Brit a stejně tak rusky mluvící Ukrajinec není automaticky Rus. Značná část ukrajinské populace má jako mateřský jazyk ruštinu, přesto se považuje za Ukrajince a nepřeje si, aby je Rusko přijelo zachraňovat. Slova Medinského tak můžeme ignorovat nebo vnímat jenom jako další střípek ruské válečné propagandy. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02evXxj6oG98PhuduT5HCB7pd7mpXtTCNt1m6hD81jFtEsD6eecVPH5r4Ga41ESVFRl): 
+        detail: |
+          - Putin během setkání s organizací World Russian People's Council mluvil o nutnosti vrátit se k časům, kdy bylo běžné, že rodiny měly čtyři, pět nebo klidně až osm dětí. Podle něj by se takové rodiny měly opět stát normou ruského způsobu života. Podle Putina je to jediná možnost, jak čelit současným „demografickým výzvám“. Ale ne! Co se stalo, že Rusko čelí demografické krizi? 
+          - Prezident Pavel varoval, že objem západní pomoci je dostatečný pouze na to, aby udržel Ukrajinu na bojišti, ale ne na to, aby jí pomohl vyhrát. Apeloval proto na všechny státy, aby poskytly Ukrajině vše, co potřebuje, aby obnovila svoje hranice. Cokoliv jiného bude podle něj pro Západ prohrou. 
+          - Finsko plánuje 13. prosince úplně uzavřít své hranice s Ruskem pro veškerou osobní dopravu. Tranzit zboží bude nadále možný. 
+          - Moldavsko zbavilo občanství pro-ruského politika Alexandra Kalinina kvůli tomu, že otevřeně podporoval ruskou invazi. 
+          - Ruské ministerstvo „spravedlnosti“ přidalo na seznam nežádoucích organizací Centrum pro analýzu evropské politiky (CEPA). 
+          - Evropská komise oznámila, že analyzovala vliv ukrajinského exportu na evropský trh a neobjevila žádné negativní dopady. 
+          - Podle satelitních snímků odplavila bouře v Černém moři některé obranné prvky u Krymského mostu. 
+          - Rusko přišlo o dalšího ruského generála. Generálmajor Vladimir Zavadskyj najel neznámo kde na minu. 
+          - Baltské státy budou bojkotovat příští zasedání OBSE, protože se ho má účastnit Sergej Lavrov. 
+          - Kazachstán poslal do vězení na šest let bývalého wagnerovce za účast v bojích na Ukrajině. 
+          - Ukrajinská PVO dnes v noci zničila všech 21 ruských dronů a dvě naváděné rakety. 
+          - Evropská unie navýší rozpočet na výcvik ukrajinských vojáků na čtyřnásobek. 
+          - Putin prohlásil, že Rusko na Ukrajině bojuje za svobodu celého světa. 
+          - Írán oznámil, že nakoupí od Ruska stíhací letouny Su-35. 
+        videa: |
+          - [Mínus velitelské vozidlo](https://twitter.com/GloOouD/status/1729811570421629377)
+          - [Ruské BTR (citlivé!)](https://twitter.com/TheDeadDistrict/status/1729826491783864668)
+          - [Ukrajinci přišli o Leopard 1A5 v dělostřelecké palbě](https://twitter.com/EuromaidanPress/status/1729711784687223113)
+          - [Trefa! (citlivé!)](https://twitter.com/region776/status/1729802308517515355)
+          - [AZOV a jejich tank u Kreminné](https://twitter.com/TheDeadDistrict/status/1729796230014697763)
+          - [Brazilci u Luhansku ](https://twitter.com/EuromaidanPress/status/1729817481597051315)
+          - [Bonk!](https://twitter.com/GwarWorin/status/1729572726245859761)
+          - [Špatná volba](https://twitter.com/region776/status/1729806133588537570)
+          - [Tak dlouho se chodí pro vodu (citlivé!)](https://twitter.com/bigSAC10/status/1729821479754211506)
+          - [Mínus BMP](https://twitter.com/EuromaidanPress/status/1729681584599797903)
+          - [Osetínci u Krynky](https://twitter.com/TheDeadDistrict/status/1729679917049102813)
+          - [Ukrajinský tank](https://twitter.com/region776/status/1729576370957636078)
+          - [Mínus dva tanky](https://twitter.com/GloOouD/status/1729784014045675666)
+          - [Rusové v Oleškách](https://twitter.com/TheDeadDistrict/status/1729676638525313528)
+          - [Ruský dron spadl na Krym](https://twitter.com/EuromaidanPress/status/1729793571908198702)
+          - [Mínus Tor](https://twitter.com/region776/status/1729817122249884022)
+          - [Obrana Sevastopolu](https://twitter.com/bradyafr/status/1729613639143784490)
       - title: "Úterý"
         year: "28. listopadu 2023"
         image: assets/img/timeline/2023-11-28.jpg
