@@ -38,6 +38,50 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "1. prosince 2023"
+        image: assets/img/timeline/2023-12-01.jpg
+        desc: |
+          V deníku The Times vyšel další článek, který nahrává ruské propagandě. Tentokrát o připravenosti Evropy na potenciální válku s Ruskem. Evropa podle deníku není připravena na takový střet a jen německým silám by prý trvalo 15 let, než by se dostatečně vyzbrojily, aby mohly Rusku čelit. Není to první článek v západních médiích, který je přinejmenším „zvláštní“. Jak můžeme dennodenně pozorovat, Rusko nebylo schopné porazit ani Ukrajinu s papírově násobně slabší armádou, jejíž výzbroj tvořila ještě loni převážně několik desítek let stará sovětská technika. Naopak západní výzbroj, které Ukrajina dostala jen několik desítek kusů, se ukázala jako něco, na co Rusko mnohdy doposud nenašlo opověď (např. systémy HIMARS). Jak tedy redaktor přišel na to, že by evropské armády s nejmodernějšími stroji a infrastrukturou NATO nedokázaly Rusku čelit, to je mi záhadou. Jelikož to ale není první „podivný“ článek, který podezřele straní Rusku, dá se předpokládat vliv Ruska při jeho tvorbě. Nedávná kauza „Cyprus Confidential“ (kterou i česká média nepochopitelně ignorovala) totiž odhalila, jak si Rusko kupuje po celém světě vliv u novinářů píšících pro prestižní deníky. A to přitom odhalila jen malinký střípek. I proto je důležité, aby na téhle stránce ruské narativy neprosakovaly. V klasických médiích je již až ostudně hodně. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0XfKATaF6DAdNKGbc7PAM7AYd3jnRa44md4z8hjJyQFzkdRwEoCKR3R179G8bcpu7l): 
+        detail: |
+          - Ruské ministerstvo vnitra připravuje zákon, který by požadoval po všech lidech přijíždějících do Ruska, a to včetně turistů, aby podepsali jakousi „dohodu o loajalitě“. Na základě dohody by nesměli kritizovat Rusko nebo se vyjadřovat jakkoliv „protirusky“ během pobytu v Rusku. 
+          - Zelenský v rozhovoru pro AP přiznal, že letošní protiofenziva nepřinesla očekáváné výsledky. Jako hlavní důvod uvedl, že Ukrajina neměla k dispozici zbraně a techniku, kterou jí Západ slíbil. 
+          - Ruské kanály informovaly, že ruské jednotky „odrazily veškeré ukrajinské výpady na levém břehu Dněpru u obce Krynky, ale Ukrajinci přesto postoupily“. Rozumí tomu někdo? 
+          - Nově zvolený argentinský prezident Javier Milei oznámil, že země zruší rozhodnutí předchozí vlády vstoupit do BRICS. Argentina se měla k uskupení připojit už v lednu. 
+          - Ukrajinská SBU zničila ne jeden, ale hned dva vlaky na ruském dálném východě. Při druhé explozi byla poničena trať a několik vagonů s palivem. 
+          - Rusové se pochlubili videem, na kterém měl být zničen ukrajinský bitevník Su-25. Detail ale prozrazuje, že šlo o velmi povedenou atrapu. 
+          - Fico prohlásil, že Slovensko by se mělo začít připravovat na konec války na Ukrajině a na normalizaci vztahů s Ruskem. 
+          - Slovenští dopravci dnes spustí svou ohlášenou blokádu hraničního přechodu Vyšné Nemecké na hranici s Ukrajinou. 
+          - Ukrajinská pohraniční stráž informovala, že ruské diverzní skupiny čím dál častěji vstupují do Charkovské oblasti. 
+          - Osm ruských vojáků údajně zahynulo kdesi na cvičišti poté, co vojáci zapálili skladiště munice. 
+          - Ukrajinská PVO v noci zneškodnila 18 z 25 vyslaných kamikadze dronů a 1 ze 2 raket Ch-59.
+          - Americký Senát projedná zákon, který by umožnil zabavit majetek ruským oligarchům. 
+          - Norsko poskytne 23 mil. dolarů na zabezpečení potravin pro Ukrajinu. 
+        videa: |
+          - [V Mariupolu se stojí fronty na polívku](https://twitter.com/Mariana_Betsa/status/1730258117386977701)
+          - [Atrapa Suchoje](https://twitter.com/Osinttechnical/status/1730343337352204483)
+          - [Další dobrovolníci z Čečny](https://twitter.com/KilledInUkraine/status/1730333908250558860)
+          - [Soči…](https://twitter.com/nevedimka123/status/1730301142091927615)
+          - [Sčítání lidu (citlivé!)](https://twitter.com/TheDeadDistrict/status/1730279163297239475)
+          - [OBSE během projevu Lavrova](https://twitter.com/nexta_tv/status/1730244496892289368)
+          - [U Bachmutu](https://twitter.com/front_ukrainian/status/1730558091005968552)
+          - [Evakuace pod palbou](https://twitter.com/Bodbe6/status/1730289661635891651)
+          - [Železnice v Burjatsku](https://twitter.com/JayinKyiv/status/1730493006543720761)
+          - [Trefa!](https://twitter.com/GloOouD/status/1730355595276914702)
+          - [Avdijivka](https://twitter.com/small10space/status/1730547686384828896)
+          - [Předstírání se změnilo v realitu ](https://twitter.com/TheDeadDistrict/status/1730558368413110603)
+          - [Táborák v Rostově](https://twitter.com/Maks_NAFO_FELLA/status/1730307419488538671)
+          - [Rusy na čtyřkolce honí dron](https://twitter.com/F530Josh/status/1730347623234547920)
+          - [Snajpři](https://twitter.com/SOF_UKR/status/1730468277854351792)
+          - [Ruská nucená mobilizace](https://twitter.com/JayinKyiv/status/1730472712911442016)
+          - [Ruské zákopy](https://twitter.com/nevedimka123/status/1730534204910248055)
+          - [Školy v metru](https://twitter.com/NOELreports/status/1730312776482959574)
+          - [Ruský šrot](https://twitter.com/TheDeadDistrict/status/1730520723079278779)
+          - [Evakuace](https://twitter.com/small10space/status/1730527761167442165)
+          - [Mínus dron](https://twitter.com/bayraktar_1love/status/1730550351898546396)
+          - [Štugna a její trofeje ](https://twitter.com/Ukraine_Twi/status/1730565728871338038)
+          - [Rusové u Bachmutu](https://twitter.com/nevedimka123/status/1730522853936669085)
+          - [Ruská pěchota (citlivé!)](https://twitter.com/worldonalert/status/1730230410221613402)
       - title: "Čtvrtek"
         year: "30. listopadu 2023"
         image: assets/img/timeline/2023-11-30.jpg
