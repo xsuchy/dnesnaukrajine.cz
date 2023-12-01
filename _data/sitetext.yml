@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "30. listopadu 2023"
+        image: assets/img/timeline/2023-11-30.jpg
+        desc: |
+          V digitálním prostoru se už několikrát objevila ta stejná a velmi zajímavá informace, naposledy ji zopakoval člen 3. šturmové brigády v jednom z videí na YouTube. Rusové údajně nedokáží efektivně čelit ukrajinským šturmům, a tak začali masivně zaminovávat frontu protipěchotními minami, což se ukázalo jako jediná, ovšem velmi účinná, taktika, jak ukrajinské výpady paralyzovat. Zároveň se ale začaly množit případy, kdy ruští vojáci vyletěli do povětří na vlastních minách. Důvodem je prý to, že ruští velitelé se natolik bojí vynášení informací druhé straně, že mapy minových polí jsou přísně tajné a zná je jenom seniorní velení. Zejména dobrovolnické pluky a wagnerovci ale pracují částečně samostatně, a ne všechny svoje akce koordinují s oblastním velením. Jak to dopadá, už bylo zmíněno výše. Ačkoliv je tenhle aspekt ruské taktiky ironický, minová pole skutečně představují ohromný problém pro ukrajinskou ofenzivu. Rusové očividně investovali nemalé prostředky, aby se aktuální linie zakonzervovala a pokud možno nehnula. Nezbývá než doufat, že Západ pracuje na řešení. A mezitím se pojďme podívat [na novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid032QqmbekcDFjJpSMDxLBfakXR53q3tKeWVFeToD8AHb1arj8Kj4CdJB18uk2wybFul):
+        detail: |
+          - Někteří analytici věří, že Putin chce udržet současný stav války na Ukrajině minimálně do amerických voleb v roce 2024. Pokud by vyhrál některý z kandidátů, který je k Rusku vstřícný nebo rovnou odmítá další pomoc Ukrajině, mohl by Putin bez obav zvýšit intenzitu bojů ve snaze dobýt další území a donutit Ukrajinu vzdát se okupovaných oblastí výměnou za mír. 
+          - Exploze poničila železniční spojení v Severomujském tunelu v ruském Burjatsku. Podle některých informací má jít o práci ukrajinské SBU, která vyhodila do povětří vlak s vojenským materiálem. 
+          - Ukrajinská rozvědka informovala, že manželka Kyryla Budanova byla skutečně otrávena, a to kombinací arzenu a rtuti. Po včasném zásahu zdravotníků je ale pravděpodobně mimo ohrožení života. 
+          - Ukrajinské drony údajně zničily skladiště ruských kamikadze dronů v Brjanské oblasti a zabily až desítky členů obslužného personálu. Pod útokem byl také ruský Bělgorod.  
+          - Slovensko přidalo na seznam zakázaného zboží pro import z Ukrajiny dalších deset položek. Na seznamu je tak nyní například mouka, med, cukrová třtina nebo slad. 
+          - V Německu byl zatčen jeden Rus a jeden Afghánec, oba teenageři, za přípravu teroristických útoků jménem ISIS. 
+          - Ruský Nejvyšší soud po neveřejném slyšení zařadil „světové LGBT hnutí“ na seznam extremistických organizací. 
+          - Ukrajinští hackeři se opět nabourali do vysílání televizí na Krymu a pustili divákům Zelenského projev. 
+          - Rusové přesunuli k Chersonu svou 104. gardovou parašutistickou divizi, aby posílili tamější obranu. 
+          - Francie slibuje navýšení objemu dodané munice pro Ukrajinu v příštím roce. 
+          - Rusko nebylo zvoleno ani do rady Organizace pro zákaz chemických zbraní. 
+          - Adam Kadyrov byl oceněn titulem „čestný občan Doněcku“. 
+          - Německo uzavřelo svůj konzulát v Kaliningradu. 
+          - Zelenský navštívil kupjanskou frontu. 
+        videa: |
+          - [Dron versus Rus](https://twitter.com/nexta_tv/status/1729893177732051235)
+          - [Cvičení](https://twitter.com/front_ukrainian/status/1729852992277406147)
+          - [Noční šichta](https://twitter.com/EuromaidanPress/status/1730059223583564169)
+          - [Ukrajinský zákop po ruském útoku](https://twitter.com/Bodbe6/status/1729929866718347544)
+          - [Mínus ruský post](https://twitter.com/Maks_NAFO_FELLA/status/1730178331385962544)
+          - [Bývalá ruská kolona (citlivé!)](https://twitter.com/nevedimka123/status/1730169980518318341)
+          - [Mínus T-80](https://twitter.com/GloOouD/status/1729965197001994481)
+          - [Rusové ocenili vojáky, kteří zničili ukrajinský Leopard ](https://twitter.com/TheDeadDistrict/status/1730090130994598162)
+          - [Pěší evakuace od Bachmutu](https://twitter.com/Maks_NAFO_FELLA/status/1729939656416919666)
+          - [Zelenský u Kupjansku](https://twitter.com/NOELreports/status/1730178513431388244)
+          - [Mínus msta](https://twitter.com/EuromaidanPress/status/1730037414775640269)
+          - [Kouřová clona](https://twitter.com/front_ukrainian/status/1730132519201214933)
+          - [Hacknuté vysílání na Krymu ](https://twitter.com/NOELreports/status/1729959559907729634)
+          - [Mínus Buk](https://twitter.com/EuromaidanPress/status/1729872635138601006)
+          - [Mínus TOS](https://twitter.com/GloOouD/status/1730108559361298489)
+          - [Krym](https://twitter.com/Maks_NAFO_FELLA/status/1729987101301563618)
       - title: "Středa"
         year: "29. listopadu 2023"
         image: assets/img/timeline/2023-11-29.jpg
