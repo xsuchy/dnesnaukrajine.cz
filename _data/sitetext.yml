@@ -38,6 +38,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "2. prosince 2023"
+        image: assets/img/timeline/2023-12-02.jpg
+        desc: |
+          Ukrajinské síly podle ruských blogerů rozmístily protivzdušné baterie poblíž Chersonu, aby mohly lépe krýt svoje předmostí v obci Krynky za Dněprem. Zároveň se objevily informace, že ruský 104. parašutistický pluk dostal za úkol provést útok na Krynky a vytlačit Ukrajince zpátky za řeku. Není to ale tak velká novina, jak by se mohlo zdát. V minulých týdnech plnily stejné úkoly ruská 810. námořní brigáda, 328. parašutistický pluk a motostřelecké jednotky ze 70. divize. A výsledek? Ukrajinci nejen rozšířili svoji přítomnost v Krynkách, ale také zasadili Rusům tak velké ztráty, že některé zapojené jednotky ruské armády ztratily většinu personálu a odmítly se účastnit dalších bojů. Může tedy nová ruská jednotka něco změnit? Může. Ale podle dosavadního průběhu to není příliš pravděpodobné. Ale teď už [pár dalších novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0tnsRj9X4DL6ytpSvA6gQfo7vYuwwyEkptP7C3LXjeHtUkXUBTGEzXKWnDoZqAUvQl): 
+        detail: |
+          - Zelenský zhodnotil letošní úspěchy. Za jeden z nich považuje, že Ukrajina připravila Rusko o dominanci v Černém moři. Zároveň považuje za úspěch, že ukrajinská armáda neustupuje, naopak mírně posunuje frontu ve svůj prospěch. Za neúspěch považuje naopak, že se nepodařilo doručit rychlé výsledky. Nicméně i tady věří, že se nakonec vše podaří, jen to podle něj bude trvat déle, protože na rychlé výpady nemá Ukrajina dostatek sil a prostředků. 
+          - Mezinárodní Červený kříž zrušil členství Běloruskému Červenému kříži. Běloruská pobočka tak přijde o veškeré financování a její členové se nebudou smět účastnit rozhodovacích procesů v nadřazené organizaci. Důvodem je, že Bělorusové ani přes četná upozornění a výzvy nevyloučili z organizace ruského propagandistu a roztleskávače současné invaze na Ukrajinu Dmitrije Ševcova. 
+          - Ruský bloger Rybář, který doposud komunikoval alespoň s náznakem objektivity a často se ohrazoval proti ruské propagandě, zveřejnil na Telegramu status, kde tvrdí, že ztráty mezi zahraničními dobrovolníky na ukrajinské straně čítají už 536 000 lidí, z toho 215 000 zabitých. A aby toho nebylo málo, dalších 800 000 se má zotavovat z utrpěných zranění. 
+          - Rusům se za cenu velkých ztrát podařilo obsadit většinu ruin Marjinky. Zároveň se ale objevily informace, že Rusové nedokázali pro velké ztráty nové pozice udržet a musely se stáhnout a přeskupit. ZSU tedy stále kontrolují část města na západě a severozápadě. 
+          - Putin podepsal výnos, na základě kterého by se měl zvýšit počet členů v ruské armádě o dalších 170 000 lidí. Podle Putina je důvodem jednak válka na Ukrajině, ale také „rostoucí hrozba ze strany NATO“. 
+          - Záporožská jaderná elektrárna v Enerhodaru se v noci na dnešek už poosmé ocitla zcela bez proudu. Jakékoliv přerušení dodávek elektřiny přitom může potenciálně vést k jaderné katastrofě. 
+          - Ruské ministerstvo obrany začalo svým ofenzivním akcím „aktivní obrana“. Analytici věří, že je to součást komunikační strategie s cílem snížit očekávání výsledků u ruské veřejnosti. 
+          - Ukrajinský dron natočil další ruský válečný zločin. Rusové zastřelili dva ukrajinské vojáky poblíž Stěpového poté, co se Rusům vzdali.  
+          - Podle nového průzkumu by 40 % Rusů podpořilo stažení ruských vojsk z Ukrajiny. Naopak jen 33 % se vyslovilo pro pokračování války. 
+          - I dnes v noci na Ukrajinu letěly ruské drony a rakety. Ukrajinská PVO zneškodnila 10 z 11 dronů a jednu raketu Ch-59.
+          - OSN se obrátila na Rusko, aby přehodnotilo své rozhodnutí označit LGTB za extremistickou organizaci. 
+          - Policie v Moskvě podnikla razie v gay klubech a pořizovala si snímky dokladů všech návštěvníků. 
+          - Spojené státy zavedly sankce na další americké firmy kvůli obcházení protiruských sankcí. 
+          - Partyzáni v Melitopolu vyhodili do povětří čerpací stanici, kterou využívala ruská armáda. 
+          - Rheinmetall plánuje spustit první výrobu obrněných vozidel na Ukrajině už v příštím roce. 
+        videa: |
+          - [Rusové a další z řady válečných zločinů](https://twitter.com/nexta_tv/status/1730935221871157275)
+          - [Nové video 3. šturmové ](https://www.youtube.com/watch?v=fgcdQmCbz-I)
+          - [Neodjeli](https://twitter.com/EuromaidanPress/status/1730768926756200855)
+          - [Kazety na ruskou pěchotu ](https://twitter.com/PStyle0ne1/status/1730926379246436829)
+          - [Nehoda na okupovaném území](https://twitter.com/TheDeadDistrict/status/1730885258495578480)
+          - [Trefa!](https://twitter.com/region776/status/1730865893574672797)
+          - [Kosmonaut](https://twitter.com/Maks_NAFO_FELLA/status/1730946491055743441)
+          - [Dva Ukrajinci brání zákopy](https://twitter.com/region776/status/1730871500255948939)
+          - [Rusové vyznamenali dalšího nacistu ](https://twitter.com/TheDeadDistrict/status/1730857706393567369)
+          - [Práce dronů ](https://twitter.com/nevedimka123/status/1730890531750777103)
+          - [Dva trofejní tanky](https://twitter.com/front_ukrainian/status/1730930813414306215)
+          - [Ruský voják dostal zdarma ošetření zubů ](https://twitter.com/TheDeadDistrict/status/1730948720911327553)
+          - [Ruský tank mínus](https://twitter.com/PStyle0ne1/status/1730912217674166453)
+          - [Boje u Kreminné](https://twitter.com/Bodbe6/status/1730964066179387484)
+          - [47. přepadla ruskou útočnou skupinu](https://twitter.com/TheDeadDistrict/status/1730854949255299485)
+          - [Ruský voják to vzdal (citlivé!)](https://twitter.com/PStyle0ne1/status/1730671604810514555)
+          - [Kazety na ruské vojáky](https://twitter.com/TheDeadDistrict/status/1730936662522241393)
+          - [Nehoda Rusů na Kamčatce](https://twitter.com/region776/status/1730868370986479842)
+          - [Dron do rozestavěných zákopů](https://twitter.com/GloOouD/status/1730609447947415973)
+          - [Blbá schovka](https://twitter.com/region776/status/1730856040181518472)
       - title: "Pátek"
         year: "1. prosince 2023"
         image: assets/img/timeline/2023-12-01.jpg
