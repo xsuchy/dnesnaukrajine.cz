@@ -38,6 +38,50 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "4. prosince 2023"
+        image: assets/img/timeline/2023-12-04.jpg
+        desc: |
+          Putin se rozhodl vytěžit svou další investici. Tentokrát v Latinské Americe. V roce 2018 současný diktátor Maduro zfalšoval prezidentské volby. Jeho legitimitu proto dodnes neuznává žádný ze západních států, naopak Madura podporují prakticky všechny ostatní totalitní režimy na planetě. Maduro okamžitě navázal intenzivní partnerství s Ruskem, a to i na poli vojenské spolupráce. A teď Venezuela v – pravděpodobně opět zfalšovaném – referendu "rozhodla", že si vezme 2/3 území sousední Guyany. Území, o kterém Maduro tvrdí, že je historické venezuelské (kde jsme to jen už slyšeli?). Území, kde se nachází obří naleziště minerálů a ropy. Putinův cíl je vytvořit nebo podpořit ve světě co nejvíce regionálních konfliktů, které oslabí demokratický Západ a umožní mu nerušeně kolonizovat sousední země a rozšiřovat vliv napříč zeměkoulí skrze podporu ostatních diktátorů. Proto nesmí vyhrát ani na Ukrajině, ani kdekoliv jinde. A teď pár [aktualit z východu](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02EJ5185ywnJdnfe1oTGcCcPMo5iEWwwLgBGuSL978CnxdcWn22QoaAxNVMLAfMSwNl): 
+        detail: |
+          - Ruské tajné služby údajně připravují rozsáhlou dezinformační kampaň s cílem rozšířit smyšlené důvody, které mají ospravedlnit skutečnost, že Rusko přestalo vyměňovat válečné zajatce. Cílem propagandy má být také diskreditace ukrajinských organizací, které výměny organizují, skrze vyfabulované kauzy a obvinění a obecné snížení důvěry v ukrajinské instituce. Ukrajina podle některých informací aktuálně drží až 16 000 zajatců. Až 80 se mělo vzdát jen na chersonské frontě v posledních třech týdnech. 
+          - Bulharský prezident vetoval rozhodnutí parlamentu poskytnout Ukrajině 100 kusů bojových vozidel. Prý můžou vozidla namísto toho chránit hranice nebo pomáhat při živelných katastrofách. Nutno říct, že prezident Radev je na rozdíl od parlamentu silně pro-ruský a často opakuje argumenty ruské propagandy při formulování své zahraniční politiky. 
+          - Pokud Spojené státy neschválí další financování Ukrajině, může se výhledově úplně zastavit. Americké politické instituce se tak prakticky staly rukojmími „MAGA“ republikánů, kteří se rozhodli z krize těžit politické body a uspokojovat své voliče ujíždějící na ruské propagandě. 
+          - Na ruském Telegramu se objevila informace, že diverzní skupiny na Krymu pomocí otrávené vodky a jídla otrávily 35 ruských vojáků. 24 z nich mělo následně zemřít v nemocnici. 
+          - Ukrajině se podařilo najít částečný kompromis s kamioňáky na polské hranici. Ukrajina věří, že kompromis je dostatečný na to, aby blokáda hranic skončila. 
+          - Ruský poručík Ivan Krivošejev byl na levém břehu Dněpru zastřelen svým vlastním zástupcem, seržantem Michajlem Chochlovem. 
+          - Rusko v noci na dnešek vyslalo na Ukrajinu 23 kamikadze dronů z okupovaného Krymu. 18 jich zničila ukrajinská PVO. 
+          - Spojené státy potvrdily, že běloruské úřady a organizace se podílely na deportaci ukrajinských dětí do Ruska. 
+          - Zelenský údajně začal obcházet generála Zálužného a komunikuje s některými veliteli napřímo. 
+          - Rusové se „pochlubili“ dalším videem, kde brutálně bijí spoutané ukrajinské zajatce. 
+          - Polská policie předala na Karvinsku zadrženého Čermáka českým úřadům. 
+          - Ukrajinské drony zasáhly skladiště paliva v okupovaném Luhansku. 
+        videa: |
+          - [Mráz na frontě](https://twitter.com/Bodbe6/status/1731317063396757983)
+          - [Rusové zbili zajatce](https://twitter.com/region776/status/1731575769858703586)
+          - [Ničení ruské útočné grupy](https://twitter.com/NOELreports/status/1731636424661684547)
+          - [Ukrajinci v Krynkách](https://twitter.com/Bodbe6/status/1731456268554863012)
+          - [Rusové u Avdijivky (citlivé!)](https://twitter.com/GloOouD/status/1731618716343763201)
+          - [V Rusku se zřítila další helikoptéra](https://twitter.com/PStyle0ne1/status/1731641254004306065)
+          - [Myši v ruském depu](https://twitter.com/front_ukrainian/status/1731344681538068958)
+          - [Odražený ruský útok](https://twitter.com/NOELreports/status/1731416745204666607)
+          - [Luhansk](https://twitter.com/PStyle0ne1/status/1731574330742440407)
+          - [Úspěšný šturm, jedna oběť na ukrajinské straně](https://twitter.com/GloOouD/status/1731434881467416594)
+          - [Noční dron](https://twitter.com/region776/status/1731317375117787220)
+          - [Našel ho!](https://twitter.com/nevedimka123/status/1731605353068994616)
+          - [V Moskvě hoří fabrika na speciální vozidla](https://twitter.com/PStyle0ne1/status/1731418351912571317)
+          - [Jen pár škrábanců](https://twitter.com/front_ukrainian/status/1731618928198115534)
+          - [Ukrajinský protiútok u Stěpového ](https://twitter.com/region776/status/1731619998148575378)
+          - [Leo na frontě](https://twitter.com/Bodbe6/status/1731448206989631790)
+          - [Chorvatská odminovačka](https://twitter.com/front_ukrainian/status/1731660421398990873)
+          - [Odražený ruský útok](https://twitter.com/PStyle0ne1/status/1731403838958035446)
+          - [Demobilizace dronem](https://twitter.com/region776/status/1731614655314071554)
+          - [CV-90](https://twitter.com/front_ukrainian/status/1731593867885941032)
+          - [Double!](https://twitter.com/PStyle0ne1/status/1731389237310669139)
+          - [Rusové přijeli …a už neodjedou](https://twitter.com/region776/status/1731548214988538332)
+          - [Mínus dron](https://twitter.com/front_ukrainian/status/1731651242584109069)
+          - [O fous](https://twitter.com/Bodbe6/status/1731441738235994569)
+          - [Ruské BMP našlo vlastní miny](https://twitter.com/region776/status/1731534859439571133)
       - title: "Neděle"
         year: "3. prosince 2023"
         image: assets/img/timeline/2023-12-03.jpg
