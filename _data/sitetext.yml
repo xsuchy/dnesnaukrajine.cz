@@ -38,6 +38,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "7. prosince 2023"
+        image: assets/img/timeline/2023-12-07.jpg
+        desc: |
+          Fronta poslední dobou zažívá skutečně vysokou intenzitu bojů, ale na druhou stranu se téměř nehýbe ani jedním směrem. Ukrajincům se podařilo získat některé pozice na severu Avdijivky, Rusové naopak mírně postoupili na jihovýchodě. Zároveň se Rusové pokusili vytlačit Ukrajince z pozic u Andrijivky a Kliščijivky, což se jim nepodařilo a utrpěli u toho velké ztráty. Ukrajinci postupně rozšiřují svou přítomnost na levém břehu Dněpru, a to i přes velké ruské protiútoky. Kde se naopak už delší dobu nic neděje, je – bohužel – záporožská část fronty, od které jsme si nejspíš všichni slibovali větší výpad ve směru na Tokmak. Jenže to by Ukrajina musela mít k dispozici všechny zbraně, se kterými ve svých plánech počítala. A v tomhle ohledu Západ selhal a zdá se, že se nedaří nahodit řetěz zpátky. I když pár vlaštovek se objevilo – například iniciativa skandinávských zemí. Je to ale mnohem méně, než by si Ukrajina zasloužila. Každopádně pojďme na [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02pVYZveQ2MLQRj5UwMMQwbZ1qT4uTPJsLCA5kTrdrStEHHraXjmCwACxMgjEAto6rl): 
+        detail: |
+          - Na předměstí Moskvy byl nalezen mrtvý bývalý ukrajinský poslanec a ruský kolaborant Ilja Kiva. Podle předběžných informací byl zastřelen. Rusové tvrdí, že za jeho smrt jsou zodpovědné ukrajinské tajné služby a Ukrajina to tentokrát ani nepopírá. Naopak se jeden z ukrajinských představitelů v rozhovoru pro média vyjádřil, že podobný osud potká všechny zrádce. 
+          - Prezident Biden varoval svět, že pokud Rusko na Ukrajině vyhraje, budou to vojska NATO, kdo bude s Ruskem muset válčit. Stejný postoj zastává také polská reprezentace. Ta dokonce tvrdí, že Putin plánuje v případě úspěšné invaze napadnout některou zemi NATO (pravděpodobně baltské státy) už v příštích 3-6 letech. 
+          - Americké ministerstvo spravedlnosti spustilo historicky první trestní stíhání příslušníků ruské armády. Konkrétně stíhá dva ruské důstojníky, Surena Mkrtchyana a Dmitrije Budnika, a dva další vojáky, které podezírá z účasti na desetidenním mučení zajatého Američana v Chersonu v dubnu 2022. 
+          - Běloruský parlament schválil úpravu volebního zákona, která nově zavadí minimálně věk kandidátů, a to 40 let, a také zakazuje kandidovat všem, kteří mají dvojí občanství nebo povolení k pobytu v jiné zemi. 
+          - V centru Luhansku byl spáchán bombový atentát na Olega Popova, kolaboranta z „Lidové rady LLR“. Podle prvních zpráv vyvázl se zraněními, později ale zemřel v nemocnici. 
+          - Na Ukrajinu v noci mířilo 18 dronů Shahed. 15 jich bylo zneškodněno ukrajinskou PVO. Některé drony opět zasáhly ukrajinské přístavy na Dunaji. 
+          - Nepál začal pátrat po lidech, kteří rekrutují Nepálce pro ruské ozbrojené síly. 10 lidí je ve vazbě. 
+          - Americký Kongres těsně neschválil podporu pro Ukrajinu a Izrael. Proti byli všichni republikáni. 
+          - Ukrajina a Spojené státy podepsaly dohodu o společné výrobě zbraní a sdílení technologií. 
+          - Pomoc Ukrajině podle Kiel Institute klesla na minimum od začátku invaze. 
+          - Slovenští kamioňáci hrozí novou blokádou. 
+          - Íránský prezident je na cestě do Moskvy. 
+        videa: |
+          - [Jak SAE přivítaly Putina](https://twitter.com/nexta_tv/status/1732356907661222103)
+          - [Jak se Rusům dařilo u Avdijivky](https://twitter.com/region776/status/1732377445461029152)
+          - [Evakuace](https://twitter.com/Bodbe6/status/1732538670375153835)
+          - [Ruská helikoptéra versus ukrajinský námořní dron](https://twitter.com/PStyle0ne1/status/1732421001320059057)
+          - [HIMARS a ruská helikoptéra](https://twitter.com/nexta_tv/status/1732442546473763126)
+          - [Špatná skrýš (citlivé!)](https://twitter.com/region776/status/1732426762699894814)
+          - [Útok na ruské pozice](https://twitter.com/PStyle0ne1/status/1732694452240609504)
+          - [Trefy](https://twitter.com/bayraktar_1love/status/1732447837214920792)
+          - [Mínus S-350](https://twitter.com/NOELreports/status/1732382048969465869)
+          - [Zajatí Rusové ](https://twitter.com/PStyle0ne1/status/1732689222501339461)
+          - [Úder na hlavičku (citlivé!)](https://twitter.com/GloOouD/status/1732690444448833712)
+          - [Táborák (citlivé!)](https://twitter.com/PStyle0ne1/status/1732501978528338170)
+          - [Strejda HIMARS se stavil na skok](https://twitter.com/front_ukrainian/status/1732721557980475462)
+          - [Drony v akci](https://twitter.com/region776/status/1732443659877163492)
+          - [Krynky](https://twitter.com/PStyle0ne1/status/1732482934530027617)
+          - [Ruská PVO minula dron](https://twitter.com/front_ukrainian/status/1732701811792805959)
+          - [Mínus](https://twitter.com/GloOouD/status/1732477493112643816)
       - title: "Středa"
         year: "6. prosince 2023"
         image: assets/img/timeline/2023-12-06.jpg
