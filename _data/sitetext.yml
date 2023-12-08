@@ -38,6 +38,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "8. prosince 2023"
+        image: assets/img/timeline/2023-12-08.jpg
+        desc: |
+          Finsko nevydá zadrženého člena ruské neonacistické jednotky Rusič Jana Petrovského Ukrajině. Důvodem je obava o to, jak by s ním bylo zacházeno v ukrajinském vězení. To se dá pochopit. Co se dá pochopit méně je, že vzhledem k tomu, že Finsko nevyhoví ukrajinské žádosti, bude Petrovský propuštěn na svobodu. Pro Ukrajinu je Petrovský válečný zločinec, navíc člen skupiny, kterou řada zemí označila za extremistickou nebo dokonce teroristickou organizaci. Na Ukrajině navíc nejsou hlášeny případy, kdy by se s válečnými zajatci a zločinci zacházelo jakkoliv nepatřičně. Zajatci mají poměrně dobré životní podmínky, váleční zločinci jsou pak souzeni podle platných zákonů, a ne v zinscenovaných procesech jako v Rusku nebo „lidových republikách“ na Donbasu. Bohužel žijeme ve světě, kde spravedlnost je až na třetím místě za byznysem a diplomacií. Jestli vůbec. A teď pár [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0tAWNAmx1d1oBoJmknLYL4XuBgYaUq8nK5yBcEoyRPT2A966sWByHSQGwGQdnDnbNl): 
+        detail: |
+          - Ukrajina byla v noci pod masivním raketovým a dělostřeleckým útokem. PVO dokázala zneškodnit 14 z 19 raket Ch-101/Ch-555 a 5 ze 7 dronů. Charkov byl také pod palbou z raket ze systému S-300. Naštěstí zahynul jen jeden jediný člověk a několik bylo raněno. 
+          - Rusko uspořádalo další kolo zinscenovaných soudních procesů s obránci Mariupolu, kdy je nechává lhát o tom, že za destrukci města může ukrajinská armáda, nejspíš výměnou za příslib mírnějšího trestu.  
+          - Orbán v rozhovoru pro francouzská média prohlásil, že EU nemůže přijmout Ukrajinu, protože Ukrajina je jednou z nejvíce zkorumpovaných zemí na světě. 
+          - Rusko prodloužilo vazbu uvalenou na Igora Girkina o dalších šest měsíců. Jelikož dříve ohlásil kandidaturu na prezidenta, bude muset kandidovat z vězení. 
+          - Ukrajina objevila způsob, jak částečně obejít polskou hraniční blokádu. Kamiony nakládá na vlaky a takto je přesouvá přes hranice, kde pokračují po silnici. 
+          - Britský ministr zahraničí vzkázal americkému Kongresu, že neschválení pomoci Ukrajině je jako předčasný vánoční dárek pro Putina a Si Ťin-pchinga. 
+          - Rusku se daří obcházet sankce natolik, že jeho příjem z exportu ropy se mezi dubnem a říjnem vyšplhal téměř na hodnoty před invazí. 
+          - Británie obvinila ruskou FSB, že vede proti Britům koordinovanou kampaň zahrnující stovky kyberútoků nejméně od roku 2015.
+          - Na cvičišti v ruské Rjazani údajně spontánně explodovala některá z výbušnin. Jeden důstojník během incidentu zahynul. 
+          - Litva prošetřuje okolnosti, za kterých získaly litevské občanství děti ruského oligarchy Abramoviče. 
+          - Ukrajinský vyslanec v OBSE oznámil, že Rusko drží v zajetí pět stovek ukrajinských zdravotníků. 
+          - Proruské hnutí ukrajinského kolaboranta s Ruskem Medvedčuka si otevřelo pobočku v Srbsku. 
+          - EU umožní členským státům zcela blokovat dovoz ruského plynu.   
+          - Rusové oznámili evakuaci civilní populace z Nové Kachovky. 
+          - V Moskvě hoří továrna firmy Elektrozavod. 
+        videa: |
+          - [Ukrajinské námořní drony](https://twitter.com/nexta_tv/status/1732824795581129137)
+          - [Palbu Bradleyho natočil dron](https://twitter.com/PStyle0ne1/status/1733097292326977825)
+          - [Předčasně ukončený livestream](https://twitter.com/TheDeadDistrict/status/1732997323238633481)
+          - [Lovení Pokémonů](https://twitter.com/PStyle0ne1/status/1732884911197962704)
+          - [Neprojeli](https://twitter.com/region776/status/1733112036870271355)
+          - [Počítání ruských ztrát (citlivé!)](https://twitter.com/GloOouD/status/1733082223199359315)
+          - [Ruský voják prochází vlastní zákopy po jedné z bitev (citlivé!)](https://twitter.com/PStyle0ne1/status/1733070033461334469)
+          - [Šturm mezinárodní legie](https://twitter.com/Bodbe6/status/1732941397001462044)
+          - [Ukrajinský tank v akci ](https://twitter.com/region776/status/1733094374936879570)
+          - [Sakra dobrá trefa (citlivé!)](https://twitter.com/PStyle0ne1/status/1732888811128955353)
+          - [Úspěšný šturm ](https://twitter.com/herooftheday10/status/1732734109888258169)
+          - [Vyřazený Leopard](https://twitter.com/TheDeadDistrict/status/1732976707718488229)
+          - [Stugna versus ruský útok](https://twitter.com/region776/status/1733077636006793293)
+          - [Ruský ústup od Krynek](https://twitter.com/PStyle0ne1/status/1732886324418330655)
+          - [Pokémoni plus jedna demobilizace](https://twitter.com/GloOouD/status/1733042614662815938)
+          - [Ivan Bezruč (velmi citlivé!)](https://twitter.com/region776/status/1733120355857031243)
+          - [Šturm](https://twitter.com/UkrLoveLeopard/status/1732741225080344955)
       - title: "Čtvrtek"
         year: "7. prosince 2023"
         image: assets/img/timeline/2023-12-07.jpg
