@@ -38,6 +38,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "9. prosince 2023"
+        image: assets/img/timeline/2023-12-09.jpg
+        desc: |
+          Rusko na půdě OSN označilo taktiku Izraele, při které zaplavuje tunely Hamásu vodou, za válečný zločin. A ne, není to vtip. Rusko už ani neskrývá, že v konfliktech stojí na straně teroristů. Samo je navíc zemí, která spáchala tisíce válečných zločinů jen za posledních šest set dní. Je tedy tím posledním, kdo by měl na někoho ukazovat prstem. Ale vás nejspíš zajímají [další novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid029CzBPtXWNCtREC8QtY5U489o8jUyW7aGJFc2q5ModBQxV815hBqXJszds3hksN2Ul), tak pojďme na ně:
+        detail: |
+          - Ukrajinský prezident podepsal sérii zákonů, které mají Ukrajině umožnit budoucí vstup do Evropské unie. Jedním z nich je i zákon o národnostních menšinách, který Ukrajině EU doporučila v reakci na tlak Maďarska.
+          - Ruští vojáci si stále stěžují na kvalitu severokorejské munice. Údajně i jednotlivé kusy ze stejné série mají každý jinak velkou prachovou nálož, a tak je s municí téměř nemožné přesně pálit, natož na stejné místo.
+          - Podle ukrajinských médií plánuje Zelenský odvolat z postu velitele ukrajinské armády generála Zalužného. Zelenského kabinet už údajně začal ve spolupráci s USA hledat náhradu.
+          - Mezinárodní olympijský výbor umožní sportovcům z Ruska a Běloruska účast na Olympijských hrách v Paříži. Nebudou ale smět používat žádnou symboliku svých států včetně hymny.
+          - Venezuelský diktátor Maduro po vzoru ruského diktátora Putina podepsal výnos, kterým označuje část sousední Guyany za území Venezuely.
+          - Donald Tusk prohlásil o Orbánovi, že ten nyní otevřené hájí ruskou pozici a nejspíš neexistuje způsob, jak ho přemluvit, aby názor změnil.
+          - Poměr zdokumentované zničené ruské vojenské techniky vůči ukrajinské je aktuálně v avdijivském směru neuvěřitelných 13:1. 
+          - Obchodní svaz čtyř evropských zemí volá po bojkotu polských přepravců, kteří se účastní blokády přechodů na ukrajinské hranici.
+          - Bulharský parlament přehlasoval prezidentské veto a Bulharsko tak poskytne Ukrajině slíbené obrněné transportéry.
+          - Několik velkých ruských měst zrušilo novoroční oslavy a z ušetřených peněz budou financovat válku.
+          - Podle Blinkena bylo 90 % financí alokovaných na pomoc Ukrajině utraceno na americké půdě.
+          - Místní hlásí exploze v blízkosti ruského vojenského přístavu v Novorossijsku. 
+          - Putin ohlásil svou prezidentskou kandidaturu.
+        videa: |
+          - [Mínus TOS](https://twitter.com/TheDeadDistrict/status/1733211121757065494)
+          - [Rusko o Hamásu](https://twitter.com/petite_michelle/status/1733432278221549935)
+          - [Polský Twardy ](https://twitter.com/EuromaidanPress/status/1733167050896404536)
+          - [Ruské vozidlo, Krynky](https://twitter.com/PStyle0ne1/status/1733249335729463572)
+          - [Trefa! (citlivé)](https://twitter.com/GloOouD/status/1733415449277198656)
+          - [Noční trefa ](https://twitter.com/region776/status/1733459445454368860)
+          - [Zajatci](https://twitter.com/TheDeadDistrict/status/1733384822603616272)
+          - [Dron s termovizí ](https://twitter.com/region776/status/1733326594666844524)
+          - [Minus ruský pozemní dron](https://twitter.com/bayraktar_1love/status/1733447207964090700)
+          - [Nestihl to](https://twitter.com/region776/status/1733400942412955959)
+          - [V Makijivce hoří sklad paliv](https://twitter.com/GloOouD/status/1733472450904461723)
+          - [Drony versus ruská pěchota](https://twitter.com/region776/status/1733465140102942752)
+          - [Švédský generál navštívil frontu](https://twitter.com/front_ukrainian/status/1733441607658020874)
+          - [Zastavený ruský šturm](https://twitter.com/region776/status/1733452562194649437)
+          - [Střípek bitvy ](https://twitter.com/NOELreports/status/1733167809343914244)
+          - [Úspěšný útok](https://twitter.com/region776/status/1733139262961520916)
+          - [Znovu Makijivka](https://twitter.com/Maks_NAFO_FELLA/status/1733471274523857341)
+          - [Minus Buk](https://twitter.com/region776/status/1733462464094978277)
+          - [Ruský dron sleduje HIMARS, zničit ho nedokázal](https://twitter.com/Maks_NAFO_FELLA/status/1733222242266337617)
       - title: "Pátek"
         year: "8. prosince 2023"
         image: assets/img/timeline/2023-12-08.jpg
