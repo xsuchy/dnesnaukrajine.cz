@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "10. prosince 2023"
+        image: assets/img/timeline/2023-12-10.jpg
+        desc: |
+          Rusové podle ukrajinské armády přešli prakticky na celé frontě do útoku. Nicméně, jediný směr, kde se jim v tuto chvíli podařilo frontu posunout, je – poněkud paradoxně – u Robotyne, kde Ukrajinci podnikali opakované výpady v minulých měsících, a to konkrétně v oblasti protkané desítkami zákopů jižně od městečka. Na ostatních částech fronty se zatím o průlomech nehovoří. Ukrajinci naopak podnikli protiútok u Lymanu a dobyli zpět dříve ztracené pozice. Dílčí úspěchy měli také na jihu Avdijivky a v Marjince. Ukrajinci každopádně narychlo posilují obranné pozice, aby Rusy zastavili a ochránili životy vlastních vojáků. A ještě se [děje tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0i5uWtN8djjzp8hHPaibWExKcVWq9b6V91kYV8bpadPjKwcSRVCft4nYZav8cnti4l): 
+        detail: |
+          - Elon Musk se na své síti obrátil na Joea Bidena, aby zjistil, co se stalo s „americkým novinářem zadrženým na Ukrajině“. Osoba, kterou měl při tom na mysli, není ani Američan, ani novinář. Jde o Youtubera z Chile, který byl na Ukrajině zadržen za opakované šíření ruské propagandy, popírání nebo oslavování zvěrstev ruské armády a zveřejňování lokací skutečných novinářů a vojenského personálu. Nyní je ve vazbě a čeká na soud. 
+          - Orbánovo tvrzení o „nejzkorumpovanější zemi světa“, které pronesl v souvislosti s Ukrajinou, má  (jak je tomu u těchto národovců ujíždějících na dezinformacích) poněkud ironický kontext. Vůbec nejzkorumpovanější zemí Evropy je totiž podle indexu korupce Rusko. A vůbec nejzkorumpovanější zemí Evropské unie je pak Maďarsko. 
+          - Ruští parašutisté se pokusili zaútočit na ukrajinské pozice v Krynkách na levém břehu Dněpru. Jejich útok skončil katastrofálně a ztratili při něm desítky vojáků a několik kusů těžké techniky včetně tanků, aniž by cokoliv na oplátku získali. 
+          - Nový balík sankcí EU by měl zahrnovat zákaz dovozu jiných než průmyslových diamantů z Ruska. Export ruských diamantů do Číny mezitím vyskočil na pětinásobek dřívějšího průměrného objemu. 
+          - Necelá třetina Američanů je podle posledního průzkumu pro ukončení dodávek vojenského materiálu Ukrajině. Naopak necelých 50 % by je zachovalo nebo dokonce navýšilo. 
+          - Ruský pilot v televizním rozhovoru uvedl, že nová generace Ruskem produkované varianty dronů Shahed dostala proudový motor a nálož o hmotnosti až 8 kg. 
+          - Ukrajinská armáda hlásí pokles v počtu ruských pozemních útoků na jihovýchodní části fronty, a naopak nárůst v počtu leteckých úderů. 
+          - Evropský parlament vyzval Polsko, aby okamžitě podniklo rozhodné kroky k ukončení blokády ukrajinských hranic. 
+          - Podle analytiků a mechaniků z ukrajinské armády neobsahují ruské drony prakticky žádné ruské součástky. 
+          - Zelenský se v Argentině setkal s novým prezidentem a také zástupci dalších okolních států. 
+        videa: |
+          - [Ruský voják o stavu jednotky: 75 přišlo, 14 zbývá ](https://twitter.com/region776/status/1733541319749022062)
+          - [Zelenský a Orbán](https://twitter.com/Maks_NAFO_FELLA/status/1733883785718981078)
+          - [Díky, kámo! (citlivé)](https://twitter.com/nexta_tv/status/1733808289744339023)
+          - [Počasí na frontě](https://twitter.com/front_ukrainian/status/1733604306677354567)
+          - [Ruský Grad explodoval během odpalování raket](https://twitter.com/Osinttechnical/status/1733857576532553772)
+          - [Slušná hromádka](https://twitter.com/region776/status/1733554170643530088)
+          - [Ivan má novou ruku](https://twitter.com/PStyle0ne1/status/1733755140434190454)
+          - [Mínus tank](https://twitter.com/NOELreports/status/1733802577538552153)
+          - [Ruský voják natáčí svoji bývalou jednotku](https://twitter.com/GwarWorin/status/1733773270732747253)
+          - [Výbava na frontu ](https://twitter.com/front_ukrainian/status/1733820845292699752)
+          - [O ruských dronech ](https://twitter.com/TheDeadDistrict/status/1733784615456817188)
+          - [Rusové se pokusili zaútočit na Krynky](https://twitter.com/GloOouD/status/1733814621511762169)
+          - [Stejné místo ](https://twitter.com/GloOouD/status/1733600569103622574)
+          - [Ukrajinské drony](https://twitter.com/region776/status/1733794651713499411)
+          - [V Bělgorodu se stojí fronty na vejce](https://twitter.com/UkrReview/status/1733855667415392637)
       - title: "Sobota"
         year: "9. prosince 2023"
         image: assets/img/timeline/2023-12-09.jpg
