@@ -38,6 +38,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "12. prosince 2023"
+        image: assets/img/timeline/2023-12-12.jpg
+        desc: |
+          Slovensko prý bude usilovat, aby Evropská komise zavedla zákaz dovozu některých ukrajinských potravin. Prý jejich nízká cena křiví evropský trh. To nejmenší, co přitom můžeme pro Ukrajinu udělat, je umožnit ji, aby její ekonomika fungovala. Znemožnit zemi ve válce prodávat nám zboží je regulérní kudla do zad. A to samé platí pro blokádu hranic dopravci. Jedna věc je nepomáhat nebo nevyzbrojovat, druhá je aktivně škodit. Jestli je něco příznačné pro současnou západní společnost, která zažívá historicky nevídanou hojnost a mír, pak je to absolutní neochota se uskromnit, dobrovolně snížit svůj životní standard nebo dělat jakékoliv kompromisy. A to i tváří v tvář největší válce v Evropě od druhé světové války. Snad se nám tenhle přístup jednou nevrátí i s úroky. Ale teď už [pár dalších aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0BJRxHRFTW5yM3QRzwjx7xxt9NVESqomKbpX16VqG1xzV5Wew8ygyyezWE77Hs2VPl): 
+        detail: |
+          - Alexej Navalný se pohřešuje. Vězení, ve kterém si dosud odpykával trest za smyšlené prohřešky, ho vyškrtlo ze seznamu vězňů. Už před několika dny přitom věznitelé odmítly připojit Navalného na dálku na další zinscenované soudní slyšení a od té doby s Navalným nemůžou navázat kontakt ani jeho právníci. Není tak jasné, kde Navalný je, ani zda je vůbec ještě naživu. 
+          - Ukrajina dnes zažívá největší kybernetický útok ve své historii. Hackeři napadli a vyřadili z provozu ukrajinského poskytovatele mobilních a datových služeb Kyivstar. V důsledku útoku od rána nefungují na velké části území Ukrajiny telefony, internet a někde zkolabovaly i bankovní systémy, televize a další navázané služby. 
+          - Nový polský premiér Donald Tusk prohlásil, že už ho nebaví poslouchat politiky, co tvrdí, že jsou „unavení situací na Ukrajině“. Útok na Ukrajinu je podle něj útokem na celou západní společnost, proto bude požadovat úplnou mobilizaci Západu k podpoře Ukrajiny a pomoci. 
+          - Rusové přesunuli ke Kupjansku další rezervy a podle Ukrajinců se budou pokoušet dobýt frontové městečko Synkivka s konečným cílem vytvořit podmínky pro blokádu Kupjansku. Doposud se ale Rusům příliš nedařilo, a i tady utrpěli obří ztráty živé síly a techniky. 
+          - Během aktuálního ruského pokusu o vytlačení Ukrajinců z obce Krynky na levém břehu Dněpru přišli Rusové o 10 z 11 nasazených tanků a až vyšší desítky vojáků. Ukrajinská posádka uvnitř městečka údajně čítá okolo tří stovek mužů. 
+          - Ukrajinská 3. šturmová ohlásila, že se stahuje z fronty. Podle jejích představitelů má v záloze doplnit řady personálu a získá také novou moderní techniku, což z ní udělá technologicky nejpokročilejší jednotku ukrajinské armády. 
+          - Ruská propaganda nyní v Americe šíří falešné citáty amerických osobností, včetně např. zpěvačky Taylor Swift, které vyzývají k ukončení podpory a vyzbrojování Ukrajiny. 
+          - Rusko na okupovaném Donbasu vyřadilo z knihoven a zničilo téměř všechny knížky o ukrajinské kultuře a historii. Podle Ruska se jedná o „extremistickou literaturu“. 
+          - Rakousko se přidalo k Maďarsku a Slovensku a hodlá oponovat tomu, aby se zahájily přístupové rozhovory mezi EU a Ukrajinou. 
+          - Finský soud prodloužil vazbu uvalenou na Janovského, člena neonacistické jednotky Rusič zadrženého ve Finsku. 
+          - Na osvobozený Cherson od začátku prosince dopadá v průměru 86 ruských granátů nebo raket denně. 
+          - Brazilský prezidenta Lula odmítl nabídku Zelenského k setkání během jeho cesty po Jižní Americe. 
+          - Zelenský na tiskovce v Argentině obvinil Rusko z vytváření konfliktů po celém světě.
+          - Švédsko schválilo další balík humanitární pomoci Ukrajině v hodnotě 120 mil. €. 
+          - Ukrajinští Maďaři vyzvali Orbána, aby umožnil Ukrajině vstup do EU. 
+          - Spojené státy schválily zákaz dovozu ruského uranu. 
+        videa: |
+          - [HIMARS time](https://twitter.com/EuromaidanPress/status/1734334700825559239)
+          - [Úspěšný protiútok u Horlivky](https://twitter.com/GloOouD/status/1734539041377329283)
+          - [Cvičení nové 154. mechanizované](https://twitter.com/Militarylandnet/status/1734545260888387857)
+          - [Trefa!](https://twitter.com/PStyle0ne1/status/1734467115019636963)
+          - [Přestřelka na frontě](https://twitter.com/region776/status/1734527325335957616)
+          - [Zelenský se zbrojaři ](https://twitter.com/ZelenskyyUa/status/1734357154516058143)
+          - [Neprojel](https://twitter.com/TheDeadDistrict/status/1734412769154277812)
+          - [Počítání ruských ztrát](https://twitter.com/GloOouD/status/1734249067218169950)
+          - [Tandem dronů versus pěchota](https://twitter.com/front_ukrainian/status/1734494412086939677)
+          - [100 kusů ruského šrotu na 5x6 km ](https://twitter.com/TheDeadDistrict/status/1734311373973446972)
+          - [Konec čůrací pauzy](https://twitter.com/GloOouD/status/1734553103213469846)
+          - [Mínus T-80BV](https://twitter.com/bayraktar_1love/status/1734283033673367745)
       - title: "Pondělí"
         year: "11. prosince 2023"
         image: assets/img/timeline/2023-12-11.jpg
