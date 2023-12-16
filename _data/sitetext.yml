@@ -38,6 +38,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "16. prosince 2023"
+        image: assets/img/timeline/2023-12-16.jpg
+        desc: |
+          Ukrajina v noci podnikla velký dronový útok na ruské vojenské instalace na okupovaném Krymu – místní hlásili exploze v Sevastopolu i dalších městech, ale terčem útoku byli také cíle v Doněcku nebo ruském Taganrogu. Celkový rozsah škod zatím není známý, objevila se pouze informace, že v Doněcku byl zasažen sklad paliv. Rusko tvrdí, že jeho PVO zneškodnila jen nad Krymem 34 dronů, už ale neuvádí, kolik se jich zneškodnit nepodařilo. A jak víme z minula, často Rusové uvádí jako zneškodněný i takový dron, který se „zneškodnil“ po nárazu do svého cíle. A ještě se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02RJC2NoVbqgiQYq7huBNDsFdvHZLgN3pJj6oZZ7hYJ28qg6EKgjYv4iFjxkFdkaTRl): 
+        detail: |
+          - Na samém západě Ukrajiny, v Zakarpatské oblasti v obci Keretsky, kde žije početná maďarská menšina, odpálil jeden ze zastupitelů přímo na úřadu nejméně dva granáty v místnosti plné lidí. Jeden člověk zemřel, dalších 26 lidí bylo raněno, přičemž jeden ze zraněných přišel o končetinu. 
+          - Ukrajina už uvedla do služby zhruba tři desítky samohybných děl Bohdana z domácí produkce. Podle zdrojů z Ukrajiny má Bohdana zhruba stejný dostřel i přesnost jako francouzské CAESARy, ale náklady na její výrobu jsou poloviční. Nyní by se postupně měla rozběhnout její hromadná výroba. 
+          - Finsko oznámilo, že nakonec bude samo soudit ruského neonacistu Jana Petrovského, a to poté, co Petrovského odmítlo vydat Ukrajině. Petrovský je tedy nyní ve Finsku obviněný z mučení a mimosoudních poprav ukrajinských zajatců. 
+          - Rusko přesunulo další útočné prapory ze zálohy na kupjanskou frontu, aby se pokusilo prolomit ukrajinskou obranu a obklíčit Kupjansk. Nové posily mají kompenzovat značné ztráty, které tu Rusové v minulých týdnech utrpěli. 
+          - CNN informovala, že americká rozvědka už dva roky hledá složky s informacemi o ruském vměšování do amerických voleb. Složky měly zmizet z Bílého domu ke konci Trumpova mandátu. 
+          - Polští kamioňáci plánují v neděli opět zablokovat hraniční přechody s Ukrajinou poté co polské soudy zrušily zákaz zavedený místní samosprávou. 
+          - V ruských médiích se objevilo video, které má zachycovat šestici ukrajinských pohraničníků, kteří byli zajati na hranici s ruskou kurskou oblastí. 
+          - Podle ukrajinských médií jsou mezi Zelenským a Zálužným určité neshody, ale zdaleka ne tak velké, jak zahraniční média v titulcích naznačovala. 
+          - Rakety Kinžal podle ukrajinských mechaniků obsahují okolo stovky součástek ze zahraničí, nejvíce (77) pak z USA. 
+          - Británie přidala na svůj sankční seznam další ruskou banku – Novikombank – napojenou na státní Rostec. 
+          - PVO v noci na dnešek zničila 30 ze 31 vyslaných ruských kamikadze dronů typu Shahed. 
+          - První dva tanky Leopard 2 opravené v Litvě míří zpátky na ukrajinskou frontu. 
+          - Evropská unie uvolnila blokovaných 10 miliard eur pro Maďarsko.  
+          - Patriarcha Kirill byl Ukrajinou přidán na seznam hledaných osob.
+        videa: |
+          - [Moment, kdy ruské drony zasáhly nemocnici ve Stepanivce](https://twitter.com/nexta_tv/status/1735996173079462086)
+          - [4 minuty počítání ruských ztrát u Avdijivky](https://twitter.com/PStyle0ne1/status/1735674989209063520)
+          - [Počítání](https://twitter.com/GloOouD/status/1735720876996248015)
+          - [Další ruský útok u Synkivky zastavila artilerie ](https://twitter.com/EuromaidanPress/status/1735819645028815286)
+          - [Medici na frontě](https://twitter.com/Maks_NAFO_FELLA/status/1735752825781530765)
+          - [Duel tanků skončil vítězstvím pro ukrajinské tankisty](https://twitter.com/Osinttechnical/status/1735809032139493818)
+          - [PVO proti dronům](https://twitter.com/nevedimka123/status/1735993586120822789)
+          - [Ruská PVO nad Krymem](https://twitter.com/EuromaidanPress/status/1736018856311730404)
+          - [Rus točí svůj zákop jako důkaz pro rodiče padlého vojáka](https://twitter.com/PStyle0ne1/status/1735985368086757644)
+          - [Doněck](https://twitter.com/front_ukrainian/status/1735968982430023947)
+          - [Boje u Bachmutu](https://twitter.com/GloOouD/status/1736062173179207807)
+          - [Sebe-demobilizace ruského vojáka](https://twitter.com/PStyle0ne1/status/1735742508804514236)
+          - [Bradley](https://twitter.com/GloOouD/status/1735753877377478771)
+          - [V Murmansku shořel sklad freonu](https://twitter.com/Maks_NAFO_FELLA/status/1735965075582693560)
+          - [Kulometné hnízdo a dron](https://twitter.com/NOELreports/status/1736013596763558312)
       - title: "Pátek"
         year: "15. prosince 2023"
         image: assets/img/timeline/2023-12-15.jpg
