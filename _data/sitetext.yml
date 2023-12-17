@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "17. prosince 2023"
+        image: assets/img/timeline/2023-12-17.jpg
+        desc: |
+          Dnešní report vychází nezvykle brzo, protože mě čeká náročný den. Je tedy možné, nebo spíš velmi pravděpodobné, že některé klíčové informace teprve vyjdou na různých kanálech. Proto, pokud na něco zajímavého narazíte, nebojte se využít sekci komentářů k doplnění informací a upřesnění těch již publikovaných. Ale to ostatně platí i pro každý jiný den. Občas mi důležitá zpráva nebo kontext uteče a je skvělé, že se vždy najde někdo, kdo přispěchá s dalšími detaily, ať už v komentáři nebo soukromé zprávě. Díky tomu obsah na téhle stránce vzniká částečně komunitně, a to mi dělá ohromnou radost. Znamená to totiž, že spousta z vás se o informace zajímá i po vlastní ose a nespokojí se s tím, co v médiích (nebo tady) vychází. Díky za to! A teď tedy [pár aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02W7Yu2TkCT8PLS8Dk7Uq4tCm8pAcb9UpoSmo9fBqc6A8tbns6ShvZ34nrJbS3f4rUl), co už od rána vyšlo: 
+        detail: |
+          - Ano, ruská propaganda opravdu funguje v opakujících se vlnách. Aktuálně zase žije svým životem tvrzení, že při jednom z posledních raketových útoků zasáhla raketa Kinžál podzemní velitelské stanoviště a zabila několik velitelů NATO. Ale aspoň už jich teď není 200, nebo kolik to ruská propaganda naposledy tvrdila… 
+          - „Největší“ proruský, pročínský, prokorejský a prohamásský  bloger na síti X Jackson Hinkle je single. Jeho ruská partnerka oznámila, že ho opouští a vrací se do Ruska. Linniková jako vysvětlení uvedla, že ji Hinkle psychicky i fyzicky týral a že je manipulátor s narcistní poruchou osobnosti. 
+          - Americký federální soud se zajímá o Elona Muska. Konkrétně chce vědět, jak probíhalo převzetí Twitteru a kdo ho financoval. Soud zároveň Muskovi pohrozil, že pokud bude dál informace tajit, bude je muset sdělit nedobrovolně během soudních slyšení. 
+          - Podle německého deníku Welt plánuje Ukrajina další fázi ofenzivy v roce 2024, jakmile obdrží od partnerských zemí dostatek výbavy, kterou definovala jako klíčovou pro jakýkoliv úspěch. 
+          - Ruské letiště v Mozorovsku, které hostí bombardéry Su-24, Su-24M a Su-34, bylo v noci pod útokem ukrajinských dronů. Rusové tvrdí, že jich zničili všech 35. Pravdu ukáží až satelitní snímky. 
+          - Rusko v noci vyslalo na Ukrajinu 20 dronů Shahed, jednu raketu Ch-59 a jeden Iskander-K. Podle ukrajinského letectvo byly všechny drony zničeny a Iskander se zřítil ještě před cílem. 
+          - Vyslanec Ruska v OSN prohlásil, že „Ukrajina propásla šanci na výhodnou mírovou smlouvu a nyní bude jakákoliv budoucí smlouva reflektovat kapitulaci Ukrajiny na bojišti“. 
+          - Rusové mírně postoupili na třech úsecích aktivní fronty. Největší úspěch mají na severu Bachmutu, kde se jim podařilo vytlačit Ukrajince z pozic dobytých při letní ofenzivě. 
+          - Rakousko podpořilo nový balík sankcí poté, co Ukrajina vyňala Raiffeisenbank ze seznamu sponzorů invaze. Ten tak vejde v platnost příští týden. 
+          - Maďarsko nyní vyhrožuje, že bude blokovat také vstup Bulharska do Shengenu, pokud Bulharsko nezruší taxu na tranzit ruského plynu. 
+          - Africká divize wagnerovců se přejmenovala na „Afrika Korps“. Kde jsem to jen už dříve slyšel…? 
+        videa: |
+          - [Bachmutský sektor](https://twitter.com/Bodbe6/status/1736193942041837633)
+          - [Auvajs?](https://twitter.com/PStyle0ne1/status/1736138895681630452)
+          - [Další zastavený útok u Avdijivky](https://twitter.com/GloOouD/status/1736086019319935336)
+          - [Mozorovsk](https://twitter.com/NOELreports/status/1736301996787818988)
+          - [Rovnou do díry!](https://twitter.com/666_mancer/status/1736297975566008341)
+          - [Ruský výpad u Krynek neskončil dobře – pro Rusy](https://twitter.com/PStyle0ne1/status/1736127496746061856)
+          - [Kouzlo zmizení ](https://twitter.com/NOELreports/status/1736304443073667537)
+          - [Našel minu!](https://twitter.com/herooftheday10/status/1736132346930253929)
+          - [Sebe-demobilizace po malé motivaci](https://twitter.com/PStyle0ne1/status/1736079257250550100)
+          - [SP-9](https://twitter.com/Bodbe6/status/1736197329147814221)
+          - [Ruský šrot u Robotyného ](https://twitter.com/NOELreports/status/1736097647402914239)
+          - [Neprojeli](https://twitter.com/herooftheday10/status/1736133706606059822)
+          - [ATGM versus pěchota](https://twitter.com/worldonalert/status/1736103546347540819)
+          - [Táborák (citlivé)](https://twitter.com/small10space/status/1736073654000033890)
       - title: "Sobota"
         year: "16. prosince 2023"
         image: assets/img/timeline/2023-12-16.jpg
