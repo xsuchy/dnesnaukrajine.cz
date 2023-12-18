@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "18. prosince 2023"
+        image: assets/img/timeline/2023-12-18.jpg
+        desc: |
+          Legie Svoboda Ruska podnikla další výpad do Bělgorodské oblasti. Rusové (v Rusku) tvrdí, že se incident obešel beze ztrát, čemuž se legie vysmála a nabídla svoji verzi událostí: Legie prý úspěšně přepadla v obci Terebreno opevněný post jednoho z praporů bránících hranice, zabila několik ruských vojáků a cestou nazpátek nechala za sebou Rusům „dárky“ - zaminovala některé trasy, které ruské jednotky používají k přesunům v blízkosti hranic. Do Ruska pak legie vzkázala, že je v Rusku doma, a tak si tam bude chodit, jak bude chtít. Ukrajinská rozvědka mezitím potvrdila sled událostí i to, že ruská posádka utrpěla ztráty. Tak co myslíte, jak to bylo ve skutečnosti? Než se rozhodnete, tady jsou [další aktuality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0uAq7opesSp7GBpunS8YLGD5VtyEmmAAAdKUhfRuRjncG15qHMjtrCeJZaPy2apuLl): 
+        detail: |
+          - Zdá se, že jedním z cílů včerejšího velkého dronového útoku na cíle v Rusku, na Donbasu a na Krymu bylo také vojenské letiště Morozovka u Rostova. Útok dokonce potvrzují ruská média, ale způsobené škody tají. Na letišti mělo být v době útoku okolo dvou desítek ruských stíhaček a stíhacích bombardérů a také 4 radary. Podle ukrajinského letectva jsou způsobené škody „značné“. Z uniklých fotek na internetu jde tušit, že drony letiště skutečně zasáhly, ale „značné“ škody na letadlech nezávisle ověřit nejde. 
+          - Evropská komise dnes oznámila, že zahájila vyšetřování platformy X. Podle Evropské komise Muskova platforma neplní závazky ohledně potírání nelegálního obsahu a potlačování šíření dezinformací, neplní ani požadavky EU na transparentnost a komise navíc X podezírá z využívání tzv. „dark patterns“ v designu uživatelského prostředí. 
+          - Putin v televizním rozhovoru prohlásil, že doposud nebyly s Finskem žádné spory a problémy, ale „teď začnou“, a to kvůli rozhodnutí Finska vstoupit do NATO. Putin oznámil, že Rusko v reakci na nový status quo vytváří nový Leningradský vojenský okruh a přesune k hranicím s Finskem další vojska. 
+          - Rusové včera nejprve oznámili, že zneškodnili ukrajinský letoun, později ale vyšlo najevo, že ruská PVO sestřelila pomocí systému Buk-M3 vlastní bitevník Su-25. Už zase. 
+          - Ruští vězni, které Putin omilostnil výměnou za účast v bojích na Ukrajině, po návratu do Ruska spáchali už nejméně 27 vražd. 
+          - Lotyšsko pravděpodobně vyhostí více než 1 000 ruských občanů, kteří nedokázali vyhovět lotyšským imigračním zákonům. 
+          - Rusové v okupovaném Mariupolu strhli nechvalně proslulou budovu policie, ve které se nacházela ruská mučírna. 
+          - Ukrajinci objevili „štěnici“ v kanceláři generála Zálužného a další v kanceláři jeho pravé ruky Bušujeva. 
+          - Moldavská armáda spustila vojenská cvičení poblíž hranic s Ukrajinou a „Podněsteřím“. 
+          - Ukrajina obdržela slíbených 24 samohybných těžkých minometů „Rak“ od Polska. 
+          - K blokádě polsko-ukrajinské hranice se hodlají přidat polští farmáři. 
+          - EU by dnes měla přijmout už 12. balík protiruských sankcí. 
+          - Navalný je pohřešován už 13. den. 
+        videa: |
+          - [Putin o Finsku](https://twitter.com/wartranslated/status/1736341032525038012)
+          - [Ruské ztráty. Všude. ](https://twitter.com/bayraktar_1love/status/1736707621439070614)
+          - [Na frontě](https://twitter.com/Bodbe6/status/1736543257557979447)
+          - [Inventura](https://twitter.com/herooftheday10/status/1736525696929759608)
+          - [Sakra dobrá trefa Javelinem](https://twitter.com/Heroiam_Slava/status/1736286801210306934)
+          - [Delší video, stejné místo](https://twitter.com/PStyle0ne1/status/1736318927620210931)
+          - [Výsledek používání severokorejské munice](https://twitter.com/PresenceInno/status/1736477187769815266)
+          - [Dva Rusové zabloudili](https://twitter.com/PStyle0ne1/status/1736400370165858676)
+          - [AT-4](https://twitter.com/GloOouD/status/1736387332494798905)
+          - [Šest dvoustovek, sedmnáct třístovek](https://twitter.com/PStyle0ne1/status/1736318142719185241)
+          - [Rasputica](https://twitter.com/nexta_tv/status/1736405892252188725)
+          - [Ukrajinský tank rozdrtil dům s ruskými vojáky](https://twitter.com/front_ukrainian/status/1736371143647367317)
+          - [Mínus TOS-1](https://twitter.com/bayraktar_1love/status/1736678807711502838)
+          - [Skoro!](https://twitter.com/Heroiam_Slava/status/1736382694915809414)
+          - [Ruský útok skončil fiaskem](https://twitter.com/PStyle0ne1/status/1736654486259519630)
+          - [Koksovna v Avdijivce](https://twitter.com/GloOouD/status/1736493049834811424)
+          - [Páápááá](https://twitter.com/PStyle0ne1/status/1736317673519055148)
       - title: "Neděle"
         year: "17. prosince 2023"
         image: assets/img/timeline/2023-12-17.jpg
