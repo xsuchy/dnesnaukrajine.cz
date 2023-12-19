@@ -38,6 +38,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "19. prosince 2023"
+        image: assets/img/timeline/2023-12-19.jpg
+        desc: |
+          Do Nizozemska přiletěl přes Jihoafrickou republiku šedesátiletý Igor Salikov, ještě donedávna plukovník ruské GRU a instruktor u wagnerovců, který zběhl a nabídl, že bude vypovídat o ruských válečných zločinech u Mezinárodního trestního soudu v Haagu. Haagský soud nicméně zatím o jeho výpověď neprojevil aktivní zájem a Salikov tak čeká na letišti, kde je ubytovaný společně se svou rodinou, a hrozí mu deportace. Není známé, co Salikov požaduje na revanš, ale dá se předpokládat, že politický azyl v některé ze západních zemí. Bude zajímavé sledovat, zda na výpověď dojde a co v ní případně zazní. A stejně tak bude zajímavé sledovat odůvodnění v případě, že Haag Salikova nevyslechne. A to čekání na výsledek si můžeme zkrátit u [dalšího přehledu zpráv](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0gYuT81hXC1ofCPWkzZnxQtHccX7AkKJFEfTdqPYku5PZNegMD7kYR4ykCpdvyca2l): 
+        detail: |
+          - Putin včera podepsal dekret, který umožňuje občanům Moldavska, Běloruska a Kazachstánu získat občanství ve zjednodušeném řízení, které ve skutečnosti znamená absolvovat krátkou službu v armádě. Putin tedy de facto uplácí chudší obyvatele zmíněných zemí možností žít v Rusku, aby je mohl nasadit jako potravu pro děla na současnou frontu. 
+          - V ruském Jekatěrinburgu se objevila nová kampaň lákající na službu v armádě. Plakáty nabízí jednorázovou platbu 495 000 rublů (cca 122 000 Kč) za narukování a potom 50 000 rublů (12 300 Kč) za každý kilometrový postup na frontě nebo 8 000 rublů (2 000 Kč) za den strávený v aktivním boji. A to se vyplatí. 
+          - Šojgu na tiskové konferenci oznámil, že ukrajinská ofenziva byla zastavena a že Zbrojní síly Ukrajiny při ní ztratily 159 000 vojáků (382 000 prý za celou invazi) a také 121 letadel, 23 helikoptér, 766 tanků (z toho 37 Leopardů) a 2 348 obrněných vozidel (z toho 50 Bradleyů). Eh… taky vám to nevychází? 
+          - Šéf Komise pro lidská práva OSN obvinil ruskou armádu z válečných zločinů na Ukrajině. Konkrétně jmenoval nejméně 142 zdokumentovaných případů mimosoudních poprav civilistů, případy mučení a sexuálního násilí na civilistech. 
+          - Podle ruských kanálů jsou škody po dronovém útoku na vojenské letiště Morozovsk více než malé. Na letišti mělo být v době útoku celkem 24 letounů Su-34, z nichž dva jsou nevratně zničené a dalších 10 různě poškozeno. 
+          - Projekt Mediazona už ztotožnil 39 424 ruských vojáků zabitých na Ukrajině. Jak Ukrajina, tak některé příčetné ruské kanály ale přiznávají, že naprostou většinu ztrát Rusko tají a vede je jako „zmizelé“ vojáky. 
+          - Prezident Pavel věří, že Putin se nebude účastnit žádných mírových jednání minimálně do doby, kdy bude znám výsledek amerických voleb, protože Putin prý doufá, že novým prezidentem USA se stane opět Trump. 
+          - Ukrajinská armáda oznámila, že musela uspat některé plánované ofenzivní operace kvůli akutnímu nedostatku dělostřelecké munice a dalšího materiálu, který měla přislíbený od západních partnerů. 
+          - Rusko zrušilo clo na dovoz vajec a začne dovážet vejce také z Íránu, aby kompenzovalo celkový nedostatek vajec, který v minulých týdnech Rusko postihl. 
+          - Největší ruský výrobce automobilů Avzovaz oznámil, že bez státních dotací a dalších forem podpory nedokáže soutěžit s čínskými automobilkami. 
+          - Škody způsobené ukrajinské ekonomice kvůli blokádě hranic kamioňáky už podle ukrajinských statistik přesáhly 1 miliardu eur. 
+          - Dva bezdomovci v Moskvě pronikli na ambasádu Keni a udělali si menší večírek v kuchyňce pro zaměstnance. 
+          - Komise OSN pro lidská práva se bude zabývat zmizením ruského opozičníka Alexeje Navalného. 
+          - Nový balík protiruských sankcí mimo jiné zavádí omezení na dovoz ruského hliníku. 
+          - V ruském Barnaulu otevřela tamější komunistická strana nové Stalinovo Centrum. 
+          - Putin podal oficiální žádost o registraci sebe jakožto prezidentského kandidáta. 
+          - Zelenský je dle průzkumu nejdůvěryhodnějším ukrajinským politikem (77 %).
+        videa: |
+          - [Ukrajinský Javelin tým u Marjinky](https://twitter.com/EuromaidanPress/status/1736944532640407938)
+          - [Šťastnou cestu i návrat](https://twitter.com/Bodbe6/status/1736877728127742044)
+          - [Úspěšný šturm](https://twitter.com/TheDeadDistrict/status/1737091953999618487)
+          - [Mínus](https://twitter.com/front_ukrainian/status/1736798292669821411)
+          - [Ruské dělostřelectvo zabilo u Chersonu ostrahu v areálu firmy](https://twitter.com/KyivIndependent/status/1736792855987839150)
+          - [Ruská letecká puma u Chersonu](https://twitter.com/PStyle0ne1/status/1736841605233934631)
+          - [Mínus tank](https://twitter.com/GloOouD/status/1737021285702541673)
+          - [Mínus T-90](https://twitter.com/EuromaidanPress/status/1736899144201994346)
+          - [Vánoce](https://twitter.com/DefenceU/status/1736808797207679370)
+          - [Ruský pěší útok](https://twitter.com/Bodbe6/status/1737100530579615952)
+          - [Drony na ruské pozice](https://twitter.com/PStyle0ne1/status/1737001902208856205)
+          - [Kořist](https://twitter.com/front_ukrainian/status/1737032691525034274)
+          - [Pohřeb hrdiny v pohraničí](https://twitter.com/TheDeadDistrict/status/1736834860499587081)
+          - [Mínus radary](https://twitter.com/PStyle0ne1/status/1736839229295001842)
+          - [Bradley zmrznul](https://twitter.com/front_ukrainian/status/1737030678179410382)
       - title: "Pondělí"
         year: "18. prosince 2023"
         image: assets/img/timeline/2023-12-18.jpg
