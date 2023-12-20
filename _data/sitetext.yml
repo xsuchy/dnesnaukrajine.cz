@@ -38,6 +38,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "20. prosince 2023"
+        image: assets/img/timeline/2023-12-20.jpg
+        desc: |
+          Podle agentury Bloomberg se diskuze v baltských zemích proměnila z „co když Rusko zaútočí“ na „až Rusko zaútočí“. Politici čím dál více mluví veřejně o tom, že je potřeba se připravit na budoucí válku. Stejný názor má i polská reprezentace, která s odvoláním na informace rozvědky konstatuje, že Putin by rád napadl Balt v příštích několika letech. A tak, zatímco západ i střed Evropy považuje válku s Ruskem za nepravděpodobnou a říká, ať s ní „nestrašíme“, ti, kteří mají tu smůlu, že s Ruskem musí sousedit, už bijí na poplach. Co my? Přemýšlejte o tom u [dalších novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid023Z9Kk1QazhdTa633dGTmgMAnqKGz5mnEQkNoMidbNe6v6U6TwBy1f9uG7XAes9jFl): 
+        detail: |
+          - Putinova divoká karta v USA dostala pořádnou ránu. Nejvyšší soud státu Colorado vyhověl návrhu skupiny republikánů a vyřadil Trumpa ze seznamu kandidátů na prezidenta kvůli jeho podílu na událostech z 6. ledna 2021. Americká ústava totiž zakazuje kandidovat osobám, které se účastnily rebelie nebo jiných aktivit s cílem svrhnout demokraticky zvolenou vládu. 
+          - Z rozhovoru se zajatými Nepálci vyplývá, že je Rusové nalákali na vysoké platy a nízké riziko, namísto toho je ale vrhli do první linie bez jakékoliv přípravy. Podle ukrajinských hackerů, kteří videa z výslechů rozšířili v Nepálu, zrušilo svoje smlouvy s ruskou armádou dalších 28 nepálských dobrovolníků, které mezitím Rusové dokázali nalákat. 
+          - Rusko opět použilo proti Ukrajincům chemické granáty. Tentokrát ruské dělostřelectvo vypálilo na ukrajinské pozice na jižní frontě granáty s dusivým plynem, aby znemožnilo Ukrajincům využít blindáže a kryty, než je zasypalo tříštivou municí. 
+          - Japonsko hodlá upravit svoje zákony ohledně reexportu zbraní a munice, s cílem poskytnout Spojeným státům munici pro systémy Patriot, aby naopak Američané mohli svou munici uvolnit Ukrajině. 
+          - Putin nařídil svým úřadům, aby zabavily majetky dvou mezinárodních firem: rakouské OMV a německé Wintershall Dea. Obě přitom dosud vlastnily podíly v ruských energetických firmách. 
+          - Ukrajina plánuje v roce 2024 vyrobit až milión malých FPV dronů a také kolem 10 000 dronů středního doletu a zhruba tisícovku dronů s doletem až 1 000 kilometrů. 
+          - Německé nejvyšší státní zastupitelství hodlá zkonfiskovat 720 miliónů eur na účtech nespecifikované ruské firmy, která se pokusila obejít uvalené sankce. 
+          - Z kyjevského letiště Boryspil včera odstartovalo civilní letadlo teprve počtvrté od začátku invaze. Zelenský by rád letiště opět zprovoznil pro civilní lety. 
+          - Polský soud poslal na 1 až 6 let za mříže skupinu Ukrajinců, Bělorusů a Rusů, kteří byli shledáni vinnými z provádění špionáže pro Ruskou federaci. 
+          - Na frontě padl před dvanácti dny veterán a bývalý voják americké námořní pěchoty Graham Dale. Dnes padl také americký medik Etan Hertweck. 
+          - Rusové v noci zasáhli Charkov pomocí raket S-300. Zničeno bylo mimo jiné tramvajové depo, kde se nacházely darované české tramvaje. 
+          - Jedenáct cizinců v Petrohradu obdrželo povolávací rozkazy do armády během ceremonie, při které jim bylo uděleno ruské občanství. 
+          - Ruský oligarcha Abramovič u Evropského soudu neuspěl. Zůstane tedy na sankčním seznamu. 
+          - Ukrajinská armáda plánuje povolat do zbraně dalších až 500 000 mužů. 
+          - Ukrajinská PVO v noci zničila 18 z 19 ruských kamikadze dronů. 
+        videa: |
+          - [Jak dopaly sedláci u Chlu-… teda, Rusové u Vuhledaru ](https://twitter.com/kvistp/status/1736802761940119617)
+          - [Úspěšný šturm](https://twitter.com/bayraktar_1love/status/1737133251368534511)
+          - [Rusové u Krynek](https://twitter.com/PStyle0ne1/status/1737394937119834542)
+          - [Putinova největší lež o Ukrajině](https://twitter.com/wartranslated/status/1737080503793074648)
+          - [Mínus velký muničák](https://twitter.com/EuromaidanPress/status/1737264887208788237)
+          - [Trefa (citlivé)](https://twitter.com/worldonalert/status/1737243326766567915)
+          - [Bradley pohřbil ruskou útočnou grupu](https://twitter.com/PStyle0ne1/status/1737405620884574468)
+          - [Krynky (citlivé!)](https://twitter.com/GloOouD/status/1737197039090295197)
+          - [Bum](https://twitter.com/bayraktar_1love/status/1737396873659634139)
+          - [ATGM tým](https://twitter.com/front_ukrainian/status/1737424571911770148)
+          - [Konec evakuace (citlivé!) ](https://twitter.com/taxfreelt/status/1737160255568585121)
+          - [Trefa!](https://twitter.com/bayraktar_1love/status/1737204481102680440)
+          - [Bývalí Rusové (citlivé)](https://twitter.com/herooftheday10/status/1737123749705461965)
+          - [FPV dron](https://twitter.com/Heroiam_Slava/status/1737431640207454667)
       - title: "Úterý"
         year: "19. prosince 2023"
         image: assets/img/timeline/2023-12-19.jpg
