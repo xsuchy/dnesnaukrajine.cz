@@ -38,9 +38,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
-      - title: "Středa"
-        year: "20. prosince 2023"
-        image: assets/img/timeline/2023-12-20.jpg
+      - title: "Pátek"
+        year: "22. prosince 2023"
+        image: assets/img/timeline/2023-12-22.jpg
+        desc: |
+          Ruská propaganda se nechutným způsobem snaží spojit včerejší tragickou střelbu v Praze s Ukrajinou. Na sítích proto ruské účty šíří celou řadu lží o pachateli a jeho motivacích. Například, že má jít o ukrajinského studenta z Dnipra pojmenovaného po ukrajinských Kozácích, nebo že své zbraně koupil na černém trhu z původně americké dodávky pro Ukrajinu. Dezinformace jsou to profesionálně vystavěné, žádné obyčejné plácání. Pro každé publikum a každou emoci je v nich něco. Například některé části apelují na závist, když tvrdí, že střelec studoval v Praze díky získanému stipendiu z podpůrného programu, jiná část zase brnká na strach z přelití války a jejích následků do Česka, když tvrdí, že jeho motivem mělo být, že obdržel od ukrajinské ambasády povolávací rozkaz do armády. Dezinformátoři také tvrdí, že ukrajinskou vlajku nad budovou školy vyvěsil útočník během svého řádění. Všechno jsou to samozřejmě nesmysly. Děsivá je ale rychlost, s jakou se tyto dezinformace objevily, a to, jak využívají reálná jména, události a další prvky k vytvoření naprosté virtuální reality. Buďte proto ostražití, pokud ve svém okolí tyto narativy zachytíte. Je to spolehlivý signál, že dotyčný konzumuje dezinformace a propagandu. A teď zpátky do [reality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid07WNv2LQzbL6SfXTMVFGKXqfaZbBBypbZPVLLvdjjAAHBddTPtqMqKjg1sundogJPl): 
+        detail: |
+          - Ukrajinské vzdušné síly měli dnes sklizeň. Hlásí, že nad jižní frontou se podařilo sestřelit hned tři relativně moderní ruské dvoumístné stíhací bombardéry Su-34 (Fullback). A podle nešťastných reakcí na ruských aviatických kanálech se dá tušit, že je informace pravdivá. Rusko tak přišlo nejen o tři stroje, ale také o několik zkušených pilotů, protože podle předběžných zpráv většina pilotů zahynula. Letouny měla sestřelit nová baterie systému Patriot, kterou Ukrajina nedávno získala od Německa.
+          - Podle deníku Washington post fungují v Rusku „tábory na převýchovu“ lidí s homosexuální orientací nebo různými formami transsexuality. Bohatí rodiče údajně sami platí různé gangstery, aby unesli jejich děti a umístili je do tábora. 23letá Ada pro deník vypověděla, že ji organizátoři nutili účastnit se kastrace prasete, prý aby „pochopila, co přináší operace na změnu pohlaví“.
+          - Finský prezident věří, že západním politikům pomalu ale jistě dochází, že konflikt na Ukrajině není krátkodobá událost, jak si doposud mysleli, ale začátek nové studené války. To podle něj také ovlivnilo rychlost, s jakou Západ dodával Ukrajině materiál a zbraně a s jakou restartoval svůj vojenský průmysl. 
+          - Podle zjištění německého deníku Bild vytvořilo Rusko falešné aerolinky s názvem „Southwind Airlines“ se sídlem v Ankaře. Ty jsou pak zodpovědné za navážení afrických migrantů z Turecka do Běloruska.  
+          - Nizozemsko oznámilo zahájení příprav k předání 18 strojů F-16 Ukrajině. Ruští propagandisti mezitím tvrdí, že na Ukrajině je už minimálně jedna celá letka. 
+          - Spojené státy zavádí přísnější postihy pro firmy, které obchází protiruské sankce a obchodují s ruským vojensko-průmyslovým odvětvím. 
+          - Americký Wall Street Journal s odvoláním na desítky zdrojů tvrdí, že za smrtí Prigožina stojí Putinův spolupracovník Nikolaj Patrušev. 
+          - Ukrajinská PVO v noci sestřelila 24 z 28 ruských kamikadze dronů. Několik následně dopadlo na obytné čtvrti. 
+          - Rusové přesunuli další posily do Bachmutu. V oblasti tak mají nyní odhadem 80 000 vojáků. 
+          - V blokádě na polsko-ukrajinské hranice je uvězněno už okolo 4 tisíc ukrajinských kamionů. 
+          - Ukrajina repatriovala těla 66 zabitých ukrajinských vojáků. 
+          - Polsko poskytlo Ukrajině dalších 5 000 terminálů Starlink. 
+          - Rusko už na Ukrajinu vypálilo 7 400 raket. 
+        videa: |
+          - [Dva Ukrajinci zajali pět Rusů](https://twitter.com/region776/status/1737895590166692196)
+          - [Mínus TOS-1](https://twitter.com/EuromaidanPress/status/1737994376100319627)
+          - [Ruský tank přežil RPG, ale stejně najel na minu ](https://twitter.com/PStyle0ne1/status/1737963626827284974)
+          - [Trefa!](https://twitter.com/region776/status/1738176354255036447)
+          - [Velmi neúspěšný ruský útok](https://twitter.com/front_ukrainian/status/1738246369502957736)
+          - [Co taky zachytil dron](https://twitter.com/EuromaidanPress/status/1737986406646001806)
+          - [Ivanwood](https://twitter.com/PStyle0ne1/status/1737926661721473299)
+          - [Uvařený ruský tank](https://twitter.com/ManiacMagic1/status/1738114429781176369)
+          - [Trefa dronem (velmi citlivé!)](https://twitter.com/region776/status/1738164813585662383)
+          - [Ou :D](https://twitter.com/TheDeadDistrict/status/1738246948371485083)
+          - [Lesy u Kreminné](https://twitter.com/GloOouD/status/1738239053789642775)
+          - [Mínus ruské muničáky](https://twitter.com/region776/status/1738181683944566868)
+          - [Dron + HIMARS = VSL](https://twitter.com/NOELreports/status/1738241582388617560)
+          - [V Makijivce bylo výbušno ](https://twitter.com/Tendar/status/1737900269042631081)
+          - [Mínus tank](https://twitter.com/region776/status/1738146173473656924)
+          - [Scarface (velmi, velmi citlivé!)](https://twitter.com/cryogenicbreez/status/1738225508347994543)
+          - [Počítání (citlivé!)](https://twitter.com/herooftheday10/status/1737954825126412600)
+      - title: "Čtvrtek"
+        year: "21. prosince 2023"
+        image: assets/img/timeline/2023-12-21.jpg
         desc: |
           Orbán na konferenci v Budapešti prohlásil, že si nemyslí, že na Ukrajině probíhá válka. Prý je to „operace“, protože ani Rusko ani Ukrajina válku jeden druhému nevyhlásili. Tak za prvé, pro existenci války NENÍ potřeba její formální vyhlášení, za druhé, to, co probíhá na Ukrajině, bezesporu válka je a jakákoliv snaha to popírat pomocí slovíčkaření je minimálně nechutná, a za třetí, nedokážu si představit lepší přiznání Orbána, že je na ruské výplatní pásce, než tohle bezpáteřní opakování loňské Putinovy propagandy. Pokud se po tomhle výroku maďarská populace nezačala hluboce stydět, pak jsme opravdu v roce 2023 začali v Evropě hledat nové dno. Ale teď už [pár aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0DZ3xmsEDkS2rL9CSmGiGUXSpkddahJUfKBJgyvgw2hCGvoGoE4BC6v5LEoRoRTTpl): 
         detail: |
