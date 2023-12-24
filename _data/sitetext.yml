@@ -38,6 +38,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "24. prosince 2023"
+        image: assets/img/timeline/2023-12-24.jpg
+        desc: |
+          Neděle. Vánoční neděle. Buďme vděční, že je můžeme trávit s rodinou a přáteli v jedné z nejbezpečnějších zemí světa, a to i navzdory nedávným událostem v Praze. Dovolte mi proto popřát všem, ať se vám splní všechna přání. Zejména pokud je jedno z vašich přání svobodná Ukrajina. A pokud nemusíte číst dnešní přehled dnes, nechte si ho na zítra. [Ty zprávy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02SAsPDfNEgQUdd5aMUgVJQKSqEcDK2YwR1dJ2VBxyc5fp1AbvqjiZo92rv2oMKzs6l) nikam neutečou: 
+        detail: |
+          - Igor Salikov, dezertér, který přijel vypovídat proti Rusku do nizozemského Haagu, v rozhovoru s novináři prozradil střípek informací, které by rád předal soudu. Například podle něj Putin osobně vybíral budoucí lídry samozvaných separatistických republik. Také vysvětlil, že ruská armáda používala na Donbasu v roce 2014 exklusivně jen staré sovětské zbraně, aby simulovala, že jde o lokální povstání. Nebo popsal, jak Rusko pravidelně provádělo akce pod falešnou vlajkou v režii FSB, aby následně obvinilo Kyjev z ostřelování civilistů. 
+          - Polovina z 22 ruských automobilek zeje prázdnotou. Kvůli sankcím totiž chybí klíčové komponenty, a tak jednoduše není co vyrábět. Rusko se situaci podařilo vyřešit částečným nebo úplným prodejem některých závodů investorům z Číny, ale Čína neprojevila zájem. 
+          - Česko přijalo zákon, který umožňuje financovat náklady na relokaci těm ukrajinským uprchlíkům, kteří se rozhodnou vrátit zpátky do vlasti. Využít státní podporu může každý pouze jednou. Podobné opatření přijalo také Finsko. 
+          - Včerejší masivní exploze na severu Krymu byla pravděpodobně dílem ukrajinského odvetného úderu na pozice ruských systémů S-300/400, které jen pár desítek minut předtím vyslaly rakety na jižní Ukrajinu. 
+          - Ruská 810. brigáda námořní pěchoty sama potvrdila, že proti ukrajinským pozicím u Chersonu používá chemické zbraně. Informovali o tom analytici z Institute for the Study of War. 
+          - Rusko dočasně pozastavilo nálety svých stíhacích bombardérů na chersonské frontě poté, co o tři stroje předevčírem přišlo. 
+          - Italský ministr obrany prohlásil, že některých cílů není možné dosáhnou vojensky a je třeba otevřít diplomatická jednání. 
+          - Podle ukrajinského námořnictva odvolalo Rusko veškeré válečné lodě z Černého a Azovského moře do přístavů. 
+          - Ukrajinská PVO v noci sestřelila 14 z 15 kamikadze dronů. Jeden z dronů poškodil teplárnu u Chersonu. 
+          - Rusko v noci zasáhlo Cherson silnou dělostřeleckou a raketovou baráží. Poškozen byl místní plynovod. 
+          - Taiwan vytvoří fond, ze kterého bude pomáhat financovat náklady na ukrajinské uprchlíky v Polsku.
+          - Ruská vojska v okupovaném Podněstří zahájila neautorizované manévry.  
+          - Německu se podařilo kompletně nahradit ruský plyn norským. 
+          - Island pomůže Ukrajině v oblastech IT a odminování. 
+        videa: |
+          - [Jediný ukrajinský voják likviduje početnou přesilu, na pomoc přiletí dron ](https://twitter.com/region776/status/1738710287384302079)
+          - [Cherson](https://twitter.com/KyivIndependent/status/1738621483302211978)
+          - [Taky Cherson](https://twitter.com/EuromaidanPress/status/1738823954985292126)
+          - [ruský výpad u Marjinky](https://twitter.com/bayraktar_1love/status/1738616927168139759)
+          - [Vynulovaná ruská kolona](https://twitter.com/PStyle0ne1/status/1738639842177659340)
+          - [Blbej nápad, kluci ](https://twitter.com/sternenko/status/1738624116008108521)
+          - [34 demobilizovaných Rusů v jediném remízku](https://twitter.com/region776/status/1738627281466323371)
+          - [Na frontě](https://twitter.com/front_ukrainian/status/1738884920263463199)
+          - [Tresty v ruské armádě](https://twitter.com/PStyle0ne1/status/1738903280510525615)
+          - [Poslední záběry ruské VDV jednotky u vesničky Krynky](https://twitter.com/GloOouD/status/1738875090295488917)
+          - [Ivan Beznožka (citlivé)](https://twitter.com/worldonalert/status/1738906193995735406)
+          - [Mínus ruská útočná skupina](https://twitter.com/PStyle0ne1/status/1738851824411594906)
+          - [Začistka](https://twitter.com/herooftheday10/status/1738850339707650183)
       - title: "Sobota"
         year: "23. prosince 2023"
         image: assets/img/timeline/2023-12-23.jpg
