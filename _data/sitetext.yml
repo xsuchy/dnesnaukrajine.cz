@@ -38,6 +38,49 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "25. prosince 2023"
+        image: assets/img/timeline/2023-12-25.jpg
+        desc: |
+          Rusové včera do informačního prostoru vypustili desítky fantastických zpráv o úspěších jejich letectva. Jedna tvrdila, že ruský Su-30 u Oděsy zlikvidoval celou baterii systému Patriot, jiná, že ruské stíhačky sestřelily hned šest ukrajinských F-16 (které Ukrajina pravděpodobně ještě ani nemá) nebo zničily sklad náhradních dílů pro ně, a znovu se objevily také různé variace na pravidelnou dezinformaci o zničení bunkru plného důstojníků z NATO. A tak se dalo tušit, že se stal nějaký průšvih. A taky že ano. Ukrajinské letectvo hlásí, že Rusové včera přišli hned o dva stíhací bombardéry: jeden stroj Su-34, který byl sestřelen poblíž Mariupolu, a jeden SU-30SM, který se nejspíš skutečně pokoušel zasáhnout systém Patriot poblíž Oděsy protiradarovou střelou, nicméně Patriot byl rychlejší a sestřelil ruský Suchoj během přiblížení k Oděse kdesi nad Černým mořem. Ruské pod tíhou nových informací komicky obrátily a začaly naopak tvrdit, že ruský bombardér byl nad Černým mořem sestřelen stíhačkou F-16. Obecně se tedy potvrdil dlouhodobý trend, že když Rusové píší o nějakém svém neuvěřitelném úspěchu, bývá opravdu neuvěřitelný – není dobré mu uvěřit. A teď [pár faktických informací](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0WNQgLqKpNg9DkLCTSPzUePQvda96iNP26CXv95iEkCZoK945be2Y7Y9RATQVMcFGl) pro celkový kontext: 
+        detail: |
+          - Srbsko zažívá už osmý den protivládních protestů poté, co vyšlo najevo, že parlamentní volby byly pravděpodobně zmanipulované současnou vládní stranou SNS. I mezinárodní pozorovatelé potvrzují, že volby neprobíhaly férově a otevřeně. Dav lidí se včera pokusil vniknout do budovy srbského parlamentu. 38 lidí bylo kvůli tomu policií zadrženo. Protestující volají po odstoupení stávajícího premiéra Vučiće a budoucí integraci do Evropské unie. 
+          - Mluvčí ukrajinských sil plukovník Štupun informoval, že se množí zpravodajské informace o klesající morálce v ruských řadách, zejména mezi vojáky 1. armádního sboru. Čím dál více jednotek se prý odmítá účastnit bojových akcí a množí se případy, kdy se celé útočné skupiny vzdaly.  
+          - V ruském Murmansku včera vypukl požár na nákladním ledoborci s jaderným pohonem. Hasičům se naštěstí podařilo požár uhasit dřív, než by mohl způsobit jadernou nehodu.  
+          - Čínské, Francouzské a japonské firmy vycouvaly z ruského projektu Arctic LNG-2. Důvodem jsou platné protiruské sankce, které firmám znemožňují v projektu pokračovat. 
+          - Moldavská prezidentka Sandu oznámila, že se bude ucházet o druhý mandát, a slíbila, že se pokusí dotáhnout započatou integraci do Evropské unie. 
+          - Propagandista Krasovský, který se „proslavil“ tím, že navrhoval topit ukrajinské děti, byl převezen do nemocnice s podezřením na otravu. 
+          - Moskevský soud v nepřítomnosti zatkl šéfa ukrajinské rozvědky Budanova za „organizování teroristických útoků“. 
+          - Ukrajina uvedla do služby nové námořní drony Mamaj s maximální rychlostí až 110 km/h. 
+          - Navalný se našel! Jeho tým ho objevil v jedné z vězeňských kolonií na Jamalu. 
+          - Ukrajinská PVO v noci sestřelila 28 ruských kamikadze dronů a 2 rakety. 
+          - Ukrajinské drony nejspíš zasáhly ruskou leteckou základnu v Jejsku.
+        videa: |
+          - [Zasažená ruská blindáž (citlivé!)](https://twitter.com/GirkinGirkin/status/1739147197449465904)
+          - [Jak dopadl ruský útok](https://twitter.com/region776/status/1739268753538613536)
+          - [Dva ruští vojáci zabloudili k UA pozicím a byli přivítáni olovem](https://twitter.com/herooftheday10/status/1739243707268837457)
+          - [Naštvaný ukrajinský tank](https://twitter.com/Osinttechnical/status/1739111844097196372)
+          - [Ruskou základnu navštívila ukrajinská artilerie ](https://twitter.com/region776/status/1738916362326770172)
+          - [Celá skupiny se přišla vzdát](https://twitter.com/war__online/status/1739220631571271945)
+          - [Včerejší Cherson](https://twitter.com/nexta_tv/status/1738905336025620634)
+          - [U Avdijivky](https://twitter.com/EuromaidanPress/status/1739122354200924453)
+          - [Drony pomohly odrazit útok](https://twitter.com/region776/status/1739166606893461803)
+          - [Na dobyté pozici (citlivé)](https://twitter.com/worldonalert/status/1739063753176477759)
+          - [Bezhlavě do útoku](https://twitter.com/PStyle0ne1/status/1739021228298441038)
+          - [Před útokem](https://twitter.com/EuromaidanPress/status/1738945148401209448)
+          - [Nové drony](https://twitter.com/front_ukrainian/status/1738995458607862252)
+          - [Ruští zajatci](https://twitter.com/PStyle0ne1/status/1738931784681701881)
+          - [Mlhou a sněhem](https://twitter.com/nevedimka123/status/1739159527637880900)
+          - [Ruský voják o situaci v jednotkách](https://twitter.com/wartranslated/status/1738683885968388383)
+          - [Horlivka dnes v noci](https://twitter.com/PStyle0ne1/status/1739007890134864242)
+          - [Ukrajinský nálet](https://twitter.com/front_ukrainian/status/1739256101948842077)
+          - [Ruský voják se vzdal dronu](https://twitter.com/GloOouD/status/1739234326963765618)
+          - [„Několik zraněných“ Rusů u Krynek (citlivé)](https://twitter.com/PStyle0ne1/status/1738968684167585972)
+          - [Dron versus Maxim](https://twitter.com/bayraktar_1love/status/1739215009178165280)
+          - [Trefa!](https://twitter.com/GloOouD/status/1739228796224487792)
+          - [Bradley](https://twitter.com/front_ukrainian/status/1738917237241622999)
+          - [Drony pracují](https://twitter.com/GwarWorin/status/1738970408940875927)
+          - ["Uf, je po všem, tak t-..." (velmi citlivé!)](https://twitter.com/region776/status/1739272954838732928)
       - title: "Neděle"
         year: "24. prosince 2023"
         image: assets/img/timeline/2023-12-24.jpg
