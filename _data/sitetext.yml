@@ -38,6 +38,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "26. prosince 2023"
+        image: assets/img/timeline/2023-12-26.jpg
+        desc: |
+          Včerejší noc začala poněkud překvapivě předčasným novoročním ohňostrojem. Alespoň pro Rusy v okupovaném přístavním městě Feodesia. Ukrajinské rakety tu zasáhly Novočerkassk, další ruskou vyloďovací válečnou loď třídy Ropucha. Přístavem po zásahu otřásla mohutná exploze a také série menších sekundárních explozí, pravděpodobně proto, že loď nesla velký náklad munice. Dokonce se spekuluje, že loď měla plavit náklad kamikadze dronů typu Šáhid. Podle ukrajinského letectva je loď zničena daleko za možnosti opravy. Ruské kanály zatím úplně mlčí. Takže nejspíš je. Nicméně děje se toho víc. Třeba [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02BSxRwUNdSETiyvtd73mGuJvGu9Mk67CbJRHsdCJGtZVhZ14FFoAoWU5t2AzhoWGRl): 
+        detail: |
+          - Šojgu na briefingu oznámil úplné obsazení ruin Marjinky. Bojuje se prakticky jen na malém kousku předměstí na severozápadě města. Rusové okamžitě po obsazení ruin začali dělat pomocí dělostřelectva ruiny i ze sousední Novomychajlivky. Toto je totiž jediná taktika, pomocí které Rusko dokáže za celé dva roky jakž takž postupovat: rozbombardovat opěrné body a celá města na cucky a pak vítězoslavně vstoupit do jejich ruin s ruskou vlajkou. Jen Rusové tomu teda říkají „osvobozování“. 
+          - Německo poprvé od druhé světové války bude mít stálou základnu mimo německé území. Dohodlo se totiž s Litvou, že vyšle svoje vojáky do Pobaltí, kde budou působit jako odstrašující síla pro případnou ruskou agresi. 
+          - Zelenský ve včerejším televizním apelu promluvil k ruským pilotům. Ruští piloti se podle něj musí rozhodnout, jestli chtějí pokračovat v náletech, protože ukrajinská protivzdušná obrana už bude jen silnější. 
+          - Ukrajina připravuje nový zákon o všeobecné mobilizaci. Týkat se bude všech mužů starších 25 let. Cílem mobilizace je v krátké době zvýšit stav aktivních vojsk zhruba o dalších 500-600 tisíc lidí. 
+          - Na ruských kanálech se šíří fotka, která má dokazovat zničení ukrajinské F-16 na letišti v Oděse. Ve skutečnosti jde o belgickou stíhačku, která v roce 2018 shořela na letišti ve Florennes. 
+          - Velitel ukrajinské 42. samostatné mechanizované brigády oznámil, že Rusové začali používat slzný a jedovatý plyn proti ukrajinským pozicím také u Bachmutu. 
+          - Po incidentech z posledních dní přestalo ruské letectvo vysílat svoje stíhačky nad Chersonskou oblast a také do mariupolského sektoru. 
+          - Ukrajinský Červený kříž oznámil, že Rusko v posledních pěti dnech cíleně zasáhlo a zničilo už třetí sklad humanitární pomoci v Chersonu. 
+          - První skupina ukrajinských pilotů v Británii dokončila základní výcvik a přesouvá se do Dánska k ostrému výcviku na strojích F-16. 
+          - Rusové se pokouší prolomit ukrajinské pozice v okolí Bachmutu a postoupit k Ivanivskému. 
+          - Ukrajinská PVO v noci zničila 13 z celkem 19 ruských kamikadze dronů typu Šáhid. 
+          - Lotyšsko předalo Ukrajině 271 aut zabavených řidičům, kteří řídili v opilosti. 
+        videa: |
+          - [Rusko neopouští sv-… ah](https://twitter.com/auto_glam/status/1739360126169923975)
+          - [Ohňostroj ve Feodesii](https://twitter.com/PStyle0ne1/status/1739523843411030332)
+          - [Jiný úhel, stejný uhel ](https://twitter.com/visegrad24/status/1739468053539405897)
+          - [O fous!](https://twitter.com/Bodbe6/status/1739404581954523606)
+          - [Double tap (citlivé)](https://twitter.com/region776/status/1739498031106629910)
+          - [Ukončený ruský šturm ](https://twitter.com/NOELreports/status/1739575062095634522)
+          - [O moc níž už to nejde](https://twitter.com/EuromaidanPress/status/1739441883196105136)
+          - [Kazety](https://twitter.com/golub/status/1739341416256438310)
+          - [Bradley](https://twitter.com/TheDeadDistrict/status/1739573911916831076)
+          - [Marjinka](https://twitter.com/NOELreports/status/1739319611827318931)
+          - [Novomychajlivka, budoucí Marjinka](https://twitter.com/NOELreports/status/1739319279684599997)
+          - [Čištění bojiště pomocí dronu](https://twitter.com/PStyle0ne1/status/1739287108416602594)
+          - [Trefa!](https://twitter.com/herooftheday10/status/1739395414183272586)
+          - [Po dalším ruském útoku (citlivé)](https://twitter.com/region776/status/1739569487081599144)
+          - [Gvozdika a M777](https://twitter.com/Bodbe6/status/1739451574789751204)
+          - [1 bod za snahu (velmi citlivé!)](https://twitter.com/GwarWorin/status/1739415324422815838)
+          - [Ruský voják si chtěl koupit milost (velmi, velmi citlivé!!)](https://twitter.com/LaraLar93023545/status/1739379846403248142)
+          - [Ruské ztráty](https://twitter.com/worldonalert/status/1739355693965021349)
+          - [Budíček (velmi citlivé!)](https://twitter.com/worldonalert/status/1739328823445909771)
+          - [Mínus deset](https://twitter.com/herooftheday10/status/1739326702029783257)
       - title: "Pondělí"
         year: "25. prosince 2023"
         image: assets/img/timeline/2023-12-25.jpg
