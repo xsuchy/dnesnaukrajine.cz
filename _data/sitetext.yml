@@ -38,6 +38,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "30. prosince 2023"
+        image: assets/img/timeline/2023-12-30.jpg
+        desc: |
+          Ukrajina nad ránem sundala rukavičky a podnikla velký útok pomocí raket a dronů na Bělgorod i další oblasti. Rusko tvrdí, že sestřelilo celkem 32 dronů na Brjanskou, Orolskou, Kurskou a Moskevskou oblastí. O Bělgorodu na oficiálních kanálech zatím ani zmínka, vojenští blogeři nicméně mluví o „fantastické práci PVO, která všechny rakety sestřelila“. Jisté je, že jeden z cílů útoku, továrna Kremnij v Brjansku, byla zasažena dokonce opakovaně. Až 90 % produkce zmíněné továrny tvoří elektronika a další systémy pro ruský vojenský průmysl, zejména pro balistické střely, jako jsou Iskandery, nebo komponenty pro ruskou protivzdušnou obranu. Rusko také tvrdí, že při útoku na Bělgorod zahynulo 5 lidí a 44 bylo zraněno. Nejméně v jednom případě přitom lidé padli za oběť raketě z ruské protivzdušné obrany, která krátce po startu selhala. Na ruském Telegramu také kolovala informace, že mělo být město zasaženo palbou z Gradů, což by ovšem znamenalo, že by ho musela ostřelovat sama ruská armáda, protože nejbližší ukrajinské pozice jsou mimo dostřel takových systémů. Spíše tedy šlo o kachnu. V [dalších informacích](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0TQBqhsawDJ3DsCn48Hu5KBXnVGNgebBmBrPCP8PVHor3KUT7ME1owL1CHWAhFps5l) už ale žádné vodní ptactvo nehledejte: 
+        detail: |
+          - Rusko v OSN obvinilo Ukrajinu, že umisťuje systémy protivzdušné obrany do obydlených oblastí, čímž prý porušuje mezinárodní právo. Ještě jednou: podle Ruska je umístění OBRANY před ruskými raketami válečný zločin. Samozřejmě není. A nejenom proto, že Rusko civilní oblasti cíleně ostřeluje. Každopádně vzpomínáte si ještě na snímky ruské protivzdušné obrany na střechách úřadů v Moskvě? Tolik k ruským lžím a pokrytectví. 
+          - Polsko předalo Rusku protestní nótu a žádá vysvětlení incidentu, během kterého měl do polského vzdušného prostoru proniknout ruská raketa. Rusko odpovědělo, že chce nejprve důkazy, že se to skutečně stalo, než bude cokoliv vysvětlovat. 
+          - Podle britského ministerstva obrany ztratí do konce roku 2025 Rusko 500 000 vojáků, pokud udrží současné tempo ztrát, a zároveň bude potřebovat nejméně 10 let, aby doplnilo stavy a dostatečně vycvičilo nové brance. 
+          - Biden se ve světle masivního ruského raketového útoku obrátil na americký kongres, aby obě strany překonaly svoje spory a co nejdříve schválily pomoc Ukrajině. Počet obětí útoku mezitím vyšplhal na 36. 
+          - Na den přesně před rokem zastřelili Rusové zajatce Olexandra Macijevského, který se díky zvolání „Sláva Ukrajině“ těsně před smrtí stal symbolem odporu. 
+          - Premiér Šmyhal oznámil, že Ukrajina bude potřebovat nejméně 37 miliard dolarů externího financování v roce 2024, aby udržela stát v chodu.
+          - Cherson byl v noci na dnešek pod silnou dělostřeleckou palbou a útokem kamikadze dronů. Drony těžce poškodily jednu z administrativních budov. 
+          - Projekt Mediazona už potvrdil totožnost nejméně 40 000 padlých ruských vojáků. 
+          - Británie posílá Ukrajině zásilku 200 raket pro systémy PVO. 
+        videa: |
+          - [Ukrajinský člun na Dněpru pod těžkou palbou](https://twitter.com/nexta_tv/status/1741062958199808322)
+          - [Bělgorod](https://twitter.com/region776/status/1741099590508826988)
+          - [Bělgorod 2](https://twitter.com/nexta_tv/status/1741090526693036260)
+          - [Bělgorod 3](https://twitter.com/saintjavelin/status/1740859059686068357)
+          - [Bělgorod 4](https://twitter.com/nexta_tv/status/1741077280057594274)
+          - [Bělgorod 5](https://twitter.com/region776/status/1741102739554537968)
+          - [Bradley](https://twitter.com/front_ukrainian/status/1740997069039452538)
+          - [Mínus ruská útočná skupina](https://twitter.com/PStyle0ne1/status/1741057882932535645)
+          - [Krásná trefa](https://twitter.com/666_mancer/status/1741033337920331805)
+          - [Trefa!](https://twitter.com/region776/status/1741061640819519894)
+          - [HIMARS pracuje](https://twitter.com/PStyle0ne1/status/1741058434881962322)
+          - [Nový obojživelňák](https://twitter.com/TheDeadDistrict/status/1741081972217204997)
+          - [Sebe-denacifikace (citlivé!)](https://twitter.com/GloOouD/status/1741076992357781761)
+          - [Výcvik 3. šturmové](https://twitter.com/region776/status/1741063953579643049)
+          - [Bradley na frontě](https://twitter.com/front_ukrainian/status/1741049919891218724)
+          - [Touchdown](https://twitter.com/GloOouD/status/1741106138005819705)
+          - [Ukrajinský tank, ruské pozice](https://twitter.com/region776/status/1741107601839194298)
       - title: "Pátek"
         year: "29. prosince 2023"
         image: assets/img/timeline/2023-12-29.jpg
