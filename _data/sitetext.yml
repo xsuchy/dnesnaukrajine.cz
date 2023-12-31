@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "31. prosince 2023"
+        image: assets/img/timeline/2023-12-31.jpg
+        desc: |
+          Dnešní úvodník bude trochu osobní. V týdnu u mě totiž strávila dvě noci couchsurferka z Kyjeva, a jeden večer jsme společně vyrazili na pivo přes nedaleký park. Během toho několikrát v dálce bouchla nějaká petarda a ona z toho byla viditelně nesvá, pořád se ptala, co to je, a pak otevřeně přiznala, že ji už kvůli neustálým náletům na Kyjev podobné hlasité zvuky frustrují. A takových lidí je v Česku nyní potenciálně mezi čtvrt a půl milionem. Myslete na to prosím, dnes večer. Začátek nového roku jde oslavit všemožnými způsoby. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02wUWYiu4fT6eV6bBs2WbwkhpAKVZwEMrM2sypAuTDaom274FzQz7ZyZr71aUe411Ul): 
+        detail: |
+          - Polsko hlásí, že na svém území nenašlo žádné trosky rakety. Ruská raketa, která vzdušný prostor při nedávném útoku narušila, tedy pokračovala dál po své trajektorii, nejspíš na Lvov, který byl ten den zasažen. Podle předběžných analýz to vypadá, že Rusko nechalo svou raketu udělat „smyčku“ kolem Lvova, aby zmátlo ukrajinskou PVO, a to i za cenu toho, že raketa provedla oblouk přes polské území. 
+          - Několik ukrajinských oblastí bylo i dnes pod útokem ruských raket a dronů. Dopady hlásí Charkov, Krivyj Rih, ale hlavně města podél frontové linie, což není úplně obvyklé. Ukrajinská PVO tentokrát dokázala zastavit jen necelou polovinu z vyslaných dronů, konkrétně 21 ze 49. Rakety, které zasáhly Charkov, startovaly už tradičně z Bělgorodu, nejspíš z instalací, které se Ukrajina včera pokusila zničit. 
+          - Lipavský vyslal Rusku jasný vzkaz v reakci na vyžádanou přítomnost Česka na zasedání Rady bezpečnosti. Rusku sdělil, že Česko nebude chodit nikam, kam ho Rusové budou předvolávat vyjma chvíle, kdy Rusko bude chtít diskutovat o stažení svých vojsk z Ukrajiny. 
+          - Podle aktuálních informací bylo při ukrajinském útoku na ruské instalace použito zhruba 70 dronů. Rusko oznámilo, že sestřelilo 32, zbylých 38 tedy mohlo zasáhnout své cíle. A podle ukrajinské rozvědky jsou škody skutečně značné. 
+          - Letošní rok končí na bojišti remízou. Ukrajině se podařilo osvobodit 523 km2 území, zatímco Rusko jiných 587 km2 obsadilo. 
+          - Ukrajinská 3. šturmová brigáda zveřejnila portréty členů, kteří letos padli v boji. Celkem jde o 173 vojáků. 
+          - Ukrajina popřela ruská tvrzení, že při ostřelování Charkova zemřeli důstojníci ukrajinské rozvědky. 
+          - Rusko už na Ukrajinu vyslalo cca 3 800 kamikadze dronů. Přibližně 3 000 bylo sestřeleno. 
+          - Rusko začalo se stavbou námořní základny v Abcházii, v okupované části Gruzie. 
+          - Rusko zařadilo Ruský dobrovolnický sbor na seznam teroristických organizací. 
+          - Ukrajinská PVO už sestřelila 15 raket Kinžál.
+        videa: |
+          - [Krynky](https://twitter.com/PStyle0ne1/status/1741422526092165547)
+          - [Fotbalista](https://twitter.com/GloOouD/status/1741480872442740883)
+          - [Kupředu](https://twitter.com/PStyle0ne1/status/1741364079707533438)
+          - [Neschovali se](https://twitter.com/region776/status/1741431621247754647)
+          - [Mobilizovaní si už zase stěžují](https://twitter.com/PStyle0ne1/status/1741237610293375084)
+          - [Mínus tři ](https://twitter.com/Tendar/status/1741421151140606276)
+          - [Mínus výbava](https://twitter.com/NOELreports/status/1741457582529691979)
+          - [Mínus dron, puškou](https://twitter.com/PStyle0ne1/status/1741213146797203617)
+          - [Zajímání Rusů](https://twitter.com/small10space/status/1741425425178407080)
+          - [Trefa!](https://twitter.com/GloOouD/status/1741387114976072111)
+          - [Zasažený cíl v Bělgorodu](https://twitter.com/PStyle0ne1/status/1741181602623795579)
+          - [Na frontu](https://twitter.com/front_ukrainian/status/1741381358629384674)
+          - [Bradley](https://twitter.com/Tendar/status/1741415216527687719)
+          - [Sranda musí být](https://twitter.com/PStyle0ne1/status/1741168995774959962)
+          - [Polské dělo, indická munice](https://twitter.com/front_ukrainian/status/1741407306854662558)
+          - [Zasažený cíl ukrajinskými drony](https://twitter.com/PStyle0ne1/status/1741129171164619101)
+          - [Rus natočil trefu dronem ](https://twitter.com/NOELreports/status/1741456169028239387)
+          - [Táborák (citlivé)](https://twitter.com/nevedimka123/status/1741438609742250164)
+          - [Ruský zákop (citlivé)](https://twitter.com/region776/status/1741503358068986266)
       - title: "Sobota"
         year: "30. prosince 2023"
         image: assets/img/timeline/2023-12-30.jpg
