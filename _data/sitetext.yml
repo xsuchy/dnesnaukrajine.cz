@@ -38,6 +38,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "1. ledna 2024"
+        image: assets/img/timeline/2024-01-01.jpg
+        desc: |
+          Zatímco po celém světě bouchaly ohňostroje, nad Ukrajinou explodovaly sestřelené ruské drony. V první salvě v novém roce jich Rusko vyslalo hned 90 a ukrajinské PVO se tentokrát podařilo valnou většinu, konkrétně 87, zničit ještě před dopadem na cíl. V Oděse bylo nicméně i tak zasaženo několik civilních budov včetně rezidenční výškové budovy a v jedné z nich zahynul 15letý kluk. Ve Lvově jeden z dronů zničil budovu muzea Romana Šuchevyče a také hlavní budovu Lvovské národní zemědělské univerzity. Snad alespoň váš Nový rok začal poklidně. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02QkJzAoBdE2nAaXHJzhUMzwVVzXKe2NVTgXoP8zNozFpe4dXa3VJn5vrw7jd8CVL2l): 
+        detail: |
+          - Rusko už několik měsíců neprojevuje zájem o své zajaté vojáky a nereaguje na nabídky k výměně zajatců, ukrajinským zajatcům ale tvrdí, že to je naopak Ukrajina, kdo výměny blokuje. Informovala o tom kancelář ukrajinského ombudsmana. Rusové pak prý nechávají zajatce volat rodinám a přemlouvat příbuzné, aby doma vyvolávali nepokoje, případně posílali fotky ukrajinské vojenské infrastruktury výměnou za příslib svobody. 
+          - Pravděpodobně ukrajinská palba zasáhla hotel Palác Donbas v Doněcku, kde oslavovali nový rok ruští a doněčtí propagandisti. Nejméně 4 zemřeli a další byli raněni. První záběry z místa těsně po útoku přinesla ruská prostitutka, která v době útoku dělala propagandistům „společnost“. 
+          - Putin se nechal natočit, jak slaví nový rok přípitkem se zástupci armády. Jako vždy šlo ale o členy FSB, kteří mu hrají jednou hasiče, jindy rybáře, pak zase nadšené obyvatele měst. Přesto všechno měl Putin na sobě viditelně neprůstřelnou vestu. 
+          - Čínský „prezident“ oznámil v novoročním projevu, že Čína a Taiwan budou sjednoceny. O důvod víc, proč Ukrajina musí zvítězit. Výhra Ruska a laxnost Západu motivuje další diktátory a agresory k podobným dobrodružstvím. 
+          - Na sítích se objevilo video pořízené ukrajinským námořním dronem během útoku na Sevastopol. Vyplývá z něj, že nové ukrajinské drony Sea Baby jsou schopné pálit rakety (Zuni nebo podobný typ).  
+          - Syn plukovníka Nikolaje Varpachoviče, který je jakožto velitel 22. divize těžkých bombardérů zodpovědný za raketové útoky na Ukrajinu, se zastřelil na výcvikové základně v Rjazani.
+          - Putin ve svém novoročním projevu překvapivě vůbec nezmínil Ukrajinu ani „speciální vojenskou operaci“. Řekl jen vágní frázi, že „Rusko nebude nikam ustupovat“. 
+          - Bezpečností rada OSN vyzvala obě strany současného konfliktu, aby přestaly pálit na civilní oblasti. Jinými slovy se projevila jako zbytečná, jak už je zvykem. 
+          - Ukrajinská rozvědka na Nový rok publikovala fotku hořícího Krymského mostu s titulkem „To be continued…“. 
+          - Ukrajinci v roce 2023 darovali armádě okolo 720 miliónů dolarů z vlastních úspor. 
+          - Ukrajinští hackeři vyřadili z provozu ruský platební systém Evotor. 
+          - Rusko letos exportovalo nejméně zemního plynu od roku 1985. 
+          - Ukrajina je aktuálně pod raketovým útokem.
+        videa: |
+          - [Ukrajinské námořní drony… teď střílí rakety??](https://twitter.com/Tendar/status/1741785510119424360)
+          - [Doněck, hotel Palác Donbas](https://twitter.com/cryogenicbreez/status/1741589797037092930)
+          - [Trefa](https://twitter.com/region776/status/1741778199225442560)
+          - [PVO v akci ](https://twitter.com/NOELreports/status/1741777048975126757)
+          - [Oděsa dnes v noci](https://twitter.com/SlavaUk30722777/status/1741610399492133270)
+          - [Rus natočil útok ukrajinského tanku](https://twitter.com/PStyle0ne1/status/1741505953529319709)
+          - [Mínus ruská útočná grupa](https://twitter.com/PStyle0ne1/status/1741735963733250296)
+          - [Mínus Buk](https://twitter.com/Tendar/status/1741770416123789313)
+          - [Dron se submunicí ](https://twitter.com/TheDeadDistrict/status/1741763078977376354)
+          - [Kurďumivka](https://twitter.com/region776/status/1741761650259374136)
+          - [Mínus tank](https://twitter.com/parrot_reborn/status/1741754010342760658)
+          - [V Moskvě hoří sklad paliva](https://twitter.com/PStyle0ne1/status/1741600195408752819)
+          - [Kulometčík na frontě](https://twitter.com/TheDeadDistrict/status/1741518081220915528)
+          - [Ukrajinské BMP](https://twitter.com/front_ukrainian/status/1741729432916705413)
+          - [Asi ti „lehce zranění“ (citlivé!)](https://twitter.com/herooftheday10/status/1741809956377026631)
       - title: "Neděle"
         year: "31. prosince 2023"
         image: assets/img/timeline/2023-12-31.jpg
