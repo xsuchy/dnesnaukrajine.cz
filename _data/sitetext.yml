@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "2. ledna 2024"
+        image: assets/img/timeline/2024-01-02.jpg
+        desc: |
+          „Cíl útoku byl splněn. Všechna vojensko-průmyslová zařízení byla zničena,“ oznámilo ruské ministerstvo obrany po dnešním dalším masivním raketovém útoku na Ukrajinu. Cílem byl tentokrát Kyjev a Charkov. Zatím jsem nicméně nenašel ani jedinou zprávu o tom, že by byla zasažena nějaká továrna, která by se byť teoreticky mohla podílet na vojenské výrobě, zato jsou už teď plné sítě záběrů z míst, kam ruské rakety skutečně dopadly: zničené celé bloky panelových domů, autosalon, parky, zahrady domů a také poškozená civilní infrastruktura, která zásobuje Kyjev elektřinou, kvůli čemuž se více než čtvrt miliónu lidí ocitlo bez dodávek elektřiny. Nejméně 4 lidé zemřeli a 92 utrpělo různě vážná zranění. Poškozeno bylo celkem 41 civilních budov. Ukrajinská PVO zničila během útoku 72 raket, z toho 59 raket Ch-101/55, 10 raket Kinžál a 3 rakety Kalibr. Celkem ale Rusko vyslalo nejméně 99 raket, kterým předcházel útok 35 kamikadze drony pro nasycení protivzdušné obrany (všechny byly zničeny). Rusko je odporný, zbabělý, teroristický stát. Bohužel v čele západních států a mezinárodních institucí stojí ještě větší zbabělci. A tak musíme dál nečinně přihlížet podobným útokům a [číst podobné bilance a zprávy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02PC6yQdQtEQQQYKV8EJTVBT4RNx2ZDh5PCXesZieHaPZdDbPT6QQBS5Dw5nQWrBZ8l): 
+        detail: |
+          - Rusko tvrdí, že při útoku na Bělgorod zahynulo 25 lidí, z toho 5 dětí. Putin v reakci slíbil, že zintenzivní útoky na ukrajinská města. Stále nicméně není jasné, čím mělo být město zasaženo, protože ruské tvrzení o ostřelování města českými Vampýry jednoduše nedává smysl: I při použití raket s největším dostřelem by Ukrajinci museli pálit doslova z hraniční čáry, což není reálné. Na videích je navíc vidět několik typů zásahů, z nichž některé jsou s největší pravděpodobností dopady raket ruské protivzdušné obrany, což přiznali i ruští vojenští blogeři, jiné exploze jsou naopak tak drobné, že je nemohla způsobit žádná raketa, protože ta nese mnohem větší nálož. V informačním prostoru proto kolují i teorie o útoku pod falešnou vlajkou. Nejpravděpodobnější vysvětlení ale je, že na město mířily ukrajinské drony, které se ruská PVO pokusila sestřelit a v mnoha případech rakety z PVO systémů selhaly. 
+          - Jedna z raket, které Rusko vyslalo v dnešní salvě, selhala ještě na ruská straně hranic a spadla poblíž Voroněže doprostřed obce. Místní úřady tvrdí, že incident se obešel bez obětí na životech, nicméně nejméně 6 domů u místa dopadu bylo těžce poškozeno. Místní na Telegramu ale informují o tom, že bylo zabito 11 lidí, a videa z místa, ukazující rozsah poškození, by tomu napovídala. Další ruská raketa selhala u Stavropolu a dopadla do pole kousek za vesnici Novotrojtskaja. 
+          - Rusko nabízí studentům ze zemí třetího světa výhodná studentská víza, aby je nalákalo do země, a když jim víza skončí, dostanou ultimátum: buď okamžitě opustit Rusko, nebo narukovat do armády a získat povolení k pobytu nebo dokonce ruské občanství. Nepál už ostře protestoval proti tomu, aby Rusko verbovalo jeho občany do armády. 
+          - Počet obětí ruského raketového útoku na Kyjev z 29. prosince se mezitím vyšplhal na 29. Další těla našli záchranáři při odklízení sutin.
+          - Norsko umožnilo domácím zbrojovkám, aby prodávaly své zbraně a munici přímo Ukrajině, bez účasti státu. 
+          - Severní hranici Ukrajiny kromě systému opevnění chrání také více než půl milionu protitankových min. 
+          - Estonsko jako první post-sovětská země schválilo manželství stejnopohlavních párů. 
+          - Rusové se už poněkolikáté pokusili probít k Synkivce a opět utrpěli velké ztráty. 
+          - Zelenský označil izolaci Krymu od Ruska za hlavní cíl armády v roce 2024. 
+          - Nad Bělgorodem opět pracuje protivzdušná obrana. 
+          - Kanada poskytne Ukrajině další systémy NASAMS.
+        videa: |
+          - [Následky útoku (pozor, citlivé!) ](https://twitter.com/DmytroKuleba/status/1742121944026116341)
+          - [Kyjev](https://twitter.com/JayinKyiv/status/1742076000148615576)
+          - [Zasažené dealerství Tesly v Kyjevě](https://twitter.com/nexta_tv/status/1742146565093851425)
+          - [Dopad ruské rakety na obec u Voroněže](https://twitter.com/Hromadske/status/1742167774347063720)
+          - [Charkov](https://twitter.com/PStyle0ne1/status/1742090905044037770)
+          - [Charkov](https://twitter.com/ANDRU6307/status/1742132387608224040)
+          - [Sestřelená ruská raketa](https://twitter.com/nexta_tv/status/1742124343943975408)
+          - [Rusové o poměrech v armádě](https://twitter.com/PStyle0ne1/status/1741838161259446590)
+          - [Zasažený autosalon](https://twitter.com/EuromaidanPress/status/1742146236986044561)
+          - [Místo dopadu jedné z raket](https://twitter.com/nexta_tv/status/1742123346823647256)
+          - [Na každém životě záleží ](https://twitter.com/hutsulka_kris/status/1742152469105238351)
+          - [Rusko teprve podruhé našlo HIMARS… a pak ho minulo](https://twitter.com/region776/status/1741853295575282048)
+          - [Zkouška šnorchlování](https://twitter.com/front_ukrainian/status/1741895430940590461)
+          - [Ruský medik na frontě](https://twitter.com/bigSAC10/status/1741982030500421729)
+          - [Práce snajpra](https://twitter.com/PStyle0ne1/status/1741958396364927334)
+          - [Neuvěřitelná trefa](https://twitter.com/region776/status/1742152217082413285)
+          - [Počítání ztrát, Kupjansk](https://twitter.com/GloOouD/status/1741927579123101795)
+          - [Archer](https://twitter.com/front_ukrainian/status/1742119911793566086)
+          - [Mínus Buk](https://twitter.com/region776/status/1742097231484985495)
       - title: "Pondělí"
         year: "1. ledna 2024"
         image: assets/img/timeline/2024-01-01.jpg
