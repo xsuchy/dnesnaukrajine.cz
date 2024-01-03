@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "3. ledna 2024"
+        image: assets/img/timeline/2024-01-03.jpg
+        desc: |
+          Cenu raket a dronů použitých během masivního ruského raketové útoku na Kyjev a Charkov odhaduje magazín Forbes na 620 000 000 dolarů, tedy přibližně 14 miliard korun. Bavíme se přitom o zemi, kde mediánová mzda dosahuje v přepočtu na naše zhruba 11 000 Kč, polovina obyvatel Ruska tedy nebere ani tolik. Navíc dvě třetiny země nemají záchod uvnitř domu a pětina Rusů dokonce nemá ani vlastní tekoucí vodu. Napadá vás, jak by se takových 14 miliard dalo utratit lépe? Putina evidentně ne a nejméně dvě třetiny Rusů, kteří ho volí, taktéž nikoliv. Tak radši pojďme na [další aktuality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0LnCzNhmx6rzmuVJBucDfVKpinfeYerNF3yi8FCq8jfL44orK7nRsJ4fa8g9Loq6Wl):
+        detail: |
+          - Bezpečnostní analytik Jan Kallberg správně upozornil, že poskytnutí moderních systémů PVO je nejen morálně správné, ale také je to dobrá investice. S každou sestřelenou hypersonickou raketou nebo sestřeleným letadlem se totiž zlepšují algoritmy systémů, a tím se v čase zvedá jejich efektivita, což je něco, co nejde dostatečně simulovat v „mírovém režimu“ nebo při intervencích proti teroristickým skupinám, ale jen při bojovém nasazení proti technologicky vyspělému protivníkovi. 
+          - Podle Ruska byl při útoku na Kyjev zničen osmi raketami Kinžál systém Patriot, sklad raket ATACMS, 1 000 raket pro systémy IRIS-T a NASAMS a měl být zasažen také velitelský post, kde prý zahynulo 9 generálů včetně blíže nejmenovaného zástupce generála Zálužného. Píšu to jen pro připomenutí toho, proč už obvykle nevyužívám ruské zdroje. 
+          - Turecko nedovolilo proplout Bosporskou úžinou dvěma britským minolovkám, které Británie vyslala na pomoc s odminováním obilného koridoru. Vymluvilo se na mezinárodní smlouvy. Turecku by se slušelo připomenout, že jedna z mezinárodních smluv, které se účastní, je transatlantická smlouva o společné obraně – NATO. 
+          - Podle analytiků z ISW Putin skutečně vnímá konflikt s Ukrajinou jako válku mezi Ruskem a Západem. Jeho hlavní strategií ale není porazit Ukrajinu a přeneseně i Západ na bojišti, ale přesvědčit Západ, aby vůbec nebojoval – tedy aby Ukrajinu zradil a opustil. 
+          - Polský ministr zahraničí volá po mnohem ráznější odpovědi Západu na poslední útoky Ruska na ukrajinská města. Podle něj je třeba Ukrajině poskytnout zbraně s dlouhým doletem, které dokážou zasáhnout místa, odkud Rusko útoky vede a plánuje. 
+          - Jedním z cílů ruského raketového útoku na Kyjev byla i vojenská nemocnice, kde se zotavují desítky vojáků, kteří utrpěli na frontě těžká zranění. Ruská raketa na ni skutečně dopadla, ale díky závadě naštěstí neexplodovala. 
+          - Putinova strana Jednotné Rusko vytváří vlastní soukromou armáda „Hispaňola“. První zájemci už prochází náborem. Oficiálně je přitom existence soukromých armád v Rusku zákonem stále zakázaná. 
+          - Ukrajinská SBU vyřadila z provozu několik policejních kamer v Kyjevě, které se Rusům podařilo hacknout a pozorovat skrze ně pohyb vojenské techniky přes město. 
+          - Rusové v noci opět ostřelovali Charkov. Co bylo cílem tentokrát, není ze zpráv zřejmé, ale i tentokrát bylo poničeno několik budov včetně budovy školy a školky. 
+          - Ukrajinský premiér Šmyhal oznámil, že Ukrajina letos navýší vojenskou výrobu na šestinásobek loňského objemu. 
+          - Část ruské Kurské oblasti včetně celého Kursku se dnes následkem útoku dronů ocitla bez dodávek proudu. 
+          - EU přidala na sankční seznam společnost Alrosa, největšího ruského producenta diamantů. 
+          - V ruské dělostřelecké palbě na Cherson dnes zahynula ukrajinská seniorka. 
+          - Nad Bělgorodem i dnes v noci pracovala ruská PVO. 
+          - Dodávky proudu do Kyjeva byly plně obnoveny. 
+        videa: |
+          - [HIMARS našel kontrolní stanoviště dronů](https://twitter.com/region776/status/1742521813849301394)
+          - [Polský a ruský šachista](https://twitter.com/nexta_tv/status/1742488198129893795)
+          - [Zbytek ruské rakety od PVO v bytě v Bělgorodě](https://twitter.com/Maks_NAFO_FELLA/status/1742281364420870564)
+          - [Mínus těžký minomet](https://twitter.com/Tendar/status/1742257675495149719)
+          - [Mínus moderní radar](https://twitter.com/bayraktar_1love/status/1742217579303772338)
+          - [Trefa!](https://twitter.com/PStyle0ne1/status/1742486920590926215)
+          - [Prohlídka Leopardu ukončena](https://twitter.com/bayraktar_1love/status/1742496416189010063)
+          - [Bombardování sladkostmi](https://twitter.com/PStyle0ne1/status/1742481220108181854)
+          - [Dronu neutečeš](https://twitter.com/herooftheday10/status/1742533795935338531)
+          - [Bradley maká](https://twitter.com/GloOouD/status/1742533188528816312)
+          - [Čištění](https://twitter.com/PStyle0ne1/status/1742463546586284526)
+          - [Azov dobyl ruskou pozici](https://twitter.com/GloOouD/status/1742290347252764944)
+          - [Mínus Zala](https://twitter.com/bayraktar_1love/status/1742235495071904230)
+          - [Ruský snajpr](https://twitter.com/PStyle0ne1/status/1742273309197074522)
+          - [To neklaplo (citlivé!)](https://twitter.com/region776/status/1742556919322091715)
       - title: "Úterý"
         year: "2. ledna 2024"
         image: assets/img/timeline/2024-01-02.jpg
