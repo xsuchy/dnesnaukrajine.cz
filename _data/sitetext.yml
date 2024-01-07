@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "7. ledna 2024"
+        image: assets/img/timeline/2024-01-07.jpg
+        desc: |
+          Timothy Snyder varuje, že Západ, a speciálně Spojené státy, aktuálně působí jako vůbec nejslabší od druhé světové války a že predátoři v podobě různých diktatur a teroristů, cítí svoji historickou šanci. Čína zesiluje rétoriku vůči Taiwanu. Severní Korea začala ostřelovat hranice s Jižní Koreou. Írán, Jemen a jejich partnerské organizace na Blízkém východě si brousí zuby na Izrael a ovládnutí Rudého moře. Venezuela chce anektovat kus sousední Guyany… a všichni spolupracují s Ruskem. Podle Snydera je nejspíš důvodem to, že demokratické státy se příliš starají o vlastní image a nechtějí být vnímáni jako agresivní nebo příliš autoritativní. V důsledku to ale může znamenat, že problémy, které politici odmítají řešit nyní, se brzy vrátí jako bumerang a budou ještě větší. I další analytici mluví o tzv. „Pearl Harbour effect“, kdy nerozhodnost a pasivita demokratického světa nakonec povede k tomu, že bude do války vtáhnout, ať chce nebo nechce, protože válka jednoduše přijde za ním. Stále ale doufám, že Západ se včas vzpamatuje. A teď [pár aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02LD7o6FPaa79UYneDhn5q7V3N7sEYAXpomHqfVpJ62aCh59Vten4siPZWKz8pRp6Al): 
+        detail: |
+          - Rusko údajně plánují v okupované Luhanské oblasti vznik „muzeí Speciální vojenské operace“, které by vystavovaly ruskou techniku a oslavovaly vybrané kolaboranty, aby podpořily mýtus široké podpory pro ruskou invazi mezi východoukrajinskou populací. 
+          - Rusové podnikli velký raketový útok na Pokrovsk pomocí raket S-300. Zasažena byla civilní zástavba tvořená převážně rodinnými domky. Počet obětí se už vyšplhal na 11 včetně 5 dětí. Nejméně dalších osm lidí bylo zraněno. 
+          - Ukrajinci raketovým útokem zasáhli a zničili železniční most poblíž Mariupolu na nově budované železniční trase, kterou chce Rusko v budoucnu využívat pro zásobování fronty. 
+          - Dánsko připravuje další balík pomoci pro Ukrajinu v hodnotě až 1,8 miliardy dolarů. Měl by krom jiného obsahovat také tanky, drony a různé typy munice. 
+          - Patriarcha Kirill popřál Orbánovi k pravoslavným Vánocům. Pravděpodobně proto, že díky Orbánově Maďarsku není stále Kirill na sankčním seznamu EU. 
+          - Všech 230 ukrajinských vojáků a civilistů, kteří se při nedávné výměně zajatců vrátili domů, shodně vypovědělo, že byli v zajetí Rusy vystaveni mučení. 
+          - Japonská ministryně zahraničí dorazila do Kyjeva na státní návštěvu. Japonsko také přislíbilo Ukrajině 37 miliónů dolarů na nákup dronů. 
+          - Satelitní snímky potvrzují, že Ukrajinci zasáhli a zničili velitelský post a radarovou stanici v okupovaném Saki na Krymu. 
+          - Británie investovala stamilióny liber do vlastní produkce obohaceného uranu, aby se zbavila závislosti na Rusku. 
+          - Spojené státy varovaly, že jim brzy dojdou rakety do systémů Patriot, které by mohly poskytnout Ukrajině. 
+          - Ukrajinské kanály hlásí, že byl sestřelen ukrajinský MiG-29. Pilot údajně nepřežil. 
+        videa: |
+          - [Rusové dělají z Novomychajlivky další Marjinku](https://twitter.com/EuromaidanPress/status/1743998421567193165)
+          - [Scott Ritter a Kadyrov podruhé](https://twitter.com/francis_scarr/status/1743627014433587410)
+          - [Dron versus Pantsir](https://twitter.com/region776/status/1743705763540042122)
+          - [Nucená mobilizace na Donbasu](https://twitter.com/PStyle0ne1/status/1743987807394111844)
+          - [Rusové zasáhli ukrajinskou nemocnici](https://twitter.com/visegrad24/status/1743882945457164641)
+          - [K ukrajinským pohraničníkům připlaval po Desné ruský pontonový most](https://twitter.com/EuromaidanPress/status/1743979546976895443)
+          - [Mínus tři](https://twitter.com/region776/status/1743907049183105057)
+          - [Drony](https://twitter.com/EuromaidanPress/status/1743893982994747527)
+          - [Severokorejská munice?](https://twitter.com/Reevesity/status/1743624060737593403)
+          - [Double](https://twitter.com/PStyle0ne1/status/1743980710917029963)
+          - [Abrams na Ukrajině](https://twitter.com/GloOouD/status/1743709997584793942)
+          - [Vykouřená díra](https://twitter.com/PStyle0ne1/status/1743964320155697218)
+          - [Trefa dronem](https://twitter.com/region776/status/1743998809573904449)
+          - [Odminování](https://twitter.com/PStyle0ne1/status/1743956178223198395)
+          - [Zastavený ruský útok](https://twitter.com/region776/status/1743936820658966538)
+          - [Zničený ruský útok na Krynky](https://twitter.com/NOELreports/status/1743747085369803164)
+          - [Proč neutekl? (citlivé)](https://twitter.com/region776/status/1743866864038826033)
+          - [Noc na frontě](https://twitter.com/Bodbe6/status/1743967687112360083)
+          - [Trefa (citlivé)](https://twitter.com/region776/status/1743702615924564350)
       - title: "Sobota"
         year: "6. ledna 2024"
         image: assets/img/timeline/2024-01-06.jpg
