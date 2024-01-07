@@ -38,7 +38,7 @@ timeline:
     section: timeline
     start_align: "left"
     events:
-      - title: "Pátek"
+      - title: "Sobota"
         year: "6. ledna 2024"
         image: assets/img/timeline/2024-01-06.jpg
         desc: |
@@ -73,7 +73,7 @@ timeline:
           - [Mínus dvě Nony](https://twitter.com/TheDeadDistrict/status/1743500724917383604)
           - [Rusům zamrzly Pantsiry v blátě](https://twitter.com/front_ukrainian/status/1743557280493179355)
           - [Ruský kosmonaut](https://twitter.com/taxfreelt/status/1743327952513769921)
-      - title: "Čtvrtek"
+      - title: "Pátek"
         year: "5. ledna 2024"
         image: assets/img/timeline/2024-01-05.jpg
         desc: |
