@@ -38,6 +38,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "9. ledna 2024"
+        image: assets/img/timeline/2024-01-09.jpg
+        desc: |
+          „Všichni Němci jsou zodpovědní za zločiny Německa stejnou měrou jako jeho vůdčí představitelé. Protože to byli oni, kdo je zvolili do čela, a nezastavili svou vládu ani tehdy, když páchala zločiny proti lidskosti.“ Víte, čí jsou to slova? Pronesl je jeden ze sovětských žalobců během Norimberského procesu. Pochybuji, že by Rusové tuhle část své historie dobře znali, zejména kvůli masivní cenzuře, která klíčovou roli Ruska v rozpoutání druhé světové války tají, a tak běžný Rus ví leda, že „Rusko zvítězilo nad fašismem“, ale detaily už nejspíš znát nebude. Doufám ale, že přijde doba, kdy bude na místě tento výrok Rusům připomenout. Třeba v nějakém malebném nizozemském městě. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02DYJBW739oeniXobmL2a18Z4mmFZrTTogHS8x5NRankxZXeDYL2AURHM4F3ppK9Zkl): 
+        detail: |
+          - Kvůli narušeným dodávkám plynu a elektřiny se v některých ruských městech opakuje podobný výjev: lidé zapalují ohně v ulicích, kam se chodí společně hřát, protože v bytě mají téměř stejnou teplotu jako je venku. A teploty v Rusku v některých oblastech padly až pod -30 stupňů Celsia. 
+          - Bývalý šéf americké CIA David Petraeus varoval, že pokud Rusko vyhraje na Ukrajině, zaútočí na Moldavsko a Balt. Podle něj stojí podpora Ukrajiny miliardy dolarů, ale je to malá cena v porovnáním s tím, co by znamenalo přelití války dál do Evropy. 
+          - Podle mluvčího severního křídla ukrajinské armády udržuje Rusko i nyní okolo 19 000 vojáků poblíž severní hranice s Ukrajinou u Černihivské a Sumské oblasti. Ukrajinská armáda ale nepozoruje, že by z nich Rusko tvořilo jakékoliv útočné formace. 
+          - Maďarsko představilo další podmínku pro odblokování pomoci Ukrajině. Chce mít možnost každý rok revidovat poskytovanou pomoc, tedy i možnost pomoc kdykoliv v budoucnu opět zablokovat. 
+          - Jake Sullivan uspořádal pět hodin dlouhou schůzku, kde se setkali členové Národní bezpečnostní rady se zástupci firem z oblasti vojenských technologií a diskutovali budoucí pomoc Ukrajině.
+          - Skupina hackerů napojená na ukrajinskou rozvědku se vlámala do systémů ruského poskytovatele internetu M9com a zničila jeho servery včetně přibližně 20 TB dat. 
+          - Americký Kongres připravuje dohodu o nové imigrační politice, díky které by mohlo dojít také k odblokování pomoci Ukrajině. 
+          - Ruská propaganda v Petrohradu šíří pohádku o tom, že Finové kvůli vysoké inflaci musí šetřit toaletním papírem. 
+          - Německý kancléř Scholz apeloval na evropské státy, aby navýšily objem pomoci pro Ukrajinu. 
+          - Na tavrijském úseku fronty zajali Ukrajinci tři desítky Rusů během posledních tří dní.
+          - Švédsko vyšle vojenský kontingent do Lotyška pro odstrašení případné ruské agrese. 
+          - Rusové po obsazení ruin Marjinky podnikají další výpady směrem na západ. 
+          - Partyzáni vyhodili do povětří železnici v ruském Sverdlovském regionu. 
+          - Španělsko posílá Ukrajině dvě obrněná evakuační vozidla. 
+          - Ukrajinci zasáhli sklad paliv u ruského Orjolu. 
+        videa: |
+          - [Sakra dobrá trefa dronem!](https://twitter.com/GirkinGirkin/status/1744352389031665976)
+          - [Mínus TOS-1A](https://twitter.com/PStyle0ne1/status/1744691092686037327)
+          - [Další „vojenský cíl“?](https://twitter.com/EuromaidanPress/status/1744456143844319456)
+          - [Mínus další TOS](https://twitter.com/PStyle0ne1/status/1744669944845910107)
+          - [Útok pomocí tanků](https://twitter.com/region776/status/1744610440259547621)
+          - [Noční lov](https://twitter.com/EuromaidanPress/status/1744350094864912541)
+          - [Na Rudém náměstí](https://twitter.com/PStyle0ne1/status/1744619796828696937)
+          - [Proč nezůstal doma? (citlivé)](https://twitter.com/GloOouD/status/1744422949707239594)
+          - [Body za snahu](https://twitter.com/region776/status/1744429293269303729)
+          - [Šturm ](https://twitter.com/PStyle0ne1/status/1744616426407706830)
+          - [Je po něm? Je… (citlivé)](https://twitter.com/region776/status/1744343381244035274)
+          - [Další se vzdal dronu](https://twitter.com/TheDeadDistrict/status/1744584462912876942)
+          - [Ruský nácek](https://twitter.com/PStyle0ne1/status/1744463195794760045)
+          - [Doražení tanku](https://twitter.com/region776/status/1744643127003197725)
+          - [Úspěšný útok](https://twitter.com/PStyle0ne1/status/1744405919402746351)
+          - [Dobrý pokus](https://twitter.com/region776/status/1744556531226693657)
+          - [Drony si je našly](https://twitter.com/NOELreports/status/1744668939886494174)
       - title: "Pondělí"
         year: "8. ledna 2024"
         image: assets/img/timeline/2024-01-08.jpg
