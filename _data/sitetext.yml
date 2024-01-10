@@ -38,6 +38,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "10. ledna 2024"
+        image: assets/img/timeline/2024-01-10.jpg
+        desc: |
+          Rusko svou invazí nechtěně dalo vzniknout desítkám novodobých ukrajinských hrdinů a prvků národní hrdosti. Ať už to byl „Kyjevský spirit/duch“ (vzdušná obrana Kyjeva), námořníci, kteří poslali „na chuj“ ruskou válečnou loď, voják, který před smrtí řekl svým katům „sláva Ukrajině“, nebo zpívající medička „Ptáček z Azovstalu“ a mnoho dalších. A na ukrajinských i ruských kanálech se nyní rodí další legenda. Už během roku Rusové několikrát informovali, že jakési dvě ukrajinské dívky otrávily pomocí „cinknuté“ vodky a jídla desítky ruských vojáků, nyní se objevují informace, že FSB se pokusila dvě podezřelé, které odpovídaly popisu, zadržet, načež vypukla přestřelka, při které dívky několik členů ruské rozvědky zabily a uprchly zatím neznámo kam. Počet obětí jejich řádění už má čítat 24 otrávených, kteří hostinu nepřežili, 11 hospitalizovaných a také 3 zabité důstojníky FSB během přestřelky. Na tomhle místě je důležité se na chvíli zastavit a zdůraznit, že není možné ověřit, zda se něco takového opravdu stalo, a ověřit to půjde jen, pokud se případní aktéři nebo svědkové dožijí konce války. Důležitější ale je, že legenda už žije v ruských hlavách. Že jsou agresoři na okupovaném území neustále ve stresu a podléhají paranoie. Válka se totiž nevede jen na bojišti, ale také v lidských myslích. A každá taková legenda dokáže přiblížit Ukrajinu k celkovému vítězství. Nicméně, teď už [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02hbxtpfcCDzt2oHzpJtrN6d8xjvKoN5KEjok8VtVUtXKpUVBKcQ2aYJ2Br8yzg9Evl), které se rozhodně staly: 
+        detail: |
+          - Chirurgové z nemocnice v Dnipru informovali, že počet raněných, které ošetřují narostl v posledních týdnech až o třetinu. Doktoři tak nyní operují až 100 raněných denně, přičemž značnou část prováděných operací tvoří amputace. 
+          - Britský ministr zahraničí Cameron ujistil Ukrajinu, že vojenská asistence bude pokračovat i po další roky, protože na rozdíl od Spojených států panuje na tomto tématu široká shoda napříč stranami. 
+          - V Rusku byl zatčen další americký občan pro údajné „pašování drog“. Toto obvinění bylo přitom v minulosti často Rusy zneužíváno k věznění zahraničních občanů pro politické účely. 
+          - Robert Fico zopakoval narativy ruské propagandy o vzniku konfliktu na Ukrajině a současnou strategii Západu označil za „absolutní selhání“. 
+          - Interpol zvažuje, že omezí přístup Ruska do společné databáze. Rusko by v případě takového kroku mohlo chtít organizaci úplně opustit. 
+          - Podle nedávného průzkumu vnímá většina obyvatel Ruska současnou válku s Ukrajinou jako existenční boj s celým Západem. 
+          - Při jednom z ukrajinských raketových úderů na Krym zahynul ruský plukovník Vadim Ismagilov, velitel jednotky č. 85683. 
+          - Írán začal Rusku dodávat novou generaci dronů Shahed s proudovým motorem a doletem až 1 500 km. 
+          - Italské město Modena zrušilo plánovanou akci ruských propagandistů o „obrodě Mariupolu“. 
+          - ISW konstatuje, že ruská propaganda se snaží opět rozvířit nálady v okupovaném Podněstří.
+          - Rusko udělilo státní občanství bosensko-srbskému válečnému zločinci Ratkovi Samacovi. 
+          - Finsko oznámilo, že hraniční přechody s Ruskem zůstanou zavřené i po 14. lednu. 
+          - Rusové začali v okupovaných oblastech nuceně mobilizovat také farmáře. 
+          - Kanada ani po roce stále nedodala slíbené systémy NASAMS Ukrajině. 
+          - Podle Rusů činí ztráty použité techniky v útocích na Krynky až 90 %. 
+          - Na frontě padl americký dobrovolník Seth Patrick Bryan. 
+          - Zelenský přijel na neohlášenou návštěvu do Litvy. 
+        videa: |
+          - [Neprošel ](https://twitter.com/nexta_tv/status/1745049535624159520)
+          - [Jak to vypadá na straně příjemce při útoku kazetovou municí ](https://twitter.com/TheDeadDistrict/status/1745034019253715079)
+          - [Zelenský v Litvě](https://twitter.com/nexta_tv/status/1745034038505574654)
+          - [Dopadli jak Rusové u Krynek](https://twitter.com/EuromaidanPress/status/1744860268880892267)
+          - [Trefa ATGM](https://twitter.com/PStyle0ne1/status/1744728478707306937)
+          - [Evakuace](https://twitter.com/NOELreports/status/1744998952527708463)
+          - [Další sabotáž vzdálené železnice](https://twitter.com/PStyle0ne1/status/1745047312089366695)
+          - [Nový polský premiér to řekl na plnou hubu](https://twitter.com/eeldenden/status/1734562165728686365)
+          - [Neprojel](https://twitter.com/PStyle0ne1/status/1745041070285570462)
+          - [Prostě ten telefon nedá z ruky… (velmi citlivé)](https://twitter.com/Shtirlitz53/status/1744979912069361992)
+          - [Jak jde invaze? (citlivé)](https://twitter.com/GloOouD/status/1745017113859834290)
+          - [Rus na útěku z bitvy](https://twitter.com/PStyle0ne1/status/1744726201548280274)
+          - [Drony (citlivé)](https://twitter.com/666_mancer/status/1744974448468398132)
+          - [Trefa!](https://twitter.com/TOGAjano21/status/1744786296738869688)
       - title: "Úterý"
         year: "9. ledna 2024"
         image: assets/img/timeline/2024-01-09.jpg
