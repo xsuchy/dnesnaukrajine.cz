@@ -38,6 +38,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "12. ledna 2024"
+        image: assets/img/timeline/2024-01-12.jpg
+        desc: |
+          Zelenský se vyjádřil k připravovanému návrhu zákona o mobilizaci. Prý by neměl dopadnout na občany Ukrajiny žijící v zahraničí, ale na ty, kteří opustili Ukrajinu po vyhlášení stanného práva, tedy z pohledu zákona ilegálně. Zelenský svůj pohled na věc shrnul, když řekl, že na udržení jednoho vojáka na frontě je potřeba 5-6 daňových poplatníků. „Pokud nebojujete, ale platíte na Ukrajině daně, je to v pořádku, i tak se podílíte na obraně. Pokud ale nebojujete a ani neplatíte daně, pak mám nějaké otázky,“ řekl. Jeho postoj je pochopitelný. Válka je nesmírně nákladný špás a udržet stát v chodu je aktuálně pro Ukrajinu nemožný úkol bez zahraniční pomoci. Proto je to, co dělá Orbán, když blokuje 50 miliard eur pro Ukrajina, šílená kudla do zad celému západnímu společenství, které jinak až na výjimky za Ukrajinou stojí. No a pak se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid04xQm5526KSnZacVBVbLRH2vLprbHzrSKjMhrEwVXz9Dc6LL2fge7WMb4r1VFcSqCl): 
+        detail: |
+          - A cenu za pokrytectví roku vyhrává opět Rusko! Mezinárodní koalice v čele se Spojenými státy a Británií včera podnikla sérii náletů na vojenské cíle v Jemenu patřící Húsíům, kteří s podporou Íránu začali napadat obchodní lodě v Rudém moři a ohrožovat mezinárodní obchod. Rusko dnes označilo nálety za „hrubé porušení mezinárodní práva“. 
+          - Zelenský označil za hlavní problém Ukrajiny skutečnost, že Rusko kontroluje vzdušný prostor. Pokud prý Rusko kontrolovat vzduch nebude, Ukrajina bude postupovat vpřed. Pokud bude, pak fronta zamrzne. Rusko má v současnosti iniciativu a útočí na třech frontách. Na ani jedné z nich ale zatím nedokázalo významně postoupit. 
+          - ARMZ, důlní dceřinka ruského Rosatomu, se dohodla se zástupci „DLR“ na povolení k zahájení těžba lithia v doněcké oblasti. Má to ale háček. Naleziště, o kterém jednali, se nachází u obce Ševčenko na Ukrajinou kontrolovaném území cca 30 km od současné fronty. 
+          - Investigativní reportáž deníku Komsomolská pravda tvrdí, že zranění ukrajinští vojáci jsou převáženi dál do zemí NATO, kde jsou porcováni na orgány. A ne, není to z jejich strany apríl. 
+          - Rusko začalo v Bělgorodu instalovat provizorní bombové kryty na zastávkách veřejné dopravy. Speciální vojenská operace pokračuje podle plánu. 
+          - Teploty na „horkých“ úsecích fronty klesly v noci dnešek až k -18 stupňům Celsia. Intenzita bojů se v důsledku silných mrazů zmenšila. 
+          - Rusko se v okupované části Chersonské oblasti snaží uplácet Ukrajince uhlím na topení výměnou za to, že si zřídí ruský pas. 
+          - Turecko, Rumunsko a Bulharsko podepsaly společnou dohodu o kooperaci v otázce odminovaní Černého moře.
+          - Podle ukrajinské rozvědky Rusko dokázalo zvýšit objem produkované munice, ale její kvalita jde rapidně dolů. 
+          - Britský premiér Sunak je opět v Kyjevě a při té příležitosti oznámil další velký balík vojenské pomoci.
+          - Ukrajinský protiútok vrátil pod kontrolu Ukrajinců některé dříve ztracené pozice u obce Robotyne.
+          - Ukrajina potvrdila, že rakety, které zasáhly Charkov, byly severokorejské výroby. 
+          - Polští dopravci opět plánují zablokovat přechod Medyka na hranici s Ukrajinou. 
+          - Hranice mezi Finskem a Ruskem zůstanou zavřené nejméně další měsíc. 
+          - Lotyšsko oznámilo jeden z doposud největších balíků vojenské pomoci. 
+          - V Ruském zajetí je stále 25 ukrajinských novinářů.
+        videa: |
+          - [V Kyjevě pohřbili básníka Kryvcova](https://twitter.com/KyivIndependent/status/1745558824918937818)
+          - [Mechanizovaný šturm](https://twitter.com/666_mancer/status/1745770164094660881)
+          - [Ruský voják o morálce v armádě](https://twitter.com/PStyle0ne1/status/1745750618847756729)
+          - [Americký dobrovolník na Ukrajině](https://twitter.com/front_ukrainian/status/1745468483633094850)
+          - [Krásná trefa! (citlivé)](https://twitter.com/herooftheday10/status/1745766766343569885)
+          - [Neplecha ukončena](https://twitter.com/nevedimka123/status/1745669314768777475)
+          - [Kadyrovci po zásahu dronem (citlivé)](https://twitter.com/PStyle0ne1/status/1745566672050684068)
+          - [Evakuace](https://twitter.com/GloOouD/status/1745723127869436274)
+          - [Trefa! (citlivé)](https://twitter.com/region776/status/1745464715177013553)
+          - [Mínus člun i s posádkou](https://twitter.com/front_ukrainian/status/1745548253750284785)
+          - [Tank](https://twitter.com/nevedimka123/status/1745705021193199714)
+          - [Ivan zvaný půlčík (velmi citlivé)](https://twitter.com/BanderoFashik/status/1745536317176291423)
       - title: "Čtvrtek"
         year: "11. ledna 2024"
         image: assets/img/timeline/2024-01-11.jpg
