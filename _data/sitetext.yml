@@ -38,6 +38,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "13. ledna 2024"
+        image: assets/img/timeline/2024-01-13.jpg
+        desc: |
+          Ruští propagandisti oznámili, že Putin už sesbíral 1,8 miliónu podpisů pro svou prezidentskou kandidaturu. Má to ale háček. Podle ruského volebního zákona musí kandidát na prezidenta sesbírat minimálně 300 000 podpisů, zároveň ale maximálně 7 500 v jednom regionu. Jakýkoliv kandidát tedy nemůže sesbírat víc než 630 000 podpisů (84 regionů*7 500 podpisů). I na první pohled banální informace nám proto dokáže prozradit jak „férové“ blížící se volby budou. Smutné ovšem je, že Putin by pravděpodobně vyhrál i bez volebních podvodů. A teď pár aktualit: 
+        detail: |
+          - Finský europoslanec sesbíral potřebných 120 podpisů k petici, jejíž cílem je zbavit Maďarsko hlasovacího práva v Evropské radě na základě článku 7 smlouvy o Evropské unii. Ten umožňuje omezit členskému státu Unie část práv, pokud kvalifikovaná většina v Evropské radě rozhodne, že dotčený stát ohrožuje společné hodnoty EU. 
+          - Zástupci „Podněstří“ obvinili Moldavsko, že cvičí Ukrajince, aby na území Podněstří provedli teroristické činy. Moldavsko to samozřejmě odmítlo, ale to neznamená, že se nic nechystá. Analytici totiž už dříve spekulovali, že podněsterské úřady nejspíš plánují na žádost Ruska provokace pod falešnou vlajkou. 
+          - Ruská FSB zveřejnila video ze zatýkání údajného „polského agenta“. U něj pak „našla“ americké dolary, vlajky USA , Německa a NATO, knížku o nacistických jednotkách SS a také polskou ústavu a slovník ukrajinských konverzačních frází. K dokonalosti chyběly už jen tři kopie hry Sims. 
+          - Šéf ukrajinské rozvědky Budanov v rozhovoru pro francouzský Le Monde řekl, že ani jedna ze stran konfliktu nyní nemůže vést efektivní ofenzivní operace. Důvodem je nasycení bojiště drony a také hustota minových polí.  
+          - Rusko opět vyslalo nad ránem desítky raket na ukrajinské cíle. PVO hlásí osm zlikvidovaných střel a zhruba dvě desítky dalších odvedly od cíle prostředky pro elektronický boj. 
+          - V Petrohradě hoří obří sklad ruského prodejce Wildberries (ekvivalent Amazonu). Plocha požáru čítá 70 000 m2. Předběžný odhad škody je v přepočtu 126 miliónů dolarů. 
+          - Britský premiér Sunak potvrdil objem nového balíku vojenské pomoci Ukrajině. Jeho předpokládaná hodnota činí 3,2 miliardy dolarů. 
+          - Americko-chilský bloger Gonzalo Lira podle některých zpráv zemřel na oboustranný zápal plic v ukrajinském vězení. 
+          - Ruští poslanci projednají návrh zákona, který by umožnil cizincům s kriminální minulostí sloužit v ruské armádě. 
+          - Húsíové v Rudém moři omylem pálili rakety po ruském ropném tankeru. Loď ale nezasáhli. 
+          - Už několik velkých ruských měst včetně Moskvy se potýká s problémy s vytápěním. 
+          - Export z Česka do Kazachstánu loni vyrostl o 1 200 %. Ach jo… 
+          - Nový ministr zahraničí Francie přijel na státní návštěvu Kyjeva. 
+        videa: |
+          - [Instalace krytů v Bělgorodu](https://twitter.com/nexta_tv/status/1745866510969536880)
+          - [Požár v Petrohradu](https://twitter.com/EuromaidanPress/status/1746059065589924118)
+          - [Petrohrad](https://twitter.com/TheDeadDistrict/status/1746070806193447314)
+          - [Divadlo, při kterém FSB zatkla „polského agenta“ ](https://twitter.com/nexta_tv/status/1745787262288240937)
+          - [Deset padlo, osm se vzdalo ](https://twitter.com/PStyle0ne1/status/1745883782903627856)
+          - [Bradley vyřadil ruský T-90M](https://twitter.com/EuromaidanPress/status/1746049139706577080)
+          - [Ukrajinský pozemní dron](https://twitter.com/PStyle0ne1/status/1745886829700616323)
+          - [Česká Dana](https://twitter.com/EuromaidanPress/status/1745797777836085539)
+          - [Trefa!](https://twitter.com/PStyle0ne1/status/1745934773262954710)
+          - [Petr Bezruč (citlivé!)](https://twitter.com/region776/status/1746109941616980212)
+          - [Šli a šli… až došli ](https://twitter.com/TheDeadDistrict/status/1746008595760554090)
+          - [Bradley značky Škoda](https://twitter.com/front_ukrainian/status/1746110845388480974)
+          - [Trefa za trefou ](https://twitter.com/GloOouD/status/1746106420204851497)
+          - [Počítání](https://twitter.com/Teoyaomiquu/status/1745871681824968958)
+          - [Kadyrovci ](https://twitter.com/PStyle0ne1/status/1745911351833198971)
+          - [Pokémoni](https://twitter.com/front_ukrainian/status/1745871100456718548)
+          - [Mínus 9](https://twitter.com/region776/status/1746123277255454982)
+          - [Jack Sparrow](https://twitter.com/TheDeadDistrict/status/1746084416659583460)
+          - [Šturm](https://twitter.com/PStyle0ne1/status/1745887894613438499)
+          - [Ruská základna měla rande s HIMARSem](https://twitter.com/front_ukrainian/status/1746111498840129846)
+          - [Nové ruské opevnění ](https://twitter.com/TheDeadDistrict/status/1745859468456288498)
+          - [Po ruském útoku (citlivé)](https://twitter.com/region776/status/1746007256586756451)
       - title: "Pátek"
         year: "12. ledna 2024"
         image: assets/img/timeline/2024-01-12.jpg
