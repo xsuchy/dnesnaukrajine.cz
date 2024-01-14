@@ -38,6 +38,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "14. ledna 2024"
+        image: assets/img/timeline/2024-01-14.jpg
+        desc: |
+          JevgeniJ Skripnik známý také jako “Prapor”, dlouholetý přítel Igora „Strelkova“ Girkina, uvedl v rozhovoru na kamery, že Strelkov se jako důstojník FSB věnoval přípravě války s Ukrajinou dlouho před rokem 2014, tedy i před Euromajdanem. Tzv. projekt „Novorossija“ zahrnoval mimo jiné vytvoření sítě kolaborantů, a to ještě v době před pádem prezidenta Janukovyče. Skripnik také potvrdil, že Girkin hrál zásadní roli ve vyvolání konfliktu na Donbasu. Bez Girkinovy intervence by prý k žádné válce nejspíš nedošlo. Rusko přitom tvrdí, že přišlo chránit „utlačovanou ruskojazyčnou menšinu“, kterou měla nová vláda cíleně vraždit. To je samozřejmě absurdní pohádka, nicméně Skripnikova slova potvrzují, že plán na ovládnutí Ukrajiny se zrodil mnohem dříve, než vypukly nepokoje na Majdanu. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid04tb8ygXHLvgKg9kM86zdiTpevG8AWz23Y7Nf9DBKDieEXb8BN8y2yNe2UHksiDCMl): 
+        detail: |
+          - Energosbyt, jeden z největších ruských poskytovatelů energií, který dodává elektřinu zhruba 95 % moskevské populace oznámil, že Moskvu čekají od 14. ledna do 31. března plánované odstávky elektřiny, které by „neměly přesáhnout 12 hodin denně“. Blackouty nyní zažívá také Rostov na Donu. 
+          - Analytici z ISW konstatují, že Ukrajinci nejspíš značně zlepšili své systémy pro elektronický boj. Při nedávném raketovém útoku totiž dokázala ukrajinská protivzdušná obrana zneškodnit dvě desítky ruských raket tak, že na dálku vyřadila jejich naváděcí systémy. 
+          - Rusové zveřejnili video s údajným polským zajatcem, kterého zajali u Krynek. Člověk na videu má ale i přes rozmazání obličeje viditelně asijské rysy a hlavně – nemluví moc dobře polsky, zato má svou „polštinu“ plnou ruských slov a slovních tvarů.  
+          - Ruští blogeři potvrdili dřívější informace od Ukrajinců, a sice že Rusové dostávají před šturmováním jakýsi koktejl drog v „hnědé tabletce“. Má obsahovat kombinaci armodafinilu, orexinu a dopaminu. 
+          - Německý deník Bild tvrdí, že Rusko začalo ve svých věznicích vypínat topení a jinak ztěžovat a znepříjemňovat vězňům pobyt za mřížemi, aby měli větší motivaci upsat se ke službě v armádě. 
+          - Společnost PepsiCo údajně zakázala ukrajinskému marketingovému týmu jakkoliv zmiňovat válku nebo ukrajinskou armádu a stejně tak zakázala používat sdělení na podporu Ukrajiny.
+          - Před třemi dny byl na polské straně hranic s Ukrajinou zadržený 15letý kluk z Česka, který podle vlastních slov chtěl vstoupit do ukrajinské armády a pomoct jí bránit se ruské agresi.
+          - Švédsko navýší výrobu 155mm munice pro Ukrajinu. Bulharsko mezitím oznámilo, že spustilo výrobu munice v režimu 24/7, aby částečně pokrylo potřeby ukrajinské armády. 
+          - Ukrajinci si dnes připomněli smutné výročí loňského ruského raketového útoku na Dnipro, kde v jediném zasaženém paneláku zahynulo 46 lidí. 
+          - Jak se zpětně ukázalo, při ukrajinském raketovém úderu na letiště v Saki zemřel také podplukovník Alexandr Černobrivyj z námořního letectva. 
+          - Na frontě padla Katherine Mielniczuk, 26letá britská bojová medička, která na Ukrajině působila od prvních dnů invaze. 
+          - Další ruská raketa dopadla na zem ještě dříve, než vůbec přeletěla na území Ukrajiny, tentokrát poblíž Krasnodaru. 
+          - Rumunští kamioňáci dnes po krátké pauze opět zablokovali hraniční přechod Siret s Ukrajinou. 
+          - Rusko použilo na Ukrajině chemické zbraně už v minimálně 626 případech. 
+          - Ukrajina už podepsala smlouvy o bezpečnostních garancích s 30 zeměmi. 
+        videa: |
+          - [„Prapor“ o roli Girkina ](https://twitter.com/PStyle0ne1/status/1746519457759973824)
+          - [Nabíjení dronu](https://twitter.com/PStyle0ne1/status/1746438677478170923)
+          - [Dovážka](https://twitter.com/TheDeadDistrict/status/1746597327857479815)
+          - [Zajímavá hra na schovku](https://twitter.com/GloOouD/status/1746583401572798628)
+          - [Trefa!](https://twitter.com/GloOouD/status/1746541776695910596)
+          - [Prohlídka vozu](https://twitter.com/bayraktar_1love/status/1746542405854073171)
+          - [Postřeh!](https://twitter.com/GloOouD/status/1746464720788271356)
+          - [Ruský Neo](https://twitter.com/region776/status/1746614329649299775)
+          - [Kouření zabíjí](https://twitter.com/nevedimka123/status/1746587636322427379)
+          - [Našel ji!](https://twitter.com/bayraktar_1love/status/1746219987218346155)
+          - [Trefa!](https://twitter.com/Getty776/status/1746592725531828496)
+          - [Mínus ruský útok](https://twitter.com/front_ukrainian/status/1746459549396041884)
       - title: "Sobota"
         year: "13. ledna 2024"
         image: assets/img/timeline/2024-01-13.jpg
