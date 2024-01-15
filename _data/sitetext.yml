@@ -38,6 +38,37 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "15. ledna 2024"
+        image: assets/img/timeline/2024-01-15.jpg
+        desc: |
+          Dnešní den začal mimořádně pozitivně. Jak ukrajinské, tak ruské kanály informují, že nad Azovským mořem byly včera večer sestřeleny dvě velmi cenná ruská letadla: letoun včasné výstrahy Berijev A-50 (v kódu NATO „Mainstay“) a vzdušný velitelský post Iljušin IL-22M11-SURT (Sokol, nebo v kódu NATO „Coot“). U druhého stroje se nicméně objevily informace, které naznačují, že letoun možná dokázal nouzově přistát v Anapě. Bude tedy třeba informace dál sledovat a potvrdit. Prvotní informace také naznačovaly, že za sestřely stojí sama ruská protivzdušná obrana, která opět omylem pálila po vlastních strojích, nicméně některá vyjádření ukrajinského letectva a dalších představitelů Ukrajiny ukazují spíš na to, že Ukrajina má v incidentu vlastní prsty. Jedno vysvětlení, které se nabízí je sytém Patriot poblíž tavrijského úseku fronty. Druhé je, že Ukrajinci přišli na způsob, jak Rusům dálkově vypínat tzv. IFF systémy (Identification, friend or foe), které pomocí kódovaného signálu pomáhají určit, zda je letadlo, které se objeví na radaru „přítel“ nebo „protivník“. Ruská PVO by pak mohla pálit na cíl v dobré víře, že jde skutečně o neidentifikovaný stroj, tedy potenciálního nepřítele. Každopádně škoda je to pro ruské letectvo ohromná, a to nejen v ceně samotných strojů, ale také v hodnotě personálu. Vycvičit posádku a piloty na ovládání strojů, jako je i A-50, je pro letectvo značnou investicí na dlouhé roky. Pokud byl navíc druhým strojem skutečně vzdušný velitelský post a pokud by se ukázalo, že i on se zřítil, bavíme se o několika seniorních důstojnících na palubě, kteří potenciálně zahynuli. Což může být ale díky šrapnelům z raket pravdou i tehdy, pokud se letadlo dokázalo vrátit do Ruska. A teď [další aktuality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02ukGEaKNUA6dcHpfejH32cfh7FG5rNnbW63rdb2s1MpsX68ca1YJFADQbKqDqJfmMl): 
+        detail: |
+          - Podle deníku Bild, který se odvolává na zdroje v německé rozvědce, chystá Rusko napadnout východní křídlo NATO na jaře roku 2025, a to podobně jako v případě Ukrajiny synchronizovaným výpadem z Ruska na východě, z Běloruska na jihu a Kaliningradu na západě. Začátek invaze je prý naplánován na dobu, kdy Spojené státy budou potenciálně bez prezidenta v důsledku probíhajícího předání úřadu po prezidentských volbách. NATO údajně chystá na začátku roku 2025 přesunout až 300 000 vojáků do Pobaltí, aby působili jako odstrašující síla. Německý ministr obrany na dotaz novinářů, aby informace komentoval, plány nijak nepopřel, naopak řekl, že „příprava na veškeré i málo pravděpodobné scénáře, je každodenní prací armády“. 
+          - Guvernér Petrohradské oblasti Alexandr Beglov prohlásil, že ruští vojáci na vlastní oči viděli „genderově neutrální“ toalety v ukrajinské škola na okupovaném území, a tak jim „nikdo nemusí vysvětlovat, jaké hodnoty na Ukrajině brání“. Máte doma společnou toaletu? Tak pozor, aby vás nepřišel nějaký Ivan s puškou „ochránit“, vy dekadenti!  
+          - Na ruském Telegramu se v reakci na sestřel dvou letadel objevilo tvrzení, že akci měli provést britští specialisti v odvetě za údajné zabité britské důstojníky v zasaženém bunkru ruskou raketou, pro jejichž těla přijel do Kyjeva britský premiér Sunak. Tak to dopadá, když začneš věřit vlastní propagandě.  
+          - Srbští dobrovolníci bojující na straně Ruska zveřejnili video, kde tvrdí, že je ruské velení chtělo poslat na šturm bez adekvátní výzbroje, což odmítli, načež je ruské velení označilo za dezertéry a válečné zločince a donutilo některé členy, aby na kameru „přiznali“, že jsou špióni. 
+          - Polsko vzkázalo Spojeným státům, že rádo přivítá na svém území americké vojáky, pokud se USA rozhodnou posílit východní křídlo aliance. Některé polské zbrojovky také značně navýšily kapacitu výroby a v několika případech běží výroba dokonce na úplném maximu. 
+          - Podle ISW shromažďuje Rusko techniku a personál pro další ofenzivu na východě Ukrajiny. Ta by měla začít, až teploty opět klesnou pod nulu a země dostatečně zamrzne. 
+          - Ukrajinská vojenská rozvědka uvedla, že Rusko, navzdory svým prohlášením, mobilizuje i nyní průměrně 1000-1100 vojáků denně. 
+          - U Krasnodaru se během poslední velké ruské raketové baráže zřítila ne jedna, ale hned dvě rakety Kalibr. 
+          - Podle ukrajinské rozvědky už Severní Korea poskytla Rusku milión kusů dělostřelecké munice. 
+          - Partyzáni v Melitopolu vyhodili do vzduchu auto se čtyřmi ruskými vojáky. Nikdo nepřežil. 
+        videa: |
+          - [Poslední let A-50](https://twitter.com/nexta_tv/status/1746871402475536455)
+          - [Letadla na radaru ](https://twitter.com/nexta_tv/status/1746834838781350168)
+          - [Ukrajinský tank a ruské zákopy](https://twitter.com/PStyle0ne1/status/1746852543232160109)
+          - [Bývalý tank](https://twitter.com/TheDeadDistrict/status/1746818848752292134)
+          - [Morálka v ruské armádě je na jedničku](https://twitter.com/PStyle0ne1/status/1746846904225317310)
+          - [Mínus šest](https://twitter.com/GloOouD/status/1746823699687174587)
+          - [Medici na frontě](https://twitter.com/NOELreports/status/1746563522631184622)
+          - [Drony (velmi citlivé!)](https://twitter.com/Getty776/status/1746882258991202367)
+          - [Parádní objev i trefa](https://twitter.com/bayraktar_1love/status/1746879484475719961)
+          - [Mínus](https://twitter.com/Getty776/status/1746858300548006061)
+          - [Zima na frontě](https://twitter.com/front_ukrainian/status/1746867898298110156)
+          - [Kámo… (citlivé)](https://twitter.com/Getty776/status/1746785646918893893)
+          - [Abrams](https://twitter.com/Osinttechnical/status/1746444192161701926)
+          - [Trefa!](https://twitter.com/Getty776/status/1746736748451844113)
       - title: "Neděle"
         year: "14. ledna 2024"
         image: assets/img/timeline/2024-01-14.jpg
