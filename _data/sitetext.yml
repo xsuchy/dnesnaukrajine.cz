@@ -38,6 +38,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "17. ledna 2024"
+        image: assets/img/timeline/2024-01-17.jpg
+        desc: |
+          Nedávný sestřel ruského létajícího radaru A-50 je mnohem důležitější, než se na první pohled může zdát. Samozřejmě, už jen cena letadla a jeho význam, jsou pro Rusy tvrdou ranou, ale to hlavní se děje na zemi. Samotný fakt, že Rusko povolalo do vzduchu svou á-padesátku totiž souvisí s nedávným masivním raketovým útokem, při kterém Ukrajinci zasáhli několik radarových instalací na okupovaném Krymu. Minimálně část Krymu se tedy pravděpodobně ocitla bez radarového pokrytí, což měl letoun kompenzovat. Ale k tomu už nyní (minimálně na nějaký čas) nedojde. Je proto dost dobře možné, že Rusové jsou aktuálně částečně „slepí“ vůči příchozím raketám a jiným vzdušným cílům. A jak prohlásil bývalý generál amerických sil v Evropě Ben Hodges, Ukrajinci nemusí Krym obsadit. Pro začátek stačí, když dokáží vytvořit takovou situaci, aby se stal Krym pro ruské vojáky „neobyvatelným“. Třeba tak, že ho zbaví protivzdušné obrany a z ruských instalací si udělají ničím nerušenou střelnici. Což se už možná děje. Ale teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02ExY6YJPZ76KoALiBcMxb33uDP5CbpBNQ2dBiQMDzjy5Bfib3hbfYd3st1GMDZGvtl): 
+        detail: |
+          - Rusové tvrdí, že ruský tank T-90M se utkal s Bradleym, a i přes desítky schytaných zásahů vyšel ruský stroj jako vítěz. Faktem je, že celý souboj natočily nejméně dva drony a video probíhá tak, že ruský tank nejdřív přijde o schopnost pálit zpátky, ale zachová si hybnost, následně se tanku začne po dalších zásazích nekontrolovaně točit věž, poté ztratí kontrolu nad řízením a celý souboj končí explozí tanku. Rusové samozřejmě nemůžou domácímu publiku přiznat, že jejich nejpokročilejší bitevní tank neodolá ani kanónu z lehkého bojového vozidla, ale my naštěstí můžeme využít luxus toho, že nám ruská propaganda nesestříhá videa, a lze je vidět až do rozuzlení. 
+          - Francie oznámila ústy ministra obrany Lecornua, že objednala výrobu 78 houfnic CAESAR pro potřeby ukrajinské armády, a také, že poskytne Ukrajině 50 naváděných leteckých pum AASM Hammer, které upravila pro odpalování ze sovětských letounů, a to každý měsíc po celý letošní rok. Podle ministra Francie přechází na válečnou ekonomiku. 
+          - Lavrov prohlásil, že Putin prý nikdy nevyhrožoval Západu jadernými zbraněmi, jak Západ tvrdí. Naopak prý západní politici pronesli takové výhrůžky vůči Rusku. Pravdou je, že nejen Putin, ale téměř každý jím dosazený ministr, poslanec nebo propagandista takové výroky pronesl v minulosti tolikrát, že téměř nebyl den, kdy by někde nezazněly. 
+          - Nové muzeum v Rusku představilo expozici „bratrství národů“. V ní figuruje také sekce věnovaná „každodenním předmětům z Ukrajiny“. Ve skutečnosti jde o různé osobní předměty vyrabované z domů na okupovaných územích včetně knížek, dokladů, espézetek a dalších.
+          - Írán se ohradil proti tvrzením Ukrajiny, že Rusko používá v útocích na Ukrajinu íránské drony. Ukrajina prý nedodala žádné důkazy o tom, že by mělo jít právě o íránské drony. Ukrajinská PVO mezitím v noci zlikvidovala dalších 22 ze 33 kamikadze dronů typu Shahed. 
+          - Partyzáni ze skupiny ATESH tvrdí, že v sevastopolském přístavu objevily vrak lodi Projekt 205P třídy Tarantula, kterou nejspíš potopily ukrajinské námořní drony během jednoho z posledních útoků, a o jejímž zničení se pravděpodobně dosud nevědělo. 
+          - Rusové se pokusili vstoupit do Krynek a vztyčit v části vesnice ruskou vlajku, nejspíš kvůli propagandistickým materiálům. Vlajka stála na místě zhruba hodinu a ruské vojáky následně zdecimovaly ukrajinské drony. 
+          - Putin se na nedávné tiskové konferenci neuhlídal, když hovořil o prospektech mírových jednání s Ukrajinou a prohlásil, že nikdo nemůže po Rusku chtít, aby se vzdalo „dobytých území“. Nikoliv osvobozených. Dobytých. 
+          - Rusko hlásí, že Petrohrad byl pod útokem dronů. Bylo by to vůbec poprvé od začátku války. Za útokem stojí údajně ukrajinská vojenská rozvědka a zasažen měl být sklad s palivem. 
+          - Rusko povolalo na potlačení protestů v Baškortostánu vojáky Rosvgardie. Zároveň úřady pohrozily účastníkům protestů, že v případě zatčení jim bude hrozit až 15 let za mřížemi. 
+          - Zhruba 500 000 obyvatel z 2 500 domů v Novosibirsku je bez dodávek tepla poté, co na několika místech praskly trubky. Teploty v noci přitom včera klesly na -28 stupňů Celsia. 
+          - Německý Spolkový sněm neschválil dodávku raket Taurus Ukrajině. Proti hlasovalo 485 poslanců, pro pouze 178. Konečné slovo ale bude mít německá vláda. 
+          - Britský ministr zahraničí Cameron přirovnal dnešní situace ke 30. letům, kdy se Západ snažil udržovat dobré vztahy s Hitlerem. 
+          - Moskva uzavřela letiště Vnukovo v obavě z možného útoku pomocí dronů. 
+          - Slovensko povolilo prodej zbraní od soukromých zbrojovek Ukrajině.
+          - Rumunští farmáři opět zablokovali hraniční přechod s Ukrajinou. 
+          - Rusové ostřelovali Kupjansk. Při útoku zemřela 57letá seniorka. 
+        videa: |
+          - [Detail na palbu Bradleyho proti ruskému tanku T-90M](https://twitter.com/nexta_tv/status/1747895349791076526)
+          - [Petrohrad](https://twitter.com/PStyle0ne1/status/1747980230982046059)
+          - [Výstava v „muzeu“](https://twitter.com/dedzaebal/status/1747729686279422251)
+          - [Dva zářezy na pažbu](https://twitter.com/EuromaidanPress/status/1747944456509071653)
+          - [Ukrajinský voják o Avdijivce](https://twitter.com/wartranslated/status/1747922120812744809)
+          - [Nový ukrajinský proudový dron](https://twitter.com/EuromaidanPress/status/1747710799689171022)
+          - [Rusové se pokusili vstoupit do Krynek](https://twitter.com/Getty776/status/1747977135632028090)
+          - [Úsměv, přiletí ptáček](https://twitter.com/TheDeadDistrict/status/1747838416287391856)
+          - [Béempéčko dobéempéčkovalo](https://twitter.com/albafella1/status/1747649615984259196)
+          - [Z pohledu dronu](https://twitter.com/Getty776/status/1747676149730468076)
+          - [Oprava Bradleyho po bitvě](https://twitter.com/PStyle0ne1/status/1747970790824259973)
+          - [Avada Kedavra](https://twitter.com/TheDeadDistrict/status/1747843678687678846)
+          - [Mínus tank](https://twitter.com/PStyle0ne1/status/1747927045722518002)
+          - [Po evakuaci (citlivé!)](https://twitter.com/Getty776/status/1747982940452331965)
+          - [Ruské pozice pokrylo dělostřelectvo](https://twitter.com/Getty776/status/1747673895652778458)
       - title: "Středa"
         year: "16. ledna 2024"
         image: assets/img/timeline/2024-01-16.jpg
