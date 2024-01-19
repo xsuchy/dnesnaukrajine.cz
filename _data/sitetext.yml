@@ -38,9 +38,51 @@ timeline:
     section: timeline
     start_align: "left"
     events:
-      - title: "Čtvrtek"
-        year: "17. ledna 2024"
+      - title: "Pátek"
+        year: "19. ledna 2024"
         image: assets/img/timeline/2024-01-17.jpg
+        desc: |
+          V Evropské unii už zastupitelům očividně došla trpělivost s Viktorem Orbánem. Nejprve včera evropští poslanci schválili výraznou většinou rezoluci vyzývající ke zbavení Maďarska hlasovacích práv (345 pro, 104 proti) na základě článku 7.2 smlouvy o EU. Evropští poslanci dnes ale také schválili další rezoluci vyzývající k zahájení soudního sporu s Evropskou komisí (ano, čtete správně) kvůli přidělování financí Maďarsku, které podle europoslanců nesplňuje unijní standardy požadující po členských státech určitou úroveň nezávislosti justice. Oba kroky mají nejspíš vyvinout tlak na Maďarsko, aby na nadcházejícím summitu podpořilo pomoc pro Ukrajinu. A nutno říct, že Orbán v posledních dnech značně zjemnil svá vyjádření a prohlásil, že je otevřený kompromisům, takže tlak na něj očividně platí. A teď [další novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02VFYvqzDrCKuunJxRZjh6ajUezJEQ4nDD7KVRfh4eRVXL8QMbm3Z1w3Q2zo5Q5q7ql): 
+        detail: |
+          - Pozor, nic pro citlivé povahy! Neonacistická jednotka Rusič zveřejnila na svém kanále na Telegramu bez dalších podrobností fotku, kde jakýsi voják drží v ruce uříznutou ženskou hlavu. Není jisté, odkud fotka pochází, ale voják má na rameni nášivku ruského 234. gardového parašutistického pluku, který se podílel i na vraždění v Buči. Stejná neonacistická jednotka přitom nedávno zveřejnila příspěvky, kde si její člen stěžoval, že ho zajatá ukrajinská vojačka prosila, aby ji nezastřelil, protože měla být těhotná. Autor příspěvku pak doporučil ukrajinským vojačkám, aby se ve vlastním zájmu snažily neotěhotnět. 
+          - Polsko stahuje žalobu vůči Rusku u Evropského soudu pro lidská práva související s pádem letadla, při kterém zemřel někdejší prezident Kaczynski. Podle nové vlády Rusko stejně nikdy nepřijme odpovědnost za nehodu a vedení sporu by pouze stálo peníze polské daňové poplatníky. 
+          - Rusko na okupovaném území kriminalizovalo podzrav „sláva Ukrajině“ a označilo ho za nacistický. Ruská propaganda se přitom snaží vykreslit pozdrav jako nacistický už nejméně od počátku invaze a řada jejích konzumentů toto dávno používá jako argument proti Ukrajině. 
+          - Na Ukrajinu napojení hackeři ze skupiny „Blackjack“ se nabourali do databází ruských státních podniků a podle předběžných informací ukradli plány a technickou dokumentaci k pěti stovkám instalací patřící pod ruské ministerstvo obrany. 
+          - Německý ministr obrany Pistorius potvrdil, že experti věří, že ruská agrese proti zemi Severoatlantické aliance je možné očekávat v příštích 5-8 letech. Podle ministra je potřeba brát vážně slova, která Rusko pouští do éteru. 
+          - Rusko podle ukrajinské rozvědky meziročně vylepšilo své rakety Ch-101. Jejich současná verze obsahuje systémy pro elektronický boj, aktivní obranné prvky a falešné návnady pro rakety PVO naváděné na teplo motoru. 
+          - Ukrajinské drony zasáhly továrnu na střelný prach Tambov v Kotovsku. Rusové tvrdí, že incident si nevyžádal žádné oběti na životech. Videa, zachycující stav areálu dnes ráno, ale činí ruská tvrzení jen stěží uvěřitelná. 
+          - Pro Darju Trepovou, která podle vyšetřovatelů donesla bombu na shromáždění, na kterém později při výbuchu zemřel propagandista Tatarský, navrhuje žalobce 28 let vězení. 
+          - NATO plánuje největší vojenské manévry od konce Studené války. Účastnit se jich bude 90 000 vojáků a budou trvat od konce ledna do května letošního roku. 
+          - Ukrajinský dron způsobil explozi palivového skladu v obci Klincy u Brjansku. Následný požár se stále Rusům nepodařilo uhasit. 
+          - Podle ukrajinské rozvědky nemá Rusko dostatek rezerv na to, aby dokázalo útočit ve více než jednom směru současně. 
+          - Ukrajincům se podařilo zlikvidovat na předměstí Krynek „Mojžíše“, jednoho z nejúspěšnějších ruských pilotů dronů. 
+          - Moskevský soud požaduje necelých pět let odnětí svobody pro Igora Girkina za jeho příspěvky na Telegramu. 
+          - Ruský dobrovolnický sbor podnikl další výpad do Brjanské oblasti, přepadl ruský nákladní vůz a zabil dva vojáky. 
+          - Rusové povolali nad Azovské moře další letoun A-50 jako náhradu za nedávno sestřelený stroj. 
+          - Od začátku invaze si Rusové registrovali v Gruzii téměř 30 000 právnických osob. 
+          - Podle ruských médií vyvíjí ruská armáda levnější verzi íránského dronu Shahed. 
+          - Ukrajina oznámila, že bude usilovat o navázání dialogu s čínským prezidentem. 
+          - Po útoku dronů je většina Sevastopolu bez dodávek elektrické energie.
+          - Severní Korea oznámila, že provede podmořský test jaderné bomby. 
+        videa: |
+          - [Pozor, velmi citlivé! Fotka z kanálu Rusiče](https://twitter.com/IAPonomarenko/status/1748071768378466684)
+          - [Nový hit!](https://twitter.com/betyna71/status/1747764700660539572)
+          - [Dron proměnil elektrickou rozvodnu u Bělgorodu na diskotéku](https://twitter.com/nexta_tv/status/1748058820335538592)
+          - [Konec Mojžíše](https://twitter.com/wartranslated/status/1748313839441949108)
+          - [Kuleba k Západu](https://twitter.com/nexta_tv/status/1748306631153127703)
+          - [Odražený ruský útok](https://twitter.com/Teoyaomiquu/status/1748005411943235997)
+          - [Tambov](https://twitter.com/TheDeadDistrict/status/1748279567167430666)
+          - [Rotace na frontě](https://twitter.com/Getty776/status/1748144338906083464)
+          - [Dalších patnáct cizinců obdrželo povolávací rozkazy hned po získání ruských pasů ](https://twitter.com/igorsushko/status/1748094405066830332)
+          - [Zajatý Somálec](https://twitter.com/PStyle0ne1/status/1748006261373734923)
+          - [Dron dovedl zraněného vojáka domů](https://twitter.com/GloOouD/status/1748097922728603729)
+          - [Bradley ve Stěpovém](https://twitter.com/PStyle0ne1/status/1748105476623995007)
+          - [U Avdijivky](https://twitter.com/GirkinGirkin/status/1748291723166408762)
+          - [Rusům kdosi položil miny za liniemi](https://twitter.com/PStyle0ne1/status/1748083702259687838)
+          - [Už nemusí předstírat](https://twitter.com/Getty776/status/1748147576355094916)
+      - title: "Čtvrtek"
+        year: "18. ledna 2024"
+        image: assets/img/timeline/2024-01-18.jpg
         desc: |
           Nedávný sestřel ruského létajícího radaru A-50 je mnohem důležitější, než se na první pohled může zdát. Samozřejmě, už jen cena letadla a jeho význam, jsou pro Rusy tvrdou ranou, ale to hlavní se děje na zemi. Samotný fakt, že Rusko povolalo do vzduchu svou á-padesátku totiž souvisí s nedávným masivním raketovým útokem, při kterém Ukrajinci zasáhli několik radarových instalací na okupovaném Krymu. Minimálně část Krymu se tedy pravděpodobně ocitla bez radarového pokrytí, což měl letoun kompenzovat. Ale k tomu už nyní (minimálně na nějaký čas) nedojde. Je proto dost dobře možné, že Rusové jsou aktuálně částečně „slepí“ vůči příchozím raketám a jiným vzdušným cílům. A jak prohlásil bývalý generál amerických sil v Evropě Ben Hodges, Ukrajinci nemusí Krym obsadit. Pro začátek stačí, když dokáží vytvořit takovou situaci, aby se stal Krym pro ruské vojáky „neobyvatelným“. Třeba tak, že ho zbaví protivzdušné obrany a z ruských instalací si udělají ničím nerušenou střelnici. Což se už možná děje. Ale teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02ExY6YJPZ76KoALiBcMxb33uDP5CbpBNQ2dBiQMDzjy5Bfib3hbfYd3st1GMDZGvtl): 
         detail: |
@@ -78,8 +120,8 @@ timeline:
           - [Po evakuaci (citlivé!)](https://twitter.com/Getty776/status/1747982940452331965)
           - [Ruské pozice pokrylo dělostřelectvo](https://twitter.com/Getty776/status/1747673895652778458)
       - title: "Středa"
-        year: "16. ledna 2024"
-        image: assets/img/timeline/2024-01-16.jpg
+        year: "17. ledna 2024"
+        image: assets/img/timeline/2024-01-17.jpg
         desc: |
           Ukrajinský anglickojazyčný portál Euromaidan Press publikoval článek s titulkem „9 důvodů, proč vyjednávat s Ruskem je naprostý nesmysl“. Nebudu je vypisovat všechny, ale několik argumentů za zmínku stojí. Tak například ten, že ruské invazi přecházelo více než 200 mírových jednání a 20 různých dohod o zastavení bojů, a ani ty Rusku nezabránily, aby Ukrajinu napadlo. Dále to, že Rusko už porušilo okolo čtyř stovek mezinárodních smluv, jejichž signatářem je i Ukrajina, a to včetně charty OSN a dalších jejích dílčích smluv nebo smluv OBSE či často skloňované Budapešťské memorandum. Nejdůležitější bod ale je ten, který upozorňuje, že konečným cílem ruské agrese je úplné podmanění Ukrajiny, její začlenění do ruské federace a postupné vymazání ukrajinské identity jakožto samostatného národa. A nikdo příčetný nemůže po jakémkoliv národě chtít, aby souhlasit s vlastní likvidací. Tomu snad rozumíme. Ale teď už [další aktuality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0HNmE6WjEitYMXGqhtvefGttz7XhuuX392AgnecGZBRJY43oUgjTowUKe7omDyUffl): 
         detail: |
