@@ -38,9 +38,50 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "20. ledna 2024"
+        image: assets/img/timeline/2024-01-20.jpg
+        desc: |
+          Zatímco některé evropské země skokově navyšují objem vojenské pomoci Ukrajině, americké dodávky stále stagnují. Republikáni stále blokují schválení alokace financí pro Ukrajinu a zatím se demokratům podařilo protlačit pouze dočasný balík financování Bidenova kabinetu, aby nedošlo k úplné paralýze státního aparátu. Tak to dopadá, když většinu Republikánské strany ovládne kult Trumpových MAGA fanatiků. Trump navíc získal v minulých týdnech podporu od několika klíčových republikánských osobností, a to i přesto, že o něm dříve opakovaně prohlásily, že je to idiot a lhář. Což bezesporu je. Dnes ale Trump získal i podporu bývalého britského premiéra Borise Johnsona, který tak veškerý kredit, který získal svým postojem k válce na Ukrajině, hodil ve vteřině do kanálu. Americká pomoc je přitom klíčová. Evropa může poskytnout Ukrajině vozidla a dělostřeleckou munici i další výbavu, USA jsou ale hlavním partnerem v oblasti raket pro systémy PVO. A ty Ukrajina zoufale potřebuje. Snad tedy Republikáni dostanou rozum. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Zq9ihM1wfyRMf46k6FnnJ3ox36YPr1LPYiE4rRj5PDWAKkPzenrsAfNHYKGWWkFnl):  
+        detail: |
+          - Itálie poslala na 20 let do vězení za špionáž a korupci Waltera Biota, bývalého důstojníka italského námořnictva a kapitána jedné z válečných lodí. Vyšetřovatelé odhalili, že Biot v roce 2021 za úplatek předal zaměstnancům ruské ambasády citlivá data a tajné informace NATO. 
+          - Baltské státy se dohodli na vybudování společného obranného valu na východních hranicích. Měl by tak vzniknout systém šesti stovek podzemních bunkrů poskytujících opěrná místa při případné ruské agresi. 
+          - Nad azovským mořem opět léta stroj A-50. Rusové ale upravili trasy, aby se nedostal na dostřel systémům Patriot, což ovšem také znamená, že radar z letounu není schopný pokrýt celý Krym. 
+          - CNN s odkazem na zdroje v americkém ministerstvu obrany tvrdí, že Ukrajina přejde v roce 2024 do „aktivní obrany“ a bude sbírat síly a prostředky na novou ofenzivu v roce 2025.
+          - MAAE oznámila, že Rusko opět nainstalovalo miny do areálu záporožské jaderné elektrárny na místa, odkud je po protestech asociace loni na nějakou dobu odstranilo. 
+          - Běloruský politický vězeň Vadzim Chrasko zemřel ve věznici na zápal plic poté, co mu režim dlouhodobě odpíral lékařskou pomoc. 
+          - Microsoft oznámil, že ruští hackeři se vlámali do jeho interních systémů a ukradli osobní údaje zaměstnanců.
+          - Estonsko neprodloužilo povolení k pobytu hlavě místní ruské pravoslavné církve. Do 6. února musí opustit zemi. 
+          - Běloruský diktátor Lukašenko oznámil, že Rusko předalo Bělorusku jaderné hlavice pro systémy Iskander. 
+          - Po měsíční pauze Rusové opět začali bombardovat Chersonskou oblast leteckými pumami. 
+          - Rusko přeskočilo Saúdskou Arábii v objemu dodané ropy do Číny. 
+          - Blokáda na rumunsko-ukrajinské hranici byla ukončena. 
+          - V Brjansku už druhý den hoří zasažený sklad paliva. 
+        videa: |
+          - [Názor obyčejného Rusa na účast ve válce – what the f…??](https://twitter.com/SlavaNAFO69/status/1748487914118328589)
+          - [Rozhovor s posádkou Bradleyho, který zničil ruský tank](https://twitter.com/wartranslated/status/1748480083990372669)
+          - [Lukašenko o hlavicích ](https://twitter.com/JayinKyiv/status/1748658742386688293)
+          - [Ruská legie u Bělgorodu](https://twitter.com/nexta_tv/status/1748696881075552633)
+          - [Ruská útočná skupina na druhý pokus opět zneškodněna](https://twitter.com/wartranslated/status/1748392378258407772)
+          - [Co zbývá z Avdijivky](https://twitter.com/nexta_tv/status/1748607542090248328)
+          - [Kuchyň v avdijivské koksovně](https://twitter.com/Bodbe6/status/1748515351204147313)
+          - [Mínus osm šturmoviků (citlivé)](https://twitter.com/PStyle0ne1/status/1748421523545698669)
+          - [Číňan v ruské armádě se střetl s realitou](https://twitter.com/Biz_Ukraine_Mag/status/1748331906171601102)
+          - [Krynky](https://twitter.com/PStyle0ne1/status/1748683381980672084)
+          - [Láska nebeská (citlivé)](https://twitter.com/Getty776/status/1748337100959961454)
+          - [Ukrajinský šturm](https://twitter.com/GloOouD/status/1748618730026766651)
+          - [Tor prohrál souboj s dronem](https://twitter.com/PStyle0ne1/status/1748670805674721533)
+          - [Pořádná ruská hromádka](https://twitter.com/herooftheday10/status/1748664737364054060)
+          - [Krupky](https://twitter.com/PStyle0ne1/status/1748591471597425032)
+          - [Wagnerovci si doma hrají na policii (citlivé!)](https://twitter.com/PStyle0ne1/status/1748486121401512120)
+          - [HIMARS ho našel](https://twitter.com/GloOouD/status/1748640243446661187)
+          - [Tenhle měl štěstí ](https://twitter.com/Getty776/status/1748708004122296439)
+          - [Vyřazený Bradley](https://twitter.com/Bodbe6/status/1748708658848940045)
+          - [Další ruský pokus](https://twitter.com/GloOouD/status/1748413714561200340)
+          - [Schovka nevyšla](https://twitter.com/Getty776/status/1748646800129683767)
       - title: "Pátek"
         year: "19. ledna 2024"
-        image: assets/img/timeline/2024-01-17.jpg
+        image: assets/img/timeline/2024-01-19.jpg
         desc: |
           V Evropské unii už zastupitelům očividně došla trpělivost s Viktorem Orbánem. Nejprve včera evropští poslanci schválili výraznou většinou rezoluci vyzývající ke zbavení Maďarska hlasovacích práv (345 pro, 104 proti) na základě článku 7.2 smlouvy o EU. Evropští poslanci dnes ale také schválili další rezoluci vyzývající k zahájení soudního sporu s Evropskou komisí (ano, čtete správně) kvůli přidělování financí Maďarsku, které podle europoslanců nesplňuje unijní standardy požadující po členských státech určitou úroveň nezávislosti justice. Oba kroky mají nejspíš vyvinout tlak na Maďarsko, aby na nadcházejícím summitu podpořilo pomoc pro Ukrajinu. A nutno říct, že Orbán v posledních dnech značně zjemnil svá vyjádření a prohlásil, že je otevřený kompromisům, takže tlak na něj očividně platí. A teď [další novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02VFYvqzDrCKuunJxRZjh6ajUezJEQ4nDD7KVRfh4eRVXL8QMbm3Z1w3Q2zo5Q5q7ql): 
         detail: |
