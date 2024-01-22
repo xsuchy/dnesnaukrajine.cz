@@ -38,6 +38,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "22. ledna 2024"
+        image: assets/img/timeline/2024-01-22.jpg
+        desc: |
+          Pondělí. V Melitopolu proběhl další zinscenovaný soud, tentokrát s Jaroslavem Žukem, kterého Rusové dříve unesli a opakovaně mučili. U soudu proti němu pak vytáhli očividně falešné důkazy včetně laptopu, který byl úplně prázdný až na „inkriminující dokumenty a fotky“, které podle vlastností souboru byly vytvořeny až poté, co byl Žuk dávno v zajetí. Jako svědek obžaloby byl soudem předvolán také jeden z mužů, kteří Žuka v zajetí mučili. Soud také bral v potaz „výpovědi“, které Žuk už dříve zpětně popřel, protože byli učiněny během mučení elektrickým proudem pomocí elektrod připevněných ke genitáliím. Jeho případ přitom není ojedinělý. Už když Rusové vstupovali na Ukrajinu, vezli s sebou seznamy lidí určených k uvěznění, diskreditaci nebo rovnou k fyzické likvidaci. Zahrnovaly aktivisty, veterány ale také zaměstnance kulturních institucí, historiky nebo učitele. A na okupovaných územích skutečně k takovým incidentům od samého počátku invaze nepřetržitě dochází. Rusové nepřijeli pouze dobývat a ničit. Přijeli provést genocidu ukrajinského národa a kompletní vymazání jeho národní identity. Nezapomínejme na to. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02oUpHWxNR6vnYhpu3dK9jJXgu5VUgZbDgJeBLH9CTWfFjArUHvZQhrki4JKgwfkVzl): 
+        detail: |
+          - Na sítích se objevily spekulace, že ostřelování tržnice v Doněcku mělo vytvořit tlak na západní partnery, aby přestali Ukrajině dodávat zbraně. Došlo k němu totiž jen den před tím, než Lavrov odcestoval do New Yorku na plánované jednání OSN, kde chce Lavrov téma vyzbrojování Ukrajiny řešit. Mezitím další video naznačuje, že granáty přiletěly z východu. K incidentu se také oficiálně vyjádřila ukrajinská armáda a jakékoliv zapojení do něj nepřekvapivě popřela. 
+          - Putin podepsal výnos, který nařizuje ruským úřadům zahájit pátrání po ruském, sovětském nebo carském majetku, který byl Rusku „nelegálně“ odcizen, a takový majetek evidovat a „ochránit“. Také vyčleňuje finance na náklady spojené s právními procedurami na takovou „ochranu“. 
+          - Fico prohlásil, že Ukrajina od roku 2014 není suverénní stát, ale že ji ovládají Spojené státy. Zároveň řekl, že Ukrajina se bude muset vzdát okupovaných území, aby mohl nastat mír. Tak si Fico představuje slovo „kompromis“. 
+          - Ukrajina nyní buduje vlastní rozsáhlý systém opevnění na kontrolovaném území pro případ, že by Rusové přešli opět do větší ofenzivy a podařilo se jim prolomit současné linie. 
+          - Budanov v rozhovoru pro Financial Times uvedl, že Ukrajina bude muset minimálně částečně mobilizovat, aby dokázala pokračovat v současné intenzitě bojů. 
+          - Zdravotnická zařízení na okupovaných územích přestala poskytovat péči Ukrajincům pokud si nevyzvedli ruské pasy a neplatí ruské zdravotní pojištění. 
+          - Evropská unie vymyslela nový mechanismus, jak poskytnout Ukrajině financování v objemu 20 miliard euro a obejít přitom případné maďarské veto. 
+          - Británie předala OSN satelitní snímky, které mají dokazovat, že Severní Korea vypravuje do Ruska vlaky s vojenským materiálem a municí. 
+          - Většina Sevastopolu je už čtvrtý den bez tekoucí vody. Lidé stojí i v noci a na mrazu dlouhé fronty na načerpání vody z mobilních cisteren. 
+          - Po zásahu ukrajinského dronu je část Doněcku a Makijivky bez elektrického proudu. 
+          - Mediazona už dokázala ztotožnit 42 284 Rusů zabitých na Ukrajině. 
+          - Polsko připravuje nový balík vojenské pomoci Ukrajině. 
+          - V Samaře hoří závod na výrobu pyrotechniky.
+        videa: |
+          - [Samara](https://twitter.com/PStyle0ne1/status/1749329580891025450)
+          - [Akce Ukrajinců v Praze](https://twitter.com/signa_n/status/1749035939756667136)
+          - [Ruský voják zastavil kadyrovce a málem ho to stálo život](https://twitter.com/wartranslated/status/1749355643683660181)
+          - [Igla versus ruská raketa](https://twitter.com/EuromaidanPress/status/1749386525589062020)
+          - [Ruští vojáci a jejich realita](https://twitter.com/PStyle0ne1/status/1749194599061422452)
+          - [Ruský voják postupuje](https://twitter.com/Getty776/status/1749312961599180912)
+          - [Zničený CAESAR](https://twitter.com/TheDeadDistrict/status/1749384577737461792)
+          - [Serhij Bezruč](https://twitter.com/GloOouD/status/1749194797623996794)
+          - [Síť zafungovala](https://twitter.com/TheDeadDistrict/status/1749290427990024214)
+          - [Konec srazu](https://twitter.com/Getty776/status/1749228525973061722)
+          - [Noční lov](https://twitter.com/nevedimka123/status/1749133066436481383)
+          - [Trefa!](https://twitter.com/GloOouD/status/1749385671783965116)
+          - [Lancet trefil náklaďák s municí, munice zůstala celá](https://twitter.com/TheDeadDistrict/status/1749289930885325030)
+          - [Mínus bagr](https://twitter.com/Getty776/status/1749365051633631309)
       - title: "Neděle"
         year: "21. ledna 2024"
         image: assets/img/timeline/2024-01-21.jpg
