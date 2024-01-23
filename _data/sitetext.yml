@@ -38,6 +38,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "23. ledna 2024"
+        image: assets/img/timeline/2024-01-23.jpg
+        desc: |
+          Mezi americkými MAGA republikány se začaly objevovat nejrůznější sbírky na podporu ruských ozbrojených složek. Podobně jako dříve Ukrajinci, nabízí nyní Rusové například, že vám napíšou vzkaz na dělostřelecký granát. Oficiálně má jít výtěžek z crowdfundingu na „ruskou humanitární pomoc“, ve skutečnosti ale na nákup vojenského materiálu, zbraní a munice. Podobné „sbírky“ se paralelně s USA objevily i v dalších státech, a to včetně Česka, kde si výzvy k přispění sdílí lidé v uzavřených skupinách na Facebooku a Telegramu. Pokud byste na některou z nich narazili, neváhejte podat trestní oznámení (klidně na neznámého pachatele). Lze tak učinit jednoduše přes datovou schránku a těch pár minut může někomu na správné straně barikády zachránit život. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid07hY1ued8i2yofbZ7GxAuEwSYBSmsLAbt1PSJfwtr28m6A5CQvQgbdKyLE4vby8uml): 
+        detail: |
+          - Rusové zasáhli nad ránem několik Ukrajinských měst. Ukrajinská PVO hlásí 21 zničených raket ze 41. Kromě toho ale Rusové pálili také čtyřmi raketami z PVO systémů. Jen Charkov byl zasažen hned 12 raketami S-300, Ch-32 a Iskander, přičemž rakety dopadly převážně na bytové domy. V troskách zahynulo nejméně 5 lidí a 51 bylo zraněno. Rusové nicméně tvrdí, že zasáhli ubytovnu pro zahraniční žoldáky. Ty „žoldáky“ si můžete prohlédnout na některých videích a fotkách níže. Jeden člověk zahynul i při ostřelování Kyjeva a 11 bylo zraněno. Pavlohrad hlásí další dvě oběti na životech. 
+          - Analytici zkoumali videa na sítích, která zachytila nedávné dopady na tržnici v Doněcku. Některá videa zaznamenala nejen okamžik výbuchu, ale také zvuky odchozí palby. Průměrný čas mezi zvukem výstřelu a dopadem je přitom mezi 2,50-4,25 sekundami. Granáty tedy mohly přiletět z pozice vzdálené maximálně 4 km, spíše ale mnohem blíže. 
+          - Orbán poslal švédskému premiérovi oficiální pozvánku do Budapešti na „vyjednávání“ o členství v NATO. O čem chce Orbán vyjednávat? Pokud chce maďarský souhlas čímkoliv podmínit, není to vyjednávání, ale vydírání. Speciální podmínky pro přijetí si ze všech států doposud kladlo jen Turecko. 
+          - Lavrov na zasedání OSN znovu opakoval některá absurdní tvrzení ruské propagandy o zločinnosti současného ukrajinského režimu a jeho nacistické ideologii, odmítl mírové plány navržené Ukrajinou a podpořené Západem a vyhrožoval světu, aby přijal ruské nabídky k urovnání, „než bude pozdě“. 
+          - Některé státy NATO údajně omezily sdílení citlivých informací se Slovenskem poté, co se moci chopil Fico. Omezení může být ještě citelnější, pokud by se novým šéfem rozvědky stal bývalý šéf policie Tibor Gašpar, který čelil obvinění z organizování zločinného spolčení. 
+          - Ruský dobrovolnický sbor se pochlubil diverzní akcí, při které nechal na území Ruska vykolejit vlak převážející vojenský materiál. To by nebylo poprvé, zajímavé ale je, že se akce odehrála u Novosibirsku, přibližně 3 000 km daleko od ukrajinských hranic. 
+          - Polský premiér Tusk prohlásil, že „kdokoliv dnes předstírá, že je neutrální, kdo předstírá, že k Ukrajině a Rusku je třeba přistupovat stejně, ten si zaslouží nejtemnější místo v politickém pekle“.
+          - Maďarský ministr zahraničí uvedl, že Maďarsko se nebude podílet na financování vojenské pomoci Ukrajině z Evropského mírového fondu, ale nebude bránit jiným zemím, aby tak učinily. 
+          - Zelenský podepsal prezidentský dekret, který označuje některé regiony Ruska za historicky obývané Ukrajinci a zavazující Ukrajinu k ochraně historie a kultury tamějších obyvatel.
+          - Země NATO společně nakoupí 155mm munici za 1,2 miliardy dolarů, tedy přibližně 220 000 kusů. Předpokládá se, že bude určena pro Ukrajinu. 
+          - Rafinérie v přístavu Ust-Luga, kterou zasáhly ukrajinské drony, bude nejméně týdny, potenciálně i několik měsíců mimo provoz. 
+          - Lídr Rusy okupovaného Podněstří vyzval k častějším vojenským cvičením a zkouškám připravenosti armády. 
+          - Rusové po nedávných útocích dronů přesunuli na obranu Petrohradu několik baterií systému S-300. 
+          - Belgie letos poskytne Ukrajině vojenskou pomoc v hodnotě 611 miliónů eur. 
+          - Turecký parlament bude tento týden hlasovat o vstupu Švédska do NATO. 
+          - Rusům se podařilo probít z jihu na okraj Avdijivky. 
+          - Dnes se koná další schůze formátu Ramstein. 
+        videa: |
+          - [Charkov, loučení s domovem](https://twitter.com/nexta_tv/status/1749717975081377930)
+          - [To jsou ti zahraniční žoldáci?](https://twitter.com/wartranslated/status/1749710037738570234)
+          - [Bum!](https://twitter.com/TheDeadDistrict/status/1749458742746173557)
+          - [Taky bum](https://twitter.com/PStyle0ne1/status/1749767791463284878)
+          - [Kyjev](https://twitter.com/exileoftza/status/1749741242911510600)
+          - [Doněck je bez elektřiny](https://twitter.com/PStyle0ne1/status/1749545689074544725)
+          - [Kyjev – i sestřelená raketa je nebezpečná ](https://twitter.com/Getty776/status/1749670611637637275)
+          - [Rus u Krynek (citlivé!)](https://twitter.com/PStyle0ne1/status/1749481600994210205)
+          - [Ostrý výcvik ](https://twitter.com/Getty776/status/1749753274834821611)
+          - [Dron si počkal na kadyrovce](https://twitter.com/PStyle0ne1/status/1749481349545590942)
+          - [Rus a jeho poslední vlog ](https://twitter.com/LaraFilinni/status/1749509149635887240)
+          - [Ruské zásobení vodou ](https://twitter.com/PStyle0ne1/status/1749439133007671438)
+          - [Plamenná řeč? ](https://twitter.com/GloOouD/status/1749515170051973260)
+          - [Ou](https://twitter.com/Getty776/status/1749566137912959336)
       - title: "Pondělí"
         year: "22. ledna 2024"
         image: assets/img/timeline/2024-01-22.jpg
