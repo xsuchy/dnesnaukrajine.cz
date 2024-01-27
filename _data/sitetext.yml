@@ -38,6 +38,50 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "27. ledna 2024"
+        image: assets/img/timeline/2024-01-27.jpg
+        desc: |
+          Stále neexistují přesvědčivé důkazy o tom, že by na palubě sestřeleného IL-76 u Bělgorodu byli ukrajinští váleční zajatci. Rusko sice průběžně předkládá nejrůznější „důkazy“, ale většina z nich působí minimálně podivně, jiné jsou prachobyčejné lži. Za posledních 24 například Rusko zveřejnilo rozmazané video, kde kdosi ohledává mrtvé tělo a komentuje, že zesnulý má mezi tetováním „tryzub“, což nemůžeme ověřit, protože… je video rozmazané. Poté Rusové zveřejnili na sítích fotografie dvou ohořelých ukrajinských dokladů, které jednak nedokazují vůbec nic, a hlavně je podivné, že by zajatcům Rusové nechali v letadle jejich doklady. A do třetice Rusové ukázali video z letištní kamery, která má údajně zachycovat nakládání vězňů do letadla v Bělgorodu, jenže na videu je dohromady vidět 5, a ne 65 osob, nejde z něj určit, o jaké lidi jde, protože záběry jsou z velké dálky, a navíc, a to je nejdůležitější, OSINT komunita prověřila video a podařilo se jí geolokovat místo, kde bylo video pořízeno, a není to Bělgorod, ale vojenské letiště Čalkovo u Permu. Přesto všechno řada světových i českých médií pracuje s ruskou verzí incidentu jako s hotovou věcí. Citovat ruské výroky je přitom asi podobně spolehlivé, jako brát informace o konfliktu v Gaze od Hamásu. Člověk by čekal, že ty roky lží – vždy a o všem – už média něco naučily. Zdá se, že opak je pravdou. Tak pojďme na [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02HCHQXth25jzim7qARhTmEgHJknmcjvcWWRDyCNkBETwVk6xwcW8Lg24JmQizJNaEl), které v médiích možná ani nenajdete: 
+        detail: |
+          - Německé ministerstvo zahraničí odhalilo masivní ruskou dezinformační kampaň na síti X (Twitter). Rusko tu vytvořilo síť zahrnují nejméně 50 000 falešných účtů, které šířili vyfabulované informace s cílem poškodit současnou vládu a otrávit lidem pomoc Ukrajině. Účty generovaly vlastní obsah, a to v objemu až 200 000 tweetů denně, navzájem se sdílely a komentovaly, linkovaly na podvodné stránky a šířily upravené novinové titulky nebo falešné obrázky. Hlavní propagandistický narativ byl podobný jako u dezinformací v Česku: vláda zanedbává vlastní občany a radši pomáhá Ukrajině. Podle Němců byla navíc síť minimálně částečně řízena algoritmicky nebo automaticky pomocí umělé inteligence. 
+          - Ukrajinská rozvědka informovala, že její úspěšný hackerský útok zničil IT infrastrukturu ruské společnosti IPL Consulting, která dodává a implementuje informační technologie pro ruské ministerstvo obrany a armádu. 
+          - 14 ruských tankerů s ropou čeká na moři u indických břehů na vyložení nákladu kvůli tomu, že Indie v obavě ze sankcí nechce za ropu platit v dolarech, ale Rusko naopak nechce přijmout nabízené indické rupie. 
+          - Ruský kamikadze dron zasáhl ve městě Časiv Jar auto s dobrovolníky z UNHCR, kteří vezli humanitární pomoc tamějším obyvatelům. Posádka vyvázla bez zranění, ale auto a část materiálu byly zničeny. 
+          - Spojené státy odsouhlasily prodej 40 letounů F-16 Turecku. Je tedy pravděpodobné, že blokování podobných obchodů bylo to, co nakonec dotlačilo Turecko ke schválení vstupu Švédska do NATO. 
+          - Viktor Filonov, ruský voják z 234. pluku 76. parašutistické divize ze Pskova, která se podílela na masakrech v Buči, společně se svou rodinou adoptoval sedmiletého ukrajinského chlapce. 
+          - Američtí senátoři údajně vyjednali podobu dohody o imigrační politice, která by znamenala, že republikáni odblokují další pomoc Ukrajině. Dohoda má být oznámena v příštím týdnu. 
+          - Putin na tiskové konferenci potvrdil, že na straně Ruska bojuje na Ukrajině okolo 600 000 vojáků. Zároveň řekl, že „speciální vojenská operace“ je pokus, jak válku ukončit. Eh. Cože? 
+          - Ruská skupina sabotérů pronikla v Sumské oblasti za hranice a zastřelila dva civilisty – bratra a sestru, kteří se jí připletli do cesty. 
+          - Šéf německé rozvědky Bruno Kahl věří, že Putin nebude váhat s útokem na NATO, pokud uspěje na Ukrajině. 
+          - Spojené státy přesunou do Británie některé své jaderné hlavice v reakci na rostoucí hrozby ze strany Ruska. 
+          - Spojené státy oznámily, že mají důkazy o tom, že Jihoafrická republika dodala Rusku zbraně. 
+          - Maďarsko navzdory Orbánovým slibům zatím neschválilo pomoc pro Ukrajinu. 
+          - Francie předala Ukrajině další dva raketomety M270. 
+        videa: |
+          - [Policista ošetřuje mladého kluka po ruském ostřelování Chersonu (citlivé!)](https://twitter.com/EuromaidanPress/status/1751005845091926429)
+          - [Ruský „důkaz“, jedno rozmazané tělo ](https://twitter.com/TheDeadDistrict/status/1751127536040349889)
+          - [Údajné nakládání zajatců v Bělgorodu, posuďte sami ](https://twitter.com/nexta_tv/status/1751139727166574648)
+          - [Mínus Strela](https://twitter.com/PStyle0ne1/status/1751236400052113661)
+          - [Po ruském útoku](https://twitter.com/GloOouD/status/1751243756525785541)
+          - [Evakuace na frontě](https://twitter.com/Bodbe6/status/1750913670954000412)
+          - [Rusko je kult](https://twitter.com/nexta_tv/status/1750946236641788398)
+          - [Dnešní Avdijivka](https://twitter.com/EuromaidanPress/status/1751241945421119776)
+          - [Drony pracují](https://twitter.com/Getty776/status/1751193306590261759)
+          - [Ukrajinský tank](https://twitter.com/front_ukrainian/status/1751242793299681465)
+          - [Mínus EW systém](https://twitter.com/PStyle0ne1/status/1751194809484578925)
+          - [Mínus ruské raketomety](https://twitter.com/TheDeadDistrict/status/1751196457028186610)
+          - [Mínus dvě tédevadesátky](https://twitter.com/Getty776/status/1751185866859679779)
+          - [Co to máš za nášivku?](https://twitter.com/PStyle0ne1/status/1751194395456512304)
+          - [Začistka po ruském útoku](https://twitter.com/Getty776/status/1751195595665268857)
+          - [Rusům nejspíš nevyšla evakuace (citlivé)](https://twitter.com/SIKORA_slava/status/1751225066510020612)
+          - [Mínus ruská útočná skupina](https://twitter.com/Bodbe6/status/1751228632003912184)
+          - [Zastavený ruský útok](https://twitter.com/GloOouD/status/1751169318887309590)
+          - [Ruská kára u Krynek](https://twitter.com/PStyle0ne1/status/1751018107424948544)
+          - [Výcvik ](https://twitter.com/Bodbe6/status/1751220272428986731)
+          - [Ukrajinský dron klade miny](https://twitter.com/PStyle0ne1/status/1750955318635299219)
+          - [Klec nepomohla](https://twitter.com/Getty776/status/1751233901232804120)
+          - [Krynky, hořící ruská technika](https://twitter.com/NHunter007/status/1751172117519839257)
       - title: "Pátek"
         year: "26. ledna 2024"
         image: assets/img/timeline/2024-01-26.jpg
