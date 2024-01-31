@@ -38,6 +38,36 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "31. ledna 2024"
+        image: assets/img/timeline/2024-01-31.jpg
+        desc: |
+          Dánský vojenský expert Anders Puck Nielsen nastínil, jak podle něj bude vypadat ruský útok na NATO. Nielsen věří, že Putin nechce riskovat přímou vojenskou konfrontaci s celým NATO (protože na to Rusko nemá kapacitu), ale spíše usiluje o politický rozklad aliance, a proto provede menší útok, jehož cílem bude otestovat rozhodnost aliance bránit se agresi společně. Útok by tak mohl začít například obsazením nějakého malého, zdánlivě „nedůležitého“ a vzdáleného území, Nielsen tu zmiňuje například sever Finska. Rozsah útoku by měl být dost velký na to, aby Finsko aktivovalo článek 5 smlouvy o kolektivní obraně, ale ne tak velký, aby na něj nutně musela reagovat celá aliance. Rusko by pak pozorně sledovalo, jak aliance postupuje. V případě, že by některé státy odmítly přijít Finsku na pomoc, znamenalo by to de facto konec aliance – protože to je její primární smysl – a Rusko by mělo volné ruce k dalším výpadům. Nám tedy nezbývá než doufat, že na klíčových pozicích sedí a tou dobou budou sedět lidí, kteří budou připraveni rázně odpovědět. Ale teď už [pár dalších aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0atkcAAYQTRCq7aspvFMhBprAgThRrJKVraQv8cPtebSzumWXGXEhVUTkvcWmTc1el):  
+        detail: |
+          - Rusko se v posledních 24 hodinách potýkalo s velkým výpadkem internetu. Tisíce webů s koncovkou .ru bylo nedostupných a lidé hlásili i výpadky zahraničních sociálních sítí a webů. Lidé si všímají, že výpadek na ruském internetu měl efekt i v USA a Evropě: Skokově se během krátké chvíle snížila aktivita falešných účtů a objem propagandistických příspěvků na sociálních sítích. To můžu ostatně potvrdit i já. Dnešek byl opravdu až podivně „normální“. 
+          - Niger, Mali a Burkina Faso opustili Hospodářské společenství západoafrických států (ECOWAS). Čirou „náhodou“ jde o státy, kde aktuálně vládnou vojenské junty, které nasměrovaly svou politickou orientaci na Rusko a na jejichž území působí (nebo v případě Burkiny Faso budou působit) wagnerovci, kteří pomocí tamějších zlatých dolů financují svoje operace na Ukrajině. 
+          - Finsko nakonec přeci jen obvinilo Jana Petrovského, člena ruské neonacistické jednotky Rusič, nikoliv však kvůli jeho působení v extremistické skupině nebo zapojení do bojů na Ukrajině. Úřady ho viní z opakovaného ilegálního překročení finských hranic. Další obvinění by nicméně měly přijít později. 
+          - Pentagon oznámil, že v nejbližších dnech Ukrajina obdrží nové americké naváděné bomby s dlouhým doletem – GLSDB, které vyrábí společnosti Boeing. Ty přitom nejsou dosud v arsenálu ani samotné americké armády. Ukrajina je tedy zároveň bude testovat „naostro“. 
+          - Šéf ukrajinské rozvědky Budanov věří, že současná ruská ofenziva bude kulminovat už začátkem jara. Rusko podle něj vyčerpává svoje ofenzivní kapacity a nedokázalo si dosud připsat žádný důležitý úspěch na frontě, který by mohlo vytěžit.
+          - Ředitel americké CIA William Burns uvedl, že neschválit adekvátní vojenskou pomoc Ukrajině by znamenalo dopustit se chyby historických proporcí. 
+          - Ruská olympijská šampionka v synchronizovaném krasobruslení z roku 2022 Kamila Valijeva přišla o medaili kvůli potvrzenému dopingu. 
+          - Premiér Šmyhal informoval, že Ukrajina letošní zimu zvládla zásobovat domácnosti plynem, který 100% pochází z domácí produkce. 
+          - Ukrajinské drony dnes v noci zaútočily na areál továrny Něvsky Mazut v centru Petrohradu a poničily tamější nádrže s palivem. 
+          - Ukrajinské vojenská rozvědka oznámila, že se jí podařilo zničit speciální servery ruského ministerstva obrany. 
+          - Ruské drony zasáhly areál zemědělského podniku u Mykolajivu. Při útoku byl zraněn člen ostrahy areálu. 
+          - Ukrajinská PVO v noci na dnešek sestřelila 14 z pravděpodobně 20 kamikadze dronů Shahed. 
+          - Kde je náčelník generálního štábu Gerasimov a velitel černomořské flotily Sokolov?
+        videa: |
+          - [Ruský tankista a bloger byl… a už není](https://twitter.com/wartranslated/status/1752623575255683354)
+          - [Konflikt mezi ruskou armádou a wagnerovci](https://twitter.com/TheDeadDistrict/status/1752405939943059565)
+          - [Ruský voják se vzdal dronu](https://twitter.com/Getty776/status/1752598546644336995)
+          - [Rusové se pokusili vstoupit do Krynek](https://twitter.com/PStyle0ne1/status/1752644630309417007)
+          - [Když zaparkuješ u hromádky min](https://twitter.com/TheDeadDistrict/status/1752589261889573258)
+          - [Na Dněpru](https://twitter.com/PStyle0ne1/status/1752582293334438168)
+          - [Mínus Grady](https://twitter.com/bayraktar_1love/status/1752631690789277978)
+          - [Kouzlo!](https://twitter.com/TheDeadDistrict/status/1752524306498670944)
+          - [A zase ty drony…](https://twitter.com/GloOouD/status/1752459363338293516)
+          - [Schovka nevyšla](https://twitter.com/Getty776/status/1752383048233185502)
       - title: "Úterý"
         year: "30. ledna 2024"
         image: assets/img/timeline/2024-01-30.jpg
