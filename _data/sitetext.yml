@@ -38,8 +38,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
-      - title: "Čtvrtek"
+      - title: "Pátek"
         year: "2. února 2024"
+        image: assets/img/timeline/2024-02-02.jpg
+        desc: |
+          Podle německých investigativních novinářů se několik německých poslanců za AfD pokusilo loni ohrozit dodávky zbraní Ukrajině na přímý rozkaz od ruské FSB. Média odhalila, že jeden z poradců strany, rozený Ukrajinec Vladimir Sergejenko, přímo spolupracuje s ruskou rozvědkou. Proti AfD vypukly v minulých dnech masové protesty napříč Německem poté, co vyšlo najevo její propojení na nepokryté německé neonacisty. Přesto jde aktuálně o druhou největší stranu s podporou v populaci okolo 20 %. Přijde mi až neuvěřitelné, kolik vlivu si Rusové svými krvavými penězi dokázali ve světě koupit. Bohužel je to výsledek situace, kdy se práce v politice stále vnímá primárně jako cesta k penězům a statusu. A změnit to může jen nastupující generace. Tedy pokud bude chtít. Ale teď už [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0itZyEbpYmCbyXDUjPjzi8YR7M9frcgmzdj8GhxzBaRupnhrhGdG9EH8KWK2do9QLl): 
+        detail: |
+          - Rusko zuří poté, co Ekvádor oznámil, že kývnul na nabídku Spojených států, aby vyměnil „šrot sovětské výroby“ za novou americkou vojenskou techniku. Předpokládá se totiž, že takto získaná ekvádorská technika se dočká oprav a úprav a odcestuje na Ukrajinu. 
+          - Loď Ivanovec podle informací ukrajinského štábu zasáhlo celkem 6 dronů MAGURA V5. Dohromady jich pravděpodobně útočilo deset. Na palubě zasažené lodi bylo v té době okolo čtyřicítky námořníků. Odhaduje se, že nikdo nepřežil. 
+          - Putin podle BBC nařídil uvěznit 12 vědců a inženýrů, kteří pracovali na vývoji ruských hypersonických raket Kinžál, které měly být podle ruské propagandy nesestřelitelné. 3 z uvězněných vědců už jsou navíc po smrti. 
+          - Turecké banky začaly hromadně uzavírat účty některým ruským podnikatelům, a navíc zavádí přísnější pravidla pro další ruské občany, kteří by si v Turecku chtěli účet otevřít. 
+          - Prezident Macron informoval, že při ruském útoku dronů na ambulanční vozy u Beryslavi zahynuli dva francouzští humanitární pracovníci. Útok označil za zbabělý a nehorázný čin. 
+          - Šéf rumunského generálního štábu vyzval k přípravám na potenciální válku s Ruskem a navrhnul změnu legislativy, která by umožnila sestřelovat ruské drony. 
+          - Rusové včera v noci zničili raketou budovu školy v Myrnohradu, která tou dobou sloužila jako sklad a distribuční centrum pro humanitární pomoc a pitnou vodu. 
+          - Předseda ruské Bezpečnostní komise Kartapolov přiznal, že Rusko nemá prostředky na to, aby dokázalo ochránit Petrohrad před ukrajinskými drony. 
+          - Ukrajinská PVO v noci sestřelila jen 11 z 24 ruských kamikadze dronů Shahed. Cílem útoku byla tentokrát opět energetická soustava. 
+          - „V Evropské unii nepanuje únava z Ukrajiny, ale únava z Orbána,“ řekl novinářům nový polský premiér po jednání v Bruselu. 
+          - Arménie se připojila k jurisdikci Mezinárodního soudu v Haagu. Putin a Lukašenko tak mají nyní arménské dveře zavřené. 
+          - Během ukrajinského raketového útoku na letiště Belbek zahynul ruský generálporučík Alexandr Tatarenko. 
+          - Čína vyzvala Ukrajinu, aby vyškrtla 14 čínských firem se seznamu „sponzorů ruské války“. 
+          - V důsledku útoků na ruské ropné terminály poklesl export ruského benzínu o 37 %. 
+          - Ruské soudy potrestaly první lidi za „propagaci LGBT“ podle nového zákona. 
+        videa: |
+          - [Zničené centrum humanitární pomoci](https://twitter.com/EuromaidanPress/status/1753167849588207685)
+          - [Ukrajina osvobodila zajatého vojáka díky dronům](https://twitter.com/JayinKyiv/status/1752993885456883727)
+          - [HIMARS time](https://twitter.com/TheDeadDistrict/status/1753313049564324137)
+          - [Ajajaj, schovka nevyšla](https://twitter.com/Getty776/status/1753372836071371077)
+          - [Snajpr](https://twitter.com/PStyle0ne1/status/1753174011612193155)
+          - [Klackem proti dronu](https://twitter.com/TheDeadDistrict/status/1753108414748594521)
+          - [Kluk z Moskvy měl rande s ukrajinským snajprem](https://twitter.com/PStyle0ne1/status/1753116752207045024)
+          - [Drony v akci](https://twitter.com/TheDeadDistrict/status/1753357689843835388)
+          - [Ruská evakuace (citlivé!)](https://twitter.com/PStyle0ne1/status/1753114612818424157)
+          - [Mínus tank a BMP](https://twitter.com/Bodbe6/status/1753087182296764883)
+          - [Kouzlo zmizení ](https://twitter.com/Getty776/status/1753333040334696914)
+          - [Archiv: ukrajinský Uragan pálí z bárky na Hadí ostrov](https://twitter.com/TheDeadDistrict/status/1753356434471833635)
+          - [Ťuky ťuk…](https://twitter.com/Getty776/status/1753328002820419746)
+          - […je někdo doma?](https://twitter.com/Getty776/status/1753308675803058549)
+          - […jdu náhodou kolem.](https://twitter.com/Getty776/status/1753072613386313775)
+          - [Drony na lovu](https://twitter.com/TheDeadDistrict/status/1753270877590782227)
+          - [Neplecha ukončena](https://twitter.com/Getty776/status/1753317315637293529)
+          - [Čečencům jede nová technika](https://twitter.com/herooftheday10/status/1753215855658254683)
+      - title: "Čtvrtek"
+        year: "1. února 2024"
         image: assets/img/timeline/2024-02-01.jpg
         desc: |
           Navzdory dřívějším prohlášením ze strany Ruska, že incident v Bělgorodu zastavil další výměny zajatců, proběhla včera v pořadí 50. a dosud největší výměna zajatců. Domů se dostaly bezmála dvě stovky ukrajinských vojáků a členů národní gardy, tedy i AZOVu, což je samo o sobě také nečekaná novinka, a také několik civilistů. Naprostá většina propuštěných jsou veteráni a hrdinové, kteří prošli Mariupolem. Zároveň ale Rusko nenabídlo k výměně zajatce, o kterých tvrdí, že zemřeli při pádu letadla Il-76. Co se s nimi stalo, to si člověk radši nechce domýšlet. A teď [pár dalších zpráv](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0azm1eYh7MdY8tePagQHwesZf3QrGsbDiRjRkdCfC7BhoTgqD5HG13kFScd4rWo6zl): 
