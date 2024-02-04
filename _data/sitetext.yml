@@ -38,6 +38,37 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "4. února 2024"
+        image: assets/img/timeline/2024-02-04.jpg
+        desc: |
+          Ruská propaganda v Americe šíří deepfake video s texaským politikem Gregem Abbotem, na kterém chválí Putina a doporučuje americkému prezidentovi Bidenovi, aby si vzal z Putina příklad. Příští volby po celém světě budou nejspíš protkané podobnými podvody a Západ bohužel zcela zapsal v přípravě legislativy a prostředků na jejich potírání. Dá se ještě mluvit o svobodných volbách, když část populace je doslova v zajetí dezinformací, které je nutí dělat důležitá politická rozhodnutí na základě nepravdivého obrazu světa okolo nich? Bohužel si myslím, že když se rozhodujete na základě lží, kterým upřímně věříte, pak už se nerozhodujete svobodně. Pouze vykonáváte vůli toho, kdo vám lhal. Ale dost úvah, zpátky k [novinkám](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0bymaeWryAXhL1spXpUabCpxrxb1MJxf4KKmKSEtyExRpjkcrDQFQLMawx14cV1vLl): 
+        detail: |
+          - Ruský propagandista a bývalý moderátor americké stanice Fox News Fu-… pardon… Tucker Carslon přicestoval do Moskvy, kde ho foťáky zachytily v soukromé lóži Velkého Divadla během baletního představení Spartaka. Na svých kanálech se zřejmě pokoušel návštěvu utajit, protože o ní tento jinak mimořádně výřečný kašpárek nenapsal ani slovo. 
+          - Ukrajinci zasáhli kavárnu v okupovaném Lysyčansku pomocí raket ze systému HIMARS ve chvíli, kdy se v ní konala schůzka ruského velení – jak potvrdili i sami Rusové. Počet obětí se pohybuje okolo 28. Konkrétní jména zabitých, ale zatím nejsou známa. 
+          - Po několika týdnech, které se nesly ve znamení ruských útoků a mírných postupů v okolí Bachmutu převzali podle ISW Ukrajinci iniciativu a postoupili jak na severozápadě, tak na jihozápadě města. 
+          - Americký senát téměř jednomyslně schválil konfiskaci ruského majetku v USA a jeho předání Ukrajině. Proti byl pouze otevřeně proruský senátor Rand Paul. 
+          - Rusům se skutečně podařilo obejít některé ukrajinské obranné pozice a zakopat se u prvních domů v severní části Avdijivky. Situace tak zůstává velmi napjatá. 
+          - Americká sněmovna reprezentantů bude hlasovat o balíku vojenské pomoci pro Izrael, z něhož byla vyjmuta pomoc pro Ukrajinu. 
+          - Ruská sabotážní skupina se opět pokusila proniknout do Sumské oblasti, ale jejich pokus překazili ukrajinští pohraničníci. 
+          - Rusové mají nyní opět zhruba pětinásobnou převahu v počtu vypálených dělostřeleckých granátů denně. 
+          - Právník Igora Girkina informoval, že není vyloučeno, že Girkin narukuje, aby se vyhnul trestu.
+          - Moskevská policie zadržela novináře, kteří přišli natáčet protesty proti mobilizaci. 
+          - Zelenský navštívil frontu u obce Robotyne. 
+        videa: |
+          - [Ruský velitel se vzdal společně s celou jednotkou ](https://twitter.com/PStyle0ne1/status/1753872860387397960)
+          - [Zelenský u Robotyného](https://twitter.com/NOELreports/status/1754120180098011296)
+          - [Dva ptáci](https://twitter.com/front_ukrainian/status/1753803770465599999)
+          - [Rusové v TV: „Ameriku bychom zničili za hodinu“. Vážně? ](https://twitter.com/Maks_NAFO_FELLA/status/1754092401050702315)
+          - [Z krytu ven, vypálit a zpátky](https://twitter.com/PStyle0ne1/status/1753876068832838075)
+          - [Ruský Grad po rande s dronem](https://twitter.com/TheDeadDistrict/status/1753979863692726620)
+          - [Mínus tanky](https://twitter.com/GloOouD/status/1754064413668020260)
+          - [Drony a odposlech ruských vysílaček ](https://twitter.com/TheDeadDistrict/status/1753977865903702344)
+          - [Ruský útok ruskýma očima](https://twitter.com/Bodbe6/status/1753946116805034232)
+          - [Ruský zajatec, co přišel denacifikovat Evropu ](https://twitter.com/Q0MT6pFmbVqynsM/status/1754069325630022117)
+          - [Osa při práci](https://twitter.com/TheDeadDistrict/status/1753848293744894160)
+          - [Drony (citlivé!)](https://twitter.com/GloOouD/status/1753824042031763789)
+          - [Pěkně jsi mě trefil (citlivé)](https://twitter.com/herooftheday10/status/1753827142469669176)
       - title: "Sobota"
         year: "3. února 2024"
         image: assets/img/timeline/2024-02-03.jpg
