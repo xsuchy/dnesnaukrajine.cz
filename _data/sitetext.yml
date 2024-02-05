@@ -38,6 +38,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "5. února 2024"
+        image: assets/img/timeline/2024-02-05.jpg
+        desc: |
+          Ruské kanály se křečovitě snaží spinovat cestu Tuckera Carlsona do Moskvy jako „součást práce investigativního novináře“. Carlson je nicméně sotva novinář, natož investigativní. Oblíbenou taktikou propagandy je také srovnávat jeho cestu s dřívější prací novinářky Barbary Walters. Jenže Barbara Walters jednak skutečná novinářka byla, ale hlavně zpovídala Putina v roce 2001, tedy dávno předtím, než se z Putina stal diktátor, z Ruska fašistický stát a než Putinova propaganda vyhlásila Západu nejprve hybridní válku a poté i skutečnou. To poslední, co svět potřebuje, je poskytovat diktátorům platformu k šíření jejich „alternativní pravdy“. Nakonec, taková platforma už existuje. Jmenuje se X. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0MCgtPyhhKPqDf66WZG4Bb4ecHFHzPmbwAzkr5srk8b1sLNP2M1ApkYed5GKov27ml): 
+        detail: |
+          - U propagandy ještě zůstaneme. Rusko ve Spojených státech aktuálně oživuje svoji někdejší psychologickou operaci – hnutí za odtržení Texasu od zbytku Spojených států. Poprvé se v masovém měřítku objevilo už ve volebním roce 2016, kdy také poprvé (a úspěšně) kandidoval Donald Trump. Tehdy novináři odhalili, že za řadou hnutí včetně největšího „Heart of Texas“ přímo stojí Rusové. Neuvěřitelné je, že na oko stejná operace sklízí svoje plody i o osm let později. 
+          - Jedním ze zabitých při ukrajinském úderu pomocí raket ze systémů HIMARS na restauraci Adriatic v Lysyčansku je ministr pro mimořádné situace samozvané Luhanské lidové republiky Alexej Poteleščenko. Mezi obětmi jsou také dva členové okupační správy. Tolik k tvrzením, že šlo o pouhou pekárnu. 
+          - Ruská policie kompletně zdemolovala byt 67leté ruské pediatričce, kterou nahlásila jedna z pacientek úřadům pro „šíření fake news o ruské armádě“. Doktorka prý řekla o zesnulém manželovi pacientky, že jakožto okupant byl legitimním cílem ukrajinské armády, což se nelíbilo ani vdově, ani úřadům.  
+          - Rusko údajně shromáždilo už okolo 500 tanků, 600 obrněných vozidel a 50 000 vojáků pro budoucí ofenzivu s cílem znovu obsadit Kupjansk. Analytici věří, že Putin chce za každou cenu obsadit některé větší město ještě před prezidentskými volbami. 
+          - Maďarská opozice svolala schůzi sněmovny, kde se mělo řešit členství Švédska v NATO. Poslanci Orbánovy strany ale schůzi bojkotovali, a tak na hlasování ani nedošlo. Přítomno bylo pouze 59 poslanců ze 199. 
+          - Rusové se opět pokusili proniknout do Sumské oblasti. Po hodině trvající přestřelce s pohraničníky a protisabotážní jednotkou evakuovali své raněné a stáhli se zpátky za hranice. 
+          - Podle britské rozvědky působí v současnosti v Bělorusku maximálně 1000 wagnerovců a věnují se primárně výcviku a vzdělávání běloruských vojáků. 
+          - V ruské Karélii se zřítil vrtulník Mi-8 s třemi lidmi na palubě během cvičného letu. Trosky stroje byly nalezeny v jezeře Onega, 11 kilometrů od břehu. 
+          - Boje v Avdijivce se na severní straně přesunuly do ulic. Situace je nyní kritická poté, co obráncům začala ve velkém docházet munice. 
+          - Bulharské úřady zadržely pracovnici ministerstva vnitra pro podezření ze spolupráce s ruskou rozvědkou. 
+          - Objem exportu zboží z přístavu v Oděse dosáhl předválečné úrovně ruské blokádě navzdory. 
+          - Nizozemsko poskytne Ukrajině dalších 6 letounů F-16 k již slíbeným 18 kusům. 
+          - Na frontě padl ukrajinský šampion ve vzpírání Oleksandr Bilokon. 
+        videa: |
+          - [Ruská verze Lend-lease](https://twitter.com/NOELreports/status/1754415475776266556)
+          - [Ruské pončo proti termovizi… úplně nezafungovalo](https://twitter.com/PStyle0ne1/status/1754249421057884462)
+          - [Ruští vojáci si stěžovali nadřízeným na krádeže a bití… tak byli okradeni a zbiti ](https://twitter.com/nexta_tv/status/1754212459462656471)
+          - [Zajatí Rusové u Avdijivky](https://twitter.com/PStyle0ne1/status/1754490058885718110)
+          - [Přepad](https://twitter.com/Bodbe6/status/1754251427587719322)
+          - [Ruské letecké údery na Krynky](https://twitter.com/nexta_tv/status/1754159640122728706)
+          - [„Můžu k vám?“](https://twitter.com/nevedimka123/status/1754476792050594135)
+          - [Ruský sklad dronů po zásahu ](https://twitter.com/PStyle0ne1/status/1754231737587044410)
+          - [Programování GPS munice](https://twitter.com/TheDeadDistrict/status/1754436829216981293)
+          - [Zasažená restaurace v Lysyčansku](https://twitter.com/nexta_tv/status/1754109955529974077)
+          - [Opuštěná tédevadesátka](https://twitter.com/GloOouD/status/1754281697166664000)
+          - [Archiv: boje o Andrijivku](https://twitter.com/Getty776/status/1754206143482859639)
+          - [Trefa!](https://twitter.com/golub/status/1754388674253369510)
       - title: "Neděle"
         year: "4. února 2024"
         image: assets/img/timeline/2024-02-04.jpg
