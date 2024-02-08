@@ -38,6 +38,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "8. února 2024"
+        image: assets/img/timeline/2024-02-08.jpg
+        desc: |
+          Jeden z vyšetřovatelů, který se podílel na exhumaci těl z hromadných hrobů u Izjumu, vypověděl, že z hrobu vyzvedli mimo jiné tělo matky a jejího dítěte, které držela v náručí, a Rusové je připojili k sobě páskou omotanou dokola. Když ale vyšetřovatelé pásku odstranili a chtěli těla od sebe oddělit, všiml si ukrajinský ženista, že Rusové mezi ně vložili protipěchotní minu. Je to přitom už několikáté svědectví, kdy vojáci, vyšetřovatelé a záchranáři uvedli, že Rusové zaminovávají těla, a to včetně těl vlastních padlých vojáků, aby při odklízení zabily nebo zranily kohokoliv, kdo je přijde vyzvednout. Šílené? Ano. Překvapivé? Bohužel už vůbec ne. Pojďme radši na [další zprávy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0YTDmq6SbXQXg2TCfL69bv2vfWoiwpyPhgGaqo8fpVu8cbVaEbuwSmCspZ4pzebySl): 
+        detail: |
+          - U ruského Iževsku, stovky kilometrů daleko od hranic Ukrajiny, explodoval závod Votkinsk, který mimo jiné vyrábí balistické rakety Iskander a mezikontinentální střely Topol. Podle neoficiálních informací zemřelo při výbuchu nejméně 13 inženýrů, kteří se na výrobě raket podíleli. Oficiální zpráva uvádí, že došlo k běžné technické závadě při výrobě. 
+          - Bývalý pro-ruský poslanec ukrajinského parlamentu Nestor Šufrych, který nyní čelí podezření z velezrady, je nově vyšetřován také pro podezření z financování ruských ozbrojených sil. Podle ukrajinských úřadů Šufrych uplácel Rosvgardii, aby střežila jeho nemovitosti na Krymu. 
+          - Podle zatím nepublikované reportu OSN, na který odkazuje agentura Reuters, ukradli hackeři ze Severní Koreje při 58 kyberútocích až 3 miliardy dolarů v kryptoměnách, přičemž nejméně polovina z ukořistěných peněz putovala na severokorejský program na vývoj jaderných zbraní. 
+          - Ukrajinští inženýři zveřejnili, z jakých součástek se skládají íránské drony Shahed-238, které Rusové používají proti Ukrajině, a kdo součástky vyrábí. Kromě navigačních komponentů z USA, Švýcarska a Kanady tvoří drony také proudový motor od české firmy PBS Velká Bíteš. 
+          - Ukrajinská armáda tvrdí, že Rusové začali ve velkém využívat vlastní terminály Starlink. Údajně se dostávají Rusům do rukou už aktivované skrz prostředníky v Dubaji a fungují jak na okupovaném území, tak i v blízkosti samotné frontové linie. 
+          - Neznámí útočníci na ulici v Nikopolu spustili palbu z ručních zbraní na auto místostarosty a na místě místostarostu zastřelili. Auto pak ještě nejspíš úmyslně zapálili. 
+          - Soudy samozvané „Doněcké lidové republiky“ poslali po dalším zinscenovaném procesu do vězení naráz hned 33 ukrajinských zajatců, a to na 27 až 29 let. 
+          - Rusko údajně nakoupilo dolary a eura za zlato v Turecku a Spojených arabských emirátech a dokázalo se tak vyhnout sankcím na nákup cizích měn. 
+          - Ruská Ústřební volební komise odmítla registrovat další dva kandidáty na prezidenta včetně v průzkumech druhého Borise Naděždina. 
+          - Polský premiér Tusk vzkázal americkým republikánům, aby se styděli, protože bývalý prezident Reagan se prý musí otáčet v hrobě. 
+          - Vladyslav Rykov, pilot ukrajinského bitevníku Su-25, byl včera během mise sestřelen a bohužel pád stroje nepřežil. 
+          - 2 z 5 raket vyslaných Ruskem na Charkov při jedné z posledních salv, byly severokorejské rakety KN-23. 
+          - Evropská unie zvažuje, že přidá na sankční seznam osob také propagandistu Tuckera Carlsona. 
+          - Na Tavrijském úseky fronty byl sestřelen další ruský vrtulník Ka-52 Aligátor. 
+          - Finské hranice s Ruskem zůstanou zavřené nejméně do 14. dubna. 
+          - Zálužný nejspíš rezignoval na post velitele ukrajinských sil. 
+          - Rusové vstoupili z východu na okraj Novomychajlivky. 
+          - Šéf MAAE je zpátky v záporožské jaderné elektrárně. 
+        videa: |
+          - [Clintonová o Carlsonovi ](https://twitter.com/nexta_tv/status/1755562698014638186)
+          - [Co našli vyšetřovatelé v hrobě u Izjumu](https://twitter.com/SythUK/status/1755345204696023303)
+          - [Votkinsk](https://twitter.com/front_ukrainian/status/1755290679339618709)
+          - [Archiv: zraněný voják se loučil na videu, naštěstí byl později zachráněn ](https://twitter.com/GloOouD/status/1755286154008568222)
+          - [Mínus velitelský post a několik Gradů ](https://twitter.com/PStyle0ne1/status/1755587622901026936)
+          - [Zas dopadli jak Rusové u Krynek](https://twitter.com/GloOouD/status/1755569763244208311)
+          - [Bradley v akci ](https://twitter.com/antiputler_news/status/1755330301725737259)
+          - [Sebedemobilizace](https://twitter.com/PStyle0ne1/status/1755300218495447337)
+          - [Bývalý ruský muničák](https://twitter.com/TheDeadDistrict/status/1755566437261820206)
+          - [Ukrajinský dron s pořádnou náloží](https://twitter.com/bayraktar_1love/status/1755571760043377101)
+          - [Granát ve stromě](https://twitter.com/front_ukrainian/status/1755574232187101585)
+          - [Boj Rusa s dronem](https://twitter.com/GwarWorin/status/1755378571994947651)
+          - [Mínus ruský člun](https://twitter.com/AncientAlien01/status/1755217804096110716)
       - title: "Středa"
         year: "7. února 2024"
         image: assets/img/timeline/2024-02-07.jpg
