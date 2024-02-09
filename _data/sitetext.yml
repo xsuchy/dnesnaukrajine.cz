@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "9. února 2024"
+        image: assets/img/timeline/2024-02-09.jpg
+        desc: |
+          Tucker Carlson zveřejnil svůj rozhovor s diktátorem Putinem. Kdo čekal jakoukoliv kontroverzi nebo senzaci, ten musí být nutně zklamaný. A znuděný. Rozhovor má více než dvě hodiny a jde o kombinaci naprosto nevyžádané, desítky minut dlouhé lekce z Putinova výkladu historie Ruska a Ukrajiny, obvyklých propagandistických frází o zlých nacistech a bránícím se Rusku a Carlsonových návodných otázek, kterými se snažil Putina dotlačit k tomu, aby řekl něco, co pomůže Trumpovi a jeho MAGA republikánům v nadcházejících prezidentských volbách. Například, když se ptal, zda by změna ve vedení Spojených států mohla pomoci ukončit válku a uzavřít mírovou dohodu. Putin ale chtěl očividně tlačit svou vlastní agendu a většinu Carlsonových otázek ignoroval, včetně té zmíněné. Podle Putina totiž Ameriku beztak neovládá volená reprezentace, ale americké rozvědky, jmenovitě CIA. Několik nehorázných lží ale přece jen zaznělo, třeba když Putin prohlásil, že Polsko v roce 1939 vyprovokovalo Hitlera k útoku, což dosud tvrdila jen a pouze Hitlerova nacistická propaganda. Takže taky žádné překvapení. Pojďme radši k serióznějším [zprávám](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02BbwKSCeBwFUA3VqicNL5avTg7wPhXUXJQ3hv9fSS3fjCY8mEGeJetRmntu4a8j3el): 
+        detail: |
+          - Novým velitelem ukrajinských ozbrojených sil se stal generál Syrský, který dosud velel pozemním vojskům na východní frontě. Zálužnému nabídl prezident Zelenský místo v jeho týmu a udělil mu titul Hrdina Ukrajiny. Stejným titulem ocenil Zelenský také šéfa rozvědky Budanova. 
+          - Magazín New York Times s odvoláním na anonymní zdroj v americké armádě tvrdí, že letadlo Il-76 u Bělgorodu skutečně sestřelil systém Patriot. Zároveň prý na palubě skutečně byli „nějací“ zajatci. Byť ne tolik, kolik Rusko uvádělo. Zprávu nicméně nelze nezávisle ověřit. 
+          - V Moskvě vypukl požár v několika sousedících šestipatrových bytovkách. U některých budov se následkem požáru propadla střecha a požár se pak šířil na další budovy okolo. Celková plocha požáru je okolo 4 000 metrů čtverečních. 
+          - Rusové tvrdí, že Ukrajinci začali používat proti cílům v Rusku drony vlastní sériové výroby s proudovými motory. Motory pro ně údajně dodává německá společnost.
+          - Do Kyjeva dorazila delegace tvořena americkými kongresmany/kami z obou hlavních politických stran. Na tiskové konferenci ujistili Kyjev o pokračující podpoře. 
+          - Podle blogu DeepState dokázali Rusové mírně postoupit na severu i jihu Avdijivky, které tak hrozí sevření. K obklíčení města chybí Rusům překonat „jen“ 5 km. 
+          - Ukrajina si s Ruskem vyměnila další zajatce v poměru 1:1. Domů se tentokrát dostala stovka ukrajinských vojáků. 
+          - Finsko oznámilo rozšíření stávající vojenské pomoci Ukrajině. Nový balík má hodnotu odhadem 190 miliónů eur. 
+          - Ukrajinské drony zasáhly další ruskou ropnou rafinérii, tentokrát Ilskij u Krasnodaru. 
+          - Tchaj-wan zakázal vývoz dalších 77 obráběcích strojů a jejich součástek do Ruska.
+          - Italský parlament schválil prodloužení asistence Ukrajině o další rok. 
+          - Během dalšího ruského ostřelování Sumské oblasti zahynuli tři lidé. 
+          - Polští farmáři opět zablokovali hraniční přechod Medyka. 
+          - USA zavedou zákaz dovozu ruských diamantů.
+          - U Permu explodoval a hoří plynovod.
+        videa: |
+          - [Ropná rafinérie u Krasnodaru ](https://twitter.com/nexta_tv/status/1755863100526383300)
+          - [Rozloučení s posádkou Il-76 v Rusku](https://twitter.com/TheDeadDistrict/status/1755806417632526610)
+          - [Ceremonie](https://twitter.com/TheDeadDistrict/status/1755960417820524598)
+          - [U Permu ](https://twitter.com/nexta_tv/status/1755654017588285929)
+          - [Rusové o stavu vlastní armády](https://twitter.com/PStyle0ne1/status/1756005448077975580)
+          - [Po misi](https://twitter.com/front_ukrainian/status/1756021673403334708)
+          - [Ruský vesmírný program](https://twitter.com/TheDeadDistrict/status/1755933083042197981)
+          - [Ničení ruské pěchoty drony](https://twitter.com/albafella1/status/1755937792855617901)
+          - [Rusové o stavu armády 2](https://twitter.com/PStyle0ne1/status/1755997959362089182)
+          - [Drony](https://twitter.com/TheDeadDistrict/status/1755921764700287098)
+          - [Mínus BMP i s pěchotou](https://twitter.com/Getty776/status/1755994087470379019)
+          - [Krynky](https://twitter.com/TheDeadDistrict/status/1755920759237603696)
+          - [Ivan Beznožka (velmi citlivé)](https://twitter.com/albafella1/status/1755906571991744797)
+          - [Drony v práci](https://twitter.com/666_mancer/status/1755946545495658669)
+          - [Mínus BMD](https://twitter.com/GloOouD/status/1755936142292127866)
       - title: "Čtvrtek"
         year: "8. února 2024"
         image: assets/img/timeline/2024-02-08.jpg
