@@ -38,6 +38,49 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "15. února 2024"
+        image: assets/img/timeline/2024-02-15.jpg
+        desc: |
+          Jeden z republikánských zastupitelů nechal na veřejnost uniknout zprávu, že členové kongresu včera obdrželi informace o nových vojenských kapacitách některé z nepřátelských zemí, které znamenají přímé ohrožení Spojených států a jejich partnerů. Člen americké sněmovny a předseda sněmovní bezpečnostní komise Mike Turner dnes vyzval Bílý dům, aby informaci odtajnil a seznámil s ní veškeré zákonodárce a západní partnery, aby mohli společně prodiskutovat, jak na novou hrozbu reagovat. Podle některých amerických médií včetně ABC se nová hrozba má týkat ruského plánu na umístění jaderných zbraní na oběžnou dráhu. Rusko na podzim vyslalo na oběžnou dráhu náklad, který podléhal přísnému utajení, mohlo by tedy jít právě o něj. Média spekulují, že nová ruská zbraň má za cíl vyřadit západní vojenské satelity, spíše než útočit na pozemní cíle. Ve vojenských kruzích se hovoří o tom, že se o plánech Ruska delší dobu vědělo, nicméně nikdo netušil, že Rusko už dokázalo zbraň uvést do provozu. O co konkrétně jde, to se – snad – dozvíme v příštích dnech či týdnech. Do té doby je jisté pouze to, že existuje jakási vážná hrozba pro západní armády, všechno ostatní je třeba vnímat jako spekulace. Tak pojďme raději na [potvrzené informace](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0btkZ8V6kDJsiszeS7EB5eZEpLGZnHYR5PQat5EyFAkALccfRVxpLysRvPpvxb29Tl): 
+        detail: |
+          - Navzdory přesunu ukrajinských posil k Avdijivce a podniknutým protiútokům se podle dostupných informací podařilo Rusům udržet (nebo znovu dobýt) hlavní silnici mezi koksovnou a městem. Ukrajinský štáb proto dnes ohlásil, že nejméně část ukrajinských sil se stahuje na výhodnější pozice – pravděpodobně posádka opěrného bodu Zenit a dalších pozic na jihu města. Zároveň je prý ale zatím stále možné město dál zásobovat po náhradní, předem připravené trase. 3. šturmová informovala, že na město útočí 7 ruských brigád, přičemž dvě prý při ukrajinském protiútoku utrpěly „kritické škody“. Rusové jsou ale odhodlaní město dobýt doslova za jakoukoliv cenu.  
+          - Čína během zasedání OSN vyzvala Západ k ukončení dodávek zbraní Ukrajině a vyvíjení snah vedoucím k míru na Ukrajině. Postoj Západu označila za „přilévání oleje do ohně“ a „podkopávání diplomatických snah“. Zároveň čínský zástupce vyzval NATO, aby „přestalo ostatní ohrožovat“. Dal tedy jasně najevo, že Čína žádný tlak na Rusko k ukončení války vyvíjet nebude. 
+          - Rektor uzbecké Univerzity masové komunikace označil všechny rezidenty Uzbekistánu, kteří nemluví uzbecky, za „okupanty, nebo idioty“. Ruské ministerstvo si kvůli výrokům předvolalo uzbeckého velvyslance, aby mu formálně předalo protestní nótu. 
+          - V ruském zbrojařském závodu v Bijsku cosi explodovalo. Starosta města tvrdí, že šlo o zvuk produkovaný technologickým procesem při tamější výrobě. Videa z města ale ukazují velký oblak hustého bílého dýmu nad areálem závodu. 
+          - Podle ukrajinského ministerstva obrany by se měly první stroje F-16 objevit ve vzduchu nad Ukrajinou už během jara. Podle mluvčího ministerstva se objeví ve službě „až budou nejvíce potřeba“. 
+          - Bělgorod byl dopoledne ostřelován neznámo čím. Místní slyšeli několik silných explozí, poškozeno bylo několik domů, aut a nákupní středisko. Několik lidí bylo údajně zraněno a prý jsou ve městě i mrtví. 
+          - Rusko vyslalo další vlnu raket na ukrajinská města. Ukrajinská PVO dokázala sestřelit 13 z celkem 26 raket (1 Iskander, 2 Kalibry, 2 rakety Ch-59 a 8 raket Ch-101/555/55). 
+          - Zelenský zítra přijede do Německa, kde se setká se zástupci Německa, Francie a potenciálně i dalších západních zemí včetně českého prezidenta Pavla. 
+          - Bělorusko oznámilo „režim protiteroristické operace“ v Homelské oblasti u hranic s Ukrajinou. Konkrétní důvod nesdělilo. 
+          - Norsko bude od jara cvičit ukrajinské mariňáky v podnikání rychlých přepadů pomocí malých člunů. 
+          - Putin v televizním rozhovoru sdělil, že Biden v čele USA by byl pro Rusko výhodnější než Trump.
+          - Rusko oznámilo, že odvolalo z postu velitele Černomořské flotily Viktora Sokolova. Pročpak? 
+          - Evropská komise odhaduje náklady potřebné na obnovu Ukrajiny na 453 miliard eur. 
+          - 15 zemí se připojilo do Ukrajinou vytvořené koalice pro koordinaci PVO.
+          - Rusko k dnešnímu dni ztratilo na Ukrajině také 100 kusů tanků T-62. 
+          - Maďarsko blokuje 13. balík sankcí Evropské unie vůči Rusku. 
+          - V ruském Kursku hoří po útoku dronů další sklad s palivem. 
+          - Rusko zvažuje odchod z OBSE. 
+          - U Avdijivky padl další Čech. 
+        videa: |
+          - [Ruský plukovník: „Nechte se osvobodit, nebo vás zničíme.“](https://twitter.com/den_kazansky/status/1758101203114741896)
+          - [Bijsk](https://twitter.com/SibirPost/status/1758041064936439906)
+          - [Kursk](https://twitter.com/PStyle0ne1/status/1758005441135825278)
+          - [Rus natáčí vlastní pozice u Avdijivky: „Ze 4 000 lidí třetina zbyla.“](https://twitter.com/wartranslated/status/1757919262889685150)
+          - [Sestřelená ruská raketa u Buči udělala po dopadu tenhle kráter](https://twitter.com/EuromaidanPress/status/1758028368136884555)
+          - [GLSDB na ruském cíli](https://twitter.com/igorsushko/status/1757967165171675582)
+          - [Poškozený Bradley](https://twitter.com/GloOouD/status/1757861815910907963)
+          - [Rozprášený ruský útok u Bachmutu](https://twitter.com/PStyle0ne1/status/1758104446884626462)
+          - [Ind v řadách Ukrajiny](https://twitter.com/TheDeadDistrict/status/1758130140368810154)
+          - [Ruské BTR a ruská mina](https://twitter.com/front_ukrainian/status/1758013049720492096)
+          - [Trefa, trefa…](https://twitter.com/GloOouD/status/1758131324735344687)
+          - [Ruský útok zastavily minomety](https://twitter.com/Getty776/status/1757966463867244876)
+          - [Tanečky](https://twitter.com/TheDeadDistrict/status/1758030071607009340)
+          - [Oprava děla](https://twitter.com/front_ukrainian/status/1758068381637374399)
+          - [Bělgorod](https://twitter.com/cryogenicbreez/status/1758082580044288419)
+          - [Počítání](https://twitter.com/nevedimka123/status/1757839077489922276)
+          - [Auvajs (velmi citlivé!)](https://twitter.com/Getty776/status/1758135343025729663)
       - title: "Středa"
         year: "14. února 2024"
         image: assets/img/timeline/2024-02-14.jpg
