@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "17. února 2024"
+        image: assets/img/timeline/2024-02-17.jpg
+        desc: |
+          Generál Syrský oznámil úplné stažení vojsk z Avdijivky. Bohužel se tento manévr neobešel bez ztrát na životech a generál Tarnavský dnes informoval, že i když stažení probíhalo podle plánu, přesto se někteří vojáci pod tlakem ruských sil dostali v samém závěru manévru do zajetí. Nejspíš mluvil o raněných, které nebylo možné evakuovat ze základny Zenit na jihu města. Ruští blogeři ale příliš neslaví, a ani morálka uvnitř ruských jednotek není taková, jak by se po úspěšném splnění úkolu očekávalo. Na ruských kanálech se totiž dokola skloňuje jedna věc: ztráty. Ty byly podle blogerů otřesně velké už v úvodní fázi ruské ofenzivy, ale při jejím vrcholu ještě skokově vyrostly kvůli často naprosto bezhlavým útokům. Zástupce ukrajinské 3. samostatné útočné brigády už dříve informoval, že během svého krátkého působení ve městě vyřadila „3. šturmová“ z boje dvě celé ruské brigády (74. a 114.), později bylo upřesněno, že mluví o zhruba 4 300 ruských vojácích. Pro představu, Rusové nasadili na dobytí ruin města přibližně 50 000 vojáků. Ukrajinci se bránili v počtu 8 000. Kritickým pro obranu města se údajně stal ruský útok za ukrajinské pozice, pro který Rusové využili podzemní tunel. Ukrajinci nedokázali na útok odpovědět, byli nuceni se stáhnout a Rusové do vzniklé díry lili další a další jednotky. Zelenský dnes situaci komentoval slovy, že životy ukrajinských vojáků jsou mnohem důležitější než propagandistické vítězství. 3. šturmová pak slíbila, že využije novou obranou linii, aby Rusům zasadila tvrdé rány. Každopádně všechno není jen Avdijivka, tady jsou [další zprávy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0aneVATdScsZ1jSmZP24pEWkcCcGpyQStYReQ26g2rfPjWHUnfgXxHYxXhJZ3wH1kl): 
+        detail: |
+          - V Rusku v reakci na smrt opozičního lídra Navalného vyšly do ulic tisíce lidí napříč Ruskem, aby vyjádřili zesnulému politikovi úctu. Ruská policie ale veškerá shromáždění rozehnala, spontánně vznikající pietní místa zničila a jakékoliv pokusy o protest skončily zatýkáním a násilím ze strany policie.
+          - Ukrajinské vzdušné síly informovaly, že byly sestřeleny hned tři ruské letouny: dva stíhací bombardéry Su-34 a jeden stíhací víceúčelový letoun Su-35. Ukrajinci nejspíš už poněkolikáté zopakovali svůj protivzdušný přepad pomocí systémů Patriot.  
+          - Prezident Pavel oznámil, že v českých skladech je 500 000 kusů 155mm a 300 000 122mm dělostřelecké munice, která může během několika týdnů odjet na Ukrajinu. Je ale potřeba, aby se někdo ujal financování případné pomoci.  
+          - Šéf ukrajinské rozvědky Budanov oznámil, že má informace o tom, kdo stál za pokusem o otravu jeho manželky. Zároveň slíbil, že Rusko brzy potká odveta, a že až přijde, každý pozná, že je to Budanova práce. 
+          - Evropská banka pro obnovu a rozvoj oznámila půjčku Ukrajině ve výši 200 mil. € na obnovu tamějších vodních elektráren.
+          - V ruském Iževsku vypukl velký požár v bývalém nákupním centru, které Rusové přeměnili na závod na výrobu malých dronů. 
+          - Polští „farmáři“ zastavili na hranicích kamion s vojenskou technikou pro ukrajinskou armádu a nenechali ho projet. 
+          - Orbán informoval, že maďarský parlament by měl 26. února schválit členství Švédska v NATO. 
+          - Británie společně s dalšími zeměmi vyvíjí pro Ukrajiny drony využívající umělou inteligenci. 
+          - Kadyrovův nejmladší syn Achmat byl jmenován novým ministrem pro záležitosti mladých. 
+          - Americké sněmovna bude o pomoci Ukrajině hlasovat nejdříve v březnu. 
+        videa: |
+          - [Stabilizační centrum 3. šturmové ](https://twitter.com/EuromaidanPress/status/1758823501023138158)
+          - [Avdijivka](https://twitter.com/visegrad24/status/1758789705473069201)
+          - [3. šturmová v koksovně](https://twitter.com/TheDeadDistrict/status/1758563414266290590)
+          - [Zatýkání na protestech v Rusku ](https://twitter.com/nexta_tv/status/1758751837258166629)
+          - [Ukrajinská artilerie ](https://twitter.com/Getty776/status/1758697978775396637)
+          - [I v Rusku jsou stále lidé ](https://twitter.com/EuromaidanPress/status/1758630334537605601)
+          - [Stahování z Avdijivky](https://twitter.com/GloOouD/status/1758690428231045228)
+          - [Ústup z Avdijivky](https://twitter.com/Maks_NAFO_FELLA/status/1758544609167151600)
+          - [Zajatci](https://twitter.com/Getty776/status/1758736372767306202)
+          - [Ruský voják se snaží sestřelit dron ](https://twitter.com/EuromaidanPress/status/1758673910298525830)
+          - [Ruský voják ukazuje bojiště po bitvě](https://twitter.com/PStyle0ne1/status/1758840123926417836)
+          - [Petrohrad](https://twitter.com/EuromaidanPress/status/1758591903266681124)
+          - [Mínus tank](https://twitter.com/PStyle0ne1/status/1758850435010461974)
+          - [Pod ruskou palbou ](https://twitter.com/TheDeadDistrict/status/1758511777728405955)
+          - [Trefa! (citlivé)](https://twitter.com/GloOouD/status/1758887945409372208)
+          - [Ruský útok u Bilohorivky](https://twitter.com/Getty776/status/1758893961010434082)
+          - [Snajpr v Avdijivce](https://twitter.com/sgorlovki/status/1758847011665699084)
+          - [Dárek (velmi citlivé)](https://twitter.com/Victor61139501/status/1758782094782742547)
+          - [Mínus ruský pilot dronů](https://twitter.com/herooftheday10/status/1758630750293770525)
       - title: "Pátek"
         year: "16. února 2024"
         image: assets/img/timeline/2024-02-16.jpg
