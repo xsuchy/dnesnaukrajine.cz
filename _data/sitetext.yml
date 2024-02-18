@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "18. února 2024"
+        image: assets/img/timeline/2024-02-18.jpg
+        desc: |
+          Ústup Ukrajinců z Avdijivky bohužel i tentokrát provázely válečné zločiny. Ty ruské. Jaké jiné. Drony například zachytili situaci, kdy ruský voják postřílel dva ukrajinské vojáky poté, co se mu vzdali a už oba odzbrojil. Sami Rusové se pak na Telegramu pochlubili fotkou, kde údajně udolali tři ukrajinské vojáky kdesi na silnici v Avdijivce. Minimálně jeden má ale na fotce viditelně svázané ruce, další má obě ruce za zády. Dá se tedy předpokládat, že i tato fotka zachycuje válečný zločin. Bohužel se nedalo čekat nic jiného. Rusové si na zajatcích vybíjejí frustraci z vlastních ztrát. Ty Ukrajinská armáda odhaduje na 47 000 mužů, necelých 800 bojových vozidel, 364 tanků a nejméně 5 letadel. A že čísla nebudou daleko od pravdy, potvrzují i ruské nepřímé zdroje. Například skupina na Telegramu, ve které ruské rodiny hledají svoje příbuzné, kteří se ztratili u Avdijivky nebo s rodinou přestali komunikovat. Skupina aktuálně eviduje přes 26 600 takto „pohřešovaných“ Rusů. Bloger „Murz“ mluví o nejméně 16 tisících „nevratných ztrátách“ a zároveň odhaduje ukrajinské nevratné ztráty na 5-7 tisíc - jak sám říká, "v nejlepším případě". Pro představu, jak velkou sílu vrhlo Rusko proti městu pojďme rovnou na [další zprávu](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid084r3nQBi8DkWn1hqpJzcmopVNbX7nTYZV52pTwPGFBkxXnBy3JduZgm8ZduaqABRl): 
+        detail: |
+          - Vladimir Putin poblahopřál jednotkám, které se účastnily ofenzivy na Avdijivku. Konkrétně se měly útoku účastnit: 30. samostatná motostřelecká, 35. samostatná motostřelecká, 55. samostatná motostřelecká a 74. samostatná motostřelecká brigáda z centrálního vojenského okruhu, 1., 9. a 114. motostřelecká brigáda 1. armádního sboru, 1454. motostřelecký pluk, 10., 6., 80. a 239. tankový pluk. To ale nejmenuje zdaleka všechny. Kromě jmenovaných útvarů na město útočily jednotky doněckých milicí (1. armádní sbor), kadyrovci, speciální jednotky GRU a samozřejmě letectvo. 
+          - Dánská premiérka oznámila, že předá Ukrajině veškeré dělostřelecké systémy dánské armády a doporučila ostatním evropským zemím, aby udělaly totéž. Podle Frederiksenové Dánsko jednoduše v současné chvíli dělostřelectvo nepotřebuje a výhledově potřebovat nebude, proto jí nedává smysl systémy nechávat ležet ve skladech. 
+          - Po pádu Avdijivky se nyní Rusové pokouší spustit novou ofenzivu u Záporoží. První pokusy skončily nezdarem, ale bohužel i ten může nést v delším horizontu ovoce. Rusové totiž mají v současné chvíli jedinou taktiku: útočit tak dlouho, dokud obráncům nedojde munice. 
+          - Biden prohlásil, že americký kongres nese odpovědnost za pád Avdijivky, a varoval, že pokud se republikáni nevzchopí, můžou v budoucnu padnout i další města. 
+          - Medveděv vyhrožoval na svých kanálech, že Rusko svrhne jaderné zbraně na Spojené státy, Británii a Německo, pokud by mělo prohrát na Ukrajině. 
+          - Francie hodlá poskytnout Ukrajině vlastní kamikadze drony nové generace, které jsou nyní ve fázi testování. 
+          - Západní bulvární deníky šíří informaci, že Putin má novou milenku, 39letou ruskou cenzorku internetu. 
+          - Nejméně dva lidé zemřeli v sutinách domů po dalším ruském ostřelování Kramatorsku a Slavjansku. 
+          - Policie v Petrohradu zatkla kněze, který chtěl sloužit zádušní mši za zavražděného Navalného. 
+          - Ukrajina vyvinula vlastní verzi ruského dronu Lancet. Ta nyní úspěšně prošla testy.
+          - Ukrajinští uprchlíci v Británii si můžou zažádat o prodloužení víz o další rok a půl. 
+          - Ukrajinci dnes ráno sestřelili další ruský stíhací bombardér Su-34. 
+          - Nemocnice v Rostově hlásí, že jsou přeplněné. Proč asi…
+          - Úřady v Rusku odmítají pustit rodinu k tělu Navalného. 
+        videa; |
+          - [3. šturmová – Avdijivka](https://twitter.com/Bodbe6/status/1759265755273531770)
+          - [Rusové postříleli zajatce](https://twitter.com/nexta_tv/status/1759211577440350309)
+          - [Bezhlavý ruský útok](https://twitter.com/PStyle0ne1/status/1759247336088228024)
+          - [Ruský svět](https://twitter.com/TheDeadDistrict/status/1759085830814019687)
+          - [Avdijivka, ukrajinský kulometný přepad](https://twitter.com/PStyle0ne1/status/1759150354065653806)
+          - [Tři za cenu jednoho ](https://twitter.com/Getty776/status/1759052282874962399)
+          - [Mínus ruské letadlo](https://twitter.com/nexta_tv/status/1759127880741581070)
+          - [SOF v Avdijivce](https://twitter.com/TheDeadDistrict/status/1759082429518651771)
+          - [Ruský útok u Záporoží ](https://twitter.com/nexta_tv/status/1759120001435304186)
+          - [Ruská evakuace po zásahu dronem ](https://twitter.com/PStyle0ne1/status/1759307041951068653)
+          - [Kramatorsk](https://twitter.com/nexta_tv/status/1758929848616001860)
+          - [Tenhle přišel sám](https://twitter.com/PStyle0ne1/status/1759288295198994883)
+          - [Sakra dobrá trefa!](https://twitter.com/Getty776/status/1759250992833679537)
+          - [Bradley ničí vlastní stroje, aby nepadli do rukou Rusům ](https://twitter.com/GloOouD/status/1759247722471731513)
+          - [O bojích v Avdijivce](https://twitter.com/PStyle0ne1/status/1759182860995432516)
+          - [Trefa!](https://twitter.com/Getty776/status/1759275656171737472)
       - title: "Sobota"
         year: "17. února 2024"
         image: assets/img/timeline/2024-02-17.jpg
