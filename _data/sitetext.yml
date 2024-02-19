@@ -38,6 +38,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "19. února 2024"
+        image: assets/img/timeline/2024-02-19.jpg
+        desc: |
+          V Praze se dnes pokusily obvyklé proruské existence zneužít tentokrát téma zemědělství pro svoje protivládní demonstrace. Naskočit na vlnu evropských protestů farmářů se ale rajchlovcům a jim podobným příliš nepovedlo. Česká média píší o „politické frašce“. O zemědělství totiž nakonec demonstrace – podle očekávání – až tak moc nebyla, jako spíš o osobním brandingu organizátorů. Pár traktorů sice znepříjemnilo život obyčejným lidem cestujícím po Praze, ale nekonal se ani dopravní kolaps. Někteří zemědělci, kteří chtěli upřímně vyjádřit svoje rozhořčení s kroky evropských vlád, dokonce z protestu předčasně odjeli. To v zahraničí jsou podobné protesty úspěšnější. A bohužel za nimi často také stojí poměrně otevřeně proruská uskupení a proudy, zaznívají známé ruské dezinformace, a například v Polsku už účastníci čím dál hůř dokáží maskovat, že nejde ani tak o jejich pole, jako o téma Ukrajiny a Ukrajinců. Ostatně o tom mluví i jedna z [dnešních zpráv](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02JqxvMifiMoieRBp76pzNK7ZNUf5LxhVZJrn1dBW7CHf1KZTUyuB3Wsoyu4uB7H2gl): 
+        detail: |
+          - 3. šturmová po vyklizení Avdijivky podniká neustálé přepady ruských posádek ve městě a jeho okolí. Během dvou dní takto prý vyřadila z boje už několik set ruských vojáků. Některé přepady zachytily i kamery na výstroji. Sami Rusové hlásí, že za posledních 24 hodin zemřelo v Avdijivce na 1 400 ruských vojáků, což ale nemusí souviset jen ze zmíněnými akcemi. 
+          - Ukrajinci hlásí další dva sestřelené ruské stroje v blízkosti okupovaného Mariupolu: stíhací bombardér Su-34 a stíhací letoun Su-35S. Minimálně jeden sestřel už potvrdili i ruské zdroje, nicméně i tentokrát Rusové tvrdí, že za sestřelení letadla může palba do vlastních řad od ruské PVO baterie. 
+          - Čínský ministr veřejné bezpečnosti Wang podepsal v Budapešti dokumenty o společné kooperaci na poli bezpečnosti a vymáhání zákonů mezi Čínou a Maďarskem. Čína podle Wanga usiluje o úzkou spolupráci s Maďarskem nad rámec běžné ekonomické spolupráce. 
+          - Evropská unie zahájila právní kroky vůči síti TikTok, která podle evropských autorit neplní svoje závazky v oblastech ochrany dětí, prevence šíření dezinformací („rabbit hole effect“) a ochrany osobních údajů. 
+          - Maďarský kabinet ministrů se v Budapešti odmítl setkat s delegací amerických senátorů, která přijela jednat o vstupu Švédska do NATO. Žádost o schůzku nikdo z ministrů nepřijal. 
+          - Ukrajinci hlásí, že Rusové podnikají útoky na několika úsecích současné fronty. Pokud bude trvat nedostatek dělostřelecké munice, můžou Rusové brzy opět postoupit. 
+          - Američtí republikáni nyní shodně opakují, že Ukrajina by měla obdržet pomoc formou dlouhodobé půjčky, poté, co podobný nápad pronesl Donald Trump. 
+          - Polští „farmáři“ zablokovali na hranici s Ukrajinou také pohyb autobusů, čímž definitivně dokázali, že o zemědělství ve skutečnosti vůbec nejde. 
+          - Snímek „20 dní v Mariupolu“ získal cenu BAFTA za nejlepší dokumentární film. 
+          - Evropské státy oznámily společnou operaci proti Húsíjům v Rudém moři. 
+          - Japonsko poskytne Ukrajině pomoc ve výši 12,1 miliard dolarů. 
+        videa: |
+          - [Noční akce 3. šturmové](https://twitter.com/EuromaidanPress/status/1759583195652035028)
+          - [Zřícený ruský letoun v Azovském moři](https://twitter.com/nexta_tv/status/1759557780103463128)
+          - [Trefa](https://twitter.com/Getty776/status/1759485856384270394)
+          - [Sbírání do fondu](https://twitter.com/front_ukrainian/status/1759605353593839685)
+          - [Azov a jejich noční přepad](https://twitter.com/Getty776/status/1759491150057267377)
+          - [Níž už to fakt nejde ](https://twitter.com/TheDeadDistrict/status/1759500462774980686)
+          - [Pod koksovnou ](https://twitter.com/Bodbe6/status/1759378389763252364)
+          - [RDK chytli pokémona](https://twitter.com/TheDeadDistrict/status/1759561918916763812)
+          - [Další zastavený ruský útok](https://twitter.com/nexta_tv/status/1759500533398724926)
+          - [Ukrajinský kryt při náletu ](https://twitter.com/EuromaidanPress/status/1759327241085862398)
+          - [Ruská verze Bollywoodu](https://twitter.com/nexta_tv/status/1759478386311782478)
+          - [O fous](https://twitter.com/Bodbe6/status/1759389297482834026)
+          - [Mínus drony](https://twitter.com/GloOouD/status/1759559012914221170)
+          - [Ivan Bezruč (citlivé)](https://twitter.com/albafella1/status/1759492927405904340)
+          - [Radši vyskočil](https://twitter.com/Getty776/status/1759474840900342242)
+          - [Na frontě](https://twitter.com/Bodbe6/status/1759573077136961656)
       - title: "Neděle"
         year: "18. února 2024"
         image: assets/img/timeline/2024-02-18.jpg
