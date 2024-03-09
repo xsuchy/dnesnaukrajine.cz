@@ -31,7 +31,7 @@ $contact-image: "{{ site.data.style.contact-image }}";
 @import "layout/contact.scss";
 @import "layout/footer.scss";
 
-@media {
+@media (min-width: 992px) {
   .container {
     max-width: 100%;
 
