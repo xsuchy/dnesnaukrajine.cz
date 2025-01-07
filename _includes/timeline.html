@@ -48,7 +48,7 @@
                   </details>
                   {% endif %}
                   {% if event.videa %}
-                  <details details_on>
+                  <details {{ details_on }}>
                   <summary>Zajímavá videa</summary>
                   {{ event.videa | markdownify }}
                   </details>
