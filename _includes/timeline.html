@@ -12,6 +12,7 @@
         <div class="col-lg-12">
           <ul class="timeline">
       {%- assign align = site.data.sitetext.timeline.start_align -%}
+      {%- assign details_on = "open" -%}
 		  {%- for event in site.data.sitetext.timeline.events -%}
             {%- if align == "right" -%}
               {%- if event.align and event.align == "left" -%}
@@ -41,13 +42,13 @@
                 <div class="timeline-body">
                   <div class="text-muted">{{ event.desc | markdownify }}
                   {% if event.detail %}
-                  <details {% if loop.index < 3 %}open="true"{% endif %}>
+                  <details {{ details_on }}>
                   <summary>Podrobnosti</summary>
                   {{ event.detail | markdownify }}
                   </details>
                   {% endif %}
                   {% if event.videa %}
-                  <details {% if loop.first %}open{% endif %}>
+                  <details details_on>
                   <summary>Zajímavá videa</summary>
                   {{ event.videa | markdownify }}
                   </details>
@@ -57,6 +58,7 @@
                 </div>
               </div>
             </li>
+                  {%- assign details_on = "" -%}
 		  {% endfor %}	
             
 		  {% if site.data.sitetext.timeline.end %}	
