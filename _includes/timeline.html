@@ -41,13 +41,13 @@
                 <div class="timeline-body">
                   <div class="text-muted">{{ event.desc | markdownify }}
                   {% if event.detail %}
-                  <details open>
+                  <details {% if loop.first %}open{% endif %}>
                   <summary>Podrobnosti</summary>
                   {{ event.detail | markdownify }}
                   </details>
                   {% endif %}
                   {% if event.videa %}
-                  <details open>
+                  <details {% if loop.first %}open{% endif %}>
                   <summary>Zajímavá videa</summary>
                   {{ event.videa | markdownify }}
                   </details>
