@@ -41,7 +41,7 @@
                 <div class="timeline-body">
                   <div class="text-muted">{{ event.desc | markdownify }}
                   {% if event.detail %}
-                  <details {% if loop.first %}open{% endif %}>
+                  <details {% if loop.index < 3 %}open{% endif %}>
                   <summary>Podrobnosti</summary>
                   {{ event.detail | markdownify }}
                   </details>
