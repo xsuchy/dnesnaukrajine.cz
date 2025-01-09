@@ -17,8 +17,8 @@ layout: null
         <title>{{ event.year }}</title>
         <description>{{ event.desc | markdownify | xml_escape}}</description>
         <pubDate>{{ event.year }}</pubDate>
-        <link>{{ event.year | prepend: "/#" | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid>{{ event.year | prepend: "/#" | prepend: site.baseurl | prepend: site.url }}</guid>
+        <link>{{ event.year | prepend: "/#" | prepend: site.baseurl | prepend: site.url | replace: " ", "%20" }}</link>
+        <guid>{{ event.year | prepend: "/#" | prepend: site.baseurl | prepend: site.url | replace: " ", "%20" }}</guid>
       </item>
       {% endif %}
     {% endfor %}
