@@ -11,7 +11,7 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for event in site.data.sitetext.timeline.events limit:1000 %}
+    {% for event in site.data.sitetext.timeline.events limit:100 %}
     {% if post.sitemap != false %} 
       <item>
         <title>{{ event.year }}</title>
