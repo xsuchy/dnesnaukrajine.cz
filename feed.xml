@@ -16,7 +16,7 @@ layout: null
       <item>
         <title>{{ event.year }}</title>
         <description>{{ event.desc | markdownify | xml_escape}}</description>
-        <pubDate>{{ event.year | date_to_rfc822 }}</pubDate>
+        <pubDate>{{ event.year }}</pubDate>
         <link>{{ event.year | prepend: "/#" | prepend: site.baseurl | prepend: site.url }}</link>
         <guid>{{ event.year | prepend: "/#" | prepend: site.baseurl | prepend: site.url }}</guid>
       </item>
