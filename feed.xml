@@ -14,8 +14,9 @@ layout: null
     {% for event in site.data.sitetext.timeline.events limit:1000 %}
     {% if post.sitemap != false %} 
       <item>
-        <title>{{ evenet.title | xml_escape }} ({{ event.year }})</title>
+        <title>{{ event.year }}</title>
         <description>{{ event.desc | markdownify | xml_escape}}</description>
+        <pubDate>{{ event.year | date_to_rfc822 }}</pubDate>
         <link>{{ event.year | prepend: "#" | prepend: site.baseurl | prepend: site.url }}</link>
       </item>
       {% endif %}
