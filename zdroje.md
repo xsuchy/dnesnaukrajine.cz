@@ -16,52 +16,53 @@ S OSINT informacemi se dnes běžně pracuje třeba při investigativní práci 
 Ale teď ke konkrétním zdrojům, odkud pochází většina informací, které tu čtete (kanály TW, TG):
 
 POLITICKÝ A SPOLEČENSKÝ KONTEXT (UA)
-- NEXTA (informace z regionu BY-UA-RU)
-- Kyiv Independent 
-- Kyiv Post 
-- Euromaidan Press
-- Hromadske (EN verze)
-- Ukrainska Pravda (EN verze)
-- BBC 
-- Washington Post 
-- New York Times 
-- Reuters, AP
+- [NEXTA](https://t.me/s/nexta_live) (informace z regionu BY-UA-RU)
+- [Kyiv Independent](https://kyivindependent.com/) 
+- [Kyiv Post](https://www.kyivpost.com/)
+- [Euromaidan Press](https://euromaidanpress.com/)
+- [Hromadske](https://hromadske.ua/en) (EN verze)
+- [Ukrainska Pravda](https://www.pravda.com.ua/eng/) (EN verze)
+- [BBC](https://www.bbc.com/) 
+- [Washington Post](https://www.washingtonpost.com/) 
+- [New York Times](https://www.nytimes.com/) 
+- [Reuters](https://www.reuters.com/)
+- [AP](https://apnews.com/)
 - ...atd. 
 
 MAPOVÉ/GEOLOKAČNÍ PROJEKTY:
-- Liveuamap 
-- WarMapper
-- Ukraine Battle Map 
+- [Liveuamap](https://liveuamap.com/) 
+- [WarMapper](https://www.warmapper.org/)
+- Ukraine Battle Map
 - Tendar 
-- ISW
-- WarMonitor
+- [ISW](https://www.understandingwar.org/)
+- [WarMonitor](https://warmonitor.net/)
 - ...atd. 
 
 OSINT PROJEKTY/DATABÁZE:
-- Ukraine Weapons Tracker
-- Nathan Ruser
-- OSINTtechnical
-- Oryx
+- [Polymarket Intel](https://x.com/PolymarketIntel)
+- [Nathan Ruser](https://geospatialdigest.substack.com/)
+- [OSINTtechnical](https://x.com/Osinttechnical)
+- [Oryx](https://www.oryxspioenkop.com/)
 - Rob Lee
-- MilitaryLand.Net
-- NLwartracker
+- [MilitaryLand.Net](https://militaryland.net/)
+- [NLwartracker](https://x.com/NLwartracker)
 - ...atd.
 
 OFICIÁLNÍ KANÁLY INSTITUCÍ/JEDNOTEK/OSOBNOSTÍ:
-- Generální štáb Ukrajiny
-- Defense of Ukraine
-- Ukraine Territorial Defense Forces
+- [Generální štáb Ukrajiny](https://t.me/s/GeneralStaffZSU)
+- [Defense of Ukraine](https://mod.gov.ua/)
+- [Ukraine Territorial Defense Forces](https://x.com/TDF_UA)
 - Ukrajina 
-- Georgian Legion
-- Mamuka Mamulashvili
-- Andrii Pidlisnyi
-- Roman Trokhymets
-- Pezz
+- [Georgian Legion](https://x.com/georgian_legion)
+- [Mamuka Mamulashvili](https://x.com/Mamulashvili_M)
+- [Andrii Pidlisnyi](https://x.com/PidlisnyiAndrii)
+- [Roman Trokhymets](https://x.com/RomanTrokhymets)
+- [Pezz](https://x.com/pezz57)
 - Максим
 - ...atd.
 
 VIDEA/FOTA Z BOJŮ: 
-- AZOV (herooftheday10)
+- AZOV ([herooftheday10](https://x.com/herooftheday10))
 - Ukrainian Front
 - Ukraine - Combat Footage Archive
 - 3. šturmová na YouTube
@@ -75,20 +76,20 @@ PŘEKLADY ROZHOVORŮ/VIDEÍ:
 
 BLOGY:
 - Glasnost Gone
-- Special Kherson Cat
+- [Special Kherson Cat](https://x.com/bayraktar_1love)
 - MAKS 23
 - Calibre Obscura
 - Oliver Alexander
-- NOELREPORTS
+- [NOELREPORTS](https://mstdn.social/@noelreports)
 - Ukraine News
 - ...atd.
 
 RUSKÉ KANÁLY:
-- Rybar 
-- WarGonzo 
+- [Rybar](https://t.me/s/rybar) 
+- [WarGonzo](https://t.me/s/wargonzo) 
 - Romanov 
 - GrayZone 
-- RIA Novosti 
+- [RIA Novosti](https://ria.ru/) 
 - Girkin 
 - Zoka
 - Trollstoy 
