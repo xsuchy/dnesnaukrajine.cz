@@ -2,6 +2,9 @@ nav:
   - title: "Dnes se stalo"
     section: about
 
+  - title: "Podcast"
+    url: https://podcast.dnesnaukrajine.cz/
+
   - title: "Bitva o Kyjev"
     url: /bitva-o-kyjev
 
