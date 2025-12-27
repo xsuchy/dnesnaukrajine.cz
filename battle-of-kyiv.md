@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-en
 title: Battle of Kyiv
 background: grey
 # https://www.facebook.com/tomak.dvorak/posts/pfbid02Wx8FS4hqzUqZUgmSVDUTK4XVT4CS9E3WCJWPvYuCASFb661ew8WnGfRGF7C3trhGl
@@ -8,7 +8,7 @@ background: grey
 	<h2 class="section-heading text-uppercase">Battle of Kyiv</h2>
 </div>
 
-## Autor [Tomi T Ahonen](https://x.com/tomiahonen/status/1510288267828207622)
+Author [Tomi T Ahonen](https://x.com/tomiahonen/status/1510288267828207622)
 
 The Battle of Kyiv was decisive battle in Ukraine War that Russia launced invading on Feb 24, 2022. Russian assault on Kyiv was catastrophic military failure, overwhelming victory for Ukraine.
 

@@ -46768,3 +46768,26 @@ timeline:
       - [Captured MT-LB during night action](https://twitter.com/UAWeapons/status/1553687272817659906)
 
       '
+
+
+about:
+    title: "About Us"
+    text: "our story"
+    section: about
+
+contact:
+    title: "Contact"
+    text: "Website operator: mirek@rodina-sucha.cz, Author of texts: [Tom Cortés](https://www.tomcortes.com/kontakt)"
+    section: contact
+
+footer:
+    legal: "Licence"
+    social:
+      - url: "https://github.com/xsuchy/dnesnaukrajine.cz"
+        icon: "fab fa-github"
+      - url: "https://f.cz/@dnesnaukrajine"
+        icon: "fab fa-mastodon"
+      - url: "/feeden.xml"
+        icon: "fa fa-solid fa-rss"
+      - url: "https://podcast.dnesnaukrajine.cz/"
+        icon: "fa fa-podcast"
