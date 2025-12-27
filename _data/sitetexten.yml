@@ -17,6 +17,109 @@ services:
     '
 timeline:
   events:
+  - title: Saturday
+    year: 27 December 2025
+    sort: '2025-12-27'
+    image: assets/img/timeline/2025-12-27.jpg
+    podcast: 2025-12-27.mp3
+    desc: 'The overnight Russian attack on Kiev, which lasted an incredible 10 hours,
+      killed 1 person and injured 28. Russia sent a total of 519 drones in several
+      waves, as well as 40 missiles and cruise missiles. Some of the projectiles landed
+      on high-rise apartment buildings, a tram depot, commercial buildings or a public
+      transport stop. Of course, the power system was also hit. One of the buildings
+      hit that could be said to be a potential military target was the dormitories
+      belonging to the Kiev National Aviation University. However, they were empty
+      at the time of the attack. All this is happening at a time when Trump is due
+      to meet President Zelensky in person in the United States in just a few hours.
+      According to Zelensky, this time the meeting will be public and journalists
+      and their cameras will be present at all times. In any case, Putin has sent
+      a clear signal about what he thinks about the peace talks. A signal in the form
+      of more than 550 projectiles. And this is also happening [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Na9LuG3EX8VXHKgiNBZsrfHS1zSiDKcjWtmfEdZUQ8catzfXMLB2pzPQ3C9MGgE4l):
+
+      '
+    detail: '- Belarus is assisting the Russians in carrying out airstrikes in Ukraine.
+      Near the border with Ukraine, Russian soldiers are installing antennas and other
+      equipment directly on the roofs of apartment buildings - all to accurately guide
+      attack drones towards Ukraine''s western regions. Moreover, in recent airstrikes,
+      some drones have flown into Ukrainian territory from Belarus in order to evade
+      Ukrainian air defences.
+
+      - Azerbaijan has strongly criticised Russia''s decision to end the prosecution
+      in the case of the 2024 AZAL plane crash, with Foreign Minister Jeyhun Bajramov
+      saying that such a move raises serious doubts. Especially given that Moscow
+      had earlier admitted that the plane was hit by its anti-aircraft system. Baku
+      insists that Russia fulfil all its obligations and investigate the incident
+      properly.
+
+      - Russian security forces stormed a rally of the religious movement "School
+      of United Principle" in St Petersburg and detained about 70 people. The participants
+      are now being investigated under an article of the Criminal Code on the dissemination
+      of "false information" about the Russian army. According to RIA Novosti, the
+      group reportedly held discussions about the war in Ukraine and prayers for President
+      Zelensky''s health.
+
+      - Russia has provided Ukraine with details of the 52 abducted residents of the
+      village of Hrabovske in the Kharkiv region; there are no children among them.
+      The Russians have also provided a video in which the abductees claim that they
+      are being treated well and that they have been provided with the necessary medicine
+      and food. Russia probably wants to use the abductees to further blackmail Ukraine.
+
+      - Russia is attempting to restart its offensive in the immediate vicinity of
+      Kupyansk after the failed attack on the city. Russian forces are currently regrouping
+      on the left bank of the Oskil River, hoping to compensate for the previous failure
+      with new actions.
+
+      - The EU has just blacklisted a further 41 ships of the Russian shadow fleet,
+      bringing the total number of vessels banned from European ports and access to
+      insurance and services to more than 600.
+
+      - Despite the war, Ukrainian farmers have harvested 23.5 million tonnes of maize
+      this year, more than 40% of the EU''s total, and 9 million tonnes of sunflowers,
+      surpassing the production of the entire European Union.
+
+      - On the Zaporizhzhya front, Russian Volunteer Corps (RDK) commander Denis "WhiteRex"
+      Kapustin was killed by an FPV drone tonight.
+
+      - In Bila Tserkva, a Russian kamikaze Geran drone hit a public transport bus
+      stop.
+
+      - Lithuania officially withdrew from the Ottawa Convention banning the use of
+      anti-personnel mines.
+
+      - Trump declared that "Zelensky has nothing until he approves it".
+
+      - Ukraine has aligned new sanctions against Russia with the UK.
+
+      '
+    videa: '- [Updated RuAF losses](https://pixelfed.cz/p/dnesnaukrajine/910536606163868739)
+
+      - [Russian occupier confesses to shooting a woman and two children in Ukraine](https://pixelfed.cz/p/dnesnaukrajine/910534385587162144)
+
+      - [More Russian cavalry](https://pixelfed.cz/p/dnesnaukrajine/910534413578972193)
+
+      - [The incredible skill of pilots](https://pixelfed.cz/p/dnesnaukrajine/910534465829559330)
+
+      - [Destruction of occupiers in Kharkiv region](https://pixelfed.cz/p/dnesnaukrajine/910534513424387109)
+
+      - [4 z 5](https://pixelfed.cz/p/dnesnaukrajine/910534560898264102)
+
+      - [Minus the bridge builder](https://pixelfed.cz/p/dnesnaukrajine/910534584544779303)
+
+      - [M-m-m-m-monster kill!](https://pixelfed.cz/p/dnesnaukrajine/910534607680486440)
+
+      - [Horses on the front](https://pixelfed.cz/p/dnesnaukrajine/910534632275106857)
+
+      - [Minus the boat](https://pixelfed.cz/p/dnesnaukrajine/910534658260950058)
+
+      - [FSB detains Russian diplomat](https://pixelfed.cz/p/dnesnaukrajine/910534705254550571)
+
+      - [Minus Russian air defence](https://pixelfed.cz/p/dnesnaukrajine/910534740485852204)
+
+      - [Brazilians at the front](https://pixelfed.cz/p/dnesnaukrajine/910534788200606765)
+
+      - [The bombing of the Russian convoy](https://pixelfed.cz/p/dnesnaukrajine/910534862747929646)
+
+      '
   - image: assets/img/timeline/2025-12-23.jpg
     sort: '2025-12-23'
     podcast: 2025-12-23.mp3
