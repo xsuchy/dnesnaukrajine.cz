@@ -1,0 +1,18 @@
+nav:
+  - title: "Today in Ukraine"
+    url: /index-en.html#about
+
+  - title: "[CZ]"
+    url: /#about
+
+  - title: "Podcast"
+    url: https://podcast.dnesnaukrajine.cz/
+
+  - title: "Battle of Kyiv"
+    url: /battle-of-kyiv
+
+  - title: "Sources"
+    url: /zdroje
+    
+  - title: "Contact"
+    section: contact
