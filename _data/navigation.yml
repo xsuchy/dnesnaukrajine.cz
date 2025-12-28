@@ -2,6 +2,9 @@ nav:
   - title: "Dnes se stalo"
     section: about
 
+  - title: "[EN]"
+    url: /index-en.html#about
+
   - title: "Podcast"
     url: https://podcast.dnesnaukrajine.cz/
 
