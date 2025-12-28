@@ -17,6 +17,7 @@ url    : "http://dnesnaukrajine.cz" # the base hostname & protocol for your site
 baseurl: 
 
 title      : Dnes na Ukrajině
+titleen    : Today in Ukraine
 email      : mirek@rodina-sucha.cz #this is also the email contact forms will go to
 description: "Dnes na Ukrajině"
 author     : Miroslav Suchý
