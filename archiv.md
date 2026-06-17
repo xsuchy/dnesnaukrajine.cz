@@ -1,7 +1,6 @@
 ---
-layout: archiv
+layout: archive
 title: Archiv
 permalink: /archiv/
 ---
 
-{% include timeline-full.html %}
