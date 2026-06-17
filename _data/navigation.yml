@@ -8,6 +8,9 @@ nav:
   - title: "Podcast"
     url: https://podcast.dnesnaukrajine.cz/
 
+  - title: "Archiv"
+    url: /archiv
+
   - title: "Bitva o Kyjev"
     url: /bitva-o-kyjev
 

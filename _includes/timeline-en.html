@@ -13,7 +13,7 @@
           <ul class="timeline">
       {%- assign align = site.data.sitetexten.timeline.start_align -%}
       {%- assign details_on = "open" -%}
-		  {%- for event in site.data.sitetexten.timeline.events -%}
+		  {%- for event in site.data.sitetexten.timeline.events limit:7 -%}
             {%- if align == "right" -%}
               {%- if event.align and event.align == "left" -%}
                 {%- assign align = "right" -%}
@@ -67,8 +67,10 @@
               </div>
             </li>
 		  {% endif %}
-			
-          </ul>
+      </ul>
+      <div class="text-center mt-4">
+        <a href="/archiv-en" class="btn btn-primary btn-xl text-uppercase">More in archive</a>
+      </div>
         </div>
       </div>
     </div>
