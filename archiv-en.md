@@ -1,5 +1,5 @@
 ---
-layout: page-en
+layout: archiv-en
 title: Archive
 permalink: /archiv-en/
 ---

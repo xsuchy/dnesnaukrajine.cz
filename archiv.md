@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archiv
 title: Archiv
 permalink: /archiv/
 ---
