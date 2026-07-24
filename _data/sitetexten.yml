@@ -23,6 +23,92 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Friday
+    year: July 24, 2026
+    sort: '2026-07-24'
+    image: assets/img/timeline/2026-07-24.jpg
+    podcast: 2026-07-24.mp3
+    desc: "The Russian disinformation hydra is currently spreading stories in Poland\
+      \ about fabricated crimes allegedly committed by Ukrainians, only for the police\
+      \ to subsequently release them without charges or imprisonment. All of these\
+      \ stories are, of course, fabricated, and their goal is to incite hatred toward\
+      \ Ukrainian refugees. This is the next stage of a disinformation campaign that\
+      \ is already underway to a lesser extent here in the Czech Republic, where thousands\
+      \ of fake accounts are commenting on dozens of articles about crimes committed\
+      \ by Czechs, claiming that “if it were a Ukrainian, nothing would happen to\
+      \ him.” We can only hope that the Czech authorities—and especially the police—are\
+      \ monitoring these activities and preparing some kind of preventive statement\
+      \ or awareness campaign. In Poland, unfortunately, this campaign is falling\
+      \ on fertile ground, and unprovoked violent attacks by Poles against Ukrainians\
+      \ are beginning to multiply. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0jbV66JCtC2Sjrjdbfp55oADgA7X1acVKdud3qkM7Mjy3iP3QqRjEyhko4F2aJo5al)\
+      \ is also happening: \n"
+    detail: "- The Ukrainian Security Service has detained two alleged Russian agents\
+      \ in Kyiv who are accused of activating 76 Starlink terminals intended to support\
+      \ Russian missile and drone attacks. Investigators claim that the terminals\
+      \ were meant to help Russian forces coordinate attacks and identify Ukrainian\
+      \ electronic warfare systems.\n- Citing sources from European intelligence agencies,\
+      \ *The Economist* reports that Chinese soldiers are undergoing training in drone\
+      \ operation and urban combat at a military complex near Volgograd, Russia. These\
+      \ exercises have reportedly been taking place since 2024.\n- Russian forces\
+      \ carried out an airstrike on Kherson, dropping ten guided bombs on the city\
+      \ within half an hour. The city center was hit the hardest. Residential buildings\
+      \ and an educational facility were damaged, and some people were injured.\n\
+      - Flamingo missiles struck the Aviatek plant in Kirov overnight; the plant is\
+      \ located about 1,350 km from Ukraine. The plant specializes in aviation equipment\
+      \ and products for the defense industry. Six people were killed in the airstrike,\
+      \ and at least 26 others were injured. \n- A cryptocurrency exchange in Kyrgyzstan,\
+      \ a refinery in Georgia, and a Russian general accused of torturing prisoners\
+      \ now find themselves on the same list. They are among the 218 new entities\
+      \ targeted by the EU’s 21st round of sanctions.\n- The new commander of the\
+      \ Ukrainian army, Drapatyj, declared that Russia has no right to exist. Peskov\
+      \ responded by calling Drapatyj a Nazi and threatening that he would be held\
+      \ accountable for his words. \n- The secretary of the local branch of the Russian\
+      \ Communist Party was killed as a result of a Ukrainian drone attack on a Lukoil\
+      \ gas station in Belgorod. \n- The Romanian president said that a Romanian F-16\
+      \ fighter jet shot down an unidentified drone that had violated the country's\
+      \ airspace.\n- A Russian ballistic missile struck an arms exhibition in Kyiv,\
+      \ killing at least 10 people. At least another 100 people were injured.\n- Irish\
+      \ Prime Minister Micheál Martin announced a new aid package for Ukraine worth\
+      \ $146 million.\n- Ukraine will work with Raytheon to manufacture anti-aircraft\
+      \ missiles for the Patriot systems.\n- Former pro-Russian MAGA influencer Laura\
+      \ Loomer filmed an interview with Zelenskyy in Kyiv. \n- Five people were killed\
+      \ and nine were injured during the Russian bombing of Slavyansk with glide bombs.\n\
+      - The United States has imposed a blanket tariff of 12.5% on all imports from\
+      \ Russia. \n- Trump and Zelensky will meet on July 28 in Washington.\n- Russia\
+      \ struck a passenger train in the Dnipropetrovsk region.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/986363452151921335)
+
+      - [Russian air defense forces responded too late](https://pixelfed.cz/p/dnesnaukrajine/986361819549375135)
+
+      - [Russian Attack on ATVs](https://pixelfed.cz/p/dnesnaukrajine/986361905544489633)
+
+      - [The Russians bombed Kherson](https://pixelfed.cz/p/dnesnaukrajine/986361975535135395)
+
+      - [Kirov](https://pixelfed.cz/p/dnesnaukrajine/986362034855606951)
+
+      - [Drones Over St. Petersburg](https://pixelfed.cz/p/dnesnaukrajine/986362058717948584)
+
+      - [A View of St. Petersburg](https://pixelfed.cz/p/dnesnaukrajine/986362104051641001)
+
+      - [St. Petersburg](https://pixelfed.cz/p/dnesnaukrajine/986362138248796842)
+
+      - [in St. Petersburg](https://pixelfed.cz/p/dnesnaukrajine/986362163391052459)
+
+      - [St. Petersburg](https://pixelfed.cz/p/dnesnaukrajine/986362197995956908)
+
+      - [Novospasskoye](https://pixelfed.cz/p/dnesnaukrajine/986362227065121453)
+
+      - [A Breakdown of the Russian Attack](https://pixelfed.cz/p/dnesnaukrajine/986362287865191086)
+
+      - [The Hunt for a Russian Drone](https://pixelfed.cz/p/dnesnaukrajine/986362342551329455)
+
+      - [Minus the gas station near Belgorod](https://pixelfed.cz/p/dnesnaukrajine/986362381258558128)
+
+      - [Kyiv](https://pixelfed.cz/p/dnesnaukrajine/986362438614084274)
+
+      - [Reduction in the Number of Substations in Crimea](https://pixelfed.cz/p/dnesnaukrajine/986362810405673651)
+
+      '
   - title: Thursday
     year: July 23, 2026
     sort: '2026-07-23'

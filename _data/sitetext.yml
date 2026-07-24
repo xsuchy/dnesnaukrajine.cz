@@ -38,6 +38,47 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "24. července 2026"
+        sort: "2026-07-24"
+        image: assets/img/timeline/2026-07-24.jpg
+        podcast: "2026-07-24.mp3"
+        desc: |
+          Ruská dezinformační hydra aktuálně šíří v Polsku příběhy o smyšlených zločinech, které měli spáchat Ukrajinci, aby je policie následně propustila bez obvinění nebo uvěznění. Všechny jsou samozřejmě smyšlené a jejich cílem je vyvolávat nenávist vůči ukrajinským uprchlíkům. Je to další stupeň dezinformační kampaně, která už v menší míře probíhá i u nás, kdy tisíce falešných účtů píší pod desítky článků o zločinech spáchaných Čechy, že „kdyby to byl Ukrajinec, tak se mu nic nestane“. Nezbývá než doufat, že české úřady, a zejména Policie, tyto aktivity sleduje a chystá nějaká preventivní prohlášení nebo osvětovou kampaň. V Polsku totiž tato kampaň bohužel dopadá na úrodnou půdu a začínají se množit nevyprovokované násilné útoky proti Ukrajincům ze strany Poláků. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0jbV66JCtC2Sjrjdbfp55oADgA7X1acVKdud3qkM7Mjy3iP3QqRjEyhko4F2aJo5al): 
+        detail: |
+          - Ukrajinská bezpečnostní služba zadržela v Kyjevě dva údajné ruské agenty, kteří jsou obviněni z aktivace 76 terminálů Starlink určených k podpoře ruských raketových a dronových útoků. Vyšetřovatelé tvrdí, že terminály měly ruským silám pomoci koordinovat útoky a identifikovat ukrajinské systémy elektronického boje.
+          - Magazín „The Economist“ s odvoláním na zdroje z evropských zpravodajských služeb uvádí, že čínští vojáci absolvují výcvik v ovládání dronů a boji v městském prostředí ve vojenském komplexu nedaleko ruského Volgogradu. Tato cvičení prý probíhají už od roku 2024.
+          - Ruské síly provedly nálet na Cherson, přičemž během půl hodiny svrhly na město deset řízených leteckých bomb. Nejvíce bylo zasaženo centrum města. Došlo k poškození obytných budov a vzdělávacího zařízení a někteří lidé byli zraněni.
+          - Rakety Flamingo v noci zasáhly závod Aviatek v Kirově, který leží asi 1 350 km od Ukrajiny. Závod se specializuje na letecké vybavení a výrobky pro obranný průmysl. Šest lidí při náletu zemřelo a nejméně 26 dalších utrpělo zranění. 
+          - Kryptoměnová burza v Kyrgyzstánu, rafinérie v Gruzii a ruský generál obviněný z mučení vězňů se nyní ocitli na stejném seznamu. Patří totiž mezi 218 nových subjektů, na které se vztahuje 21. balíček sankcí EU.
+          - Nový velitel ukrajinské armády Drapatyj prohlásil, že Rusko nemá právo existovat. Na to reagoval Peskov, označil Drapatého za nacistu a vyhrožoval mu, že se bude za svá slova zodpovídat. 
+          - V důsledku útoku ukrajinského dronu na čerpací stanici společnosti Lukoil v Bělgorodu zahynul tajemník místní organizace Ruské komunistické strany. 
+          - Rumunský prezident uvedl, že rumunská stíhačka F-16 sestřelila neidentifikovaný dron, který narušil vzdušný prostor země.
+          - Ruská balistická raketa zasáhla zbrojní výstavu v Kyjevě a zabila nejméně 10 lidí. Dalších nejméně sto lidí bylo zraněno.
+          - Irský premiér Micheál Martin oznámil nový balíček pomoci pro Ukrajinu ve výši 146 milionů dolarů.
+          - Ukrajina bude společně s firmou Raytheon vyrábět protiletadlové střely pro systémy Patriot.
+          - Bývalá proruská MAGA influencerka Laura Loomer natočila v Kyjevě rozhovor se Zelenským. 
+          - Při ruském bombardování Slavjansku klouzavými bombami zahynulo 5 lidí a 9 bylo zraněno.
+          - Spojené státy uvalily plošná cla ve výši 12,5 % na veškerý import z Ruska. 
+          - Trump a Zelenský se setkají 28. července ve Washingtonu.
+          - Rusko zasáhlo osobní vlak v Dnipropetrovské oblasti.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/986363452151921335)
+          - [Ruská PVO zasáhla pozdě](https://pixelfed.cz/p/dnesnaukrajine/986361819549375135)
+          - [Ruský útok na čtyřkolkách](https://pixelfed.cz/p/dnesnaukrajine/986361905544489633)
+          - [Rusové bombardovali Cherson](https://pixelfed.cz/p/dnesnaukrajine/986361975535135395)
+          - [Kirov](https://pixelfed.cz/p/dnesnaukrajine/986362034855606951)
+          - [Drony nad Petrohradem](https://pixelfed.cz/p/dnesnaukrajine/986362058717948584)
+          - [Výhled v Petrohradu](https://pixelfed.cz/p/dnesnaukrajine/986362104051641001)
+          - [Petrohrad](https://pixelfed.cz/p/dnesnaukrajine/986362138248796842)
+          - [v Petrohradu](https://pixelfed.cz/p/dnesnaukrajine/986362163391052459)
+          - [Petrohrad](https://pixelfed.cz/p/dnesnaukrajine/986362197995956908)
+          - [Novospasskoje](https://pixelfed.cz/p/dnesnaukrajine/986362227065121453)
+          - [Rozebraný ruský útok](https://pixelfed.cz/p/dnesnaukrajine/986362287865191086)
+          - [Lov na ruský dron](https://pixelfed.cz/p/dnesnaukrajine/986362342551329455)
+          - [Mínus benzínka u Bělgorodu](https://pixelfed.cz/p/dnesnaukrajine/986362381258558128)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/986362438614084274)
+          - [Redukce rozvoden na Krymu](https://pixelfed.cz/p/dnesnaukrajine/986362810405673651)
       - title: "Čtvrtek"
         year: "23. července 2026"
         sort: "2026-07-23"
