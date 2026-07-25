@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "25. července 2026"
+        sort: "2026-07-25"
+        image: assets/img/timeline/2026-07-25.jpg
+        podcast: "2026-07-25.mp3"
+        desc: |
+          Ukrajinská Doněcká oblastní prokuratura oznámila, že zahájila vyšetřování válečných zločinů v souvislosti s vraždou ukrajinského vojáka poblíž vesnice Jalta v osadě Komar. Podle videa, které Rusové sami zveřejnili, byl ukrajinský voják zajat odpoledne 13. července, poté byl krátce vyslýchán, načež jeden z Rusů nařídil jeho popravu a další ho okamžitě zastřelil. Bohužel to není ze strany Rusů výjimečná událost. Takových už natočili desítky, a další stovky nebo tisíce spáchali mimo pohled telefonů a kamer. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid025ST6uSzn7uCidsox8w96FCnf6uqMKTUZwYH63tPme9eJ2Yk6sJ7uBMNjXZ7wzMmRl): 
+        detail: |
+          - Ruské jednotky se před pár dny pokusily o tankový průlom ve směru na obec Dobropillia. Ukrajinští obránci z brigády „Fénix“ společně s dalšími jednotkami ruský útok zastavili a podle videí přitom zničili nejméně 9 tanků, 2 obrněná vozidla, tři raketomety Grad, které útok kryly, a několik desítek ruských vojáků.
+          - Zelenskyj uvedl, že současný tajemník Rady národní bezpečnosti a obrany Rustem Umerov se bude i nadále věnovat zahraniční spolupráci, zatímco Ihor Klymenko, který se stane příštím předsedou Rady národní bezpečnosti a obrany, se zaměří na domácí záležitosti.
+          - Ukrajinské drony ráno útočily na další logistický areál Wildberries, tentokrát v Jekatěrinburgu. Z dostupných videí se zdá, že tentokrát nezasáhly samotné sklady, ale dopadly na parkoviště před areálem, kde zapálily desítky osobních aut zaměstnanců. 
+          - Ruský FPV dron byl zastaven protidronovou sítí při útoku na linkový autobus v ukrajinské Sumské oblasti a explodoval ještě předtím, než stačil vozidlo přímo zasáhnout. Autobus byl sice poškozen střepinami, ale žádný z cestujících nebyl zraněn.
+          - V noci byl hlášen požár na letecké základně Engels, kde jsou dislokovány ruské těžké bombardéry. Příčina požáru zatím není jasná, ale ruské ministerstvo pro mimořádné situace dříve v noci oznámilo hrozbu dronů nad celou oblastí.
+          - Z ruského Bělgorodu byly hlášeny výbuchy během probíhajícího ukrajinského útoku dronů na Bělgorodskou pohraniční oblast. Podle místních zdrojů patří mezi zasažené cíle elektrické rozvodny a logistická zařízení.
+          - Při včerejším ruském úderu na sraz výrobců zbraní v Kyjevě zahynul zaměstnanec polské zbrojní firmy. Organizátor akce byl zadržen. Akce se podle Ministerstva obrany konala bez souhlasu armády a místních úřadů. 
+          - V Minsku v Bělorusku vypukl požár v závodě „Integral“, který pracuje pro ruský obranný průmysl a kde se vyráběly součásti pro ruské rakety (včetně systému „Orešnik“).
+          - Ropná rafinerie v ruské Ťumeni byla zasažena ukrajinskými drony. Kapacita rafinerie činí okolo 7,5–8 milionů tun ropy ročně. Nachází se 2 000 km od fronty.
+          - Největší ruský ropný terminál „Šešcharis“ v Novorossijsku pozastavil od 21. července nakládku tankerů kvůli hrozbě útoků ukrajinských dronů.
+          - Rumunský prezident uvedl, že nad vzdušným prostorem země byl dnes ráno sestřelen už druhý dron, a to jen během posledních 24 hodin.
+          - Rusové se pochlubili dalším videem, na kterém jejich dron v Chersonu vystopoval vozidlo ambulance a následně ho zničil granáty. 
+          - Zelenskyj varuje, že podle informací rozvědek připravují Rusové rakety a střely s plochou dráhou letu na další masivní úder na Kyjev. 
+          - Ukrajinské drony zasáhly ropnou rafinérii v Uljanovsku, zhruba 1 000 km od hranic Ukrajiny. 
+          - Húsíjové v noci úspěšně zasáhli ropnou rafinerii společnosti Saudi Aramco v Džazánu.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/986580216334766392)
+          - [Mínus rafinérie](https://pixelfed.cz/p/dnesnaukrajine/986578375762297124)
+          - [Ťumeň](https://pixelfed.cz/p/dnesnaukrajine/986578403542585637)
+          - [Tamtéž](https://pixelfed.cz/p/dnesnaukrajine/986578454292087078)
+          - [Jekatěrinburg](https://pixelfed.cz/p/dnesnaukrajine/986578491467591975)
+          - [Mínus tanker s ruskou ropou](https://pixelfed.cz/p/dnesnaukrajine/986578526612029738)
+          - [Rusové našli a zničili sanitku v Chersonu](https://pixelfed.cz/p/dnesnaukrajine/986578574256853291)
+          - [Uljanovsk](https://pixelfed.cz/p/dnesnaukrajine/986578613312479532)
       - title: "Pátek"
         year: "24. července 2026"
         sort: "2026-07-24"

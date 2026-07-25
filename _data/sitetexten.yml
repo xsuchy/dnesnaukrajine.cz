@@ -23,6 +23,98 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Saturday
+    year: July 25, 2026
+    sort: '2026-07-25'
+    image: assets/img/timeline/2026-07-25.jpg
+    podcast: 2026-07-25.mp3
+    desc: "The Ukrainian Donetsk Regional Prosecutor’s Office announced that it has\
+      \ launched an investigation into war crimes in connection with the murder of\
+      \ a Ukrainian soldier near the village of Yalta in the settlement of Komar.\
+      \ According to a video released by the Russians themselves, the Ukrainian soldier\
+      \ was captured on the afternoon of July 13; he was then briefly interrogated,\
+      \ after which one of the Russians ordered his execution and another immediately\
+      \ shot him. Unfortunately, this is not an isolated incident on the part of the\
+      \ Russians. They have already filmed dozens of such incidents, and committed\
+      \ hundreds or thousands more away from the view of cell phones and cameras.\
+      \ And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid025ST6uSzn7uCidsox8w96FCnf6uqMKTUZwYH63tPme9eJ2Yk6sJ7uBMNjXZ7wzMmRl)\
+      \ is also happening: \n"
+    detail: "- A few days ago, Russian forces attempted a tank breakthrough toward\
+      \ the village of Dobropillia. Ukrainian defenders from the “Phoenix” Brigade,\
+      \ together with other units, repelled the Russian attack and, according to videos,\
+      \ destroyed at least 9 tanks, 2 armored vehicles, three Grad rocket launchers\
+      \ that were providing cover for the attack, and several dozen Russian soldiers.\n\
+      - Zelenskyy stated that the current Secretary of the National Security and Defense\
+      \ Council, Rustem Umerov, will continue to focus on foreign cooperation, while\
+      \ Ihor Klymenko, who will become the next Chairman of the National Security\
+      \ and Defense Council, will focus on domestic affairs.\n- Ukrainian drones attacked\
+      \ another Wildberries logistics facility this morning, this time in Yekaterinburg.\
+      \ Based on available video footage, it appears that this time the strikes did\
+      \ not hit the warehouses themselves, but instead struck the parking lot in front\
+      \ of the facility, where they set dozens of employees’ cars on fire. \n- A Russian\
+      \ FPV drone was intercepted by an anti-drone net during an attack on a public\
+      \ bus in Ukraine’s Sumy region and exploded before it could directly hit the\
+      \ vehicle. Although the bus was damaged by shrapnel, none of the passengers\
+      \ were injured.\n- A fire was reported overnight at the Engels Air Base, where\
+      \ Russian heavy bombers are stationed. The cause of the fire is not yet clear,\
+      \ but the Russian Ministry of Emergency Situations reported earlier that night\
+      \ that drones posed a threat to the entire area.\n- Explosions were reported\
+      \ in Belgorod, Russia, during an ongoing Ukrainian drone attack on the Belgorod\
+      \ border region. According to local sources, the targets hit include electrical\
+      \ substations and logistics facilities.\n- An employee of a Polish arms manufacturer\
+      \ was killed during yesterday’s Russian strike on a gathering of arms manufacturers\
+      \ in Kyiv. The event’s organizer was detained. According to the Ministry of\
+      \ Defense, the event took place without the approval of the military or local\
+      \ authorities. \n- A fire broke out at the \"Integral\" plant in Minsk, Belarus,\
+      \ which supplies the Russian defense industry and manufactured components for\
+      \ Russian missiles (including the \"Oreshnik\" system).\n- An oil refinery in\
+      \ Tyumen, Russia, was struck by Ukrainian drones. The refinery has a capacity\
+      \ of about 7.5–8 million metric tons of crude oil per year. It is located 2,000\
+      \ km from the front lines.\n- Russia's largest oil terminal, \"Sheshkharis\"\
+      \ in Novorossiysk, suspended the loading of tankers as of July 21 due to the\
+      \ threat of attacks by Ukrainian drones.\n- The Romanian president said that\
+      \ a second drone had been shot down over the country's airspace this morning—the\
+      \ second in just the last 24 hours.\n- The Russians have released another video\
+      \ showing their drone in Kherson tracking down an ambulance and then destroying\
+      \ it with grenades. \n- Zelenskyy warns that, according to intelligence reports,\
+      \ the Russians are preparing missiles and cruise missiles for another massive\
+      \ strike on Kyiv. \n- Ukrainian drones struck an oil refinery in Ulyanovsk,\
+      \ about 1,000 km from the Ukrainian border. \n- The Houthis successfully struck\
+      \ a Saudi Aramco oil refinery in Jazan overnight.\n"
+    video: '- [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/986580216334766392)
+
+      - [Mínus rafinérie](https://pixelfed.cz/p/dnesnaukrajine/986578375762297124)
+
+      - [Ťumeň](https://pixelfed.cz/p/dnesnaukrajine/986578403542585637)
+
+      - [Tamtéž](https://pixelfed.cz/p/dnesnaukrajine/986578454292087078)
+
+      - [Jekatěrinburg](https://pixelfed.cz/p/dnesnaukrajine/986578491467591975)
+
+      - [Mínus tanker s ruskou ropou](https://pixelfed.cz/p/dnesnaukrajine/986578526612029738)
+
+      - [Rusové našli a zničili sanitku v Chersonu](https://pixelfed.cz/p/dnesnaukrajine/986578574256853291)
+
+      - [Uljanovsk](https://pixelfed.cz/p/dnesnaukrajine/986578613312479532)
+
+      '
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/986580216334766392)
+
+      - [Minus the refinery](https://pixelfed.cz/p/dnesnaukrajine/986578375762297124)
+
+      - [Tyumen](https://pixelfed.cz/p/dnesnaukrajine/986578403542585637)
+
+      - [Ibid.](https://pixelfed.cz/p/dnesnaukrajine/986578454292087078)
+
+      - [Yekaterinburg](https://pixelfed.cz/p/dnesnaukrajine/986578491467591975)
+
+      - [Minus a tanker carrying Russian oil](https://pixelfed.cz/p/dnesnaukrajine/986578526612029738)
+
+      - [The Russians found and destroyed an ambulance in Kherson](https://pixelfed.cz/p/dnesnaukrajine/986578574256853291)
+
+      - [Ulyanovsk](https://pixelfed.cz/p/dnesnaukrajine/986578613312479532)
+
+      '
   - title: Friday
     year: July 24, 2026
     sort: '2026-07-24'
