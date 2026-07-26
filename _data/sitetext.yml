@@ -38,6 +38,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "26. července 2026"
+        sort: "2026-07-26"
+        image: assets/img/timeline/2026-07-26.jpg
+        podcast: "2026-07-26.mp3"
+        desc: |
+          Ukrajina oznámila, že zničila v Kaspickém moři dvě ruské nákladní lodě, které prý přepravovaly ruské zbraně do Íránu (nebo opačným směrem). Írán pak okolnosti útoku nepřímo potvrdil, když začal Ukrajině vyhrožovat, že ji v odvetě zasáhne svými balistickými raketami. Tenhle vývoj asi nikdo nečekal. Každopádně se děje také [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0WYYtk5R9LgwyABxExXd4pAQwBitLWVukvoXB5WxmB1hUArZ7t3YAY4hxby8YdgQVl): 
+        detail: |
+          - Ukrajinci vystavili Rusům konečný účet za nedávný pokus proniknout do obce Šachove pomocí mechanizovaného útoku, který trval bezmála čtyři hodiny. Zasažené a zničené cíle: sedm tanků, šest obrněných bojových vozidel, jeden raketometný systém BM-21 Grad, jeden raketometný systém Tornado-S, tři kusy specializované techniky, 47 lehkých vozidel a také 123 ruských vojáků, přičemž dalších 29 bylo zraněno.
+          - Zelenskyj oznámil, že Rusko chce přijmout dalších 30 000 vojáků ze Severní Koreje. Už od června prý probíhají v ruské Voroněžské oblasti přípravy na jejich dislokaci. Severní Korea se také připravuje na dodání dalších odpalovacích zařízení pro balistické rakety Rusku.
+          - Trumpova administrativa varovala Ukrajinu, že považuje útoky na jiné než ruské tankery v Černém moři za nepřijatelné. Varování přišlo poté, co byl v Černém moři poblíž Novorossijsku zasažen tanker pronajatý americkým ropným gigantem Chevron.
+          - Ruský dron Shahed zasáhl nákladní loď plující pod vlajkou Palau, když vyplouvala z dunajské delty směrem do Řecka. Ukrajina zachránila z vody osm lidí. Pátrací operace po zbývajících dvou členech posádky pokračuje.
+          - Při ruském náletu raketou „Banderol“ na Charkov byla zabita žena, která v minulosti uprchla před Rusy z Kupjansku. Nejméně 6 dalších lidí bylo zraněno a bylo poškozeno více než 10 domů.
+          - Stíhačky F-16 NATO sestřelily další dron, který dnes vletěl do rumunského vzdušného prostoru – jedná se o třetí narušení vzdušného prostoru členské země NATO během dvou dnů.
+          - Kazašský prezident Tokajev vyzval Putina, aby zastavil boje a vrátil se k jednáním v rámci aktualizované „Istanbulské formule 2.0“ se zárukami ze strany hlavních světových mocností.
+          - Belgické zpravodajské služby zadržely kanadského občana čínského původu, který pracoval v sídle NATO a prováděl špionáž ve prospěch třetí země.
+          - V důsledku náletů ruských dronů jsou mimo provoz všechny čerpací stanice na úseku dálnice mezi ukrajinskou Charkovskou a Poltavskou oblastí. 
+          - Ruskou Rostovskou oblastí se přehnala silná bouře, která odnášela střechy, vyvracela stromy a způsobila výpadek elektřiny v desítkách měst.
+          - Několik vlivných podporovatelů Donalda Trumpa, kteří se dříve stavěli proti pomoci Kyjevu, nyní volá po tom, aby Ukrajina porazila Rusko.
+          - Ruský dron zasáhl obchodní dům v Černihivu. Dva lidé zemřeli a tři byli zraněni. Mezi mrtvými je bohužel i desetileté dítě.
+          - Rusko tento týden proti Ukrajině nasadilo téměř 1 700 dronů, více než 1 630 naváděných leteckých bomb a 95 raket.
+          - Ruská klouzavá bomba zasáhla čerpací stanici v Záporoží. Muž, který uvízl ve svém autě, při útoku zaživa uhořel.
+          - Rusové zasáhli mléčnou farmu v ukrajinské Sumské oblasti, přičemž zabili několik krav a další zranili.
+          - Rusové vybombardovali v Chersonu historickou budovu, ve které sídlí místní šachový klub. 
+          - Ruské síly zasáhly třídicí terminál společnosti Nova Pošta v Záporoží.
+          - Rusové vybombardovali obchodní dům Epicentrum v Kryvém Rihu. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/986993373942073720)
+          - [Ruský nálet na Charkov](https://pixelfed.cz/p/dnesnaukrajine/986992190866491754)
+          - [Ukrajinci zasáhli ruskou základnu](https://pixelfed.cz/p/dnesnaukrajine/986992221122972011)
+          - [Uvnitř ruské základny](https://pixelfed.cz/p/dnesnaukrajine/986992246058625388)
+          - [Íránský náklad mínus](https://pixelfed.cz/p/dnesnaukrajine/986992284247083373)
+          - [Benzínka v Záporoží](https://pixelfed.cz/p/dnesnaukrajine/986992328514156910)
+          - [Rostov](https://pixelfed.cz/p/dnesnaukrajine/986992375296489839)
+          - [Trefa!](https://pixelfed.cz/p/dnesnaukrajine/986992394625767792)
+          - [Epicentrum](https://pixelfed.cz/p/dnesnaukrajine/986992413269694833)
       - title: "Sobota"
         year: "25. července 2026"
         sort: "2026-07-25"

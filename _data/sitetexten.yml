@@ -23,6 +23,78 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Sunday
+    year: July 26, 2026
+    sort: '2026-07-26'
+    image: assets/img/timeline/2026-07-26.jpg
+    podcast: 2026-07-26.mp3
+    desc: "Ukraine announced that it had destroyed two Russian cargo ships in the\
+      \ Caspian Sea that were allegedly transporting Russian weapons to Iran (or in\
+      \ the opposite direction). Iran then indirectly confirmed the circumstances\
+      \ of the attack when it began threatening Ukraine with retaliatory strikes using\
+      \ its ballistic missiles. Probably no one expected this turn of events. In any\
+      \ case, [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0WYYtk5R9LgwyABxExXd4pAQwBitLWVukvoXB5WxmB1hUArZ7t3YAY4hxby8YdgQVl)\
+      \ is also happening: \n"
+    detail: "- The Ukrainians have presented the Russians with the final tally for\
+      \ their recent attempt to penetrate the village of Shakhove using a mechanized\
+      \ assault that lasted nearly four hours. Targets hit and destroyed: seven tanks,\
+      \ six armored fighting vehicles, one BM-21 Grad rocket launcher system, one\
+      \ Tornado-S rocket launcher system, three pieces of specialized equipment, 47\
+      \ light vehicles, and 123 Russian soldiers, with another 29 wounded.\n- Zelenskyy\
+      \ announced that Russia intends to accept an additional 30,000 troops from North\
+      \ Korea. Preparations for their deployment have reportedly been underway in\
+      \ Russia’s Voronezh region since June. North Korea is also preparing to deliver\
+      \ additional ballistic missile launchers to Russia.\n- The Trump administration\
+      \ warned Ukraine that it considers attacks on tankers other than Russian ones\
+      \ in the Black Sea to be unacceptable. The warning came after a tanker chartered\
+      \ by the American oil giant Chevron was struck in the Black Sea near Novorossiysk.\n\
+      - A Russian Shahed drone struck a cargo ship flying the Palau flag as it was\
+      \ leaving the Danube Delta bound for Greece. Ukraine rescued eight people from\
+      \ the water. The search operation for the remaining two crew members is ongoing.\n\
+      - A woman who had previously fled Kupiansk to escape the Russians was killed\
+      \ during a Russian \"Banderol\" missile strike on Kharkiv. At least six other\
+      \ people were injured, and more than 10 homes were damaged.\n- NATO F-16 fighter\
+      \ jets shot down another drone that entered Romanian airspace today—this marks\
+      \ the third violation of a NATO member country’s airspace in two days.\n- Kazakh\
+      \ President Tokayev called on Putin to halt the fighting and return to negotiations\
+      \ under the updated “Istanbul Formula 2.0,” with guarantees from the world’s\
+      \ major powers.\n- Belgian intelligence services have detained a Canadian citizen\
+      \ of Chinese descent who worked at NATO headquarters and was spying on behalf\
+      \ of a third country.\n- As a result of Russian drone attacks, all gas stations\
+      \ along the section of the highway between the Kharkiv and Poltava regions of\
+      \ Ukraine are out of service. \n- A severe storm swept through Russia's Rostov\
+      \ Region, tearing off roofs, uprooting trees, and causing power outages in dozens\
+      \ of towns.\n- Several influential supporters of Donald Trump, who had previously\
+      \ opposed aid to Kyiv, are now calling for Ukraine to defeat Russia.\n- A Russian\
+      \ drone struck a department store in Chernihiv. Two people were killed and three\
+      \ were injured. Unfortunately, a 10-year-old child is among the dead.\n- This\
+      \ week, Russia deployed nearly 1,700 drones, more than 1,630 guided aerial bombs,\
+      \ and 95 missiles against Ukraine.\n- A Russian glide bomb struck a gas station\
+      \ in Zaporizhzhia. A man who was trapped in his car was burned alive during\
+      \ the attack.\n- The Russians struck a dairy farm in Ukraine's Sumy region,\
+      \ killing several cows and injuring others.\n- The Russians bombed a historic\
+      \ building in Kherson that houses the local chess club. \n- Russian forces struck\
+      \ a Nova Pošta sorting terminal in Zaporizhzhia.\n- The Russians bombed the\
+      \ Epicentrum shopping center in Kryvyi Rih. \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/986993373942073720)
+
+      - [Russian Airstrike on Kharkiv](https://pixelfed.cz/p/dnesnaukrajine/986992190866491754)
+
+      - [Ukrainians struck a Russian base](https://pixelfed.cz/p/dnesnaukrajine/986992221122972011)
+
+      - [Inside the Russian base](https://pixelfed.cz/p/dnesnaukrajine/986992246058625388)
+
+      - [Iranian cargo minus](https://pixelfed.cz/p/dnesnaukrajine/986992284247083373)
+
+      - [Gas Station in Zaporizhzhia](https://pixelfed.cz/p/dnesnaukrajine/986992328514156910)
+
+      - [Rostov](https://pixelfed.cz/p/dnesnaukrajine/986992375296489839)
+
+      - [Bull''s-eye!](https://pixelfed.cz/p/dnesnaukrajine/986992394625767792)
+
+      - [Epicenter](https://pixelfed.cz/p/dnesnaukrajine/986992413269694833)
+
+      '
   - title: Saturday
     year: July 25, 2026
     sort: '2026-07-25'
