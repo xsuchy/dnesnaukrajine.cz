@@ -38,6 +38,49 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "27. července 2026"
+        sort: "2026-07-27"
+        image: assets/img/timeline/2026-07-27.jpg
+        podcast: "2026-07-27.mp3"
+        desc: |
+          Rusko před pár dny přišlo s informací, že Ukrajina zasáhla „prázdninový resort na území kontrolovaném Ruskem“ a snažilo se tak vyvolat dojem, že se Ukrajina dopustila válečného zločinu – a navíc na civilních rodinách. Informaci bez jakékoliv snahy o poskytnutí kontextu převzala i některá západní média včetně americké ABC a na dezinformačních kanálech se zpráva šířila s obvyklou viralitou. Jak se zpětně ukazuje, k zásahu „rekreačního střediska“ skutečně došlo, ale v době, kdy hostilo velmi specifické „rekreanty“: V okupované Kyrylivce na pobřeží Azovského moře v Melitopolském okrese po ukrajinském náletu zemřel Michajl Ivanov, 54letý vedoucí záporožské pobočky ruského Hlavního centra pro rádiové frekvence, bývalý úředník ruského cenzurního úřadu Roskomnadzor a také někdejší vojenský důstojník s dvacetiletou kariérou v ruské armádě. Při náletu údajně zemřeli také jeho dva potomci a zraněna byla jeho žena. Rusko tak nejspíše resort využívalo k rekonvalescenci armádních důstojníků, vojenských veteránů a vysoce postavených úředníků. Celkem mělo být podle Rusů zabito osm lidí, ale totožnosti dalších zatím nejsou známy. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0VAAxS9a7uGHv3ZJAaP5Z1s6sDdgJuBvpDKP5FFR7vhxFehEN7PsQHq9HWNFaX1Mil): 
+        detail: |
+          - Zakladatel společnosti „Fire Point“ Denys Štilierman prohlásil, že „na konci podzimu dojde k raketovým útokům na Moskvu“ a že „Rusové mají poslední šanci sbalit se a vypadnout“. Štilierman také tvrdí, že až se Ukrajincům podaří zlikvidovat společnost Wildberries, povede to ke kolapsu bankovního systému v Ruské federaci, protože jde o jednoho z největších dlužníků.
+          - SBU zadržela ruské agenty, kteří se pokusili zabít několik desítek ukrajinských vojáků tím, že pro ně naplánovali „charitativní“ večírek. Aby vojáky přilákali, pronajali si dům v Charkovské oblasti a zveřejnili pozvánky na kanálech na Telegramu. Během akce pak měli v plánu do nápojů přimíchat jed.
+          - Litva zvažuje, že by Rusové a Bělorusové při hraniční kontrole museli podepsat dokument odsuzující ruskou agresi proti Ukrajině a uznávající její územní celistvost. V opačném případě by jim byl odepřen vstup do země. Nové nařízení by mohlo platit už od ledna 2027.
+          - Britské zpravodajské služby se domnívají, že Rusko by mohlo během několika měsíců přistoupit k přímé hrozbě vůči NATO, protože se naskytla vhodná příležitost, kdy jsou Spojené státy zaměstnány Íránem a zároveň nastupuje do úřadu nový britský premiér.
+          - Rumunsko dnes předalo ruskému velvyslanci trosky ruských dronů, které narušily rumunský vzdušný prostor a byly sestřeleny rumunským letectvem – těch, o kterých Rusko i tentokrát urputně tvrdilo, že nebyly jeho.
+          - Ruský dron typu Geran-4, který zasáhl supermarket ATB v Černihivu a zabil dva lidi včetně jednoho dítěte, byl vybaven videokamerou, což ukazuje na to, že útok na civilisty nebyl omyl, ale cíl.
+          - Členové „Budanovových oddílů“ na dálku odpálili výbušnou nálož v okupovaném Dniprorudném. V důsledku útoku byli zabiti tři piloti ruské elitní jednotky „Rubikon“ a jeden další byl zraněn.
+          - Putin: „Žádnou válku jsme nezačali. Ze strany Ruské federace nedochází k žádné agresi. Reagovali jsme jen na kroky Ukrajiny, která s podporou Západu rozpoutala nepřátelské akce.“
+          - Od 1. listopadu zavádí Černá Hora vízovou povinnost pro občany Ruska a Běloruska. Krok je nezbytný pro to, aby se země mohla stát členem Evropské unie už v roce 2028.
+          - Nákladní loď, kterou minulý týden u pobřeží Oděsy zasáhlo několik ruských řízených střel, když přepravovala ukrajinské obilí, se dnes brzy ráno potopila.
+          - Počet obětí ruského útoku na sraz výrobců zbraní v Kyjevě vzrostl na 11. 66letý diplomat Maltézského řádu zemřel v nemocnici na následky zranění.
+          - Putin se opět začal objevovat na veřejnosti – se stejnou frekvencí jako po Prigožinově vzpouře, Navalného smrti a ukrajinském vpádu do Kurské oblasti.
+          - Předseda Komise pro národní bezpečnost íránského parlamentu prohlásil, že „Ukrajina možná brzy pochopí, že Írán nenechává žádné kroky bez odezvy“.
+          - Zelenskyj se poprvé setkal s novým britským premiérem. Celé setkání se neslo ve velmi příjemné a přátelské atmosféře. 
+          - Ruské ministerstvo zahraničí uvedlo, že „Rusko je ochotno zvážit nové nápady a návrhy týkající se Ukrajiny“.
+          - Island dnes v referendu hlasuje o tom, zda obnovit jednání o členství v Evropské unii. 
+          - U Krasnodaru se zřítil ruský cvičný letoun L-39. Posádka zahynula.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/987408296716974909)
+          - [Ruský voják a ruské ztráty](https://pixelfed.cz/p/dnesnaukrajine/987406665117915912)
+          - [Ruské nálety na benzínky](https://pixelfed.cz/p/dnesnaukrajine/987407015287270163)
+          - [Mínus ruský Forpost](https://pixelfed.cz/p/dnesnaukrajine/987407038459345687)
+          - [Diktatura Rusko](https://pixelfed.cz/p/dnesnaukrajine/987407084270086936)
+          - [Mínus ruský nákladní vlak](https://pixelfed.cz/p/dnesnaukrajine/987407108334836506)
+          - [Potopená loď u Oděsy](https://pixelfed.cz/p/dnesnaukrajine/987407135335365404)
+          - [Ruská PVO se trefila](https://pixelfed.cz/p/dnesnaukrajine/987407160672131869)
+          - [Trefa!](https://pixelfed.cz/p/dnesnaukrajine/987407184355908384)
+          - [Oslava ruského námořnictva](https://pixelfed.cz/p/dnesnaukrajine/987407218876795681)
+          - [Polští náckové napadli ukrajinský pár](https://pixelfed.cz/p/dnesnaukrajine/987407249676319522)
+          - [Mínus S-400](https://pixelfed.cz/p/dnesnaukrajine/987407281816148773)
+          - [Putin se začal objevovat na veřejnosti](https://pixelfed.cz/p/dnesnaukrajine/987407306336512806)
+          - [Neprojeli](https://pixelfed.cz/p/dnesnaukrajine/987407341514300201)
+          - [Na frontě](https://pixelfed.cz/p/dnesnaukrajine/987407741792033586)
+          - [Rusové srovnávají se zemí další města](https://pixelfed.cz/p/dnesnaukrajine/987407754670988083)
+          - [Mínus PVO v Bělgorodu](https://pixelfed.cz/p/dnesnaukrajine/987407773582486325)
       - title: "Neděle"
         year: "26. července 2026"
         sort: "2026-07-26"
