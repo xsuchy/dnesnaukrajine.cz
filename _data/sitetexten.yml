@@ -23,6 +23,80 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Tuesday
+    year: July 28, 2026
+    sort: '2026-07-28'
+    image: assets/img/timeline/2026-07-28.jpg
+    podcast: 2026-07-28.mp3
+    desc: "Polish police have arrested two suspects in a recent violent attack on\
+      \ a Ukrainian couple. One of them is a boxer who attempted to flee from authorities\
+      \ on the highway, where a SWAT team had to subdue him. According to Polish authorities,\
+      \ both men have criminal records. Polish Prime Minister Tusk responded by stating\
+      \ that “criminals will not dictate the rules on Polish streets,” declared “war\
+      \ on violence, hatred, and impunity,” and called on the president to no longer\
+      \ remain silent about these incidents. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0UiwosoWP8LuwqECdjHkxUNTfqM4Rauzso1i8hBPnfeSSmKQ9w6sfsvEcDRxo6yRWl)\
+      \ also happened: \n"
+    detail: "- Russian media outlets acknowledge Ukrainian gains in the Dnipropetrovsk\
+      \ sector. According to them, while Russian forces have pushed Ukrainian units\
+      \ out of the village of Verbove, the situation in the rest of the sector is\
+      \ deteriorating. Ukrainian forces advanced toward Uspenivka, gained territory\
+      \ near the village of Rybne, captured part of Berezove following an attack from\
+      \ Ternove, and entered Zaporizhzhia, where both sides are now holding their\
+      \ positions.\n- Following a nighttime drone attack, fires broke out in the Moscow\
+      \ region at warehouses belonging to a logistics company in Koledino and at a\
+      \ factory in Chekhov. Among other companies, Wildberries leases space at the\
+      \ Koledino warehouses. Hydrosteelconstruction, based in Chekhov, specializes\
+      \ in components for power plants and water management facilities.\n- Putin stated\
+      \ that he is “convinced that sooner or later Ukraine will lose its western territories.”\
+      \ What once belonged to Poland, Hungary, and Romania will, he said, “sooner\
+      \ or later—perhaps not tomorrow or the day after, but in a year, two, ten, or\
+      \ fifteen—eventually return to its historical place.” Warsaw has already categorically\
+      \ rejected Putin’s statements.\n- Ukrainian forces struck the “Prioritet” facility\
+      \ in Borok, in Russia’s Udmurt Republic, more than 1,300 km from the Ukrainian\
+      \ border. The facility is part of Russia’s state reserve system (Rosrezerv).\
+      \ It is a classified, strategic, and heavily guarded complex used for the long-term\
+      \ storage of state fuel reserves.\n- According to Bloomberg, U.S. senators have\
+      \ agreed on a bill that would impose new sanctions on Russia and Iran. The Senate\
+      \ could pass the bill as early as this week. However, given the House of Representatives’\
+      \ recess, the law is not expected to take effect before September.\n- Without\
+      \ giving a reason, the Kremlin ordered preparations to begin for amending the\
+      \ existing agreements on military-technical cooperation with Kazakhstan and\
+      \ Uzbekistan. The directive was published on Russia’s official legal information\
+      \ portal.\n- Russia attacked civilian merchant ships in ports in the Mykolaiv\
+      \ region overnight, killing a 48-year-old man. Shahed-238 drones damaged three\
+      \ ships that have been stranded in Ukrainian ports since the start of the invasion.\n\
+      - According to Reuters, the refinery in Tyumen halted all operations after sustaining\
+      \ serious damage to its facilities for producing diesel and high-octane gasoline.\n\
+      - Zelensky arrived at the White House for talks with Trump and later attended\
+      \ Senator Graham's funeral. \n- Russia has called on its citizens to support\
+      \ Wildberries by placing an order with the company. \n- Today marks the fourth\
+      \ anniversary of the Russian mass murder of prisoners at the Olenivka penal\
+      \ colony.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/987840627795258568)
+
+      - [Koledino](https://pixelfed.cz/p/dnesnaukrajine/987839704048487604)
+
+      - [Koledino](https://pixelfed.cz/p/dnesnaukrajine/987839736700730550)
+
+      - [Drone vs. Drone](https://pixelfed.cz/p/dnesnaukrajine/987839766555204793)
+
+      - [A Ukrainian drone is heading toward Moscow](https://pixelfed.cz/p/dnesnaukrajine/987839808273841338)
+
+      - [Minus Tank](https://pixelfed.cz/p/dnesnaukrajine/987839850945572027)
+
+      - [Moscow Region](https://pixelfed.cz/p/dnesnaukrajine/987839869383818430)
+
+      - [Herd Reduction](https://pixelfed.cz/p/dnesnaukrajine/987839914677529791)
+
+      - [Zelensky in the U.S.](https://pixelfed.cz/p/dnesnaukrajine/987839948813311169)
+
+      - [Minus the Bridge](https://pixelfed.cz/p/dnesnaukrajine/987839967322000578)
+
+      - [Laura Loomer ](https://pixelfed.cz/p/dnesnaukrajine/987840022304730307)
+
+      - [Attacks on Ukrainians in Poland](https://pixelfed.cz/p/dnesnaukrajine/987840048162962628)
+
+      '
   - title: Monday
     year: July 27, 2026
     sort: '2026-07-27'

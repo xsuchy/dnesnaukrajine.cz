@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "28. července 2026"
+        sort: "2026-07-28"
+        image: assets/img/timeline/2026-07-28.jpg
+        podcast: "2026-07-28.mp3"
+        desc: |
+          Polská policie zadržela dva pachatele nedávného násilného útoku na ukrajinský pár. Jedním z nich je boxer, který se před úřady pokusil ujet na dálnici, kde ho musela zajistit zásahová jednotka. Podle polských úřadů mají oba muži kriminální minulost. Polský premiér Tusk na to konto vzkázal, že „zločinci nebudou diktovat pravidla na polských ulicích“, vyhlásil „válku násilí, nenávisti a beztrestnosti“ a vyzval prezidenta, aby k těmto incidentům dál nemlčel. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0UiwosoWP8LuwqECdjHkxUNTfqM4Rauzso1i8hBPnfeSSmKQ9w6sfsvEcDRxo6yRWl): 
+        detail: |
+          - Ruské kanály připouštějí ukrajinské úspěchy v dnipropetrovském sektoru. Podle nich sice ruské síly vytlačily ukrajinské jednotky z obce Verbove, ale situace ve zbytku sektoru se zhoršuje. Ukrajinské síly postoupily směrem k Uspenivce, získaly území poblíž obce Rybne, po útoku z Ternového obsadily část Berezového a vstoupily do Zaporizké, kde teď obě strany drží své pozice.
+          - Po nočním útoku dronů došlo v Moskevské oblasti k požáru ve skladech logistické společnosti v Koledinu a v továrně v Čechově. Sklady v Koledinu si pronajímá mimo jiné i společnost Wildberries. Společnost Hydrosteelconstruction v Čechově se specializuje na komponenty pro elektrárny a vodohospodářská zařízení.
+          - Putin prohlásil, že je „přesvědčen, že dříve či později Ukrajina o svá západní území přijde. To, co kdysi patřilo Polsku, Maďarsku a Rumunsku, se prý „dříve či později – možná ne zítra ani pozítří, ale za rok, dva, deset či patnáct – nakonec vrátí na své historické místo“. Varšava už Putinovy výroky kategoricky odmítla.
+          - Ukrajinské síly zasáhly závod „Prioritet“ v Boroku v ruské Udmurtské republice, více než 1 300 km od ukrajinských hranic. Objekt je součástí ruského systému státních rezerv (Rosrezerv). Jedná se o utajený, strategický a přísně střežený areál, který slouží k dlouhodobému skladování státních zásob paliva.
+          - Podle agentury Bloomberg se američtí senátoři dohodli na návrhu zákona, který uvalí nové sankce na Rusko a Írán. Senát by mohl tento návrh schválit už tento týden. Vzhledem k parlamentním prázdninám ve Sněmovně reprezentantů se ale neočekává, že by zákon vstoupil v platnost dříve než v září.
+          - Kreml bez uvedení důvodu nařídil zahájit přípravy na změnu stávajících dohod o vojensko-technické spolupráci s Kazachstánem a Uzbekistánem. Pokyn byl zveřejněn na oficiálním ruském portálu pro právní informace.
+          - Rusko v noci zaútočilo na civilní obchodní lodě v přístavech Mykolajivské oblasti, přičemž zahynul 48letý muž. Drony typu Shahed-238 poškodily tři lodě, které od začátku invaze trčí v ukrajinských přístavech.
+          - Podle agentury Reuters zastavila rafinérie v Ťumeni veškerý provoz poté, co utrpěla závažné škody na zařízeních určených k výrobě nafty a vysokooktanového benzínu.
+          - Zelenskyj dorazil do Bílého domu na jednání s Trumpem a později se účastnil pohřbu senátora Grahama. 
+          - Rusko vyzvalo občany, aby podpořili společnost Wildberries tím, že si od ní něco objednají. 
+          - Dnes je čtvrté výročí ruské masové vraždy zajatců v trestanecké kolonii v Olenivce.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/987840627795258568)
+          - [Koledino](https://pixelfed.cz/p/dnesnaukrajine/987839704048487604)
+          - [Koledino](https://pixelfed.cz/p/dnesnaukrajine/987839736700730550)
+          - [Dronem proti dronu](https://pixelfed.cz/p/dnesnaukrajine/987839766555204793)
+          - [Ukrajinský dron míří k Moskvě](https://pixelfed.cz/p/dnesnaukrajine/987839808273841338)
+          - [Mínus tank](https://pixelfed.cz/p/dnesnaukrajine/987839850945572027)
+          - [Moskevská oblast](https://pixelfed.cz/p/dnesnaukrajine/987839869383818430)
+          - [Redukce stáda](https://pixelfed.cz/p/dnesnaukrajine/987839914677529791)
+          - [Zelenský v USA](https://pixelfed.cz/p/dnesnaukrajine/987839948813311169)
+          - [Mínus most](https://pixelfed.cz/p/dnesnaukrajine/987839967322000578)
+          - [Laura Loomer ](https://pixelfed.cz/p/dnesnaukrajine/987840022304730307)
+          - [Napadení Ukrajinců v Polsku](https://pixelfed.cz/p/dnesnaukrajine/987840048162962628)
       - title: "Pondělí"
         year: "27. července 2026"
         sort: "2026-07-27"
