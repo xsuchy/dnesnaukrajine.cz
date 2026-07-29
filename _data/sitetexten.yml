@@ -23,6 +23,83 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Wednesday
+    year: July 29, 2026
+    sort: '2026-07-29'
+    image: assets/img/timeline/2026-07-29.jpg
+    podcast: 2026-07-29.mp3
+    desc: "An unknown man shot a local businessman at the entrance to an apartment\
+      \ building in the Russian city of Tula and then fled the scene. The victim was\
+      \ taken to the hospital, and authorities have launched an investigation into\
+      \ the attempted murder. According to Russian media, the target of the attack\
+      \ was Andrei Cherezov, the director of Russian Air Transport Laboratory, a company\
+      \ that develops drones. According to reports, the assailant fired three shots\
+      \ at him. The suspect remains at large. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02goxv4jtejs94vm8rescLe1v8Heqkvd8TVg3tUC4SdxKfze66RCNLpAzQjtddgazyl)\
+      \ also happened: \n"
+    detail: "- Experts dismantled a Russian Oreshnik-type missile that landed near\
+      \ the city of Bila Tserkva on May 24. In an undamaged fragment, they found more\
+      \ than 1,100 components, all of Russian or Belarusian origin. Most of the components\
+      \ were manufactured between 2023 and 2025, but some older parts dating back\
+      \ to 2012 were also found.\n- The latest Ukrainian strikes hit an oil refinery\
+      \ and a Wildberries logistics center in Ryazan, a base for the Russian Black\
+      \ Sea Fleet’s fast boats in occupied Crimea, an oil refinery in Russia’s Perm\
+      \ Krai, and an export terminal and military facility in the Rostov region.\n\
+      - Iran reportedly planned a retaliatory missile strike on a Ukrainian port.\
+      \ The attack was intended as a symbolic gesture and was not expected to cause\
+      \ significant damage. According to The New York Times, this scenario has so\
+      \ far been averted thanks to intensive diplomatic efforts.\n- A Polish soldier\
+      \ serving in the ZSU apologized during a rally in Lviv for incidents of aggression\
+      \ against Ukrainians in Poland and expressed his support for Ukraine. According\
+      \ to current statistics, Ukrainians commit half as many crimes per 1,000 residents\
+      \ as Poles do.\n- Starting in 2027, the Finnish company Fingrid will cease maintenance\
+      \ of Russian power line infrastructure in border areas along which optical communication\
+      \ cables run. As a result, these cables may be dismantled or severed.\n- Ksenia\
+      \ Fedorova, the former head of RT France, will be expelled from France. According\
+      \ to the relevant document, “her conduct harms the fundamental interests of\
+      \ the state,” and her presence in France “poses a particularly serious and immediate\
+      \ threat to public order.”\n- Russia’s FSB has issued an international arrest\
+      \ warrant for Pavel Durov, the founder of the Telegram app. Russian authorities\
+      \ accuse him of “aiding terrorism” after Telegram refused to comply with a demand\
+      \ to shut down Ukrainian channels.\n- The U.S. Senate approved Senator Lindsey\
+      \ Graham's bill imposing sweeping sanctions against Russia by a vote of 86 to\
+      \ 12.\n- The situation in Kostyantynivka continues to deteriorate; Russian troops\
+      \ have now appeared even beyond the city limits, specifically in the village\
+      \ of Oleksiyevo-Druzhkivka.\n- A fire broke out at the Russian “Terminal” exhibition\
+      \ and warehouse complex in Vladimir. The fire destroyed a large amount of furniture\
+      \ and building materials. \n- A large iron ore mining complex in Kryvyi Rih\
+      \ has suspended mining operations due to Russian attacks on maritime shipping.\n\
+      - Azerbaijan has supplied Ukraine with nearly 40 metric tons of equipment to\
+      \ support rail operations and critical infrastructure.\n- A Russian drone struck\
+      \ a van delivering baked goods in downtown Kherson this morning, killing the\
+      \ driver.\n- Hungarian birds struck at least 164 energy infrastructure facilities\
+      \ in Crimea in July alone. \n- The death toll from the recent Russian attack\
+      \ on a meeting of arms manufacturers in Kyiv has risen to twelve. \n- Iranian\
+      \ drones struck two U.S. natural gas storage facilities in the Egyptian port\
+      \ of Damietta.\n- Last month, Ukraine sent more drones into Russian territory\
+      \ than Russia sent into Ukraine.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/988170144814590620)
+
+      - [Perm](https://pixelfed.cz/p/dnesnaukrajine/988168339192031884)
+
+      - [Perm, too](https://pixelfed.cz/p/dnesnaukrajine/988168373061745293)
+
+      - [Ryazan](https://pixelfed.cz/p/dnesnaukrajine/988168399771159182)
+
+      - [Ibid.](https://pixelfed.cz/p/dnesnaukrajine/988168423419259535)
+
+      - [Russian World Visited Myrnohrad](https://pixelfed.cz/p/dnesnaukrajine/988168463866940048)
+
+      - [Did not pass](https://pixelfed.cz/p/dnesnaukrajine/988168557488790161)
+
+      - [Minus: Lubricant Warehouse](https://pixelfed.cz/p/dnesnaukrajine/988168587038980754)
+
+      - [Minus Tank](https://pixelfed.cz/p/dnesnaukrajine/988168631263632019)
+
+      - [Drones at Work](https://pixelfed.cz/p/dnesnaukrajine/988168667947621012)
+
+      - [Minus Buky](https://pixelfed.cz/p/dnesnaukrajine/988168686322252437)
+
+      '
   - title: Tuesday
     year: July 28, 2026
     sort: '2026-07-28'

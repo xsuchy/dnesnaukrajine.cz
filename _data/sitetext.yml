@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "29. července 2026"
+        sort: "2026-07-29"
+        image: assets/img/timeline/2026-07-29.jpg
+        podcast: "2026-07-29.mp3"
+        desc: |
+          Neznámý muž střílel na místního podnikatele u vchodu do bytového domu v ruském městě Tula a poté z místa činu uprchl. Oběť byla převezena do nemocnice a úřady zahájily vyšetřování pokusu o vraždu. Podle ruských médií byl terčem útoku Andrej Čerezov, ředitel společnosti Russian Air Transport Laboratory, která se zabývá vývojem dronů. Podle zpráv na něj útočník vystřelil třikrát. Podezřelý je stále na svobodě. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02goxv4jtejs94vm8rescLe1v8Heqkvd8TVg3tUC4SdxKfze66RCNLpAzQjtddgazyl): 
+        detail: |
+          - Odborníci rozebrali ruskou raketu typu Orešnik, která 24. května dopadla poblíž města Bila Cerkva. V nepoškozeném úlomku našli více než 1 100 součástek, všechny ruského nebo běloruského původu. Většina součástí byla vyrobena v letech 2023 až 2025, ale byly nalezeny i některé starší kusy, které pocházejí již z roku 2012.
+          - Nejnovější ukrajinské údery zasáhly ropnou rafinerii a také logistické centrum společnosti Wildberries v Rjazani, základnu pro rychlé čluny ruské Černomořské flotily na okupovaném Krymu, ropnou rafinerii v ruském Permském kraji a také exportní terminál a vojenský podnik v Rostovské oblasti.
+          - Írán údajně plánoval odvetný raketový útok na ukrajinský přístav. Útok měl sloužit jako symbolické gesto a neočekávalo se, že by způsobil významné škody. Podle deníku The New York Times se tento scénář zatím podařilo odvrátit díky intenzivním diplomatickým snahám.
+          - Polský voják, který slouží v řadách ZSU, se během shromáždění ve Lvově omluvil za případy agrese vůči Ukrajincům v Polsku a vyjádřil podporu Ukrajině. Podle současných statistik také v přepočtu na 1000 obyvatel páchají Ukrajinci dvakrát méně trestných činů než samotní Poláci.
+          - Finská společnost Fingrid od roku 2027 přestane provádět údržbu infrastruktury ruských elektrických vedení v pohraničních oblastech, podél nichž vedou optické komunikační kabely. V důsledku toho může dojít k demontáži nebo přerušení těchto kabelů.
+          - Bývalá šéfka RT France Ksenia Fedorová bude vyhoštěna z Francie. Podle příslušného dokumentu „její chování poškozuje základní zájmy státu“ a její přítomnost ve Francii „představuje obzvláště závažnou a bezprostřední hrozbu pro veřejný pořádek“.
+          - Ruská FSB vydala mezinárodní zatykač na Pavla Durova, zakladatele aplikace Telegram. Úřady ruského režimu ho obviňují z „napomáhání terorismu“, poté co Telegram nevyhověl požadavku na uzavření ukrajinských kanálů.
+          - Americký Senát poměrem hlasů 86 ku 12 schválil návrh zákona senátora Lindseyho Grahama o rozsáhlých sankcích proti Rusku.
+          - Situace v Kosťantynivce se dále zhoršuje; ruské jednotky se nyní objevily i za hranicemi města, a to ve vesnici Oleksijevo-Družkivka.
+          - Ve Vladimíru vypukl požár v ruském výstavním a skladovém komplexu „Terminal“. Požár zničil velký objem nábytku a stavebnin. 
+          - Velký komplex na těžbu železa v Kryvém Rihu pozastavil těžební práce kvůli ruským útokům na námořní dopravu.
+          - Ázerbájdžán dodal Ukrajině téměř 40 tun vybavení na podporu železničního provozu a kritické infrastruktury.
+          - Ruský dron dnes dopoledne zasáhl dodávku rozvážející pečivo v centru Chersonu a zabil jejího řidiče.
+          - Maďarovy ptáci zasáhli na Krymu jen v červenci nejméně 164 objektů energetické infrastruktury. 
+          - Počet obětí nedávného ruského útoku na setkání zbrojařů v Kyjevě stoupl už na dvanáct osob. 
+          - Íránské drony zasáhly dvě americká úložiště zemního plynu v egyptském přístavu Damietta.
+          - Ukrajina minulý měsíc vyslala na území Ruska více dronů, než kolik jich Rusko vyslalo na ni.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/988170144814590620)
+          - [Perm](https://pixelfed.cz/p/dnesnaukrajine/988168339192031884)
+          - [Taky Perm](https://pixelfed.cz/p/dnesnaukrajine/988168373061745293)
+          - [Rjazaň](https://pixelfed.cz/p/dnesnaukrajine/988168399771159182)
+          - [Tamtéž](https://pixelfed.cz/p/dnesnaukrajine/988168423419259535)
+          - [Myrnohrad navštívil ruský svět](https://pixelfed.cz/p/dnesnaukrajine/988168463866940048)
+          - [Neprošli](https://pixelfed.cz/p/dnesnaukrajine/988168557488790161)
+          - [Mínus sklad maziv](https://pixelfed.cz/p/dnesnaukrajine/988168587038980754)
+          - [Mínus tank](https://pixelfed.cz/p/dnesnaukrajine/988168631263632019)
+          - [Drony v práci](https://pixelfed.cz/p/dnesnaukrajine/988168667947621012)
+          - [Mínus Buky](https://pixelfed.cz/p/dnesnaukrajine/988168686322252437)
       - title: "Úterý"
         year: "28. července 2026"
         sort: "2026-07-28"
