@@ -23,6 +23,95 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Thursday
+    year: July 30, 2026
+    sort: '2026-07-30'
+    image: assets/img/timeline/2026-07-30.jpg
+    podcast: 2026-07-30.mp3
+    desc: "A Russian Kh-101 cruise missile entered Polish airspace during a large-scale\
+      \ nighttime airstrike on Ukraine and landed in a field near the villages of\
+      \ Tarnawa-Kolonia and Tokary, approximately 94 km from the Ukrainian border.\
+      \ A Polish F-16 fighter jet was scrambled to intercept the missile, and Prime\
+      \ Minister Tusk stated that Poland was prepared to shoot down the missile if\
+      \ it had continued its flight. Tusk also later stated that he had spoken by\
+      \ phone with NATO partners and that they had agreed on a coordinated response\
+      \ in the event of further Russian “mistakes” and provocations. During the airstrike,\
+      \ Russia launched around seventy missiles or cruise missiles and deployed approximately\
+      \ 280 attack drones. Despite the excellent work of Ukraine’s air defense forces,\
+      \ the night unfortunately was not without civilian tragedies. So, as usual,\
+      \ expect another airstrike in the comments—this time from St. Petersburg. And\
+      \ [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0BJyL1Edw5pye9LvJSJzS7nPFyTYhFoem2dMxy5KknPBks1V92mAK6wmukx8aMsBkl)\
+      \ is also happening: \n"
+    detail: "- According to the Financial Times, the United States and France helped\
+      \ Ukraine carry out strikes deep inside Russia. Based on U.S. and French intelligence,\
+      \ Ukrainian planners created a detailed map of the Russian power grid and identified\
+      \ key nodes where disruption could cause large parts of the system to fail.\
+      \ At the same time, the information helped map the deployment of Russian air\
+      \ defenses and identify routes that would allow drones to evade those defenses\
+      \ and reach targets deep within Russian territory. \n- A North Korean Iskander-type\
+      \ missile (KN-23) fired by the Russians struck the home of a large family in\
+      \ a suburb of Kryvyi Rih, killing six of its members. Among the dead are a six-year-old\
+      \ girl, two boys aged 11 and 17, and three adults. Only the family dog was pulled\
+      \ alive from the rubble of the house. \n- Armenian Prime Minister Nikol Pashinyan\
+      \ said that the authorities will demand up to $2 billion a year from Russia\
+      \ for the lease of the Armenian railway network, which is currently operated\
+      \ by South Caucasus Railways, a subsidiary of Russian Railways (RZD).\n- A Russian\
+      \ missile struck an apartment building in Lviv. Rescue and search operations\
+      \ are currently underway, with residents themselves helping to clear the rubble.\
+      \ An elderly woman was pulled from the rubble; according to reports, two people\
+      \ are missing and more than 30 people were injured.\n- Ukraine will receive\
+      \ a new tranche of $3.9 billion from the EU for defense purposes. The allocated\
+      \ funds will help finance the purchase of drones—including jet-powered and long-range\
+      \ models—as well as missiles and Gripen fighter jets.\n- A Ukrainian F-16 fighter\
+      \ jet crashed during a combat mission over eastern Ukraine. The pilot managed\
+      \ to eject in time and escaped unharmed. \n- Ukraine will send representatives\
+      \ from the State Emergency Service (SES) and the necessary equipment to help\
+      \ France fight the fires.\n- Ukrainian drones have once again struck the \"\
+      Tamannaftogas\" oil terminal. As a result of the attack, at least two tank farm\
+      \ areas are on fire.  \n- Ukrainian forces struck two more Wildberries logistics\
+      \ facilities—in Penza and in Sarapul, in Udmurtia.\n- Ukraine struck an oil\
+      \ terminal in the port of Taman in southern Russia.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/988544002452855074)
+
+      - [Drone Romance Over Ryazan](https://pixelfed.cz/p/dnesnaukrajine/988541245007210734)
+
+      - [Wildberries Penza](https://pixelfed.cz/p/dnesnaukrajine/988541293383252208)
+
+      - [Penza](https://pixelfed.cz/p/dnesnaukrajine/988541329621453042)
+
+      - [Penza](https://pixelfed.cz/p/dnesnaukrajine/988541355623377141)
+
+      - [Sarapul](https://pixelfed.cz/p/dnesnaukrajine/988541427090946295)
+
+      - [Sarapul](https://pixelfed.cz/p/dnesnaukrajine/988541455963048186)
+
+      - [Lviv](https://pixelfed.cz/p/dnesnaukrajine/988541492332443899)
+
+      - [They pulled a boy out of the rubble alive](https://pixelfed.cz/p/dnesnaukrajine/988541561424853244)
+
+      - [Minus the Russian warehouse min](https://pixelfed.cz/p/dnesnaukrajine/988541592482294013)
+
+      - [The Hunt for the Shaheds](https://pixelfed.cz/p/dnesnaukrajine/988542250511489283)
+
+      - [HIMARS was in operation](https://pixelfed.cz/p/dnesnaukrajine/988542296043587844)
+
+      - [He didn''t make it through](https://pixelfed.cz/p/dnesnaukrajine/988542353202624773)
+
+      - [Reduction of Russian Military Forces in Crimea](https://pixelfed.cz/p/dnesnaukrajine/988542463682967815)
+
+      - [Minus a powerful jammer](https://pixelfed.cz/p/dnesnaukrajine/988542500881451272)
+
+      - [Minus Banderol](https://pixelfed.cz/p/dnesnaukrajine/988542521478428940)
+
+      - [Did not pass](https://pixelfed.cz/p/dnesnaukrajine/988542556303730957)
+
+      - [The Impact Site of the Russian Missile in Poland](https://pixelfed.cz/p/dnesnaukrajine/988542572133370127)
+
+      - [Minus logistics](https://pixelfed.cz/p/dnesnaukrajine/988542606554925329)
+
+      - [Russian Airstrike on Pavlohrad](https://pixelfed.cz/p/dnesnaukrajine/988542617684678930)
+
+      '
   - title: Wednesday
     year: July 29, 2026
     sort: '2026-07-29'

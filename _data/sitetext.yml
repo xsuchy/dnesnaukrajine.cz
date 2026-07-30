@@ -38,6 +38,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "30. července 2026"
+        sort: "2026-07-30"
+        image: assets/img/timeline/2026-07-30.jpg
+        podcast: "2026-07-30.mp3"
+        desc: |
+          Ruská řízená střela s plochou dráhou letu typu Ch-101 vletěla během rozsáhlého nočního náletu na Ukrajinu do polského vzdušného prostoru a dopadla do pole u obcí Tarnawa-Kolonia a Tokary, zhruba 94 km od ukrajinských hranic. Střele startovala naproti polská stíhačka F-16 a premiér Tusk uvedl, že Polsko bylo připraveno raketu sestřelit, pokud by pokračovala v letu. Tusk také později uvedl, že si telefonoval s partnery z NATO a dohodli se na koordinovaném postupu v případě dalších ruských „omylů“ a provokací. Rusko během náletu vyslalo okolo sedmi desítek raket nebo střel s plochou dráhou letu a okolo 280 útočných dronů. I přes kvalitní práci ukrajinské PVO se bohužel noc neobešla bez civilních tragédií. Proto jako obvykle čekejte v komentářích další nálet – z Petrohradu. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0BJyL1Edw5pye9LvJSJzS7nPFyTYhFoem2dMxy5KknPBks1V92mAK6wmukx8aMsBkl): 
+        detail: |
+          - Spojené státy a Francie podle Financial Times pomohly Ukrajině provést údery hluboko v Rusku. Na základě amerických a francouzských zpravodajských informací vytvořili ukrajinští plánovači podrobnou mapu ruské elektrické sítě a určili klíčové uzly, kde by narušení mohlo způsobit výpadek velkých částí systému. Zároveň informace pomohly zmapovat rozmístění ruské protivzdušné obrany a určit trasy, díky nimž se drony mohly obraně vyhnout a dosáhnout cílů hluboko na území Ruska. 
+          - Severokorejská raketa typu Iskander (KN-23) vypálená Rusy zasáhla dům početné rodiny na předměstí Kryvého Rihu a zabila šest jejích členů. Mezi mrtvými je šestiletá dívka, dva chlapci ve věku 11 a 17 let a tři dospělí. Z trosek domu se podařilo živého vytáhnout pouze rodinného psa. 
+          - Arménský premiér Nikol Pašinyan uvedl, že úřady budou od Ruska požadovat až 2 miliardy dolarů ročně za pronájem arménské železniční sítě, kterou v současné době provozuje společnost Jihokavkazské železnice, dceřiná společnost Ruských železnic (RZD).
+          - Ruská raketa zasáhla bytový dům ve Lvově. V současné době probíhají záchranné a pátrací operace, přičemž sami obyvatelé pomáhají odklízet trosky. Z trosek byla vyproštěna starší žena, dvě osoby jsou podle zpráv pohřešovány a více než 30 lidí bylo zraněno.
+          - Ukrajina obdrží od EU novou tranši ve výši 3,9 miliardy dolarů na účely obrany. Přidělené prostředky pomůžou financovat nákup dronů, včetně těch s tryskovým pohonem a dlouhým doletem, a také raket a stíhacích letounů Gripen.
+          - Ukrajinský stíhací letoun F-16 se zřítil během bojové mise nad východní Ukrajinou. Pilot se zvládl včas katapultovat a vyvázl bez zranění. 
+          - Ukrajina vyšle zástupce Státní záchranné služby (SES) a potřebnou výbavu, aby pomohla Francii v boji proti požárům.
+          - Ukrajinské drony opět zasáhly ropný terminál „Tamannaftogas“. V důsledku útoku hoří nejméně dva areály cisteren.  
+          - Ukrajinci zasáhli další dva logistické areály Wildberries – v Penze a v Sarapulu v Urdmutsku.
+          - Ukrajina zasáhla ropný terminál v přístavu Taman na jihu Ruska.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/988544002452855074)
+          - [Dronová romantika nad Rjazaní](https://pixelfed.cz/p/dnesnaukrajine/988541245007210734)
+          - [Wildberries Penza](https://pixelfed.cz/p/dnesnaukrajine/988541293383252208)
+          - [Penza](https://pixelfed.cz/p/dnesnaukrajine/988541329621453042)
+          - [Penza](https://pixelfed.cz/p/dnesnaukrajine/988541355623377141)
+          - [Sarapul](https://pixelfed.cz/p/dnesnaukrajine/988541427090946295)
+          - [Sarapul](https://pixelfed.cz/p/dnesnaukrajine/988541455963048186)
+          - [Lvov](https://pixelfed.cz/p/dnesnaukrajine/988541492332443899)
+          - [Z trosek vytáhli živého kluka](https://pixelfed.cz/p/dnesnaukrajine/988541561424853244)
+          - [Mínus ruský sklad min](https://pixelfed.cz/p/dnesnaukrajine/988541592482294013)
+          - [Lov na Shahedy](https://pixelfed.cz/p/dnesnaukrajine/988542250511489283)
+          - [HIMARS pracoval](https://pixelfed.cz/p/dnesnaukrajine/988542296043587844)
+          - [Neproplaval](https://pixelfed.cz/p/dnesnaukrajine/988542353202624773)
+          - [Redukce ruské armády na Krymu](https://pixelfed.cz/p/dnesnaukrajine/988542463682967815)
+          - [Mínus výkonná rušička](https://pixelfed.cz/p/dnesnaukrajine/988542500881451272)
+          - [Mínus Banderol](https://pixelfed.cz/p/dnesnaukrajine/988542521478428940)
+          - [Neprošli](https://pixelfed.cz/p/dnesnaukrajine/988542556303730957)
+          - [Místo dopadu ruské rakety v Polsku](https://pixelfed.cz/p/dnesnaukrajine/988542572133370127)
+          - [Mínus logistika](https://pixelfed.cz/p/dnesnaukrajine/988542606554925329)
+          - [Ruský nálet na Pavlohrad](https://pixelfed.cz/p/dnesnaukrajine/988542617684678930)
       - title: "Středa"
         year: "29. července 2026"
         sort: "2026-07-29"
