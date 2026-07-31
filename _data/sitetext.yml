@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "31. července 2026"
+        sort: "2026-07-31"
+        image: assets/img/timeline/2026-07-31.jpg
+        podcast: "2026-07-31.mp3"
+        desc: |
+          Ukrajinské drony nad ránem dopadaly na Volgograd, Kazaň, Nižnekamsk a Kaspijsk. Ve Volgogradu byla zasažena ropná rafinérie a také logistický areál společnosti Wildberries. Další rafinérie a další areál Wildberries byl zasažen v Nižnekamsku. V Kaspijsku byl cílem dronů tamější přístavní terminál. Došlo také k prvnímu útoku na druhý největší e-shop, společnost Ozon. Ukrajinský dron jen těsně minul její logistické sklady v Zelenodolsku. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02vfRaEEknS88A2ybXfX7JvcJhUFs3mScCc4dWphFMwbYqiwSFK9oroDVXuL86Fjenl): 
+        detail: |
+          - Generálmajor Dmitrij Sergejevič Michajlov, velitel 144. motorizované střelecké divize ruských okupačních sil, byl podle zpráv včera „denacifikován“. Od roku 2022 se jednotky pod jeho velením – včetně 252. motorizovaného střeleckého pluku a později 144. motorizované střelecké divize – podílely na okupaci částí Charkovské oblasti Izjumu, kde ruská armáda páchala zvěrstva na civilní populaci. 
+          - V okolí Nikopolu, kde údery zasáhly jeden podnik a několik vozidel, zahynuly dvě osoby a tři byly zraněny. Záchranáři vyprostili jednoho ze zraněných a převezli ho do nemocnice. V okolí Dnipra, Pavlohradu a Synelnykove poškodila ruská palba závod potravinářského průmyslu, budovu obecního úřadu, školu, soukromé domy a obchody.
+          - Polská prokuratura identifikovala řízenou střelu, která dopadla ve východním Polsku během nočního masivního útoku Ruska na Ukrajinu. Jde skutečně o ruskou střelu Ch-101. Vyšetřovatelé vystopovali její původ až k podniku v Moskevské oblasti a ze součástek určili, že byla vyrobena ve druhém čtvrtletí roku 2026.
+          - Podle Zelenského padlo na bojišti 50 000 ukrajinských vojáků. Dalších 400 000 bylo zraněno a velký počet vojáků je stále pohřešován. Zelenskyj zároveň odhadl celkové ztráty Ruska na 1,6 milionu, z toho asi 700 000 mrtvých.
+          - Ruské letectvo v noci svrhlo na Kramatorsk čtyři bomby, přičemž zranilo tři osoby a zapálilo čtrnáctipatrovou budovu. Poté zaútočilo na Slavjansk jednou bombou a dronem, přičemž zranilo další osobu.
+          - Dnes došlo k neúspěšnému pokusu o atentát na velitele 2. sboru Ukrajinské národní gardy „Chartia“, Ihora Obolenského. Útočník a jeho komplic byli zadrženi poté, co útočníkovi selhala zbraň. 
+          - Během včerejšího rozsáhlého nočního útoku Rusko zasáhlo továrnu vyrábějící drony AQ-400 Scythe a AQ-100 Bayonet, jejíž majitelem je americká společnost Terminal Autonomy.
+          - Ukrajinským Chmelnickým otřásla mohutná exploze. Podle videí a prvotních zpráv bylo zasaženo vojenské cvičiště, kde následně vybuchl sklad munice. 
+          - Světová boxerská federace zrušila poslední omezení týkající se neutrálního statusu a Rusové tak budou nyní opět soutěžit pod svou národní vlajkou.
+          - Ukrajinské síly zasáhly letecký závod v okupované Jevpatorii a také přístavní infrastrukturu v Tamánu v ruském Krasnodarském kraji.
+          - Rusko v posledních dnech provádí rozsáhlý letecký transport žoldáků a vybavení do Afriky přes základny v Sýrii.
+          - Mezinárodní hokejová federace (IIHF) rozhodla, že se Rusko dál nesmí účastnit mezinárodních soutěží. 
+          - Za posledních 24 hodin byly v Azovském moři zasaženy další čtyři lodě z ruské stínové flotily.
+          - Ve výdejním místě společnosti Wildberries v Rusku explodovala krabice naplněná výkaly.
+          - Rusko zasáhlo pobočku společnosti Nova Pošta ve Vinnycké oblasti. 
+          - V ruském Vladivostoku hoří sklady společnosti DNS o rozloze 5 000 m².
+          - Američtí vyslanci Witkoff a Kushner by měli v srpnu navštívit Kyjev.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/988818687588000428)
+          - [Ozon – o fous](https://pixelfed.cz/p/dnesnaukrajine/988817141090480784)
+          - [Volgograd](https://pixelfed.cz/p/dnesnaukrajine/988817157993443985)
+          - [Také Volgograd](https://pixelfed.cz/p/dnesnaukrajine/988817486578639512)
+          - [Akce na frontě](https://pixelfed.cz/p/dnesnaukrajine/988817863352582813)
+          - [Chmelnický](https://pixelfed.cz/p/dnesnaukrajine/988817882977686174)
+          - [Balík s výkaly](https://pixelfed.cz/p/dnesnaukrajine/988817929037435551)
+          - [Vladivostok](https://pixelfed.cz/p/dnesnaukrajine/988817949577323168)
+          - [Také Vladivostok](https://pixelfed.cz/p/dnesnaukrajine/988818014420611746)
+          - [Rusové…](https://pixelfed.cz/p/dnesnaukrajine/988818038472270499)
+          - [Penza](https://pixelfed.cz/p/dnesnaukrajine/988818074144105124)
       - title: "Čtvrtek"
         year: "30. července 2026"
         sort: "2026-07-30"
