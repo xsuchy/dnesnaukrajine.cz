@@ -23,6 +23,76 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Saturday
+    year: August 1, 2026
+    sort: '2026-08-01'
+    image: assets/img/timeline/2026-08-01.jpg
+    podcast: 2026-08-01.mp3
+    desc: "Russia carried out another massive attack on Kyiv, leaving 9 dead and 30\
+      \ injured. Four children are among the injured. Seventeen people remain in the\
+      \ hospital. Rescue workers are still clearing debris at the impact sites, and\
+      \ 105 people have already been rescued from the damaged buildings. The highest\
+      \ number of casualties was reported in the Darnytskyi district, where seven\
+      \ people were killed and another 14 were injured. Residential buildings, office\
+      \ buildings, and vehicles were damaged. In the Solomianskyi district, a high-rise\
+      \ building was partially destroyed, killing two people. And this also happened:\
+      \ \n"
+    detail: "- A fake video is circulating online in which alleged “Ukrainian soldiers”\
+      \ threaten Iran. The footage shows masked people in military uniforms holding\
+      \ Ukrainian flags, insulting Iranians and threatening to sink more Iranian ships.\
+      \ The Ukrainian Foreign Ministry has called it a hoax, likely the work of Russian\
+      \ propaganda, aimed at stirring up tension between the two countries. \n- Ukraine\
+      \ has discovered the crater left by the second North Korean KN-23 ballistic\
+      \ missile, which Russia used on July 30. The first missile struck a house in\
+      \ Radushne, killing six people, including three children, and five minors are\
+      \ still missing. The second missile exploded in a field 3.5 km away. There were\
+      \ no potential targets within a 5-kilometer radius.\n- Ukrainian drones caused\
+      \ fires at a large Russian oil refinery in Ufa, which is located more than 1,300\
+      \ kilometers from the Ukrainian border. The SBU claims that its drones struck\
+      \ infrastructure at all three refineries in the city: Bashneft-UNPZ, Novoil,\
+      \ and Ufaneftechim.\n- Rosatom chief Alexei Likhachev said that the container\
+      \ ship “Janina,” owned by FESCO, sank 130 miles from Novorossiysk after being\
+      \ struck by two Ukrainian naval drones during the night. All 17 crew members\
+      \ were rescued.\n- Laura Loomer stated that if she were president of the United\
+      \ States, she would order Putin's elimination. According to her, the Russian\
+      \ dictator is afraid of Trump, but the U.S. president could take a much tougher\
+      \ stance toward the Kremlin.\n- Police have launched an investigation following\
+      \ explosions at a military training ground in Khmelnytskyi, where ammunition\
+      \ detonated. Four special forces soldiers were injured, and several others are\
+      \ still missing.\n- A powerful explosion occurred at a chemical plant in Nizhnekamsk,\
+      \ Tatarstan, which is now part of Russia. The explosion reportedly occurred\
+      \ in the polystyrene production hall.\n- An F-35 fighter jet caught fire following\
+      \ an incident—the cause of which remains unclear—that occurred at the U.S. Marine\
+      \ Corps Air Station Miramar in San Diego.\n- Russia struck another warehouse\
+      \ belonging to a Ukrainian publishing house. The attack caused a fire that engulfed\
+      \ an area of approximately 10,000 square meters.\n- Protests broke out again\
+      \ in Ukrainian cities calling for the return of former Defense Minister Fedorov\
+      \ and the launch of key political reforms. \n- Ukrainian drones attacked the\
+      \ Zuivska thermal power plant overnight in the occupied city of Zugres near\
+      \ Donetsk.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/989212836770841147)
+
+      - [Kyiv](https://pixelfed.cz/p/dnesnaukrajine/989210067213230601)
+
+      - [Morning in Kyiv](https://pixelfed.cz/p/dnesnaukrajine/989210093814870538)
+
+      - [Air Raid on Kyiv](https://pixelfed.cz/p/dnesnaukrajine/989210120456458763)
+
+      - [Minus the ship](https://pixelfed.cz/p/dnesnaukrajine/989210155568951820)
+
+      - [Ukrainian firefighters are heading to France](https://pixelfed.cz/p/dnesnaukrajine/989210180167340557)
+
+      - [Russian Airstrike on Odessa](https://pixelfed.cz/p/dnesnaukrajine/989210208167973390)
+
+      - [Kherson](https://pixelfed.cz/p/dnesnaukrajine/989210239796261391)
+
+      - [Ufa](https://pixelfed.cz/p/dnesnaukrajine/989210268110381584)
+
+      - [Protests in Kyiv](https://pixelfed.cz/p/dnesnaukrajine/989210294718698001)
+
+      - [Odessa](https://pixelfed.cz/p/dnesnaukrajine/989210317440250386)
+
+      '
   - title: Friday
     year: July 31, 2026
     sort: '2026-07-31'

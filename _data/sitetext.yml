@@ -38,6 +38,37 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "1. srpna 2026"
+        sort: "2026-08-01"
+        image: assets/img/timeline/2026-08-01.jpg
+        podcast: "2026-08-01.mp3"
+        desc: |
+          Rusko provedlo další masivní útok na Kyjev, který si vyžádal 9 mrtvých a 30 zraněných. Mezi zraněnými jsou i čtyři děti. Sedmnáct lidí zůstává v nemocnici. Záchranáři stále odklízejí trosky v místech dopadu a z poškozených budov už bylo zachráněno 105 lidí. Nejvyšší počet obětí byl hlášen ve čtvrti Darnyckyi, kde zahynulo sedm lidí a dalších 14 bylo zraněno. Poškozeny byly obytné budovy, administrativní objekty a vozidla. Ve čtvrti Solomianskyi byla částečně zničena výšková budova, přičemž zahynuli dva lidé. A také se stalo tohle: 
+        detail: |
+          - Na internetu se šíří falešné video, na kterém údajní „ukrajinští vojáci“ vyhrožují Íránu. Na záběrech jsou maskovaní lidé ve vojenských uniformách s ukrajinskými vlajkami, kteří urážejí Íránce a vyhrožují, že pošlou ke dnu další íránské lodě. Ukrajinské ministerstvo zahraničí to označilo za fejk, pravděpodobně z dílny ruské propagandy, jehož cílem je vyvolat napětí mezi oběma zeměmi. 
+          - Ukrajina objevila kráter po druhé severokorejské balistické raketě typu KN-23, kterou Rusko použilo 30. července. První z nich zasáhla dům v Radušném, přičemž zahynulo šest lidí, včetně tří dětí, a pět nezletilých je stále pohřešováno. Druhá raketa explodovala na poli vzdáleném 3,5 km. V okruhu 5 km se přitom nenacházel žádný potenciální cíl.
+          - Ukrajinské drony způsobily požáry ve velké ruské ropné rafinérii v Ufě, která leží více než 1 300 kilometrů od ukrajinských hranic. SBU tvrdí, že její drony zasáhly infrastrukturu dokonce ve všech třech rafinériích ve městě: Bašneft-UNPZ, Novoil a Ufaneftechim.
+          - Šéf agentury Rosatom Alexej Lichačev uvedl, že kontejnerová loď „Janina“, patřící společnosti FESCO, se potopila 130 mil od Novorossijsku poté, co byla v noci zasažena dvěma ukrajinskými námořními drony. Všech 17 členů posádky bylo zachráněno.
+          - Laura Loomerová prohlásila, že kdyby byla prezidentkou USA, nařídila by likvidaci Putina. Podle ní se ruský diktátor bojí Trumpa, ale americký prezident by mohl vůči Kremlu zaujmout mnohem tvrdší postoj.
+          - Policie zahájila vyšetřování po explozích na vojenském cvičišti v Chmelnyckém, kde došlo k výbuchu střeliva. Čtyři vojáci speciálních jednotek byli zraněni a několik dalších je stále pohřešováno.
+          - V chemickém závodě v Nižnekamsku v Tatarstánu, který se dnes nachází v Rusku, došlo k silnému výbuchu. Údajně vznikl výbuch v hale na výrobu polystyrenu.
+          - Stíhací letoun F-35 začal hořet po dosud neobjasněné události, k níž došlo na letecké základně americké námořní pěchoty „Miramar“ v San Diegu.
+          - Rusko zasáhlo další sklad ukrajinského knižního nakladatelství. Útok způsobil požár, který zachvátil plochu přibližně 10 000 metrů čtverečních.
+          - V ukrajinských městech se opět protestovalo za návrat bývalého ministra obrany Fedorova a nastartování klíčových politických reforem. 
+          - Ukrajinské drony v noci zaútočily na tepelnou elektrárnu Zuivska v okupovaném městě Zugres u Doněcku.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/989212836770841147)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/989210067213230601)
+          - [Ráno v Kyjevě](https://pixelfed.cz/p/dnesnaukrajine/989210093814870538)
+          - [Nálet na Kyjev](https://pixelfed.cz/p/dnesnaukrajine/989210120456458763)
+          - [Mínus loď](https://pixelfed.cz/p/dnesnaukrajine/989210155568951820)
+          - [Ukrajinští hasiči míří do Francie](https://pixelfed.cz/p/dnesnaukrajine/989210180167340557)
+          - [Ruský nálet na Oděsu](https://pixelfed.cz/p/dnesnaukrajine/989210208167973390)
+          - [Cherson](https://pixelfed.cz/p/dnesnaukrajine/989210239796261391)
+          - [Ufa](https://pixelfed.cz/p/dnesnaukrajine/989210268110381584)
+          - [Protesty v Kyjevě](https://pixelfed.cz/p/dnesnaukrajine/989210294718698001)
+          - [Oděsa](https://pixelfed.cz/p/dnesnaukrajine/989210317440250386)
       - title: "Pátek"
         year: "31. července 2026"
         sort: "2026-07-31"
