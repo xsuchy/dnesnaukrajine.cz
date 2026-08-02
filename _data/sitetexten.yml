@@ -23,6 +23,91 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Sunday
+    year: August 2, 2026
+    sort: '2026-08-02'
+    image: assets/img/timeline/2026-08-02.jpg
+    podcast: 2026-08-02.mp3
+    desc: "Late last night, an improvised bomb exploded at the luxury Moscow restaurant\
+      \ Balzi Rossi. Russian media report that a woman brought the explosive device,\
+      \ disguised as a gift, into the restaurant. According to preliminary reports,\
+      \ five people were killed and more than 21 others were injured. Telegram channels\
+      \ claim that the restaurant was hosting a celebration for the 55th birthday\
+      \ of Alexander Chaika, commander of the Russian Aerospace Forces. The event,\
+      \ attended by military personnel, politicians, officials, and FSB agents, was\
+      \ reportedly guarded by FSO officers. Chaika himself was reportedly not injured\
+      \ in the incident. Which is unfortunate. At the start of the invasion, Chaika\
+      \ commanded the Russian forces advancing on Kyiv. Ukraine therefore accuses\
+      \ him of participating in the bombing of Borodyanka and of complicity in the\
+      \ massacre of civilians in Bucha. The identities of the victims will likely\
+      \ come to light in the coming days. In any case, Russian propaganda denies the\
+      \ assassination attempt and is trying to claim that it was a gas explosion.\
+      \ Sure. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0opSxwhkabkeZXU9K69rMe8EZP9X3MyGNT49sMB6PCtbtp97vpq6SnSsxXxbpR5Zal)\
+      \ is also happening: \n"
+    detail: "- Russian forces are repairing captured Ukrainian kamikaze drones or\
+      \ manufacturing copies of them and using them in their current operations. A\
+      \ Ukrainian fighter drone captured video showing a Russian drone that looks\
+      \ identical to Ukrainian FP-1/2 drones. This new tactic would explain a recent\
+      \ incident in Moldova on June 8, 2026, when, during a large-scale Russian airstrike\
+      \ on Ukraine, a drone bearing Ukrainian markings exploded near the village of\
+      \ Lopatna. At the time, the Ukrainian foreign minister stated that it was a\
+      \ Russian drone and that the Ukrainian markings may have been part of a deliberate\
+      \ provocation. The new video supports his explanation. Ukraine is therefore\
+      \ warning against new Russian provocations. \n- In a podcast, Russian military\
+      \ bloggers claimed that there are no significant military targets in Kyiv and\
+      \ that Russian airstrikes on the Ukrainian capital serve primarily as a show\
+      \ of force intended to put pressure on civilians, with the aim of breaking their\
+      \ resolve and forcing them to negotiate an unfavorable peace. \n- Russia has\
+      \ begun purchasing gasoline from Africa. A shipment of approximately 30,000\
+      \ metric tons of AI-92 gasoline from Tangier, Morocco, has arrived at the Russian\
+      \ port of Murmansk. According to Reuters, the supplier was Lukoil, and the fuel\
+      \ is already being prepared for onward transport by rail.\n- Russia has begun\
+      \ retaliating for the strikes on Wildberries facilities. On August 1, a Russian\
+      \ drone struck a warehouse belonging to the Ukrainian online retailer Rozetka\
+      \ in the Kyiv region, killing one employee and injuring seven others.\n- Last\
+      \ night, Russia also carried out two strikes on Kyivmedspetstrans (Kyiv’s emergency\
+      \ medical service). The airstrike destroyed 5 ambulances, severely damaged another\
+      \ 20 medical vehicles, and partially destroyed 4 buildings.\n- Ukrainian drones\
+      \ struck another distribution center belonging to the Russian e-commerce site\
+      \ Wildberries this morning, this time in Novosemeykin in the Samara Region.\
+      \ A catastrophic fire broke out on the premises, and a large part of the complex\
+      \ collapsed.\n- Russia lost 42,860 soldiers in July. It was—so far—its bloodiest\
+      \ month of the year, with approximately 1,380 soldiers killed or wounded each\
+      \ day.\n- Ukrainian intelligence destroyed three Russian boats in the occupied\
+      \ south, including the patrol boat “Sargan.”\n- Trump stated that Greenland\
+      \ could come under U.S. control before the end of his term. \n- Six people were\
+      \ killed and more than 80 were injured in Russian attacks on Ukraine over the\
+      \ past day.\n- During yesterday's airstrike on Kyiv, a Russian missile damaged\
+      \ the Lithuanian embassy building. \n- Russian Patriarch Kirill stated that\
+      \ the production of nuclear weapons was God's will. \n- Ukrainian drones struck\
+      \ the refinery in Ufa—which had already been hit earlier—again this morning.\
+      \ \n- Ukrainians struck the Russian military airfield Engels-2 again overnight.\
+      \ \n- Ukrainian drones struck an oil refinery in Saratov.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/989586748921589785)
+
+      - [Balzi Rossi](https://pixelfed.cz/p/dnesnaukrajine/989581158180368348)
+
+      - [Wildberries, Samara](https://pixelfed.cz/p/dnesnaukrajine/989581224853929949)
+
+      - [Ibid.](https://pixelfed.cz/p/dnesnaukrajine/989581274395037663)
+
+      - [Near Samara](https://pixelfed.cz/p/dnesnaukrajine/989581369469480930)
+
+      - [Samara](https://pixelfed.cz/p/dnesnaukrajine/989581413804003299)
+
+      - [Samara](https://pixelfed.cz/p/dnesnaukrajine/989581473801072613)
+
+      - [Minus the speed cameras near Krasnodar](https://pixelfed.cz/p/dnesnaukrajine/989581651996463080)
+
+      - [Engels-2](https://pixelfed.cz/p/dnesnaukrajine/989581681746063337)
+
+      - [They didn''t make it through](https://pixelfed.cz/p/dnesnaukrajine/989581747799551980)
+
+      - [Russian Bloggers on the Airstrikes](https://pixelfed.cz/p/dnesnaukrajine/989581802769121263)
+
+      - [Saratov](https://pixelfed.cz/p/dnesnaukrajine/989581826796482544)
+
+      '
   - title: Saturday
     year: August 1, 2026
     sort: '2026-08-01'

@@ -38,6 +38,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "2. srpna 2026"
+        sort: "2026-08-02"
+        image: assets/img/timeline/2026-08-02.jpg
+        podcast: "2026-08-02.mp3"
+        desc: |
+          Včera pozdě večer explodovala v luxusní moskevské restauraci Balzi Rossi improvizovaná bomba. Ruská média uvádějí, že výbušné zařízení maskované jako dárek pronesla dovnitř jakási žena. Podle kusých zpráv zahynulo pět lidí a více než 21 dalších bylo zraněno. Kanály na Telegramu tvrdí, že se v restauraci konala oslava 55. narozenin velitele ruských leteckých a kosmických sil Alexandra Čajka. Akci, jíž se účastnili vojáci, politici, úředníci a příslušníci FSB, údajně střežili příslušníci FSO. Čajko sám prý nebyl při incidentu zraněn. Což je nemilé. Na začátku invaze totiž Čajko velel ruským silám postupujícím na Kyjev. Ukrajina ho proto obviňuje z účasti na bombardování Boroďanky a podílu na masakru civilistů v Buči. Totožnost obětí nejspíš vypluje na povrch v příštích dnech. Ruská propaganda každopádně atentát popírá a snaží se tvrdit, že šlo o výbuch plynu. Tak určitě. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0opSxwhkabkeZXU9K69rMe8EZP9X3MyGNT49sMB6PCtbtp97vpq6SnSsxXxbpR5Zal): 
+        detail: |
+          - Ruské síly opravují ukořistěné ukrajinské kamikadze drony nebo vyrábějí jejich kopie a využívají je při svých současných operacích. Ukrajinský stíhací dron pořídil video, na kterém je zachycený ruský dron, který vypadá identicky jako ukrajinské drony typu FP-1/2. Nová taktika by vysvětlovala nedávný incident v Moldavsku z 8. června 2026, kdy během rozsáhlého ruského náletu na Ukrajinu explodoval dron s ukrajinskými polepy poblíž vesnice Lopatna. Ukrajinský ministr zahraničí tehdy uváděl, že se jednalo o ruský dron a že ukrajinské označení mohlo být součástí cílené provokace. Nové video jeho vysvětlení podporuje. Ukrajina proto varuje před novými ruskými provokacemi. 
+          - Ruští vojenští blogeři v podcastu tvrdili, že v Kyjevě se nenacházejí žádné významné vojenské cíle a že ruské nálety na ukrajinské hlavní město slouží především jako divadlo, jehož cílem je vyvíjet tlak na civilisty, s cílem zlomit jejich odhodlání a donutit je jednat o nevýhodném míru. 
+          - Rusko začalo nakupovat benzín v Africe. Do ruského přístavu Murmansk dorazila zásilka přibližně 30 000 tun benzínu AI-92 z marockého Tangeru. Podle agentury Reuters byla dodavatelem společnost Lukoil a palivo je už připravováno k další přepravě po železnici.
+          - Rusko se začalo mstít za údery na areály společnosti Wildberries. 1. srpna zasáhl ruský dron sklad patřící ukrajinskému internetovému prodejci Rozetka v Kyjevské oblasti, přičemž zahynul jeden zaměstnanec a dalších sedm bylo zraněno.
+          - Rusko včera v noci provedlo dva údery také na Kyivmedspetstrans (kyjevskou záchrannou službu). Nálet zničil 5 sanitek, dalších 20 zdravotnických vozidel bylo těžce poškozeno a 4 budovy byly částečně zničeny.
+          - Ukrajinské drony dnes ráno zasáhly další distribuční centrum ruského e-shopu Wildberries, tentokrát v Novosemeykinu v Samarské oblasti. V areálu vypukl katastrofální požár a velká část komplexu se zřítila.
+          - Rusko přišlo v červenci o 42 860 vojáků. Byl to tak pro něj – zatím – nejkrvavější měsíc letošního roku, přičemž každý den padlo nebo bylo zraněno přibližně 1 380 vojáků.
+          - Ukrajinská rozvědka zničila tři ruské čluny na okupovaném jihu, včetně hlídkového člunu „Sargan“.
+          - Trump prohlásil, že Grónsko by mohlo přejít pod americkou kontrolu ještě během jeho mandátu. 
+          - Při ruských útocích na Ukrajině za poslední den zahynulo 6 lidí a přes 80 jich bylo zraněno.
+          - Při včerejším náletu na Kyjev poškodila ruská raketa budovu litevské ambasády. 
+          - Ruský patriarcha Kirill prohlásil, že výroba jaderných zbraní byl boží záměr. 
+          - Ukrajinské drony ráno znovu zasáhly už dříve zasaženou rafinérii v Ufě. 
+          - Ukrajinci v noci opět zasáhli ruské vojenské letiště Engels-2. 
+          - Ukrajinské drony zasáhly ropnou rafinérii v Saratově.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/989586748921589785)
+          - [Balzi Rossi](https://pixelfed.cz/p/dnesnaukrajine/989581158180368348)
+          - [Wildberries, Samara](https://pixelfed.cz/p/dnesnaukrajine/989581224853929949)
+          - [Tamtéž](https://pixelfed.cz/p/dnesnaukrajine/989581274395037663)
+          - [U Samary](https://pixelfed.cz/p/dnesnaukrajine/989581369469480930)
+          - [Samara](https://pixelfed.cz/p/dnesnaukrajine/989581413804003299)
+          - [Samara](https://pixelfed.cz/p/dnesnaukrajine/989581473801072613)
+          - [Mínus radary u Krasnodaru](https://pixelfed.cz/p/dnesnaukrajine/989581651996463080)
+          - [Engels-2](https://pixelfed.cz/p/dnesnaukrajine/989581681746063337)
+          - [Neprojeli](https://pixelfed.cz/p/dnesnaukrajine/989581747799551980)
+          - [Ruští blogeři o náletech](https://pixelfed.cz/p/dnesnaukrajine/989581802769121263)
+          - [Saratov](https://pixelfed.cz/p/dnesnaukrajine/989581826796482544)
       - title: "Sobota"
         year: "1. srpna 2026"
         sort: "2026-08-01"
