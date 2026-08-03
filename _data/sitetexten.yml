@@ -23,6 +23,98 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Monday
+    year: August 3, 2026
+    sort: '2026-08-03'
+    image: assets/img/timeline/2026-08-03.jpg
+    podcast: 2026-08-03.mp3
+    desc: "Vitalina Jarovenko, a 20-year-old volunteer, was killed on August 1 during\
+      \ a Russian attack on Kyiv. That night, while serving with a medical battalion\
+      \ on the left bank of Kyiv, Vitalina arrived at the site of a Russian missile\
+      \ strike to help the wounded. As she was saving the lives of others, she was\
+      \ struck by a second missile and killed instantly. Glory to the heroes. And\
+      \ [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02LZxZXUL1oVLtpfpDA1CT6FeqQXzi1GtPxxUsgGYMVrn8HmEQXCudP2sVyfHLzfeSl)\
+      \ is also happening: \n"
+    detail: "- Boris Nadezhdin planned to run in the last Russian presidential election\
+      \ as an anti-war candidate and began collecting signatures in support of his\
+      \ candidacy. However, the Russian Central Election Commission excluded Nadezhdin\
+      \ from the election and refused to register him, stating that an unacceptably\
+      \ high proportion of the submitted signatures were invalid. In 2026, he planned\
+      \ to run in the State Duma elections and in June submitted his candidacy to\
+      \ the Central Election Commission as an independent candidate. In the meantime,\
+      \ however, the Russian Ministry of Justice added him to the registry of “foreign\
+      \ agents,” thereby once again preventing him from running for office. A few\
+      \ days later, Nadezhdin faced administrative proceedings for linking to a video\
+      \ that featured a photograph of Alexei Navalny. The court ruled that this constituted\
+      \ “the public display of extremist symbols,” which, for the third time, barred\
+      \ him from running for public office for another year. Now, Nadezhdin has released\
+      \ a video suggesting that he has fled Russia and settled in France. \n- Moscow\
+      \ has urgently dispatched a large number of armored vehicles and trucks to Mali.\
+      \ According to the BBC, these reinforcements were necessary after Russian mercenaries\
+      \ from the “Africa Korps” and forces loyal to the local junta suffered a series\
+      \ of heavy defeats at the hands of local rebels. In recent months, the Russians\
+      \ have suffered significant losses and, since April, have been forced to completely\
+      \ abandon several cities. The Kremlin is now trying to fill the resulting gap\
+      \ with additional equipment and fresh reinforcements.\n- Russian air defenses\
+      \ shot down a Ukrainian drone off the coast near the Russian resort town of\
+      \ Gelendzhik in the Krasnodar Krai. Following the strike, the drone crashed\
+      \ onto a beach crowded with people. According to preliminary reports, at least\
+      \ three people were killed and others were injured. Vacationers recorded the\
+      \ entire incident on their cell phones. \n- The Polish defense contractor LPP\
+      \ is sending Ukraine the first Narwhal low-altitude guided missiles manufactured\
+      \ in the Czech Republic. The warhead can carry 200 kg of explosives; the missile’s\
+      \ maximum speed is 750 km/h, and its range is approximately 635 km. It is also\
+      \ reportedly resistant to jamming of its navigation and other systems. \n- The\
+      \ SBU reports that two Su-35 fighter jets and two L-39 training aircraft were\
+      \ hit at the Khanskaya Air Base near Maykop in Russia’s Krasnodar Krai. The\
+      \ attack also struck a fuel and lubricants depot and other infrastructure.\n\
+      - Umerov will become the new head of the Foreign Intelligence Service. In his\
+      \ new role, he will continue to coordinate the “Drone Deal” initiative and will\
+      \ also participate in peace talks aimed at ending the war.\n- During a nighttime\
+      \ incursion, a Russian drone spent about 20 minutes in Romanian airspace, prompting\
+      \ Romania to scramble F-16 fighter jets and issue an air raid alert in the Danube\
+      \ Delta region.\n- In Odessa, an unidentified man opened fire on military recruitment\
+      \ office staff. Four soldiers were injured in the shooting. The shooter has\
+      \ already been taken into custody by the police. \n- \"Group 13\" of Ukraine's\
+      \ HUR used Magura maritime drones carrying FPV drones to destroy two more Russian\
+      \ radars in occupied Crimea.\n- Ukrainian drones struck and likely completely\
+      \ destroyed another Wildberries logistics facility, this time in the Vladimir\
+      \ region. \n- The Ukrainians struck a building at Belgorod State Technological\
+      \ University, where drones were being developed and manufactured and where drone\
+      \ piloting courses were held. \n- Russia struck transportation infrastructure\
+      \ in Ukraine's Odesa region, injuring six people, three of whom were hospitalized.\n\
+      - Russia has struck the largest warehouse of the Ukrainian e-commerce site Rozetka\
+      \ for the second time in the last 24 hours.\n- An investigative media report\
+      \ has already confirmed the identities of 236,000 Russian soldiers killed in\
+      \ Ukraine. \n- Unprovoked physical attacks against Ukrainian citizens continue\
+      \ to increase in Poland. \n- EU authorities have seized another ship from Russia's\
+      \ shadow fleet in the Mediterranean Sea. \n- The Ukrainians have once again\
+      \ struck a Russian oil refinery in Omsk. \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/989857873771256074)
+
+      - [A drone on a Russian beach](https://pixelfed.cz/p/dnesnaukrajine/989856038514657517)
+
+      - [The Decimation of a Russian Fuel Convoy](https://pixelfed.cz/p/dnesnaukrajine/989856074572806382)
+
+      - [Belgorod Technological University](https://pixelfed.cz/p/dnesnaukrajine/989856124107004143)
+
+      - [A Raid on Wildberries](https://pixelfed.cz/p/dnesnaukrajine/989856196232206576)
+
+      - [Wildberries in the Vladimir Region](https://pixelfed.cz/p/dnesnaukrajine/989856234309896433)
+
+      - [Vladimir](https://pixelfed.cz/p/dnesnaukrajine/989856268327463154)
+
+      - [The Reduction of Russia''s Air Defense Forces](https://pixelfed.cz/p/dnesnaukrajine/989856305148217587)
+
+      - [Where is the Russian air defense?](https://pixelfed.cz/p/dnesnaukrajine/989856353939175668)
+
+      - [Magura drone off the coast of Crimea](https://pixelfed.cz/p/dnesnaukrajine/989856422445590774)
+
+      - [A Flamingo on Its Way to Its Destination](https://pixelfed.cz/p/dnesnaukrajine/989856449368566007)
+
+      - [The Saratov Refinery](https://pixelfed.cz/p/dnesnaukrajine/989856484708866296)
+
+      '
   - title: Sunday
     year: August 2, 2026
     sort: '2026-08-02'

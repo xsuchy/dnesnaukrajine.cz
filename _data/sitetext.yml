@@ -38,6 +38,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "3. srpna 2026"
+        sort: "2026-08-03"
+        image: assets/img/timeline/2026-08-03.jpg
+        podcast: "2026-08-03.mp3"
+        desc: |
+          Vitalina Jarovenko, dvacetiletá dobrovolnice, zahynula 1. srpna při ruském útoku na Kyjev. V noci, když sloužila u zdravotnického praporu na levém břehu Kyjeva, dorazila Vitalina na místo ruského raketového útoku, aby pomohla zraněným. Při záchraně životů ostatních ji pak zasáhl druhý raketový úder a na místě zabil. Hrdinům sláva. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02LZxZXUL1oVLtpfpDA1CT6FeqQXzi1GtPxxUsgGYMVrn8HmEQXCudP2sVyfHLzfeSl): 
+        detail: |
+          - Boris Naděždin plánoval kandidovat v minulých ruských prezidentských volbách jako protiválečný kandidát a začal sbírat podpisy na podporu své kandidatury. Ruská Ústřední volební komise ale Naděždina z voleb vyloučila a odmítla ho zaregistrovat s tím, že nepřijatelně vysoký podíl předložených podpisů byl neplatný. V roce 2026 se chystal kandidovat ve volbách do Státní dumy a v červnu podal svou kandidaturu k Ústřední volební komisi jako nezávislý kandidát. Ruské ministerstvo spravedlnosti ho ale mezitím zapsalo do registru „zahraničních agentů“, čímž mu opět znemožnilo kandidovat. O několik dní později čelil Naděždin správnímu řízení kvůli odkazu na video, v němž se objevila fotografie Alexeje Navalného. Soud rozhodl, že se jednalo o „zveřejňování extremistických symbolů“, což mu na další rok do třetice znemožnilo kandidovat do veřejných funkcí. Teď Naděždin zveřejnil video, ze kterého vyplývá, že z Ruska uprchl a usadil se ve Francii. 
+          - Moskva urgentně vyslala do Mali velké množství obrněných vozidel a nákladních automobilů. Podle BBC byla taková posila nutná poté, co ruští žoldnéři z „Africa Korps“ a síly loajální místní juntě utrpěly řadu těžkých porážek od tamějších rebelů. V posledních měsících utrpěli Rusové značné ztráty a od dubna byli nuceni úplně opustit několik měst. Kreml se teď snaží vzniklou mezeru zaplnit další technikou a čerstvými posilami.
+          - Ruská protivzdušná obrana sestřelila ukrajinský dron nad pobřežím u ruského letoviska Gelendžik v Krasnodarském kraji. Dron se po intervenci zřítil na pláž plnou lidí. Podle předběžných informací zahynuli nejméně tři lidé a další byli zraněni. Celý incident natočili rekreanti na mobilní telefony. 
+          - Polská zbrojní firma LPP posílá Ukrajině první řízené střely s plochou dráhou letu Narwhal vyrobené v Česku. Hlavice unese 200 kg trhaviny, maximální rychlost střely je 750 km/h a dolet se pohybuje okolo 635 km. Údajně je také odolná proti rušení navigace i dalších systémů. 
+          - SBU uvádí, že na letecké základně Chanská nedaleko Majkopu v ruském Krasnodarském kraji byly zasaženy dva stíhací letouny Su-35 a dva cvičné letouny L-39. Útok zasáhl také sklad paliva a maziv a další infrastrukturu.
+          - Umerov se stane novým šéfem Zahraniční zpravodajské služby. Ve své funkci bude i nadále koordinovat iniciativu „Drone Deal“ a zároveň se bude podílet na mírových jednáních zaměřených na ukončení války.
+          - Ruský dron během nočního náletu strávil okolo 20 minut v rumunském vzdušném prostoru, což vedlo Rumunsko k vyslání stíhaček F-16 a vyhlášení poplachu před leteckým útokem v oblasti dunajské delty.
+          - V Oděse zahájil neznámý muž střelbu na pracovníky vojenské náborové služby. Při střelbě byli zraněni čtyři vojáci. Střelce už zadržela policie. 
+          - „Skupina 13“ ukrajinské HUR využila námořní drony Magura nesoucí drony FPV ke zničení dalších dvou ruských radarů na okupovaném Krymu.
+          - Ukrajinské drony zasáhly a nejspíš zcela zničily další logistický areál společnosti Wildberries, tentokrát ve Vladimirské oblasti. 
+          - Ukrajinci zasáhli budovu Bělgorodské technologické univerzity, kde probíhal vývoj a výroba dronů a také kurzy jejich pilotování. 
+          - Rusko zasáhlo přepravní infrastrukturu v ukrajinské Oděské oblasti, přičemž zranilo šest lidí, z nichž tři byli hospitalizováni.
+          - Rusko v posledních 24 hodinách podruhé zasáhlo největší sklad ukrajinského e-shopu Rozetka.
+          - Mediální investigace už potvrdila totožnost 236 000 ruských vojáků zabitých na Ukrajině. 
+          - V Polsku se dál množí nevyprovokované fyzické útoky proti občanům Ukrajiny. 
+          - Úřady EU zadržely další loď z ruské stínové flotily ve Středozemním moři. 
+          - Ukrajinci opět zasáhli ruskou ropnou rafinérii v Omsku. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/989857873771256074)
+          - [Dron na ruské pláži](https://pixelfed.cz/p/dnesnaukrajine/989856038514657517)
+          - [Decimace ruského konvoje s palivem](https://pixelfed.cz/p/dnesnaukrajine/989856074572806382)
+          - [Bělgorodská technologická univerzita](https://pixelfed.cz/p/dnesnaukrajine/989856124107004143)
+          - [Nálet na Wildberries](https://pixelfed.cz/p/dnesnaukrajine/989856196232206576)
+          - [Wildberries ve Vladimirské oblasti](https://pixelfed.cz/p/dnesnaukrajine/989856234309896433)
+          - [Vladimir](https://pixelfed.cz/p/dnesnaukrajine/989856268327463154)
+          - [Redukce ruské PVO](https://pixelfed.cz/p/dnesnaukrajine/989856305148217587)
+          - [Ruská PVO kděs?](https://pixelfed.cz/p/dnesnaukrajine/989856353939175668)
+          - [Magura dron u pobřeží Krymu](https://pixelfed.cz/p/dnesnaukrajine/989856422445590774)
+          - [Plameňák na cestě k cíli](https://pixelfed.cz/p/dnesnaukrajine/989856449368566007)
+          - [Rafinérie v Saratově](https://pixelfed.cz/p/dnesnaukrajine/989856484708866296)
       - title: "Neděle"
         year: "2. srpna 2026"
         sort: "2026-08-02"
