@@ -38,6 +38,29 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "4. srpna 2026"
+        sort: "2026-08-04"
+        image: assets/img/timeline/2026-08-04.jpg
+        podcast: "2026-08-04.mp3"
+        desc: |
+          Rusové zveřejnili na Telegramu video, na kterém jejich FPV dron loví za bílého dne obyčejného prodejce zeleniny na ulici v Chersonu a pokouší se ho zabít. Celý incident natočila také náhodná svědkyně. Muž jako zázrakem vyvázl jen s lehkými zraněními, přestože dron explodoval těsně vedle něj. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid04b6S1857qkSbnB1hbz8FR7Ta79e9k9FgAZ9QvjFTEBbQY3L1ikMb7dfzYvpTT5bDl): 
+        detail: |
+          - Sýrie je údajně připravena výrazně omezit dovoz ruské ropy, aby urychlila zrušení amerických sankcí a proces vyřazení ze seznamu států podporujících terorismus. Damašek v současné době odebírá z Ruska přibližně 60 000 barelů denně, ale hledá alternativy. Zároveň jediná gruzínská ropná rafinerie v Kulevi oznámila, že přejde na ropu z Kazachstánu a Libye. Závod byl dříve zasažen sankcemi EU kvůli zpracování ruské ropy.
+          - V ruské Tverské oblasti uspořádali členové strany „Jednotné Rusko“ u příležitosti Dne výsadkových sil akci s názvem „Čaj s hrdinou“. V rámci akce byl představen údajný ruský voják jménem Alexej „Mirny“ Morozov a organizátoři přečetli báseň, kterou údajně napsal. Má to ale háček: muž prezentovaný jako „hrdina“ byl ve skutečnosti japonský herec gay porna Duncan Mills, jehož podobiznu si Rusové „půjčili“.
+          - Ruský voják střílel z automatické zbraně na lidi ve vesnici Chmelnycke poblíž okupovaného Sevastopolu, přičemž zabil jednoho svého spolubojovníka a tři civilisty a zranil dalšího vojáka a tři civilisty. Mezi zabitými civilisty byli dva muži ve věku 71 a 59 let a 64letá žena.
+          - Ruští vojáci údajně obdrželi pokyny, jak se vyhnout pokusům o atentát. Důstojníkům se doporučuje změnit vzhled – nosit brýle, nechat si narůst vousy a změnit účes. Mezi doporučeními je také vzdát se užívání osobních automobilů a nepřijímat podezřelé zásilky.
+          - Společnost Wildberries staví v Kazachstánu nové sklady o celkové ploše více než 260 000 m². Podle kazachstánského ministra obchodu vznikne poblíž Almaty sklad o rozloze přes 100 000 m², v Astaně se pak staví další objekt o rozloze 160 000 m².
+          - Ruské jednotky zasáhly Kramatorsk v Doněcké oblasti leteckými bombami typu FAB-250. Jedna z bomb zasáhla obytný dům v centru města. 22 lidí bylo zraněno, z toho šest mužů ve věku 22–76 let a devět žen ve věku 18–74 let.
+          - Ukrajinské drony zasáhly ropnou rafinerii v ruském městě Syzran a také logistický areál patřící společnosti Wildberries v Leningradské oblasti poblíž Petrohradu.
+          - Rusové srovnali se zemí 300 let starý kostel Svatého Narození v Beryslavi – jediný dochovaný příklad dřevěné kozácké sakrální architektury z 18. století na Ukrajině.
+          - Vysoký íránský představitel Mohsen Rezaei prohlásil, že Ukrajina se omluvila za útok na íránskou loď, což přimělo Teherán, aby odvolal plánovanou odvetu.
+          - Stíhačky polského letectva zadržely nad Baltským mořem ruský průzkumný letoun Il-20M. Jedná se o druhý podobný incident za poslední dva dny.
+          - Nákladní loď turecké společnosti byla poblíž Novorossijsku zasažena drony, přičemž tři členové posádky utrpěli vážná zranění.
+          - Rusové zasáhli Sumy řízenými leteckými bombami a zabili tak tři osoby, včetně dvou dívek ve věku 5 a 10 let.
+          - Dnes odpoledne došlo v ruském Permu k výbuchu a následnému požáru v závodě na výrobu paliv a maziv.
+          - Ruský výsadkář zahynul nedaleko Moskvy poté, co se mu během oslav Dne výsadkových sil neotevřel padák.
+          - Při ruských útocích na Ukrajině za poslední den zahynulo 7 lidí a více než 123 bylo zraněno.
       - title: "Pondělí"
         year: "3. srpna 2026"
         sort: "2026-08-03"
