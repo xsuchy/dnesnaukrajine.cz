@@ -23,6 +23,104 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Tuesday
+    year: August 4, 2026
+    sort: '2026-08-04'
+    image: assets/img/timeline/2026-08-04.jpg
+    podcast: 2026-08-04.mp3
+    desc: "The Russians posted a video on Telegram showing their FPV drone hunting\
+      \ down an ordinary street vegetable vendor in Kherson in broad daylight and\
+      \ attempting to kill him. The entire incident was also filmed by a bystander.\
+      \ The man miraculously escaped with only minor injuries, even though the drone\
+      \ exploded right next to him. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid04b6S1857qkSbnB1hbz8FR7Ta79e9k9FgAZ9QvjFTEBbQY3L1ikMb7dfzYvpTT5bDl)\
+      \ also happened: \n"
+    detail: '- Syria is reportedly prepared to significantly reduce its imports of
+      Russian oil in order to expedite the lifting of U.S. sanctions and the process
+      of being removed from the list of state sponsors of terrorism. Damascus currently
+      imports approximately 60,000 barrels per day from Russia but is seeking alternatives.
+      Meanwhile, Georgia’s only oil refinery, located in Kulevi, announced that it
+      will switch to oil from Kazakhstan and Libya. The refinery had previously been
+      hit by EU sanctions for processing Russian oil.
+
+      - In Russia’s Tver Region, members of the “United Russia” party organized an
+      event called “Tea with a Hero” to mark Airborne Forces Day. During the event,
+      a man purported to be a Russian soldier named Alexei “Mirny” Morozov was introduced,
+      and the organizers read a poem he allegedly wrote. But there’s a catch: the
+      man presented as a “hero” was actually Japanese gay porn actor Duncan Mills,
+      whose image the Russians “borrowed.”
+
+      - A Russian soldier fired an automatic weapon at people in the village of Khmelnytske
+      near occupied Sevastopol, killing one of his fellow soldiers and three civilians,
+      and wounding another soldier and three civilians. Among the civilians killed
+      were two men, aged 71 and 59, and a 64-year-old woman.
+
+      - Russian soldiers have reportedly been given instructions on how to avoid assassination
+      attempts. Officers are advised to change their appearance—to wear glasses, grow
+      a beard, and change their hairstyle. The recommendations also include refraining
+      from using personal vehicles and not accepting suspicious packages.
+
+      - Wildberries is building new warehouses in Kazakhstan with a total area of
+      more than 260,000 m². According to Kazakhstan’s Minister of Trade, a warehouse
+      covering more than 100,000 m² will be built near Almaty, while another facility
+      covering 160,000 m² is under construction in Astana.
+
+      - Russian forces struck Kramatorsk in the Donetsk region with FAB-250 aerial
+      bombs. One of the bombs hit a residential building in the city center. Twenty-two
+      people were injured, including six men aged 22–76 and nine women aged 18–74.
+
+      - Ukrainian drones struck an oil refinery in the Russian city of Syzran, as
+      well as a logistics complex belonging to Wildberries in the Leningrad Region
+      near St. Petersburg.
+
+      - The Russians razed the 300-year-old Church of the Nativity in Beryslav to
+      the ground—the only surviving example of 18th-century wooden Cossack religious
+      architecture in Ukraine.
+
+      - A senior Iranian official, Mohsen Rezaei, stated that Ukraine had apologized
+      for the attack on the Iranian ship, prompting Tehran to call off its planned
+      retaliation.
+
+      - Polish Air Force fighter jets intercepted a Russian Il-20M reconnaissance
+      aircraft over the Baltic Sea. This is the second such incident in the last two
+      days.
+
+      - A cargo ship owned by a Turkish company was struck by drones near Novorossiysk,
+      and three crew members suffered serious injuries.
+
+      - The Russians struck Sumy with guided airstrikes, killing three people, including
+      two girls aged 5 and 10.
+
+      - This afternoon, an explosion and subsequent fire occurred at a fuel and lubricant
+      manufacturing plant in Perm, Russia.
+
+      - A Russian paratrooper died near Moscow after his parachute failed to open
+      during celebrations marking Paratroopers'' Day.
+
+      - Seven people were killed and more than 123 were injured in Russian attacks
+      on Ukraine over the past day.
+
+      '
+    videa: '- [Updated RuAF Losses](https://pbs.twimg.com/media/HO28CRdXwAAGP0b?format=png&name=large)
+
+      - [Russian Celebration of Parachutists'' Day](https://x.com/front_ukrainian/status/2084620790654181872)
+
+      - [Another Wildberries minus](https://x.com/front_ukrainian/status/2084516122246725785)
+
+      - [Near St. Petersburg](https://x.com/bayraktar_1love/status/2084534530958831858)
+
+      - [A Drone Over Čechov](https://x.com/bayraktar_1love/status/2084653709246488682)
+
+      - [Russian crew and drone](https://x.com/bayraktar_1love/status/2084692489412202569)
+
+      - [Minus the S-400](https://x.com/front_ukrainian/status/2084670495056646518)
+
+      - [Gold in Diving](https://x.com/nexta_tv/status/2084682022048678122)
+
+      - [Special Forces on the Front Lines](https://x.com/GloOouD/status/2084619144649957587)
+
+      - [Kyiv](https://x.com/nexta_tv/status/2084517633404088773)
+
+      '
   - title: Monday
     year: August 3, 2026
     sort: '2026-08-03'
