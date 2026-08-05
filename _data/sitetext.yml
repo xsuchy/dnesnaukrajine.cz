@@ -38,6 +38,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "5. srpna 2026"
+        sort: "2026-08-05"
+        image: assets/img/timeline/2026-08-05.jpg
+        podcast: "2026-08-05.mp3"
+        desc: |
+          V noci byl na letišti v Lipsku nalezen na zemi FPV dron s výbušninami. Dron se nacházel v blízkosti ukrajinského nákladního letadla typu Antonov, což vedlo k dočasnému přerušení provozu letiště. Později, asi 6 km od letiště, se jiné nákladní letadlo srazilo s neznámým předmětem a muselo nouzově přistát v Hannoveru, kde byly zjištěny drobné škody. Naštěstí nebyl při ani jednom z incidentů nikdo zraněn. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02KcUsNDqoiCnmERzq6Vy9UHkb4Ux6JMUaYkQtdD9SxKpFZtJC92M3CeoVLxh7TMfnl): 
+        detail: |
+          - Vladimir Tkačuk, šéf společnosti Ural Drone Factory, vývojář ruského dronu Upyr FPV a zakladatel proválečného kanálu „Povjorotnje na Vojne“ s 600 000 sledujícími, byl těžce zraněn při bombovém útoku nedaleko Jekatěrinburgu. Výbušné zařízení umístěné pod jeho mercedesem explodovalo ve čtvrti Bolšoj Istok. Jeho řidič a bodyguard zahynuli na místě, zatímco Tkačuk byl v kritickém stavu převezen na jednotku intenzivní péče.
+          - Bývalý úředník z Altaje Vitalij Manišin, známý jako „Maniak z Polytechu“, se snaží vyměnit svůj 25letý trest odnětí svobody za smlouvu s ruskou armádou. Manišin byl zatčen teprve v roce 2023 – více než dvě desetiletí po své sérii vražd. V letech 1989 až 2000 znásilnil a zavraždil 11 mladých žen, včetně uchazeček o studium na Altajské technické univerzitě.
+          - Rusko v noci provedlo jeden ze svých nejrozsáhlejších raketových útoků na Kyjev za poslední měsíce. Při náletu také opět použilo kazetovou munici, což představuje v případě použití proti civilní zástavbě válečný zločin. V explozích zahynulo 17 lidí a dalších 44 bylo zraněno. Jedním z cílů byl areál skladů e-shopu Rozetka. 
+          - Severní Korea rozmístila celou raketovou jednotku v ruském Voroněžském kraji, odkud má odpalovat rakety na Ukrajinu. Tvoří ji 90 členů personálu a ve výzbroji mají 120 balistických raket spolu se šesti odpalovacími zařízeními.
+          - Ukrajinské drony dnes ráno zasáhly sklad společnosti Wildberries o rozloze 194 500 m² v Aleksinu v Tulské oblasti. Budovu pohltily plameny a kompletně shořela. Tento objekt patří mezi 10 největších skladů v Rusku.
+          - Trump odmítl Zelenského žádost o rakety Patriot s odůvodněním, že kvůli válce s Íránem má nedostatek protivzdušných raket. Podle Reuters ale i tak probíhají jednání o jejich licenční výrobě na Ukrajině. 
+          - Pod plotem na litevsko-běloruské hranici byl objeven tunel pro migranty. Nedokončený průchod vedl asi 1,5 metru pod zemí, byl vyztužen kládami a prkny a zasahoval přibližně čtyři metry na litevské území.
+          - Při ruském náletu na železniční nástupiště v Kyjevské oblasti zahynulo osm lidí. Lidé čekali na stanici Kvitneva na zpožděný vlak. K úderu došlo v době, kdy se cestující ještě nacházeli na nástupišti.
+          - Gruzii zasáhl už třetí rozsáhlý výpadek proudu v posledních třech týdnech. Bez elektřiny se ocitlo i hlavní město Tbilisi a musel být přerušen provoz metra. 
+          - V Chersonu zasáhl ruský dron nákladní vůz společnosti ATB, který právě rozvážel potraviny do supermarketů.
+          - Ukrajinský letoun středního doletu zasáhl ruské proudové dopravní letadlo typu Jak-40 na letišti v Bělgorodu.
+          - Zeť velitele ruských leteckých a kosmických sil zahynul při včerejším výbuchu v moskevské restauraci.
+          - Veškerý dovoz LNG do Belgie pocházel v červenci 2026 z Ruska, a to poprvé od roku 2021.
+          - Indie zrušila nákup nových ruských stíhacích letounů Su-57.
+          - Ukrajinci opět zasáhli ruskou rafinérii v Ufě. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/990703905784486682)
+          - [Kvitneve](https://pixelfed.cz/p/dnesnaukrajine/990702489497901818)
+          - [Alexin, Tula](https://pixelfed.cz/p/dnesnaukrajine/990702624292236027)
+          - [Alexin ráno](https://pixelfed.cz/p/dnesnaukrajine/990702651129477884)
+          - [Korolov](https://pixelfed.cz/p/dnesnaukrajine/990702693768923901)
+          - [Letiště v Bělgorodu](https://pixelfed.cz/p/dnesnaukrajine/990702719623473918)
+          - [Petrohrad](https://pixelfed.cz/p/dnesnaukrajine/990702762592545535)
+          - [Rusové opět útočili na hasiče](https://pixelfed.cz/p/dnesnaukrajine/990702886405659392)
+          - [Dopad kazetové munice na Kyjev](https://pixelfed.cz/p/dnesnaukrajine/990702959059077889)
+          - [Mínus sklad munice](https://pixelfed.cz/p/dnesnaukrajine/990703043612203779)
+          - [Netrefili](https://pixelfed.cz/p/dnesnaukrajine/990703285194418952)
       - title: "Úterý"
         year: "4. srpna 2026"
         sort: "2026-08-04"

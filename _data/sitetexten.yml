@@ -23,6 +23,82 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Wednesday
+    year: August 5, 2026
+    sort: '2026-08-05'
+    image: assets/img/timeline/2026-08-05.jpg
+    podcast: 2026-08-05.mp3
+    desc: "An FPV drone carrying explosives was found on the ground at Leipzig Airport\
+      \ last night. The drone was located near a Ukrainian Antonov cargo plane, which\
+      \ led to a temporary suspension of airport operations. Later, about 6 km from\
+      \ the airport, another cargo plane collided with an unknown object and was forced\
+      \ to make an emergency landing in Hanover, where minor damage was discovered.\
+      \ Fortunately, no one was injured in either incident. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02KcUsNDqoiCnmERzq6Vy9UHkb4Ux6JMUaYkQtdD9SxKpFZtJC92M3CeoVLxh7TMfnl)\
+      \ also happened: \n"
+    detail: "- Vladimir Tkachuk, head of Ural Drone Factory, developer of the Russian\
+      \ Upyr FPV drone, and founder of the pro-war channel “Povyorotne na Voyne” with\
+      \ 600,000 followers, was seriously injured in a bomb attack near Yekaterinburg.\
+      \ An explosive device placed under his Mercedes detonated in the Bolshoy Istok\
+      \ neighborhood. His driver and bodyguard were killed instantly, while Tkachuk\
+      \ was transported to the intensive care unit in critical condition.\n- Vitaly\
+      \ Manishin, a former civil servant from Altai known as the “Polytech Maniac,”\
+      \ is attempting to trade his 25-year prison sentence for a contract with the\
+      \ Russian military. Manishin was not arrested until 2023—more than two decades\
+      \ after his string of murders. Between 1989 and 2000, he raped and murdered\
+      \ 11 young women, including applicants to Altai Technical University.\n- Overnight,\
+      \ Russia carried out one of its most extensive missile attacks on Kyiv in recent\
+      \ months. During the airstrike, it once again used cluster munitions, which\
+      \ constitutes a war crime when used against civilian areas. Seventeen people\
+      \ were killed in the explosions, and another 44 were injured. One of the targets\
+      \ was the warehouse complex of the online retailer Rozetka. \n- North Korea\
+      \ has deployed an entire missile unit in Russia's Voronezh Oblast, from where\
+      \ it is set to launch missiles at Ukraine. The unit consists of 90 personnel\
+      \ and is equipped with 120 ballistic missiles and six launchers.\n- Ukrainian\
+      \ drones struck a 194,500 m² Wildberries warehouse in Aleksin, in the Tula Region,\
+      \ this morning. The building was engulfed in flames and burned to the ground.\
+      \ This facility is one of the 10 largest warehouses in Russia.\n- Trump rejected\
+      \ Zelenskyy's request for Patriot missiles, citing a shortage of air defense\
+      \ missiles due to the war with Iran. According to Reuters, however, negotiations\
+      \ are still underway regarding their licensed production in Ukraine. \n- A tunnel\
+      \ for migrants was discovered under the fence on the Lithuanian-Belarusian border.\
+      \ The unfinished passage ran about 1.5 meters underground, was reinforced with\
+      \ logs and planks, and extended approximately four meters into Lithuanian territory.\n\
+      - Eight people were killed in a Russian airstrike on a train platform in the\
+      \ Kyiv region. People were waiting at the Kvitneva station for a delayed train.\
+      \ The strike occurred while passengers were still on the platform.\n- Georgia\
+      \ has been hit by its third major power outage in the last three weeks. Even\
+      \ the capital, Tbilisi, was left without power, and subway service had to be\
+      \ suspended. \n- In Kherson, a Russian drone struck an ATB truck that was delivering\
+      \ groceries to supermarkets.\n- A Ukrainian medium-range aircraft struck a Russian\
+      \ Yak-40 jet airliner at the Belgorod airport.\n- The son-in-law of the commander\
+      \ of the Russian Aerospace Forces was killed in an explosion at a Moscow restaurant\
+      \ yesterday.\n- In July 2026, all LNG imports into Belgium came from Russia—for\
+      \ the first time since 2021.\n- India has canceled the purchase of new Russian\
+      \ Su-57 fighter jets.\n- The Ukrainians have once again struck a Russian refinery\
+      \ in Ufa. \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/990703905784486682)
+
+      - [Kvitneve](https://pixelfed.cz/p/dnesnaukrajine/990702489497901818)
+
+      - [Alexin, Tula](https://pixelfed.cz/p/dnesnaukrajine/990702624292236027)
+
+      - [Alex''s Morning](https://pixelfed.cz/p/dnesnaukrajine/990702651129477884)
+
+      - [Korolov](https://pixelfed.cz/p/dnesnaukrajine/990702693768923901)
+
+      - [Belgorod Airport](https://pixelfed.cz/p/dnesnaukrajine/990702719623473918)
+
+      - [St. Petersburg](https://pixelfed.cz/p/dnesnaukrajine/990702762592545535)
+
+      - [The Russians attacked firefighters again](https://pixelfed.cz/p/dnesnaukrajine/990702886405659392)
+
+      - [The Impact of Cluster Munitions on Kyiv](https://pixelfed.cz/p/dnesnaukrajine/990702959059077889)
+
+      - [Minus the ammunition depot](https://pixelfed.cz/p/dnesnaukrajine/990703043612203779)
+
+      - [They missed](https://pixelfed.cz/p/dnesnaukrajine/990703285194418952)
+
+      '
   - title: Tuesday
     year: August 4, 2026
     sort: '2026-08-04'
