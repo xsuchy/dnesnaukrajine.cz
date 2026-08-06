@@ -38,6 +38,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "6. srpna 2026"
+        sort: "2026-08-06"
+        image: assets/img/timeline/2026-08-06.jpg
+        podcast: "2026-08-06.mp3"
+        desc: |
+          Ukrajinský dobrovolník Oleksij Jukov zahynul při výbuchu protipěchotní miny, když se snažil vyzvednout ostatky padlých ruských vojáků. Jukov věřil, že každý padlý voják si zaslouží vrátit se domů a že každá rodina si zaslouží možnost pochovat své blízké. Nazýval padlé „dušemi“, nikoli těly. Jeho životním posláním bylo přivádět ukrajinské obránce zpět k jejich rodinám, aby mohli být důstojně pohřbeni. Zároveň vyzvedával ostatky ruských vojáků, aby mohly být vyměněny, a umožnil tak návrat domů dalším ukrajinským hrdinům. Oleksij se svými principy řídil až do poslední chvíle. Ať je mu země lehká. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0y7QJG3ZsJSwkgejm1vq2r7VNZECBZK21n1y37ppPetZvBT3vTmAAvnhNWwv6Gc49l): 
+        detail: |
+          - Ruská zahraniční rozvědka se pravděpodobně chystala zavraždit Stefana Thumanna, generálního ředitele obranného start-upu Donaustahl. Jeho společnost dodává Ukrajině průzkumné a útočné drony. Vyšetřovatelé se domnívají, že podezřelí sledovali Thumannův dům, shromažďovali o něm informace a pokoušeli se ho vypátrat prostřednictvím jeho otce. V Německu a Španělsku byly následně zadrženy dvě osoby podezřelé ze spolupráce se zahraniční rozvědkou. Thumannovi byla poskytnuta zvýšená ochrana.
+          - 43letý muž z okupovaného Melitopolu se vydal do Rostova, aby nakoupil benzín k dalšímu prodeji. Jeho Ford Transit naložený kanystry s palivem ale začal na čerpací stanici hořet. Místo toho, aby s hořící dodávkou odjel pryč od lidí, vjel s ní pak přímo do dvora blízkého obytného domu. Zničeno bylo více než 20 aut, transformátorová stanice a výdejní místo společnosti Wildberries.
+          - Bývalá litevská prezidentka Dalia Grybauskaitė v interview uvedla, že na summitu ve Vilniusu v roce 2013 si tehdejší ukrajinský prezident Viktor Janukovyč stěžoval, že mu bylo ze strany Rusů vyhrožováno fyzickou likvidací a také tím, že by Ukrajina mohla přijít o miliardy z Ruska, pokud by se rozhodla jednoznačně obrátit k Evropě a podepsat asociační dohodu s EU.
+          - Kremelský propagandista Solovjov žádá vysvětlení, proč nebyla zahájena trestní řízení proti Ursule von der Leyenové, Kaje Kallasové a dalším evropským představitelům a proč na ně nebyly vydány zatykače. Ve svém pořadu také vyzval k uzavření ruského zastoupení při EU, a také velvyslanectví Německa, Francie a Spojeného království. 
+          - V noci ze 4. na 5. srpna si zaměstnanec letiště Lipsko/Halle všiml nízko letícího dronu, chytil ho za letu do ruky a položil na zem. Teprve později zjistil, že na něm byla umístěna výbušnina. Ukrajinské nákladní letadlo typu An-124 v Lipsku, v jehož blízkosti byl dron objeven, přepravovalo střelivo pro Ukrajinu.
+          - Spolumajitel a hlavní konstruktér společnosti Fire Point Denys Štilierman oznámil dokončení první fáze mezinárodní integrace systému Freyja. Tento evropský protiraketový systém, založený na střele FP-7, je koncipován jako cenově dostupnější alternativa k systému Patriot určená pro sériovou výrobu.
+          - Ukrajinská bezpečnostní služba oznámila, že při útocích dronů na přístav Kerč na okupovaném Krymu byly poškozeny dvě ruské hlídkové lodě pobřežní stráže FSB typu „Svetljak“ (projekt 10410) – lodě „Balaklava“ a „Kerč“.
+          - Ruské síly ve středu večer zaútočily na obchodní nákladní loď MERA QUEEN, plující pod vlajkou Guineje-Bissau a naloženou ukrajinskou pšenicí, přičemž zabily jednoho člena posádky a další tři zranily.
+          - Ukrajina podle zpráv místních obyvatel druhou noc po sobě zasáhla jednu z největších ruských rafinérií Slavneft-Janos v Jaroslavli, která leží více než 700 kilometrů od ukrajinských hranic.
+          - Osm největších letišť v Německu – Frankfurt, Berlín, Mnichov, Düsseldorf, Stuttgart, Hamburk, Lipsko a Kolín nad Rýnem – instaluje moderní technologie na ochranu před drony.
+          - Včerejší ruský nálet na Kyjev zničil centrální sklad společnosti Liqui Moly Ukraine, ukrajinské pobočky německého výrobce motorových olejů, maziv a autochemie.
+          - Polská opoziční strana Právo a spravedlnost (PiS) připravuje návrh zákona, jehož cílem je vyhostit ukrajinské muže žijící v Polsku, kteří nemají legální zaměstnání.
+          - Švédsko na základě rozhodnutí soudů předá Ukrajině zabavenou ruskou nákladní loď Caffa, která převážela ukradené ukrajinské obilí.
+          - V moldavském okrese Cahul, poblíž vesnice Văleni, objevila policie trosky ruského útočného dronu typu Geran-2 (Shahed).
+          - Mezinárodní volejbalová federace a také Mezinárodní federace stolního tenisu ruší zákaz účasti pro ruské sportovce. 
+          - Babišova vláda omezí kapacitu výcviku ukrajinských obránců na českém území z původních 800 na pouhých 100. 
+          - Německo zadrželo ukrajinského muže podezřelého ze špionáže ve prospěch zahraniční zpravodajské služby.
+          - Ukrajinci zasáhli vojenský sklad v Tulské oblasti, který Rusové zřídili v areálu společnosti Wildberries. 
+          - Ruský FPV dron zasáhl autobus se zemědělskými dělníky poblíž Chersonu a zranil šest lidí.
+          - Ukrajina aktuálně vězní válečné zajatce z 51 zemí.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/991040708270582138)
+          - [Severokorejci na ruském cvičišti](https://pixelfed.cz/p/dnesnaukrajine/991035165799282981)
+          - [Jaroslavl](https://pixelfed.cz/p/dnesnaukrajine/991035209465923878)
+          - [Sumy](https://pixelfed.cz/p/dnesnaukrajine/991035618941090091)
+          - [Rusové zabili civilisty v autě dronem](https://pixelfed.cz/p/dnesnaukrajine/991035692819458350)
+          - [Mínus Grad](https://pixelfed.cz/p/dnesnaukrajine/991035745119689008)
       - title: "Středa"
         year: "5. srpna 2026"
         sort: "2026-08-05"

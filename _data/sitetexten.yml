@@ -23,6 +23,94 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Thursday
+    year: August 6, 2026
+    sort: '2026-08-06'
+    image: assets/img/timeline/2026-08-06.jpg
+    podcast: 2026-08-06.mp3
+    desc: "Ukrainian volunteer Oleksiy Yukov was killed in an anti-personnel mine\
+      \ explosion while trying to recover the remains of fallen Russian soldiers.\
+      \ Yukov believed that every fallen soldier deserved to return home and that\
+      \ every family deserved the chance to bury their loved ones. He referred to\
+      \ the fallen as “souls,” not bodies. His life’s mission was to bring Ukrainian\
+      \ defenders back to their families so they could be buried with dignity. At\
+      \ the same time, he recovered the remains of Russian soldiers so they could\
+      \ be exchanged, thereby enabling more Ukrainian heroes to return home. Oleksiy\
+      \ remained true to his principles until the very end. May he rest in peace.\
+      \ And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0y7QJG3ZsJSwkgejm1vq2r7VNZECBZK21n1y37ppPetZvBT3vTmAAvnhNWwv6Gc49l)\
+      \ is also happening: \n"
+    detail: "- Russian foreign intelligence was likely planning to assassinate Stefan\
+      \ Thumann, CEO of the defense startup Donaustahl. His company supplies Ukraine\
+      \ with reconnaissance and attack drones. Investigators believe the suspects\
+      \ were surveilling Thumann’s home, gathering information about him, and attempting\
+      \ to track him down through his father. Two people suspected of collaborating\
+      \ with foreign intelligence were subsequently detained in Germany and Spain.\
+      \ Thumann has been provided with enhanced security.\n- A 43-year-old man from\
+      \ occupied Melitopol set out for Rostov to buy gasoline for resale. However,\
+      \ his Ford Transit, loaded with fuel cans, caught fire at a gas station. Instead\
+      \ of driving the burning van away from people, he drove it straight into the\
+      \ courtyard of a nearby residential building. More than 20 cars, a transformer\
+      \ station, and a Wildberries distribution center were destroyed.\n- Former Lithuanian\
+      \ President Dalia Grybauskaitė stated in an interview that at the 2013 summit\
+      \ in Vilnius, then-Ukrainian President Viktor Yanukovych complained that the\
+      \ Russians had threatened him with physical elimination and also warned that\
+      \ Ukraine could lose billions from Russia, if it decided to unequivocally turn\
+      \ toward Europe and sign an association agreement with the EU.\n- Kremlin propagandist\
+      \ Solovyov is demanding an explanation as to why criminal proceedings have not\
+      \ been initiated against Ursula von der Leyen, Kaja Kallas, and other European\
+      \ leaders, and why arrest warrants have not been issued for them. On his show,\
+      \ he also called for the closure of Russia’s mission to the EU, as well as the\
+      \ embassies of Germany, France, and the United Kingdom. \n- On the night of\
+      \ August 4–5, an employee at the Leipzig/Halle Airport noticed a low-flying\
+      \ drone, caught it in mid-air, and placed it on the ground. It was only later\
+      \ that he discovered an explosive device had been attached to it. A Ukrainian\
+      \ An-124 cargo plane in Leipzig, near which the drone was discovered, was transporting\
+      \ ammunition for Ukraine.\n- Denys Štilierman, co-owner and chief designer of\
+      \ Fire Point, announced the completion of the first phase of the international\
+      \ integration of the Freyja system. This European missile defense system, based\
+      \ on the FP-7 missile, is designed as a more affordable alternative to the Patriot\
+      \ system and is intended for mass production.\n- The Ukrainian Security Service\
+      \ reported that two Russian FSB “Svetljak”-class (Project 10410) coast guard\
+      \ patrol boats—the “Balaklava” and the “Kerch”—were damaged during drone attacks\
+      \ on the port of Kerch in occupied Crimea.\n- On Wednesday evening, Russian\
+      \ forces attacked the merchant cargo ship MERA QUEEN, which was sailing under\
+      \ the flag of Guinea-Bissau and carrying a cargo of Ukrainian wheat, killing\
+      \ one crew member and wounding three others.\n- According to reports from local\
+      \ residents, Ukraine struck one of Russia's largest refineries, Slavneft-Yanos\
+      \ in Yaroslavl—which is located more than 700 kilometers from the Ukrainian\
+      \ border—for the second night in a row.\n- The eight largest airports in Germany—Frankfurt,\
+      \ Berlin, Munich, Düsseldorf, Stuttgart, Hamburg, Leipzig, and Cologne—are installing\
+      \ state-of-the-art technology to protect against drones.\n- Yesterday's Russian\
+      \ airstrike on Kyiv destroyed the central warehouse of Liqui Moly Ukraine, the\
+      \ Ukrainian subsidiary of the German manufacturer of motor oils, lubricants,\
+      \ and automotive chemicals.\n- The Polish opposition party Law and Justice (PiS)\
+      \ is drafting a bill aimed at deporting Ukrainian men living in Poland who do\
+      \ not have legal employment.\n- Based on court rulings, Sweden will hand over\
+      \ to Ukraine the seized Russian cargo ship Caffa, which was transporting stolen\
+      \ Ukrainian grain.\n- In the Cahul district of Moldova, near the village of\
+      \ Văleni, police discovered the wreckage of a Russian Geran-2 (Shahed) attack\
+      \ drone.\n- The International Volleyball Federation and the International Table\
+      \ Tennis Federation are lifting the ban on Russian athletes' participation.\
+      \ \n- Babiš's government will limit the capacity for training Ukrainian defenders\
+      \ on Czech territory from the original 800 to just 100. \n- Germany has detained\
+      \ a Ukrainian man suspected of spying for a foreign intelligence service.\n\
+      - Ukrainians struck a military warehouse in the Tulsk region that the Russians\
+      \ had set up on the grounds of the Wildberries company. \n- A Russian FPV drone\
+      \ struck a bus carrying farmworkers near Kherson, injuring six people.\n- Ukraine\
+      \ is currently holding prisoners of war from 51 countries.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/991040708270582138)
+
+      - [North Koreans at a Russian training ground](https://pixelfed.cz/p/dnesnaukrajine/991035165799282981)
+
+      - [Yaroslavl](https://pixelfed.cz/p/dnesnaukrajine/991035209465923878)
+
+      - [Sums](https://pixelfed.cz/p/dnesnaukrajine/991035618941090091)
+
+      - [The Russians killed civilians in a car with a drone](https://pixelfed.cz/p/dnesnaukrajine/991035692819458350)
+
+      - [Minus Grad](https://pixelfed.cz/p/dnesnaukrajine/991035745119689008)
+
+      '
   - title: Wednesday
     year: August 5, 2026
     sort: '2026-08-05'
