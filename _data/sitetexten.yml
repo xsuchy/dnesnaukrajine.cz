@@ -23,6 +23,69 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Friday
+    year: August 7, 2026
+    sort: '2026-08-07'
+    image: assets/img/timeline/2026-08-07.jpg
+    podcast: 2026-08-07.mp3
+    desc: "U.S. intelligence agencies believe that Putin, having been backed into\
+      \ a corner, might decide to attack NATO in an effort to demonstrate at least\
+      \ some success on the battlefield. This could happen as early as this fall.\
+      \ Possible scenarios range from a cyberattack to a limited invasion. The likelihood\
+      \ of the most extreme scenario—a ground operation—is currently assessed as low,\
+      \ but reports indicate that it is increasing over time. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02XGiDzr5bhDkfdEoi3C21LVUrm2EmbCDBTdHJnGqLb98K9dqy2i8mYm5howuGXUAgl)\
+      \ is also happening: \n"
+    detail: "- Matúš Šutaj Eštok, the Slovak Minister of the Interior in Fico’s government,\
+      \ purchased dozens of speed cameras from a Cypriot shell company with no history\
+      \ or contacts, whose actual owners are likely in Russia. The products’ specifications\
+      \ match those supplied by a Russian company based in St. Petersburg. Experts\
+      \ warn that data from the cameras could end up in Russia. \n- The Russian Ministry\
+      \ of Defense announced on Friday that Russian forces had struck three vessels\
+      \ in the Black Sea that were allegedly being used to transport Ukrainian military\
+      \ cargo. It is much more likely, however, that these were ships carrying grain\
+      \ or other goods. \n- Russians are losing faith in the success of the “special\
+      \ military operation.” According to the Levada Center, only 8% of respondents\
+      \ describe the war as “very successful.” 42% of Russians consider it “somewhat\
+      \ successful,” and 28% view the invasion of Ukraine as a failure.\n- Russian\
+      \ authorities at both the federal and regional levels organized the temporary\
+      \ transfer of teenagers from the occupied Luhansk region to the Penza region\
+      \ in Russia so that they could participate in a military-patriotic training\
+      \ course organized by federal authorities.\n- On Saturday, Volodymyr Zelenskyy\
+      \ will visit Belgrade—for the first time since taking office as President of\
+      \ Ukraine. The visit has already been officially confirmed by the office of\
+      \ Serbian President Aleksandar Vučić.\n- According to local residents, a powerful\
+      \ explosion rocked the Moscow suburbs. Authorities claim it was the sound of\
+      \ a fighter jet, but even the Russians themselves don't believe that. The actual\
+      \ cause, however, remains unknown. \n- Overnight, Russia destroyed a Bosch warehouse\
+      \ in Ukraine. All inventory—including household appliances and industrial equipment—was\
+      \ completely destroyed. None of the employees were injured.\n- Polish Foreign\
+      \ Minister Radosław Sikorski stated that Ukraine's allies should consider shooting\
+      \ down Russian missiles while they are still in Ukrainian airspace.\n- A Russian\
+      \ drone struck a train station in the town of Lozova near Kharkiv yesterday.\
+      \ Eleven people were injured, and two railway workers were killed at the scene.\
+      \ \n- Ukrainian drones struck a Wildberries warehouse in Yekaterinburg, Russia—2,000\
+      \ km from the Ukrainian border. \n- Russian forces struck Izyum in the Kharkiv\
+      \ region, killing two people and wounding at least four others.\n- The Russians\
+      \ shot and killed a Ukrainian soldier whom they had captured during fighting\
+      \ in the Donetsk region near the town of Myrne.\n- Lithuanian intelligence warns\
+      \ that Russia is planning to use captured Ukrainian drones to provoke NATO.\
+      \ \n- Ukrainian naval and aerial drones struck the port of Yalta this morning.\
+      \ \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/991345323724256775)
+
+      - [How Is the Russification of Ukraine Unfolding?](https://pixelfed.cz/p/dnesnaukrajine/991342315926988230)
+
+      - [Yekaterinburg](https://pixelfed.cz/p/dnesnaukrajine/991342379710653895)
+
+      - [Minus Air Defense](https://pixelfed.cz/p/dnesnaukrajine/991342465677022667)
+
+      - [TV Transmitter in Belgorod](https://pixelfed.cz/p/dnesnaukrajine/991342495960552908)
+
+      - [Drones at Work](https://pixelfed.cz/p/dnesnaukrajine/991342581397910989)
+
+      - [Lozova, a damaged train station](https://pixelfed.cz/p/dnesnaukrajine/991342618304251342)
+
+      '
   - title: Thursday
     year: August 6, 2026
     sort: '2026-08-06'

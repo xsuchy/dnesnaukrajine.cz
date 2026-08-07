@@ -38,6 +38,36 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "7. srpna 2026"
+        sort: "2026-08-07"
+        image: assets/img/timeline/2026-08-07.jpg
+        podcast: "2026-08-07.mp3"
+        desc: |
+          Americké zpravodajské služby se domnívají, že do kouta zahnaný Putin by se mohl rozhodnout k útoku na NATO ve snaze ukázat alespoň nějaký úspěch na bojišti. K tomu by mohlo dojít již letos na podzim. Možné scénáře sahají od kyberútoku až po omezenou invazi. Pravděpodobnost krajního scénáře – pozemní operace – je v současné době hodnocena jako nízká, ale podle zpráv se s postupem času zvyšuje. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02XGiDzr5bhDkfdEoi3C21LVUrm2EmbCDBTdHJnGqLb98K9dqy2i8mYm5howuGXUAgl): 
+        detail: |
+          - Slovenský ministr vnitra Ficovy vlády Matúš Šutaj Eštok nakoupil desítky kamerových radarů od kyperské skořápkové firmy bez historie a kontaktů, jejíž skuteční majitelé jsou nejspíš v Rusku. Parametry výrobků se totiž shodují s těmi, které dodává ruská firma sídlící v Petrohradu. Experti varují, že by data z kamer mohla končit v Rusku. 
+          - Ruské ministerstvo obrany v pátek oznámilo, že ruské síly zasáhly v Černém moři tři plavidla, která měla údajně sloužit k přepravě ukrajinského vojenského nákladu. Mnohem pravděpodobnější ale je, že šlo o lodě s obilím nebo jinou produkcí. 
+          - Rusové ztrácejí víru v úspěch „speciální vojenské operace“. Podle Levadova centra pouze 8 % respondentů označuje válku za „velmi úspěšnou“. 42 % Rusů ji považuje za „spíše úspěšnou“ a 28 % považuje invazi na Ukrajinu za neúspěch.
+          - Ruské orgány na federální i regionální úrovni zorganizovaly dočasný přesun teenagerů z okupované Luhanské oblasti do ruské Penzenské oblasti, aby se zúčastnili vojensko-vlasteneckého výcvikového kurzu pořádaného federálními orgány.
+          - V sobotu navštíví Volodymyr Zelenskyj Bělehrad – poprvé od svého nástupu do funkce ukrajinského prezidenta. Návštěvu už oficiálně potvrdila kancelář srbského prezidenta Aleksandara Vučiće.
+          - Moskevským předměstím podle místních obyvatel otřásla silná exploze. Úřady tvrdí, že šlo o zvuk stíhačky, ale tomu ani sami Rusové nevěří. Skutečná příčina nicméně zatím není známa. 
+          - Rusko v noci zničilo skladiště společnosti Bosch na Ukrajině. Veškeré zásoby – domácí spotřebiče i průmyslová technika – byly zcela zničeny. Žádný ze zaměstnanců nebyl zraněn.
+          - Polský ministr zahraničí Radosław Sikorski prohlásil, že spojenci Ukrajiny by měli zvážit sestřelování ruských raket ještě v ukrajinském vzdušném prostoru.
+          - Ruský dron včera zasáhl železniční stanici ve městě Lozova u Charkova. 11 lidí bylo zraněno a na místě zahynuli dva pracovníci drah. 
+          - Ukrajinské drony zasáhly skladiště Wildberries až v ruském Jekatěrinburgu, 2 000 km od ukrajinských hranic. 
+          - Ruské jednotky zasáhly Izjum v Charkovské oblasti, přičemž zabily dva lidi a nejméně čtyři další zranily.
+          - Rusové zastřelili ukrajinského vojáka, kterého zajali během bojů v Doněcké oblasti poblíž města Myrne.
+          - Litevská rozvědka varuje, že Rusko plánuje použít ukořistěné ukrajinské drony k provokacím vůči NATO. 
+          - Ukrajinské námořní a vzdušné drony dnes ráno zasáhly přístav v Jaltě. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/991345323724256775)
+          - [Jak probíhá rusifikace Ukrajiny](https://pixelfed.cz/p/dnesnaukrajine/991342315926988230)
+          - [Jekatěrinburg](https://pixelfed.cz/p/dnesnaukrajine/991342379710653895)
+          - [Mínus PVO](https://pixelfed.cz/p/dnesnaukrajine/991342465677022667)
+          - [Televizní vysílač v Bělgorodu](https://pixelfed.cz/p/dnesnaukrajine/991342495960552908)
+          - [Drony v práci](https://pixelfed.cz/p/dnesnaukrajine/991342581397910989)
+          - [Lozova, zasažená železniční stanice](https://pixelfed.cz/p/dnesnaukrajine/991342618304251342)
       - title: "Čtvrtek"
         year: "6. srpna 2026"
         sort: "2026-08-06"
