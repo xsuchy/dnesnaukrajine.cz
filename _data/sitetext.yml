@@ -38,6 +38,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "9. srpna 2026"
+        sort: "2026-08-09"
+        image: assets/img/timeline/2026-08-09.jpg
+        podcast: "2026-08-09.mp3"
+        desc: |
+          Rusko v noci podniklo masivní kombinovaný útok na Oděsu, při kterém vyslalo 11 raket, z nichž většina letěla balistickou trajektorií, a až 100 dronů, včetně útočných dronů Banderol s proudovým pohonem. Ukrajinská protivzdušná obrana sestřelila 72 % dronů, pět ze šesti dronů typu „Banderol“ a jednu raketu. Další tři rakety donutila změnit kurz pomocí rušiček. Přesto Rusové zasáhli devět míst v Oděse a jejím okolí, přičemž zranili devět lidí a poškodili domy, automobily a energetickou infrastrukturu. V některých částech města nálet vyřadil z provozu dodávky elektřiny, vody a mobilní služby. A potom ještě [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0grhgCKcb8gKFw5PZdk891ZfyrXrGqzwf1ePvWDGhtKMv7g485WJfUPf9ZEYiYiu5l): 
+        detail: |
+          - Český zbrojní koncern CSG, který nedávno investoval do kanadské společnosti North Vector Dynamics (NVD), plánuje dodávat Ukrajině své protiletadlové střely CM-70. Generální ředitel Michal Strnad uvedl, že skupina poskytne společnosti NVD finanční prostředky, ale také průmyslové know-how, výrobní kapacity a obchodní síť. Raketa CM-70 SPEAR je kompaktní (2,5 kg) a vysoce rychlá (přes 1 000 km/h) a je naváděna na cíl kombinací laserového navádění a umělé inteligence.
+          - Bývalý šéf syrské tajné služby obviněný z mučení a vražd se možná skrývá… kde jinde než v Rusku. Hussam Louka, který stál v čele tajné služby za vlády Bašára al-Asada, zmizel po svržení režimu v prosinci 2024. BBC se však podařilo s ním navázat kontakt prostřednictvím ruského telefonního čísla. Novináři také vystopovali další číslo spojené s Loukou, které taktéž vedlo do Moskevské oblasti.
+          - Ruský diktátor je čím dál paranoidnější, a tak se stále více spoléhá na FSB. Dokonce natolik, že i kremelská elita začíná mít vážné obavy. Podle agentury Bloomberg dostává ruská bezpečnostní služba čím dál větší pravomoci k zásahům proti úředníkům, podnikatelům i běžným občanům, a to prakticky bez jakékoli vnější kontroly.
+          - Sýrie a Rusko se dohodly na budoucnosti ruských základen v Hmeimimu a Tartusu. Ruské vojenské objekty mají být přeměněny na společná výcviková centra. Formálně tak ruské základny přestanou existovat. Zároveň civilní objekty v Hmeimimu a Tartusu budou do tří měsíců předány Sýrii.
+          - Satelitní snímky ukázaly, že ukrajinské drony zničily ruský systém elektronického boje určený k rušení signálu Starlinku, který se nacházel v areálu ruské pohraniční jednotky FSB v Gelendžiku. Jedná se o třetí zdokumentovaný případ zničení tohoto typu rušičky.
+          - Při včerejším ruském náletu na vesnici Puchivka v Kyjevské oblasti zahynul tříletý chlapec, jeho babička a dědeček. Chlapcovi rodiče a jeho patnáctiletý bratr byli zraněni. Soused, který přišel na pomoc, byl zraněn při druhém, následném útoku.
+          - Minulý týden ukrajinské drony zasáhly posádku ruské 133. logistické brigády na východě Krymu. Útok zničil několik skladů na základně, která slouží jako klíčové zásobovací středisko pro ruské pozemní jednotky bojující na jihu Ukrajiny.
+          - Turecko prodá Ukrajině rozsáhlý balík přebytečné raketové artilerie, který zahrnuje 70 raket ATACMS, 2 500 raket M26 DPICM (kazetových), 12 odpalovacích zařízení M270 MLRS a 47 000 203mm dělostřeleckých granátů DPICM.
+          - Rusko vybombardovalo a úplně zničilo závod německé společnosti Kromberg & Schubert v Žytomyru. V závodě se vyráběla elektronika pro automobily.
+          - Srbský prezident Alexander Vučić druhý den návštěvy prezidenta Volodymyra Zelenského v Bělehradu podpořil zájem Ukrajiny o členství v EU.
+          - EU navýšila Fond na podporu energetiky Ukrajiny o 30 milionů eur, čímž se její celkový příspěvek zvýšil na 279 milionů eur.
+          - Ruský FPV dron zasáhl linkový autobus v Nikopolu. Jeho řidič zemřel a kolega a několik cestujících utrpěli zranění. 
+          - Při ruských náletech zahynulo za poslední den na území Ukrajiny nejméně 13 lidí a 90 jich bylo zraněno.
+          - Ruský dron zasáhl osobní vlak na trase Sumy–Kyjev, cestující byli naštěstí včas evakuováni.
+          - Rusko vybombardovalo nákupní středisko v Pavlohradu. 9 lidí bylo zraněno.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/992160289489007825)
+          - [Ruská helikoptéra stíhá ukrajinský dron](https://pixelfed.cz/p/dnesnaukrajine/992158497640875187)
+          - [Ruské safari v Chersonu pokračuje](https://pixelfed.cz/p/dnesnaukrajine/992158533253973174)
+          - [Rusové sestřelují dron](https://pixelfed.cz/p/dnesnaukrajine/992158568469279927)
+          - [Mínus S-300](https://pixelfed.cz/p/dnesnaukrajine/992158611710239930)
+          - [Ukrajinský dron kličkuje před raketami z Pantsiru](https://pixelfed.cz/p/dnesnaukrajine/992158655052989627)
+          - [Rusové se snaží sestřelit dron](https://pixelfed.cz/p/dnesnaukrajine/992158681016005820)
+          - [Mínus Buchanka](https://pixelfed.cz/p/dnesnaukrajine/992158721876239549)
+          - [Gelendžik](https://pixelfed.cz/p/dnesnaukrajine/992158774589170878)
       - title: "Sobota"
         year: "8. srpna 2026"
         sort: "2026-08-08"

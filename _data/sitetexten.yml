@@ -23,6 +23,87 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Sunday
+    year: August 9, 2026
+    sort: '2026-08-09'
+    image: assets/img/timeline/2026-08-09.jpg
+    podcast: 2026-08-09.mp3
+    desc: "Overnight, Russia launched a massive combined attack on Odesa, firing 11\
+      \ missiles—most of which followed a ballistic trajectory—and up to 100 drones,\
+      \ including jet-powered Banderol attack drones. Ukrainian air defenses shot\
+      \ down 72% of the drones, five out of six “Banderol” drones, and one missile.\
+      \ It forced the other three missiles to change course using jammers. Nevertheless,\
+      \ the Russians struck nine locations in and around Odessa, injuring nine people\
+      \ and damaging homes, cars, and energy infrastructure. In some parts of the\
+      \ city, the airstrike knocked out electricity, water, and cell service. And\
+      \ then there’s [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0grhgCKcb8gKFw5PZdk891ZfyrXrGqzwf1ePvWDGhtKMv7g485WJfUPf9ZEYiYiu5l):\
+      \ \n"
+    detail: "- The Czech defense conglomerate CSG, which recently invested in the\
+      \ Canadian company North Vector Dynamics (NVD), plans to supply Ukraine with\
+      \ its CM-70 anti-aircraft missiles. CEO Michal Strnad stated that the group\
+      \ will provide NVD with funding, as well as industrial know-how, manufacturing\
+      \ capacity, and a sales network. The CM-70 SPEAR missile is compact (2.5 kg)\
+      \ and high-speed (over 1,000 km/h) and is guided to its target using a combination\
+      \ of laser guidance and artificial intelligence.\n- The former head of the Syrian\
+      \ secret service, accused of torture and murder, may be in hiding… where else\
+      \ but in Russia. Hussam Louka, who headed the secret service during Bashar al-Assad’s\
+      \ rule, disappeared after the regime was overthrown in December 2024. However,\
+      \ the BBC managed to make contact with him via a Russian phone number. Journalists\
+      \ also traced another number linked to Louka, which likewise led to the Moscow\
+      \ region.\n- The Russian dictator is becoming increasingly paranoid, and so\
+      \ he is relying more and more on the FSB. So much so, in fact, that even the\
+      \ Kremlin elite is beginning to have serious concerns. According to Bloomberg,\
+      \ the Russian security service is being granted ever-greater powers to take\
+      \ action against officials, businesspeople, and ordinary citizens, with virtually\
+      \ no external oversight.\n- Syria and Russia have reached an agreement on the\
+      \ future of the Russian bases in Hmeimim and Tartus. The Russian military facilities\
+      \ are to be converted into joint training centers. Thus, the Russian bases will\
+      \ formally cease to exist. At the same time, the civilian facilities in Hmeimim\
+      \ and Tartus will be handed over to Syria within three months.\n- Satellite\
+      \ images have shown that Ukrainian drones destroyed a Russian electronic warfare\
+      \ system designed to jam Starlink signals, which was located on the grounds\
+      \ of a Russian FSB border unit in Gelendzhik. This is the third documented case\
+      \ of the destruction of this type of jammer.\n- A three-year-old boy, his grandmother,\
+      \ and his grandfather were killed during yesterday’s Russian airstrike on the\
+      \ village of Puchivka in the Kyiv region. The boy’s parents and his 15-year-old\
+      \ brother were injured. A neighbor who came to help was injured during a second,\
+      \ subsequent attack.\n- Last week, Ukrainian drones struck personnel from Russia’s\
+      \ 133rd Logistics Brigade in eastern Crimea. The attack destroyed several warehouses\
+      \ at the base, which serves as a key supply hub for Russian ground forces fighting\
+      \ in southern Ukraine.\n- Turkey will sell Ukraine a large package of surplus\
+      \ rocket artillery, which includes 70 ATACMS rockets, 2,500 M26 DPICM (cluster)\
+      \ rockets, 12 M270 MLRS launchers, and 47,000 203mm DPICM artillery shells.\n\
+      - Russia bombed and completely destroyed the plant of the German company Kromberg\
+      \ & Schubert in Zhytomyr. The plant manufactured automotive electronics.\n-\
+      \ On the second day of President Volodymyr Zelenskyy’s visit to Belgrade, Serbian\
+      \ President Alexander Vučić expressed support for Ukraine’s interest in EU membership.\n\
+      - The EU has increased its contribution to the Fund to Support Ukraine's Energy\
+      \ Sector by 30 million euros, bringing its total contribution to 279 million\
+      \ euros.\n- A Russian FPV drone struck a public bus in Nikopol. The driver died,\
+      \ and a colleague and several passengers were injured. \n- At least 13 people\
+      \ were killed and 90 were injured in Russian airstrikes on Ukrainian territory\
+      \ over the past day.\n- A Russian drone struck a passenger train on the Sumy–Kyiv\
+      \ route; fortunately, the passengers were evacuated in time.\n- Russia bombed\
+      \ a shopping center in Pavlohrad. Nine people were injured.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/992160289489007825)
+
+      - [A Russian helicopter is chasing a Ukrainian drone](https://pixelfed.cz/p/dnesnaukrajine/992158497640875187)
+
+      - [The Russian Safari in Kherson Continues](https://pixelfed.cz/p/dnesnaukrajine/992158533253973174)
+
+      - [Russians Shoot Down a Drone](https://pixelfed.cz/p/dnesnaukrajine/992158568469279927)
+
+      - [Minus the S-300](https://pixelfed.cz/p/dnesnaukrajine/992158611710239930)
+
+      - [Ukrainian drone dodges missiles fired from a Pantsir system](https://pixelfed.cz/p/dnesnaukrajine/992158655052989627)
+
+      - [The Russians are trying to shoot down a drone](https://pixelfed.cz/p/dnesnaukrajine/992158681016005820)
+
+      - [Minus Buchanka](https://pixelfed.cz/p/dnesnaukrajine/992158721876239549)
+
+      - [Gelendzhik](https://pixelfed.cz/p/dnesnaukrajine/992158774589170878)
+
+      '
   - title: Saturday
     year: August 8, 2026
     sort: '2026-08-08'
