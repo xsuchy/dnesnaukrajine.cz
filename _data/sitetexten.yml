@@ -23,6 +23,91 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Monday
+    year: August 10, 2026
+    sort: '2026-08-10'
+    image: assets/img/timeline/2026-08-10.jpg
+    podcast: 2026-08-10.mp3
+    desc: "An analysis of video footage from a recent incident at the airport in Leipzig,\
+      \ Germany, showed that an FPV drone struck the wing of a Ukrainian An-124 “Ruslan”\
+      \ cargo plane, but fortunately did not explode. Although the drone struck the\
+      \ most vulnerable part of the wing, where the fuel tanks are located, it merely\
+      \ bounced off the aircraft and fell to the ground. Its warhead was filled with\
+      \ Semtex plastic explosive, which refutes the earlier theory that this was merely\
+      \ a “warning” with no intention of causing actual damage. The U.S. had previously\
+      \ concluded that the drone belonged to a Russian special service. This thus\
+      \ constitutes a direct attack by Russian intelligence services on a military\
+      \ target within NATO territory. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid04dAykrXeCML2TUzNWa7VmdcFskTJ3GBtcgXEAHAsAra8KWxtLPhFaLuVKpBbeXB1l)\
+      \ also happened: \n"
+    detail: "- According to an investigation by the website Agentstvo, one in six\
+      \ Russian diplomats in Austria has ties to Russian intelligence services (SVR,\
+      \ GRU, or FSB). Journalists examined publicly available data on addresses, professional\
+      \ histories, incomes, and family ties. At the Russian Embassy in Vienna alone,\
+      \ it was found that eight of the 48 employees have ties to intelligence services.\
+      \ Another seven individuals with possible ties to Russian intelligence services\
+      \ work at the Russian mission to the OSCE. Possible connections to Russian intelligence\
+      \ services were also identified among diplomats serving at the IAEA and the\
+      \ UN.\n- Ukraine is systematically taking out air defense systems around Putin’s\
+      \ palace in Gelendzhik. On August 7, Ukrainian forces destroyed the Russian\
+      \ “Volna Kupol Garant” electronic warfare system in the immediate vicinity of\
+      \ Putin’s residence, which was used to jam Starlink signals and covered an area\
+      \ of approximately 20 km². Two days later, Ukrainian drones struck an S-400\
+      \ air defense system located about 500 meters away.\n- An unnamed Republican\
+      \ Party official told reporters from *The Atlantic* why Washington has not yet\
+      \ granted Ukraine a license to manufacture anti-aircraft missiles for the Patriot\
+      \ air defense system. According to him, Raytheon and Lockheed Martin fear that\
+      \ Ukrainian engineers could improve their technology and subsequently begin\
+      \ mass production—faster and more cheaply than American production lines.\n\
+      - Svetlana Pozhidaeva, the daughter of a high-ranking Russian intelligence official,\
+      \ served for ten years as the closest associate of American pedophile and sex\
+      \ trafficker Jeffrey Epstein, and after completing internships at the Russian\
+      \ Ministry of Foreign Affairs and at Lukoil, she recruited young girls from\
+      \ the former Soviet Union for Epstein.\n- The second daughter of General Chaika\
+      \ of the Russian Federation’s Armed Forces died in the hospital. At least five\
+      \ of the general’s relatives were killed in the bombing at a Moscow restaurant:\
+      \ his son-in-law Danilo Pjeredrij, his daughter Maria Pjeredrij, his niece Yevdokiya\
+      \ Kyrilova, his father-in-law Alexander Pjeredrij, and his second daughter Yulia\
+      \ Kyrilova.\n- This morning, several Ukrainian attack drones struck Russia’s\
+      \ largest petrochemical complex in Tobolsk. A fire broke out on the premises\
+      \ following the airstrike. The ZapSibNeftechim complex processes a significant\
+      \ portion of the gas from Western Siberia and separates it into usable fractions.\n\
+      - Cameras containing Chinese-made components were found on K3 Scout maritime\
+      \ drones used by the British Navy and the Royal Marines. An inspection subsequently\
+      \ revealed that these cameras were transmitting so-called “heartbeat” signals\
+      \ to an IP address in China.\n- Iranian Foreign Ministry spokesman Esmaeil Baghaei\
+      \ said that Tehran is not convinced by Kyiv’s explanation that the recent attack\
+      \ on an Iranian ship was unintentional, and is demanding compensation for the\
+      \ damage caused; otherwise, he said, Iran will seek compensation on its own.\
+      \ \n- An explosion occurred at an ammunition depot belonging to an arms factory\
+      \ in Bulgaria that had previously supplied ammunition to Ukraine. According\
+      \ to reports, a truck caught fire first, triggering secondary explosions at\
+      \ the ammunition depot. Authorities say it was an accident. \n- Russia's Supreme\
+      \ Court barred Yabloko, the only \"pro-peace\" party, from the parliamentary\
+      \ elections on charges of extremism. The lawsuit was filed by Rodina, a nationalist,\
+      \ pro-Kremlin party.\n- According to Ukrainian intelligence, Russia is producing\
+      \ approximately 500 jet-powered drones per month and plans to increase their\
+      \ share to half of all Shahed-type drones.\n- During one of its most recent\
+      \ airstrikes, Russia destroyed a World Health Organization (WHO) medical supplies\
+      \ warehouse in Dnipro. \n- On their Telegram channel, Wagner Group members are\
+      \ sharing photos of “souvenirs”—body parts they cut off from Syrians and brought\
+      \ home.  \n- Protests took place in 22 Polish cities against the increasing\
+      \ number of incidents of violence against immigrants from Ukraine. \n- Ukrainian\
+      \ drones have once again struck a Russian refinery in Nizhnekamsk. \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/992500647081742843)
+
+      - [Tobolsk](https://pixelfed.cz/p/dnesnaukrajine/992498133022720465)
+
+      - [Sums](https://pixelfed.cz/p/dnesnaukrajine/992498173292040658)
+
+      - [Ukrainian Hedgehog](https://pixelfed.cz/p/dnesnaukrajine/992498190516449747)
+
+      - [Nizhnekamsk](https://pixelfed.cz/p/dnesnaukrajine/992498213291078100)
+
+      - [Minus the Russian drone operators](https://pixelfed.cz/p/dnesnaukrajine/992498249407455701)
+
+      - [What''s Left of Wildberries](https://pixelfed.cz/p/dnesnaukrajine/992498309779079638)
+
+      '
   - title: Sunday
     year: August 9, 2026
     sort: '2026-08-09'

@@ -38,6 +38,37 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "10. srpna 2026"
+        sort: "2026-08-10"
+        image: assets/img/timeline/2026-08-10.jpg
+        podcast: "2026-08-10.mp3"
+        desc: |
+          Analýza videozáznamu z nedávného incidentu na letišti v německém Lipsku ukázala, že FPV dron narazil do křídla ukrajinského nákladního letadla An-124 „Ruslan“, ale naštěstí neexplodoval. Přestože dron zasáhl nejzranitelnější část křídla, kde se nacházejí palivové nádrže, pouze se od letadla odrazil a spadl na zem. Jeho hlavice přitom byla naplněna plastickou trhavinou Semtex, což vyvrací dřívější teorii, že se jednalo pouze o „varování“ bez úmyslu způsobit skutečné škody. USA už dříve dospěly k závěru, že dron patřil ruské speciální službě. Jedná se tak o přímý útok ruských tajných služeb na vojenský cíl na území státu NATO. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid04dAykrXeCML2TUzNWa7VmdcFskTJ3GBtcgXEAHAsAra8KWxtLPhFaLuVKpBbeXB1l): 
+        detail: |
+          - Podle investigace webu Agentstvo má každý šestý ruský diplomat v Rakousku vazby na ruské zpravodajské služby (SVR, GRU nebo FSB). Novináři prozkoumali veřejně dostupné údaje o adresách, profesní historii, příjmech a rodinných vazbách. Jen na ruském velvyslanectví ve Vídni bylo zjištěno, že osm ze 48 zaměstnanců má vazby na zpravodajské služby. Dalších sedm osob s možnými vazbami na ruské zpravodajské služby pracuje na ruské misi při OBSE. Možné napojení na ruské zpravodajské služby bylo zjištěno také u diplomatů působících v MAAE a OSN.
+          - Ukrajina systematicky vyřazuje z provozu protivzdušnou obranu v okolí Putinova paláce v Gelendžiku. 7. srpna Ukrajinci zničili ruský systém elektronického boje „Volna Kupol Garant“ v těsné blízkosti Putinovy rezidence, který sloužil k rušení signálu Starlinku a pokrýval oblast o rozloze přibližně 20 km². O dva dny později ukrajinské drony zasáhly protivzdušný systém S-400, který se nacházel zhruba 500 metrů odtud.
+          - Nejmenovaný představitel Republikánské strany řekl novinářům z časopisu The Atlantic, proč Washington doposud neudělil Ukrajině licenci na výrobu protiletadlových střel pro systém protivzdušné obrany Patriot. Podle něj se společnosti Raytheon a Lockheed Martin bojí, že by ukrajinští inženýři mohli jejich technologii vylepšit a následně zahájit sériovou výrobu – a to rychleji a levněji než americké výrobní linky.
+          - Dcera vysokého představitele ruských tajných služeb Světlana Požidajevová byla po dobu deseti let nejbližší spolupracovnicí amerického pedofila a obchodníka s bílým masem Jeffreyho Epsteina a po absolvování stáže na ruském ministerstvu zahraničních věcí a ve společnosti Lukoil verbovala pro Epsteina mladé dívky z bývalého Sovětského svazu.
+          - V nemocnici zemřela druhá dcera generála VKS RF Čajka. Při bombovém atentátu v moskevské restauraci tak zahynulo nejméně pět generálových příbuzných: zeť Danilo Pjeredrij, dcera Maria Pjeredrij, neteř Jevdokija Kyrilovová, tchán Čajko Alexandr Pjeredrij a druhá dcera Julija Kyrilovová.
+          - Dnes dopoledne zasáhlo několik ukrajinských útočných dronů největší ruský petrochemický komplex v Tobolsku. Po náletu vypukl v areálu požár. Komplex ZapSibNeftechim zpracovává značnou část plynu ze Západní Sibiře a provádí separaci na využitelné frakce.
+          - Na námořních dronech typu K3 Scout, které používá britské námořnictvo a námořní pěchota, byly nalezeny kamery obsahující součástky čínské výroby. Při kontrole pak vyšlo najevo, že tyto kamery vysílaly takzvané „heartbeat“ signály na IP adresu v Číně.
+          - Mluvčí íránského ministerstva zahraničí Esmaeil Baghaei uvedl, že Teherán není přesvědčen o vysvětlení Kyjeva, že k nedávnému útoku na íránskou loď došlo neúmyslně, a požaduje náhradu za způsobené škody, jinak si prý kompenzaci zařídí sám. 
+          - V muničním skladu zbrojního závodu v Bulharsku, který v minulosti dodával munici Ukrajině, došlo k výbuchu. Podle zpráv nejprve začal hořet nákladní vůz, což vyvolalo sekundární výbuchy v muničním skladu. Podle úřadů šlo o nehodu. 
+          - Ruský Nejvyšší soud vyloučil z parlamentních voleb jedinou „mírovou“ stranu Jabloko na základě obvinění z extremismu. Žalobu podala nacionalistická, prokremelská strana Rodina.
+          - Podle ukrajinské rozvědky Rusko vyrábí přibližně 500 dronů s proudovým pohonem měsíčně a plánuje zvýšit jejich podíl na polovinu všech dronů typu Shahed.
+          - Rusko při jednom z posledních náletů zničilo sklad zdravotnického materiálu Světové zdravotnické organizace (WHO) v Dnipru. 
+          - Wagnerovci si v kanálu na Telegramu sdílí fotky se „suvenýry“ – částmi těl, které uřezali Syřanům a které si přivezli domů.  
+          - Ve 22 polských městech proběhly protesty proti množícím se případům násilí na imigrantech z Ukrajiny. 
+          - Ukrajinské drony opět zasáhly ruskou rafinérii v Nižněkamsku. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/992500647081742843)
+          - [Tobolsk](https://pixelfed.cz/p/dnesnaukrajine/992498133022720465)
+          - [Sumy](https://pixelfed.cz/p/dnesnaukrajine/992498173292040658)
+          - [Ukrajinský ježek](https://pixelfed.cz/p/dnesnaukrajine/992498190516449747)
+          - [Nižněkamsk](https://pixelfed.cz/p/dnesnaukrajine/992498213291078100)
+          - [Mínus ruští dronaři](https://pixelfed.cz/p/dnesnaukrajine/992498249407455701)
+          - [Co zbylo z Wildberries](https://pixelfed.cz/p/dnesnaukrajine/992498309779079638)
       - title: "Neděle"
         year: "9. srpna 2026"
         sort: "2026-08-09"
