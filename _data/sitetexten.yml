@@ -23,6 +23,99 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Tuesday
+    year: August 11, 2026
+    sort: '2026-08-11'
+    image: assets/img/timeline/2026-08-11.jpg
+    podcast: 2026-08-11.mp3
+    desc: 'Overnight, Russia launched ballistic missile attacks on Zaporizhzhia, Kyiv,
+      and other cities. In Zaporizhzhia, missiles struck the Zaporizhstal steel mill
+      complex. Employees were heading to a shelter after the alarm sounded. Unfortunately,
+      seven of them did not make it in time. Another 21 people were injured. According
+      to the parent company Metinvest, energy infrastructure as well as the main and
+      auxiliary operations of the coking plant and blast furnaces were damaged; the
+      plant had to completely halt production, and other operations in Zaporizhzhia
+      are running at reduced capacity. Zelenskyy stated that during the airstrike,
+      the Russians used North Korean ballistic missiles, Russian Zircon missiles,
+      and guided aerial bombs with the aim of causing maximum damage to civilian infrastructure.
+      Ukrainian intelligence had already reported on August 5 that a North Korean
+      missile unit was moving into western Russia. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02JXoF7mjyYLCKsPHncruZPFMXUVvSVaCiWyW852WAhAsGUUqucv41UqZB37qNYVZgl)
+      also happened:
+
+      '
+    detail: "- After flying more than 1,500 kilometers, Ukrainian drones struck the\
+      \ Orsknefteorgsintez refinery in Orsk, in the Orenburg Region. Residents reported\
+      \ explosions followed by a massive fire. Preliminary reports indicate that the\
+      \ hydrocracking complex—which was modernized in recent years and has a processing\
+      \ capacity of 1.6 million metric tons per year—has been damaged. On the same\
+      \ day, a fire also broke out at Rosneft’s RN-Komsomolsk refinery in Komsomolsk-on-Amur,\
+      \ roughly 6,500 kilometers from Ukraine—well beyond the range of Ukrainian drones.\
+      \ The cause remains unknown, and monitoring channels have suggested sabotage.\
+      \ The plant, which began operations in 1942, has a designed capacity of about\
+      \ 8 million metric tons of crude oil per year and accounts for over 60% of petroleum\
+      \ product supplies in Russia’s Far East.\n- Swedish security guards detained\
+      \ a Russian couple who had set up a makeshift camp on a plot of land adjacent\
+      \ to the home of Saab CEO Micael Johansson. First, the woman came to ask if\
+      \ she could go fishing from the pier. When they were refused, security arrived\
+      \ shortly afterward and discovered walkie-talkies in their possession. Johansson\
+      \ lives under personal protection due to Saab’s military manufacturing operations.\
+      \ The detained Russians now claim that deportation to Russia would be dangerous\
+      \ for them because they allegedly participated in anti-war protests. \n- In\
+      \ Kyiv, a ballistic missile struck the grounds of a children’s hospital in the\
+      \ Shevchenkivskyi district. It left behind two craters, shattered windows, and\
+      \ a damaged gas pipeline, which was sealed off within an hour. The staff managed\
+      \ to move the young patients to a shelter, so no one was injured. \n- The tanker\
+      \ Caroline Bezengi, part of Russia’s shadow fleet, spilled 800,000 barrels of\
+      \ oil into the Arabian Sea. Omani authorities launched a large-scale rescue\
+      \ operation to secure the vessel and minimize the impact on the marine ecosystem\
+      \ and shipping.\n- Russia is deploying its \"Rassvet\" network of low-Earth\
+      \ orbit satellites much faster than expected. According to Ukrainian military\
+      \ intelligence, there are already 16 satellites in orbit.\n- A Ukrainian MiG-29\
+      \ crashed near Odessa after one of its own missiles exploded near its wing while\
+      \ repelling a Russian airstrike. The pilot ejected and escaped unharmed. \n\
+      - In the Zaporizhzhia region, Russian forces carried out 938 strikes on 58 communities\
+      \ in a single day. A total of 52 people were injured, and authorities recorded\
+      \ 341 reports of damage to homes, cars, and infrastructure.\n- Ukrainian drones\
+      \ struck the newly opened Wildberries logistics megahub in the village of Novaya\
+      \ Usman in the Voronezh region. The complex was engulfed in flames following\
+      \ a series of explosions.\n- The ISW notes that as long as Ukraine continues\
+      \ to lack missiles for its Patriot systems, Russia has no reason to enter into\
+      \ peace talks.\n- Austrian authorities have uncovered an international network\
+      \ that circumvented EU sanctions and supplied components for Russian guided\
+      \ missiles and aircraft.\n- Canada has joined Ukraine, the EU, and Switzerland\
+      \ in imposing sanctions on a UAE-based arms manufacturer whose vehicles are\
+      \ used by the Russian National Guard.\n- Ukrainian firefighters helped put out\
+      \ a forest fire near a village in France. In return, the locals hung up a banner\
+      \ thanking them.\n- A new textbook has appeared in schools in the occupied territories,\
+      \ which describes the region as “historically Russian.”\n- Estimates predict\
+      \ a 39% drop in Ukrainian corn exports due to Russian bombing of ports.\n- Ukraine\
+      \ and Moldova are negotiating a rail corridor for grain as an alternative to\
+      \ the blocked Black Sea.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/992870612725084545)
+
+      - [Russian convoy targeted and destroyed](https://pixelfed.cz/p/dnesnaukrajine/992867065506672943)
+
+      - [The Breakup of the Russian Convoy](https://pixelfed.cz/p/dnesnaukrajine/992867101175374128)
+
+      - [Komsomolsk](https://pixelfed.cz/p/dnesnaukrajine/992867132296868145)
+
+      - [He didn''t run away](https://pixelfed.cz/p/dnesnaukrajine/992867161089495346)
+
+      - [Orsk](https://pixelfed.cz/p/dnesnaukrajine/992867205958631734)
+
+      - [Tatarstan](https://pixelfed.cz/p/dnesnaukrajine/992867245415629111)
+
+      - [Minus the Russian convoy](https://pixelfed.cz/p/dnesnaukrajine/992867274679202104)
+
+      - [He missed](https://pixelfed.cz/p/dnesnaukrajine/992867305395859769)
+
+      - [Wildberries in Voronezh](https://pixelfed.cz/p/dnesnaukrajine/992867361752785210)
+
+      - [Orsk](https://pixelfed.cz/p/dnesnaukrajine/992867386706039099)
+
+      - [Ukrainian drones are waiting for their prey](https://pixelfed.cz/p/dnesnaukrajine/992867462927229244)
+
+      '
   - title: Monday
     year: August 10, 2026
     sort: '2026-08-10'

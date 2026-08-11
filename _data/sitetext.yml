@@ -38,6 +38,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "11. srpna 2026"
+        sort: "2026-08-11"
+        image: assets/img/timeline/2026-08-11.jpg
+        podcast: "2026-08-11.mp3"
+        desc: |
+          Rusko v noci zaútočilo balistickými raketami na Záporoží, Kyjev a další města. V Záporoží zasáhly rakety areál hutního závodu Záporižstal. Zaměstnanci právě mířili do krytu poté, co se rozezněl poplach. Sedm z nich to bohužel nestihlo. Dalších 21 lidí utrpělo zranění. Podle mateřského Metinvestu byla poškozena energetická infrastruktura i hlavní a pomocné provozy koksovny a vysokých pecí; závod musel kompletně zastavit výrobu a ostatní záporožské provozy jedou na snížený výkon. Zelenskyj uvedl, že Rusové při náletu použili severokorejské balistické rakety, ruské Zirkony a řízené letecké pumy s cílem způsobit maximální škody na civilní infrastruktuře. Ukrajinská rozvědka přitom už 5. srpna hlásila, že se do západního Ruska přesouvá severokorejská raketová jednotka. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02JXoF7mjyYLCKsPHncruZPFMXUVvSVaCiWyW852WAhAsGUUqucv41UqZB37qNYVZgl):
+        detail: |
+          - Ukrajinské drony po více než 1 500 kilometrech letu zasáhly rafinerii Orskněfteorgsintez v Orsku v Orenburské oblasti. Obyvatelé hlásili výbuchy a následně rozsáhlý požár. Předběžně je poškozený hydrokrakovací komplex, který byl v posledních letech modernizován a zvládne zpracovat 1,6 milionu tun ročně. Ve stejný den začala hořet i rafinerie RN-Komsomolsk společnosti Rosněft v Komsomolsku na Amuru, tedy zhruba 6 500 kilometrů od Ukrajiny, daleko mimo dosah ukrajinských dronů. Příčina zůstává neznámá a monitorovací kanály připouštějí sabotáž. Závod byl uveden do provozu v roce 1942 má projektovanou kapacitu asi 8 milionů tun ropy ročně a pokrývá přes 60 % dodávek ropných produktů na ruském Dálném východě.
+          - Švédská ochranka zadržela ruský pár, který si postavil provizorní tábor u pozemku sousedícího s domem generálního ředitele Saabu Micaela Johanssona. Nejdřív se žena přišla zeptat, jestli si může zarybařit z mola. Když ji odmítli, krátce nato přijela ostraha a odhalila u nich vysílačky. Johansson kvůli vojenské výrobě Saabu žije pod osobní ochranou. Zadržení Rusové teď tvrdí, že by pro ně byla deportace do Ruska nebezpečná, protože se prý účastnili protiválečných protestů. 
+          - V Kyjevě dopadla balistická raketa přímo do areálu dětské nemocnice v Ševčenkivské čtvrti. Zůstaly po ní dva krátery, vysklená okna a poškozený plynovod, který se podařilo do hodiny utěsnit. Personál stihl přesunout malé pacienty do krytu, takže se nikdo nezranil. 
+          - Tanker Caroline Bezengi z ruské stínové flotily vypustil do Arabského moře 800 000 barelů ropy. Ománské úřady spustily rozsáhlou záchrannou operaci, aby loď zajistily a omezily dopady na mořský ekosystém a lodní dopravu.
+          - Rusko zavádí svou síť družic na nízké oběžné dráze „Rassvet“ mnohem rychleji, než se očekávalo. Podle ukrajinské vojenské rozvědky se v současné době na oběžné dráze nachází už 16 družic.
+          - U Oděsy se zřítil ukrajinský MiG-29 poté, co mu u křídla explodovala jedna z jeho vlastních raket během odrážení ruského náletu. Pilot se katapultoval a vyvázl bez zranění. 
+          - V Záporožské oblasti Rusové za jediný den provedli 938 úderů na 58 obcí. Zraněno bylo celkem 52 lidí a úřady evidovaly 341 hlášení o poškození domů, aut a infrastruktury.
+          - Ukrajinské drony zasáhly nově otevřený logistický megahub Wildberries v obci Novaja Usmaň ve Voroněžské oblasti. Areál po sérii výbuchů pohltily plameny.
+          - ISW konstatuje, že dokud bude mít Ukrajina nedostatek raket pro systémy Patriot, nemá Rusko žádný důvod vstupovat do mírových jednání.
+          - Rakouské úřady odhalily mezinárodní síť, která obcházela sankce EU a dodávala komponenty pro ruské řízené střely a letouny.
+          - Kanada se připojila k Ukrajině, EU a Švýcarsku a uvalila sankce na zbrojovku ze SAE, jejíž vozidla používá ruská Národní garda.
+          - Ukrajinští hasiči pomohli ve Francii zastavit lesní požár před vesnicí. Místní jim za to vyvěsili transparent s poděkováním.
+          - Ve školách v okupovaných oblastech se objevila nová učebnice, podle níž je daný region „historicky ruský“.
+          - Odhady počítají s propadem ukrajinského vývozu kukuřice o 39 % kvůli ruskému bombardování přístavů.
+          - Ukrajina a Moldavsko jednají o železničním koridoru pro obilí jako náhradě za blokované Černé moře.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/992870612725084545)
+          - [Zaměřená a rozebraná ruská kolona](https://pixelfed.cz/p/dnesnaukrajine/992867065506672943)
+          - [Rozebírání ruské kolony](https://pixelfed.cz/p/dnesnaukrajine/992867101175374128)
+          - [Komsomolsk](https://pixelfed.cz/p/dnesnaukrajine/992867132296868145)
+          - [Neutekl](https://pixelfed.cz/p/dnesnaukrajine/992867161089495346)
+          - [Orsk](https://pixelfed.cz/p/dnesnaukrajine/992867205958631734)
+          - [Tatarstán](https://pixelfed.cz/p/dnesnaukrajine/992867245415629111)
+          - [Mínus ruská kolona](https://pixelfed.cz/p/dnesnaukrajine/992867274679202104)
+          - [Netrefil se](https://pixelfed.cz/p/dnesnaukrajine/992867305395859769)
+          - [Wildberries ve Voroněži](https://pixelfed.cz/p/dnesnaukrajine/992867361752785210)
+          - [Orsk](https://pixelfed.cz/p/dnesnaukrajine/992867386706039099)
+          - [Ukrajinské drony čekají na kořist](https://pixelfed.cz/p/dnesnaukrajine/992867462927229244)
       - title: "Pondělí"
         year: "10. srpna 2026"
         sort: "2026-08-10"
