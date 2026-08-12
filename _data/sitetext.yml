@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "12. srpna 2026" 
+        sort: "2026-08-12" 
+        image: assets/img/timeline/2026-08-12.jpg
+        podcast: "2026-08-12.mp3"
+        desc: |
+          Ukrajinské síly v noci provedly to, co Zelenskyj označil za „unikátní operaci" proti námořní základně v Novorossijsku – poslední velké opoře ruské Černomořské flotily na okupovaném Krymu. Použily k tomu proudové drony Paljanycja, rakety Neptun a námořní drony. Potvrzené jsou zásahy pozic protivzdušné obrany, několika mol a infrastruktury přístavu. Zásahy utrpěly také nejméně čtyři válečné lodě: Admirál Essen a Admirál Makarov, ale i další plavidla. Ruské ministerstvo obrany tvrdí, že sestřelilo přes 500 projektilů. Podle místních úřadů zahynuli tři lidé, 24 jich bylo zraněno, poškozeny byly desítky obytných domů a trosky sestřelených dronů dopadly do areálů čtyř průmyslových podniků. Ruské zdroje potvrzují, že dva velké obilné terminály přestaly po náletu fungovat, a protože Rusko je největší světový vývozce pšenice a většinu jí posílá právě přes černomořské přístavy, trhy okamžitě zareagovaly obavami z výpadku dodávek. Starosta Novorossijsku Kravčenko vyhlásil ve městě stav nouze; přerušené jsou dodávky vody a poškozená jsou i školská zařízení. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0deq1qZFgFBiEFrx3XYtV7SGsyvJZzhwm9LPLFYPY7YWG44QboVAjTXwRn3FY9Gzgl): 
+        detail: |
+          - V noci na 7. srpna se v Černém moři u Novorossijsku potopila 141 metrů dlouhá loď. Ukrajinský monitorovací kanál Exilenova+ ji zachytil na satelitních snímcích a soudí, že vezla vojenský náklad. Ruské úřady totiž o vraku dodnes neřekly ani slovo. Podle rozměrů jde přitom o plavidlo s výtlakem kolem 10 000 tun. Velitel Sil bezpilotních systémů „Maďar" Brovdi 6. a 7. srpna hlásil údery na dva tankery a čtyři nákladní lodě v Černém a Azovském moři, takže může jít i o jednu z nich. 
+          - Ukrajinský ombudsman Dmytro Lubinec oznámil, že Rusové od začátku invaze zavraždili nejméně 345 ukrajinských vojáků, kteří se vzdali. Většina incidentů proběhla podobně: vojáci složili zbraně, vyšli se zdviženýma rukama, lehli si na zem, Rusové je prohledali, ověřili, že jsou neozbrojení – a pak je zastřelili. V některých zaznamenaných případech jim předtím nařídili se svléknout. Křivka navíc roste: v červenci 2025 bylo potvrzených případů 268, letos v březnu už přes 330. 
+          - Ukrajinská rozvědka HUR našla v troskách nové ruské řízené střely S-71M „Monochrom" americký procesor Nvidia Jetson Orin. Střela se v omezeném počtu používá od začátku roku 2026, nese 250kilogramovou hlavici, letí rychlostí 500–600 km/h a má dolet 350–400 kilometrů. Pokud se potvrdí, že jde o strojové vidění, znamená to, že stejná hardwarová základna se objevuje na různých ruských střelách a dá se dál škálovat – podezření padá i na střelu Banderol. 
+          - Rusko má podle ukrajinské rozvědky k srpnu nashromážděno zhruba 6 200 kamikaze dronů typu Geran v různých verzích. Omezené výrobní kapacity mu nedovolují držet vysoké tempo odpalů trvale, takže si před opravdu velkými nálety musí dělat zásoby. Nejmasivnější údery můžou i tak znamenat 600 až 1 000 dronů současně.
+          - Rusko nově dováží benzin z Indie. Zdrojem paliva, které přes Egypt putovalo na tankerech napojených na Rusko, je podle Bloombergu rafinerie Nayara Energy, za níž stojí Rosněft. Ruský ropný gigant tak vozí pohonné hmoty od vlastní dcery v zahraničí, protože mu doma hoří vlastní rafinerie.
+          - Rusko v noci zaútočilo na Ukrajinu balistickou raketou Iskander-M, protiradarovou Ch-31P, řízenými raketami Ch-35 a 138 drony typu Shahed. Protivzdušná obrana jich sestřelila 112. Za poslední den ruské útoky zabily na Ukrajině 8 lidí a 57 jich zranily.
+          - Ukrajinský úder vyřadil největší ruský závod na zkapalněný plyn v Tobolsku a přídělový systém na palivo se v důsledku toho vrátil do šestnácti ruských regionů.
+          - Rumunští vojenští potápěči zlikvidovali dva drony typu Gerbera, které unášel proud ve výlučné ekonomické zóně Rumunska v Černém moři.
+          - Německo zvažuje, že zpravodajským službám poskytne pravomoc provádět preventivní kyberútoky proti Rusku.
+          - Human Rights Watch žádá Spojené státy, aby zablokovaly turecký prodej kazetové munice Ukrajině. 
+          - Podle nového průzkumu podporuje 67 % Poláků deportaci nezaměstnaných ukrajinských mužů.
+          - Počet Ukrajinců pod dočasnou ochranou v EU dosáhl rekordních 4,41 milionu.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/993264397411992419)
+          - [Novorossijsk](https://pixelfed.cz/p/dnesnaukrajine/993261720184091412)
+          - [Novorossijsk](https://pixelfed.cz/p/dnesnaukrajine/993261747892327189)
+          - [Přístav](https://pixelfed.cz/p/dnesnaukrajine/993261778863792918)
+          - [Sestřelený dron](https://pixelfed.cz/p/dnesnaukrajine/993261798482645783)
+          - [Rusák měl štěst-… tak nic](https://pixelfed.cz/p/dnesnaukrajine/993261828700943129)
+          - [Gerbery](https://pixelfed.cz/p/dnesnaukrajine/993261847425024794)
+          - [Rusové dál terorizují civilisty](https://pixelfed.cz/p/dnesnaukrajine/993261867523552027)
+          - [Orsk](https://pixelfed.cz/p/dnesnaukrajine/993261887859245852)
+          - [Nemilé](https://pixelfed.cz/p/dnesnaukrajine/993261914880729888)
+          - [Rusové v Kosťantynivce](https://pixelfed.cz/p/dnesnaukrajine/993261947737711393)
       - title: "Úterý"
         year: "11. srpna 2026"
         sort: "2026-08-11"

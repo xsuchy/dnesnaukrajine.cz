@@ -23,6 +23,97 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Wednesday
+    year: August 12, 2026
+    sort: '2026-08-12'
+    image: assets/img/timeline/2026-08-12.jpg
+    podcast: 2026-08-12.mp3
+    desc: "Overnight, Ukrainian forces carried out what Zelenskyy described as a “unique\
+      \ operation” against the naval base in Novorossiysk—the last major stronghold\
+      \ of the Russian Black Sea Fleet in occupied Crimea. They used Palyanytsia jet\
+      \ drones, Neptune missiles, and naval drones. Strikes on air defense positions,\
+      \ several piers, and port infrastructure have been confirmed. At least four\
+      \ warships were also hit: the Admiral Essen and the Admiral Makarov, as well\
+      \ as other vessels. The Russian Ministry of Defense claims to have shot down\
+      \ over 500 projectiles. According to local authorities, three people were killed,\
+      \ 24 were injured, dozens of residential buildings were damaged, and debris\
+      \ from the downed drones landed on the premises of four industrial facilities.\
+      \ Russian sources confirm that two large grain terminals ceased operations following\
+      \ the airstrike, and since Russia is the world’s largest wheat exporter and\
+      \ ships most of its wheat through Black Sea ports, markets immediately reacted\
+      \ with concerns over supply disruptions. Novorossiysk Mayor Kravchenko declared\
+      \ a state of emergency in the city; water supplies have been cut off, and school\
+      \ facilities have also been damaged. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0deq1qZFgFBiEFrx3XYtV7SGsyvJZzhwm9LPLFYPY7YWG44QboVAjTXwRn3FY9Gzgl)\
+      \ also happened: \n"
+    detail: "- On the night of August 7, a 141-meter-long ship sank in the Black Sea\
+      \ near Novorossiysk. The Ukrainian monitoring channel Exilenova+ spotted it\
+      \ in satellite images and believes it was carrying a military cargo. Russian\
+      \ authorities have not said a word about the wreck to this day. Based on its\
+      \ dimensions, the vessel is estimated to have a displacement of around 10,000\
+      \ metric tons. On August 6 and 7, Commander “Magyar” Brovdi of the Unmanned\
+      \ Systems Forces reported strikes on two tankers and four cargo ships in the\
+      \ Black and Azov Seas, so it could be one of those vessels. \n- Ukrainian Ombudsman\
+      \ Dmytro Lubinec announced that, since the start of the invasion, the Russians\
+      \ have killed at least 345 Ukrainian soldiers who had surrendered. Most of the\
+      \ incidents unfolded similarly: the soldiers laid down their weapons, walked\
+      \ out with their hands raised, lay down on the ground, were searched by the\
+      \ Russians, who verified that they were unarmed—and then shot them. In some\
+      \ documented cases, they were ordered to undress beforehand. Moreover, the number\
+      \ is rising: in July 2025, there were 268 confirmed cases; by March of this\
+      \ year, the number had already exceeded 330. \n- The Ukrainian intelligence\
+      \ agency HUR found an American Nvidia Jetson Orin processor in the wreckage\
+      \ of a new Russian S-71M “Monochrom” guided missile. The missile has been in\
+      \ limited use since the beginning of 2026; it carries a 250-kilogram warhead,\
+      \ flies at a speed of 500–600 km/h, and has a range of 350–400 kilometers. If\
+      \ it is confirmed that this is a machine vision system, it means that the same\
+      \ hardware platform is appearing on various Russian missiles and can be scaled\
+      \ further—suspicions are also falling on the Banderol missile. \n- According\
+      \ to Ukrainian intelligence, as of August, Russia has stockpiled approximately\
+      \ 6,200 Geran-type kamikaze drones in various versions. Its limited production\
+      \ capacity prevents it from maintaining a high launch rate on a sustained basis,\
+      \ so it must build up reserves before launching truly large-scale airstrikes.\
+      \ Even so, the most massive strikes could involve 600 to 1,000 drones simultaneously.\n\
+      - Russia is now importing gasoline from India. According to Bloomberg, the fuel—which\
+      \ was shipped via Egypt on tankers linked to Russia—comes from the Nayara Energy\
+      \ refinery, which is backed by Rosneft. The Russian oil giant is thus importing\
+      \ fuel from its own overseas subsidiary because its domestic refineries are\
+      \ shut down.\n- Overnight, Russia attacked Ukraine with an Iskander-M ballistic\
+      \ missile, a Kh-31P anti-radar missile, Kh-35 guided missiles, and 138 Shahed-type\
+      \ drones. Air defenses shot down 112 of them. Over the past day, Russian attacks\
+      \ have killed 8 people and injured 57 in Ukraine.\n- A Ukrainian strike knocked\
+      \ out Russia's largest liquefied natural gas plant in Tobolsk, and as a result,\
+      \ fuel rationing has been reinstated in 16 Russian regions.\n- Romanian military\
+      \ divers destroyed two Gerbera-type drones that were being carried by the current\
+      \ in Romania's exclusive economic zone in the Black Sea.\n- Germany is considering\
+      \ granting its intelligence services the authority to carry out preemptive cyberattacks\
+      \ against Russia.\n- Human Rights Watch is calling on the United States to block\
+      \ Turkey's sale of cluster munitions to Ukraine. \n- According to a new survey,\
+      \ 67% of Poles support the deportation of unemployed Ukrainian men.\n- The number\
+      \ of Ukrainians under temporary protection in the EU has reached a record 4.41\
+      \ million.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/993264397411992419)
+
+      - [Novorossiysk](https://pixelfed.cz/p/dnesnaukrajine/993261720184091412)
+
+      - [Novorossiysk](https://pixelfed.cz/p/dnesnaukrajine/993261747892327189)
+
+      - [Port](https://pixelfed.cz/p/dnesnaukrajine/993261778863792918)
+
+      - [A Downed Drone](https://pixelfed.cz/p/dnesnaukrajine/993261798482645783)
+
+      - [The Russian guy was lucky—… oh, never mind](https://pixelfed.cz/p/dnesnaukrajine/993261828700943129)
+
+      - [Gerberas](https://pixelfed.cz/p/dnesnaukrajine/993261847425024794)
+
+      - [The Russians continue to terrorize civilians](https://pixelfed.cz/p/dnesnaukrajine/993261867523552027)
+
+      - [Orsk](https://pixelfed.cz/p/dnesnaukrajine/993261887859245852)
+
+      - [Unpleasant](https://pixelfed.cz/p/dnesnaukrajine/993261914880729888)
+
+      - [The Russians in Kostyantynivka](https://pixelfed.cz/p/dnesnaukrajine/993261947737711393)
+
+      '
   - title: Tuesday
     year: August 11, 2026
     sort: '2026-08-11'
