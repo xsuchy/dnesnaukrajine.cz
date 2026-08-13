@@ -38,6 +38,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "13. srpna 2026" 
+        sort: "2026-08-13" 
+        image: assets/img/timeline/2026-08-13.jpg
+        podcast: "2026-08-13.mp3"
+        desc: |
+          Ukrajinské drony v noci zasáhly ropný a petrochemický komplex Gazprom Neftěchim Salavat v Baškortostánu, zhruba 1 300 kilometrů od ukrajinských hranic. V areálu vypukl požár. Jde o jeden z největších ruských rafinérsko-petrochemických provozů s kapacitou až 10 milionů tun surovin ročně, který vyrábí benzin, naftu, mazut, bitumen i polyetylen a zásobuje ruskou armádu. Zásah dostalo v Baškortostánu i další logistické centrum Wildberries. Nejcennějším cílem noci byl ale radar Nebo-U v okupovaném Sevastopolu. Tento třísouřadnicový radiolokátor slouží k detekci a sledování letadel, řízených střel i balistických raket a jeho cena se odhaduje na 100 milionů dolarů. Podle Generálního štábu jeho vyřazení zhoršuje ruskou schopnost včas zaznamenat přilétající ukrajinské projektily. Ve stejnou dobu ukrajinské drony zaútočily na Balaklavskou tepelnou elektrárnu a u obce Šturmove začalo hořet velké vodárenské zařízení. Celý Sevastopol byl po náletu bez proudu, než se dodávky podařilo provizorně obnovit. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid037xN8jsR2yXDRAjAADUyFx2Diw1n6NK9WgPN8Dq5rxmCyW4od1PMJpwGQuZe9S7qsl):
+        detail: |
+          - Rusko v noci vyslalo na Ukrajinu 133 dronů typu Shahed, protivzdušná obrana jich sestřelila 111. Zásahy jsou hlášené z patnácti míst a trosky sestřelených strojů dopadly na dalších šestnácti. Jeden z proudových Shahedů zasáhl v Oděské oblasti osobní vlak. Souprava právě vjížděla do stanice, aby mohli cestující po vyhlášení dronového poplachu vystoupit a schovat se. Strojvedoucí a jeho pomocník zahynuli, žádný z cestujících zraněn nebyl. Ve vlaku přitom jelo 340 lidí a šlo o čistě civilní cíl. Za poslední den zabily ruské útoky na Ukrajině nejméně osm lidí a padesát jich zranily. 
+          - Zelenskyj v rozhovoru pro CNN vyčíslil, co Ukrajina potřebuje: pět procent současných amerických zásob raket pro Patrioty jí umožní přežít zimu, deset procent by znamenalo konec ruské balistické hrozby. Aktuálně má k dispozici jedno procento. Kaja Kallasová následně vyzvala země EU, aby Ukrajině poskytly rakety pro Patrioty ze svých vlastních zásob. Polsko zvažuje, že Kyjevu pošle další Patrioty. Vychází z jednoduché úvahy, že je lepší sestřelit ruskou raketu nad Ukrajinou než nad polským územím. 
+          - Kampaň s krycím názvem „Middle-Strike“ pokračovala i dál za frontou. Ukrajinci zasáhli řídicí věž letiště Saky, retranslační uzel u Černomorského, přes který Rusové ovládají drony Geran a Gerbera, dronové řídicí středisko u Myrného v Záporožské oblasti, sklad pohonných hmot a maziv u Dovžansku na Luhansku, muniční sklad u Nového Haje, logistický a technický sklad u Kalančaku v Chersonské oblasti a soustředění živé síly u Butyrek v Bělgorodské oblasti.
+          - V Sevastopolu vybuchla nálož nastražená v odpadkovém koši a zabila devětačtyřicetiletého kapitána 1. hodnosti Roberta Šagejeva. Ten v roce 2014 přešel k okupantům a stal se velitelem ruské ponorky (předtím velel ukrajinské ponorce Záporoží). Naposledy působil jako zástupce velitele 4. samostatné brigády ponorek Černomořské flotily, tedy jednotky, jejíž plavidla od roku 2022 pálí střely Kalibr na ukrajinská města. Ruská média tvrdí, že zadržela ženu, která nálož odpálila.
+          - Putin poprvé v životě navštívil Kurilské ostrovy. Na Iturupu si prohlédl rybí závod, nemocnici a školu a setkal se s gubernátorem Sachalinské oblasti. Japonsko, které si na čtyři nejjižnější ostrovy souostroví nárokuje, si předvolalo ruského velvyslance a podalo ostrý protest. Ukrajinský ministr zahraničí Sybiha návštěvu odsoudil a vyjádřil Japonsku solidaritu. 
+          - SBU odhalila síť čtrnácti ruských agentů, kteří sbírali informace o ukrajinských letištích, na nichž jsou dislokovány stíhačky F-16 a Mirage 2000. Kontrarozvědka zároveň rozbila agenturní síť FSB, která naváděla ruské údery na ukrajinské jednotky v Doněcké, Dnipropetrovské a Kirovohradské oblasti. 
+          - Ukrajina žádá EU o 220 milionů eur, kterými by odblokovala 4 miliardy eur zemědělských úvěrů. Ruské údery na přístavy totiž dusí vývoz. Moldavsko se mezitím stalo největším odběratelem ukrajinských mléčných výrobků a předstihlo všechny země EU.
+          - V okupované části Chersonské oblasti zemřelo dvanáctileté dítě, protože ho nebylo kam odvézt – v Holoprystanské hromadě nezůstala žádná funkční nemocnice ani sanitka. 
+          - Vídeňský soud odsoudil dva běloruské bratrance za to, že v rozporu se sankcemi EU dodávali výrobní zařízení ruskému zbrojnímu průmyslu. 
+          - Partyzáni z hnutí Ateš hlásí, že u charkovské hranice vyřadili z provozu retranslační věž, přes kterou spolu komunikovaly dva ruské pluky. 
+          - V Polsku byl zadržen ruský občan, který podle vyšetřovatelů plánoval v zemi provést atentáty na objednávku ruských tajných služeb. 
+          - Analytici spočítali, že Wildberries může přijít o pětinu své sítě a víc než polovinu hlavních hubů.
+          - Rusko dnes vrátilo Ukrajině ostatky 261 lidí. Podle ruské strany jde o ukrajinské vojáky. 
+          - Na ropném terminálu u Rotterdamu došlo k výbuchu. Jeden člověk při něm zahynul. 
+          - Italskou muniční továrnou KNDS Ammo dnes otřásla silná exploze. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/993588006684897202)
+          - [Raketa z ruské PVO](https://pixelfed.cz/p/dnesnaukrajine/993586254938328988)
+          - [Ruský vrtulník honí návnadu](https://pixelfed.cz/p/dnesnaukrajine/993586296126336925)
+          - [Rusové zasáhli vlak](https://pixelfed.cz/p/dnesnaukrajine/993586321412435870)
+          - [Poškozené ruské lodě na satelitních snímcích](https://pixelfed.cz/p/dnesnaukrajine/993586360462090143)
+          - [Výbuch v italské zbrojovce](https://pixelfed.cz/p/dnesnaukrajine/993586398466973600)
+          - [Wildberries](https://pixelfed.cz/p/dnesnaukrajine/993586425694408609)
+          - [Mínus Wildberries](https://pixelfed.cz/p/dnesnaukrajine/993586465479708578)
+          - [Ruské ztráty](https://pixelfed.cz/p/dnesnaukrajine/993586492692783011)
+          - [Novorossijsk](https://pixelfed.cz/p/dnesnaukrajine/993586513303625636)
       - title: "Středa"
         year: "12. srpna 2026" 
         sort: "2026-08-12" 

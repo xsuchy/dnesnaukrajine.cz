@@ -23,6 +23,109 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Thursday
+    year: August 13, 2026
+    sort: '2026-08-13'
+    image: assets/img/timeline/2026-08-13.jpg
+    podcast: 2026-08-13.mp3
+    desc: 'Ukrainian drones struck the Gazprom Neftekhim Salavat oil and petrochemical
+      complex in Bashkortostan overnight, about 1,300 kilometers from the Ukrainian
+      border. A fire broke out on the premises. It is one of Russia’s largest refining
+      and petrochemical facilities, with a capacity of up to 10 million metric tons
+      of raw materials per year; it produces gasoline, diesel, fuel oil, bitumen,
+      and polyethylene, and supplies the Russian military. Another Wildberries logistics
+      center in Bashkortostan was also hit. However, the most valuable target of the
+      night was the Nebo-U radar in occupied Sevastopol. This three-coordinate radar
+      is used to detect and track aircraft, guided missiles, and ballistic missiles,
+      and its value is estimated at $100 million. According to the General Staff,
+      its destruction impairs Russia’s ability to detect incoming Ukrainian projectiles
+      in a timely manner. At the same time, Ukrainian drones attacked the Balaklava
+      thermal power plant, and a large water treatment facility near the village of
+      Shturmove caught fire. The entire city of Sevastopol was without power following
+      the airstrike until power supply was provisionally restored. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid037xN8jsR2yXDRAjAADUyFx2Diw1n6NK9WgPN8Dq5rxmCyW4od1PMJpwGQuZe9S7qsl)
+      also happened:
+
+      '
+    detail: "- Overnight, Russia launched 133 Shahed drones toward Ukraine; air defenses\
+      \ shot down 111 of them. Interceptions were reported from fifteen locations,\
+      \ and debris from the downed drones fell at sixteen others. One of the jet-powered\
+      \ Shaheds struck a passenger train in the Odesa region. The train was just pulling\
+      \ into the station so that passengers could disembark and take cover after a\
+      \ drone alert was issued. The train engineer and his assistant were killed;\
+      \ none of the passengers were injured. There were 340 people on the train, and\
+      \ it was a purely civilian target. Over the past day, Russian attacks in Ukraine\
+      \ have killed at least eight people and injured fifty. \n- In an interview with\
+      \ CNN, Zelenskyy outlined what Ukraine needs: five percent of the U.S.’s current\
+      \ stockpile of Patriot missiles would allow it to survive the winter, while\
+      \ ten percent would mean the end of the Russian ballistic missile threat. Currently,\
+      \ Ukraine has one percent of that stockpile at its disposal. Kaja Kallas subsequently\
+      \ called on EU countries to provide Ukraine with Patriot missiles from their\
+      \ own stockpiles. Poland is considering sending additional Patriot missiles\
+      \ to Kyiv. This is based on the simple reasoning that it is better to shoot\
+      \ down a Russian missile over Ukraine than over Polish territory. \n- The campaign,\
+      \ codenamed “Middle-Strike,” continued even behind enemy lines. Ukrainian forces\
+      \ struck the control tower at Saky Airport, a relay station near Chernomorsk—through\
+      \ which the Russians control Geran and Gerbera drones— a drone control center\
+      \ near Myrne in the Zaporizhzhia region, a fuel and lubricants depot near Dovzhansk\
+      \ in the Luhansk region, an ammunition depot near Novy Hai, a logistics and\
+      \ technical depot near Kalanchak in the Kherson region, and a troop concentration\
+      \ near Butyrek in the Belgorod region.\n- In Sevastopol, an explosive device\
+      \ planted in a trash can detonated, killing 49-year-old Captain 1st Rank Robert\
+      \ Shageyev. He defected to the occupying forces in 2014 and became the commander\
+      \ of a Russian submarine (he had previously commanded the Ukrainian submarine\
+      \ Zaporizhzhia). Most recently, he served as deputy commander of the Black Sea\
+      \ Fleet’s 4th Independent Submarine Brigade—the unit whose vessels have been\
+      \ firing Kalibr missiles at Ukrainian cities since 2022. Russian media claim\
+      \ to have detained the woman who detonated the device.\n- Putin visited the\
+      \ Kuril Islands for the first time in his life. On Iturup, he toured a fish\
+      \ processing plant, a hospital, and a school, and met with the governor of the\
+      \ Sakhalin Region. Japan, which claims the four southernmost islands of the\
+      \ archipelago, summoned the Russian ambassador and lodged a strong protest.\
+      \ Ukrainian Foreign Minister Sybiha condemned the visit and expressed solidarity\
+      \ with Japan. \n- The SBU uncovered a network of fourteen Russian agents who\
+      \ were gathering information on Ukrainian airfields where F-16 and Mirage 2000\
+      \ fighter jets are stationed. At the same time, counterintelligence dismantled\
+      \ an FSB spy network that was directing Russian strikes against Ukrainian units\
+      \ in the Donetsk, Dnipropetrovsk, and Kirovohrad regions. \n- Ukraine is asking\
+      \ the EU for 220 million euros to unlock 4 billion euros in agricultural loans.\
+      \ Russian attacks on ports are stifling exports. Meanwhile, Moldova has become\
+      \ the largest importer of Ukrainian dairy products, surpassing all EU countries.\n\
+      - A 12-year-old child died in the occupied part of the Kherson region because\
+      \ there was nowhere to take him—there were no functioning hospitals or ambulances\
+      \ left in the Holoprystan area. \n- A Vienna court convicted two Belarusian\
+      \ cousins of supplying manufacturing equipment to the Russian arms industry\
+      \ in violation of EU sanctions. \n- Partisans from the Ateš movement report\
+      \ that they have disabled a relay tower near the Kharkiv border that was being\
+      \ used by two Russian regiments to communicate with each other. \n- A Russian\
+      \ citizen was detained in Poland; according to investigators, he was planning\
+      \ to carry out attacks in the country on behalf of Russian intelligence services.\
+      \ \n- Analysts have estimated that Wildberries could lose one-fifth of its network\
+      \ and more than half of its main hubs.\n- Russia returned the remains of 261\
+      \ people to Ukraine today. According to the Russian side, they are Ukrainian\
+      \ soldiers. \n- An explosion occurred at an oil terminal near Rotterdam. One\
+      \ person was killed in the blast. \n- A powerful explosion rocked the Italian\
+      \ ammunition factory KNDS Ammo today. \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/993588006684897202)
+
+      - [A missile from the Russian air defense system](https://pixelfed.cz/p/dnesnaukrajine/993586254938328988)
+
+      - [Russian Helicopter Chases Decoy](https://pixelfed.cz/p/dnesnaukrajine/993586296126336925)
+
+      - [The Russians hit the train](https://pixelfed.cz/p/dnesnaukrajine/993586321412435870)
+
+      - [Damaged Russian ships in satellite images](https://pixelfed.cz/p/dnesnaukrajine/993586360462090143)
+
+      - [Explosion at an Italian Arms Factory](https://pixelfed.cz/p/dnesnaukrajine/993586398466973600)
+
+      - [Wildberries](https://pixelfed.cz/p/dnesnaukrajine/993586425694408609)
+
+      - [Minus Wildberries](https://pixelfed.cz/p/dnesnaukrajine/993586465479708578)
+
+      - [Russian Casualties](https://pixelfed.cz/p/dnesnaukrajine/993586492692783011)
+
+      - [Novorossiysk](https://pixelfed.cz/p/dnesnaukrajine/993586513303625636)
+
+      '
   - title: Wednesday
     year: August 12, 2026
     sort: '2026-08-12'
