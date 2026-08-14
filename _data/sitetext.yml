@@ -38,6 +38,31 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "14. srpna 2026" 
+        sort: "2026-08-14" 
+        image: assets/img/timeline/2026-08-14.jpg
+        podcast: "2026-08-14.mp3"
+        desc: |
+          Ukrajina v noci provedla jednu z nejrozsáhlejších úderných vln za poslední týdny a poprvé za dlouhou dobu zasáhla oba konce ruské ropné logistiky současně. Generální štáb potvrdil, že Síly bezpilotních systémů společně s vojenskou rozvědkou HUR zasáhly v noci ze 13. na 14. srpna rafinerii Lukoil-Volgogradněftěpererabotka ve Volgogradu, kde vypukly silné požáry. Jde o největšího producenta paliv a maziv v Jižním federálním okruhu – zpracuje přes 15 milionů tun ropy ročně, což je 5,6 % veškeré ruské rafinérské kapacity, a vyrábí naftu, benzin a letecký petrolej klíčový pro logistiku ruské armády. Zároveň byla pod útokem Leningradská oblast, kde jsou hlášeny škody a požár v prostoru přístavu Usť-Luga, který je jedním z největších ruských přístavů na Baltu a sídlí v něm ropný terminál, přes který Rusko vyváží ropu a ropné produkty – tedy jeden z hlavních zdrojů příjmů státního rozpočtu. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0fkAM1C3VLqArYpijWuMN1PzHEThnLcnemEbCV4sLS3jpLDSJsKaGpgb5hFFKydiul): 
+        detail: |
+          - Velitel Sil bezpilotních systémů Robert Brovdi „Maďar" oznámil, že jeho jednotky zasáhly mezi 1. a 13. srpnem 240 energetických uzlů využívaných ruskou armádou. Cílem operace „Crimean Switch Off" je odstřihnout od proudu stacionární radary a další prvky ruské protivzdušné obrany a otevřít tak cestu dalším úderům. Jen v posledním kole přibylo 29 cílů na jihu okupovaných území. Mezi nimi je například Balaklavská tepelná elektrárna v Sevastopolu, plynová distribuční stanice v Mariupolu a dlouhá řada rozvoden o napětí 110 a 150 kV v Berdjansku, Mariupolu, Prymorsku, Svatove a dalších obcích.
+          - Trump podepsal proklamaci, která zavádí clo až 100 % na dovoz dronů „obzvlášť citlivých z hlediska národní bezpečnosti" a jejich dokovacích stanic a součástek. Na menší drony dopadne clo 25 %, na stroje z EU, Švýcarska, Lichtenštejnska, Japonska, Jižní Koreje a Tchaj-wanu 15 %, z Británie 10 %. Opatření vstoupí v platnost za 21 dní. Přichází pár týdnů poté, co Zelenskyj oznámil dohodu o prodeji ukrajinských dronů do USA v hodnotě 10 až 30 miliard dolarů. 
+          - Ráno zasáhli Rusové dvěma proudovými drony obytný dům v Buryňské hromadě na Sumsku. Na místě zahynula devětadvacetiletá žena a její devítiletý syn. Další čtyři lidé utrpěli zranění; chlapcův otec a babička skončili v nemocnici s těžkými popáleninami. Ve Smile na Čerkasku zasáhl v noci devítipodlažní obytný dům ruský dron naplněný šrapnely. Byt v epicentru byl naštěstí prázdný. Zraněno bylo i tak pět lidí.
+          - Polsko a Ukrajina jsou v závěrečné fázi jednání o předání stíhaček MiG-29 výměnou za ukrajinské drony a know-how. Letouny mají do Kyjeva zamířit v řádu týdnů. Polské ministerstvo obrany uvádí, že jednání zrychlila po jmenování Rustema Umerova do čela ukrajinské zahraniční rozvědky. 
+          - Japonsko zvažuje zpřísnění sankcí vůči Rusku poté, co Putin navštívil ostrov Iturup v Kurilském souostroví. Premiérka Sanae Takaiči prohlásila, že ostrovy jsou podle historických faktů i mezinárodního práva japonským územím a že cesta ruského prezidenta je „naprosto nepřijatelná". 
+          - Ukrajinské letectvo přestane v ranních přehledech uvádět přesné počty vypálených a sestřelených ruských balistických raket, potvrdil mluvčí Jurij Ihnat. Poslední konkrétní číslo zaznělo 8. srpna. Oficiálním důvodem je národní bezpečnost. 
+          - Zelenskyj uvedl, že Ukrajina od ledna osvobodila v oleksandrivském směru 745 km² a ruské ztráty tam dosáhly nejméně 9 550 zabitých a přes 6 600 raněných. 
+          - Gubernátor Orenburské oblasti přiznal, že rafinerie v Orsku po nedávném ukrajinském úderu zcela zastavila zpracování ropy a opravy si vyžádají měsíce.
+          - Drony zasáhly logistický komplex Wildberries ve zvláštní ekonomické zóně Emmaus v Kalininském okrese Tverské oblasti, 150 kilometrů od Moskvy. 
+          - Polský premiér Tusk oznámil, že polské služby zmařily kremelský plán na vraždu občanů USA a Ukrajiny.
+          - Lavrov prohlásil, že žádné příměří nebude, protože je to otázka „odpovědnosti za tisíciletou historii Ruska“. 
+          - Nad Lotyšskem sestřelily v noci stíhačky NATO neidentifikovaný dron.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/993858046606457338)
+          - [Mínus ruská báze](https://pixelfed.cz/p/dnesnaukrajine/993854859060713943)
+          - [Kramatorsk](https://pixelfed.cz/p/dnesnaukrajine/993854885228980696)
+          - [Ruská Buchanka](https://pixelfed.cz/p/dnesnaukrajine/993854909560154585)
       - title: "Čtvrtek"
         year: "13. srpna 2026" 
         sort: "2026-08-13" 

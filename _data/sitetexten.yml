@@ -23,6 +23,83 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Friday
+    year: August 14, 2026
+    sort: '2026-08-14'
+    image: assets/img/timeline/2026-08-14.jpg
+    podcast: 2026-08-14.mp3
+    desc: "Overnight, Ukraine carried out one of the most extensive waves of strikes\
+      \ in recent weeks and, for the first time in a long while, struck both ends\
+      \ of Russia’s oil logistics chain simultaneously. The General Staff confirmed\
+      \ that the Unmanned Systems Forces, together with the military intelligence\
+      \ agency HUR, struck the Lukoil-Volgogradneftepererabotka refinery in Volgograd\
+      \ on the night of August 13–14, where intense fires broke out. It is the largest\
+      \ producer of fuels and lubricants in the Southern Federal District—processing\
+      \ over 15 million metric tons of crude oil annually, which accounts for 5.6%\
+      \ of Russia’s total refining capacity, and producing diesel, gasoline, and jet\
+      \ fuel, all of which are critical to the Russian military’s logistics. At the\
+      \ same time, the Leningrad Region came under attack, with reports of damage\
+      \ and a fire in the area of the port of Ust-Luga, one of Russia’s largest ports\
+      \ on the Baltic Sea. The port houses an oil terminal through which Russia exports\
+      \ crude oil and petroleum products—one of the main sources of revenue for the\
+      \ state budget. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0fkAM1C3VLqArYpijWuMN1PzHEThnLcnemEbCV4sLS3jpLDSJsKaGpgb5hFFKydiul)\
+      \ also happened: \n"
+    detail: "- Robert Brovdi “Maďar,” commander of the Unmanned Systems Forces, announced\
+      \ that between August 1 and 13, his units struck 240 power nodes used by the\
+      \ Russian military. The goal of Operation “Crimean Switch Off” is to cut off\
+      \ power to stationary radars and other elements of Russia’s air defense system,\
+      \ thereby paving the way for further strikes. In the latest round alone, 29\
+      \ targets were added in the south of the occupied territories. Among them are,\
+      \ for example, the Balaklava Thermal Power Plant in Sevastopol, a gas distribution\
+      \ station in Mariupol, and a long list of 110- and 150-kV substations in Berdyansk,\
+      \ Mariupol, Prymorsk, Svatove, and other towns.\n- Trump signed a proclamation\
+      \ imposing tariffs of up to 100% on imports of drones “particularly sensitive\
+      \ from a national security perspective,” as well as their docking stations and\
+      \ components. Smaller drones will be subject to a 25% tariff; drones from the\
+      \ EU, Switzerland, Liechtenstein, Japan, South Korea, and Taiwan will face a\
+      \ 15% tariff; and those from the UK will face a 10% tariff. The measure will\
+      \ take effect in 21 days. This comes a few weeks after Zelenskyy announced an\
+      \ agreement to sell Ukrainian drones to the U.S. worth between $10 billion and\
+      \ $30 billion. \n- This morning, the Russians struck a residential building\
+      \ in Burynska Hromada, Sumy Oblast, with two jet-powered drones. A 29-year-old\
+      \ woman and her 9-year-old son were killed at the scene. Four other people were\
+      \ injured; the boy’s father and grandmother were hospitalized with severe burns.\
+      \ In Smile, Cherkasy Oblast, a Russian drone loaded with shrapnel struck a nine-story\
+      \ apartment building overnight. Fortunately, the apartment at the epicenter\
+      \ was empty. Five people were injured nonetheless.\n- Poland and Ukraine are\
+      \ in the final stages of negotiations on the transfer of MiG-29 fighter jets\
+      \ in exchange for Ukrainian drones and know-how. The aircraft are expected to\
+      \ arrive in Kyiv within a matter of weeks. The Polish Ministry of Defense reports\
+      \ that the negotiations have accelerated following the appointment of Rustem\
+      \ Umerov as head of Ukrainian foreign intelligence. \n- Japan is considering\
+      \ tightening sanctions against Russia after Putin visited Iturup Island in the\
+      \ Kuril Islands. Prime Minister Sanae Takaichi stated that, according to historical\
+      \ facts and international law, the islands are Japanese territory and that the\
+      \ Russian president’s visit is “completely unacceptable.” \n- The Ukrainian\
+      \ Air Force will stop reporting exact numbers of Russian ballistic missiles\
+      \ fired and shot down in its morning briefings, spokesman Yuriy Ihnat confirmed.\
+      \ The last specific figure was reported on August 8. The official reason is\
+      \ national security. \n- Zelenskyy stated that since January, Ukraine has liberated\
+      \ 745 km² in the Oleksandrivka sector, and Russian losses there have reached\
+      \ at least 9,550 killed and over 6,600 wounded. \n- The governor of the Orenburg\
+      \ Region acknowledged that the refinery in Orsk has completely halted oil processing\
+      \ following a recent Ukrainian strike, and repairs will take months.\n- Drones\
+      \ struck the Wildberries logistics complex in the Emmaus Special Economic Zone\
+      \ in the Kalinin District of the Tver Region, 150 kilometers from Moscow. \n\
+      - Polish Prime Minister Tusk announced that Polish intelligence agencies had\
+      \ foiled a Kremlin plot to assassinate U.S. and Ukrainian citizens.\n- Lavrov\
+      \ stated that there would be no ceasefire, because it is a matter of “responsibility\
+      \ for Russia’s thousand-year history.” \n- NATO fighter jets shot down an unidentified\
+      \ drone over Latvia last night.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/993858046606457338)
+
+      - [Minus the Russian base](https://pixelfed.cz/p/dnesnaukrajine/993854859060713943)
+
+      - [Kramatorsk](https://pixelfed.cz/p/dnesnaukrajine/993854885228980696)
+
+      - [Russian Buchanka](https://pixelfed.cz/p/dnesnaukrajine/993854909560154585)
+
+      '
   - title: Thursday
     year: August 13, 2026
     sort: '2026-08-13'
