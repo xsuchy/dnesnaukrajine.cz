@@ -23,6 +23,113 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Saturday
+    year: August 15, 2026
+    sort: '2026-08-15'
+    image: assets/img/timeline/2026-08-15.jpg
+    podcast: 2026-08-15.mp3
+    desc: 'Overnight, Ukraine struck at the most valuable target of recent weeks—and
+      it wasn’t an oil refinery. FP-5 Flamingo missiles struck the Progress Rocket
+      and Space Center in Samara, the only Russian facility that mass-produces Soyuz-2
+      launch vehicles. A massive fire and a column of smoke erupted over the industrial
+      zone where Progress and the neighboring Aviakor aircraft plant are located.
+      According to a preliminary analysis by CyberBorošna, Building 106A—where onboard
+      electrical systems, instruments, and printed circuit boards are developed—was
+      hit. The Soyuz-2.1b is Russia’s primary means of launching military satellites
+      into orbit, as well as satellites for the Rassvet constellation, Russia’s answer
+      to Starlink. Russia launches six to eight of them per year, and it would need
+      at least eighteen to reach its planned total of 288 satellites. The facility
+      is located roughly 850 to 950 kilometers from the Ukrainian border. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0EM8sAqpRLPGu6cmQrQd67pLhJ3S1tBTdANfHiXWc25xq9LbFfVNLUJA8NWbup4d3l)
+      also happened:
+
+      '
+    detail: "- Ukrainian civilians and relatives of people killed by Russian drones\
+      \ have filed a lawsuit against the U.S. company Ubiquiti in federal court in\
+      \ Manhattan. According to the lawsuit, the company’s long-range radio links\
+      \ have become the backbone of the communications network through which the Russians\
+      \ coordinate “human safaris” in Kherson. The plaintiffs cite the precedent set\
+      \ by SpaceX, which cut off Russian Starlink access via a whitelist last February.\
+      \ Ubiquiti allegedly had the same technical and contractual ability to do so\
+      \ but failed to take advantage of it. A January investigation by Hunterbrook\
+      \ Media found that the value of Ubiquiti’s shipments to Russia rose by 66% after\
+      \ the invasion, despite export controls, mainly through distributors in Kazakhstan\
+      \ and Turkey, and one Ukrainian communications specialist estimated that 80%\
+      \ of the Russian radio links he saw on the front lines were precisely these.\n\
+      - Putin has set a goal for 2026: to undermine the EU and NATO from within. According\
+      \ to *The New York Times*, this plan was discussed at a closed-door meeting\
+      \ with Russian military and intelligence officials. Moldova plays a key role\
+      \ in the Kremlin’s plans. Russia reportedly wants to use the country as a foothold.\
+      \ After Ukraine, its next main priority is thus to gain political control over\
+      \ Chisinau. The methods remain the same: vote-buying, funding pro-Russian forces,\
+      \ and cyberattacks. According to the NYT, Moldovan citizens were also trained\
+      \ at camps in Serbia, Bosnia, and Russia, where they learned how to break through\
+      \ police barricades, carry out arson attacks, and handle weapons.\n- The Russian\
+      \ stock market closed Thursday’s session with its sharpest one-day drop since\
+      \ September 26, 2022. The MOEX Index fell 4.29% to 2,136.3 points, wiping out\
+      \ roughly 250 billion rubles ($3.2 billion) in market capitalization (an 8.4%\
+      \ decline over three days). Analysts attribute this directly to a statement\
+      \ by Sergey Lavrov, who rejected a ceasefire, arguing that it would “undermine\
+      \ the legacy of our forefathers who defeated Nazism,” threatened to destroy\
+      \ Western countries supporting Kyiv, and promised “tougher measures.” As a result,\
+      \ Sberbank lost 1.4%, Gazprom 4.4%, Lukoil 4.8%, Rosneft 5.1%, and Rusal 6.5%.\n\
+      - Russia has halted oil exports from the Sheshariss terminal in Novorossiysk.\
+      \ Sheshariss is Russia’s main oil export terminal on the Black Sea and handles\
+      \ about 700,000 barrels per day. After another drone warning was issued on August\
+      \ 14, a tanker that was supposed to load oil sailed away empty, and the port\
+      \ completely halted oil loading. At the same time, the terminal stopped accepting\
+      \ oil because its storage tanks are full. Yet in July alone, nearly one million\
+      \ barrels per day were loaded in Novorossiysk, and in June, about 800,000.\n\
+      - Ukraine has imposed sanctions on 13 vessels and companies linked to the export\
+      \ of Ukrainian grain from the occupied territories. Meanwhile, Ukrainian intelligence\
+      \ reported the day before that of the 26 ships Russia uses to transport oil,\
+      \ petroleum products, LNG, and stolen grain, 18 are not subject to sanctions\
+      \ from any of Ukraine’s partners.\n- Overnight, Ukrainian forces struck the\
+      \ Savaslejka military airfield in the Nizhny Novgorod region, where MiG-31 fighter\
+      \ jets capable of launching Kinjal ballistic missiles are stationed. The Exilenova+\
+      \ monitoring channel reports fires on the base following the explosions. The\
+      \ airfield is about 660 kilometers from Ukraine. \n- Russian forces have once\
+      \ again penetrated Kupiansk after Ukrainian forces gained full control of the\
+      \ city last year and drove the remaining Russian forces out of the surrounding\
+      \ areas. There are now approximately 50–100 Russian soldiers in the northern\
+      \ part of Kupiansk, who have occupied the Spartak area near the stadium.\n-\
+      \ July 2026 was the worst month for Ukrainian civilians since the first month\
+      \ of the full-scale invasion. At least 437 people were killed and 2,610 were\
+      \ injured, marking a 30% increase from the previous month and the highest figure\
+      \ since March 2022.\n- In Marhanc, a Russian airstrike hit a residential building\
+      \ while civilians were sleeping inside, killing a three-month-old baby. Eleven\
+      \ other people were injured, including two children. Seven of them are fighting\
+      \ for their lives in the hospital.\n- Zelenskyy stated that Ukraine is conducting\
+      \ “targeted operations” against collaborators in Russian-occupied territories\
+      \ and is focusing on individuals involved in Russian attacks on Ukraine.\n-\
+      \ Ukrainian rapper Albert Vasiliev, known by his stage name Kyivstoner, was\
+      \ the intended target of a foiled assassination plot organized by the Russian\
+      \ secret service in Poland.\n- The largest military parade in Polish history\
+      \ is taking place today in Warsaw to mark Polish Armed Forces Day. Ukraine was\
+      \ not invited to attend.\n- Russia rejected a proposal for a ceasefire in the\
+      \ Black Sea region the day after Ukraine proposed a mutual halt to attacks on\
+      \ civilian targets.\n- Russian media outlets are reporting that their troops\
+      \ have completely withdrawn from the Dnipropetrovsk region. \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/994191276774884855)
+
+      - [Minus Buky](https://pixelfed.cz/p/dnesnaukrajine/994188548841264583)
+
+      - [Progress](https://pixelfed.cz/p/dnesnaukrajine/994188588012721608)
+
+      - [Cherkasy](https://pixelfed.cz/p/dnesnaukrajine/994188747410437578)
+
+      - [Russian Safari in Kherson](https://pixelfed.cz/p/dnesnaukrajine/994188794342122959)
+
+      - [Kramatorsk](https://pixelfed.cz/p/dnesnaukrajine/994189625955644901)
+
+      - [Unpleasant](https://pixelfed.cz/p/dnesnaukrajine/994189677489858022)
+
+      - [Bull''s-eye!](https://pixelfed.cz/p/dnesnaukrajine/994189697886901735)
+
+      - [Analyzing Logistics](https://pixelfed.cz/p/dnesnaukrajine/994189753812059624)
+
+      - [A Ukrainian MiG activated boss mode](https://pixelfed.cz/p/dnesnaukrajine/994189771643536875)
+
+      '
   - title: Friday
     year: August 14, 2026
     sort: '2026-08-14'

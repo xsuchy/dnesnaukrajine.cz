@@ -38,6 +38,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "15. srpna 2026" 
+        sort: "2026-08-15" 
+        image: assets/img/timeline/2026-08-15.jpg
+        podcast: "2026-08-15.mp3"
+        desc: |
+          Ukrajina v noci sáhla po nejcennějším cíli posledních týdnů – a nebyla to rafinerie. Střely FP-5 Flamingo zasáhly Raketově-kosmické centrum Progress v Samaře, tedy jediný ruský závod, který sériově montuje nosné rakety Sojuz-2. Nad průmyslovou zónou, kde stojí Progress a sousední letecký závod Aviakor, vyšlehl velký požár a sloup kouře. Podle předběžné analýzy CyberBorošna dostala zásah budova 106A, kde se vyvíjejí palubní elektrické systémy, přístroje a desky plošných spojů. Sojuz-2.1b je hlavní ruský způsob, jak dostávat na oběžnou dráhu vojenské družice a také satelity konstelace Rassvet, ruské odpovědi na Starlink. Rusko jich odpálí šest až osm ročně, přičemž na plánovaných 288 družic by jich potřebovalo nejméně osmnáct. Areál leží zhruba 850 až 950 kilometrů od ukrajinských hranic. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0EM8sAqpRLPGu6cmQrQd67pLhJ3S1tBTdANfHiXWc25xq9LbFfVNLUJA8NWbup4d3l):
+        detail: |
+          - Ukrajinští civilisté a příbuzní lidí zabitých ruskými drony zažalovali americkou firmu Ubiquiti u federálního soudu na Manhattanu. Podle žaloby se dálkové rádiové mosty této firmy staly páteří komunikační sítě, přes kterou Rusové koordinují „human safari” v Chersonu. Žalobci argumentují precedentem SpaceX, který loni v únoru odstřihl ruské Starlinky přes whitelist. Ubiquiti prý mělo stejnou technickou i smluvní možnost a nevyužilo ji. Investigace Hunterbrook Media z ledna zjistila, že hodnota dodávek Ubiquiti do Ruska po invazi vzrostla o 66 % navzdory exportním kontrolám, hlavně přes distributory v Kazachstánu a Turecku, a jeden ukrajinský spojař odhadl, že 80 % ruských rádiových mostů, které u fronty viděl, byly právě tyhle.
+          - Putin si stanovil cíl pro rok 2026: podkopat EU a NATO zevnitř. Podle deníku The New York Times byl tento plán projednán na uzavřeném zasedání s ruskými vojenskými a zpravodajskými představiteli. Moldavsko hraje v plánech Kremlu klíčovou roli. Rusko údajně chce tuto zemi využít jako opěrný bod. Po Ukrajině je tak jeho další hlavní prioritou získání politické kontroly nad Kišiněvem. Metody jsou stále stejné: kupování hlasů, financování proruských sil a kyberútoky. Podle NYT byli také moldavští občané cvičeni v táborech v Srbsku, Bosně a Rusku, kde se učili, jak prorazit policejní zátarasy, provádět žhářské útoky a zacházet se zbraněmi.
+          - Ruský akciový trh uzavřel čtvrteční seanci nejprudším jednodenním propadem od 26. září 2022. Index MOEX spadl o 4,29 % na 2 136,3 bodu a smazal zhruba 250 miliard rublů (3,2 miliardy dolarů) tržní kapitalizace (za tři dny je to 8,4 %). Analytici to spojují přímo s vystoupením Sergeje Lavrova, který odmítl zmrazení fronty s tím, že by to „podkopalo dílo předků, kteří porazili nacismus”, vyhrožoval zničením západním zemím podporujícím Kyjev a sliboval „tvrdší opatření”. Sberbank tak ztratila 1,4 %, Gazprom 4,4 %, Lukoil 4,8 %, Rosněft 5,1 % a Rusal 6,5 %.
+          - Rusko zastavilo vývoz ropy z terminálu Šeschariss v Novorossijsku. Šeschariss je hlavní ruský ropný exportní terminál v Černém moři a odbaví kolem 700 000 barelů denně. Poté, co 14. srpna přišlo další dronové varování, odplul tanker, který měl nakládat ropu, s prázdnou a přístav nakládku ropy úplně zastavil. Terminál zároveň přestal ropu přijímat, protože zásobníky jsou plné. Jen v červenci se přitom v Novorossijsku nakládalo skoro milion barelů denně, v červnu asi 800 000.
+          - Ukrajina uvalila sankce na 13 plavidel a firmy napojené na vývoz ukrajinského obilí z okupovaných území. Ukrajinská rozvědka přitom o den dříve spočítala, že z 26 lodí, které Rusko používá na přepravu ropy, ropných produktů, LNG a kradeného obilí, jich 18 nemá sankce od žádného partnera Ukrajiny.
+          - V noci zasáhly ukrajinské síly vojenské letiště Savaslejka v Nižněnovgorodské oblasti, kde jsou dislokovány stíhačky MiG-31 schopné odpalovat balistické střely Kinžal. Monitorovací kanál Exilenova+ hlásí po explozích požáry v prostoru základny. Letiště je asi 660 kilometrů od Ukrajiny. 
+          - Ruské jednotky opět pronikly do Kupjansku poté, co ukrajinské jednotky loni získaly plnou kontrolu nad městem a vytlačily zbývající ruské jednotky z okolních oblastí. V severní části Kupjansku se nyní nachází přibližně 50–100 ruských vojáků, kteří obsadili oblast Spartak v blízkosti stadionu.
+          - Červenec 2026 byl pro ukrajinské civilisty nejhorší měsíc od prvního měsíce plnohodnotné invaze. Zahynulo nejméně 437 lidí a 2 610 jich bylo zraněno, což je meziměsíční nárůst o 30 % a nejvyšší číslo od března 2022.
+          - V Marhanci zasáhl ruský nálet obytný dům, zatímco uvnitř spali civilisté, a zabil tříměsíční dítě. Jedenáct dalších lidí bylo zraněno, včetně dvou dětí. Sedm z nich bojuje v nemocnici o život.
+          - Zelenskyj prohlásil, že Ukrajina provádí „cílené operace“ proti kolaborantům na územích okupovaných Ruskem a zaměřuje se na osoby zapojené do ruských útoků na Ukrajinu.
+          - Ukrajinský rapper Albert Vasiliev, známý pod uměleckým jménem Kyivstoner, byl zamýšleným cílem zmařeného atentátu, který zorganizovala ruská tajná služba v Polsku.
+          - Ve Varšavě dnes probíhá největší vojenská přehlídka v polských dějinách ke Dni polských ozbrojených sil. Ukrajina na ni pozvána nebyla.
+          - Rusko odmítlo návrh na příměří v oblasti Černého moře den poté, co Ukrajina navrhla vzájemné zastavení útoků na civilní cíle.
+          - Ruské kanály naznačují, že se jejich jednotky kompletně stáhly z Dněpropetrovské oblasti. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/994191276774884855)
+          - [Mínus Buky](https://pixelfed.cz/p/dnesnaukrajine/994188548841264583)
+          - [Progress](https://pixelfed.cz/p/dnesnaukrajine/994188588012721608)
+          - [Čerkasy](https://pixelfed.cz/p/dnesnaukrajine/994188747410437578)
+          - [Ruské safari v Chersonu](https://pixelfed.cz/p/dnesnaukrajine/994188794342122959)
+          - [Kramatorsk](https://pixelfed.cz/p/dnesnaukrajine/994189625955644901)
+          - [Nemilé](https://pixelfed.cz/p/dnesnaukrajine/994189677489858022)
+          - [Trefa!](https://pixelfed.cz/p/dnesnaukrajine/994189697886901735)
+          - [Rozebírání logistiky](https://pixelfed.cz/p/dnesnaukrajine/994189753812059624)
+          - [Ukrajinský MiG zapnul boss mode](https://pixelfed.cz/p/dnesnaukrajine/994189771643536875)
       - title: "Pátek"
         year: "14. srpna 2026" 
         sort: "2026-08-14" 
