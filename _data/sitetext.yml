@@ -38,6 +38,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "16. srpna 2026" 
+        sort: "2026-08-16" 
+        image: assets/img/timeline/2026-08-16.jpg
+        podcast: "2026-08-16.mp3"
+        desc: |
+          Ukrajina v noci provedla zřejmě největší dronový úder na Moskevskou oblast za celou válku. Od sobotního večera do půl sedmé ráno letělo na region okolo 600 dronů, z nichž 201 bylo sestřeleno nad Moskevskou oblastí v Domodědovu, Podolsku, Stupinu, Odincovu, Naro-Fominsku, Ramenskom, Čechovu, Kolomně, Kašiře a Jegorjevsku. Hlavním cílem byl sklad Wildberries v Kolediném u Podolsku. Areál o rozloze zhruba 250 000 m² byl jedním z největších logistických uzlů firmy a po náletu kompletně shořel. Druhý požár vypukl ve skladu č. 15 v komplexu MLP Severnoje Domodědovo. Ukrajinské ministerstvo obrany oznámilo, že Ukrajina už odstavila sedm z deseti největších logistických center firmy. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0fwjpT9KoS18jGGKZsaNFzpQ5JUd7fUWac2PnJksfkPZZcviBJ6eHvPbqwkp3pdXxl): 
+        detail: |
+          - Rusové v noci zaútočili na Kyjev, Kremenčuk na Poltavsku a Kryvyj Rih. Podle ukrajinského letectva letěly na cíle protilodní střely Onyx, balistické rakety typu Iskander-M, S-400 nebo severokorejské KN-23, řízené rakety Ch-59/69 a 106 útočných dronů včetně Shahedů. Protivzdušná obrana sestřelila tři rakety Ch-59/69 a 85 ze 106 dronů, zásahy byly hlášeny ze třinácti míst. V Kryvém Rihu zasáhla raketa závod největšího ukrajinského výrobce oceli ArcelorMittal. Zahynuli dva lidé, třináct zaměstnanců bylo zraněno a provoz musel být částečně zastaven. V Kyjevě hořela komerční budova v Obolonské čtvrti a další objekt v Holosijivské, zraněni byli tři lidé. Za poslední den ruské útoky na Ukrajině zabily nejméně sedm civilistů a jedenapadesát jich zranily.
+          - Ukrajinské námořnictvo v noci zasáhlo v okupovaném Krymu ruský pobřežní raketový komplex Bastion – vzácný a drahý systém, ze kterého Rusové odpalují nadzvukové střely Onyx a hypersonické Zirkony na jižní Ukrajinu. Generální štáb hlásí také zásah železničního mostu u Svitlodolynského v okupované části Záporožské oblasti, který Rusové využívali pro vojenskou logistiku a přesuny jednotek, a údery na logistiku a muniční sklady v okupované Karlivce na Doněcku.
+          - The Sunday Times s odvoláním na zdroje v ukrajinských ozbrojených silách napsal, že Ukrajina už půl roku používá k hlubokým úderům do Ruska britské drony. Mezi nasazenými stroji je proudový dron BAE Systems Nyan, testovaný britským královským námořnictvem, a další, nejmenovaný typ. Cíle zahrnovaly rafinerie u Moskvy, v Jaroslavli a Volgogradu, Nyan byl podle listu použit i proti Bělgorodu. 
+          - Během nočního náletu byl nad Rumunskem sestřelen další dron. Ministerstvo obrany uvedlo, že ho zlikvidovala španělská stíhačka F-18 v rámci mise NATO Air Policing. Dron vlétl do rumunského vzdušného prostoru z Moldavska zhruba 24 kilometrů severně od Galați. Původ stroje ministerstvo neupřesnilo. K zásahu došlo v 5:01 místního času, trosky dopadly v neobydlené části župy Galați. 
+          - Generální štáb potvrdil, že ukrajinské síly v noci zasáhly kombinát v Kamensku-Šachtinském v Rostovské oblasti a v areálu vypukl požár. Podnik vyrábí tuhé raketové palivo pro munici raketometů Uragan, Smerč a Tornado-S i pro řadu raketových systémů a leteckých zbraní. 
+          - V Záporožské oblasti zabily ruské útoky jednoho člověka a osm jich zranily. Za posledních 24 hodin tam Rusové provedli 1 034 úderů na 55 obcí. V Novoivanivce zničily řízené letecké pumy během jediné noci téměř polovinu vesnice a policie odtud evakuovala pět lidí. 
+          - U Chersonu zahynul jeden člověk a devět jich bylo zraněno. Rusové svůj nálet mířili na obytné čtvrti i kritickou infrastrukturu, poškozené jsou domy, bytovky, obchod, zemědělská technika a auta.
+          - Fyzické údery na společnost Wildberries doplnil 15. srpna ukrajinský kyberútok na platební a zákaznické systémy firmy, který na čas paralyzoval celý e-shop a znemožnil provádění objednávek. 
+          - Andrej Klepač, hlavní ekonom ruské banky VEB, prohlásil, že Rusko nebude schopno vyhrát obrušovací válku, dokud bude Ukrajina i nadále dostávat podporu ze Západu.
+          - ISW konstatuje, že Kreml před volbami do Státní dumy ještě přitvrdil v odmítání jednání a nadále trvá na požadavcích, které znamenají faktickou kapitulaci Ukrajiny. 
+          - V Poznani mezitím dvě opilé Polky napadly ukrajinské muže, obě už byly zadrženy. Dál ale přibývá hlášených nenávistných útoků na Ukrajince.
+          - Před domem dcery ruského generála Romana Jurčenka v Moskvě někdo zanechal mršinu prasete se vzkazem: „To je pro tebe, Nasťo“. 
+          - V Kyjevě vyhořel po ruském útoku knižní trh Pochaina, v důsledku čehož byly zničeny vzácné a starožitné knihy.
+          - Organizace World Archery připustí Rusy zpět do soutěží pod jejich vlajkou. 
+          - Dnes je to rok od summitu v Anchorage. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/994631999467063483)
+          - [Krym](https://pixelfed.cz/p/dnesnaukrajine/994628548555716728)
+          - [Wildberries](https://pixelfed.cz/p/dnesnaukrajine/994628580281743482)
+          - [Koledino](https://pixelfed.cz/p/dnesnaukrajine/994628612585572475)
+          - [Moskva](https://pixelfed.cz/p/dnesnaukrajine/994628652113705086)
+          - [Evakuace](https://pixelfed.cz/p/dnesnaukrajine/994628717369239679)
+          - [Mínus munice](https://pixelfed.cz/p/dnesnaukrajine/994628771669387392)
+          - [Drony v práci](https://pixelfed.cz/p/dnesnaukrajine/994628818489596034)
+          - [Nedošli](https://pixelfed.cz/p/dnesnaukrajine/994628867255580806)
       - title: "Sobota"
         year: "15. srpna 2026" 
         sort: "2026-08-15" 
