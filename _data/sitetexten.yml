@@ -23,6 +23,100 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Monday
+    year: August 17, 2026
+    sort: '2026-08-17'
+    image: assets/img/timeline/2026-08-17.jpg
+    podcast: 2026-08-17.mp3
+    desc: "Ukraine has submitted a memorandum to the Trump administration that, for\
+      \ the first time, quantifies the impact its long-range strike campaign has had\
+      \ on the Russian economy over the past forty days. According to the document,\
+      \ the SBU has carried out more than one hundred “successful strikes” against\
+      \ strategic targets in Russia and in the occupied territories. Ukrainian forces\
+      \ have struck all ten of Russia’s largest refineries, with the farthest target\
+      \ located in Omsk, roughly 2,500 kilometers from the border. Strikes on refineries\
+      \ occur roughly every two days, and Kyiv estimates that it has taken out over\
+      \ 30% of Russia’s refining capacity, resulting in losses of around $15 billion.\
+      \ The campaign has also expanded to include the shadow fleet—with nearly 200\
+      \ vessels in the Black and Azov Seas coming under attack—and dozens of military\
+      \ facilities, notably the Saky, Hvardijske, Belbek, and Bagerovo airports in\
+      \ Crimea. According to the document, July was the worst month of the entire\
+      \ war for Russian transport vehicles and tankers: nearly 14,000 were destroyed\
+      \ or damaged. The memorandum also contains a warning: during the Russian missile\
+      \ attack on Kyiv on August 5, which killed 18 people, not a single one of the\
+      \ 24 ballistic missiles was shot down because Ukraine does not have enough suitable\
+      \ missiles for air defense. In July, Russia launched around a hundred ballistic\
+      \ missiles, and the success rate of intercepting them remains critically low.\
+      \ And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02WDT4uCzLnnL2aNTkd8jKFV5zEbBncKudemG59Jmut4RhdfBtTNAqkqJBZ9EDfVDNl)\
+      \ also happened: \n"
+    detail: "- The Telegraph published an investigative report claiming that Russia\
+      \ has built ten secret bases equipped with new launch pads for state-of-the-art\
+      \ long-range attack drones. These facilities are located near the borders with\
+      \ Belarus and Ukraine—for example, Khalino in the Kursk region, Shatalovo in\
+      \ the Smolensk region, and Millerovo in the Rostov region, as well as bases\
+      \ in the Oryol and Bryansk regions and several sites in occupied Ukrainian territories.\
+      \ Some of these centers were created by converting military bases and civilian\
+      \ airports. Moscow is already using some of these bases to launch attacks on\
+      \ Ukraine, but from others, Russia’s most powerful drones can fly as far as\
+      \ Warsaw. Meanwhile, Russia is rapidly modernizing its version of the Shahed\
+      \ and deploying jet-powered variants. \n- Russia launched an attack on Ukraine\
+      \ overnight with 128 drones; air defenses shot down 106 of them. In the Odesa\
+      \ region, Russia targeted port infrastructure and damaged a civilian ship flying\
+      \ the Togolese flag. Four people were injured, and three were hospitalized.\
+      \ Other projectiles struck a shopping center. In the Sumy region, Russian drones\
+      \ killed two elderly people near the regional capital and destroyed or damaged\
+      \ residential buildings, warehouses, and vehicles. In Chernihiv, a Russian attack\
+      \ damaged power facilities, leaving more than 10,000 customers without electricity.\n\
+      - According to the newspaper *Bild*, Russia is sending warships to the Baltic\
+      \ Sea. Shortly after the destroyer *Admiral Levchenko* arrived there, the modern\
+      \ missile frigate *Admiral Kasatonov* from the Northern Fleet—capable of launching\
+      \ Kalibr and Zircon missiles—also arrived. Moscow has not commented on the reasons\
+      \ for the deployment, but it comes a few days after Putin threatened “retaliatory\
+      \ measures” against European countries that are taking action against Russia’s\
+      \ shadow fleet.\n- A fire broke out at an ammunition depot at the Hvardijske\
+      \ airbase in occupied Crimea. The Crimean Wind monitoring project reports hotspots\
+      \ even in areas where aircraft are parked and cites data from NASA’s FIRMS system.\
+      \ According to social media, at least one drone also set fire to an aircraft\
+      \ repair facility, and ZSU reports striking a warehouse and a launch site for\
+      \ Russian attack drones.\n- Kaja Kallas, the EU's foreign policy chief, told\
+      \ the newspaper *Die Welt* that the EU will present the most extensive list\
+      \ of sanctions since the start of the war this fall. According to her, the sanctions\
+      \ imposed so far have cost the Russian war machine more than one trillion euros,\
+      \ and the new package will immediately increase the total number of sanctioned\
+      \ Russian entities by one-third.\n- The General Staff has released footage showing\
+      \ the aftermath of Sunday’s strike on the Kamensky plant in Kamensk-Shakhtinsky,\
+      \ which produces solid rocket fuel for the Uragan, Smerch, and Tornado-S systems.\
+      \ Two production facilities have been destroyed. \n- Switzerland will provide\
+      \ 600,000 francs through UNESCO to save and restore the Kyiv-Pechersk Lavra,\
+      \ which was damaged during a Russian airstrike in June.\n- Andrei Klepach, chief\
+      \ economist at the Russian development bank VEB.RF, was fired after warning\
+      \ that Russia is losing the economic war with the West. \n- Binance has handed\
+      \ over transaction data on six Russian citizens—whom Russia accuses of “terrorism\
+      \ and extremism”—to Russian authorities. \n- Putin sent a message to Kim Jong-un\
+      \ on Korean Liberation Day, stating that cooperation between Russia and North\
+      \ Korea will continue “in all areas.” \n- The independent Mediazona project,\
+      \ in collaboration with the BBC's Russian service, has confirmed the names of\
+      \ 239,354 Russian soldiers who have been killed in Ukraine.\n- In Bydgoszcz,\
+      \ Poland, a 12-year-old boy and his 14-year-old sister were attacked for speaking\
+      \ Ukrainian together.\n- Thanks to Ukrainian counterattacks, the Russian presence\
+      \ in the Dnipropetrovsk region has been reduced to a single village. \n- Russia\
+      \ has begun arresting people demonstrating in support of the Yabloko party.\
+      \ \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/994984785213224712)
+
+      - [Odessa](https://pixelfed.cz/p/dnesnaukrajine/994981635472504539)
+
+      - [Koledino Is Still Burning](https://pixelfed.cz/p/dnesnaukrajine/994981677521401564)
+
+      - [A Shift on the Front Lines](https://pixelfed.cz/p/dnesnaukrajine/994981766212626142)
+
+      - [Russian Air Defense Tower](https://pixelfed.cz/p/dnesnaukrajine/994981822014666463)
+
+      - [A solid shot](https://pixelfed.cz/p/dnesnaukrajine/994981853362083552)
+
+      - [Russians are boasting about their strike on an apartment building](https://pixelfed.cz/p/dnesnaukrajine/994981883457152737)
+
+      '
   - title: Sunday
     year: August 16, 2026
     sort: '2026-08-16'

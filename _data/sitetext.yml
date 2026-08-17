@@ -38,6 +38,36 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "17. srpna 2026" 
+        sort: "2026-08-17" 
+        image: assets/img/timeline/2026-08-17.jpg
+        podcast: "2026-08-17.mp3"
+        desc: |
+          Ukrajina předložila Trumpově administrativě memorandum, které poprvé v číslech shrnuje, co její kampaň dálkových úderů za posledních čtyřicet dní udělala s ruskou ekonomikou. Podle dokumentu provedla SBU více než sto „úspěšných úderů" na strategické cíle v Rusku a na okupovaných územích. Ukrajinské síly zasáhly všech deset největších ruských rafinerií, přičemž nejvzdálenější cíl ležel v Omsku zhruba 2 500 kilometrů od hranic. Údery na rafinerie probíhají zhruba každé dva dny a Kyjev odhaduje, že vyřadil přes 30 % ruských rafinérských kapacit, což znamená ztráty kolem 15 miliard dolarů. Kampaň se rozšířila i na stínovou flotilu – pod útokem bylo skoro 200 plavidel v Černém a Azovském moři – a na desítky vojenských objektů, na Krymu zejména letiště Saky, Hvardijske, Belbek a Bagerovo. Červenec byl podle dokumentu pro ruskou dopravní techniku a cisterny nejhorším měsícem celé války: zničeno nebo poškozeno bylo skoro 14 000 kusů. Memorandum zároveň obsahuje varování: při ruském raketovém útoku na Kyjev 5. srpna, který zabil 18 lidí, nebyla sestřelena ani jedna z 24 balistických raket, protože Ukrajina nemá dost vhodných střel pro PVO. V červenci Rusko odpálilo kolem stovky balistických raket a úspěšnost jejich zachycení zůstává kriticky nízká. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02WDT4uCzLnnL2aNTkd8jKFV5zEbBncKudemG59Jmut4RhdfBtTNAqkqJBZ9EDfVDNl): 
+        detail: |
+          - The Telegraph zveřejnil investigativu, podle které Rusko vybudovalo deset utajených základen s novými odpalovacími rampami pro nejmodernější útočné drony s dlouhým doletem. Jde o zařízení poblíž hranic s Běloruskem a Ukrajinou – například Chalino v Kurské oblasti, Šatalovo ve Smolenské oblasti nebo Millerovo v Rostovské oblasti, dále základny v Orelské a Brjanské oblasti a několik objektů na okupovaných ukrajinských územích. Některá střediska vznikla přestavbou vojenských základen a civilních letišť. Část základen Moskva už používá k útokům na Ukrajinu, ale z některých z nich doletí nejvýkonnější ruské drony až do Varšavy. Rusko přitom rychle modernizuje svou verzi Šáhedu a nasazuje varianty s proudovým pohonem. 
+          - Rusko v noci zaútočilo na Ukrajinu 128 drony, protivzdušná obrana jich sestřelila 106. V Oděské oblasti mířilo Rusko na přístavní infrastrukturu a poškodilo civilní loď pod vlajkou Toga. Zraněni byli čtyři lidé, tři skončili v nemocnici. Další projektily zasáhly nákupní centrum. Na Sumsku zabily ruské drony v okolí regionální metropole dva seniory a zničily nebo poškodily obytné domy, sklady a vozidla. V Černihivu poškodil ruský útok energetické zařízení a bez elektřiny zůstalo přes 10 000 odběratelů.
+          - Rusko podle deníku Bild posílá do Baltského moře válečné lodě. Krátce po torpédoborci Admirál Levčenko tam dorazila i moderní raketová fregata Admirál Kasatonov ze Severní flotily, schopná odpalovat střely Kalibr a Zircon. Moskva důvody nasazení nekomentovala, přichází ale pár dní poté, co Putin pohrozil „odvetnými opatřeními" evropským státům, které podnikají kroky proti ruské stínové flotile.
+          - Na okupovaném Krymu vypukl požár u skladiště munice na letecké základně Hvardijske. Monitorovací projekt Crimean Wind hlásí ohniska i v místech, kde stojí letadla, a odkazuje na data ze systému NASA FIRMS. Podle sociálních sítí zapálil nejméně jeden dron také opravnu letadel a ZSU hlásí zásah skladu a odpalovacího stanoviště ruských útočných dronů.
+          - Šéfka evropské diplomacie Kaja Kallasová řekla deníku Die Welt, že EU na podzim předloží nejrozsáhlejší seznam sankcí od začátku války. Podle ní dosavadní sankce připravily ruskou válečnou mašinerii o více než bilion eur a nový balíček okamžitě zvýší celkový počet sankcionovaných ruských subjektů o třetinu.
+          - Generální štáb zveřejnil záběry následků nedělního úderu na Kamenský závod v Kamensku-Šachtinském, který vyrábí tuhé raketové palivo pro Uragany, Smerče a Tornado-S. Zničené jsou dva výrobní provozy. 
+          - Švýcarsko poskytne prostřednictvím UNESCO 600 000 franků na záchranu a obnovu Kyjevskopečerské lávry poškozené při červnovém ruském náletu.
+          - Hlavní ekonom ruské rozvojové banky VEB.RF Andrej Klepač byl propuštěn poté, co varoval, že Rusko prohrává ekonomickou válku se Západem. 
+          - Společnost Binance předala ruským úřadům data o transakcích šesti ruských občanů, které Rusko viní z „terorismu a extremismu“. 
+          - Putin poslal Kim Čong-unovi ke Dni osvobození Koreje vzkaz, že spolupráce Ruska a KLDR bude pokračovat „ve všech oblastech". 
+          - Nezávislý projekt Mediazona ve spolupráci s ruskou redakcí BBC potvrdil jména už 239 354 ruských vojáků padlých na Ukrajině.
+          - V polské Bydhošti napadli místní dvanáctiletého chlapce a jeho čtrnáctiletou sestru za to, že spolu mluvili ukrajinsky.
+          - Ruská přítomnost v Dněpropetrovské oblasti se díky ukrajinským protiútokům scvrkla na jedinou vesnici. 
+          - Rusko začalo zatýkat lidi demonstrující na podporu strany Jabloko. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/994984785213224712)
+          - [Oděsa](https://pixelfed.cz/p/dnesnaukrajine/994981635472504539)
+          - [Koledino stále hoří](https://pixelfed.cz/p/dnesnaukrajine/994981677521401564)
+          - [Šichta na frontě](https://pixelfed.cz/p/dnesnaukrajine/994981766212626142)
+          - [Ruská věž PVO](https://pixelfed.cz/p/dnesnaukrajine/994981822014666463)
+          - [Solidní trefa](https://pixelfed.cz/p/dnesnaukrajine/994981853362083552)
+          - [Rusové se chlubí zásahem bytovky](https://pixelfed.cz/p/dnesnaukrajine/994981883457152737)
       - title: "Neděle"
         year: "16. srpna 2026" 
         sort: "2026-08-16" 
