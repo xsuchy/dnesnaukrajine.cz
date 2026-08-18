@@ -23,6 +23,104 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Tuesday
+    year: August 18, 2026
+    sort: '2026-08-18'
+    image: assets/img/timeline/2026-08-18.jpg
+    podcast: 2026-08-18.mp3
+    desc: 'Russia struck the center of Pecheni in the Kharkiv region with two guided
+      missiles this morning. According to the head of the regional administration,
+      ten people were killed and eighteen were injured. The Russians deliberately
+      targeted a busy intersection where a post office and shops are located, surrounded
+      by residential buildings. The fire engulfed an area of approximately 400 m²;
+      a café and seven cars were destroyed, and ten single-family homes, the post
+      office building, five stores, and another fifteen vehicles were damaged. Overnight,
+      Russia launched a total of 147 Shahed-type drones at Ukraine, including jet-powered
+      versions and Gerbera and Parody decoys. Air defenses shot down or intercepted
+      111 of them, with strikes reported from nineteen locations. Over the past day,
+      Russian attacks have killed at least nineteen people in six regions and injured
+      fifty-three. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02zbuHVs1ijHyyXHTy6prrCrQeKK4hxjLfKKmFF9ozKMuo8tVn12jMT5Nr8SRVFR6el)
+      also happened:
+
+      '
+    detail: "- Ukraine struck the Moscow Region for the second time in three days\
+      \ overnight. Governor Vorobyov claims that Russian air defense forces recorded\
+      \ 150 intercepts. In any case, the Wildberries warehouse in Bogorodskoye was\
+      \ hit, though the company quickly managed to extinguish the fire. A retail pavilion\
+      \ at the Globus shopping center in Kolomna was also damaged. The most significant\
+      \ impact, however, is on the energy sector: Mosoblenergo reports 109 transformer\
+      \ stations taken out of service and more than 5,000 customers, plus 46 “socially\
+      \ significant facilities,” without power in Likino-Dulyovo and Orekhovo-Zuyevo.\
+      \ Monitoring channels also reported a fire at a Moscow aluminum plant.\n- The\
+      \ first comprehensive estimates of the damage caused by the month-long campaign\
+      \ against Wildberries have emerged. According to the Verstka project, at least\
+      \ 22 of the company’s warehouses have been targeted since July 18, 19 of which\
+      \ have been seriously damaged or completely destroyed. This amounts to approximately\
+      \ 2.395 million square meters, or 43% of the company’s total warehouse capacity.\
+      \ The analytics firm Data Insight estimates the value of the burned goods at\
+      \ 445 to 507 billion rubles (5.24 to 5.96 billion dollars), while the APTEP\
+      \ suppliers’ association puts the figure as high as 600 to 700 billion. Wildberries\
+      \ itself has incurred direct losses of 147 to 223 billion rubles. In the destroyed\
+      \ town of Koledino alone, goods worth 78 billion rubles were lost to the fire.\
+      \ The company controls roughly half of the Russian e-commerce market and about\
+      \ 10% of all retail sales, so a wave of bankruptcies among individual retailers\
+      \ is expected.\n- Vadym Skibitsky, deputy head of Ukrainian military intelligence,\
+      \ said in an interview with RBC-Ukraine that there will be no peace agreement\
+      \ by the end of the year and that Putin continues to insist on occupying the\
+      \ entire Donetsk region. According to him, this fall and winter, the Russians\
+      \ will target the energy sector, the gas network, and mining operations, as\
+      \ well as logistics, gas stations, and bridges. Russia has reportedly developed\
+      \ a drone specifically for attacking power lines, equipped with devices in its\
+      \ wings capable of cutting through metal. \n- HUR does not rule out a new wave\
+      \ of mobilization in Russia following the fall elections. Russia currently has\
+      \ about 670,000 soldiers on active duty and another 65,000 in the operational\
+      \ reserve, with losses exceeding recruitment. However, following a mobilization,\
+      \ Moscow could assemble strike forces by February or early 2027 with the aim\
+      \ of opening a new front in northern Ukraine. \n- Russia’s blockade of Greater\
+      \ Odessa is stifling Ukrainian exports. While 169 ships entered the ports of\
+      \ Odessa in July, only seven did so during the first eleven days of August.\
+      \ The Port Authority has recorded 160 attacks on port infrastructure this year,\
+      \ 87 attacks on civilian ships in ports, and 68 in the grain corridor. \n- The\
+      \ Russian Embassy in London issued a warning to Britain over the supply of drones\
+      \ that Ukraine is using to carry out strikes deep inside Russia: “London’s actions\
+      \ will inevitably have consequences for which it will have to answer.” The British\
+      \ side responded that it would continue supplying Kyiv.\n- According to Ukrainian\
+      \ military intelligence, foreign mercenaries in the Russian army are assigned\
+      \ “inventory numbers” that are applied directly to the skin as temporary tattoos\
+      \ instead of standard military identification tags.\n- Drones struck the cargo\
+      \ ship ANNA S, which was sailing under the Liberian flag and operated by a Greek\
+      \ company, about 20 nautical miles from Novorossiysk. The ship was en route\
+      \ to pick up a cargo of Russian grain.\n- Ghana has called on Moscow to stop\
+      \ recruiting its citizens to fight in the war. According to Foreign Minister\
+      \ Ablakwa, at least 62 Ghanaians have been killed in Ukraine, and another 15\
+      \ are missing.\n- Russia and Myanmar have signed a declaration on combating\
+      \ sanctions. The \"axis of evil\"—which includes Iran, North Korea, and China—has\
+      \ thus gained a new ally: Myanmar’s brutal military junta.\n- A court in Stuttgart\
+      \ sentenced a Ukrainian citizen to one year and three months in prison for participating\
+      \ in an arson plot. The plot was allegedly organized by Russian intelligence.\
+      \ \n- Ukraine has regained control of the village of Andriivka-Klevtseve in\
+      \ the Donetsk region. About 30 Russian soldiers were captured during the operation.\n\
+      - The SBU detained a man in the Kharkiv region suspected of spying for Russia\
+      \ who had registered 27 Starlink terminals in Izyum.\n- Rapper Kanye West, who\
+      \ claims to be a Nazi and has released a song named after the Nazi salute, is\
+      \ heading to Russia on tour. \n- A Russian drone attack struck the distribution\
+      \ center of EVA, one of Ukraine's largest drugstore chains.\n- PepsiCo, which\
+      \ had promised to withdraw from Russia, paid $237 million in taxes to the Russian\
+      \ government last year.\n- A Russian drone killed a farmworker while he was\
+      \ repairing a combine harvester in a field near Zaporizhzhia.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/995382212054870042)
+
+      - [Drones…](https://pixelfed.cz/p/dnesnaukrajine/995380830847395828)
+
+      - [The fuel crisis in Russia continues](https://pixelfed.cz/p/dnesnaukrajine/995380868973389813)
+
+      - [Andriivka](https://pixelfed.cz/p/dnesnaukrajine/995380962204403708)
+
+      - [Something exploded at a factory in Finland near the Russian border](https://pixelfed.cz/p/dnesnaukrajine/995380977794324477)
+
+      - [Koledino](https://pixelfed.cz/p/dnesnaukrajine/995381439001794571)
+
+      '
   - title: Monday
     year: August 17, 2026
     sort: '2026-08-17'

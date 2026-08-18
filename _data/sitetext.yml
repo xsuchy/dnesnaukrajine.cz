@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "18. srpna 2026" 
+        sort: "2026-08-18" 
+        image: assets/img/timeline/2026-08-18.jpg
+        podcast: "2026-08-18.mp3"
+        desc: |
+          Rusko dnes ráno zasáhlo dvěma řízenými střelami Banderol centrum Pečenih na Charkovsku. Podle šéfa oblastní správy zahynulo deset lidí a osmnáct jich bylo zraněno. Rusové schválně cílili na rušnou křižovatku, kde stojí pošta a obchody a která je obklopená obytnými domy. Požár zachvátil plochu zhruba 400 m², shořela kavárna a sedm aut, poškozeno je deset rodinných domů, budova pošty, pět obchodů a dalších patnáct vozidel. Během noci vypustilo Rusko na Ukrajinu celkem 147 dronů typu Shahed včetně proudových verzí a návnad Gerbera a Parody. Protivzdušná obrana jich 111 sestřelila nebo potlačila, zásahy jsou hlášeny z devatenácti míst. Za poslední den ruské útoky zabily nejméně devatenáct lidí v šesti oblastech a třiapadesát jich zranily. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02zbuHVs1ijHyyXHTy6prrCrQeKK4hxjLfKKmFF9ozKMuo8tVn12jMT5Nr8SRVFR6el):
+        detail: |
+          - Ukrajina v noci podruhé za tři dny udeřila na Moskevskou oblast. Gubernátor Vorobjov tvrdí, že ruská PVO zaznamenala 150 sestřelů. Každopádně, zasažen byl sklad Wildberries v Bogorodském, nicméně firma požár rychle zvládla uhasit. Zásah utrpěl také obchodní pavilon u nákupního centra Globus v Kolomně. Nejcitelnější je ale zásah do energetiky: Mosoblenergo hlásí 109 vyřazených trafostanic a více než 5 000 odběratelů plus 46 „společensky významných objektů” bez proudu v Likino-Duljovu a Orechovo-Zujevu. Monitorovací kanály hlásily i požár moskevské hliníkárny.
+          - Objevily se první souhrnné odhady škod z měsíční kampaně proti Wildberries. Podle projektu Verstka bylo od 18. července zasaženo nejméně 22 skladů firmy, z toho 19 je poškozených vážně nebo úplně zničených. Jde zhruba o 2,395 milionu m², tedy 43 % z celkové skladové kapacity firmy. Analytická společnost Data Insight odhaduje hodnotu shořelého zboží na 445 až 507 miliard rublů (5,24 až 5,96 miliardy dolarů), asociace dodavatelů APTEP mluví dokonce o 600 až 700 miliardách. Samotný Wildberries má přímé ztráty 147 až 223 miliard rublů. Jen ve zničeném Kolediném shořelo zboží za 78 miliard rublů. Firma ovládá zhruba polovinu ruského e-commerce trhu a asi 10 % veškerého maloobchodu, proto se očekává vlna bankrotů jednotlivých prodejců.
+          - Zástupce šéfa ukrajinské vojenské rozvědky Vadym Skibickyj řekl v rozhovoru pro RBC-Ukrajina, že do konce roku žádná mírová dohoda nebude a Putin dál trvá na obsazení celé Doněcké oblasti. Na podzim a v zimě podle něj Rusové zaměří údery na energetiku, plynárenskou soustavu a těžbu, na logistiku, čerpací stanice a mosty. Rusko prý pro ten účel vyvinulo dron určený k útokům na elektrická vedení, který nese ve křídlech zařízení schopné přeříznout kov. 
+          - HUR nevylučuje novou vlnu mobilizace v Rusku po podzimních volbách. Rusko má nyní v aktivní službě asi 670 000 vojáků a dalších 65 000 v operační záloze, přičemž ztráty převyšují nábor. Po mobilizaci by ale Moskva mohla sestavit úderné formace do února nebo začátku roku 2027 s cílem otevřít novou frontu na severu Ukrajiny. 
+          - Ruská blokáda Velké Oděsy dusí ukrajinský export. Zatímco v červenci vplulo do oděských přístavů 169 lodí, za prvních jedenáct srpnových dnů jich bylo sedm. Správa přístavů letos eviduje 160 útoků na přístavní infrastrukturu, 87 útoků na civilní lodě v přístavech a 68 v obilném koridoru. 
+          - Ruská ambasáda v Londýně pohrozila Británii kvůli dodávkám dronů, které Ukrajina používá k úderům hluboko v Rusku: „Kroky Londýna budou nevyhnutelně mít následky, za které se bude muset zodpovídat.” Britská strana odpověděla, že v dodávkách Kyjevu bude pokračovat.
+          - Podle ukrajinské vojenské rozvědky jsou zahraničním žoldákům v ruské armádě přidělována „inventární čísla“, která se nanášejí přímo na kůži jako dočasná tetování namísto standardních vojenských identifikačních známek.
+          - Drony zasáhly nákladní loď ANNA S plující pod liberijskou vlajkou a provozovanou řeckou společností, a to asi 20 námořních mil od Novorossijsku. Loď plula pro náklad ruského obilí.
+          - Ghana vyzvala Moskvu, aby přestala verbovat její občany do války. Podle ministra zahraničí Ablakwy zahynulo na Ukrajině nejméně 62 Ghaňanů a dalších patnáct je nezvěstných.
+          - Rusko a Myanmar podepsaly prohlášení o boji proti sankcím. Osa zla tak vedle Íránu, Severní Koreje a Číny získala nového spojence: brutální myanmarskou vojenskou juntu.
+          - Soud ve Stuttgartu odsoudil občana Ukrajiny za účast na žhářském spiknutí na rok a tři měsíce vězení. Spiknutí měla organizovat ruská rozvědka. 
+          - Ukrajina znovu získala kontrolu nad obcí Andrijivka-Klevtseve v Doněcké oblasti. Během operace bylo zajato okolo 30 ruských vojáků.
+          - SBU zadržela na Charkovsku muže podezřelého ze špionáže pro Rusko, který v Izjumu zaregistroval 27 terminálů Starlink.
+          - Do Ruska míří na tour rapper Kanye West, který o sobě tvrdí, že je nacista, a vydal song nazvaný po nacistickém pozdravu. 
+          - Ruský útok dronem zasáhl distribuční centrum společnosti EVA, jedné z největších ukrajinských sítí drogerií.
+          - PepsiCo, které slíbilo odchod z Ruska, loni odvedlo ruskému státu na daních 237 milionů dolarů.
+          - Ruský dron zabil zemědělského dělníka, když opravoval kombajn na poli u Záporoží.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/995382212054870042)
+          - [Drony…](https://pixelfed.cz/p/dnesnaukrajine/995380830847395828)
+          - [Palivová krize v Rusku pokračuje](https://pixelfed.cz/p/dnesnaukrajine/995380868973389813)
+          - [Andrijivka](https://pixelfed.cz/p/dnesnaukrajine/995380962204403708)
+          - [Ve Finsku vybuchlo cosi v továrně u ruských hranic](https://pixelfed.cz/p/dnesnaukrajine/995380977794324477)
+          - [Koledino](https://pixelfed.cz/p/dnesnaukrajine/995381439001794571)
       - title: "Pondělí"
         year: "17. srpna 2026" 
         sort: "2026-08-17" 
