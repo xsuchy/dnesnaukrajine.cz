@@ -23,6 +23,91 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Wednesday
+    year: August 19, 2026
+    sort: '2026-08-19'
+    image: assets/img/timeline/2026-08-19.jpg
+    podcast: 2026-08-19.mp3
+    desc: "Ukrainian drones once again flew deep into Russian territory overnight.\
+      \ In Ufa, Bashkortostan—more than a thousand kilometers from the Ukrainian border—a\
+      \ drone struck one of the Bashneft Group’s refineries, causing a fire to break\
+      \ out on the premises. Ufa’s northern industrial zone, with an annual production\
+      \ of 23.5 million metric tons of crude oil, is one of the largest refining complexes\
+      \ in Russia, and this was the third time in August alone that Ukrainian drones\
+      \ struck it. The second target of the night was Dzerzhinsk in the Nizhny Novgorod\
+      \ region: according to the independent Russian portal ASTRA and preliminary\
+      \ OSINT analysis, the drones targeted the Sverdlov plant, one of Russia’s largest\
+      \ manufacturers of explosives and a key enterprise in the military-chemical\
+      \ industry that has been in operation for over a century. Residents also reported\
+      \ explosions from Novomoskovsk in the Tula region. The Russian Ministry of Defense\
+      \ claims that between Tuesday night and Wednesday morning, it shot down 453\
+      \ Ukrainian drones over Russia and occupied Crimea. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Z3vRi8YESEP4mFtfbkhXUwCAShjjen1DRWhxHB4hKEussVCp9h7rDzq8jrhTvrjml)\
+      \ also happened: \n"
+    detail: "- The Ukrainian National Anti-Corruption Bureau (NABU) announced that\
+      \ it is conducting a “special operation to uncover a criminal organization led\
+      \ by a current and former member of parliament, in which high-ranking officials\
+      \ from the Office of the President are involved.” According to a source in law\
+      \ enforcement, searches were conducted at the homes of Iryna Mudra, deputy head\
+      \ of the Office of the President responsible for the judiciary and judicial\
+      \ reform, and MP Vadym Stolar. Until it was banned in 2022, Stolar served as\
+      \ a member of the pro-Russian Opposition Platform—For Life; today he is a member\
+      \ of the Renewal of Ukraine group, an offshoot of that same party. Investigators\
+      \ link him to a number of controversial construction projects in Kyiv and financial\
+      \ fraud.\n- In Kherson, a Russian FPV drone struck a minibus in the Korabelny\
+      \ district around 8:50 a.m. Four people were killed, and five injured women\
+      \ were taken to the hospital. Over the past day, Russian attacks in Ukraine\
+      \ have killed at least 17 people and injured 54. Overnight, Russia launched\
+      \ two Iskander-M ballistic missiles and 65 drones; air defenses shot down 56\
+      \ drones and two Banderol missiles, with strikes reported in ten locations.\n\
+      - Russia and Ukraine exchanged prisoners at a ratio of 103 to 103. Among those\
+      \ who returned home were soldiers from the armed forces, the border guard service,\
+      \ and the National Guard, including defenders of Mariupol. The released Russians\
+      \ are currently in Belarus; the exchange was brokered by the United Arab Emirates.\
+      \ Most of the released Ukrainians are wounded or seriously ill. \n- In Zhytomyr,\
+      \ “Banderol” drones struck the building housing the regional headquarters of\
+      \ the National Police. After the airstrike, the roof and the fourth floor were\
+      \ on fire; two police officers were killed and at least twenty people were injured.\
+      \ According to acting police chief Maksym Cuckiridze, Russia is deliberately\
+      \ targeting the very people who ensure the safety of others every day.\n- The\
+      \ Verkhovna Rada confirmed Yevhen Khmara as defense minister with 312 votes\
+      \ and reappointed Andriy Sybiga as foreign minister. Mykhailo Fedorov will not\
+      \ return to the government; the day before, he had called for elections during\
+      \ the war, stating that Putin should not decide when Ukrainians vote. \n- Croatia\
+      \ has detained a Ukrainian man whom German prosecutors are referring to as “Vladimir\
+      \ Z.” and accusing of participating in the sabotage of the Nord Stream gas pipelines.\
+      \ They describe him as a trained diver who “took part in the necessary dives.”\
+      \ He will stand trial in Germany. \n- According to NBC News, Russia is supplying\
+      \ Iran with ammunition, drone components, and TNT via the Caspian Sea; the network\
+      \ cites a document from one of the European governments. \n- The International\
+      \ Biathlon Union opposed the International Olympic Committee's plan and upheld\
+      \ the ban on Russian and Belarusian athletes competing. \n- Moldovan President\
+      \ Maia Sandu stated that Russia is deliberately sending some of its drones into\
+      \ Moldovan and NATO airspace.\n- A Russian strike on August 18 severely damaged\
+      \ equipment at one of DTEK's thermal power plants, forcing it to halt electricity\
+      \ production.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/995772513731672331)
+
+      - [Minibus in Kherson](https://pixelfed.cz/p/dnesnaukrajine/995770186875066578)
+
+      - [Ufa](https://pixelfed.cz/p/dnesnaukrajine/995770210121054419)
+
+      - [Minus the ammunition depot](https://pixelfed.cz/p/dnesnaukrajine/995770242695792852)
+
+      - [Minus Shahed](https://pixelfed.cz/p/dnesnaukrajine/995770292912863447)
+
+      - [The Highway to Mariupol](https://pixelfed.cz/p/dnesnaukrajine/995770318550358232)
+
+      - [9 Years in Captivity](https://pixelfed.cz/p/dnesnaukrajine/995770341788383449)
+
+      - [He could have given up…](https://pixelfed.cz/p/dnesnaukrajine/995770364625017050)
+
+      - [Shaheds with reduced current](https://pixelfed.cz/p/dnesnaukrajine/995770381675452635)
+
+      - [Minus the rockets](https://pixelfed.cz/p/dnesnaukrajine/995770417739684060)
+
+      - [Minus Rus](https://pixelfed.cz/p/dnesnaukrajine/995770442970855649)
+
+      '
   - title: Tuesday
     year: August 18, 2026
     sort: '2026-08-18'

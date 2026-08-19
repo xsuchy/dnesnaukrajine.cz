@@ -38,6 +38,36 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "19. srpna 2026" 
+        sort: "2026-08-19" 
+        image: assets/img/timeline/2026-08-19.jpg
+        podcast: "2026-08-19.mp3" 
+        desc: |
+          Ukrajinské drony v noci znovu letěly hluboko do ruského týlu. V Ufě v Baškortostánu, přes tisíc kilometrů od ukrajinských hranic, zasáhl dron jednu z rafinerií koncernu Bašneft a v areálu vypukl požár. Severní průmyslová zóna Ufy s produkcí 23,5 milionu tun ropy ročně, patří k největším rafinérským komplexům v Rusku a jen v srpnu ho ukrajinské drony zasáhly už potřetí. Druhým cílem noci byl Dzeržinsk v Nižněnovgorodské oblasti: podle ruského nezávislého portálu ASTRA a předběžné OSINT analýzy mířily drony na závod Sverdlov, jeden z největších ruských výrobců trhavin a klíčový podnik vojensko-chemického průmyslu, který funguje více než sto let. Výbuchy hlásili obyvatelé i z Novomoskovsku v Tulské oblasti. Ruské ministerstvo obrany tvrdí, že mezi úterní nocí a středečním ránem zneškodnilo 453 ukrajinských dronů nad Ruskem a okupovaným Krymem. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Z3vRi8YESEP4mFtfbkhXUwCAShjjen1DRWhxHB4hKEussVCp9h7rDzq8jrhTvrjml): 
+        detail: |
+          - Ukrajinský Národní antikorupční úřad NABU oznámil, že vede „speciální operaci k odhalení zločinecké organizace vedené současným a bývalým poslancem, do níž jsou zapojeni vysocí představitelé Kanceláře prezidenta“. Podle zdroje z orgánů činných v trestním řízení probíhaly prohlídky u Iryny Mudré, zástupkyně vedoucího Kanceláře prezidenta odpovědné za soudnictví a soudní reformu, a u poslance Vadyma Stolara. Ten až do zákazu v roce 2022 zasedal za proruskou Opoziční platformu Pro život, dnes je ve skupině Obnova Ukrajiny, což je odnož téže strany. Investigativci ho spojují s řadou kontroverzních stavebních projektů v Kyjevě a finančními podvody.
+          - V Chersonu zasáhl ruský FPV dron kolem 8:50 ráno mikrobus ve čtvrti Korabelnyj. Čtyři lidé zahynuli a pět zraněných žen skončilo v nemocnici. Za poslední den zabily ruské útoky na Ukrajině nejméně 17 lidí a 54 jich zranily. V noci Rusko odpálilo dvě balistické rakety Iskander-M a 65 dronů, protivzdušná obrana sestřelila 56 dronů a dvě střely Banderol, zásahy jsou hlášené z deseti míst.
+          - Rusko a Ukrajina si vyměnily zajatce v poměru 103 za 103. Domů se vrátili mimo jiné vojáci ozbrojených sil, pohraniční služby a Národní gardy, mezi nimi obránci Mariupolu. Propuštění Rusové jsou zatím v Bělorusku, výměnu zprostředkovaly Spojené arabské emiráty. Většina z propuštěných Ukrajinců je raněná nebo vážně nemocná. 
+          - V Žytomyru zasáhly drony Banderol budovu krajského ředitelství Národní policie. Po náletu hořela střecha a čtvrté patro, dva policisté zahynuli a nejméně dvacet lidí bylo zraněno. Podle úřadujícího šéfa policie Maksyma Cuckiridzeho Rusko cíleně útočí na lidi, kteří každý den zajišťují bezpečnost ostatních.
+          - Verchovna rada potvrdila Jevhena Chmaru ve funkci ministra obrany 312 hlasy a znovu jmenovala Andrije Sybihu ministrem zahraničí. Mychajlo Fedorov se do vlády nevrací a den předtím vyzval k volbám v době války s tím, že o termínu hlasování Ukrajinců nemá rozhodovat Putin. 
+          - Chorvatsko zadrželo Ukrajince, kterého německá prokuratura vede pod jménem „Vladimir Z.“ a viní ho z účasti na sabotáži plynovodů Nord Stream. Popisuje ho jako vycvičeného potápěče, který „se zúčastnil potřebných ponorů“. Souzen bude v Německu. 
+          - Podle NBC News dodává Rusko Íránu munici, komponenty pro drony a TNT přes Kaspické moře; stanice se odvolává na dokument jedné z evropských vlád. 
+          - Mezinárodní biatlonová unie se postavila proti záměru Mezinárodního olympijského výboru a ponechala v platnosti zákaz startů pro Rusy a Bělorusy. 
+          - Moldavská prezidentka Maia Sanduová prohlásila, že Rusko část svých dronů posílá do moldavského a natovského vzdušného prostoru záměrně.
+          - Ruský úder z 18. srpna těžce poškodil zařízení jedné z tepelných elektráren společnosti DTEK a provoz musel zastavit výrobu elektřiny.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/995772513731672331)
+          - [Minibus v Chersonu](https://pixelfed.cz/p/dnesnaukrajine/995770186875066578)
+          - [Ufa](https://pixelfed.cz/p/dnesnaukrajine/995770210121054419)
+          - [Mínus muničák](https://pixelfed.cz/p/dnesnaukrajine/995770242695792852)
+          - [Mínus Shahed](https://pixelfed.cz/p/dnesnaukrajine/995770292912863447)
+          - [Dálnice do Mariupolu](https://pixelfed.cz/p/dnesnaukrajine/995770318550358232)
+          - [9 let v zajetí](https://pixelfed.cz/p/dnesnaukrajine/995770341788383449)
+          - [Mohl se vzdát…](https://pixelfed.cz/p/dnesnaukrajine/995770364625017050)
+          - [Mínus proudové Shahedy](https://pixelfed.cz/p/dnesnaukrajine/995770381675452635)
+          - [Mínus rakety](https://pixelfed.cz/p/dnesnaukrajine/995770417739684060)
+          - [Mínus Rus](https://pixelfed.cz/p/dnesnaukrajine/995770442970855649)
       - title: "Úterý"
         year: "18. srpna 2026" 
         sort: "2026-08-18" 
