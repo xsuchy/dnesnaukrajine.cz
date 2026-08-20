@@ -38,6 +38,35 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "20. srpna 2026" 
+        sort: "2026-08-20" 
+        image: assets/img/timeline/2026-08-20.jpg
+        podcast: "2026-08-20.mp3" 
+        desc: |
+          Rusko krátce po půlnoci zahájilo několikahodinový kombinovaný útok na Kyjev. Na město letěla balistika, střely Kalibr odpálené od Novorossijsku, hypersonické Cirkony z Kurské oblasti a proudové drony. Ukrajinské letectvo hlásí za noc 46 řízených střel různých typů a 168 dronů plus neupřesněný počet balistických raket. Počty balistiky letectvo od začátku srpna nezveřejňuje, protože Ukrajině prakticky došly antirakety pro systémy Patriot, což bylo to jediné, co balistiku umí sestřelit. Zneškodněno bylo 41 střel a 145 dronů, zásahy jsou hlášeny z 28 míst. Hlavním cílem útoku byla Kyjevská oblast. Podle zatím posledních čísel zemřelo v hlavním městě nejméně patnáct lidí a přes třicet skončilo v péči lékařů, bilance se v průběhu dne dál zvyšuje. V Solomjanském okrese vyhořela po náletu horní patra devítipodlažního domu a jen tam přišlo o život sedm lidí. Poškozena je dále budova dětské nemocnice, škola, sklady a nebytové objekty v Darnyckém, Svjatošynském a Ševčenkivském okrese. Bez proudu zůstalo asi 90 tisíc kyjevských domácností, DTEK dopoledne obnovil dodávky víc než polovině z nich. V Boryspilu zasáhli Rusové sklad potravin a areál Červeného kříže. Zelenskyj doplnil, že Rusové zasáhli také plynárenskou infrastrukturu na Černihivsku a hraniční přechod do Moldavska v Oděské oblasti. Ruské ministerstvo obrany naopak už tradičně mluví o „masivním úderu vysoce přesnými zbraněmi" na obranný a energetický průmysl, sklad munice a logistický uzel. Za posledních čtyřiadvacet hodin si ruské útoky na celé Ukrajině vyžádaly podle krajských vojenských správ 23 mrtvých a 132 zraněných. Starosta Kyjeva Vitalij Kličko vyhlásil na pátek den smutku. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Pv9HizKWuvkeWv2oQ5nN5yaregUU7LXUZtQWcqGVHA33V9kkSDHiG8jqFzYnrq6Rl): 
+        detail: |
+          - Ukrajinské drony v noci zasáhly rafinerii Taneco v Nižněkamsku v Tatarstánu a ropný terminál Tamanněftěgaz v Krasnodarském kraji. Taneco patří koncernu Tatněfť, je to jedna z nejmodernějších ruských rafinerií se zpracováním přes 17 milionů tun ropy ročně a leží zhruba 1 200 kilometrů od Ukrajiny. Zasažena byla naposledy 10. srpna. Požár na tamanském terminálu, který je jedním z klíčových ruských exportních uzlů u Černého moře, zachytil satelitní monitoring NASA FIRMS. Podle ruských telegramových kanálů byla terčem i rozvodna Taman o napětí 500 kV, která je součástí soustavy zásobující okupovaný Krym. 
+          - Ukrajinská rozvědka HUR tvrdí, že Rusko má i po pozastavení výroby stále asi padesát hypersonických raket Kinžal. Výrobu prý zastavilo proto, aby zlepšilo přesnost střely, která je de facto modifikovaný Iskander odpalovaný ze speciálně upravených stíhaček MiG-31K. Ukrajina odhaduje, že Rusko je schopno vyrobit více než 200 řízených a balistických raket měsíčně a jeho zásoby zahrnují celkem více než 600 raket typu „Oniks“, více než 450 raket typu „Kalibr“, 400 raket systému S-400, přibližně 130 raket typu „Iskander-M“, více než 120 raket typu „Zircon“ a až 100 raket typu „Kh-101“.
+          - Generální štáb uvádí, že za posledních čtyřiadvacet hodin došlo na frontě k 189 bojovým střetům. Nejtěžší boje jsou na pokrovském směru, kde Rusové podnikli 26 útoků a utrpěli při nich 33 nevratných ztrát a 15 raněných. Rusové také provedli 70 leteckých úderů, shodili 224 řízených leteckých pum, nasadili 6 564 kamikadze dronů a 2 260krát ostřelovali frontu dělostřeleckou palbou. 
+           - Rumunsko v noci vyslalo do vzduchu dvě německé stíhačky Typhoon, které monitorovaly prostor nad župou Tulcea, když ruské drony útočily na ukrajinské dunajské přístavy. Podle Reuters jeden ruský dron dopadl na rumunské území v neobydlené části župy. 
+          - Maďarsko uzavřelo vyšetřování podezření z praní špinavých peněz v souvislosti s převozem 40 milionů dolarů, 35 milionů eur a 9 kg zlata z ukrajinské státní banky, přičemž nezjistilo žádné důkazy o spáchání trestného činu.
+          - Belgie chystá s Ukrajinou „dronovou dohodu", díky které chce získat přístup k ukrajinským zkušenostem z reálného nasazení bezpilotních systémů. 
+          - Švýcarsko prodlouží Ukrajincům status dočasné ochrany až do 4. března 2028. Zároveň ale zpřísní podmínky, za kterých ho lze získat. 
+          - Ukrajinská kontrarozvědka SBU zadržela dva cizince, kteří na objednávku ruských služeb zapálili energetické zařízení v Černivcích. 
+          - Partyzáni zničili v Kurské oblasti tři ruské vojenské komunikační věže a oslabili tím ruský systém velení na kurském směru.
+          - Ombudsman Dmytro Lubinec uvádí, že od 24. února 2022 se ze zajetí vrátilo domů celkem 9 716 Ukrajinců. 
+          - V Nikopolském okrese na Dnipropetrovsku už je protidronovými sítěmi nově zakryto 45 kilometrů silnic. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/996079589602236182)
+          - [Rusové vybombardovali sámošku ve Slavjansku](https://pixelfed.cz/p/dnesnaukrajine/996078262832326402)
+          - [Boryspil](https://pixelfed.cz/p/dnesnaukrajine/996078298880915203)
+          - [Boryspil](https://pixelfed.cz/p/dnesnaukrajine/996078331503118084)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/996078363635263237)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/996078442781746952)
+          - [Neprojeli](https://pixelfed.cz/p/dnesnaukrajine/996078476357637897)
+          - [Taneco](https://pixelfed.cz/p/dnesnaukrajine/996078530645731082)
+          - [Na frontě](https://pixelfed.cz/p/dnesnaukrajine/996078571018671884)
       - title: "Středa"
         year: "19. srpna 2026" 
         sort: "2026-08-19" 
