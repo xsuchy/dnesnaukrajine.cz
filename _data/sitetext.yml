@@ -38,6 +38,32 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "21. srpna 2026" 
+        sort: "2026-08-21" 
+        image: assets/img/timeline/2026-08-21.jpg
+        podcast: "2026-08-21.mp3" 
+        desc: |
+          Ukrajinské drony v noci znovu doletěly za Ural. V Permu, zhruba 1 400 kilometrů od ukrajinských hranic, zasáhly rafinerii Lukoil-Permněftěorgsintez a nad areálem se ráno zvedl sloup kouře. Rosaviace v reakci zastavila provoz na permském letišti Bolšoje Savino. Gubernátor Machonin připustil jen to, že protivzdušná obrana sestřelila šestnáct dronů, jeden člověk je zraněn a poškozený je „průmyslový objekt". Permská rafinerie přitom patří do desítky největších ruských rafinérských provozů a je druhým největším závodem Lukoilu hned po Nižním Novgorodu. V roce 2024 zpracovala 12,6 milionu tun ropy, z toho zhruba 2 miliony tun benzinu a 5,3 milionu tun nafty, vedle toho vyrábí letecký petrolej a maziva a zásobuje domácí i zahraniční trh. Drony na ni letěly naposledy 29. července a už po jarní sérii úderů provoz několik týdnů kompletně stál. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0uaRW175ohdVu3aZfEjjQxjGteNnAvoQeU1mEVpe6fkxhYxnqeYNaiAFzRSaiJ9i7l):
+        detail: |
+          - Maďarsko uzavřelo případ Oščadbanky. Tamní daňová a celní správa NAV neodhalila žádné praní špinavých peněz a dohledala, že zabavená hotovost a zlato pocházejí z řádné smlouvy mezi rakouskou Raiffeisen Bank International a ukrajinskou státní spořitelnou. Připomeňme, co se stalo: 5. března 2026 zastavila protiteroristická jednotka TEK u Budapešti dvě obrněné dodávky, které vezly z Vídně do Kyjeva 40 milionů dolarů, 35 milionů eur a devět kilogramů zlata. Sedm zaměstnanců banky drželi 28 hodin v poutech bez advokáta a bez konzulárního přístupu, pak je deportovali a uvalili na ně tříleté zákazy vstupu do Schengenu, aniž by kohokoli z nich obvinili. Orbánova vláda tehdy bez důkazů tvrdila, že peníze měly financovat tehdejší opozici Petera Magyara. Teď naopak běží vyšetřování nezákonného zadržení kurýrů, v němž je podezřelým bývalý šéf TEK János Hajdu, a Magyarova vláda spustila interní audit zapojených úřadů. Uniklý dokument obžaloby zmiňuje mezi těmi, kdo o operaci rozhodovali, i samotného Orbána. 
+          - Zelenskyj podepsal čtyři sankční dekrety. První míří na ruský vojensko-průmyslový komplex a omezuje 28 ruských občanů, 36 ruských firem a jednu čínskou společnost, které se podílejí na obcházení sankcí, dodávkách přesných obráběcích strojů a nástrojů, vývoji dronů, opravách vojenské techniky nebo psaní softwaru pro ruskou armádu. Druhý cílí na pět firem vlastněných hliníkovým gigantem Rusal a devět s nimi spojených osob kvůli dovozu oxidu hlinitého a dalších surovin pro výrobu raket, dělostřelectva a letadel. Třetí postihuje 45 lidí a osm subjektů, mezi nimi bývalého poslance za Stranu regionů Jurije Ivanjuščenka, kterého vyšetřovatelé spojují s únosy a bitím aktivistů během Majdanu a jehož firmy dnes působí na okupovaném Krymu. Čtvrtý dekret je unikátní: sankce dostalo pět lidí a čtyři organizace kolem ruského animáku Máša a medvěd, včetně scenáristy, režiséra, producenta a studia Animaccord i jeho zakladatele, kteří „šíří proruské narativy maskované jako dětský obsah".
+          - Rusko v noci vyslalo na Ukrajinu 135 dronů. V Sumách zasáhly obytnou zástavbu a civilní infrastrukturu v Kovpakivské čtvrti, zranění utrpělo šest lidí včetně šestnáctileté dívky a hořel mimo jiné dvoupatrový obytný dům. Práci záchranářů komplikovala hrozba dalších úderů. V Charkovské oblasti dopadly drony na obec Lebjaže v Čuhujivském rajonu, kde zničily a poškodily několik rodinných domů a založily požár o rozloze zhruba 400 metrů čtverečních. Hasiči vytáhli z trosek těla dvou žen, další dva lidé jsou zraněni.
+          - V Kyjevě se v pondělí 24. srpna, tedy na Den nezávislosti, sejde Koalice ochotných. Bude to už potřetí, co se skupina více než třiceti zemí, kterou v březnu 2025 založily Francie a Británie, schází přímo v ukrajinské metropoli. Osobně mají dorazit předseda Evropské rady António Costa, finský prezident Alexander Stubb a lucemburský premiér Luc Frieden, většina účastníků se připojí online. 
+          - Během návštěvy Min Aung Hlainga v Moskvě slíbil Putin myanmarské juntě, že v zemi vybuduje ruské podniky. Nyní se podle agentury Reuters na jihu Myanmaru připravuje pozemek pro speciální ekonomickou zónu podporovanou Ruskem. Stovky vojáků vyhánějí obyvatele z jejich domovů, vypalují vesnice a uzavírají okolní oblasti.
+          - Vojenský výbor NATO přijede v říjnu na Ukrajinu, naposledy tam byl před osmi lety. Drapatyj zdůraznil, že jeho hlavní starostí zůstává protivzdušná obrana. Podle jeho slov Ukrajina podporu nejen dostává, ale zároveň předává bojové zkušenosti, které dnes nemá nikdo jiný.
+          - Ukrajinský velvyslanec v Polsku Vasyl Bodnar upozornil, že Kyjev nedostal ani jedno povolení k vyhledávání a exhumaci ukrajinských obětí druhé světové války na polském území, přestože polským týmům pátrání na Ukrajině schvaluje.
+          - Slovinská prezidentka Nataša Pirc Musarová je vyšetřována kvůli údajným vazbám na ruské tajné služby. Vládní strana požaduje, aby prezidentce byl odepřen přístup k utajovaným zpravodajským briefingům.
+          - Ruský velvyslanec při OSN Vasilij Nebenzja prohlásil, že Rusko v tuto chvíli neplánuje masovou mobilizaci. Zároveň ale odmítl vyloučit, že k ní dojde po zářijových volbách do Státní dumy.
+          - Australská policie obvinila sedmadvacetiletého muže z pokusu předat ruské rozvědce informace o ukrajinské armádě. Pokud bude uznán vinným, hrozí mu až dvacet let vězení.
+          - Finsko podezírá ruské letadlo z narušení svého vzdušného prostoru a žádá vysvětlení. Obecně přibývá ruských vojenských letů podél východní hranice NATO.
+          - Letadlo s deseti lidmi na palubě se zřítilo na ostrově Sachalin na ruském Dálném východě.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/996382959564833745)
+          - [Perm](https://pixelfed.cz/p/dnesnaukrajine/996381810184532924)
+          - [Mínus náklad pro S-300](https://pixelfed.cz/p/dnesnaukrajine/996381839767966653)
+          - [Slušná díra](https://pixelfed.cz/p/dnesnaukrajine/996381899592315838)
+          - [Mínus ruský vlak](https://pixelfed.cz/p/dnesnaukrajine/996381928805356479)
       - title: "Čtvrtek"
         year: "20. srpna 2026" 
         sort: "2026-08-20" 
