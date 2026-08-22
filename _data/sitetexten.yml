@@ -23,6 +23,91 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Saturday
+    year: August 22, 2026
+    sort: '2026-08-22'
+    image: assets/img/timeline/2026-08-22.jpg
+    podcast: 2026-08-22.mp3
+    desc: 'Ukrainian drones struck the Samara Region overnight and, for the first
+      time ever, also targeted the Ozon company. In Novokuybyshevsk, a Rosneft refinery
+      with a design capacity of approximately 8.8 million metric tons of crude oil
+      per year was on fire; this ranks it among the ten largest Russian refineries.
+      It produces over twenty types of products, including automotive and aviation
+      fuel, diesel, and lubricants, and, according to the General Staff, supplies
+      the Russian military. The second target was Ozon’s 75,000-square-meter facility,
+      which has been in operation since 2022 and is one of the largest logistics hubs
+      in its network. The company confirmed the fire and the evacuation of more than
+      500 employees. Ozon is the main competitor of Wildberries. Together, the two
+      platforms account for 77% of all orders on Russian e-commerce sites and more
+      than half of the country’s total online retail sales. The affected locations
+      are roughly 900 kilometers from the front lines. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid01T3usge8ZQnmyTGvSNNPYokV5P5cPsCMzRvYmzPnsKWazRaVm4gxZzmgr2UWuUHKl)
+      also happened:
+
+      '
+    detail: "- Since Friday evening, Russia has launched 217 drones at Ukraine, along\
+      \ with Iskander-M and S-400 ballistic missiles, three Kh-31P/Kh-59 air-to-surface\
+      \ missiles, and several “Bandera” drones. Among the drones were over fifty jet-powered\
+      \ Shaheds, with the rest consisting of Gerbera and Parodija decoys. By 9:00\
+      \ a.m., air defenses had shot down or neutralized 182 drones, three air-to-ground\
+      \ missiles, and six “Banderole” drones; strikes were reported from 41 locations,\
+      \ and debris was found at twelve sites. The main targets were the Kyiv and Odesa\
+      \ regions.\n- The Russians bombed the largest shopping center in Kryvyi Rih.\
+      \ The death toll has risen to 16, with 130 injured, including 23 children. Twenty-nine\
+      \ people are in serious condition, including five children, and several others\
+      \ are missing. The Russians attacked in two waves; the second strike came about\
+      \ half an hour after the first, when rescue workers were already on the scene.\
+      \ The fire engulfed one-third of the shopping center, and firefighting efforts\
+      \ were complicated by the constant threat of further strikes. \n- Ukrainian\
+      \ intelligence reports that North Korea has sent another 8,500 troops to Russia,\
+      \ including drone operators. In addition, according to available data, interest\
+      \ in emigration has doubled in Russia, a trend linked to fears of a new wave\
+      \ of mobilization.\n- In Kyiv, a missile struck a railway facility in the Darnytskyi\
+      \ district. A foreman at the state-owned company Ukrzaliznytsia was killed;\
+      \ the rest of the shift managed to evacuate. The Russians also targeted the\
+      \ Odessa railway network and damaged the Rozdilna station building.\n- The General\
+      \ Staff confirmed that a Russian Su-34 bomber was damaged in the strike on the\
+      \ Akhtubinsk airfield in the Astrakhan Region. The base is home to the 929th\
+      \ State Aviation Test Center.\n- Keith Kellogg, the former special envoy for\
+      \ Ukraine, visited Odessa, where he was shown the damage to the port infrastructure\
+      \ caused by Russian attacks.\n- According to local residents, more than fifteen\
+      \ explosions were heard in occupied Crimea within twenty minutes, followed by\
+      \ power outages.\n- The ATESH guerrilla movement reports the destruction of\
+      \ a major logistics hub in the village of Chystenke near Simferopol in occupied\
+      \ Crimea.\n- Zelenskyy appointed eleven judges to the High Anti-Corruption Court\
+      \ and five additional judges to its appeals chamber.\n- Ukrainian border guards\
+      \ captured nearly forty Russian soldiers in a single month in their sector in\
+      \ the Kharkiv region.\n- In Lviv, a member of a recruitment center was stabbed\
+      \ to death while on duty; a 25-year-old man has been taken into custody.\n-\
+      \ Germany is considering closing the \"Russian House\" in Berlin due to growing\
+      \ hybrid threats.\n- Four people, including three children, were killed during\
+      \ a Russian attack on the village grocery store in Tokarivka.\n- Igor Laptev,\
+      \ an 83-year-old retired FSB major general, was found dead in his apartment.\n\
+      - A Russian Il-20 aircraft flew 8.7 km deep into Finnish territory south of\
+      \ Utö Island. \n- In Zaporizhzhia, a Russian drone struck a minibus, seriously\
+      \ injuring several people.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/996748512725230717)
+
+      - [A Double Blow to Kryvyi Rih](https://pixelfed.cz/p/dnesnaukrajine/996747257277355116)
+
+      - [Kryvyi Rih](https://pixelfed.cz/p/dnesnaukrajine/996747274034189421)
+
+      - [Ozone](https://pixelfed.cz/p/dnesnaukrajine/996747293354124398)
+
+      - [The Raid on Ozon](https://pixelfed.cz/p/dnesnaukrajine/996747313965605999)
+
+      - [Minus the refinery](https://pixelfed.cz/p/dnesnaukrajine/996747358654882928)
+
+      - [Drone Strike on a Minibus](https://pixelfed.cz/p/dnesnaukrajine/996747374537507953)
+
+      - [A Russian drone malfunctioned](https://pixelfed.cz/p/dnesnaukrajine/996747408371303538)
+
+      - [Minus a tulip](https://pixelfed.cz/p/dnesnaukrajine/996747432983450739)
+
+      - [You''ve gotta have some fun](https://pixelfed.cz/p/dnesnaukrajine/996747467336488052)
+
+      - [A Russian Soldier on the Situation at the Front](https://pixelfed.cz/p/dnesnaukrajine/996747501921830006)
+
+      '
   - title: Friday
     year: August 21, 2026
     sort: '2026-08-21'

@@ -38,6 +38,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "22. srpna 2026" 
+        sort: "2026-08-22" 
+        image: assets/img/timeline/2026-08-22.jpg
+        podcast: "2026-08-22.mp3"
+        desc: |
+          Ukrajinské drony v noci zasáhly Samarskou oblast a vůbec poprvé si vybraly za cíl také společnost Ozon. V Novokujbyševsku hořela rafinerie koncernu Rosněfť s projektovou kapacitou zhruba 8,8 milionu tun ropy ročně, což ji řadí do desítky největších ruských rafinérských provozů. Vyrábí přes dvacet druhů produktů včetně automobilového a leteckého paliva, nafty a maziv a podle Generálního štábu plní potřeby ruské armády. Druhým cílem byl areál firmy Ozon o rozloze 75 000 metrů čtverečních, který funguje od roku 2022 a patří k největším logistickým uzlům v její síti. Firma potvrdila požár a evakuaci více než pěti set zaměstnanců. Ozon je hlavním konkurentem firmy Wildberries. Obě platformy dohromady drží 77 % všech objednávek na ruských e-shopech a přes polovinu celého online maloobchodu v zemi. Zasažené lokality leží zhruba 900 kilometrů od fronty. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid01T3usge8ZQnmyTGvSNNPYokV5P5cPsCMzRvYmzPnsKWazRaVm4gxZzmgr2UWuUHKl):
+        detail: |
+          - Od pátečního večera vypustilo Rusko na Ukrajinu 217 dronů, k tomu balistické rakety Iskander-M a S-400, tři letecké střely Ch-31P/Ch-59 a několik „Banderolů“. Mezi drony bylo přes padesát proudových Shahedů, zbytek doplnily návnady Gerbera a Parodija. Protivzdušná obrana do devíti hodin ráno sestřelila nebo potlačila 182 dronů, tři letecké střely a šest Banderolů, zásahy jsou hlášeny ze 41 míst a pád trosek z dvanácti. Hlavním terčem byla Kyjevská a Oděská oblast.
+          - Rusové vybombardovali největší nákupní centrum v Kryvém Rihu. Bilance obětí vzrostla na šestnáct mrtvých a 130 zraněných, mezi nimi 23 dětí. Devětadvacet lidí je v těžkém stavu včetně pěti dětí a několik dalších se pohřešuje. Rusové útočili ve dvou vlnách, druhý úder přišel asi půl hodiny po prvním, kdy už na místě pracovali záchranáři. Požár zachvátil třetinu plochy nákupního centra a hašení komplikovala neustálá hrozba dalších úderů. 
+          - Ukrajinská rozvědka hlásí, že Severní Korea poslala do Ruska dalších 8 500 vojáků, mezi nimi operátory bezpilotních prostředků. Kromě toho se v Rusku podle dostupných dat zdvojnásobil zájem o emigraci, což se spojuje s obavami z nové vlny mobilizace.
+          - V Kyjevě zasáhla balistika železniční podnik v Darnyckém okrese. Zahynul mistr státního podniku Ukrzaliznycja, zbytek směny se stihl evakuovat. Rusové mířili také na oděskou železniční síť a poškodili budovu stanice Rozdilna.
+          - Generální štáb potvrdil, že úder na letiště Achtubinsk v Astrachaňské oblasti poškodil ruský bombardér Su-34. Základna hostí 929. státní letecké zkušební středisko.
+          - Bývalý zvláštní vyslanec pro Ukrajinu Keith Kellogg navštívil Oděsu, kde mu ukázali škody na přístavní infrastruktuře po ruských útocích.
+          - Na okupovaném Krymu zaznělo podle místních během dvaceti minut přes patnáct výbuchů, na což navázaly výpadky proudu.
+          - Partyzánské hnutí ATESH hlásí zničení velkého logistického uzlu ve vsi Čystenke u Simferopolu na okupovaném Krymu.
+          - Zelenskyj jmenoval jedenáct soudců Vrchního antikorupčního soudu a dalších pět soudců jeho odvolací komory.
+          - Ukrajinští pohraničníci zajali za měsíc ve svém úseku na Charkovsku bezmála čtyřicet ruských vojáků.
+          - Ve Lvově byl při výkonu služby ubodán příslušník náborového střediska, zadržen je pětadvacetiletý muž.
+          - Německo zvažuje uzavření berlínského „Ruského domu“ kvůli sílícím hybridním hrozbám.
+          - Při ruském úderu na obecní konzum v Tokarivce zahynuli čtyři lidé, z toho tři děti.
+          - 83letý generálmajor FSB ve výslužbě Igor Laptev byl nalezen mrtvý ve svém bytě.
+          - Ruský letoun Il-20 vletěl 8,7 km hluboko nad finské území jižně od ostrova Utö. 
+          - V Záporoží zasáhl ruský dron mikrobus a několik lidí vážně zranil.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/996748512725230717)
+          - [Dvojitý úder na Kryvyj Rih](https://pixelfed.cz/p/dnesnaukrajine/996747257277355116)
+          - [Kryvyj Rih](https://pixelfed.cz/p/dnesnaukrajine/996747274034189421)
+          - [Ozon](https://pixelfed.cz/p/dnesnaukrajine/996747293354124398)
+          - [Nálet na Ozon](https://pixelfed.cz/p/dnesnaukrajine/996747313965605999)
+          - [Mínus rafinérie](https://pixelfed.cz/p/dnesnaukrajine/996747358654882928)
+          - [Úder dronu na minibus](https://pixelfed.cz/p/dnesnaukrajine/996747374537507953)
+          - [Ruský dron selhal](https://pixelfed.cz/p/dnesnaukrajine/996747408371303538)
+          - [Mínus tulipán](https://pixelfed.cz/p/dnesnaukrajine/996747432983450739)
+          - [Sranda musí být](https://pixelfed.cz/p/dnesnaukrajine/996747467336488052)
+          - [Ruský voják o situaci na frontě](https://pixelfed.cz/p/dnesnaukrajine/996747501921830006)
       - title: "Pátek"
         year: "21. srpna 2026" 
         sort: "2026-08-21" 
