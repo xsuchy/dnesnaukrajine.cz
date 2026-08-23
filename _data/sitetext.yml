@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "23. srpna 2026" 
+        sort: "2026-08-23" 
+        image: assets/img/timeline/2026-08-23.jpg
+        podcast: "2026-08-23.mp3"
+        desc: |
+          Ukrajinské drony v noci znovu mířily na ruský e-commerce. V Orenburgu, zhruba tisíc kilometrů od ukrajinských hranic, zaútočily na zvláštní ekonomickou zónu Orenburžje a zapálily logistické centrum firmy Ozon. Vedení evakuovalo přes tři sta zaměstnanců, zastavilo výdej ze skladu a zboží stáhlo z nabídky marketplace. Areál Ozon otevřel v srpnu 2024, první etapa má 40 tisíc metrů čtverečních a stála přes 4 miliardy rublů (43 milionů dolarů), po plánovaném rozšíření měl sklad pojmout přes 31 milionů kusů zboží a odbavit až 915 tisíc objednávek denně. Jde o druhý zásah Ozonu ve dvou nocích: den předtím hořelo jeho centrum o rozloze 75 tisíc metrů čtverečních v Samarské oblasti. Ozon stejně jako Wildberries dodává nejrůznější zboží také ruské armádě a systematické zásahy skladů zboží dvojího užití tak komplikují Rusům operace a zároveň poškozují ruskou ekonomiku. V noci ale hořelo také v Kolpinu u Petrohradu, kde v průmyslovém areálu vzplál sklad firmy Logistera o rozloze 82 tisíc metrů čtverečních. Poplach v Leningradské oblasti vyhlášený nebyl a výbuchy nikdo neslyšel, ale hořící hala stojí zhruba 350 metrů od dalšího skladu Ozonu. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid028bHUFejL7TU8mVGeyp1BYDNs4xP93fnZhP3FBcAEFgeCSSuN1LQ4qHprQER5Ywkel): 
+        detail: |
+          - Rusko podle Zelenského plánuje po zářijových volbách do Státní dumy mobilizovat asi 300 tisíc lidí, ale tak, aby se to nedotklo velkých měst. Nově mobilizovaní mají doplnit stávající nábor a posílit buď hlavní ruský tlak na pevnostní pás v Doněcké oblasti, nebo otevřít nové hrozby jinde včetně severní hranice Ukrajiny. Zelenský nevyloučil ani útok z Brjanské oblasti směrem na Černihiv a Kyjev, ruské jednotky tam podle něj momentálně nejsou, ukrajinská rozvědka ale sleduje techniku rozmístěnou u hranice. Od začátku invaze sáhlo Rusko k nucené mobilizaci jen jednou, na podzim 2022, a Putin se od té doby snaží spoléhat na náborové bonusy a kvóty pro regiony. Partyzánské hnutí ATESH potvrzuje, že na ruských vojenských cvičištích probíhají přípravy na novou vlnu mobilizace. 
+          - Rusko v noci vypustilo na Ukrajinu 127 dronů typu Shahed. Protivzdušná obrana zneškodnila 97 z nich, 27 dronů zasáhlo 22 míst a trosky spadly na dalších třech. V Oděské oblasti zasáhl proudový dron lokomotivu osobního vlaku číslo 147 z Žytomyru do Oděsy. Ve vlaku bylo 593 cestujících včetně patnácti dětí, vlak ale včas nouzově zastavil a nikdo tak nezahynul. V Charkově zapálil dron rodinný dům a zraněno je osm lidí včetně patnáctiletého chlapce, v Lozové na Charkovsku hořela po zásahu pošta na ploše 350 metrů čtverečních. Za poslední den zabily ruské útoky na Ukrajině nejméně pět lidí a čtyřiačtyřicet zranily. 
+          - Zelenskyj na briefingu pro novináře řekl, že Ukrajina má společně s partnery ze Spojených států a Evropy hotový plán na ukončení války. Podle prezidenta jde o myšlenky, které sdílejí Američané i Evropané a které vzešly z rozhovorů mezi Američany, Ukrajinci a Rusy. Zároveň ale popsal, kde jednání drhne: absolutním požadavkem Moskvy zůstává stažení ukrajinských sil z východu. Jediná bezpečnostní záruka, která podle Zelenského dává smysl, je členství v NATO, protože na alianci zatím nikdo v plném rozsahu nezaútočil. O Witkoffovi a Kushnerovi řekl, že „velmi chtějí přinést prezidentu Trumpovi vítězství". 
+          - Zelenskyj chce získat 300 raket pro systémy Patriot. S Merzem se domluvil na 600 raketách PAC-2 do konce roku 2028, s Macronem po skoro dvouhodinovém hovoru na nových radarech a systému SAMP/T už letos na podzim. U SAMP/T je problém nedostatek střel Aster 30, kontrakty na jejich výrobu se mají podepsat v září. Projekt antibalistické střely Freyja přešel do technické fáze a s Raytheonem se řeší ukrajinská raketa pro Patriot, kterou by vyráběla firma Fire Point. 
+          - Do Kyjeva dorazili na oslavy Dne nezávislosti lídři šesti severských a pobaltských zemí: finský prezident Stubb, litevský prezident Nausėda, dánská premiérka Frederiksenová, estonský premiér Michal, lotyšský premiér Kulbergs a norský premiér Støre. Program pokračuje summitem formátu NB8 zaměřeným na evropskou schopnost čelit balistickým raketám a v pondělí zasedáním Koalice ochotných. 
+          - V Jevpatoriji na okupovaném Krymu byl zasažen radar ST-68 a v Čornomorském pak sklad a stanoviště ruských námořních dronů. K tomu také pozemní retranslační stanice, přes kterou Rusové řídí drony Geran a Gerbera. Ukrajinci zasáhli i logistické sklady v Džankoji a v obci Čajky v ruské Bělgorodské oblasti a opravárenská depa v Džankoji a v okupované Kadijivce v Luhanské oblasti. 
+          - Ukrajinské síly téměř úplně osvobodily Dnipropetrovskou oblast. Podle hlášení vrchního velitele Drapatého tam zbývají tři malé vesnice o rozloze zhruba 10 kilometrů čtverečních a ruští vojáci se v nich prakticky nevyskytují. Rusko letos obsadilo 990 kilometrů čtverečních, Ukrajina získala zpět 820. Další lokální protiofenziva má přinést výsledky do konce srpna. 
+          - Bývalý americký viceprezident Mike Pence řekl v Kyjevě pro CNN, že Ukrajina válku vyhrává a že si při dostatečné podpoře svou svrchovanost uhájí. Poslední ruské útoky podle něj ukazují hlavně zoufalství Moskvy. 
+          - Rusové svrhli řízené letecké pumy na Izjum. Dva lidé jsou zranění, poškozeno je nejméně dvacet budov, auta a elektrické vedení. 
+          - Norsko dá Ukrajině i v roce 2027 zhruba 9 miliard dolarů (85 miliard norských korun) – stejnou částku jako letos. 
+          - SBU už osmnáct měsíců vede operaci Kylym (Koberec), jejímž cílem je donutit ruská vojenská letiště zastavit provoz. 
+          - V Sumské oblasti u hranice zahynuli muž a žena po výbuchu nástražných zařízení, další žena je zraněná. 
+          - V Žytomyrské oblasti se lesní požár v přírodní rezervaci Drevljanskyj rozšířil na téměř 49 hektarů.
+          - Ukrajinská armáda zasáhla ruský odpalovač Iskanderů v blízkosti hranic. 
+          - Ukrajina podepsala s Finskem nové dohody o obranné spolupráci. 
+          - Návštěva Witkoffa a Kushnera v Moskvě se prozatím odkládá.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/997166848330753431)
+          - [Rusové zabili dronem civilistu na kole](https://pixelfed.cz/p/dnesnaukrajine/997165271771784573)
+          - [Mínus ruské stíhačky](https://pixelfed.cz/p/dnesnaukrajine/997165349198013824)
+          - [Mínus ruská loď](https://pixelfed.cz/p/dnesnaukrajine/997165374762755459)
+          - [Orenburg](https://pixelfed.cz/p/dnesnaukrajine/997165405656520068)
+          - [Kolpino](https://pixelfed.cz/p/dnesnaukrajine/997165444247569797)
+          - [Drony se činí](https://pixelfed.cz/p/dnesnaukrajine/997165529851762054)
       - title: "Sobota"
         year: "22. srpna 2026" 
         sort: "2026-08-22" 
