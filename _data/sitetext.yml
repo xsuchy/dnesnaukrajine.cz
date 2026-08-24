@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "24. srpna 2026" 
+        sort: "2026-08-24" 
+        image: assets/img/timeline/2026-08-24.jpg
+        podcast: "2026-08-24.mp3"
+        desc: |
+          Ukrajina slaví pětatřicáté výročí nezávislosti a Kyjev se na jeden den stal hlavním městem evropské diplomacie. Na Sofijském náměstí stál Zelenskyj vedle nového britského premiéra Andyho Burnhama a předsedy Evropské rady Antónia Costy, do města dorazili také lucemburský premiér Luc Frieden, finský prezident Alexander Stubb, moldavská prezidentka Maia Sanduová, litevský prezident Gitanas Nausėda a další. Macron s Merzem se ke koalici ochotných připojili přes video. Burnham přijel na svou vůbec první zahraniční cestu ve funkci a přivezl to, o co Kyjev usiloval měsíce: souhlas britské vlády s tím, aby zbrojovka MBDA odtajnila údaje o britských komponentech střel SCALP/Storm Shadow. Francie licenci na výrobu své verze dala už v červenci, chybělo právě britské svolení, takže Ukrajina teď může začít stavět vlastní řízené střely s doletem kolem 550 kilometrů. Zelenskyj v projevu poprvé zveřejnil čísla, která se běžně tají: v roce 2023 dostala 675 antiraket k systémům Patriot, v roce 2025 už jen 364 a letos to podle projekcí bude 264. Požádal spojence o nejméně 300 kusů do zimy a o pomoc s pokrytím schodku 27 miliard eur na protivzdušnou obranu. Evropská komise ve stejný den schválila dalších 6,1 miliardy eur na nákup protivzdušných a protiraketových systémů, střel, munice a radarů. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0NPaVnVcAK9htikZZDVHxHin7pFCzPz52LLj3C1Ys4p3K4kUoJ2qUVeQadDtg8TFml):
+        detail: |
+          - Ukrajinské drony v noci systematicky zasahovaly logistickou síť ruského Ozonu. Hořelo v distribučním centru v Tjube v Dagestánu o rozloze zhruba 130 tisíc metrů čtverečních, které je klíčovým uzlem pro Severní Kavkaz a pro dodávky do Ázerbájdžánu a Íránu, a v centru v Enemu u Krasnodaru. Sklady v Adygejsku a Něvinnomyssku byly evakuovány. Firma sama přiznala čtyři zasažené nebo ohrožené haly, což dělá už celkem šest za tři dny. Akcie Ozonu na moskevské burze po otevření spadly o 12,7 procenta na 2 600 rublů a během dne se propadaly až o zhruba 28 procent. S nimi klesly i papíry hlavního akcionáře AFK Sistema. 
+          - Generální štáb potvrdil, že drony v noci zasáhly kombinát Kamenskij v Kamensku-Šachtinském v Rostovské oblasti, kde se vyrábí tuhé raketové palivo pro munici raketometů Uragan, Smerč a Tornado-S i pro řadu raketových systémů a leteckých zbraní. V areálu vypukl velký požár, rozsah škod se zjišťuje. Ve stejné noci Ukrajinci zasáhli velitelská stanoviště ve Strilkovém v Chersonské oblasti a Staromlynivce v Doněcké oblasti, sklady materiálu ve Stepném a Chrustalném v Luhanské oblasti a u Viktorivky v Záporožské oblasti a radiolokátor ST-68. Velitel Sil bezpilotních systémů Robert „Maďar" Brovdi k tomu přidal ještě zničený stíhací letoun MiG-29.
+          - Rusko v noci vypálilo dvě protilodní střely Oniks, šest řízených raket Ch-31P a Ch-59 a 143 dronů, přičemž zhruba třetina z nich byla proudová. Protivzdušná obrana sestřelila jeden Oniks, dvě rakety, dvě střely Banderol a 109 dronů. Zásahy jsou hlášeny z dvaadvaceti míst. Na Charkovsku drony zasáhly železniční infrastrukturu, zahynuly dvě ženy a šest lidí bylo zraněno včetně jedenáctileté dívky, jejíž matka byla mezi mrtvými. Sama dívka je s popáleninami ve vážném stavu. Za poslední den ruské útoky na Ukrajině zabily nejméně osm lidí a třiačtyřicet jich zranily.
+          - V Černihivu vlétl dron kolem poledne přímo do obytného domu v centru města. V devítipatrovém paneláku začalo hořet, hasiči evakuovali čtrnáct obyvatel a počet zraněných postupně vzrostl ze čtrnácti na osmnáct, mezi nimi dvě děti ve věku dvanácti a sedmnácti let. Podle šéfa krajské správy Vjačeslava Čause šlo o třetí vlnu útoků na město toho dne, předtím Rusové zasáhli objekt kritické infrastruktury a v Koropu dron zranil devětapadesátiletého zaměstnance čerpací stanice.
+          - Ukrajina si na Den nezávislosti přivezla domů deset vojáků. Šlo o druhou fázi poslední výměny, uskutečnila se přes Bělorusko a týkala se seržantů, vojáků a námořníků ozbrojených sil a Národní gardy, kteří bránili zemi na doněckém směru. Všichni byli dosud vedeni jako nezvěstní, dva od roku 2024 a osm od roku 2025. Nejmladší z nich se narodil v roce 2000, nejstaršímu je devětapadesát let.
+          - Putin podepsal dekret, na jehož základě můžou být „dočasně“ zabaveny soukromé podniky, které jsou součástí kritické infrastruktury, a dokonce i veškerý majetek jejich majitelů, kteří se nedokážou sami ubránit před ukrajinskými útoky dronů a raket. Ještě nedávno přitom v televizi tvrdil, že ukrajinské nálety nemají žádný dopad na ruskou ekonomiku. 
+          - Na Pariser Platz v centru Berlína, pár metrů od Braniborské brány a Bundestagu, stojí od dnešního rána velká protidronová síť. Instalace má Němcům připomenout realitu ukrajinských měst.
+          - Gazprom Arena v Petrohradu oznámila, že plánované koncerty Kanye Westa se neuskuteční, i když už bylo údajně prodáno okolo 100 000 lístků. 
+          - Část Oděské oblasti zůstala po ruském útoku bez elektřiny a v samotné Oděse hořely dva hypermarkety Epicentr a potravinové sklady.
+          - Podle Rybáře ukrajinské síly znovu osvobodily Lyman a podnikají protiútok ve všech směrech lymanského sektoru. 
+          - Zelenskyj udělil titul Hrdina Ukrajiny veliteli Třetího armádního sboru Andriji Bileckému.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/997563699903325706)
+          - [Ozon na satelitech](https://pixelfed.cz/p/dnesnaukrajine/997559958807623094)
+          - [Ozon](https://pixelfed.cz/p/dnesnaukrajine/997559980640507319)
+          - [Ozon, Dagestán](https://pixelfed.cz/p/dnesnaukrajine/997560015331644856)
+          - [Ozon a ruská PVO](https://pixelfed.cz/p/dnesnaukrajine/997560041377347001)
+          - [Nálet na Ozon](https://pixelfed.cz/p/dnesnaukrajine/997560058952508858)
+          - [„Vojenská přehlídka“ na Ukrajině](https://pixelfed.cz/p/dnesnaukrajine/997560111352919483)
+          - [Hypermarket v Oděse](https://pixelfed.cz/p/dnesnaukrajine/997560128554198460)
+          - [Motivace v ruské armádě](https://pixelfed.cz/p/dnesnaukrajine/997560156780045757)
+          - [Fronta při pohledu ze satelitu](https://pixelfed.cz/p/dnesnaukrajine/997560171491304897)
+          - [Obchoďák po ruském náletu](https://pixelfed.cz/p/dnesnaukrajine/997560197668877762)
+          - [Ukrajinská helikoptéra s drony](https://pixelfed.cz/p/dnesnaukrajine/997560216602883523)
       - title: "Neděle"
         year: "23. srpna 2026" 
         sort: "2026-08-23" 
