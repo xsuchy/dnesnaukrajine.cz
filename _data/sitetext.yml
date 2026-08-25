@@ -38,6 +38,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "25. srpna 2026" 
+        sort: "2026-08-25" 
+        image: assets/img/timeline/2026-08-25.jpg
+        podcast: "2026-08-25.mp3"
+        desc: |
+          Ukrajinské drony v noci znovu letěly na ruské rafinerie. V Krasnodarském kraji zasáhly Afipský závod, jednu z největších rafinérií na jihu Ruska s roční kapacitou 6,25 milionu tun ropy, což je více než dvě procenta celkové ruské produkce. Generální štáb potvrdil požár v areálu, pro závod jde letos už o pátý zásah. Gubernátor oblasti Venjamin Kondraťjev útok připustil jen napůl: podle něj šlo hlavně o padající trosky dronů, které dopadly na železniční stanici Afipská a poškodily nejméně deset rodinných domů v obci Afipský. Druhým cílem téže noci byla Novošachtinská rafinerie v Rostovské oblasti s kapacitou 5,6 milionu tun. Gubernátor Jurij Sljusar přiznal poškození bez dalších podrobností a závod přerušil výrobu. Jen za srpen tak provoz zastavilo už šest ruských rafinerií. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0uTeuSiVHLsxwGS4mZ4NHN5RNqViD78ek8sPCqxthSGyVbkpSsq1wi8FLnXrTFKK9l): 
+        detail: |
+          - Němečtí vyšetřovatelé objevili u letiště v Lipsku celkem tři drony. Ten poslední našli 14. srpna v poli v Kabelsketalu u západního okraje letiště a den nato tam kriminalisté objevili asi padesát gramů látky, kterou první rozbor označil za vojenskou trhavinu hexogen. Nálož na dronu nejspíš nevybuchla kvůli vadné rozbušce. Cílem byl ukrajinský Antonov, do kterého se den předtím nakládala munice. Kancléř Friedrich Merz dnes řekl, že vláda brzy zveřejní, kdo za pokusem stojí. Bezpečnostní zdroje ukazují na ruské tajné služby a Moskva to samozřejmě popírá. 
+          - OSN potvrdila, že od začátku plné invaze zahynulo na Ukrajině nejméně 16 874 civilistů, z toho 820 dětí, a dalších 51 273 lidí bylo zraněno, mezi nimi 3 126 nezletilých. Náměstkyně generálního tajemníka Rosemary DiCarlová zdůraznila, že skutečná čísla budou výrazně vyšší, protože OSN nedokáže ověřit údaje z okupovaných území ani z míst, kde se stále bojuje. Jen v červenci zabily ruské útoky 437 civilistů včetně sedmnácti dětí a 2 610 jich zranily, což je nejvyšší měsíční bilance od května 2022. 
+          - Rusko na Ukrajinu v noci vypustilo 150 dronů typu Shahed, Gerbera a maket Parodija, k tomu balistický Iskander-M z Rostovské oblasti a řízenou střelu Ch-31P z Brjanské. Protivzdušná obrana do devíti hodin ráno sestřelila nebo rušením potlačila 124 dronů, zásahy jsou hlášené ze sedmnácti míst. V Charkově dopadly rakety na průmyslovou zónu Osnovjanského obvodu a jeden člověk zahynul. V Kyjevě poškodily trosky reaktivních dronů Banderol šestnáctipatrový dům v Holosijivském obvodu. 
+          - Ukrajinský 3. armádní sbor podle analytiků od poloviny dubna tiše podniká protiútoky severně od Lymanu a díky tomu zatlačil zpátky ruské uskupení Centr. Boje se točí kolem vesnice Nove patnáct kilometrů severně od Lymanu, na severním okraji ruského výběžku, kterým se 144. motostřelecká divize snaží Lyman obejít a otevřít si cestu na Slovjansk. Ukrajinci drží operaci v přísném utajení a Rusové o svých ústupech také oficiálně mlčí. 
+          - Spojené státy se znovu odmítly připojit ke společnému prohlášení k výročí ukrajinské nezávislosti, které v Radě bezpečnosti OSN podpořilo padesát zemí včetně všech sedmadvaceti států Evropské unie, Británie, Japonska, Kanady, Gruzie, Moldavska, Austrálie, Nového Zélandu a Jižní Koreje. Text žádá úplné, okamžité a bezpodmínečné příměří mezi Ruskem a Ukrajinou. 
+          - Na moskevském letišti Vnukovo dnes ráno přistál vojenský transportní letoun C-17A amerického letectva. Podle Flightradaru24 odletěl z Rigy krátce před devátou a přistál v 10:04, předtím startoval z Andrewsovy základny v Marylandu. Dmitrij Peskov tvrdí, že Kreml o ničem neví a žádná jednání s Trumpovou administrativou tento týden neplánuje. 
+          - Vláda odvolala Mykolu Hladyšenka z čela dozorčí rady státní Sense Bank poté, co protikorupční NABU zveřejnilo nahrávky, podle nichž přes banku proteklo 150 milionů hřiven, tedy zhruba 3,3 milionu dolarů, na kauci pro bývalého ministra energetiky a spravedlnosti Hermana Haluščenka.
+          - V ruské Amurské oblasti hoří tamější plynochemický komplex, společný rusko-čínský projekt, který měl brzy najet na komerční provoz. Podle předběžných údajů vzplanula pyrolýzní jednotka, jeden člověk zahynul a devadesát jich bylo zraněno. 
+          - V Doněcké oblasti zabil FPV dron Brita Bradleyho Townsenda, prvního známého britského občana, který padl v řadách ruské armády. Bylo mu 33 a do ruského vojska vstoupil teprve před dvěma měsíci. 
+          - Ruské školy na okupovaných územích zahájily školní rok povinnou lekcí o „jednotě národů Ruska“. Týká se 582 tisíc dětí ve zhruba dvou tisících škol, ukrajinština v nich chybí. 
+          - Britský premiér Andy Burnham chce příští měsíc spolu s dalšími evropskými lídry přesvědčit Donalda Trumpa, aby Ukrajině otevřel americké zásoby raket pro systémy Patriot. 
+          - Arménský premiér Nikol Pašinjan oznámil parlamentu, že Jerevan v nejbližší době podá přihlášku do Evropské unie.
+          - Z Turecka vyplul „stínový“ tanker Wendrix s nákladem nafty pro potřeby Ruska. 
+          - Slovenská policie oznámila, že překazila žhářský útok na továrnu na drony. 
+          - Zelenskyj oznámil, že Ukrajina obdržela malou zásobu raket pro Patrioty. 
+          - Rusové zasáhli další hraniční přechod s Moldavskem. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/997882610099707219)
+          - [Americké letadlo nad Moskvou](https://pixelfed.cz/p/dnesnaukrajine/997878968110284025)
+          - [Kolona vozů s Američany v Moskvě](https://pixelfed.cz/p/dnesnaukrajine/997878994367364346)
+          - [Amur](https://pixelfed.cz/p/dnesnaukrajine/997879010384682235)
+          - [Amur](https://pixelfed.cz/p/dnesnaukrajine/997879043342179582)
+          - [Amur](https://pixelfed.cz/p/dnesnaukrajine/997879070493175040)
+          - [Férové volby v Rusku](https://pixelfed.cz/p/dnesnaukrajine/997879093590744322)
+          - [Mínus polní muničák](https://pixelfed.cz/p/dnesnaukrajine/997879126266768644)
+          - [Rusové loví civilisty v Chersonu](https://pixelfed.cz/p/dnesnaukrajine/997879172272528645)
       - title: "Pondělí"
         year: "24. srpna 2026" 
         sort: "2026-08-24" 

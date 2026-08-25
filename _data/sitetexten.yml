@@ -23,6 +23,109 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Tuesday
+    year: August 25, 2026
+    sort: '2026-08-25'
+    image: assets/img/timeline/2026-08-25.jpg
+    podcast: 2026-08-25.mp3
+    desc: "Ukrainian drones flew toward Russian refineries again overnight. In the\
+      \ Krasnodar Krai, they struck the Afipsk refinery, one of the largest in southern\
+      \ Russia with an annual capacity of 6.25 million metric tons of crude oil—more\
+      \ than two percent of Russia’s total production. The General Staff confirmed\
+      \ a fire at the site; this marks the fifth attack on the refinery this year.\
+      \ Regional Governor Veniamin Kondratyev only partially acknowledged the attack:\
+      \ according to him, it was mainly caused by falling drone debris that struck\
+      \ the Afipskaya railway station and damaged at least ten single-family homes\
+      \ in the village of Afipsky. The second target that same night was the Novoshakhtinsk\
+      \ refinery in the Rostov region, with a capacity of 5.6 million metric tons.\
+      \ Governor Yuri Slusar acknowledged the damage without providing further details,\
+      \ and the refinery suspended production. In August alone, six Russian refineries\
+      \ have halted operations. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0uTeuSiVHLsxwGS4mZ4NHN5RNqViD78ek8sPCqxthSGyVbkpSsq1wi8FLnXrTFKK9l)\
+      \ also happened: \n"
+    detail: "- German investigators discovered a total of three drones near the Leipzig\
+      \ airport. They found the last one on August 14 in a field in Kabelsketal near\
+      \ the western edge of the airport, and the following day, detectives discovered\
+      \ about fifty grams of a substance there that initial analysis identified as\
+      \ the military explosive hexogen. The charge on the drone likely failed to detonate\
+      \ due to a faulty detonator. The target was a Ukrainian Antonov aircraft, which\
+      \ had been loaded with ammunition the day before. Chancellor Friedrich Merz\
+      \ said today that the government will soon reveal who is behind the attempt.\
+      \ Security sources point to Russian intelligence services, and Moscow, of course,\
+      \ denies this. \n- The UN has confirmed that since the start of the full-scale\
+      \ invasion, at least 16,874 civilians have been killed in Ukraine, including\
+      \ 820 children, and another 51,273 people have been injured, including 3,126\
+      \ minors. Deputy Secretary-General Rosemary DiCarl emphasized that the actual\
+      \ numbers are likely to be significantly higher, as the UN is unable to verify\
+      \ data from occupied territories or from areas where fighting is still ongoing.\
+      \ In July alone, Russian attacks killed 437 civilians, including 17 children,\
+      \ and injured 2,610, the highest monthly toll since May 2022. \n- Overnight,\
+      \ Russia launched 150 Shahed, Gerbera, and Parodija decoy drones at Ukraine,\
+      \ along with an Iskander-M ballistic missile from the Rostov region and a Kh-31P\
+      \ guided missile from the Bryansk region. By 9:00 a.m., air defenses had shot\
+      \ down or jammed 124 drones; strikes were reported from 17 locations. In Kharkiv,\
+      \ missiles struck an industrial zone in the Osnovyanskyi District, killing one\
+      \ person. In Kyiv, debris from “Banderol” jet drones damaged a 16-story building\
+      \ in the Holosiivskyi district. \n- According to analysts, the Ukrainian 3rd\
+      \ Army Corps has been quietly launching counterattacks north of Lyman since\
+      \ mid-April, pushing back the Russian “Center” group. The fighting is centered\
+      \ around the village of Nove, fifteen kilometers north of Lyman, on the northern\
+      \ edge of the Russian salient through which the 144th Motorized Rifle Division\
+      \ is attempting to bypass Lyman and open a path to Sloviansk. The Ukrainians\
+      \ are keeping the operation strictly confidential, and the Russians are also\
+      \ officially silent about their retreats. \n- The United States once again refused\
+      \ to join a joint statement marking the anniversary of Ukraine’s independence,\
+      \ which was supported in the UN Security Council by 50 countries, including\
+      \ all 27 member states of the European Union, the United Kingdom, Japan, Canada,\
+      \ Georgia, Moldova, Australia, New Zealand, and South Korea. The text calls\
+      \ for a complete, immediate, and unconditional ceasefire between Russia and\
+      \ Ukraine. \n- A U.S. Air Force C-17A military transport aircraft landed at\
+      \ Moscow’s Vnukovo Airport this morning. According to Flightradar24, it departed\
+      \ from Riga shortly before 9:00 a.m. and landed at 10:04 a.m., having previously\
+      \ taken off from Andrews Air Force Base in Maryland. Dmitry Peskov claims that\
+      \ the Kremlin knows nothing about this and has no plans to hold any talks with\
+      \ the Trump administration this week. \n- The government removed Mykola Hladyšenko\
+      \ from his position as head of the supervisory board of the state-owned Sense\
+      \ Bank after the anti-corruption agency NABU released recordings indicating\
+      \ that 150 million hryvnias—approximately $3.3 million—had flowed through the\
+      \ bank to pay bail for former Minister of Energy and Justice Herman Haluščenko.\n\
+      - A fire has broken out at a local gas-chemical complex in Russia's Amur Region,\
+      \ a joint Russian-Chinese project that was set to begin commercial operations\
+      \ soon. According to preliminary reports, a pyrolysis unit caught fire, killing\
+      \ one person and injuring ninety others. \n- In the Donetsk region, a drone\
+      \ killed Bradley Townsend, a British citizen and the first known British national\
+      \ to die while serving in the Russian military. He was 33 and had joined the\
+      \ Russian military just two months earlier. \n- Russian schools in the occupied\
+      \ territories began the school year with a mandatory lesson on the “unity of\
+      \ the peoples of Russia.” This affects 582,000 children in roughly 2,000 schools,\
+      \ where Ukrainian is not taught. \n- British Prime Minister Andy Burnham, along\
+      \ with other European leaders, wants to persuade Donald Trump next month to\
+      \ make U.S. stockpiles of missiles for the Patriot system available to Ukraine.\
+      \ \n- Armenian Prime Minister Nikol Pashinyan announced to parliament that Yerevan\
+      \ will submit an application to join the European Union in the near future.\n\
+      - The \"shadow\" tanker Wendrix set sail from Turkey with a cargo of diesel\
+      \ fuel for Russia. \n- Slovak police announced that they had foiled an arson\
+      \ attack on a drone factory. \n- Zelenskyy announced that Ukraine had received\
+      \ a small supply of missiles for the Patriot system. \n- The Russians have attacked\
+      \ another border crossing with Moldova. \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/997882610099707219)
+
+      - [An American Plane Over Moscow](https://pixelfed.cz/p/dnesnaukrajine/997878968110284025)
+
+      - [A motorcade carrying Americans in Moscow](https://pixelfed.cz/p/dnesnaukrajine/997878994367364346)
+
+      - [Amur](https://pixelfed.cz/p/dnesnaukrajine/997879010384682235)
+
+      - [Amur](https://pixelfed.cz/p/dnesnaukrajine/997879043342179582)
+
+      - [Amur](https://pixelfed.cz/p/dnesnaukrajine/997879070493175040)
+
+      - [Fair Elections in Russia](https://pixelfed.cz/p/dnesnaukrajine/997879093590744322)
+
+      - [Minus the field ammunition box](https://pixelfed.cz/p/dnesnaukrajine/997879126266768644)
+
+      - [Russians Are Targeting Civilians in Kherson](https://pixelfed.cz/p/dnesnaukrajine/997879172272528645)
+
+      '
   - title: Monday
     year: August 24, 2026
     sort: '2026-08-24'
