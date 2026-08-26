@@ -38,6 +38,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "26. srpna 2026" 
+        sort: "2026-08-26" 
+        image: assets/img/timeline/2026-08-26.jpg
+        podcast: "2026-08-26.mp3"
+        desc: |
+          Ukrajinské drony i dnes v noci letěly hluboko do ruského týlu. V Kstovu v Nižněnovgorodské oblasti hořela rafinerie NORSI koncernu Lukoil, čtvrtá největší rafinerie v Rusku a druhý největší producent benzinu s roční produkcí kolem 15 až 17 milionů tun ropy, výrobce nafty a leteckého paliva pro ruskou armádu. Kstovo leží asi 800 kilometrů od ukrajinských hranic a jen letos ho ukrajinské drony zasáhly už popáté. Druhým cílem noci byl Kotovsk v tambovské oblasti, kde podle gubernátora Jevgenije Pervyšova vzplál sklad e-shopu Wildberries. Výbuch a následný požár hlásí monitorovací kanály také z okupovaného Luhansku, na Krymu se v Bachčisarajském okrese a v Simferopolu asi hodinu opakovaně vypínal proud a výbuchy zněly i v Sackém okrese a u Jevpatorije. Zelenský uvedl, že Kyjev za poslední den zasáhl v Rusku šestnáct cílů včetně ropných zařízení a logistiky. Ruské ministerstvo obrany tvrdí, že přes noc nad svým a okupovaným územím sestřelilo 426 ukrajinských dronů. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0v71FEVtQXJnVjbqDPW8BFHVxJqrTKALQskhETmC2zgJzLvQ8dBabxz7Z7SgUdf2sl):
+        detail: |
+          - Kreml popřel, že by se Vladimir Putin během návštěvy ředitele CIA Johna Ratcliffa v Rusku s americkým hostem setkal. Mluvčí Dmitrij Peskov listu Washington Post řekl, že šlo o kontakty mezi bezpečnostními službami. Podle zdroje agentur měly Spojené státy Ukrajinu požádat, aby se během Ratcliffovy návštěvy zdržela úderů na Moskvu. Účel Ratcliffovy cesty zatím není znám, ale spekuluje se, že Ratcliff se setkal s ruskou SVR, aby vyřídil varování Spojených států ohledně ruských plánů na eskalaci války. 
+          - V Bělorusku, u hranic s Ukrajinou, roste nová železniční infrastruktura určená k rychlému přesunu těžké techniky po železnici a jejímu vykládání. Ruská propaganda také čím dál více připravuje domácí populaci na další válku. Nový termín ukončení „Speciální vojenské operace“ je konec roku 2030. 
+          - Rusko v noci vyslalo proti Ukrajině 162 dronů, z nichž ukrajinské letectvo 134 zneškodnilo. Zásahy jsou hlášeny z osmnácti míst. Zpravodaj České televize Jan Řápek ráno referoval o více než 150 sestřelených strojích, které znovu mířily na ukrajinská města.
+          - Ukrajinská bezpečnostní služba SBU zadržela v Rovenské oblasti „ruského pozorovatele“, který poblíž obranných objektů umisťoval skryté chytré telefony. Na tyto objekty pak Rusko cílilo raketové a dronové útoky.
+          - Vatikánský vyslanec se sešel s ruským ministrem zahraničí Sergejem Lavrovem. Je to první osobní jednání mezi Moskvou a Vatikánem od začátku plnohodnotné invaze v roce 2022.
+          - Útok ruskou řízenou leteckou bombou vážně poškodil elektrárnu v Chersonu. Naváděné pumy dopadly ráno také na Slovjansk, kde byli podle úřadů zraněni dva lidé.
+          - Ukrajinští zemědělci sklidili 58 procent plánované plochy raných obilovin, největší podíl s 24,6 milionu tun tvoří pšenice. Nejvyšší výnosy hlásí Chmelnická oblast.
+          - Partyzánské hnutí Ateš tvrdí, že ruští velitelé prodávají palivo přidělené ozbrojeným silám civilistům v Rostově na Donu a v okupovaném Doněcku a Luhansku. 
+          - Rusko aktuálně vede dezinformační kampaň s cílem nabourat vztahy mezi Čechy a Poláky, v níž používá falešné články a AI videa s tvářemi velvyslanců. 
+          - Ruský dron zasáhl v Černihivu soukromý dům a na místě vypukl požár. Útok zabil ženu a čtyřleté dítě, další čtrnáctileté dítě je zraněno.
+          - Ruská státní propaganda nově tvrdí, že Rusko muselo napadnout Ukrajinu, protože jinak by 8. března Ukrajina napadla Rusko. 
+          - Zelenský prohlásil, že Kyjev spoléhá na další spolupráci s Čínou a na „silnou diplomatickou roli“ Pekingu při ukončení války.
+          - Zelenský udělil Řád svobody Elonu Muskovi za „přínos k ochraně lidského života a rozvoj vztahů mezi Ukrajinou a USA“.
+          - Ukrajina obdrží další čtyři systémy SAMP/T a také licenci na výrobu protivzdušných střel Aster-30. 
+          - Moskva a Kyjev si podle ruského Interfaxu vyměnily po deseti válečných zajatcích.
+          - Zelenský poděkoval Petru Pavlovi za blahopřání ke Dni nezávislosti Ukrajiny.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/998240134664741003)
+          - [Mínus technika](https://pixelfed.cz/p/dnesnaukrajine/998238890763194456)
+          - [Legionáři pracovali](https://pixelfed.cz/p/dnesnaukrajine/998238966937739353)
+          - [Ruský úder na zajatce](https://pixelfed.cz/p/dnesnaukrajine/998239477484507248)
+          - [Robot na frontě](https://pixelfed.cz/p/dnesnaukrajine/998239523000991859)
+          - [Tuapse](https://pixelfed.cz/p/dnesnaukrajine/998239552583708794)
+          - [Kotovsk](https://pixelfed.cz/p/dnesnaukrajine/998239573663158397)
+          - [Nedonesl](https://pixelfed.cz/p/dnesnaukrajine/998239601589518464)
       - title: "Úterý"
         year: "25. srpna 2026" 
         sort: "2026-08-25" 
