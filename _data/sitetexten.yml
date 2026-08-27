@@ -23,6 +23,77 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Thursday
+    year: August 27, 2026
+    sort: '2026-08-27'
+    image: assets/img/timeline/2026-08-27.jpg
+    podcast: 2026-08-27.mp3
+    desc: "Russia launched ballistic missiles at Ukraine again overnight. Around 3:00\
+      \ a.m., six explosions were heard in Kyiv within less than a minute. Debris\
+      \ from the missiles was later found in the Podil and Shevchenkivskyi districts.\
+      \ Odessa was also hit; according to Serhiy Lysak, head of the city’s military\
+      \ administration, civilian infrastructure, an educational facility, and a high-rise\
+      \ residential building sustained damage. Zaporizhzhia was also struck; according\
+      \ to Governor Ivan Fedorov, at least seven people, including three children,\
+      \ were injured. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0uRUJ6NK6HxtGbbP3AERJ6w4jizpaWb8yFTxN1F8YoFFE2YD2sUvRZtpsmpEJAqFdl)\
+      \ also happened: \n"
+    detail: "- The NORSI refinery in Kstovo, in the Nizhny Novgorod region, has once\
+      \ again halted oil processing following Wednesday’s attack by Ukrainian drones.\
+      \ According to Reuters, the strike damaged several processing units and related\
+      \ infrastructure. It is not yet clear how long the plant will be out of operation.\
+      \ NORSI is Russia’s fourth-largest refinery and the country’s second-largest\
+      \ producer of gasoline, with an annual capacity of around 17 million metric\
+      \ tons; in addition to gasoline, it produces diesel, jet fuel, and lubricants,\
+      \ including supplies for the military. It is located nearly 800 kilometers from\
+      \ the Ukrainian border, and drones have taken it offline several times this\
+      \ year. Due to Ukrainian attacks, all of Lukoil’s major refineries in Russia\
+      \ are currently shut down. Kazakh Energy Minister Yerlan Akkenzhenov announced\
+      \ on Tuesday that Kazakhstan will begin processing Russian crude oil and will\
+      \ send 70 percent of the resulting diesel and gasoline back to Russia. \n- Ukrainian\
+      \ experts counted 62 components of American origin among the wreckage of an\
+      \ Iskander missile that Russia fired at the Kyiv region in July. Kyiv has now\
+      \ published a list of more than a hundred Russian companies involved in the\
+      \ production of ballistic missiles and is calling on its allies to impose sanctions\
+      \ on them. According to Ukrainian findings, American chips outnumber Chinese\
+      \ ones in Russian missiles. \n- The Ukrainian Ministry of Foreign Affairs reports\
+      \ that 53 Ukrainians are missing in Nepal, where the death toll from the floods\
+      \ is rising. Among them is a group of 46 tourists who were traveling in the\
+      \ affected area near the Nepal-China border and have not been reachable since\
+      \ the disaster struck. \n- According to U.S. intelligence, the explosive drone\
+      \ found near a German airport originated from the Russian military intelligence\
+      \ agency, the GRU. The drone’s design and the explosive used “are typical of\
+      \ the GRU,” U.S. intelligence officials told ABC News. \n- Ukraine foiled a\
+      \ bomb attack on the head of an arms manufacturer. The Russian FSB had hired\
+      \ a 63-year-old man to plant an explosive device under the car and then flee\
+      \ to Russia via Poland. However, the explosion did not occur, and the man was\
+      \ detained in Poland. \n- According to Politico, CIA Director John Ratcliffe\
+      \ was in Moscow to warn Russia against escalating tensions with the Baltic NATO\
+      \ member states. His visit came at a time when concerns are growing over Russian\
+      \ actions against countries supporting Ukraine. \n- According to Bloomberg,\
+      \ MSC, the world's largest container shipping company, has suspended bookings\
+      \ for Novorossiysk following a drone attack. However, it continues to operate\
+      \ through other Russian ports, including St. Petersburg. \n- An improvised explosive\
+      \ device placed under a passenger car exploded on the streets of St. Petersburg.\
+      \ The driver and passengers were seriously injured. A Russian Air Force lieutenant\
+      \ colonel was reportedly traveling in the car.\n- A Russian airstrike hit a\
+      \ shopping center in Kharkiv. People tried to escape the resulting fire by jumping\
+      \ out of windows. While rescue workers were on the scene, the Russians launched\
+      \ a second wave of missiles. \n- Sweden has called on the EU to reconsider transferring\
+      \ frozen Russian assets to Ukraine. Several other countries have supported the\
+      \ call. \n- Hungary has officially designated Russia as a threat to Hungarian\
+      \ national security. \n- Lukashenko ordered an unannounced readiness inspection\
+      \ of the Belarusian armed forces. \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/998539645026663926)
+
+      - [St. Petersburg](https://pixelfed.cz/p/dnesnaukrajine/998537293228768736)
+
+      - [St. Petersburg](https://pixelfed.cz/p/dnesnaukrajine/998537310418197985)
+
+      - [Shocking footage following a Russian airstrike](https://pixelfed.cz/p/dnesnaukrajine/998537324228804066)
+
+      - [Prisoners who were headed for the front line escaped from the Russians](https://pixelfed.cz/p/dnesnaukrajine/998537336072072675)
+
+      '
   - title: Wednesday
     year: August 26, 2026
     sort: '2026-08-26'

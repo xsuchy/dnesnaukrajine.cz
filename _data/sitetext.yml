@@ -38,6 +38,32 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "27. srpna 2026" 
+        sort: "2026-08-27"
+        image: assets/img/timeline/2026-08-27.jpg
+        podcast: "2026-08-27.mp3"
+        desc: |
+          Rusko v noci znovu poslalo na Ukrajinu svou balistiku. Kolem třetí hodiny ranní zaznělo v Kyjevě během necelé minuty šest výbuchů. Trosky raket se pak našly v Podilském a Ševčenkivském rajónu. Zasažena byla i Oděsa, kde podle šéfa městské vojenské správy Serhije Lysaka utrpěla poškození civilní infrastruktura, jedno vzdělávací zařízení a výšková obytná budova, a Záporoží, kde bylo podle gubernátora Ivana Fedorova zraněno nejméně sedm lidí včetně tří dětí. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0uRUJ6NK6HxtGbbP3AERJ6w4jizpaWb8yFTxN1F8YoFFE2YD2sUvRZtpsmpEJAqFdl): 
+        detail: |
+          - Rafinerie NORSI v Kstovu v Nižněnovgorodské oblasti po středečním úderu ukrajinských dronů znovu zastavila zpracování ropy. Podle Reuters poškodil zásah několik technologických jednotek i navazující infrastrukturu. Jak dlouho bude závod mimo provoz, zatím není jasné. NORSI je čtvrtá největší ruská rafinerie a druhý největší producent benzinu v zemi, roční kapacita je kolem 17 milionů tun a kromě benzinu vyrábí naftu, letecké palivo a maziva včetně dodávek pro armádu. Od ukrajinských hranic ji dělí skoro 800 kilometrů a letos ji drony vyřadily už poněkolikáté. Lukoilu kvůli ukrajinským útokům stojí všechny velké rafinerie v Rusku. Kazašský ministr energetiky Jerlan Akkenženov v úterý oznámil, že Kazachstán začne zpracovávat ruskou ropu a 70 procent vzniklé nafty a benzinu bude posílat zpátky do Ruska. 
+          - V troskách rakety Iskander, kterou Rusko v červenci odpálilo na Kyjevskou oblast, napočítali ukrajinští experti 62 součástek amerického původu. Kyjev teď zveřejnil seznam více než stovky ruských podniků podílejících se na výrobě balistických raket a žádá spojence, aby na ně uvalili sankce. Podle ukrajinských zjištění mají americké čipy v ruských raketách převahu nad čínskými. 
+          - Ukrajinské ministerstvo zahraničí hlásí 53 pohřešovaných Ukrajinců v Nepálu, kde stoupá počet obětí povodní. Mezi nimi je skupina 46 turistů, kteří cestovali v zasažené oblasti u nepálsko-čínské hranice a od okamžiku katastrofy se s nimi nedaří spojit. 
+          - Výbušný dron nalezený u německého letiště pochází podle americké rozvědky od ruské vojenské rozvědky GRU. Konstrukce stroje i použitá trhavina „jsou pro GRU typické“, řekli představitelé americké rozvědky stanici ABC News. 
+          - Ukrajina překazila bombový atentát na šéfa jedné ze zbrojních firem. Ruská FSB najala 63letého muže, aby umístil pod auto výbušninu a poté měl uprchnout přes Polsko do Ruska. K výbuchu ale nedošlo a muž byl zadržen v Polsku. 
+          - Šéf CIA John Ratcliffe měl podle Politica v Moskvě varovat Rusko před eskalací vůči pobaltským státům NATO. Jeho návštěva přišla ve chvíli, kdy sílí obavy z ruských kroků proti zemím podporujícím Ukrajinu. 
+          - Největší kontejnerová rejdařská společnost světa MSC podle agentury Bloomberg pozastavila po útoku dronů rezervace na Novorossijsk. Přes ostatní ruské přístavy včetně Petrohradu ale jezdí dál. 
+          - V petrohradských ulicích explodovalo nástražné zařízení umístěné pod osobním automobilem. Řidič i posádka byli těžce raněni. Ve voze údajně cestoval podplukovník ruského letectva.
+          - Ruský nálet zasáhl nákupní středisko v Charkově. Lidé se pokoušeli uniknout před vzniklým požárem skokem z oken. Rusové pak během práce záchranářů vyslali druhou vlnu projektilů. 
+          - Švédsko vyzvalo EU, aby znovu zvážila převedení zmrazených ruských aktiv Ukrajině. Několik dalších zemí výzvu podpořilo. 
+          - Maďarsko oficiálně označilo Rusko za hrozbu pro maďarskou národní bezpečnost. 
+          - Lukašenko nařídil dříve neohlášenou prověrku bojeschopnosti běloruských sil. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/998539645026663926)
+          - [Petrohrad](https://pixelfed.cz/p/dnesnaukrajine/998537293228768736)
+          - [Petrohrad](https://pixelfed.cz/p/dnesnaukrajine/998537310418197985)
+          - [Děsivé záběry po ruském náletu](https://pixelfed.cz/p/dnesnaukrajine/998537324228804066)
+          - [Rusům utekli vězni, co mířili na frontu](https://pixelfed.cz/p/dnesnaukrajine/998537336072072675)
       - title: "Středa"
         year: "26. srpna 2026" 
         sort: "2026-08-26" 
