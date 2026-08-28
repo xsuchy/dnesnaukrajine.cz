@@ -23,6 +23,94 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Friday
+    year: August 28, 2026
+    sort: '2026-08-28'
+    image: assets/img/timeline/2026-08-28.jpg
+    podcast: 2026-08-28.mp3
+    desc: "Ukrainian forces struck the Slavneft-YANOS refinery in Yaroslavl, one of\
+      \ Russia’s five largest refining complexes, which processes about 15 million\
+      \ metric tons of crude oil annually and is located about 700 kilometers from\
+      \ the Ukrainian border. This marks the eighth Ukrainian strike on this refinery\
+      \ this year. The second target of the night was even more interesting: in Engels,\
+      \ in the Saratov region, pilots from the Alfa unit of Ukraine’s SBU struck a\
+      \ Tu-95MS strategic bomber. It is precisely from Engels that aircraft take off\
+      \ to launch cruise missiles at Ukrainian cities, and the same unit was behind\
+      \ Operation Spiderweb in June 2025. The Russian Ministry of Defense claims that\
+      \ overnight it shot down 512 Ukrainian drones over eighteen Russian regions,\
+      \ occupied Crimea, and the Black Sea. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02VMSP6uv5C5uhv5jYAaQ9dwawMeBCwY5PiKVE61MnmUwUSB8CkLUiGmPA8umJovMYl)\
+      \ also happened: \n"
+    detail: "- Russian drones struck the Kyiv region for the second day in a row.\
+      \ According to Tymur Tkachenko, head of the regional military administration,\
+      \ 14 warehouses, 16 single-family homes, three apartment buildings, and 16 cars\
+      \ were damaged. One person was killed, and two were injured. A second drone\
+      \ struck the same location only after rescue workers had arrived—once again,\
+      \ a “double tap” tactic targeting civilian infrastructure. The Russian Ministry\
+      \ of Defense, however, claims that overnight it struck a warehouse in the Kyiv\
+      \ region containing Ukrainian “Flamingo” missiles and fuel for rocket boosters.\
+      \ In addition, over the past few weeks, the Russians have struck a number of\
+      \ warehouses in and around Kyiv containing books, food, and consumer goods.\
+      \ Andriy Kovalenko of the Center for Countering Disinformation says that Russia\
+      \ is sending jet-powered drones in small waves with the aim of exhausting air\
+      \ defenses and frustrating the population.\n- Kherson is preparing for a winter\
+      \ without electricity. Oleksandr Prokudin, head of the regional military administration,\
+      \ has called on tens of thousands of residents to evacuate to safer regions,\
+      \ as the city may be without electricity and heat not just for hours or days—as\
+      \ was the case last winter—but for an extended period. Since July 1, 170 glide\
+      \ bombs have struck the Kherson region—more than in the entire first half of\
+      \ the year—and in the last two months alone, Russia has sent over 1,700 attack\
+      \ drones there. On Thursday, glide bombs knocked out the Kherson heating plant,\
+      \ where the Russians destroyed all power-generating equipment. The authorities\
+      \ will offer assistance with evacuation, transportation, and housing to people\
+      \ who decide to leave. \n- The Ukrainian Ministry of Economy has lowered its\
+      \ forecast for this year’s economic growth. Russian attacks, which have primarily\
+      \ curtailed grain exports through Black Sea ports, will reduce the expected\
+      \ growth rate from 1.3 percent to 0.8 percent. The economy grew by 0.6 percent\
+      \ in the first quarter, but further growth is being hampered by damage to the\
+      \ energy and logistics sectors and the blockade of ports. In addition, Russia\
+      \ is systematically targeting key sectors, including metallurgy, e-commerce,\
+      \ and ports. \n- The Ukrainians recently struck what was reportedly a command\
+      \ post in occupied Donetsk with several missiles. The first reports are now\
+      \ emerging that confirm this. Russian Army Lieutenant Colonel Andrei Viktorovich\
+      \ Moiseyenko is said to have been killed in the strike. According to unconfirmed\
+      \ reports, Lieutenant General Milchakov was also killed. \n- In the Dnipropetrovsk\
+      \ region, an airstrike killed two people in the Synelnykivsky District; explosions\
+      \ were also reported in Pavlohrad. In Zaporizhzhia, a shopping center caught\
+      \ fire following a Russian strike, and the number of injured rose to four. In\
+      \ Sloviansk, two people were injured in airstrikes; explosions were also heard\
+      \ in Kharkiv and Chernihiv. \n- Donald Trump dismissed concerns about Russian\
+      \ provocations against NATO countries. He told Axios that he isn’t worried about\
+      \ it at all and that there is no problem. He made the remarks shortly after\
+      \ CIA Director John Ratcliffe returned from Moscow, where, according to Politico,\
+      \ he was supposed to warn Russia against escalating tensions with the Alliance’s\
+      \ Baltic members. \n- This morning, a merchant vessel was struck and sunk by\
+      \ a new type of Russian drone in Romania’s exclusive economic zone, approximately\
+      \ 15 nautical miles off the Romanian coast. The crew members—eight Ukrainians\
+      \ and four Azerbaijanis—were rescued by the Romanian Navy.\n- The City Council\
+      \ of Wrocław, Poland, adopted a resolution condemning hatred and violence based\
+      \ on nationality following an increase in incidents targeting Ukrainians in\
+      \ the city. \n- The occupied parts of the Donetsk and Luhansk regions were left\
+      \ without power after an attack on the power plant in Shchastya. Other occupied\
+      \ regions also reported widespread power outages. \n- In the Sumy region, a\
+      \ Russian glide bomb killed a 61-year-old man and wounded seven other people,\
+      \ according to Oleh Hryhorov, head of the regional military administration.\n\
+      - Finland has formally requested military assistance from Sweden, and Sweden\
+      \ has agreed. As a result, Swedish fighter jets and patrol ships are heading\
+      \ to Finland. \n- Russian airstrikes since 2022 have destroyed 90% of all modern\
+      \ logistics facilities in Ukraine. \n- In France, a Russian citizen drove into\
+      \ a crowd of people, killing one person and injuring seven others. \n- According\
+      \ to Trump, Putin has no plans to attack NATO. \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/998971143093777268)
+
+      - [Russian Grad](https://pixelfed.cz/p/dnesnaukrajine/998966477768741685)
+
+      - [The Ammunition Plant in Tula](https://pixelfed.cz/p/dnesnaukrajine/998966528636814134)
+
+      - [Minus Russian technology](https://pixelfed.cz/p/dnesnaukrajine/998966572300301112)
+
+      - [Russians killed a cyclist in Kherson with a drone](https://pixelfed.cz/p/dnesnaukrajine/998966604042617657)
+
+      '
   - title: Thursday
     year: August 27, 2026
     sort: '2026-08-27'

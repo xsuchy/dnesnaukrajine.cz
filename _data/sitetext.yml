@@ -38,6 +38,34 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "28. srpna 2026" 
+        sort: "2026-08-28"
+        image: assets/img/timeline/2026-08-28.jpg
+        podcast: "2026-08-28.mp3"
+        desc: |
+          Ukrajinské zasáhly rafinerii Slavněft-JANOS v Jaroslavli, jeden z pěti největších ruských rafinérských komplexů, který ročně zpracuje kolem 15 milionů tun ropy a leží asi 700 kilometrů od ukrajinských hranic. Pro tuhle rafinerii jde už o osmý ukrajinský úder v letošním roce. Druhý cíl noci byl ještě zajímavější: v Engelsu v Saratovské oblasti zasáhly piloti jednotky Alfa ukrajinské SBU strategický bombardér Tu-95MS. Právě z Engelsu přitom startují letouny, které na ukrajinská města odpalují střely s plochou dráhou letu, a stejná jednotka stála za operací Pavučina z června 2025. Ruské ministerstvo obrany tvrdí, že přes noc sestřelilo 512 ukrajinských dronů nad osmnácti ruskými regiony, okupovaným Krymem a Černým mořem. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02VMSP6uv5C5uhv5jYAaQ9dwawMeBCwY5PiKVE61MnmUwUSB8CkLUiGmPA8umJovMYl): 
+        detail: |
+          - Kyjevskou oblast zasáhly ruské drony druhý den v řadě. Podle šéfa krajské vojenské správy Tymura Tkačenka je poškozeno 14 skladů, 16 rodinných domů, tři bytové domy a 16 aut. Jeden člověk zahynul, dva jsou zranění. Na jedno místo přiletěl druhý dron až poté, co dorazili záchranáři, tedy opět taktika double tap cílená na civilní složky. Ruské ministerstvo obrany nicméně tvrdí, že v noci zasáhlo v Kyjevské oblasti sklad s ukrajinskými střelami Flamingo a palivem pro raketové urychlovače. Poslední týdny navíc Rusové zasáhli v Kyjevě a okolí řadu skladů s knihami, potravinami a spotřebním zbožím. Andrij Kovalenko z Centra pro boj s dezinformacemi říká, že Rusko posílá proudové drony v malých vlnách s cílem vyčerpat protivzdušnou obranu a frustrovat obyvatele.
+          - Cherson se připravuje na zimu bez proudu. Šéf krajské vojenské správy Oleksandr Prokudin vyzval desetitisíce obyvatel, aby odešli do bezpečnějších regionů, protože město může být bez elektřiny a tepla ne hodiny nebo dny jako loňskou zimu, ale dlouhodobě. Od 1. července na Chersonskou oblast dopadlo 170 klouzavých pum – víc než za celé první pololetí – a jen za poslední dva měsíce sem Rusko poslalo přes 1 700 útočných dronů. Ve čtvrtek klouzavé pumy vyřadily chersonskou teplárnu, kde Rusové zničili veškeré generační zařízení. Lidem, kteří se rozhodnou odejít, nabídnou úřady pomoc s evakuací, dopravou i ubytováním. 
+          - Ukrajinské ministerstvo hospodářství snížilo odhad letošního růstu ekonomiky. Ruské útoky, které omezily hlavně vývoz obilí přes černomořské přístavy, srazí očekávaný růst z 1,3 procenta na 0,8 procenta. Za první čtvrtletí ekonomika rostla o 0,6 procenta, další růst brzdí škody na energetice a logistice a blokáda přístavů. Rusko navíc systematicky cílí na klíčová odvětví včetně hutnictví, e-commerce a přístavů. 
+          - Ukrajinci nedávno zasáhli několika raketami údajný velitelský štáb v okupovaném Doněcku. Nyní se objevují první informace, které jim dávají za pravdu. Při úderu měl být zabit podplukovník ruské armády Andrej Viktorovič Mojsejenko. Podle nepotvrzených informací měl být zabit i generálporučík Milčakov. 
+          - Na Dnipropetrovsku zabil letecký útok dva lidi v Synelnykovském okrese, výbuchy hlásil i Pavlohrad. V Záporoží hořelo po ruském úderu obchodní centrum a počet zraněných stoupl na čtyři. Ve Slovjansku jsou po náletech dva ranění, výbuchy byly slyšet také v Charkově a Černihivu. 
+          - Donald Trump odmítl obavy z ruské provokace vůči zemím NATO. Serveru Axios řekl, že ho to vůbec netrápí a žádný problém není. Vyjádřil se krátce po návratu ředitele CIA Johna Ratcliffa z Moskvy, kde měl podle Politica Rusko varovat před eskalací vůči pobaltským členům Aliance. 
+          - Dnes ráno bylo v rumunské výlučné ekonomické zóně, přibližně 15 námořních mil od rumunského pobřeží, zasaženo a potopeno obchodní plavidlo novým typem ruského dronu. Členové posádky, osm Ukrajinců a čtyři Ázerbájdžánci, byli zachráněni rumunským námořnictvem.
+          - Městská rada polské Vratislavi přijala rezoluci odsuzující nenávist a násilí kvůli národnosti poté, co ve městě přibylo incidentů namířených proti Ukrajincům. 
+          - Okupované části Doněcké a Luhanské oblasti zůstaly bez proudu po zásahu elektrárny ve Ščastí. Rozsáhlý výpadek hlásily i další okupované regiony. 
+          - V Sumské oblasti zabila ruská klouzavá puma jedenašedesátiletého muže a dalších sedm lidí zranila, uvedl šéf krajské vojenské správy Oleh Hryhorov.
+          - Finsko formálně požádalo Švédsko o vojenskou pomoc a Švédsko souhlasilo. Do Finska tak míří švédské stíhací letouny a hlídkové válečné lodě. 
+          - Ruské nálety od roku 2022 zničili 90 % všech moderních logistických areálů na Ukrajině. 
+          - Ve Francii najel ruský občan do davu lidí, jednoho člověka zabil a sedm dalších zranil. 
+          - Podle Trumpa Putin neplánuje napadnout NATO. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/998971143093777268)
+          - [Ruský Grad](https://pixelfed.cz/p/dnesnaukrajine/998966477768741685)
+          - [Muniční závod v Tula](https://pixelfed.cz/p/dnesnaukrajine/998966528636814134)
+          - [Mínus ruská technika](https://pixelfed.cz/p/dnesnaukrajine/998966572300301112)
+          - [Rusové zabili cyklistu v Chersonu dronem](https://pixelfed.cz/p/dnesnaukrajine/998966604042617657)
       - title: "Čtvrtek"
         year: "27. srpna 2026" 
         sort: "2026-08-27"
