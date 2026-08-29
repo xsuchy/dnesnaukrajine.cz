@@ -38,6 +38,30 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "29. srpna 2026" 
+        sort: "2026-08-29"
+        image: assets/img/timeline/2026-08-29.jpg
+        podcast: "2026-08-29.mp3"
+        desc: |
+          Kyjevská oblast má za sebou nejtragičtější noc za dlouhou dobu. Ruský dron zasáhl v pátek kolem 20:10 areál ve vesnici Myla v Bučanském okrese, zhruba pět kilometrů západně od Kyjeva u dálnice Kyjev–Čop. Vypukl velký požár a po něm začala detonovat munice, která tam byla uskladněna. Podle šéfa kyjevské oblastní správy Tymura Tkačenka si výbuchy vyžádaly nejméně 37 mrtvých a 42 zraněných, mezi nimi čtyři děti, a číslo zatím není konečné, protože práce na místě pokračují. Mezi mrtvými je i Taras Didyč, starosta Dmytrivské hromady, který na místo dorazil jako jeden z prvních zasahujících. Poškozeno je asi padesát obytných domů, oheň se rozšířil na domy i restauraci a zničil domov pro seniory, evakuováno bylo 381 lidí včetně 59 dětí. Volodymyr Zelenskyj potvrdil, že terčem byl sklad munice, a oznámil, že SBU a Národní policie zahájily trestní řízení pro služební nedbalost kvůli nelegálnímu skladování munice u obytné zástavby. Premiér Serhij Korecký připomněl, že nedávná podobná tragédie ve Vyšneve nebyla ponaučením, a mluví o trestuhodné nedbalosti v pátém roce plnohodnotné invaze. Generální prokuratura prověřuje, zda byly výbušniny v podniku uloženy legálně a zda měl potřebná povolení. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0P1BbByVJ155b95hhiNS9WZx1asZYrDuDfRbiHa8vE94mpyPqTzQXNzu74FuYNC6Al):
+        detail: |
+          - Ukrajinská protivzdušná obrana podle generálního štábu sestřelila nebo potlačila 233 ruských dronů na severu, jihu, východě a ve středu země. Poplachy běží třetí den téměř bez přestávky. V Kyjevě zemřela dvouletá dívka po pádu dronu v Obolonském rajónu, dalších pět lidí bylo od rána zraněno, osmnáctiletá žena skončila v nemocnici. Trosky zapálily dvoupatrový sklad v Holosijivském rajónu a byt v devátém patře ve Svjatošynském rajónu, v Kyjevské oblasti hoří po opakovaných denních úderech logistické areály. 
+          - Ruské ministerstvo obrany tvrdí, že přes noc zničilo 313 ukrajinských dronů nad Belgorodskou, Brjanskou, Voroněžskou, Kalužskou, Kurskou, Lipeckou, Rostovskou a Tulskou oblastí, Moskevskou oblastí, Krasnodarským krajem, Krymem, Tatarstánem a nad Azovským a Černým mořem. K Myle Moskva uvedla, že zasáhla sklad komponent a startovacích urychlovačů pro dálkové drony. Hlásí také útoky na přístavy Mykolajiv a Izmajil a na logistické centrum se sklady součástek pro střely Flamingo v Kyjevské oblasti.
+          - Ukrajinská zahraniční rozvědka tvrdí, že Rusko hledá nové zahraniční rekruty v Indonésii, a má dokumenty nejméně k osmi naverbovaným občanům. Stejný model podle ní dříve fungoval v Nepálu, na Kubě, v Keni a v Indii: nábor slibuje vysoký plat, nebojové zařazení, rychlé občanství a sociální jistoty, většina rekrutů pak skončí bez výcviku na frontě.
+          - Polský premiér Donald Tusk varoval, že se Rusko velmi vážně připravuje na eskalaci, a to jak ve válce proti Ukrajině, tak v celém regionu, a nejbližších sedm až osm měsíců označil za kritické. Na dotaz na moskevskou cestu ředitele CIA Johna Ratcliffa řekl, že Polsko je s vedením agentury v neustálém kontaktu a zaskočeno nebylo. Signálů podle něj v posledních týdnech přibylo víc.
+          - V Chersonu zabil ruský dron ráno muže v Korabelném rajónu, jeho totožnost se zjišťuje. Zraněni byli 44letý muž s výbuchovým traumatem a střepinami v hrudi, 54letý muž v Dniprovském rajónu a 57letý muž u zdravotnického zařízení v centru města. Za celou sobotu hlásí gubernátor Oleksandr Prokudin v Chersonské oblasti dva mrtvé a 27 zraněných, mezi nimi dítě.
+          - Ukrajinské drony v noci masivně zaútočily na jih Ruska. Zasažen byl logistický areál ruského e-shopu Ozon v Rostově na Donu, kde vypukl menší požár a firma provoz dočasně zastavila. V Aksaji hořel sklad prodejce elektroniky DNS, zaměstnanci byli evakuováni, a v obci Leninskoje byl podle kanálu Exilenova Plus zasažen sklad řetězce Čižik.
+          - Podle Politica přešlo za týden do Gruzie přes 113 tisíc Rusů a roste obava z nové vlny mobilizace. Kancelář ukrajinského prezidenta dříve varovala, že Rusko plánuje v letech 2026 a 2027 povolat 600 tisíc branců, letos 300 tisíc a příští rok dalších 300 tisíc.
+          - Zástupce vedoucího Kanceláře prezidenta Pavlo Palisa uvedl, že ruské vedení nařídilo armádě zpracovat plány operací proti Kyjevu a Černihivu. Generální štáb podle něj připravil možné scénáře reakce včetně obranných a protiopatření.
+          - Alexandr Lukašenko jede do Ruska jednat s Vladimirem Putinem a Michailem Mišustinem o bezpečnostní a hospodářské spolupráci.
+          - Zelenskyj označil za cíl tisíc dronů na dálkové údery proti Rusku každý den. Dnešní průměr je přes tři sta a podle prezidenta to nestačí.
+          - Generální štáb vyčíslil ruské ztráty od 24. února 2022 na 1 485 200 vojáků, z toho 1 420 za poslední den.
+          - Spojené státy obnovily pro Ukrajinu cestovní varování nejvyššího stupně Do Not Travel.
+          - Pobaltské státy zakládají společnou pracovní skupinu proti hybridním hrozbám.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/999433396131944565)
+          - (videa budou později na dnesnaukrajine.cz)[https://dnesnaukrajine.cz]
       - title: "Pátek"
         year: "28. srpna 2026" 
         sort: "2026-08-28"

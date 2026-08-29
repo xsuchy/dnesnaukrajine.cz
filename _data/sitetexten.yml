@@ -23,6 +23,94 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Saturday
+    year: August 29, 2026
+    sort: '2026-08-29'
+    image: assets/img/timeline/2026-08-29.jpg
+    podcast: 2026-08-29.mp3
+    desc: 'The Kyiv region has experienced its most tragic night in a long time. On
+      Friday around 8:10 p.m., a Russian drone struck a facility in the village of
+      Myla in the Bucha district, approximately five kilometers west of Kyiv near
+      the Kyiv–Chop highway. A massive fire broke out, followed by the detonation
+      of ammunition that had been stored there. According to Tymur Tkachenko, head
+      of the Kyiv Regional Administration, the explosions left at least 37 dead and
+      42 injured, including four children, and the toll is not yet final as work at
+      the site continues. Among the dead is Taras Didych, mayor of Dmytrivska Hromada,
+      who was one of the first responders to arrive at the scene. About fifty residential
+      buildings were damaged; the fire spread to homes and a restaurant and destroyed
+      a retirement home; 381 people, including 59 children, were evacuated. Volodymyr
+      Zelenskyy confirmed that an ammunition depot was the target and announced that
+      the SBU and the National Police have launched a criminal investigation into
+      official negligence regarding the illegal storage of ammunition near residential
+      areas. Prime Minister Serhiy Koretsky noted that a recent similar tragedy in
+      Vyshneve had not served as a lesson and spoke of reprehensible negligence in
+      the fifth year of the full-scale invasion. The Prosecutor General’s Office is
+      investigating whether the explosives were stored legally at the facility and
+      whether it had the necessary permits. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0P1BbByVJ155b95hhiNS9WZx1asZYrDuDfRbiHa8vE94mpyPqTzQXNzu74FuYNC6Al)
+      also happened:
+
+      '
+    detail: "- According to the General Staff, Ukrainian air defenses shot down or\
+      \ neutralized 233 Russian drones in the north, south, east, and center of the\
+      \ country. Air raid alerts have been sounding for the third day in a row, almost\
+      \ without interruption. In Kyiv, a two-year-old girl died after a drone crashed\
+      \ in the Obolon district; five other people have been injured since this morning,\
+      \ and an 18-year-old woman was hospitalized. Debris set fire to a two-story\
+      \ warehouse in the Holosiivskyi district and a ninth-floor apartment in the\
+      \ Sviatoshynskyi district; in the Kyiv region, logistics facilities are burning\
+      \ following repeated strikes throughout the day. \n- The Russian Ministry of\
+      \ Defense claims that overnight it destroyed 313 Ukrainian drones over the Belgorod,\
+      \ Bryansk, Voronezh, Kaluga, Kursk, Lipetsk, Rostov, and Tula regions; the Moscow\
+      \ region; the Krasnodar Krai; Crimea; Tatarstan; and over the Azov and Black\
+      \ Seas. Regarding Myla, Moscow stated that it struck a warehouse containing\
+      \ components and launch boosters for long-range drones. It also reported attacks\
+      \ on the ports of Mykolaiv and Izmail, as well as on a logistics center with\
+      \ warehouses storing components for Flamingo missiles in the Kyiv region.\n\
+      - Ukrainian foreign intelligence claims that Russia is seeking new foreign recruits\
+      \ in Indonesia and has documents on at least eight recruited citizens. According\
+      \ to the agency, the same model was previously used in Nepal, Cuba, Kenya, and\
+      \ India: recruiters promise high pay, non-combat assignments, fast-track citizenship,\
+      \ and social benefits, but most recruits end up on the front lines without any\
+      \ training.\n- Polish Prime Minister Donald Tusk warned that Russia is very\
+      \ seriously preparing for an escalation, both in the war against Ukraine and\
+      \ throughout the region, and described the next seven to eight months as critical.\
+      \ When asked about CIA Director John Ratcliffe’s trip to Moscow, he said that\
+      \ Poland is in constant contact with the agency’s leadership and was not caught\
+      \ off guard. According to him, there have been more such signals in recent weeks.\n\
+      - In Kherson, a Russian drone killed a man in the Korabelny District this morning;\
+      \ his identity is being determined. A 44-year-old man was injured with blast\
+      \ trauma and shrapnel in his chest, as were a 54-year-old man in the Dnipro\
+      \ District and a 57-year-old man near a medical facility in the city center.\
+      \ Governor Oleksandr Prokudin reported two deaths and 27 injuries in the Kherson\
+      \ region throughout Saturday, including one child.\n- Ukrainian drones launched\
+      \ a massive nighttime attack on southern Russia. A logistics complex belonging\
+      \ to the Russian e-commerce site Ozon in Rostov-on-Don was hit, causing a small\
+      \ fire that led the company to temporarily suspend operations. In Aksay, a warehouse\
+      \ belonging to the electronics retailer DNS caught fire; employees were evacuated.\
+      \ According to the Exilenova Plus channel, a warehouse belonging to the Chizhik\
+      \ chain was also struck in the village of Leninskoye.\n- According to Politico,\
+      \ more than 113,000 Russians crossed into Georgia in one week, and concerns\
+      \ are growing about a new wave of mobilization. The Ukrainian president’s office\
+      \ had previously warned that Russia plans to draft 600,000 conscripts in 2026\
+      \ and 2027—300,000 this year and another 300,000 next year.\n- Pavlo Palisa,\
+      \ deputy head of the Office of the President, stated that the Russian leadership\
+      \ had ordered the military to draw up operational plans against Kyiv and Chernihiv.\
+      \ According to him, the General Staff has prepared possible response scenarios,\
+      \ including defensive measures and countermeasures.\n- Alexander Lukashenko\
+      \ is traveling to Russia to discuss security and economic cooperation with Vladimir\
+      \ Putin and Mikhail Mishustin.\n- Zelenskyy set a target of 1,000 drones for\
+      \ long-range strikes against Russia every day. Today's average is over 300,\
+      \ and according to the president, that is not enough.\n- The General Staff has\
+      \ estimated Russian losses since February 24, 2022, at 1,485,200 soldiers, including\
+      \ 1,420 in the last day.\n- The United States has reinstated the highest-level\
+      \ travel advisory for Ukraine: “Do Not Travel.”\n- The Baltic states are establishing\
+      \ a joint working group to combat hybrid threats.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/999433396131944565)
+
+      - [(Videos will be available later at dnesnaukrajine.cz)[https://dnesnaukrajine.cz]]((videa
+      budou později na dnesnaukrajine.cz)[https://dnesnaukrajine.cz])
+
+      '
   - title: Friday
     year: August 28, 2026
     sort: '2026-08-28'
