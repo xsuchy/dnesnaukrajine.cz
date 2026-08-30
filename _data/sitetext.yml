@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "30. srpna 2026" 
+        sort: "2026-08-30"
+        image: assets/img/timeline/2026-08-30.jpg
+        podcast: "2026-08-30.mp3"
+        desc: |
+          Ukrajinské drony v noci zasáhly Kirišskou rafinerii v Leningradské oblasti. KINEF, celým jménem Kirišiněftěorgsintez, je co do kapacity druhou největší rafinerií v Rusku a vůbec největší v Severozápadním federálním okruhu: zpracuje kolem dvaceti milionů tun ropy ročně. Stejnou noc dostalo zásah letiště v Jejsku v Krasnodarském kraji a v Millerovu v Rostovské oblasti místo, kde Rusové skladují, připravují a vypouštějí útočné drony. Velitel Sil bezpilotních systémů Robert Brovdi později upřesnil, že v Jejsku shořely komplet Pancir-S1, radiolokátor Sopka-2 a sklad letecké výzbroje. V Šabelském byl zničen radar Kasta 2E2 a v Dolotince u millerovského letiště muniční sklady, technicko-opravárenská jednotka, radar Nebo-SV a hlavní cíl celé operace: modul DRL-27 přistávacího radiolokačního systému RSP-27, který na letišti zajišťuje řízení letového provozu. Zelenskyj k tomu řekl, že Rusko musí pocítit, že se válka vrací tam, odkud přišla. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0YhHfvLkQADERguZABRi234xF7MA5pLvfiGnz3T8ArLUTnvwFbNPsTU88ohkdB99Vl):
+        detail: |
+          - New York Times píše, že Putin válku protahuje s kalkulem, že Ukrajina se zhroutí dřív než Rusko, a to navzdory zhoršujícím se ekonomickým vyhlídkám, rostoucím vojenským výdajům a ukrajinským úderům do hloubi ruského území. Podle expertů se chce dočkat okamžiku, kdy Kyjevu kriticky dojdou lidé, zbraně i prostředky protivzdušné obrany, a pak si vynutit ústupky. Analytik Alexandr Gabujev z Carnegie Russia Eurasia Center soudí, že nejtěžší bude nadcházející zima a Kreml se pokusí tlak zvýšit údery na energetiku, civilní infrastrukturu a zbrojní výrobu. Podle Levada centra přitom podporovalo v červenci počínání ruské armády 66 procent dotázaných, výrazně méně než před rokem, a 62 procent se vyslovilo pro přechod k mírovým jednáním.
+          - Kyjev byl pod dronovým útokem třetí noc v řadě a poplachy se ve městě spouštěly a rušily prakticky nepřetržitě. Kolem desáté večer spadl dron mezi obytné domy v Obolonském rajonu a ve dvanáctipatrovém domě hořelo od druhého do pátého patra. Další dron způsobil požár v zeleni v Dniprovském rajonu, ráno pak hořela střecha nebytové budovy v Holosijivském rajonu. Zraněni byli nejméně tři lidé. Den předtím zemřela v Obolonském rajonu dvouletá holčička na zranění od šrapnelů a dalších osm lidí skončilo se zraněními, tři z toho v nemocnici. Během soboty Rusko vypustilo na Ukrajinu 224 útočných dronů, z velké části proudových, protivzdušná obrana jich sestřelila nebo potlačila 199.
+          - Ukrajinská rozvědka HUR zveřejnila detaily o tajném komplexu biolaboratoří v Tverské oblasti. Stojí na Lysém ostrově uprostřed Vyšněvolocké přehrady a oficiálně se jmenuje Centrum experimentální fyziologie. Podle mluvčího HUR Andrije Čerňaka se navenek zabývá nemocemi hospodářských zvířat, ale ruská Federální lékařsko-biologická agentura tam v květnu hledala laboranta, jehož náplní práce má být výslovně manipulace s patogeny I. až IV. skupiny. Do první skupiny přitom spadají původci obzvlášť nebezpečných nákaz, které se snadno a rychle šíří mezi lidmi. Areál hlídají jednotky FSB a FSO, celá vojenská posádka, protiletadlové systémy a prostředky elektronického boje.
+          - Německo chystá tvrdou odpověď na incident s dronem u ukrajinského letounu na letišti Lipsko/Halle. Podle Politica hodlá kancléř Friedrich Merz nová opatření vůči Moskvě oznámit už příští týden, možná souběžně s novým sankčním balíkem Evropské unie. Jak přesně budou vypadat, zatím jasné není, zdroje ale říkají, že vyhoštění diplomatů nebo zavření Ruského domu v Berlíně už nestačí a ve hře je zpřísnění sankcí i rozšíření dodávek zbraní Ukrajině.
+          - Bilance čtvrtečního úderu na sklady v obci Myla západně od Kyjeva vzrostla nejméně na 37 mrtvých a 42 zraněných, mezi nimi jsou čtyři děti. Premiér Korecký prohlásil, že opakovat stejné chyby v pátém roce plné invaze je zločinná nedbalost a že všichni odpovědní musí nést tvrdý trest. Ministerstvo obrany současně vyzvalo šéfy zbrojních podniků, aby si prověřili, jak mají zabezpečené sklady zbraní a munice.
+          - Německý Bild se zeptal bezpečnostních expertů, jak by mohlo Rusko otestovat odolnost NATO. Vyjmenovali šest scénářů: podmořské útoky na kabely, energetické sítě a potrubí, krymskou variantu v Narvě nebo Daugavpilsu, pokus obsadit Gotland či Alandy, vyvolání krize kolem Špicberků, úder z Běloruska směrem na Kaliningrad přes suvalský koridor a rozsáhlý kyberútok na letiště, burzu nebo jinou kritickou soustavu.
+          - Ruská raketa Iskander-M s kazetovou hlavicí zasáhla včera v Charkovské oblasti každoroční vzpomínkový běh na počest padlých vojáků, přičemž zahynuly tři osoby, včetně jednoho policisty.
+          - Finský prezident Alexander Stubb věří, že možnosti Moskvy eskalovat jsou dost omezené a jediné, co jí zbývá, je mobilizace, která by ale měla vnitropolitické následky.
+          - Ukrajinský výrobce pozemních robotů Ratel představil svůj první vzdušný úderný dron. Doletí třicet kilometrů a řídí se přes Starlink.
+          - Generální štáb uvádí, že ruské ztráty od 24. února 2022 dosáhly 1 486 600 vojáků. Za poslední den z toho bylo 1 400.
+          - Ukrajinské síly popřely ruská tvrzení, že se podařilo obsadit Velykyj Prykil a Sadky v Sumské oblasti.
+          - Polské úřady zadržely tři ruské občany, kteří ve Varšavě hromadili střelné zbraně.
+          - Britské úřady varovaly domácí zbrojní firmy před ruskou hrozbou.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/999721047178282095)
+          - [Jejsk](https://pixelfed.cz/p/dnesnaukrajine/999719223637169207)
+          - [Bělgorod](https://pixelfed.cz/p/dnesnaukrajine/999719260336550970)
+          - [Co zbylo z Wildberries](https://pixelfed.cz/p/dnesnaukrajine/999719306025120829)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/999719343109239877)
+          - [Brjansk, práce ruské PVO](https://pixelfed.cz/p/dnesnaukrajine/999719368660513862)
+          - [Robot se vyhnul](https://pixelfed.cz/p/dnesnaukrajine/999719397510583367)
+          - [Pozdravy z Ukrajiny](https://pixelfed.cz/p/dnesnaukrajine/999719431121859656)
+          - [Mínus 47](https://pixelfed.cz/p/dnesnaukrajine/999719840364422230)
+          - [Nedávný Kyjev](https://pixelfed.cz/p/dnesnaukrajine/999719866575242327)
+          - [Ruský dron těsně minul](https://pixelfed.cz/p/dnesnaukrajine/999719886723282008)
+          - [Varšava](https://pixelfed.cz/p/dnesnaukrajine/999719973023224923)
+          - [Mínus ruské sklady](https://pixelfed.cz/p/dnesnaukrajine/999719996366308444)
+          - [Překvápko](https://pixelfed.cz/p/dnesnaukrajine/999720014790009949)
+          - [Bělgorod](https://pixelfed.cz/p/dnesnaukrajine/999720046608991328)
       - title: "Sobota"
         year: "29. srpna 2026" 
         sort: "2026-08-29"
@@ -824,7 +861,6 @@ timeline:
         year: "4. srpna 2026"
         sort: "2026-08-04"
         image: assets/img/timeline/2026-08-04.jpg
-        podcast: "2026-08-04.mp3"
         desc: |
           Rusové zveřejnili na Telegramu video, na kterém jejich FPV dron loví za bílého dne obyčejného prodejce zeleniny na ulici v Chersonu a pokouší se ho zabít. Celý incident natočila také náhodná svědkyně. Muž jako zázrakem vyvázl jen s lehkými zraněními, přestože dron explodoval těsně vedle něj. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid04b6S1857qkSbnB1hbz8FR7Ta79e9k9FgAZ9QvjFTEBbQY3L1ikMb7dfzYvpTT5bDl): 
         detail: |
