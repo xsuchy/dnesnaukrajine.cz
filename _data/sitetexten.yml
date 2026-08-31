@@ -23,6 +23,89 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Monday
+    year: August 31, 2026
+    sort: '2026-08-31'
+    image: assets/img/timeline/2026-08-31.jpg
+    podcast: 2026-08-31.mp3
+    desc: "Russia is attacking Ukrainian cities for the fifth day in a row—and changing\
+      \ its tactics. Instead of a single massive nighttime wave of missiles and drones,\
+      \ it is sending Geran jet drones in hour-long airstrikes spread out throughout\
+      \ the day, with the aim of terrorizing the civilian population as much as possible\
+      \ with constant air raid alerts. Over the past four days, Russia has launched\
+      \ nearly 800 jet-powered drones in this manner. Last night, 121 long-range attack\
+      \ drones and one Kh-59 cruise missile were launched. Air defenses shot down\
+      \ 96 drones, or about 79 percent. The missile missed its target; several drones\
+      \ penetrated the defenses and struck eleven locations, while debris fell at\
+      \ eight other sites. Over the past day, Russian attacks in six regions killed\
+      \ seven people and injured another 43. In Kryvyi Rih, an industrial complex\
+      \ caught fire following a morning strike, and two men were injured. In the Odesa\
+      \ region, the Russians struck a Nova Poshta terminal; this time, there were\
+      \ no injuries. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02oxKua1W1v1ALR91x3xGDAdY8mDeDEW6Lrtk5d6p9SDN85JEhqNqfZLEGbhPawmaFl)\
+      \ also happened: \n"
+    detail: "- A fire broke out overnight at the WB Electronics plant in Skarżysko-Kamienna,\
+      \ Poland—the country’s largest private arms manufacturer, which produces components\
+      \ and systems for drones used by the Polish and Ukrainian militaries. The fire\
+      \ was extinguished in about two hours, and no one was injured. Investigators\
+      \ have not ruled out arson. According to the Onet website, security cameras\
+      \ captured a masked man around midnight who climbed over the fence onto the\
+      \ premises; his backpack and sweater were later found nearby. For context, in\
+      \ late August, three people were arrested in Slovakia on suspicion of planning\
+      \ an arson attack on the plant of the Ukrainian drone manufacturer Skyeton.\
+      \ A virtually unknown group called “GCAW1984” claimed responsibility for the\
+      \ attack; however, according to an analysis by The Insider magazine, the group’s\
+      \ statement was written by a native Russian speaker. \n- Putin arrived at the\
+      \ Shanghai Cooperation Organization summit, where he met with Xi Jinping. According\
+      \ to spokesperson Peskov, the talks “took place in a friendly and constructive\
+      \ atmosphere and focused on bilateral relations.” For the sixth time since the\
+      \ start of the war, Putin is attempting to persuade Beijing to launch the Power\
+      \ of Siberia 2 gas pipeline, which has a capacity of 50 billion cubic meters\
+      \ per year. The dispute centers on price: China wants to pay roughly the same\
+      \ as Russia’s domestic prices. At the summit, Indian Prime Minister Modi publicly\
+      \ called on Putin to end the war in Ukraine.  \n- Elon Musk is reportedly opposed\
+      \ to Ukraine using Starlink to strike Russian territory. However, the Financial\
+      \ Times reported on Sunday that Musk had acknowledged this possibility in a\
+      \ conversation with former Defense Minister Mykhailo Fedorov, noting that the\
+      \ final decision was not his to make and would require White House approval.\n\
+      - Ukrainian drones attacked a warehouse belonging to the Russian e-commerce\
+      \ site Wildberries in Yekaterinburg, more than 1,600 kilometers from the border.\
+      \ According to the Exilenova+ channel, one of the drones crashed near the warehouse.\
+      \ The debris landed in a residential area, damaging three prefabricated apartment\
+      \ buildings and injuring four people; most of the damage consists of broken\
+      \ windows. \n- Romanian Defense Minister Radu Miruță stated that his country\
+      \ does not believe Russia is planning an attack on NATO. According to him, the\
+      \ war has entered a new phase characterized by a stalemate on the front lines,\
+      \ where Russian forces are unable to advance. \n- An explosion occurred at the\
+      \ police station in Rivné. One police officer was killed, and three were injured.\
+      \ Emergency responders remain at the scene, and police are investigating the\
+      \ circumstances and cause of the explosion. \n- U.S. Senator Richard Blumenthal\
+      \ called on the House of Representatives to finally approve the long-delayed\
+      \ package of sanctions against Russia.\n- The independent Russian media outlet\
+      \ Mediazona, in collaboration with the BBC's Russian service, has confirmed\
+      \ the names of 242,747 Russian soldiers killed in Ukraine. \n- Russian Foreign\
+      \ Minister Lavrov described NATO operations in the Arctic as a direct threat\
+      \ and promised an “asymmetric response.”\n- Dmitry Nejelov, deputy warden of\
+      \ the Olenivka prison, was the target of a bomb attack. His condition is unknown.\n\
+      - The Russians have completely destroyed Roshen's logistics center. This threatens\
+      \ to cause disruptions in the supply of confectionery.\n- The European Union\
+      \ intercepted a ship from Russia's shadow fleet in the Mediterranean Sea.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1000111410136926067)
+
+      - [ATB supermarket warehouses are on fire near Kyiv](https://pixelfed.cz/p/dnesnaukrajine/1000107484805187348)
+
+      - [Russian drone operator](https://pixelfed.cz/p/dnesnaukrajine/1000107516955375382)
+
+      - [Anapa](https://pixelfed.cz/p/dnesnaukrajine/1000107590347069207)
+
+      - [Minus the Russian fuel train](https://pixelfed.cz/p/dnesnaukrajine/1000108144165775134)
+
+      - [Drones Never Sleep](https://pixelfed.cz/p/dnesnaukrajine/1000108438484854565)
+
+      - [Yekaterinburg](https://pixelfed.cz/p/dnesnaukrajine/1000108457440380710)
+
+      - [The sea off the coast of Turkey washed ashore the wreck of a Russian ship](https://pixelfed.cz/p/dnesnaukrajine/1000108520382023463)
+
+      '
   - title: Sunday
     year: August 30, 2026
     sort: '2026-08-30'

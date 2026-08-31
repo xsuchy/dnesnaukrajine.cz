@@ -38,6 +38,35 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "31. srpna 2026" 
+        sort: "2026-08-31"
+        image: assets/img/timeline/2026-08-31.jpg
+        podcast: "2026-08-31.mp3"
+        desc: |
+          Rusko útočí na ukrajinská města pátý den v řadě – a mění taktiku. Místo jedné masivní noční vlny raket a dronů posílá proudové Gerany v hodinu trvajících náletech rozložených do celého dne s cílem maximálně terorizovat civilní populaci neustálými poplachy. Za poslední čtyři dny takto Rusko vypustilo bezmála 800 proudových dronů. V noci na dnešek přiletělo 121 dálkových útočných dronů a jedna střela s plochou dráhou letu Kh-59. Protivzdušná obrana sestřelila 96 dronů, tedy asi 79 procent. Střela cíl nezasáhla, několik dronů obranou prošlo a zasáhlo jedenáct míst, na dalších osmi místech spadly trosky. Za poslední den zabily ruské útoky v šesti oblastech sedm lidí a dalších 43 zranily. V Kryvém Rihu hořel po ranním zásahu průmyslový areál a dva muži byli zraněni. V Oděské oblasti Rusové zasáhli terminál Nové pošty, obešlo se to tentokrát bez zraněných. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02oxKua1W1v1ALR91x3xGDAdY8mDeDEW6Lrtk5d6p9SDN85JEhqNqfZLEGbhPawmaFl): 
+        detail: |
+          - V polském Skarżysku-Kamiennej hořel v noci závod WB Electronics, největší polské soukromé zbrojovky, která vyrábí komponenty a systémy pro drony polské a ukrajinské armády. Požár se podařilo uhasit zhruba za dvě hodiny a nikdo nebyl zraněn. Vyšetřovatelé nevylučují žhářství. Podle serveru Onet zachytily kamery kolem půlnoci maskovaného muže, který se dostal přes plot do areálu, poblíž se pak našel jeho batoh a svetr. Pro kontext, koncem srpna zadrželi na Slovensku tři lidi podezřelé z přípravy žhářského útoku na závod ukrajinského výrobce dronů Skyeton. K tomu se přihlásila téměř neznámá skupina „GCAW1984“, nicméně podle analýzy magazínu The Insider psal její prohlášení ruský rodilý mluvčí. 
+          - Putin dorazil na summit Šanghajské organizace pro spolupráci, kde se sešel se Si Ťin-pchingem. Podle mluvčího Peskova se jednání „neslo v přátelské a konstruktivní atmosféře a týkalo se dvoustranných vztahů“. Putin se už pošesté od začátku války pokouší Peking přesvědčit ke spuštění plynovodu Síla Sibiře 2 s kapacitou 50 miliard kubíků ročně. Spor je o cenu: Čína chce platit zhruba ruské vnitřní ceny. Indický premiér Módí na summitu Putina veřejně vyzval, aby ukončil válku s Ukrajinou.  
+          - Elon Musk je údajně proti tomu, aby Ukrajina používala Starlink k úderům na ruské území. Deník Financial Times přitom ještě v neděli psal, že Musk takovou možnost v rozhovoru s bývalým ministrem obrany Mychajlem Fedorovem připustil s tím, že konečné rozhodnutí není na něm a potřebuje souhlas Bílého domu.
+          - Ukrajinské drony útočily na sklad ruského e-shopu Wildberries v Jekatěrinburgu, tedy více než 1 600 kilometrů od hranic. Podle kanálu Exilenova+ spadl jeden z dronů poblíž skladu. Trosky dopadly na obytnou zástavbu, poškodily tři panelové domy a zranily čtyři lidi, většina škod jsou vysklená okna. 
+          - Rumunský ministr obrany Radu Miruță prohlásil, že jeho země nevěří, že Rusko chystá útok na NATO. Válka podle něj vstoupila do nové fáze, kterou charakterizuje stagnace na frontě, kde ruské síly nedokážou postupovat. 
+          - V budově policie v Rivném došlo k výbuchu. Jeden policista zahynul, tři byli zraněni. Na místě zůstávají záchranné složky, okolnosti a příčinu výbuchu policie vyšetřuje. 
+          - Americký senátor Richard Blumenthal vyzval Sněmovnu reprezentantů, aby konečně schválila dlouho odkládaný balík sankcí proti Rusku.
+          - Ruské nezávislé médium Mediazona ve spolupráci s ruskou redakcí BBC potvrdilo jména 242 747 ruských vojáků padlých na Ukrajině. 
+          - Ruský ministr zahraničí Lavrov označil operace NATO v Arktidě za přímou hrozbu a slíbil „asymetrickou odpověď“.
+          - Zástupce ředitele věznice v Olenivce Dmitry Nejelov se stal terčem bombového útoku. Jeho stav není znám.
+          - Rusové zcela zničili logistické centrum firmy Roshen. Hrozí tak výpadky v dodávkách cukrovinek.
+          - Evropská unie zadržela ve Středozemním moři loď z ruské stínové flotily.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1000111410136926067)
+          - [U Kyjeva hoří sklady supermarketů ATB](https://pixelfed.cz/p/dnesnaukrajine/1000107484805187348)
+          - [Ruský dronař](https://pixelfed.cz/p/dnesnaukrajine/1000107516955375382)
+          - [Anapa](https://pixelfed.cz/p/dnesnaukrajine/1000107590347069207)
+          - [Mínus ruský vlak s palivem](https://pixelfed.cz/p/dnesnaukrajine/1000108144165775134)
+          - [Drony nespí](https://pixelfed.cz/p/dnesnaukrajine/1000108438484854565)
+          - [Jekatěrinburg](https://pixelfed.cz/p/dnesnaukrajine/1000108457440380710)
+          - [Moře v Turecku vyplavilo vrak ruské lodi](https://pixelfed.cz/p/dnesnaukrajine/1000108520382023463)
       - title: "Neděle"
         year: "30. srpna 2026" 
         sort: "2026-08-30"
