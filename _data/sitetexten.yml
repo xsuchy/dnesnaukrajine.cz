@@ -23,6 +23,99 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Tuesday
+    year: July 1, 2026
+    sort: '2026-09-01'
+    image: assets/img/timeline/2026-09-07.jpg
+    podcast: 2026-09-01.mp3
+    desc: "Russia has been attacking Ukrainian cities for the sixth day in a row.\
+      \ Overnight, ballistic missiles struck a railway depot and other Ukrzaliznytsia\
+      \ facilities in Kyiv. Seven people were killed, including six railway workers.\
+      \ The total toll from the attack on the capital rose to eight dead and seven\
+      \ wounded during the day, including three children. In Boryspil, the strike\
+      \ damaged an ordinary five-story apartment building, from which fifty people\
+      \ had to be evacuated; local businesses were also damaged. In the city center,\
+      \ four people died and thirteen were injured. According to Volodymyr Zelenskyy,\
+      \ the overnight attack claimed a total of twelve lives (including one Indian\
+      \ citizen) and left dozens injured. Nearly 350 rescue workers were deployed\
+      \ in Kyiv and the surrounding area to deal with the aftermath. Air defense systems\
+      \ intercepted five ballistic missiles, five Kalibr missiles, two S8000 Banderol\
+      \ missiles, and 187 drones. According to an Air Force spokesperson, all cruise\
+      \ missiles were shot down. However, the attacks continued throughout the day.\
+      \ And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02is8dHS6JNMGKjoaMa6GsetrDPJPYuy72unY98GiKbrQ4LRCKuJsZtyR176x4SVaFl)\
+      \ also happened: \n"
+    detail: "- Ukrainian drones struck the port of Ust-Luga in the Leningrad Region,\
+      \ near St. Petersburg, overnight—specifically the Novatek-Ust-Luga complex.\
+      \ Key components of the refinery and processing facilities were damaged, and\
+      \ a large fire broke out on the premises. Governor Alexander Drozděnko acknowledged\
+      \ the damage to the port and claimed that 38 drones were shot down over the\
+      \ area, 17 of them directly over the port. Ust-Luga is one of Russia’s largest\
+      \ ports on the Baltic Sea, and its oil terminal is a key hub for the export\
+      \ of oil and petroleum products—and thus for the state budget. The Ukrainians\
+      \ have repeatedly attacked it, most recently on August 14. \n- Estonian Defense\
+      \ Minister Hanno Pevkur said that Ukrainian drones had once again entered Estonian\
+      \ airspace. NATO aircraft monitored the situation. According to Pevkur, Russia\
+      \ is testing where the thin red line lies for the activation of Article 5, and\
+      \ the allies must clearly demonstrate that they stand united. Estonian Foreign\
+      \ Minister Margus Tsahkna had previously stated that drones knocked off course\
+      \ by Russian jammers are a price worth paying for the destruction of Russian\
+      \ refineries and bases, and that Estonia will not ask Ukraine to stop the attacks.\
+      \ \n- At an informal meeting of EU defense ministers in Ireland, the EU’s top\
+      \ diplomat, Kaja Kallas, called on countries that have anti-missile interceptors\
+      \ in storage to transfer them to Ukraine. According to her, frozen funds from\
+      \ the European Peace Facility could also be made available to Ukraine; a number\
+      \ of member states have already signaled their willingness to do so. Ireland\
+      \ will allocate 10 million euros to modernize Ukrainian training centers. \n\
+      - Germany will respond to the drone sabotage at the Leipzig airport, which local\
+      \ politicians and intelligence agencies say was orchestrated by Russia. Foreign\
+      \ Minister Johann Wadephul announced that the Russian Consulate General in Bonn\
+      \ will cease operations by September 18 and that Berlin will terminate the agreement\
+      \ governing the operation of the Russian House in Berlin. Entry requirements\
+      \ for Russian citizens will also be tightened, and further measures will be\
+      \ taken against Russia’s shadow fleet. \n- The group that claimed responsibility\
+      \ for the attempted arson attack on a Ukrainian drone factory in Slovakia left\
+      \ behind several strange clues. The Insider discovered Instagram captions in\
+      \ Russian, a font used by Yandex, and a quote from Orwell that was apparently\
+      \ translated from English into Russian and then back into English.\n- In the\
+      \ south, glide bomb and drone attacks on Odesa and the surrounding area continued\
+      \ into the evening. The Russians struck the Nova Poshta terminal, deliberately\
+      \ damaged export infrastructure, and attacked the Orlivka international border\
+      \ crossing on the border with Romania for the fourth time. Thousands of households\
+      \ were left without electricity. \n- Germany's largest power plant in Brandenburg\
+      \ was targeted in an attack involving homemade rockets. Several homemade explosive\
+      \ and incendiary devices were later discovered on the grounds of the Jänschwalde\
+      \ lignite-fired power plant. Some of them were subsequently defused by bomb\
+      \ disposal experts. \n- The school year has begun in Ukraine. Three million\
+      \ children have returned to school, including roughly 240,000 first-graders—10\
+      \ percent fewer than last year. Ombudsman Dmytro Lubinec noted that since the\
+      \ start of the full-scale invasion, Russian shelling has destroyed 423 educational\
+      \ facilities. \n- The Ukrainian SBU gathered evidence against a Russian general\
+      \ and a colonel and charged them in absentia with missile strikes on the Okhmatdyt\
+      \ Children's Hospital in Kyiv and on a Reuters journalist in the Donetsk region.\
+      \ \n- On August 31 and overnight into today, Ukrainian forces struck Russian\
+      \ drone launch sites, a communications hub, command and observation posts, and\
+      \ warehouses in the Belgorod region and in the temporarily occupied territory.\
+      \ \n- According to the ISW, the second batch of Russian \"Rassvet\" satellites\
+      \ failed to reach their intended orbit. This is yet another setback in Russia's\
+      \ efforts to quickly launch its own version of Starlink. \n- Spain claims that\
+      \ the influx of migrants into Ceuta was preceded by a coordinated Russian disinformation\
+      \ campaign that set a mass of people in motion. \n- A Russian citizen shot and\
+      \ killed three employees at a public shooting range in Montenegro. \n- In Kherson,\
+      \ a Russian FPV drone struck a taxi, injuring two children.\n- Britain has doubled\
+      \ the maximum fine for violating sanctions.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1000463341662202126)
+
+      - [In Russia, it is common to talk about the genocide of Ukraine](https://pixelfed.cz/p/dnesnaukrajine/1000461775844190447)
+
+      - [Minus the occupiers](https://pixelfed.cz/p/dnesnaukrajine/1000461833683986673)
+
+      - [HIMARS vs. the Russians](https://pixelfed.cz/p/dnesnaukrajine/1000461870554167539)
+
+      - [Zelensky with Schoolchildren](https://pixelfed.cz/p/dnesnaukrajine/1000461977822943476)
+
+      - [Russian Casualties](https://pixelfed.cz/p/dnesnaukrajine/1000462028369180917)
+
+      '
   - title: Monday
     year: August 31, 2026
     sort: '2026-08-31'

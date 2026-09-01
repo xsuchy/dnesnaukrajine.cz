@@ -38,6 +38,36 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "1. července 2026" 
+        sort: "2026-09-01"
+        image: assets/img/timeline/2026-09-07.jpg
+        podcast: "2026-09-01.mp3"
+        desc: |
+          Rusko útočí na ukrajinská města šestý den v řadě. V noci na dnešek zasáhly balistické rakety v Kyjevě železniční depo a další objekty Ukrzaliznyce. Zahynulo sedm lidí, z toho šest železničářů. Celková bilance útoku na hlavní město se přes den vyšplhala na osm mrtvých a sedm zraněných, mezi nimi tři děti. V Boryspilu poškodil zásah obyčejný pětipatrový panelák, odkud muselo být evakuováno padesát lidí, poškozené jsou i tamní podniky. V centru města zemřeli čtyři lidé a třináct jich je zraněných. Podle Volodymyra Zelenského si tak celý noční útok vyžádal dvanáct mrtvých (mezi nimi je občan Indie), a desítky zraněných. Následky odstraňovalo jen v Kyjevě a okolí bezmála 350 záchranářů. Protivzdušná obrana zneškodnila pět balistických raket, pět Kalibrů, dvě střely S8000 Banderol a 187 dronů. Podle mluvčího letectva byly sestřeleny všechny řízené střely s plochou dráhou letu. Útoky ale pokračovaly i přes den. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02is8dHS6JNMGKjoaMa6GsetrDPJPYuy72unY98GiKbrQ4LRCKuJsZtyR176x4SVaFl): 
+        detail: |
+          - Ukrajinské drony v noci zasáhly přístav Usť-Luga v Leningradské oblasti kousek od Petrohradu, konkrétně komplex Novatek-Usť-Luga. Poškozené jsou klíčové součásti rafinerie a technologická zařízení a v areálu vypukl rozsáhlý požár. Gubernátor Alexandr Drozděnko škody v přístavu připustil a tvrdí, že nad oblastí bylo zničeno 38 dronů, sedmnáct z nich přímo nad přístavem. Usť-Luga patří k největším ruským přístavům v Baltském moři a jeho ropný terminál je klíčovým uzlem pro vývoz ropy a ropných produktů, tedy i pro státní rozpočet. Ukrajinci na něj útočí opakovaně, naposledy 14. srpna. 
+          - Estonský ministr obrany Hanno Pevkur řekl, že do estonského vzdušného prostoru znovu vlétly ukrajinské drony. Situaci monitorovala letadla NATO. Podle Pevkura Rusko testuje, kde leží tenká červená čára pro aktivaci článku 5, a spojenci musí jasně ukázat, že drží při sobě. Estonský ministr zahraničí Margus Tsahkna dříve prohlásil, že drony svedené z kurzu ruskými rušičkami jsou cena, kterou se vyplatí platit za ničení ruských rafinerií a základen, a že Estonsko nebude Ukrajinu žádat, aby útoky zastavila. 
+          - Na neformálním jednání ministrů obrany EU v Irsku vyzvala šéfka evropské diplomacie Kaja Kallasová země, které mají ve skladech protiraketové interceptory, aby je předaly Ukrajině. Podle ní by se Ukrajině mohly zpřístupnit i zablokované peníze z Evropského mírového nástroje, ochotu už avizovala řada členských států. Irsko uvolní deset milionů eur na modernizaci ukrajinských výcvikových středisek. 
+          - Německo odpoví na dronovou sabotáž na letišti v Lipsku, za kterou podle tamních politiků i tajných služeb stojí Rusko. Ministr zahraničí Johann Wadephul oznámil, že ruský generální konzulát v Bonnu do 18. září ukončí činnost a Berlín vypoví dohodu o fungování Ruského domu v Berlíně. Zpřísní se také podmínky pro vstup ruských občanů do země a přijdou další opatření proti ruské stínové flotile. 
+          - Skupina, která se přihlásila k odpovědnosti za pokus o žhářský útok na ukrajinskou továrnu na drony na Slovensku, po sobě zanechala několik podivných stop. Portál The Insider objevil popisky na Instagramu v ruštině, písmo využívané platformou Yandex – a citát z Orwella, který byl očividně přeložen z angličtiny do ruštiny a poté zpět do angličtiny.
+          - Na jihu pokračovaly od večera útoky klouzavými bombami a drony na Oděsu a okolí. Rusové zasáhli terminál Nové pošty, cíleně poškodili exportní infrastrukturu a už počtvrté napadli mezinárodní hraniční přechod Orlivka na hranici s Rumunskem. Bez elektřiny zůstaly tisíce domácností. 
+          - Největší německá elektrárna v Braniborsku se stala terčem útoku pomocí podomácku vyrobených raket. V areálu hnědouhelné elektrárny Jänschwalde bylo později objeveno několik podomácku vyrobených výbušných a zápalných zařízení. Některá z nich pak zneškodnili pyrotechnici. 
+          - Na Ukrajině začal školní rok. Do lavic usedly tři miliony dětí, prvňáčků je zhruba 240 tisíc, o deset procent méně než loni. Ombudsman Dmytro Lubinec připomněl, že od začátku plné invaze zničilo ruské ostřelování 423 vzdělávacích zařízení. 
+          - Ukrajinská SBU shromáždila důkazy proti ruskému generálovi a plukovníkovi a obvinila je v nepřítomnosti z raketových úderů na dětskou nemocnici Ochmatdyt v Kyjevě a na novináře agentury Reuters v Doněcké oblasti. 
+          - Ukrajinské síly zasáhly 31. srpna a v noci na dnešek startovací pozice ruských dronů, komunikační uzel, velitelské a pozorovací stanoviště a sklady v Bělgorodské oblasti a na dočasně okupovaném území. 
+          - Druhá várka ruských satelitů Rassvet podle ISW nedosáhla plánované oběžné dráhy. Je to další zádrhel v ruské snaze rychle zprovoznit vlastní obdobu Starlinku. 
+          - Španělsko tvrdí, že invazi migrantů do Ceuty předcházela koordinovaná ruská dezinformační kampaň, která dala masu lidí do pohybu. 
+          - Ruský občan zastřelil tři zaměstnance na veřejné střelnici v Černé Hoře. 
+          - V Chersonu zasáhl ruský FPV dron taxi, zranění utrpěly dvě děti.
+          - Británie zdvojnásobila maximální pokutu za porušení sankcí.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1000463341662202126)
+          - [V Rusku se běžně mluví o genocidě Ukrajiny](https://pixelfed.cz/p/dnesnaukrajine/1000461775844190447)
+          - [Mínus okupanti](https://pixelfed.cz/p/dnesnaukrajine/1000461833683986673)
+          - [HIMARS versus Rusové](https://pixelfed.cz/p/dnesnaukrajine/1000461870554167539)
+          - [Zelenský u školáků](https://pixelfed.cz/p/dnesnaukrajine/1000461977822943476)
+          - [Ruské ztráty](https://pixelfed.cz/p/dnesnaukrajine/1000462028369180917)
       - title: "Pondělí"
         year: "31. srpna 2026" 
         sort: "2026-08-31"
