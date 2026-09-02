@@ -23,6 +23,95 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Wednesday
+    year: July 2, 2026
+    sort: '2026-09-02'
+    image: assets/img/timeline/2026-09-02.jpg
+    podcast: 2026-09-02.mp3
+    desc: 'There was gunfire in Kyiv last night. Unfortunately, it involved Ukrainian
+      security forces. According to Ukrainian media, on Yuri Shumsky Street in the
+      Dnipro district, members of the military intelligence service HUR intervened
+      against a group of people that reportedly included Stepan Kaplunov, deputy commander
+      of the Russian Volunteer Corps for Combat Operations. Kaplunov disappeared a
+      few days ago; according to the RDK, he was taken away by unknown men in the
+      courtyard of his own home. The group that detained him turned out to be members
+      of the SBU. Commanders from both units initially calmed the situation on the
+      scene, but after additional SBU personnel arrived and began detaining HUR officers,
+      more shots were fired. Ukrainian Pravda reports that three HUR personnel were
+      injured. Police closed off the street and rerouted public transportation; videos
+      of men in military uniforms and footage of the shooting circulated online. Later
+      that morning, the SBU and HUR jointly announced that they had thwarted a terrorist
+      attack that the Russian FSB was planning against one of the leaders of the Russian
+      opposition movement, who had arrived in Ukraine for Independence Day celebrations.
+      According to RBK-Ukraine sources, the individual in question is Kaplunov. No
+      official information has been released regarding his whereabouts or condition.
+      And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Up6gKP3XDbrJ54xfCq8UtdLqxcsNMratoiBDjWnyib4vFccyGnFv1tMNoaho4oGAl)
+      also happened:
+
+      '
+    detail: "- Russia attacked Kyiv for the seventh day in a row, almost without pause.\
+      \ Overnight, it launched Iskander ballistic missiles, Banderol missiles, and\
+      \ nearly two hundred drones into Ukraine; the attack continued in the morning.\
+      \ Around 7:14 a.m., the Air Force issued a warning about a jet-powered drone\
+      \ heading toward Kyiv via Kotsyubynske; at 7:25 a.m., explosions were heard\
+      \ again in the capital, with more following at 9:53 a.m. and after 10:34 a.m.\
+      \ In the Shevchenkivskyi district, a drone struck a six-story residential building\
+      \ and damaged a medical facility; two injured doctors were hospitalized. In\
+      \ the Holosiivskyi district, an educational facility caught fire—just one day\
+      \ after Ukrainian children returned to school. According to Klitschko’s reports,\
+      \ at least seven people were injured. According to Ukrainian media, the nighttime\
+      \ shelling claimed eight lives.\n- Zelenskyy announced that Ukraine is launching\
+      \ an operation aimed at closing off Russian airspace: “Today, we want to warn\
+      \ all airlines that use Russian airspace, all insurance companies, and everyone\
+      \ who still uses key Russian airports: Russian airspace is becoming completely\
+      \ dangerous. Russian airspace is intended for Ukrainian drones, not for civil\
+      \ aviation.” Turkish airlines are already responding by canceling some flights.\
+      \ \n- Russian strikes have also affected other regions over the past 24 hours.\
+      \ In the Kherson region, drones, the air force, and artillery struck 54 communities;\
+      \ in the Sumy region, 62 strikes were recorded, resulting in one death and eight\
+      \ injuries. An industrial facility caught fire in the Poltava region; in Vyshneve,\
+      \ in the Bucha district, a drone set two row houses ablaze; and in the Kyiv\
+      \ region, firefighters extinguished fires at three warehouses.\n- Putin dismissed\
+      \ reports of an impending new wave of mobilization in Russia as utter nonsense\
+      \ and an information attack. At the same time, however, he said he had ordered\
+      \ preparations for large-scale strikes against Ukraine’s energy infrastructure.\
+      \ In the same speech, he claimed that the Russian army was 12 kilometers away\
+      \ from Sumy, even though in June he had spoken of 10.5 kilometers, and the distance\
+      \ as the crow flies is actually roughly 20 kilometers.\n- Sweden is once again\
+      \ pushing for the use of frozen Russian assets to benefit Ukraine, citing Russian\
+      \ hybrid attacks as justification. According to Foreign Minister Marie Stenergard,\
+      \ the fairest solution—even for taxpayers—is to transfer the seized assets to\
+      \ Ukraine.\n- The Irish foreign minister avoided answering a question about\
+      \ the Aughinish Alumina plant, which is owned by the Russian company Rusal.\
+      \ The vast majority of its production is exported to Russia, and according to\
+      \ findings, the material is found in weapons used against Ukraine.\n- Former\
+      \ Ukrainian Defense Minister Fedorov is launching a defense tech startup. He\
+      \ even has his first investor: Alex Karp, the CEO of the American defense company\
+      \ Palantir. \n- The Kremlin has hinted that a trilateral meeting between Putin,\
+      \ Trump, and Xi Jinping could take place at the APEC summit in China. This was\
+      \ stated by adviser Yuri Ushakov.\n- Kaja Kallas, the head of European diplomacy,\
+      \ described the Russian attempted attack at the Leipzig/Halle Airport as state-sponsored\
+      \ terrorism.\n- Putin assured Iranian President Pezeshkian that Russia would\
+      \ provide Tehran with the necessary assistance during a war with the U.S. and\
+      \ would stand by it.\n- Russia attacked Odessa. It damaged the city's infrastructure\
+      \ and injured eight people, including a child.\n- Another bomb attack took place\
+      \ in Sevastopol. However, it is unclear who the target was. \n- A Russian Mi-8\
+      \ military helicopter on Sakhalin made a hard emergency landing on a road. \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1000755241414186623)
+
+      - [On the front lines](https://pixelfed.cz/p/dnesnaukrajine/1000752146953549377)
+
+      - [Gunfight in Kyiv](https://pixelfed.cz/p/dnesnaukrajine/1000752157837022786)
+
+      - [Kyiv](https://pixelfed.cz/p/dnesnaukrajine/1000752169728943683)
+
+      - [Sakhalin](https://pixelfed.cz/p/dnesnaukrajine/1000752180847371844)
+
+      - [Sakhalin](https://pixelfed.cz/p/dnesnaukrajine/1000752192071464518)
+
+      - [Bull''s-eye!](https://pixelfed.cz/p/dnesnaukrajine/1000752204041078343)
+
+      '
   - title: Tuesday
     year: July 1, 2026
     sort: '2026-09-01'

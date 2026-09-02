@@ -38,6 +38,35 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "2. července 2026" 
+        sort: "2026-09-02"
+        image: assets/img/timeline/2026-09-02.jpg
+        podcast: "2026-09-02.mp3"
+        desc: |
+          V Kyjevě se v noci na dnešek střílelo. A bohužel mezi ukrajinskými silovými složkami. Na ulici Jurije Šumského v Dniprovském rajónu podle ukrajinských médií zasahovali příslušníci vojenské rozvědky HUR proti skupině lidí, u nichž měl být Stepan Kaplunov, zástupce velitele Ruského dobrovolnického sboru pro bojové operace. Kaplunov zmizel před několika dny, podle RDK ho na dvoře jeho vlastního domu odvedli neznámí muži. Skupina, která ho zadržela, se ukázala být příslušníky SBU. Velitelé obou útvarů situaci na místě nejprve uklidnili, po příjezdu dalších lidí ze SBU, kteří začali zadržovat důstojníky HUR, ale padly další výstřely. Ukrajinská Pravda píše o třech zraněných příslušnících HUR. Policie uzavřela ulici a nechala odklonit městskou dopravu, na sítích kolovala videa mužů ve vojenském oblečení a záznamy střelby. Dopoledne pak SBU společně s HUR oznámily, že zabránily teroristickému útoku, který ruská FSB chystala na jednoho z vůdců ruského opozičního hnutí, jenž přijel do Ukrajiny na oslavy Dne nezávislosti. Podle zdrojů RBK-Ukrajina jde právě o Kaplunova. Kde se nachází a v jakém je stavu, oficiálně nikdo nesdělil. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Up6gKP3XDbrJ54xfCq8UtdLqxcsNMratoiBDjWnyib4vFccyGnFv1tMNoaho4oGAl):
+        detail: |
+          - Rusko útočilo na Kyjev sedmý den téměř bez přestávky. V noci vyslalo na Ukrajinu balistické Iskandery, rakety Banderol a bezmála dvě stě dronů, ráno útok pokračoval. Kolem 7:14 varovalo letectvo před proudovým dronem mířícím na Kyjev přes Kocjubynske, v 7:25 se v hlavním městě opět ozvaly výbuchy, další následovaly v 9:53 a po 10:34. V Ševčenkivském rajónu zasáhl dron šestipatrový obytný dům a poškodil zdravotnické zařízení, dva ranění lékaři skončili v nemocnici. V Holosijivském rajónu hořel objekt vzdělávacího zařízení, tedy den poté, co ukrajinské děti nastoupily do škol. Podle Kličkových údajů je zraněných osob nejméně sedm. Noční ostřelování si podle ukrajinských médií vyžádalo osm mrtvých.
+          - Zelenskyj vyhlásil, že Ukrajina spouští operaci s cílem uzavřít ruský vzdušný prostor: „Dnes chceme varovat všechny letecké společnosti, které využívají ruský vzdušný prostor, všechny pojišťovny a všechny, kdo stále využívají klíčová ruská letiště: ruský vzdušný prostor se stává zcela nebezpečným. Ruský vzdušný prostor je určen pro ukrajinské drony, nikoli pro civilní letectví.“ Turecké aerolinky už reagují rušením některých letů. 
+          - Ruské údery se za posledních čtyřiadvacet hodin dotkly i dalších regionů. Na Chersonsku zasáhly drony, letectvo a dělostřelectvo 54 obcí, na Sumsku napočítali 62 úderů s jedním mrtvým a osmi zraněnými. V Poltavské oblasti hořel průmyslový objekt, ve Vyšnevém v Bučanském rajónu zapálil dron dva řadové domy a v Kyjevské oblasti hasiči likvidovali požáry ve třech skladech.
+          - Putin označil zprávy o chystané nové vlně mobilizace v Rusku za naprostý nesmysl a informační útok. Zároveň ale řekl, že nařídil přípravu rozsáhlých úderů na ukrajinskou energetickou infrastrukturu. V témže vystoupení tvrdil, že ruské armádě zbývá k Sumám dvanáct kilometrů, ačkoliv v červnu mluvil o deseti a půl a vzdušnou čarou je to ve skutečnosti zhruba dvacet.
+          - Švédsko znovu tlačí na využití zmrazených ruských aktiv ve prospěch Ukrajiny a argumentuje ruskými hybridními útoky. Podle ministryně zahraničí Marie Stenergardové je nejspravedlivější řešení, i vůči daňovým poplatníkům, zabavená aktiva Ukrajině předat.
+          - Irský ministr zahraničí se vyhnul odpovědi na otázku ohledně závodu Aughinish Alumina, který vlastní ruský Rusal. Drtivou většinu produkce vyváží do Ruska a materiál se podle zjištění objevuje ve zbraních používaných proti Ukrajině.
+          - Bývalý ukrajinský ministr obrany Fedorov zakládá zbrojní start-up. A dokonce už má i prvního investora: šéfa americké zbrojní firmy Palantir Alexe Karpa. 
+          - Kreml naznačil, že na summitu APEC v Číně by mohlo dojít k trojstrannému setkání Putina, Trumpa a Si Ťin-pchinga. Uvedl to poradce Jurij Ušakov.
+          - Šéfka evropské diplomacie Kaja Kallasová označila ruský pokus o útok na letišti Lipsko/Halle za státem sponzorovaný terorismus.
+          - Putin ujistil íránského prezidenta Pezeškjána, že Rusko Teheránu v době války s USA poskytne potřebnou pomoc a stojí při něm.
+          - Rusko zaútočilo na Oděsu. Poškodilo tamní infrastrukturu a zranilo osm lidí, mezi nimi dítě.
+          - V Sevastopolu proběhl další bombový atentát. Není ale jasné, kdo byl jeho cílem. 
+          - Ruský vojenský vrtulník Mi-8 na Sachalinu nouzově tvrdě přistál na silnici. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1000755241414186623)
+          - [Na frontě](https://pixelfed.cz/p/dnesnaukrajine/1000752146953549377)
+          - [Přestřelka v Kyjevě](https://pixelfed.cz/p/dnesnaukrajine/1000752157837022786)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/1000752169728943683)
+          - [Sachalin](https://pixelfed.cz/p/dnesnaukrajine/1000752180847371844)
+          - [Sachalin](https://pixelfed.cz/p/dnesnaukrajine/1000752192071464518)
+          - [Trefa!](https://pixelfed.cz/p/dnesnaukrajine/1000752204041078343)
       - title: "Úterý"
         year: "1. července 2026" 
         sort: "2026-09-01"
