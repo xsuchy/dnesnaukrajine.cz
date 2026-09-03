@@ -38,6 +38,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "3. září 2026" 
+        sort: "2026-09-03"
+        image: assets/img/timeline/2026-09-03.jpg
+        podcast: "2026-09-03.mp3"
+        desc: |
+          Německo podle Der Spiegel chystá rozsáhlou odvetu za ruský dronový útok na letišti Lipsko/Halle a Ukrajina v ní hraje hlavní roli. Berlín má v září dodat tisíce útočných dronů a rakety pro systémy Iris-T, prohloubit spolupráci tajných služeb a pomáhat Ukrajincům se zaměřováním cílů pro protiúdery na ruském území. Bundestag má brzy schválit zákon o zpravodajských službách, který BND umožní aktivnější obranu: přístup k počítačům a serverům protivníka, mazání ukradených dat a zásahy do dodavatelských řetězců. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02mnr2U5sNaHV2cujfd3Q3Pnc4x2uuzLETerLtXxV9GA9o3tyHw5Z48WVCHwhgH1u3l):
+        detail: |
+          - Rusko vypustilo přes noc 163 dronů a dalších vzdušných cílů, zhruba polovinu z nich proudových, k tomu střely S8000 Banderol, drony Gerbera a nejrůznější makety. Protivzdušná obrana sestřelila 135 dronů, zásahy jsou hlášené z patnácti míst a na dalších čtyřech spadly trosky. Za poslední den zabily ruské útoky nejméně pět lidí a 67 jich zranily. Nejhorší bilanci má Dnipropetrovsko, kde zemřeli čtyři lidé a třináct jich bylo zraněno při útocích dronů, dělostřelectva a klouzavé pumy v šesti okresech. Na Chersonsku je jeden mrtvý a šestnáct zraněných, v Oděské oblasti sedmnáct zraněných včetně tří dětí a poškozených je dvacet bytů mezi desátým a sedmnáctým patrem zasažené výškové budovy. 
+          - Zelenského varování před lety nad Ruskem začíná mít viditelné následky. Ruská letecká agentura Rosaviacija zavedla druhou noc v řadě dočasná omezení na moskevských letištích Vnukovo a Šeremeťjevo. Ve čtvrtek odpoledne byl přitom podle stejného zdroje na Šeremeťjevu prakticky každý plánovaný přílet buď zpožděný, nebo zrušený, na Vnukovu byla situace obdobná. Ukrajina zároveň vyzvala leteckou agenturu OSN, aby doporučila členským státům zákaz provozu v ruském vzdušném prostoru. Rusko oficiálně tvrdí, že jeho nebe je bezpečné, ve stejný den ale musela Rosaviacija omezit provoz i na letištích v Soči a Gelendžiku kvůli útoku námořních dronů.
+          - SBU tvrdí, že zástupce velitele ruského dobrovolnického sboru Mezinárodní legie GUR Kaplunov byl usvědčen ze spolupráce s ruskými speciálními službami. Měl připravit pokus o atentát na jednoho z vůdců ruského opozičního hnutí, který měl přijet na Ukrajinu, a byl také pověřen likvidací dalších příslušníků Ukrajinských obranných sil. Kaplunov přiznal kontakty s FSB a poskytl informace, díky nimž bylo možné identifikovat osoby zapojené do konspirace. SBU také zdokumentovala jeho korespondenci se zástupcem FSB.
+          - Putin tvrdí, že ruská armáda na frontě dál postupuje, čísla ale mluví jinak. Podle údajů ukrajinského generálního štábu přišlo Rusko v srpnu o 42 020 vojáků. V přepočtu na zisky to znamená 340 padlých a raněných na každý získaný kilometr čtvereční. Rusové v srpnu obsadili 90,35 kilometru čtverečního, ukrajinskými protiútoky ale ztratili nejméně 129,8 kilometru čtverečního, tedy víc, než získali.
+          - Ukrajinské síly zasáhly v noci v Sevastopolu ruský vyloďovací člun BK-16. Ve stejné oblasti dostala zásah mobilní stanice elektronického boje Krasucha-4 a u Marjinoho na okupovaném Krymu řídicí středisko dronů. Na pevnině byl v Doněcké oblasti zasažen sklad dronů v Želannem a muniční sklad u Ilovajsku, další cíle pak na cvičišti Vostočnyj u Novopetrivky v Záporožské oblasti.
+          - V ruském městě Probuždenje byl postřelen generál Nikolaj Varpachovič, který se podílel na bombardování dětské nemocnice v Ochmatdyt v Kyjevě. Střelbu spustil neznámý pachatel na motocyklu poblíž Varpachovičova domu. Jedna střela ho zasáhla do obličeje, druhá do těla. Varpachovič je v kritickém stavu v nemocnici.
+          - Rafinerie KINEF v Leningradské oblasti podle zjištění Reuters úplně zastavila zpracování ropy. Jde o druhou největší rafinerii v Rusku s kapacitou kolem dvaceti milionů tun ročně, která zajišťuje zhruba sedm procent ruského zpracování a je jediným velkým závodem obsluhujícím severozápad země a Petrohrad.
+          - Ukrajinské námořní drony zaútočily ráno na přístav v Soči. Zasažena byla u mola loď Nefrit, víceúčelové zásobovací plavidlo pro obsluhu ropných a plynových zařízení, které podle ukrajinského námořnictva plnilo úkoly ve prospěch ruské válečné ekonomiky. 
+          - Estonský ministr obrany Hanno Pevkur rezignoval kvůli sedmdesáti milionům eur vyhozeným za vadnou munici pro Ukrajinu. Řekl, že ministr sice nepočítá ponožky a náboje ani nevyjednává smlouvy, politickou odpovědnost za celý resort ale nese on.
+          - Rusové zasáhli logistický komplex Biokon v Boryspilském okrese, jeden z největších specializovaných farmaceutických skladů na Ukrajině. Firma poskytuje zahraničním výrobcům léků skladovací prostory a služby celního skladu. 
+          - Marco Rubio řekl, že o licencích na výrobu Patriotů pro Ukrajinu se jedná právě teď. Zároveň upozornil, že rozjet výrobu i s licencí trvá několik let a krátkodobý problém Ukrajiny to nevyřeší.
+          - Norsko zabavilo ruskou loď ve prospěch ukrajinského Naftogazu. Jde o součást celosvětové snahy donutit Rusko zaplatit za nezákonné převzetí majetku firmy během okupace Krymu.
+          - Dnes v noci byly z automobilu před mnichovským sídlem obranné firmy Rohde & Schwarz hozeny zápalné bomby. Policie následně zadržela dva pachatele – občany Bulharska. 
+          - Dánská rozvědka tvrdí, že odhalila ruské plány a přípravy na konkrétní sabotáže namířené proti obranným firmám zapojeným do vojenské pomoci Ukrajině.
+          - Financial Times píše, že ruští specialisté pomáhají Íránu s vývojem nadzvukových řízených střel s plochou dráhou letu. 
+          - Sergej Lavrov oznámil, že Rusko zavře pobočky Goethe-Institutu jako odvetu za německé uzavření Ruského domu.
+          - Dobrovolník Mychajlo Puryšev, který tvrdil, že ho vydírala FSB, se po srpnové cestě do Moskvy vrátil domů.
+          - Británie vyvíjí laserovou protivzdušnou obranu proti rojům dronů. Vychází přitom z ukrajinských zkušeností.
+          - Rusko vybombardovalo závod Coca-Coly u Kyjeva. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1001175566733863438)
+          - [Rusové opět zabili dronem civilistu](https://pixelfed.cz/p/dnesnaukrajine/1001173987945118191)
+          - [Soči](https://pixelfed.cz/p/dnesnaukrajine/1001174022246726128)
+          - [Ruské ztráty](https://pixelfed.cz/p/dnesnaukrajine/1001174118940903922)
+          - [Riskantní sestřel](https://pixelfed.cz/p/dnesnaukrajine/1001174144715155957)
+          - [Asi jinej gang](https://pixelfed.cz/p/dnesnaukrajine/1001174184833853942)
+          - [Rusové instalují ochranu](https://pixelfed.cz/p/dnesnaukrajine/1001174211275848183)
+          - [Ivan Beznožka](https://pixelfed.cz/p/dnesnaukrajine/1001174416044448258)
       - title: "Středa"
         year: "2. září 2026" 
         sort: "2026-09-02"
