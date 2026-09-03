@@ -39,7 +39,7 @@ timeline:
     start_align: "left"
     events:
       - title: "Středa"
-        year: "2. července 2026" 
+        year: "2. září 2026" 
         sort: "2026-09-02"
         image: assets/img/timeline/2026-09-02.jpg
         podcast: "2026-09-02.mp3"
@@ -68,7 +68,7 @@ timeline:
           - [Sachalin](https://pixelfed.cz/p/dnesnaukrajine/1000752192071464518)
           - [Trefa!](https://pixelfed.cz/p/dnesnaukrajine/1000752204041078343)
       - title: "Úterý"
-        year: "1. července 2026" 
+        year: "1. září 2026" 
         sort: "2026-09-01"
         image: assets/img/timeline/2026-09-01.jpg
         podcast: "2026-09-01.mp3"
