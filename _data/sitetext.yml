@@ -38,6 +38,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "4. září 2026" 
+        sort: "2026-09-04"
+        image: assets/img/timeline/2026-09-04.jpg
+        podcast: "2026-09-04.mp3"
+        desc: |
+          Ruské Soči zasáhlo hned několik vln útoků ukrajinských dronů. Ukrajinské námořnictvo nejdříve napadlo námořním dronem plavidlo Nefrit, které obsluhuje ruskou ropnou, plynovou a příbřežní infrastrukturu, převáží náklad i personál a zajišťuje podvodní technické práce. Nad ránem pak přiletěly vzdušné drony a zasáhly ropnou základnu společnosti Rosněft-Kubaňněftěprodukt. OSINT hlásí i druhý požár, tentokrát u protivzdušné divize poblíž obce Sirius na hranici s Abcházií, kde stojí systémy S-300 nebo S-400. Druhým cílem noci byl Sterlitamak v Baškortostánu, přes 1 300 kilometrů od ukrajinských hranic. Hořel tam petrochemický závod, který vyrábí ionol, přísadu do leteckých paliv a maziv. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid037Yu147hQj5JfpwCyJF8zZLcohM6HP6bxpsBNi4pP4MQLxCFawAKaYoBuAZHRe13Cl):
+        detail: |
+          - Cherson se pomalu vylidňuje. Šéf krajské vojenské správy Prokudin uvedl, že ve městě zůstalo zhruba dvacet procent předválečného obyvatelstva, tedy asi 60 tisíc lidí ze zhruba 300 tisíc. Počet ruských útoků na město se od začátku roku zvýšil dvaapůlkrát, z asi 2 500 zásahů týdně na 6 000. Za první pololetí na město dopadlo kolem stovky klouzavých pum, jen za poslední měsíc dalších dvě stě. Přibyly také proudové Shahedy, které tam dříve nelétaly, a Rusové podle Prokudina každou noc útočí na kritickou infrastrukturu. Každý den je podle něj v Chersonu zabito nebo zraněno dvacet lidí.
+          - Sankční balík proti Rusku se v americké Sněmovně reprezentantů zasekl a hlasování se nejspíš neuskuteční dříve než po listopadových volbách. Zákon by Donaldu Trumpovi umožnil uvalit stoprocentní cla na pět největších odběratelů ruské ropy a plynu, tedy hlavně na Čínu, Indii a Turecko, a na pět zemí, které Rusku nejvíc pomáhají obcházet sankce. Proti jsou obchodní řetězce i vlivná Americká obchodní komora. Zákonodárci zároveň řeší riziko dalšího růstu cen paliv, které už zdražila válka s Íránem. V Senátu přitom předloha prošla poměrem 86:11.
+          - Rusko v noci vypustilo na Ukrajinu 121 útočných dronů a jednu řízenou střelu Kh-31P odpálenou z Černého moře. Zhruba polovina Shahedů byla proudových, ve vlně letěly také střely S8000 Banderol, drony Gerbera a návnady typu Parodija. Protivzdušná obrana do půl desáté ráno sestřelila nebo potlačila 103 cílů na severu, jihu, východě i ve středu země. Zásahy jsou hlášené z patnácti míst, trosky ze šesti dalších. V Sofijivské Borščahivce u Kyjeva po útoku hořely sklady. V Kyjevě byla zasažena budova SBU, kde bylo zraněno 9 osob. 
+          - Na Dnipropetrovsku zabil ruský dvojitý úder dva policisty. Vyšetřovací tým ve složení kapitán Oleksandr Hryhorenko a nadporučík Serhij Šmatko vyjel 3. září do Pavlohradského okresu dokumentovat následky předchozího zásahu Bohdanivské hromady. Během práce na místě přiletěl druhý dron. Hryhorenko zemřel na místě, Šmatko svým zraněním podlehl v péči lékařů. Třetí policista je v nemocnici s vážnými zraněními.
+          - Británie a Francie jednají o výrobě střel SCALP přímo na Ukrajině. Premiér Andy Burnham a prezident Emmanuel Macron v Londýně řešili zřízení montážních linek pro dálkové střely SCALP a Storm Shadow, které stojí na sdílených britských a francouzských technologiích. Burnham při návštěvě Kyjeva 24. srpna oznámil, že Londýn schválil předání výrobní technologie Storm Shadow Ukrajině.
+          - Oděsa má za sebou další útok. Zahynul jeden muž a tři ženy byly zraněny. Poškozené jsou byty, fasády a okna dvou výškových domů, v jednom z devítipatrových objektů od šestého do osmého patra, tlaková vlna a trosky poškodily i sousední budovy a 28 zaparkovaných aut. Drony zasáhly také rodinné domy, dva z nich zcela zničily. V nich byl zraněn jeden muž a jeden nezletilý.
+          - Rusko zasáhlo sklad farmaceutické firmy Teva Ukrajina, a to hned dvakrát během jednoho útoku. Den předtím hořel po ruském úderu komplex Biocon v Boryspilském okrese, jeden z největších specializovaných lékových skladů v zemi o rozloze zhruba 30 tisíc metrů čtverečních.
+          - V Německu se rozjela výroba pěti tisíc dálkových dronů pro Ukrajinu. Stojí za ní společný podnik německo-americké zbrojovky Auterion a ukrajinského výrobce Airlogix, který obě firmy založily v únoru na Mnichovské bezpečnostní konferenci.
+          - Zelenskyj oznámil, že v nejbližších dnech se v Kyjevě očekává návštěva Trumpových vyslanců Steva Witkoffa a Jareda Kushnera. Oba podle něj chystají také další cestu do Moskvy.
+          - Americká armáda ruší experimentální jednotku specializovanou na dronovou válku, a to necelý rok po jejím vzniku. Zákonodárci varují, že tím přijde o zkušenosti nasbírané díky ukrajinským inovacím.
+          - V blízkosti nadzemních elektrických vedení u dvou rozvoden v saském okrese Görlitz byla nalezena další výbušná zařízení.
+          - Německo oznámilo balík pomoci ve výši 290 milionů dolarů na opravy ukrajinské energetické infrastruktury.
+          - Trump prohlásil, že Evropa by měla Spojeným státům proplatit pomoc poskytnutou Ukrajině.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1001578886267289186)
+          - [Drony a ruská logistika](https://pixelfed.cz/p/dnesnaukrajine/1001577741207289426)
+          - [Soči](https://pixelfed.cz/p/dnesnaukrajine/1001577771122282067)
+          - [Kolumbijci zapracovali](https://pixelfed.cz/p/dnesnaukrajine/1001577800268947028)
+          - [Překvápko](https://pixelfed.cz/p/dnesnaukrajine/1001577845415788117)
+          - [Soči](https://pixelfed.cz/p/dnesnaukrajine/1001577879718616662)
+          - [Mínus ruský odpalovač raket](https://pixelfed.cz/p/dnesnaukrajine/1001577916472135255)
+          - [Soči](https://pixelfed.cz/p/dnesnaukrajine/1001577942512795225)
+          - [Po ruském náletu](https://pixelfed.cz/p/dnesnaukrajine/1001577996023148122)
+          - [Adler, Rusko](https://pixelfed.cz/p/dnesnaukrajine/1001578019334954588)
+          - [Zajatci](https://pixelfed.cz/p/dnesnaukrajine/1001578055721889373)
       - title: "Čtvrtek"
         year: "3. září 2026" 
         sort: "2026-09-03"

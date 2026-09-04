@@ -23,6 +23,110 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Friday
+    year: September 4, 2026
+    sort: '2026-09-04'
+    image: assets/img/timeline/2026-09-04.jpg
+    podcast: 2026-09-04.mp3
+    desc: 'Sochi, Russia, was hit by several waves of attacks by Ukrainian drones.
+      The Ukrainian Navy first used a maritime drone to attack the vessel Nefrit,
+      which serves Russia’s oil, gas, and coastal infrastructure, transports cargo
+      and personnel, and performs underwater technical work. In the early morning,
+      aerial drones arrived and struck the Rosneft-Kubannefteprodukt oil base. OSINT
+      also reports a second fire, this time at an air defense division near the village
+      of Sirius on the border with Abkhazia, where S-300 and S-400 systems are deployed.
+      The second target of the night was Sterlitamak in Bashkortostan, over 1,300
+      kilometers from the Ukrainian border. A petrochemical plant there was on fire;
+      it produces ionol, an additive for aviation fuels and lubricants. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid037Yu147hQj5JfpwCyJF8zZLcohM6HP6bxpsBNi4pP4MQLxCFawAKaYoBuAZHRe13Cl)
+      also happened:
+
+      '
+    detail: "- Kherson is slowly being depopulated. Prokudin, the head of the regional\
+      \ military administration, stated that roughly 20 percent of the city’s pre-war\
+      \ population remains—that is, about 60,000 people out of roughly 300,000. The\
+      \ number of Russian attacks on the city has increased two and a half times since\
+      \ the beginning of the year, from about 2,500 strikes per week to 6,000. In\
+      \ the first half of the year, around 100 glide bombs struck the city, with another\
+      \ 200 in the last month alone. Shahed drones, which had not flown there before,\
+      \ have also been added to the mix, and according to Prokudin, the Russians are\
+      \ attacking critical infrastructure every night. He says that twenty people\
+      \ are killed or wounded in Kherson every day.\n- The sanctions package against\
+      \ Russia has stalled in the U.S. House of Representatives, and a vote is unlikely\
+      \ to take place before the November elections. The bill would allow Donald Trump\
+      \ to impose 100 percent tariffs on the five largest importers of Russian oil\
+      \ and gas—primarily China, India, and Turkey—as well as on the five countries\
+      \ that most help Russia circumvent sanctions. Retail chains and the influential\
+      \ U.S. Chamber of Commerce are opposed to the bill. Lawmakers are also concerned\
+      \ about the risk of further increases in fuel prices, which have already risen\
+      \ due to the war with Iran. Meanwhile, the bill passed the Senate by a vote\
+      \ of 86 to 11.\n- Overnight, Russia launched 121 attack drones and one Kh-31P\
+      \ guided missile fired from the Black Sea toward Ukraine. Roughly half of the\
+      \ Shaheds were jet-powered; the wave also included S8000 Banderol missiles,\
+      \ Gerbera drones, and Parodija decoys. By 9:30 a.m., air defenses had shot down\
+      \ or intercepted 103 targets in the north, south, east, and center of the country.\
+      \ Strikes were reported from fifteen locations, with debris found at six others.\
+      \ In Sofiyivska Borshchahivka near Kyiv, warehouses were on fire following the\
+      \ attack. In Kyiv, an SBU building was hit, leaving 9 people injured. \n- A\
+      \ Russian double strike killed two police officers in Dnipropetrovsk. An investigative\
+      \ team consisting of Captain Oleksandr Hryhorenko and First Lieutenant Serhiy\
+      \ Shmatko traveled to the Pavlohrad District on September 3 to document the\
+      \ aftermath of a previous operation at the Bohdanivska Heap. While they were\
+      \ working at the scene, a second drone struck. Hryhorenko died at the scene,\
+      \ and Šmatko succumbed to his injuries while receiving medical treatment. A\
+      \ third police officer is in the hospital with serious injuries.\n- Britain\
+      \ and France are discussing the production of SCALP missiles directly in Ukraine.\
+      \ Prime Minister Andy Burnham and President Emmanuel Macron discussed in London\
+      \ the establishment of assembly lines for SCALP and Storm Shadow long-range\
+      \ missiles, which are based on shared British and French technologies. During\
+      \ his visit to Kyiv on August 24, Burnham announced that London had approved\
+      \ the transfer of Storm Shadow production technology to Ukraine.\n- Odessa has\
+      \ suffered yet another attack. One man was killed and three women were injured.\
+      \ Apartments, facades, and windows of two high-rise buildings were damaged;\
+      \ in one of the nine-story buildings, damage extended from the sixth to the\
+      \ eighth floor. The shock wave and debris also damaged neighboring buildings\
+      \ and 28 parked cars. Drones also struck single-family homes, completely destroying\
+      \ two of them. One man and one minor were injured in those homes.\n- Russia\
+      \ struck a warehouse belonging to the pharmaceutical company Teva Ukraine—twice\
+      \ in a single attack. The day before, the Biocon complex in the Boryspil district—one\
+      \ of the country’s largest specialized pharmaceutical warehouses, covering an\
+      \ area of approximately 30,000 square meters—caught fire following a Russian\
+      \ strike.\n- Production of 5,000 long-range drones for Ukraine has begun in\
+      \ Germany. The project is being carried out by a joint venture between the German-American\
+      \ defense contractor Auterion and the Ukrainian manufacturer Airlogix, which\
+      \ the two companies founded in February at the Munich Security Conference.\n\
+      - Zelenskyy announced that Trump’s envoys, Steve Witkoff and Jared Kushner,\
+      \ are expected to visit Kyiv in the coming days. According to him, both are\
+      \ also planning another trip to Moscow.\n- The U.S. Army is disbanding an experimental\
+      \ unit specializing in drone warfare, less than a year after its creation. Lawmakers\
+      \ warn that this move will result in the loss of experience gained through Ukrainian\
+      \ innovations.\n- Additional explosive devices were found near overhead power\
+      \ lines at two substations in the Görlitz district of Saxony.\n- Germany announced\
+      \ a $290 million aid package to repair Ukraine's energy infrastructure.\n- Trump\
+      \ stated that Europe should reimburse the United States for the aid provided\
+      \ to Ukraine.\n"
+    videa: '- [Updated Losses of the Russian Air Force](https://pixelfed.cz/p/dnesnaukrajine/1001578886267289186)
+
+      - [Drones and Russian Logistics](https://pixelfed.cz/p/dnesnaukrajine/1001577741207289426)
+
+      - [Sochi](https://pixelfed.cz/p/dnesnaukrajine/1001577771122282067)
+
+      - [The Colombians got down to work](https://pixelfed.cz/p/dnesnaukrajine/1001577800268947028)
+
+      - [A little surprise](https://pixelfed.cz/p/dnesnaukrajine/1001577845415788117)
+
+      - [Sochi](https://pixelfed.cz/p/dnesnaukrajine/1001577879718616662)
+
+      - [Minus the Russian missile launcher](https://pixelfed.cz/p/dnesnaukrajine/1001577916472135255)
+
+      - [Sochi](https://pixelfed.cz/p/dnesnaukrajine/1001577942512795225)
+
+      - [After the Russian airstrike](https://pixelfed.cz/p/dnesnaukrajine/1001577996023148122)
+
+      - [Adler, Russia](https://pixelfed.cz/p/dnesnaukrajine/1001578019334954588)
+
+      - [Prisoners](https://pixelfed.cz/p/dnesnaukrajine/1001578055721889373)
+
+      '
   - title: Thursday
     year: September 3, 2026
     sort: '2026-09-03'
