@@ -23,6 +23,87 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Saturday
+    year: September 5, 2026
+    sort: '2026-09-05'
+    image: assets/img/timeline/2026-09-05.jpg
+    podcast: 2026-09-05.mp3
+    desc: 'Ukraine has not fired a shot since midnight, but Russia has. Ukrainian
+      forces were ordered to cease combat operations from midnight on September 5
+      until the end of the day on September 8—that is, during the time when Trump’s
+      envoys, Steve Witkoff and Jared Kushner, are traveling to Moscow and Kyiv with
+      proposals to end the war. The day before, Zelenskyy confirmed that the envoys
+      would arrive in Kyiv on Sunday and that he had promised the United States that,
+      for the safety of the American negotiators, Ukraine would not carry out airstrikes
+      against Russia during their stay. He called on Moscow to do the same. The response
+      from the Kremlin came within a few hours. Starting at 6:00 p.m., Russia fired
+      Iskander-M/KN-23 ballistic missiles from the Rostov and Voronezh regions and
+      also deployed 167 drones, about half of which were jet-powered, as well as Gerber
+      drones and Parodiya decoys. By 8:30 a.m., air defenses had shot down or neutralized
+      128 drones, with strikes reported from 23 locations. Kam’yanske in the Dnipropetrovsk
+      region was hit the hardest; following the airstrike, four people were killed
+      and five injured, including a young woman who was admitted to the intensive
+      care unit. The Russians also struck two airports near Kyiv—likely because the
+      Americans were planning to fly into Kyiv. The Russian Ministry of Defense confirmed
+      the strikes. Meanwhile, Kyiv did not, in fact, attack any targets in Russia;
+      however, the Ukrainian side reportedly canceled the proposed ceasefire this
+      morning in response to the Russian airstrikes. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02DWf9MTNF3zqejAA8a4BeZsLMiVX12ZaYUcTSd84VBYqU7xsuZqqcUWaGPWi4PxGxl)
+      also happened:
+
+      '
+    detail: '- Ukraine’s National Anti-Corruption Bureau (NABU) and the Specialized
+      Anti-Corruption Prosecutor’s Office (SAP) have launched a major operation at
+      the Prosecutor General’s Office. According to media reports, searches were conducted
+      in offices linked to the Deputy Prosecutor General and the governor of the Odesa
+      region. NABU claims it is investigating a criminal organization led by a senior
+      official at the Prosecutor General’s Office, which, according to authorities,
+      provided cover for a network of fraudulent call centers and laundered the money
+      siphoned off from them. A spokesperson for the Prosecutor General’s Office denied
+      that the search directly involved Prosecutor General Ruslan Kravchenko.
+
+      - At a press conference at the White House, Trump confirmed that he was sending
+      Witkoff and Kushner with a proposal to end the war and halt diplomatic efforts,
+      attributing this to personal animosity between Zelenskyy and Putin. He also
+      said that there is a chance of reaching an agreement this time. According to
+      some sources, however, Russia is trying to persuade the two envoys to cancel
+      the Kyiv leg of their trip.
+
+      - Slovakia summoned the Russian ambassador. Friday’s airstrike hit the SBU building
+      in Kyiv, located right next to the consular section of the Slovak Embassy, which
+      is used only on a limited basis for security reasons and was unoccupied at the
+      time. Minister Blanár condemned the attack and called on both sides not to escalate
+      tensions.
+
+      - Trump refused to condemn the incidents involving Russian drones carrying explosives
+      at the Leipzig airport. When asked by reporters, he replied that he knows Putin
+      well and that Putin does not want to attack NATO territory. He did not comment
+      further on the incident. Meanwhile, the German Federal Criminal Police Office
+      has already recorded 165 suspected cases of sabotage this year.
+
+      - Elena Zhemkova, the head of the Russian organization Memorial, warned in an
+      interview with AFP that after the September parliamentary elections, repression
+      in Russia will intensify, and more people will end up in prison or on the front
+      lines. She herself is in exile, and the organization is banned in Russia.
+
+      - According to the FAO, global food prices have risen to their highest level
+      since 2022. Cereal prices rose by 2.5 points month-over-month in August, due
+      in part to ongoing uncertainty surrounding export routes through the Black Sea.
+
+      - In his evening address, Zelenskyy announced that he had approved proposals
+      from the SBU and the armed forces regarding responses to Russian strikes on
+      Ukrainian cities. He said Kyiv would choose the timing itself.
+
+      - In Mykolaiv, Russian drones repeatedly struck the Epicentr shopping center.
+      Fires broke out at the impact sites, and two people were injured, one of whom
+      was a minor.
+
+      - In the Kharkiv region, Russian forces shelled 25 communities, damaging civilian
+      infrastructure.
+
+      '
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1001943278270132421)
+
+      '
   - title: Friday
     year: September 4, 2026
     sort: '2026-09-04'

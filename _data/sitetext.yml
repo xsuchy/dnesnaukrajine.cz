@@ -38,6 +38,25 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "5. září 2026" 
+        sort: "2026-09-05"
+        image: assets/img/timeline/2026-09-05.jpg
+        podcast: "2026-09-05.mp3"
+        desc: |
+          Ukrajina od půlnoci nestřílí, Rusko ano. Ukrajinské jednotky dostaly rozkaz zastavit bojovou činnost od půlnoci 5. září do konce dne 8. září, tedy po dobu, kdy do Moskvy a Kyjeva míří Trumpovi vyslanci Steve Witkoff a Jared Kushner s návrhy na ukončení války. Zelenskyj den předtím potvrdil, že vyslanci do Kyjeva dorazí v neděli, a že Spojeným státům slíbil, že kvůli bezpečnosti amerických vyjednavačů nebude Ukrajina po dobu jejich pobytu podnikat vzdušné údery na Rusko. Vyzval Moskvu, aby udělala totéž. Odpověď z Kremlu přišla během několika hodin. Od šesté večerní pálilo Rusko balistické rakety Iskander-M/KN-23 z Rostovské a Voroněžské oblasti a vyslalo také 167 dronů, z nichž zhruba polovina byla proudová, dále Gerbery a návnady typu Parodija. Do půl deváté ráno protivzdušná obrana sestřelila nebo potlačila 128 dronů, zásahy jsou hlášené ze třiadvaceti míst. Nejhůř dopadlo Kamjanske v Dněpropetrovské oblasti, kde jsou po náletu čtyři mrtví a pět zraněných včetně mladé ženy, která skončila na jednotce intenzivní péče. Rusové zasáhli také dvě letiště u Kyjeva – pravděpodobně proto, že Američané se plánovali do Kyjeva dopravit letecky. Ruské ministerstvo obrany údery potvrdilo. Kyjev mezitím skutečně nezaútočil na žádný cíl v Rusku, nicméně ukrajinská strana údajně v reakci na ruské nálety navrhované příměří dnes ráno zrušila. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02DWf9MTNF3zqejAA8a4BeZsLMiVX12ZaYUcTSd84VBYqU7xsuZqqcUWaGPWi4PxGxl):
+        detail: |
+          - Ukrajinský Národní antikorupční úřad NABU a specializovaná antikorupční prokuratura SAP spustily velkou operaci na Generální prokuratuře. Prohlídky podle informací médií probíhaly v prostorách spojených se zástupcem generálního prokurátora a s gubernátorem Oděské oblasti. NABU tvrdí, že vyšetřuje zločineckou organizaci vedenou představitelem Generální prokuratury, která podle úřadů kryla síť podvodných call center a prala z nich vyvedené peníze. Mluvčí Generální prokuratury popřel, že by se prohlídka týkala přímo generálního prokurátora Ruslana Kravčenka.
+          - Trump na tiskové konferenci v Bílém domě potvrdil, že Witkoffa a Kushnera posílá s návrhem na ukončení války a zastavení diplomacie svaloval na osobní averzi mezi Zelenským a Putinem. Řekl také, že šance na dohodu tentokrát je. Podle některých zdrojů se přitom Rusko snaží oba vyslance přimět, aby kyjevskou část cesty zrušili.
+          - Slovensko si předvolalo ruského velvyslance. Páteční nálet totiž zasáhl budovu SBU v Kyjevě hned vedle konzulárního oddělení slovenské ambasády, která je z bezpečnostních důvodů využívána jen omezeně a nikdo v ní nebyl. Ministr Blanár útok odsoudil a vyzval obě strany, aby nestupňovaly napětí.
+          - Trump odmítl odsoudit incidenty s ruskými drony s výbušninami na letišti v Lipsku. Na dotaz novinářů odpověděl, že Putina dobře zná a že ten na území NATO útočit nechce. Dál se k incidentu nevyjádřil. Německý spolkový kriminální úřad přitom letos eviduje už 165 podezření na sabotáž.
+          - Šéfka ruského Memorialu Elena Žemková v rozhovoru pro AFP varovala, že po zářijových parlamentních volbách se represe v Rusku ještě přitvrdí a více lidí skončí ve vězení nebo na frontě. Sama je v exilu a organizace je v Rusku zakázaná.
+          - Ceny potravin ve světě vyšplhaly podle FAO na nejvyšší úroveň od roku 2022. Obiloviny v srpnu meziměsíčně zdražily o 2,5 bodu, mimo jiné kvůli přetrvávající nejistotě kolem vývozních tras přes Černé moře.
+          - Zelenskyj ve večerním projevu oznámil, že schválil návrhy SBU a ozbrojených sil na odpovědi za ruské údery na ukrajinská města. Čas si prý Kyjev vybere sám.
+          - V Mykolajivu ruské drony opakovaně zasáhly nákupní centrum Epicentr. Na místech dopadu vypukly požáry a zranění utrpěli dva lidé, jeden z nich nezletilý.
+          - V Charkovské oblasti Rusové ostřelovali 25 obcí, poškozena je civilní infrastruktura.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1001943278270132421)
       - title: "Pátek"
         year: "4. září 2026" 
         sort: "2026-09-04"
