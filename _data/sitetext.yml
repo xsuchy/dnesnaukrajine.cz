@@ -38,6 +38,35 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "6. září 2026" 
+        sort: "2026-09-06"
+        image: assets/img/timeline/2026-09-06.jpg
+        podcast: "2026-09-06.mp3"
+        desc: |
+          Do Kyjeva dnes míří Steve Witkoff a Jared Kushner, poprvé od začátku velké invaze. Přijíždějí z Moskvy, kde s Putinem jednali přes tři hodiny za zavřenými dveřmi a pak s ním večeřeli. Putinův poradce Jurij Ušakov mluvil o konstruktivním, otevřeném a užitečném jednání, konkrétní výsledky ale nezmínil a dodal, že se podrobně probíraly i ekonomické otázky a možné velké společné rusko-americké projekty. Trump před odletem řekl, že jeho vyjednavači vezou návrh na ukončení války. Putin nařídil třídenní pauzu v úderech na Kyjev od sobotní půlnoci, Zelenskyj slíbil, že Ukrajina do pondělí nezaútočí na Moskvu. Putin podle Ušakova informoval Američany, že situace na frontě se vyvíjí dobře, a že cíle „SVO“ budou dosaženy. Zároveň na ně ale opět apeloval, že je třeba odstranit „kořeny konfliktu“. Witkoff je naopak zachycen na kamerách, jak říká Putinovi: „V první řadě, pane prezidente Putine, moc vám děkujeme za pozvání. Až odejdeme do důchodu, budeme mít spoustu úžasných příběhů a vzpomínek, a ty s vámi budou mezi nimi na samém vrcholu.“ A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0YHbNmUjDG3hKbSN1VR1N5UTocQR8HYSDxAvfhnDxvdAjn79Wrtun27pGpsPiLy9Zl):
+        detail: |
+          - Ukrajinské velení bezpilotních systémů oznámilo srpnovou bilanci: 58 465 zasažených ruských cílů, tedy skoro 1 900 denně. Proti červenci je to nárůst o necelých devět procent a víc než dvojnásobek ledna. V seznamu je 54 plavidel ruské stínové flotily, 33 prvků protivzdušné obrany a 168 energetických uzlů. Velitel Robert „Maďar“ Brovdi to rozdělil do tří operací: „Mlíko“ proti stínové flotile, „PVOpad“ proti protivzdušné obraně a „Krymský vypínač“ proti energetice, který od začátku července zasáhl už 349 uzlů. Drony podle něj také za srpen zabily nebo zranily 11 010 ruských vojáků. 
+          - V noci letělo na Ukrajinu 108 dronů a několik raket. Vzdušné síly hlásí sestřelení 82 dronů a šesti raket. Podle Státní záchranné služby ruské útoky přes noc zabily jednoho člověka a nejméně deset zranily. V Záporoží zahynul po zásahu dronem čtyřiaosmdesátiletý muž a tři lidé byli zraněni, v Chmelnyckém kraji poškodil dron bytový dům a zranil sedm lidí. Za posledních čtyřiadvacet hodin dopadlo na Záporožskou oblast 886 bomb nebo jiných projektilů na 54 obcí, na Dnipropetrovsku je hlášeno asi dvacet zásahů ve čtyřech okresech se dvěma zraněnými.
+          - Ukrajinské drony v noci znovu zasáhly rafinerii v Rjazani, asi 470 kilometrů od ukrajinských hranic a jihovýchodně od Moskvy. Podle analýzy webu Militarnyj hořela nízkoteplotní izomerizační jednotka Izomalk-2-LIN-800, která vyrábí vysokooktanovou komponentu potřebnou pro benzíny vyšších tříd včetně Euro-5. Stejná jednotka byla poškozena už v prosinci 2025. Rafinerie patří Rosněfti, kapacitu má kolem 17 milionů tun ropy ročně a satelitní snímky ze 3. srpna ukázaly, že Ukrajina už dříve vyřadila dvě ze čtyř primárních destilačních jednotek.
+          - Druhým cílem noci byla Rostovská oblast. Nad Bataijskem u Rostova na Donu pracovala protivzdušná obrana, v samotném Rostově podle svědků kroužily drony čtyři hodiny a hlášené jsou výbuchy poblíž skladu Ozonu. Ruské ministerstvo obrany tvrdí, že mezi sobotní osmou večerní a nedělní osmou ranní moskevského času sestřelilo 258 ukrajinských dronů nad čtrnácti ruskými regiony, okupovaným Krymem a nad Azovským a Černým mořem.
+          - Přes 400 ukrajinských zbrojních firem žádá Kyjev, aby vytvořil jeden státní orgán se skutečnou pravomocí nad odvětvím za 6,8 miliardy dolarů. Rok po tom, co ministerstvo strategických odvětví pohltilo ministerstvo obrany, je podle rady sektoru odpovědnost rozeseta mezi půl tuctu úřadů.
+          - V Sasku byly nalezeny celkem čtyři improvizovaná výbušná a zápalná zařízení v blízkosti rozvodny Grausstein a dalších sedm v blízkosti rozvodny Berwalde.
+          - Putin je údajně přesvědčen o tom, že Rusko má navrch, a proto hodlá pokračovat ve válce proti Ukrajině a bude ji i dál eskalovat. 
+          - Anatolij Černyshov, výkonný ředitel ruského fondu „Lidová fronta. Vše pro vítězství“, byl zabit na okupovaném Krymu.
+          - V loděnici Kronštadt v Petrohradě začal během oprav hořet ledoborec „Admirál Makarov“.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1002220535192180370)
+          - [Americká delegace v Kyjevě](https://pixelfed.cz/p/dnesnaukrajine/1002217896482264670)
+          - [Witkoff u Putina](https://pixelfed.cz/p/dnesnaukrajine/1002217926795998815)
+          - [Tankery po rande s ukrajinskými drony](https://pixelfed.cz/p/dnesnaukrajine/1002217975132595808)
+          - [Ukrajinské drony versus ruská loď](https://pixelfed.cz/p/dnesnaukrajine/1002218016917960289)
+          - [Admirál Makarov](https://pixelfed.cz/p/dnesnaukrajine/1002218053074388578)
+          - [Evakuace](https://pixelfed.cz/p/dnesnaukrajine/1002218098348766819)
+          - [Drony v práci](https://pixelfed.cz/p/dnesnaukrajine/1002218140234921572)
+          - [Mínus 116](https://pixelfed.cz/p/dnesnaukrajine/1002218623350720104)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/1002218654336468585)
+          - [Mínus palivo](https://pixelfed.cz/p/dnesnaukrajine/1002218678856025706)
       - title: "Sobota"
         year: "5. září 2026" 
         sort: "2026-09-05"

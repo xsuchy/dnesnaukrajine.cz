@@ -23,6 +23,99 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Sunday
+    year: September 6, 2026
+    sort: '2026-09-06'
+    image: assets/img/timeline/2026-09-06.jpg
+    podcast: 2026-09-06.mp3
+    desc: 'Steve Witkoff and Jared Kushner are heading to Kyiv today for the first
+      time since the start of the large-scale invasion. They are arriving from Moscow,
+      where they held closed-door talks with Putin for over three hours and then had
+      dinner with him. Putin’s adviser, Yuri Ushakov, described the talks as constructive,
+      open, and useful, but did not mention any specific results, adding that economic
+      issues and potential major joint Russian-American projects were also discussed
+      in detail. Before departing, Trump said that his negotiators were bringing a
+      proposal to end the war. Putin ordered a three-day pause in the attacks on Kyiv
+      starting at midnight on Saturday, and Zelenskyy promised that Ukraine would
+      not attack Moscow until Monday. According to Ushakov, Putin informed the Americans
+      that the situation on the front lines was developing well and that the goals
+      of the “special military operation” would be achieved. At the same time, however,
+      he again appealed to them to address the “roots of the conflict.” Witkoff, on
+      the other hand, is caught on camera telling Putin: “First and foremost, President
+      Putin, thank you very much for the invitation. When we retire, we’ll have plenty
+      of amazing stories and memories, and those with you will be right at the top
+      of the list.” And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0YHbNmUjDG3hKbSN1VR1N5UTocQR8HYSDxAvfhnDxvdAjn79Wrtun27pGpsPiLy9Zl)
+      also happened:
+
+      '
+    detail: "- The Ukrainian Unmanned Systems Command announced its August tally:\
+      \ 58,465 Russian targets struck, or nearly 1,900 per day. Compared to July,\
+      \ this represents an increase of just under nine percent and more than double\
+      \ the January figure. The list includes 54 vessels from the Russian shadow fleet,\
+      \ 33 air defense assets, and 168 energy facilities. Commander Robert “Maďar”\
+      \ Brovdi divided these into three operations: “Mlíko” against the shadow fleet,\
+      \ “PVOpad” against air defense, and “Crimean Switch” against the energy sector,\
+      \ which has already struck 349 facilities since the beginning of July. According\
+      \ to him, the drones also killed or wounded 11,010 Russian soldiers in August.\
+      \ \n- Overnight, 108 drones and several missiles were launched toward Ukraine.\
+      \ The Air Force reports shooting down 82 drones and six missiles. According\
+      \ to the State Emergency Service, the Russian attacks overnight killed one person\
+      \ and injured at least ten. In Zaporizhzhia, an 84-year-old man was killed and\
+      \ three people were injured after being struck by a drone; in the Khmelnytskyi\
+      \ region, a drone damaged an apartment building and injured seven people. Over\
+      \ the past twenty-four hours, 886 bombs or other projectiles struck 54 communities\
+      \ in the Zaporizhzhia region; in Dnipropetrovsk, about twenty strikes were reported\
+      \ across four districts, leaving two people injured.\n- Ukrainian drones struck\
+      \ a refinery in Ryazan again overnight; the refinery is located about 470 kilometers\
+      \ from the Ukrainian border and southeast of Moscow. According to an analysis\
+      \ by the Militarnyj website, the Izomalk-2-LIN-800 low-temperature isomerization\
+      \ unit—which produces the high-octane component needed for higher-grade gasoline,\
+      \ including Euro-5—was on fire. The same unit had already been damaged in December\
+      \ 2025. The refinery is owned by Rosneft, has a capacity of about 17 million\
+      \ metric tons of crude oil per year, and satellite imagery from August 3 showed\
+      \ that Ukraine had previously taken two of the four primary distillation units\
+      \ out of service.\n- The second target of the night was the Rostov region. Air\
+      \ defense systems were active over Bataisk near Rostov-on-Don; according to\
+      \ witnesses, drones circled over Rostov itself for four hours, and explosions\
+      \ were reported near the Ozon warehouse. The Russian Ministry of Defense claims\
+      \ that between 8:00 p.m. on Saturday and 8:00 a.m. on Sunday Moscow time, it\
+      \ shot down 258 Ukrainian drones over 14 Russian regions, occupied Crimea, and\
+      \ the Azov and Black Seas.\n- More than 400 Ukrainian defense contractors are\
+      \ calling on Kyiv to create a single government agency with real authority over\
+      \ the $6.8 billion industry. A year after the Ministry of Strategic Industries\
+      \ absorbed the Ministry of Defense, the sector’s council says responsibility\
+      \ is scattered among half a dozen agencies.\n- A total of four improvised explosive\
+      \ and incendiary devices were found in Saxony near the Grausstein substation,\
+      \ and another seven near the Berwalde substation.\n- Putin is reportedly convinced\
+      \ that Russia has the upper hand, and therefore intends to continue the war\
+      \ against Ukraine and will continue to escalate it. \n- Anatoly Chernyshov,\
+      \ executive director of the Russian fund “People’s Front: Everything for Victory,”\
+      \ was killed in occupied Crimea.\n- A fire broke out on the icebreaker “Admiral\
+      \ Makarov” while it was undergoing repairs at the Kronstadt shipyard in St.\
+      \ Petersburg.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1002220535192180370)
+
+      - [U.S. Delegation in Kyiv](https://pixelfed.cz/p/dnesnaukrajine/1002217896482264670)
+
+      - [Witkoff Meets with Putin](https://pixelfed.cz/p/dnesnaukrajine/1002217926795998815)
+
+      - [Tankers After an Encounter with Ukrainian Drones](https://pixelfed.cz/p/dnesnaukrajine/1002217975132595808)
+
+      - [Ukrainian Drones vs. a Russian Ship](https://pixelfed.cz/p/dnesnaukrajine/1002218016917960289)
+
+      - [Admiral Makarov](https://pixelfed.cz/p/dnesnaukrajine/1002218053074388578)
+
+      - [Evacuation](https://pixelfed.cz/p/dnesnaukrajine/1002218098348766819)
+
+      - [Drones at Work](https://pixelfed.cz/p/dnesnaukrajine/1002218140234921572)
+
+      - [Minus 116](https://pixelfed.cz/p/dnesnaukrajine/1002218623350720104)
+
+      - [Kyiv](https://pixelfed.cz/p/dnesnaukrajine/1002218654336468585)
+
+      - [Minus fuel](https://pixelfed.cz/p/dnesnaukrajine/1002218678856025706)
+
+      '
   - title: Saturday
     year: September 5, 2026
     sort: '2026-09-05'
