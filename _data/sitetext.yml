@@ -38,6 +38,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "8. září 2026" 
+        sort: "2026-09-08"
+        image: assets/img/timeline/2026-09-08.jpg
+        podcast: "2026-09-08.mp3"
+        desc: |
+          Rusko v noci ukončilo krátké „příměří“, které vyhlásilo na dobu návštěvy amerických vyslanců, a udeřilo na Kyjev kombinovaným úderem. Podle ukrajinského letectva Rusko vyslalo protilodní střely Oniks, balistické rakety Iskander-M, S-400 a KN-23, 32 řízených střel Ch-101 a 166 dronů typu Šahed, z nichž víc než polovina byla proudová. Obrana zničila nebo potlačila 175 vzdušných cílů, konkrétně dvě balistické rakety, 31 řízených střel a 142 dronů, zásahy jsou hlášeny z 29 míst. Hlavními cíli byly Kyjev a Oděská oblast, útok zasáhl i Záporožskou a Dněpropetrovskou oblast. V Kyjevě zahynuli dva lidé a počet zraněných se během dne postupně upřesňoval z deseti na šestnáct, hořel sklad i vzdělávací zařízení a poškozeny jsou nejméně dva vícepodlažní obytné domy. Mezi cíli náletu byly skladiště farmaceutické společnosti, supermarket Varus nebo studio televizního kanálu „My jsme Ukrajina“, kam dopadly dva projektily, a to přímo během živého vysílání. Budova byla částečně zničena a nejméně pět lidí bylo zraněno. Ruské ministerstvo obrany nicméně už tradičně mluví o masivním úderu na zbrojní podniky, dopravní a logistické uzly, na přístavní infrastrukturu v Čornomorsku v Oděské oblasti a na tanker s palivem a mazivy pro ukrajinskou armádu. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02CopEVN1qMykTt24EEVyErZzoqTnCtMTLA24UiFtxp4PYhmJJ8GtuY9ZsCKn5NKspl):
+        detail: |
+          - Kontaktní skupina pro obranu Ukrajiny (Ramstein) se sešla poprvé pod společným vedením nového britského ministra obrany Wese Streetinga a jeho německého protějšku Borise Pistoria. Streeting vyčíslil ukrajinské potřeby na 300 raket pro Patrioty ze zásob partnerů, 500 dalších střel a dvě miliardy dolarů na drony. Náměstek amerického ministra obrany Elbridge Colby účastníkům řekl, že je potřeba se připravit na dlouhý konflikt a na to, že ukrajinské požadavky potrvají měsíce až roky. Evropská komise ve stejný den schválila Kyjevu půjčku 3,2 miliardy eur na nákup komponent pro systémy Patriot.
+          - Ukrajinské drony v noci útočily na Saratov. Podle ruského nezávislého portálu ASTRA, který geolokalizoval videa svědků, mířily drony na místní rafinerii, jednu z nejstarších v Rusku, kterou od roku 2013 vlastní státní Rosněfť. Zpracuje kolem 4,8 milionu tun ropy ročně, vyrábí přes dvacet druhů ropných produktů a ukrajinský generální štáb ji vede jako dodavatele paliva pro ruskou armádu. Je to už čtvrtý zásah tohoto podniku jen v letošním roce. Výbuchy hlásili i lidé z nedalekého Engelsu, kde leží strategické letiště Engels-2. 
+          - Mezi oběťmi ukrajinských raketových útoků z 26. srpna na ruské velitelské stanoviště v okupovaném Doněcku jsou nejméně tři ruští podplukovníci: podplukovník Andrej Viktorovič Mojsejenko, vyšší důstojník operačního ředitelství velitelství 41. gardové kombinované zbraně armády, podplukovník Artjom Leonidovič Akimov, zástupce vedoucího oddělení protivzdušné obrany 41. armády, a podplukovník Denis Petrovič Pavlov. Celkem mělo být zabito 27 osob. 
+          - Zelenskyj řekl, že Witkoff s Kushnerem přivezli do Kyjeva pár opravdu dobrých a smysluplných nápadů, jak válku ukončit, zároveň ale dodal, že se teprve musí ukázat, jestli jdou uskutečnit. Zelenskyj se má za dva týdny sejít s Trumpem v době Valného shromáždění OSN v New Yorku. Mluvčí Kremlu Dmitrij Peskov mezitím novinářům řekl, že Rusko od svých cílů neustoupí a je přesvědčeno, že je vítězství blízko.
+          - V gruzínské Kabardino-Balkarii zahynulo až 13 ruských vojáků pod masivní lavinou. Podle VChK-OGPU a dalších zdrojů šlo o personál ze Speciálního výcvikového centra „Vityaz“, který právě absolvoval horský výcvik. Oficiálně ruské ministerstvo pro mimořádné situace dosud potvrdilo 12 mrtvých z celkem 33členné skupiny, přičemž dalších pět osob je stále pohřešováno. 
+          - Británie oznámila balíček protivzdušné obrany pro Ukrajinu za 100 milionů liber, tedy asi 135 milionů dolarů. Zahrnuje financování raket pro Patrioty, další antirakety, dělostřelecké granáty velké ráže a drony a půjde skrze program NATO PURL. Ministr obrany Wes Streeting to zdůvodnil tím, že Putin chystá použít zimu jako zbraň a bude dál útočit na civilní a energetické cíle.
+          - Ukrajinský generální prokurátor Ruslan Kravčenko podal demisi kvůli velké korupční kauze. Ještě v pondělí odpoledne přitom veřejnoprávnímu Suspilnemu říkal, že rezignovat neplánuje a odejde jen na žádost kolegů, prezidenta nebo parlamentu.
+          - Ruské velení znovu odsunulo termín obsazení Donbasu, protože si armáda vyžádala více času. Jde už o patnácté posunutí lhůty pro dosažení administrativních hranic Doněcké oblasti.
+          - Nad Kurskou oblastí se včera srazily dva ruské stíhací letouny Su-35S. Podle ruských médií a telegramových kanálů jeden z pilotů zahynul, druhý přežil.
+          - Bývalý nejvyšší státní zástupce Gruzie Otar Romanov-Partskhaladze sestavil dobrovolnickou jednotku a bude bojovat po boku ruských sil na Ukrajině.
+          - Rusko zaútočilo dvěma šahedy na vlak na trati Kyjev-Sumy. Souprava byla podle Ukrzaliznyci včas zastavena a cestující i personál se stihli evakuovat.
+          - Srbsko uspořádalo státní pohřeb s vojenskými poctami zesnulému válečnému zločinci Mladićovi, kterého tribunál v Haagu uznal vinným z genocidy. 
+          - Ruský dron typu Shahed dnes při náletu na Ukrajinu proletěl Moldavskem a vletěl nad území Rumunska.
+          - Na předměstí Oděsy zasáhli Rusové v noci tržnici, poškodili stánky a zranili jednoho člověka.
+          - Ukrajinští operátoři dronů zničili na záporožském směru ruský protiletadlový komplex Osa.
+          - Maďarsko vyhostilo 10 ruských diplomatů. Kreml už vyhrožuje drsnou odvetou. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1003001034699447038)
+          - [Ruský nálet na televizní studio](https://pixelfed.cz/p/dnesnaukrajine/1002998972269062878)
+          - [Sklady v Kyjevě](https://pixelfed.cz/p/dnesnaukrajine/1002998999353830111)
+          - [Ráno v Kyjevě](https://pixelfed.cz/p/dnesnaukrajine/1002999032614599392)
+          - [Saratov](https://pixelfed.cz/p/dnesnaukrajine/1002999063885019874)
+          - [Mínus polní muničák](https://pixelfed.cz/p/dnesnaukrajine/1002999090761013988)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/1002999120290003685)
+          - [Lavina v Gruzii](https://pixelfed.cz/p/dnesnaukrajine/1002999148274543334)
+          - [Zasažený vlak](https://pixelfed.cz/p/dnesnaukrajine/1002999179264441063)
       - title: "Pondělí"
         year: "7. září 2026" 
         sort: "2026-09-07"

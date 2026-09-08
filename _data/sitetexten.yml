@@ -23,6 +23,115 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Tuesday
+    year: September 8, 2026
+    sort: '2026-09-08'
+    image: assets/img/timeline/2026-09-08.jpg
+    podcast: 2026-09-08.mp3
+    desc: 'Overnight, Russia ended the brief “ceasefire” it had declared for the duration
+      of the U.S. envoys’ visit and launched a combined strike on Kyiv. According
+      to the Ukrainian Air Force, Russia launched Oniks anti-ship missiles, Iskander-M
+      ballistic missiles, S-400 and KN-23 missiles, 32 Kh-101 guided missiles, and
+      166 Shahed-type drones, more than half of which were jet-powered. Defense forces
+      destroyed or intercepted 175 aerial targets, specifically two ballistic missiles,
+      31 guided missiles, and 142 drones; strikes were reported from 29 locations.
+      The main targets were Kyiv and the Odesa region, though the attack also struck
+      the Zaporizhzhia and Dnipropetrovsk regions. Two people were killed in Kyiv,
+      and the number of injured was gradually revised upward from ten to sixteen throughout
+      the day; a warehouse and an educational facility caught fire, and at least two
+      multi-story residential buildings were damaged. Among the targets of the airstrike
+      were a pharmaceutical company’s warehouse, the Varus supermarket, and the studio
+      of the television channel “We Are Ukraine,” which was struck by two projectiles
+      right in the middle of a live broadcast. The building was partially destroyed,
+      and at least five people were injured. The Russian Ministry of Defense, however,
+      is, as usual, claiming to have carried out a massive strike against arms factories,
+      transportation and logistics hubs, port infrastructure in Chornomorsk in the
+      Odesa region, and a tanker carrying fuel and lubricants for the Ukrainian army.
+      And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02CopEVN1qMykTt24EEVyErZzoqTnCtMTLA24UiFtxp4PYhmJJ8GtuY9ZsCKn5NKspl)
+      also happened:
+
+      '
+    detail: "- The Contact Group on Ukraine’s Defense (Ramstein) met for the first\
+      \ time under the joint leadership of the new British Defense Minister Wes Streeting\
+      \ and his German counterpart Boris Pistoria. Streeting estimated Ukraine’s needs\
+      \ at 300 Patriot missiles from partners’ stockpiles, 500 additional missiles,\
+      \ and $2 billion for drones. U.S. Deputy Secretary of Defense Elbridge Colby\
+      \ told participants that they need to prepare for a long conflict and for the\
+      \ fact that Ukraine’s requests will continue for months or even years. On the\
+      \ same day, the European Commission approved a 3.2 billion euro loan to Kyiv\
+      \ for the purchase of components for the Patriot systems.\n- Ukrainian drones\
+      \ attacked Saratov overnight. According to the independent Russian website ASTRA,\
+      \ which geolocated videos from eyewitnesses, the drones targeted a local refinery—one\
+      \ of the oldest in Russia—which has been owned by the state-run company Rosneft\
+      \ since 2013. It processes about 4.8 million metric tons of crude oil annually,\
+      \ produces over twenty types of petroleum products, and is listed by the Ukrainian\
+      \ General Staff as a fuel supplier for the Russian military. This is already\
+      \ the fourth attack on this facility this year alone. Explosions were also reported\
+      \ by residents of nearby Engels, home to the strategic Engels-2 Airport. \n\
+      - Among the victims of the Ukrainian missile attacks on August 26 against a\
+      \ Russian command post in occupied Donetsk are at least three Russian lieutenant\
+      \ colonels: Lieutenant Colonel Andrei Viktorovich Moiseyenko, a senior officer\
+      \ in the Operations Directorate of the 41st Guards Combined Arms Army Headquarters;\
+      \ Lieutenant Colonel Artem Leonidovich Akimov, deputy head of the Air Defense\
+      \ Department of the 41st Army; and Lieutenant Colonel Denis Petrovich Pavlov.\
+      \ A total of 27 people are reported to have been killed. \n- Zelenskyy said\
+      \ that Witkoff and Kushner brought a few really good and meaningful ideas to\
+      \ Kyiv on how to end the war, but he added that it remains to be seen whether\
+      \ they can be implemented. Zelenskyy is scheduled to meet with Trump in two\
+      \ weeks during the UN General Assembly in New York. Meanwhile, Kremlin spokesman\
+      \ Dmitry Peskov told reporters that Russia will not back down from its goals\
+      \ and is convinced that victory is near.\n- In Kabardino-Balkaria, Georgia,\
+      \ up to 13 Russian soldiers were killed in a massive avalanche. According to\
+      \ the VChK-OGPU and other sources, the victims were personnel from the “Vityaz”\
+      \ Special Training Center who had just completed mountain training. Officially,\
+      \ the Russian Ministry of Emergency Situations has so far confirmed 12 deaths\
+      \ out of a group of 33, while five others are still missing. \n- Britain announced\
+      \ a £100 million air defense package for Ukraine, or about $135 million. It\
+      \ includes funding for Patriot missiles, other anti-missile systems, large-caliber\
+      \ artillery shells, and drones, and will be delivered through NATO’s PURL program.\
+      \ Defense Minister Wes Streeting explained that Putin is planning to use the\
+      \ winter as a weapon and will continue to attack civilian and energy targets.\n\
+      - Ukrainian Prosecutor General Ruslan Kravchenko has resigned over a major corruption\
+      \ scandal. As recently as Monday afternoon, however, he told the public broadcaster\
+      \ Suspilne that he had no plans to resign and would step down only at the request\
+      \ of his colleagues, the president, or parliament.\n- The Russian command has\
+      \ once again postponed the deadline for occupying the Donbas because the army\
+      \ requested more time. This marks the fifteenth postponement of the deadline\
+      \ for reaching the administrative borders of the Donetsk region.\n- Two Russian\
+      \ Su-35S fighter jets collided yesterday over the Kursk region. According to\
+      \ Russian media and Telegram channels, one of the pilots was killed, while the\
+      \ other survived.\n- Otar Romanov-Partskhaladze, Georgia's former chief prosecutor,\
+      \ has formed a volunteer unit and will fight alongside Russian forces in Ukraine.\n\
+      - Russia launched an attack using two suicide bombers against a train on the\
+      \ Kyiv-Sumy line. According to Ukrzaliznytsia, the train was stopped in time,\
+      \ and the passengers and crew were able to evacuate.\n- Serbia held a state\
+      \ funeral with military honors for the late war criminal Mladić, whom the Hague\
+      \ Tribunal had found guilty of genocide. \n- A Russian Shahed-type drone flew\
+      \ over Moldova and entered Romanian airspace today during an airstrike on Ukraine.\n\
+      - Overnight, Russian forces struck a market in the suburbs of Odessa, damaging\
+      \ stalls and injuring one person.\n- Ukrainian drone operators destroyed a Russian\
+      \ \"Osa\" air defense system in the Zaporizhzhia sector.\n- Hungary has expelled\
+      \ 10 Russian diplomats. The Kremlin is already threatening harsh retaliation.\
+      \ \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1003001034699447038)
+
+      - [Russian Airstrike on a TV Studio](https://pixelfed.cz/p/dnesnaukrajine/1002998972269062878)
+
+      - [Warehouses in Kyiv](https://pixelfed.cz/p/dnesnaukrajine/1002998999353830111)
+
+      - [Morning in Kyiv](https://pixelfed.cz/p/dnesnaukrajine/1002999032614599392)
+
+      - [Saratov](https://pixelfed.cz/p/dnesnaukrajine/1002999063885019874)
+
+      - [Minus the field ammunition box](https://pixelfed.cz/p/dnesnaukrajine/1002999090761013988)
+
+      - [Kyiv](https://pixelfed.cz/p/dnesnaukrajine/1002999120290003685)
+
+      - [Avalanche in Georgia](https://pixelfed.cz/p/dnesnaukrajine/1002999148274543334)
+
+      - [Train Involved in the Accident](https://pixelfed.cz/p/dnesnaukrajine/1002999179264441063)
+
+      '
   - title: Monday
     year: September 7, 2026
     sort: '2026-09-07'
