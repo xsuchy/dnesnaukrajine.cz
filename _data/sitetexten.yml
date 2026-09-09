@@ -23,6 +23,89 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Wednesday
+    year: September 9, 2026
+    sort: '2026-09-09'
+    image: assets/img/timeline/2026-09-09.jpg
+    podcast: 2026-09-09.mp3
+    desc: 'Russia has been attacking Ukraine for the third night in a row and is shifting
+      its targets. According to the Air Force, Russia launched 196 Shaheed-type drones
+      overnight—including jet-powered ones—as well as Iskander-M ballistic missiles
+      from occupied Crimea and Banderol S8000 guided missiles from the Sea of Azov.
+      Air defenses shot down or neutralized 165 drones; strikes were reported in 23
+      locations, and debris fell in four others. Over the past day, Russian attacks
+      in Ukraine have killed at least twelve people and injured sixty-six. In the
+      Darnytskyi district of Kyiv, a morning strike hit a 21-story apartment building,
+      leaving five people injured. Zelenskyy complained about the weak international
+      response: According to him, Moscow must not go into winter feeling that its
+      missile and drone terror will go unpunished. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02W1tQp1pMQu1S7E8N1Atb95cJNrUs7c7jbk2ZmF9eRJFpNKc46kMMDMmw6Co4feZBl)
+      also happened:
+
+      '
+    detail: "- The Court of Justice of the European Union dismissed a lawsuit filed\
+      \ by former Hungarian Prime Minister Viktor Orbán, who sought to block the financing\
+      \ of military aid to Ukraine from the proceeds of frozen Russian assets. The\
+      \ Luxembourg court ruled that the matter does not fall within the jurisdiction\
+      \ of the EU courts because it involves an agreement among member states under\
+      \ the Common Foreign and Security Policy. The European Peace Facility has already\
+      \ provided Ukraine with 11.1 billion euros since 2022, but its reimbursement\
+      \ mechanism remains blocked even after Orbán stepped down from office in April.\
+      \ According to EU foreign policy chief Kaja Kallas, however, an agreement is\
+      \ close. \n- NATO Secretary General Mark Rutte said at the 36th meeting of the\
+      \ Ukraine Defense Contact Group that the number of civilians killed in Ukraine\
+      \ is the highest since May 2022, and he called on allies to speed up the delivery\
+      \ of weapons and aid. According to him, delays are needlessly costing lives.\
+      \ Through the PURL program and purchases of U.S. military equipment, $10 billion\
+      \ worth of supplies has been pledged so far. \n- In the Kyiv region, Russian\
+      \ attacks over the past day have left two people dead and seven injured, including\
+      \ two children. Thirty-one structures were damaged: eleven houses, two apartment\
+      \ buildings, five manufacturing and warehouse facilities, an office building,\
+      \ a utility building, and twelve cars. \n- Ukrainian drones struck an oil terminal\
+      \ in Novorossiysk in southern Russia overnight. According to the independent\
+      \ Russian channel ASTRA, a fire broke out at the terminal, and a residential\
+      \ building was also damaged. Ukraine claims that it also struck the Project\
+      \ 12150 Mangusta patrol boat in the port.\n- In the Odessa region, Russian drones\
+      \ struck the Starokozače international border crossing on the border with Moldova.\
+      \ Two civilians were killed, three were injured, and rescue workers had to evacuate\
+      \ another sixteen people from a bus. The crossing is now temporarily closed.\
+      \ \n- In the Mykolaiv region, one woman was killed and four people were injured—including\
+      \ a child—in a combined attack. Port and civilian infrastructure, a shopping\
+      \ center, a postal terminal, a café, homes, and cars were damaged. \n- Zelenskyy\
+      \ met with Norwegian Prime Minister Jonas Gahr Støre in Oslo to discuss air\
+      \ defense, interceptors, FREYJA anti-missile missiles, and preparations for\
+      \ winter. He traveled to Norway to attend the funeral of King Harald V. \n-\
+      \ The Ukrainian Unmanned Systems Forces claim that their drones destroyed a\
+      \ Russian Su-33 carrier-based fighter jet, a Mi-8 helicopter, and two radar\
+      \ systems overnight in Anapa.\n- In the Kharkiv region, around 10:00 a.m., a\
+      \ Russian Shahed-type drone struck a train station near the village of Iskra,\
+      \ hitting a train traveling from Kharkiv to Izyum. Seven people were injured.\
+      \ \n- An explosion occurred at the Ritom hydroelectric power plant in Piotta,\
+      \ Switzerland. Part of the building collapsed; several people suffered serious\
+      \ injuries, and some are reportedly trapped under the rubble.\n- In the Chernihiv\
+      \ region, Russia fired a Banderol missile at a hypermarket in Pryluky. One person\
+      \ was killed and three were injured. \n- Trump took to social media to congratulate\
+      \ Germany's AfD on its victory in the state elections. \n- Both Xi Jinping and\
+      \ Putin promised North Korea that they would strengthen relations with the country\
+      \ on the anniversary of its founding.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1003206605089337960)
+
+      - [Novorossiysk](https://pixelfed.cz/p/dnesnaukrajine/1003348411509303765)
+
+      - [Minus the Russian MRAP](https://pixelfed.cz/p/dnesnaukrajine/1003348451123235286)
+
+      - [Minus Buky](https://pixelfed.cz/p/dnesnaukrajine/1003348488247826903)
+
+      - [He should have given up](https://pixelfed.cz/p/dnesnaukrajine/1003348518918134232)
+
+      - [The drones were operating](https://pixelfed.cz/p/dnesnaukrajine/1003348561014004185)
+
+      - [Minus Grad](https://pixelfed.cz/p/dnesnaukrajine/1003348605703981530)
+
+      - [On the front lines](https://pixelfed.cz/p/dnesnaukrajine/1003348640509561307)
+
+      - [Train Involved in the Accident](https://pixelfed.cz/p/dnesnaukrajine/1003348658931223004)
+
+      '
   - title: Tuesday
     year: September 8, 2026
     sort: '2026-09-08'

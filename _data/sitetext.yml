@@ -38,6 +38,37 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "9. září 2026" 
+        sort: "2026-09-09"
+        image: assets/img/timeline/2026-09-09.jpg
+        podcast: "2026-09-09.mp3"
+        desc: |
+          Rusko útočí na Ukrajinu třetí noc v řadě a mění cíle. Podle vzdušných sil vypustilo přes noc 196 dronů typu Šáhid včetně proudových, k tomu balistické rakety Iskander-M z okupovaného Krymu a řízené střely Banderol S8000 od Azovského moře. Protivzdušná obrana sestřelila nebo potlačila 165 dronů, zásahy jsou hlášené z 23 míst a na čtyřech dalších dopadly trosky. Za poslední den zabily ruské útoky na Ukrajině nejméně dvanáct lidí a šestašedesát jich zranily. V kyjevské čtvrti Darnyckyj zasáhl ranní úder jednadvacetipatrový obytný dům, pět lidí skončilo se zraněními. Zelenskyj si postěžoval na slabou reakci v zahraničí: Moskva podle něj nesmí jít do zimy s pocitem, že jí raketový a dronový teror projde bez následků. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02W1tQp1pMQu1S7E8N1Atb95cJNrUs7c7jbk2ZmF9eRJFpNKc46kMMDMmw6Co4feZBl):
+        detail: | 
+          - Soudní dvůr EU zamítl žalobu bývalého maďarského premiéra Viktora Orbána, který chtěl zablokovat financování vojenské pomoci Ukrajině z výnosů zmrazených ruských aktiv. Lucemburský soud konstatoval, že věc nespadá do jurisdikce unijního soudnictví, protože jde o dohodu členských států v rámci společné zahraniční a bezpečnostní politiky. Evropský mírový nástroj dal Ukrajině od roku 2022 už 11,1 miliardy eur, jeho refundační mechanismus ale zůstává zablokovaný i po Orbánově odchodu z funkce v dubnu. Podle šéfky unijní diplomacie Kaji Kallasové je nicméně dohoda blízko. 
+          - Generální tajemník NATO Mark Rutte na 36. zasedání Kontaktní skupiny pro obranu Ukrajiny řekl, že počet zabitých civilistů na Ukrajině je nejvyšší od května 2022, a vyzval spojence, aby urychlili dodávky zbraní a pomoci. Zpoždění podle něj zbytečně stojí životy. Přes program PURL a nákupy americké techniky je zatím přislíben materiál za deset miliard dolarů. 
+          - V Kyjevské oblasti si ruské útoky za poslední den vyžádaly dva mrtvé a sedm zraněných, mezi nimi dvě děti. Poškozeno bylo jedenatřicet objektů: jedenáct domů, dva bytové domy, pět výrobních a skladových hal, administrativní budova, technická budova a dvanáct aut. 
+          - Ukrajinské drony v noci zasáhly ropný terminál v Novorossijsku na jihu Ruska. Podle nezávislého ruského kanálu ASTRA v terminálu vypukl požár a poškozený je i jeden obytný dům. Ukrajina tvrdí, že v přístavu zasáhla také hlídkovou loď Projekt 12150 Mangusta.
+          - V Oděské oblasti zasáhly ruské drony mezinárodní hraniční přechod Starokozače na hranici s Moldavskem. Dva civilisté zahynuli, tři byli zraněni a dalších šestnáct lidí museli záchranáři evakuovat z autobusu. Přechod je teď dočasně uzavřený. 
+          - V Mykolajivské oblasti zahynula při kombinovaném útoku žena a čtyři lidé byli zraněni, mezi nimi dítě. Poškozena je přístavní a civilní infrastruktura, obchodní centrum, poštovní terminál, kavárna, domy i auta. 
+          - Zelenskyj jednal v Oslu s norským premiérem Jonasem Gahrem Størem o protivzdušné obraně, interceptorech, protiraketových střelách FREYJA a přípravě na zimu. Do Norska přijel na pohřeb krále Haralda V. 
+          - Ukrajinské síly bezpilotních systémů tvrdí, že jejich drony v noci v Anapě zničily ruský stíhací letoun Su-33 určený pro start z letadlové lodě, vrtulník Mi-8 a dva radarové systémy.
+          - V Charkivské oblasti zasáhl kolem desáté hodiny dopoledne ruský dron typu Šáhid železniční stanici u vesnice Iskra a trefil vlak z Charkova do Izjumu. Sedm lidí bylo zraněno. 
+          - V hydroelektrárně Ritom ve švýcarské Piottě došlo k výbuchu. Část budovy se zřítila, několik lidí utrpělo vážná zranění a někteří jsou údajně uvězněni pod troskami.
+          - V Černihivské oblasti vyslalo Rusko střelu Banderol na hypermarket v Prylukách. Jeden člověk zahynul a tři byli zraněni. 
+          - Trump na své síti podpořil německou AfD v jejím vítězství v zemských volbách. 
+          - Si Ťin-pching i Putin slíbili Severní Koreji k výročí jejího založení posílení vztahů.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1003206605089337960)
+          - [Novorossijsk](https://pixelfed.cz/p/dnesnaukrajine/1003348411509303765)
+          - [Mínus ruský MRAP](https://pixelfed.cz/p/dnesnaukrajine/1003348451123235286)
+          - [Mínus Buky](https://pixelfed.cz/p/dnesnaukrajine/1003348488247826903)
+          - [Měl se vzdát](https://pixelfed.cz/p/dnesnaukrajine/1003348518918134232)
+          - [Drony pracovaly](https://pixelfed.cz/p/dnesnaukrajine/1003348561014004185)
+          - [Mínus Grad](https://pixelfed.cz/p/dnesnaukrajine/1003348605703981530)
+          - [Na frontě](https://pixelfed.cz/p/dnesnaukrajine/1003348640509561307)
+          - [Zasažený vlak](https://pixelfed.cz/p/dnesnaukrajine/1003348658931223004)
       - title: "Úterý"
         year: "8. září 2026" 
         sort: "2026-09-08"
