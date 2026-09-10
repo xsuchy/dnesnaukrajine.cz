@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "10. září 2026" 
+        sort: "2026-09-10"
+        image: assets/img/timeline/2026-09-10.jpg
+        podcast: "2026-09-10.mp3"
+        desc: |
+          Generální štáb potvrdil, že ukrajinské údery na Novorossijsk z 9. září zasáhly nejméně tři ruské válečné lodě: fregatu Admirál Essen, velkou výsadkovou loď Petr Morgunov a malou námořní minolovku Železňakov. Fregata, která nosí řízené střely Kalibr, dostala podle ukrajinského námořnictva zásah protilodní střelou komplexu Neptun a na můstku po úderu hořelo. Kromě lodí byly zasaženy také tamější sklady mazutu. Operaci vedlo oddělení aktivních operací rozvědky HUR společně s dalšími složkami obranných sil. Rozsah poškození plavidel štáb zatím neupřesnil. Během dne se ale objevily první satelitní snímky, které údery dokazují. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid023QRP4wnebyUxDis3pF4pNupqxVCyTcMW8KVuqGQWiy5B7pdFZZsoeYfQAdQ49ujPl): 
+        detail: |
+          - Ukrajinské drony poprvé dosáhly na západní Sibiř. Síly speciálních operací oznámily zásah novourengojského závodu na přípravu plynového kondenzátu v Jamalo-něneckém autonomním okruhu, tedy zhruba 3 200 kilometrů od ukrajinské hranice. Je to nejhlubší úder od začátku velké invaze a podle SSO šlo o oblast, kterou Rusko dosud považovalo za naprosto bezpečné území. Závod zpracovává kolem 19,5 milionu tun suroviny ročně a vyrábí naftu i další ropné produkty pro ruskou armádu. Druhým cílem byl sousední Purovský závod na zpracování plynového kondenzátu, kterým jen loni prošlo 13,4 milionu tun. Ukrajinská zbrojovka Fire Point, výrobce střel Flamingo, se k útoku přihlásila dronem typu FP-1, předtím jen zveřejnila hlášku ve stylu „hádejte, kdo urazil přes 3 300 kilometrů a zasáhl cíl“. Údery pak pokračovaly náletem na Machačkalu v Dagestánu, jediný ruský nezamrzající hlubokovodní přístav v Kaspickém moři a klíčový uzel logistického koridoru mezi Ruskem a Íránem, kudy proudí komponenty a šahedy z Íránu a opačným směrem trhaviny, díly pro drony a munice.
+          - Rjazaňská rafinerie Rosněfti, která zásobuje benzinem Moskvu a okolí, po dronovém útoku 6. září úplně zastavila zpracování ropy. Podle dvou zdrojů agentury Reuters jsou poškozené obě primární jednotky, které v době útoku běžely: AT-6 s asi 48 procenty kapacity závodu a AVT-4 s dalšími 23 procenty. Třetí jednotka AVT-3, tedy zhruba 18 procent kapacity, se nerozjela už od květnového náletu. Jde o největší rafinerii Rosněfti a jednu ze tří největších v Rusku. Ročně vyrobí přes dva miliony tun benzinu a více než tři miliony tun nafty. Od pozdního jara je to už třetí odstávka kvůli dronům, opravy prý potrvají několik týdnů.
+          - Rumunská zpravodajská služba SRI překazila sabotážní operaci koordinovanou Ruskem. Zadržen byl 40letý ruský občan. V období od února do července pořizoval fotografie a videa zachycující cíle strategického vojenského významu, včetně rumunských a spojeneckých vojenských základen, komunikačních center, přesunů vojenské techniky a personálu, jakož i ukrajinských nákladních letadel typu ANTONOV během jejich pobytu na rumunském území.
+          - U Orichivu shromáždilo Rusko podle důstojníka 65. brigády Serhije Skibčyka asi 120 útočných skupin z 58. armády, konkrétně z 19. a 42. motostřelecké divize. Celkem jde o zhruba 150 tisíc vojáků. Linie dotyku se ale nezměnila a město zůstává pod ukrajinskou kontrolou. Rozrostla se pouze takzvaná „kill zone“, což ale komplikuje jak ruskou, tak ukrajinskou logistiku.
+          - Tři z pěti tankerů, které 8. září zasáhly americké síly, mají podle zmocněnce prezidenta pro sankce Vladyslava Vlasjuka přímé vazby na ruskou stínovou flotilu. Jde o plavidla Kaviz, Charminar a Riesco, která vozila ruskou ropu, zajížděla do ruských přístavů a vypínala sledovací systém AIS. Všechna tři jsou pod sankcemi Ukrajiny i USA.
+          - V Soči hořelo po útoku ukrajinských námořních dronů. Útok přerušil koncert zpěvačky Taťány Bulanovové, která od začátku velké invaze veřejně podporuje ruskou agresi. Šéf Centra pro boj s dezinformacemi Andrij Kovalenko připomněl, že v Soči byla v tu chvíli řada lidí z ruské elity.
+          - V Sumách zasáhl ruský dron nákupní a zábavní centrum Manufaktura v centru města. Zemřeli jednadvacetiletý muž a stejně stará žena, nejméně dvacet lidí utrpělo zranění včetně tří dětí, čtyři z nich jsou ve vážném stavu. Rusové pak na centrum zaútočili ještě jednou.
+          - Trump označil svůj telefonát s Putinem za „skvělý“. Putin podle něj chce dohodu, a kdyby ji chtěl i Zelenskyj, bylo by to prý moc hezké. Na otázku, co brání míru, odpověděl, že jde o dva lidi, kteří se navzájem nenávidí. Trilaterální schůzku podle svých slov nevylučuje.
+          - Norský premiér Jonas Gahr Støre řekl v televizi NRK, že ruský dron v úterý při startu z moldavského letiště málem zasáhl letadlo se Zelenským, který mířil na pohřeb krále Haralda V. 
+          - Amnesty International v nové zprávě označila ruský nábor cizinců do armády za obchod s lidmi. Rusko podle ní cílí na lidi z chudých zemí, používá nátlak a po dvou týdnech je posílá rovnou do bojů.
+          - Ruská FSB zatkla člena ostrahy britského velvyslanectví a obvinila ho z pokusu o teroristický útok na britského velvyslance „na příkaz ukrajinských zpravodajských služeb“.
+          - Podle Financial Times zvažuje Trump, že větší roli v jednáních o ukončení války dostane šéf CIA John Ratcliffe, a role vyslanců Witkoffa a Kushnera se naopak zmenší. 
+          - V Chmelnyckém zapálily trosky sestřeleného dronu tržnici. Během hašení požáru došlo k detonaci a čtyři hasiči utrpěli zranění.
+          - Zelenskyj dorazil do Kanady, s premiérem Markem Carneym má řešit hlavně protivzdušnou obranu a přípravu na zimu.
+          - SBU zmařila plán FSB na vraždu veřejného aktivisty v Kyjevské oblasti a zadržela podezřelého.
+          - V Charkově byl zadržen ruský agent, který pomáhal navádět údery na město.
+          - Ruské ztráty překročily hranici jeden a půl milionu.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1003689705216600270)
+          - [Mínus artilerie](https://pixelfed.cz/p/dnesnaukrajine/1003689108846639295)
+          - [Sumy](https://pixelfed.cz/p/dnesnaukrajine/1003689160212461760)
+          - [Rekruti](https://pixelfed.cz/p/dnesnaukrajine/1003689220828084419)
+          - [Soči](https://pixelfed.cz/p/dnesnaukrajine/1003689244065073348)
+          - [Zajatci](https://pixelfed.cz/p/dnesnaukrajine/1003689597419075787)
       - title: "Středa"
         year: "9. září 2026" 
         sort: "2026-09-09"
