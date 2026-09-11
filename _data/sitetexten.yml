@@ -23,6 +23,116 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Friday
+    year: September 11, 2026
+    sort: '2026-09-11'
+    image: assets/img/timeline/2026-09-11.jpg
+    podcast: 2026-09-11.mp3
+    desc: 'Ukrainian drones and missiles were busy behind Russian lines. Two fires
+      broke out simultaneously in Saratov. According to an OSINT analysis by the ASTRA
+      portal, drones struck a Rosneft refinery with an annual capacity of roughly
+      4.8 million metric tons of crude oil, which has been in operation since 1934
+      and has been hit by the Ukrainians at least sixteen times (!!) since the start
+      of the invasion. The second target was the logistics center of the Ozon e-commerce
+      platform; the company subsequently suspended order acceptance for the entire
+      Saratov region, and its shares on the Moscow Stock Exchange fell by five percent.
+      According to the manufacturer Fire Point, FP-5 Flamingo missiles struck military-industrial
+      targets near Volgograd. Governor Andrei Bocharov, however, acknowledged only
+      damage to an industrial facility in the south of the city caused by falling
+      debris. Ukrainian drones have attacked Russian refineries at least seventy times
+      this year, and oil processing in Russia has fallen to its lowest level in twenty
+      years. And this also happened:
+
+      '
+    detail: '- Sirens sounded in Kyiv around 9:10 a.m., and about half an hour later,
+      explosions rang out across the city. Russian drones struck two gas stations,
+      in the Dnipro and Obolon districts; the Russians attacked the one in Obolon
+      a second time shortly after the first strike, using the classic “double tap”
+      tactic. Two people were killed and eight were injured, including a 12-year-old
+      boy and one of the rescue workers. This brings the total to three gas stations
+      in Kyiv damaged in two days, all of which are operated by the state-owned company
+      Ukrnafta. Russia began targeting gas stations shortly after the war broke out,
+      but initially focused on frontline areas and has gradually shifted its attacks
+      to the center and north of the country, complicating fuel distribution. The
+      attack occurred just as Polish Foreign Minister Radosław Sikorski arrived by
+      train at Kyiv’s main train station.
+
+      - Overnight, Russia launched 161 attack drones of various types, including jet-powered
+      ones, and one low-cost S-8000 Banderol guided missile. Ukrainian forces shot
+      down or neutralized 138 drones using electronic warfare; strikes were reported
+      in nineteen locations, and falling debris struck three others. Over the past
+      day, Russian attacks have killed at least nine people and injured 145. In the
+      Sumy region, glide bombs injured twelve people, including four children; in
+      the Kherson region, nine people were injured; in the Zaporizhzhia region, five
+      were injured, including two children; and in the Donetsk region, a resident
+      of Kramatorsk died and another 29 people were injured. In Odesa, an airstrike
+      damaged a warehouse containing humanitarian aid.
+
+      - Russia has begun importing fuel from South Korea and Turkey in response to
+      Ukrainian strikes on refineries, according to a new report by the think tank
+      Center for Research on Energy and Clean Air. According to the report, what was
+      once the world’s largest exporter of petroleum products has now found itself
+      in the opposite role. At the end of August, domestic gasoline production covered
+      only about 70 percent of demand; the daily shortfall is around 30,000 metric
+      tons; and at least seventeen Russian regions have imposed restrictions on fuel
+      sales—typically 30 to 40 liters per car or a system based on even and odd license
+      plate numbers.
+
+      - After analyzing the data, the General Staff confirmed that three Russian warships
+      were damaged during Wednesday’s strike on Novorossiysk and the targeting of
+      fuel oil depots there. The vessels in question are the small naval minesweeper
+      Zheleznyakov, the frigate Admiral Essen, and the Project 11711 landing ship
+      Pyotr Morgunov. Exilenova+ also reports that a Buyan-M-class corvette, which
+      carries Kalibr and Oniks missiles, and the frigate Admiral Makarov were hit.
+      According to their reports, the Essen was struck in the superstructure and caught
+      fire.
+
+      - The death toll from Thursday’s Russian strike on a shopping center in Pavlohrad,
+      in the Dnipropetrovsk region, rose overnight to five dead and 67 injured, including
+      at least three children. Foreign Minister Andriy Sybiha stated that Moscow is
+      deliberately targeting places where civilians gather in order to cause the highest
+      possible civilian casualties, spread fear, and force Ukraine to make concessions.
+
+      - Eighteen European and Ukrainian defense contractors are founding the Drone
+      Alliance. European Commissioner for Defense Andrius Kubilius called on companies
+      to openly identify problem areas in the supply chain—whether related to components,
+      testing capabilities, certification, intellectual property, or personnel—because
+      “only obstacles that are known can be addressed.”
+
+      - The European Commission has given final approval to a €6 billion defense package
+      for Ukraine. The approval also allows Kyiv to use funds from a €90 billion EU
+      support loan to purchase U.S.-made PAC-3 Patriot anti-missile missiles.
+
+      - Volodymyr Zelenskyy and Canadian Prime Minister Mark Carney agreed in Canada
+      on seven new aid packages, six joint initiatives, and three cooperation agreements.
+      The two countries had previously signed a 100-year partnership agreement.
+
+      - Imports of Russian liquefied natural gas into the European Union have plummeted.
+      In August, Belgium did not import a single cubic meter of LNG from Russia, whereas
+      just one month earlier, all of its imports had come from there.
+
+      - According to a report by Anthropic, the Russians used the company''s Claude
+      to develop software for attacks involving swarms of autonomous FPV drones.
+
+      - Two soldiers from the Ukrainian National Guard were captured on September
+      2 near Dobropillya. Russian soldiers then shot them.
+
+      '
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1004147915634810202)
+
+      - [Pavlohrad](https://pixelfed.cz/p/dnesnaukrajine/1004144438730784034)
+
+      - [Minus Ozone](https://pixelfed.cz/p/dnesnaukrajine/1004144500487683364)
+
+      - [Ozone](https://pixelfed.cz/p/dnesnaukrajine/1004144561403452710)
+
+      - [The Russians hit the ambulance again](https://pixelfed.cz/p/dnesnaukrajine/1004144616803261735)
+
+      - [A Flamingo Over Tatarstan](https://pixelfed.cz/p/dnesnaukrajine/1004144649800084779)
+
+      - [A heating plant is on fire in Russia](https://pixelfed.cz/p/dnesnaukrajine/1004144672800513324)
+
+      '
   - title: Thursday
     year: September 10, 2026
     sort: '2026-09-10'

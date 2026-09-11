@@ -38,6 +38,33 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "11. září 2026" 
+        sort: "2026-09-11"
+        image: assets/img/timeline/2026-09-11.jpg
+        podcast: "2026-09-11.mp3"
+        desc: |
+          Ukrajinské drony a rakety měly napilno v ruském týlu. V Saratově hořelo na dvou místech současně. Podle OSINT analýzy portálu ASTRA zasáhly drony rafinerii koncernu Rosněfť s roční kapacitou zhruba 4,8 milionu tun ropy, která funguje od roku 1934 a od začátku invaze ji Ukrajinci trefili nejméně šestnáctkrát (!!). Druhým cílem bylo logistické centrum e-shopu Ozon, firma pak zastavila příjem objednávek pro celou Saratovskou oblast a její akcie na moskevské burze spadly o pět procent. Nad Volgogradem podle výrobce Fire Point zaútočily rakety FP-5 Flamingo na vojensko-průmyslové cíle. Gubernátor Andrej Bočarov nicméně připustil jen poškození průmyslového objektu na jihu města padajícími troskami. Ukrajinské drony zaútočily na ruské rafinerie letos už nejméně sedmdesátkrát a zpracování ropy v Rusku kleslo na nejnižší úroveň za dvacet let. A také se stalo tohle:
+        detail: |
+          - V Kyjevě zněly sirény kolem 9:10 a zhruba o půl hodiny později se městem rozlehly výbuchy. Ruské drony zasáhly dvě čerpací stanice, v Dniprovském a Obolonském rajónu, přičemž na tu v Obolonském Rusové zaútočili podruhé krátce po prvním zásahu, tedy klasickou taktikou „double tap“. Dva lidé zemřeli, osm jich bylo zraněno, mezi nimi je i dvanáctiletý chlapec a jeden ze záchranářů. Poškozené jsou tak za dva dny tři kyjevské pumpy, všechny provozuje státní Ukrnafta. Rusko začalo cíleně útočit na čerpací stanice už po vypuknutí války, ale primárně ve frontových oblastech a postupně se posunulo do středu a na sever země, což komplikuje distribuci paliva. Útok přišel ve chvíli, kdy na kyjevské hlavní nádraží dorazil vlakem polský ministr zahraničí Radosław Sikorski.
+          - Rusko v noci vypustilo 161 útočných dronů různých typů včetně proudových a jednu levnou řízenou střelu S-8000 Banderol. Ukrajinské síly 138 dronů sestřelily nebo potlačily elektronickým bojem, zásahy jsou hlášené z devatenácti míst a padající trosky dopadly na další tři. Za poslední den zabily ruské útoky nejméně devět lidí a 145 jich zranily. V Sumské oblasti zranily klouzavé pumy dvanáct lidí včetně čtyř dětí, v Chersonské oblasti je devět zraněných, v Záporožské pět včetně dvou dětí, v Doněcké oblasti zemřel obyvatel Kramatorsku a dalších 29 lidí utrpělo zranění. V Oděse poškodil nálet sklad s humanitární pomocí.
+          - Rusko kvůli ukrajinským úderům na rafinerie začalo dovážet palivo z Jižní Koreje a Turecka, uvádí nová zpráva think tanku Centre for Research on Energy and Clean Air. Podle ní se kdysi největší světový vývozce ropných produktů dostal do opačné role. Koncem srpna pokrývala domácí produkce benzinu jen asi 70 procent poptávky, denní schodek je kolem 30 tisíc tun a nejméně sedmnáct ruských regionů zavedlo omezení prodeje paliva – typicky 30 až 40 litrů na auto nebo systém sudých a lichých registračních značek.
+          - Generální štáb po analýze dat potvrdil poškození tří ruských válečných lodí při středečním úderu na Novorossijsk a zásah tamních skladů mazutu. Jde o malý námořní minolovku Železňakov, fregatu Admiral Essen a výsadkovou loď projektu 11711 Pjotr Morgunov. Exilenova+ navíc hlásí zásah korvety třídy Bujan-M, která nese střely Kalibr a Oniks, a fregaty Admiral Makarov. Essen podle nich dostal zásah do nástavby a hořel.
+          - Bilance čtvrtečního ruského úderu na nákupní centrum v Pavlohradu v Dnipropetrovské oblasti se přes noc zvýšila na pět mrtvých a 67 zraněných, mezi nimi jsou nejméně tři děti. Ministr zahraničí Andrij Sybiha uvedl, že Moskva záměrně míří na místa, kde se shromažďují civilisté, aby způsobila co nejvyšší civilní ztráty, šířila strach a donutila Ukrajinu k ústupkům.
+          - Osmnáct evropských a ukrajinských zbrojovek zakládá Drone Alliance. Evropský komisař pro obranu Andrius Kubilius vyzval firmy, ať nahlas pojmenují problematická místa ve výrobním řetězci, ať už jde o komponenty, testovací kapacity, certifikace, duševní vlastnictví nebo lidi, protože „řešit se dají jen překážky, o kterých se ví“.
+          - Evropská komise dala finální zelenou obrannému balíčku pro Ukrajinu ve výši šesti miliard eur. Souhlas zároveň umožňuje Kyjevu použít peníze z unijní podpůrné půjčky ve výši 90 miliard eur na nákup amerických protiraketových střel PAC-3 Patriot.
+          - Volodymyr Zelenskyj a kanadský premiér Mark Carney se v Kanadě dohodli na sedmi nových balíčcích pomoci, šesti společných iniciativách a třech dokumentech o spolupráci. Obě země předtím podepsaly stoletou partnerskou smlouvu.
+          - Dovoz ruského zkapalněného plynu do Evropské unie prudce klesl. Belgie v srpnu nedovezla z Ruska ani kubík LNG, přičemž ještě o měsíc dřív odtud pocházel veškerý její dovoz.
+          - Podle zprávy společnosti Anthropic Rusové využili jejího Clauda k vývoji softwaru pro útoky rojů autonomních FPV dronů.
+          - Dva vojáci ukrajinské národní gardy byli 2. září zajati poblíž Dobropillie. Ruští vojáci je poté zastřelili.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1004147915634810202)
+          - [Pavlohrad](https://pixelfed.cz/p/dnesnaukrajine/1004144438730784034)
+          - [Mínus Ozon](https://pixelfed.cz/p/dnesnaukrajine/1004144500487683364)
+          - [Ozon](https://pixelfed.cz/p/dnesnaukrajine/1004144561403452710)
+          - [Rusové opět trefili ambulanci](https://pixelfed.cz/p/dnesnaukrajine/1004144616803261735)
+          - [Plameňák nad Tatarstánem](https://pixelfed.cz/p/dnesnaukrajine/1004144649800084779)
+          - [Rusům hoří teplárna](https://pixelfed.cz/p/dnesnaukrajine/1004144672800513324)
       - title: "Čtvrtek"
         year: "10. září 2026" 
         sort: "2026-09-10"
