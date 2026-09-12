@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "12. září 2026" 
+        sort: "2026-09-12"
+        image: assets/img/timeline/2026-09-12.jpg
+        podcast: "2026-09-12.mp3"
+        desc: |
+          Ukrajinské drony v noci letěly na dvě ruská města. V Taganrogu v Rostovské oblasti, hlásili obyvatelé sérii silných detonací. Podle portálu ASTRA stoupal kouř od vojenského letiště Taganrog-Centralnyj, kde sídlí 708. pluk vojenského dopravního letectva a v sousedství se nachází také 325. letecký opravárenský závod, který se stará mimo jiné o vzácné stroje A-50U a dopravní Il-76. Ze satelitních dat byl patrný požár v areálu taganrogské automobilky TagAZ, kde se vyrábí drony pro ruskou armádu. Druhým cílem noci bylo Toljatti v Samarské oblasti, zhruba 880 kilometrů od ukrajinské hranice, kde po náletu hořel chemický závod Kujbyševazot, jeden z klíčových podniků ruského dusíkatého průmyslu, který vyrábí čpavek, dusičnan amonný, močovinu a kaprolaktam a stojí zhruba za polovinou ruské produkce kaprolaktamu a třemi čtvrtinami kordových tkanin pro pneumatiky. Jeho produkty se používají také při výrobě tuhých raketových paliv pro taktické a balistické rakety. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid035VeHwvHRW5aQiBhcBtZMfCRiyvAB47hJeBq9HcrDth8PdwTPgpT9o5w8xnudRUXul):
+        detail: |
+          - Anthropic zveřejnil zprávu, podle které Rusko používalo jeho model Claude při kybernetických útocích proti Ukrajině a Evropě. Nejčastějšími terči byli podle dokumentu členové ukrajinské vlády, armády a diplomacie. Útočník skenoval e-mailové služby a systémy vzdáleného přístupu u více než dvou desítek ukrajinských vládních organizací. Skupina GTG-20006, kterou Anthropic spojuje se státem podporovanou skupinou Midnight Blizzard, si automatizací zrychlila práci a sama upravovala malware tak, aby unikl známým bezpečnostním nástrojům. Přebírala také účty na WhatsAppu: napojila je přes farmu prohlížečů, vypnula potvrzení o přečtení zprávy, aby si oběti ničeho nevšimly, a hromadně exportovala ruské a ukrajinské konverzace. Takto byli terčem nejméně dva bývalí vysocí ukrajinští činitelé.
+          - Rusko v noci vedlo proti Ukrajině kombinovaný útok: balistické rakety Iskander-M/KN-23 z Voroněžské a Rostovské oblasti a z okupovaného Krymu, osm střel Kalibr z Černého moře, šest řízených raket Ch-59/69 odpálených nad Černým mořem a 129 dronů typu Shahed, střel S8000 Banderol a maket Parodija od Kursku, Orlu, okupované Doněcké oblasti a z Hvardijského na Krymu. Zhruba polovina Shahedů byla proudová. Hlavním cílem byla Oděská oblast. Protivzdušná obrana sestřelila nebo potlačila 110 cílů: šest Kalibrů, jeden Banderol, dvě rakety Ch-59/69 a 101 dronů. Zásahy byly hlášeny z dvaceti míst, na čtyřech dalších spadly trosky. 
+          - V Oděse zasáhl ruský úder vícepodlažní obytný dům. Počet zraněných během rána vyrostl na nejméně dvanáct, mezi nimi jedno dítě. Šéf oděské oblastní správy Oleh Kiper mluví o masivním raketovém a dronovém útoku na civilní infrastrukturu regionu. Vzdušné síly krátce po náletu varovaly, že nad oblastí jsou další Shahedy.
+          - Náčelník britského generálního štábu Richard Knighton uvedl, že od února 2022 padlo v Ukrajině přes půl milionu ruských vojáků. Jde o část z 1,5 milionu ruských ztrát včetně raněných a nezvěstných, což se zhruba kryje s ukrajinskými odhady. Drtivá většina těchto ztrát podle něj přišla až po lednu 2023, přičemž Rusko za tu dobu získalo asi dvě procenta ukrajinského území. Ruská armáda podle Knightona přišla i o „enormní“ množství techniky. 
+          - Zelenskyj v rozhovoru pro kanadskou CBC řekl, že Putin nikdy neopustí cíl obsadit celou Ukrajinu. „Chce nás obsadit celé. A udělá to, pokud nebudeme dost silní, pokud bude svět unavený a pokud nedostaneme bezpečnostní záruky,“ prohlásil s tím, že záruky musí znamenat, že se Ukrajina nebude muset bát další okupace. Dodal, že je připravený na přímá jednání s Putinem, a odmítl představu, že by z války mohly vyjít všechny strany jako vítězové.
+          - Během noci byl zasažen Kaspijsk v Tatarstánu a v něm fregata třídy Gepard projektu 11661K, vyzbrojená protilodními střelami Uran a protiletadlovým systémem Osa-MA, která slouží jako vlajková loď ruské Kaspické flotily.
+          - Rusové v noci ostřelovali Kryvyj Rih balistickými raketami z několika směrů. Zásah průmyslového podniku si vyžádal jednoho mrtvého a dva zraněné. Při stejné vlně zasáhly údery i Dnipro, kde vzplál další průmyslový areál.
+          - Němečtí vyšetřovatelé se domnívají, že útok dronem na letiště Lipsko/Halle ze dne 4. srpna 2026 zorganizoval důstojník ruské GRU. Do Německa vstoupil přes Turecko, poté odletěl do Srbska a nyní se nachází v Rusku.
+          - Vladimir Putin znovu hrozil Evropě. Vyslání evropských vojáků na ukrajinské území by podle něj znamenalo válku s Ruskem, přičemž současně tvrdí, že Moskva Evropu nijak neohrožuje.
+          - V muničních skladech bulharské společnosti EMCO poblíž vesnice Gorni Vărpišta vypukl požár. Jde o druhý takový incident za pouhý měsíc. 
+          - Ukrajina bude podle Denyse Šmyhala potřebovat na obnovu a rozvoj energetiky v příští dekádě nejméně 91 miliard dolarů.
+          - Portugalsko podpořilo využití zmrazených ruských aktiv ve prospěch Ukrajiny.
+          - Kanada vyčlení přes 30 milionů dolarů na rehabilitaci ukrajinských veteránů.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1004335405630407729)
+          - [Ukrajinský dron utíká před helikoptérou](https://pixelfed.cz/p/dnesnaukrajine/1004332672270996493)
+          - [Mínus 78](https://pixelfed.cz/p/dnesnaukrajine/1004333795869525022)
+          - [Vatnici se bouří](https://pixelfed.cz/p/dnesnaukrajine/1004333879888856099)
+          - [Polský nácek ničí památník UPA](https://pixelfed.cz/p/dnesnaukrajine/1004333901912142886)
+          - [Mínus rampa s Shahedem](https://pixelfed.cz/p/dnesnaukrajine/1004333931981214759)
+          - [Trefa!](https://pixelfed.cz/p/dnesnaukrajine/1004333980951692328)
+          - [Ruský nálet na benzinku v Kyjevě](https://pixelfed.cz/p/dnesnaukrajine/1004333997983913001)
+          - [Mínus ruská technika](https://pixelfed.cz/p/dnesnaukrajine/1004334038916690986)
+          - [Mínus cenný kousek](https://pixelfed.cz/p/dnesnaukrajine/1004334063401063467)
       - title: "Pátek"
         year: "11. září 2026" 
         sort: "2026-09-11"

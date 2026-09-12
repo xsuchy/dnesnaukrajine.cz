@@ -23,6 +23,106 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Saturday
+    year: September 12, 2026
+    sort: '2026-09-12'
+    image: assets/img/timeline/2026-09-12.jpg
+    podcast: 2026-09-12.mp3
+    desc: 'Ukrainian drones flew toward two Russian cities overnight. In Taganrog,
+      in the Rostov region, residents reported a series of loud explosions. According
+      to the ASTRA portal, smoke rose from the Taganrog-Centralny military airfield,
+      home to the 708th Military Transport Aviation Regiment; the 325th Aircraft Repair
+      Plant, which maintains, among other things, the rare A-50U aircraft and Il-76
+      transport planes, is also located nearby. Satellite data showed a fire at the
+      TagAZ automobile plant in Taganrog, where drones are manufactured for the Russian
+      military. The second target of the night was Tolyatti in the Samara Region,
+      roughly 880 kilometers from the Ukrainian border, where the Kuybyshevazot chemical
+      plant was on fire following an airstrike; one of the key enterprises in Russia’s
+      nitrogen industry, which produces ammonia, ammonium nitrate, urea, and caprolactam,
+      and accounts for roughly half of Russia’s caprolactam production and three-quarters
+      of the cord fabrics used in tires. Its products are also used in the manufacture
+      of solid rocket propellants for tactical and ballistic missiles. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid035VeHwvHRW5aQiBhcBtZMfCRiyvAB47hJeBq9HcrDth8PdwTPgpT9o5w8xnudRUXul)
+      also happened:
+
+      '
+    detail: "- Anthropic released a report stating that Russia used its Claude model\
+      \ in cyberattacks against Ukraine and Europe. According to the document, the\
+      \ most frequent targets were members of the Ukrainian government, military,\
+      \ and diplomatic corps. The attacker scanned email services and remote access\
+      \ systems at more than two dozen Ukrainian government organizations. The GTG-20006\
+      \ group, which Anthropic links to the state-sponsored Midnight Blizzard group,\
+      \ used automation to speed up its work and modified the malware itself to evade\
+      \ known security tools. It also took over WhatsApp accounts: it connected them\
+      \ via a browser farm, disabled read receipts so that victims would not notice\
+      \ anything, and exported Russian and Ukrainian conversations in bulk. At least\
+      \ two former high-ranking Ukrainian officials were targeted in this manner.\n\
+      - Overnight, Russia launched a combined attack against Ukraine: Iskander-M/KN-23\
+      \ ballistic missiles from the Voronezh and Rostov regions and from occupied\
+      \ Crimea; eight Kalibr missiles from the Black Sea; six Kh-59/69 guided missiles\
+      \ launched over the Black Sea; and 129 Shahed-type drones, S8000 Banderol missiles,\
+      \ and Parodija decoys from Kursk, Orel, the occupied Donetsk region, and Hvardijsk\
+      \ in Crimea. Roughly half of the Shaheds were jet-powered. The main target was\
+      \ the Odesa region. Air defenses shot down or neutralized 110 targets: six Kalibr\
+      \ missiles, one Banderol, two Kh-59/69 missiles, and 101 drones. Hits were reported\
+      \ from twenty locations, and debris fell at four additional sites. \n- In Odessa,\
+      \ a Russian strike hit a multi-story residential building. The number of injured\
+      \ rose to at least twelve by mid-morning, including one child. Oleh Kiper, head\
+      \ of the Odessa Regional Administration, described the attack as a massive missile\
+      \ and drone strike on the region’s civilian infrastructure. Shortly after the\
+      \ airstrike, the Air Force warned that more Shahed drones were in the area.\n\
+      - British Chief of the General Staff Richard Knighton stated that more than\
+      \ half a million Russian soldiers have been killed in Ukraine since February\
+      \ 2022. This represents a portion of the 1.5 million Russian casualties, including\
+      \ the wounded and missing, which roughly matches Ukrainian estimates. According\
+      \ to him, the overwhelming majority of these losses occurred after January 2023,\
+      \ during which time Russia captured about two percent of Ukrainian territory.\
+      \ Knighton added that the Russian military also lost an “enormous” amount of\
+      \ equipment. \n- In an interview with Canada’s CBC, Zelenskyy said that Putin\
+      \ will never give up on his goal of occupying all of Ukraine. “He wants to occupy\
+      \ all of us. And he will do so if we are not strong enough, if the world grows\
+      \ weary, and if we do not receive security guarantees,” he said, adding that\
+      \ such guarantees must mean that Ukraine will not have to fear another occupation.\
+      \ He added that he is ready for direct talks with Putin and rejected the idea\
+      \ that all sides could emerge from the war as winners.\n- Overnight, Kaspiysk\
+      \ in Tatarstan was struck, along with a Project 11661K Gepard-class frigate\
+      \ stationed there, which is armed with Uran anti-ship missiles and an Osa-MA\
+      \ anti-aircraft system and serves as the flagship of the Russian Caspian Flotilla.\n\
+      - Overnight, the Russians shelled Kryvyi Rih with ballistic missiles from several\
+      \ directions. A strike on an industrial facility left one person dead and two\
+      \ injured. During the same wave of attacks, Dnipro was also hit, where another\
+      \ industrial complex caught fire.\n- German investigators believe that a Russian\
+      \ GRU officer organized the drone attack on the Leipzig/Halle Airport on August\
+      \ 4, 2026. He entered Germany via Turkey, then flew to Serbia, and is currently\
+      \ in Russia.\n- Vladimir Putin has once again threatened Europe. According to\
+      \ him, sending European troops into Ukrainian territory would mean war with\
+      \ Russia, while at the same time he claims that Moscow poses no threat to Europe.\n\
+      - A fire broke out at the ammunition depots of the Bulgarian company EMCO near\
+      \ the village of Gorni Vărpišta. This is the second such incident in just one\
+      \ month. \n- According to Denys Shmyhal, Ukraine will need at least $91 billion\
+      \ over the next decade to rebuild and develop its energy sector.\n- Portugal\
+      \ supported the use of frozen Russian assets to benefit Ukraine.\n- Canada will\
+      \ allocate more than $30 million for the rehabilitation of Ukrainian veterans.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1004335405630407729)
+
+      - [A Ukrainian drone flees from a helicopter](https://pixelfed.cz/p/dnesnaukrajine/1004332672270996493)
+
+      - [Minus 78](https://pixelfed.cz/p/dnesnaukrajine/1004333795869525022)
+
+      - [The Vatnici Are Rebelling](https://pixelfed.cz/p/dnesnaukrajine/1004333879888856099)
+
+      - [Polish Nazi vandalizes UPA memorial](https://pixelfed.cz/p/dnesnaukrajine/1004333901912142886)
+
+      - [Minus the ramp with Shahed](https://pixelfed.cz/p/dnesnaukrajine/1004333931981214759)
+
+      - [Bull''s-eye!](https://pixelfed.cz/p/dnesnaukrajine/1004333980951692328)
+
+      - [Russian airstrike on a gas station in Kyiv](https://pixelfed.cz/p/dnesnaukrajine/1004333997983913001)
+
+      - [Minus Russian technology](https://pixelfed.cz/p/dnesnaukrajine/1004334038916690986)
+
+      - [One less valuable item](https://pixelfed.cz/p/dnesnaukrajine/1004334063401063467)
+
+      '
   - title: Friday
     year: September 11, 2026
     sort: '2026-09-11'
