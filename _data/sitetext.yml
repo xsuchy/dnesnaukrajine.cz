@@ -38,6 +38,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "15. září 2026"
+        sort: "2026-09-15"
+        image: assets/img/timeline/2026-09-15.jpg
+        podcast: "2026-09-15.mp3"
+        desc: |
+          Ani patolízalství vůči Rusku, které soustavně předvádí Trumpovo nejbližší okolí, očividně Rusům nestačí. Sergej Lavrov totiž nově prohlásil, že za prodlužování války můžou …Spojené státy. Kdyby prý Američané neustoupili od dohod, které dojednal s Trumpem Putin v Anchorage na Aljašce, žilo by se už rok bez války. A tak je to s Rusy pokaždé: podejte jim prst a utrhnou vám ruku, obě nohy, půlku zad, a nakonec vás obviní z toho, že jste fašisté a že jste si to beztak udělali sami, protože trpíte na rusofobii. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid05XHYoabsVFyLiF6hE3Wfz2AtAqbkZo7mcc3KNDaCFyUmar4m5qB1PxJ8CJx5F5vCl):
+        detail: |
+          - Verchovna rada odvolala generálního prokurátora Ruslana Kravčenka – den poté, co oznámil, že schválil stíhání šéfa Národního antikorupčního úřadu Semena Kryvonose. NABU a antikorupční prokuratura SAPO jeho krok označily za pokračování systematického útoku na nezávislost antikorupčních institucí. Samotná generální prokuratura se přitom od svého odcházejícího šéfa distancovala prohlášením, že obvinění není pravdivé. NABU vyšetřuje skupinu, která údajně kryla podvodná call centra a prala miliony hřiven, a v odposleších se mluví o "šéfovi", jehož popis sedí právě na Kravčenka. Krátce před odvoláním stihl Kravčenko požádat o výjezd na pařížskou konferenci Rady Evropy o ukrajinských dětech, povolení dostal a zemi opustil. PACE potvrdila, že na programu není a nikdo z generální prokuratury se konference nezúčastní.
+          - Generální štáb Ukrajiny potvrdil přímý zásah rafinerie v Syzrani v Samarské oblasti, která patří státnímu Rosněftu. Poškozená je atmosférická destilační jednotka AVT-6 a přesně ta místa, bez kterých rafinerie nevyrobí nic. Druhým cílem noci byl Taganrog, kde ukrajinské drony mířily na výrobu bezpilotních prostředků a na sklad e-shopu Ozon. Rusko mezitím poslalo na Ukrajinu 200 dronů typu Šáhid včetně proudových verzí. Protivzdušná obrana jich sestřelila nebo potlačila 187, zásahy jsou hlášené ze sedmi míst a trosky spadly na třech dalších. Ve Volyňské oblasti, pár kilometrů od polských hranic, po ruském úderu hořela dieselová lokomotiva. Je to už třetí zásah železnice u polské hranice za týden. 
+          - Za poslední den zabily ruské útoky na Ukrajině nejméně 11 lidí a 64 jich zranily. V Prylukách v Černihivské oblasti zasáhly sklady zemědělského podniku. Na místě jsou tři mrtví a patnáct zraněných. V Doněcké oblasti Rusové zaútočili na obce dvaatřicetkrát a útoky si vyžádaly tři mrtvé a dvanáct zraněných. V Charkovské oblasti je jeden mrtvý a šestnáct zraněných, v Chersonské jeden mrtvý a jedenáct zraněných, v Dnipropetrovské jeden mrtvý a devět zraněných, v Záporožské dva mrtví. Oděská oblast hlásí masivní útok na civilní infrastrukturu včetně obytných domů, logistických areálů a přístavu, tentokrát ale bez obětí na životech.
+          - Evropská unie odložila rozhodnutí o prodloužení sankcí proti 2600 ruským subjektům a jednotlivcům, čas má do 22. září. Dohodu blokují tlaky, aby ze seznamu zmizeli ruští miliardáři. Nejhlasitěji za to lobuje Francie. Zelenskyj k tomu poznamenal, že teď rozhodně není vhodná chvíle chránit ruské oligarchy.
+          - Železniční doprava ve střední a severní části Nizozemska byla přerušena poté, co byly na kolejích nalezeny úmyslně připevněné velké trubky. Provozovatel infrastruktury ProRail nahlásil přibližně 20 takových incidentů a výslovně je označil za sabotáž železniční sítě.
+          - Ruská fregata vystřelila světlice na dánský vojenský vrtulník poblíž dánského pobřeží. Kodaň si předvolala ruského velvyslance Vladimira Barbina, dánští představitelé označili incident za bezohledný a vůči své armádě nepřijatelný.
+          - Americké ministerstvo financí uvalilo nové sankce na ruskou banku VTB kvůli obcházení sankcí proti Íránu. Podle Washingtonu je teď VTB jednou z nejkomplexněji sankcionovaných finančních institucí na světě.
+          - Donald Trump mladší přiznal, že jeho svatební oslavu částečně zaplatil ruský oligarcha Umar Kremlev. Třídenní večírek na Bahamách prý financoval jako "drahý přítel" a bez jakýchkoli politických motivů.
+          - Ruské zdroje zveřejnily nekrolog Antona Felixoviče Grunise, který byl identifikován jako generálmajor ruských ozbrojených sil a velitel 4. samostatné motorizované střelecké brigády.
+          - Do Běloruska dorazil americký zvláštní vyslanec John Coale. Jedná o propuštění vězňů a zároveň tlačí na banky, aby uvolnily běloruská aktiva, na což prý Washington připravuje mechanismus.
+          - Kyjev zasáhly v noci drony, které cíleně mířily na čerpací stanice. Jeden muž utrpěl kritická zranění a později v nemocnici zemřel, dalších sedm lidí skončilo v péči lékařů. 
+          - Evropská unie schválila 115 milionů dolarů na přestavbu přístavu Klaipėda na námořní uzel NATO. Litevský přístav leží kousek od ruské Kaliningradské oblasti.
+          - V Německu se poblíž významné základny německého letectva u Wunstorfu zřítil neznámý dron. V současné době probíhá rozsáhlá policejní operace.
+          - Ukrajinští výrobci dronů a evropské zbrojovky poprvé vstoupily do jedné organizace, EU-Ukraine Drone Alliance.
+          - Nad litevským vzdušným prostorem sestřelily stíhačky NATO dron, který přiletěl přes území Běloruska. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pbs.twimg.com/media/HSPSYcdXcAABBCD?format=jpg&name=large)
+          - [Ukrajinská ofenziva je v plném proudu](https://x.com/nexta_tv/status/2099769705242255650)
+          - [Nemilé](https://x.com/albafella1/status/2099875500092997907)
+          - [Skvělá práce ruské PVO v Soči](https://x.com/igorsushko/status/2099906176792269067)
+          - [Bábuška odstavila ruský dron](https://x.com/nexta_tv/status/2099892526215840024)
+          - [Ruská rafinerie](https://x.com/NOELreports/status/2099810808804855814)
+          - [Ruský nálet na hraniční přechod](https://x.com/Maks_NAFO_FELLA/status/2099823298829795490)
+          - [Ruský nálet na vlak u hranic s Polskem](https://x.com/Maks_NAFO_FELLA/status/2099802836926079184)
+          - [V ruské televizi: Ano, jsme nácci, ale protože nás donutili!](https://x.com/NatalkaKyiv/status/2099741833253232796)
+          - [Syzraň](https://x.com/GloOouD/status/2099735947302642057)
+          - [Mínus MT-LB](https://x.com/front_ukrainian/status/2099937696139362490)
+          - [Dramatická evakuace](https://x.com/Bodbe6/status/2099930313493504276)
       - title: "Pondělí"
         year: "14. září 2026"
         sort: "2026-09-14"
