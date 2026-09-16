@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "16. září 2026"
+        sort: "2026-09-16"
+        image: assets/img/timeline/2026-09-16.jpg
+        podcast: "2026-09-16.mp3"
+        desc: |
+          Zatímco se svět na popud Trumpa dohaduje, kdo může za cenu nafty, Rusko ráno poslalo dron na další linkový mikrobus, tentokrát v Nikopolském rajonu na Dnipropetrovsku. Pět lidí zemřelo přímo na místě a nejméně sedm skončilo v nemocnici. Za uplynulý den zabily ruské útoky na Ukrajině nejméně devět lidí a 36 jich zranily, což je už několik měsíců v kuse poměrně standardní denní bilance. V noci totiž vyslalo Rusko dalších 80 dronů, šahedů, jejich proudových verzí, gerber i návnad, protivzdušná obrana jich sestřelila 63 a zásahy jsou hlášené z deseti míst. V Záporožské oblasti zahynul jeden člověk a sedm bylo zraněných, ruské síly tam za den vedly 746 úderů proti 52 sídlům. Na Chersonsku je jeden mrtvý a sedm zraněných, dva mrtví jsou ve Slavjansku, na Charkovsku je dvanáct zraněných. Kvůli útoku zvedlo Polsko do vzduchu krátce po sedmé hodině ranní své stíhačky, uvedlo do pohotovosti pozemní protivzdušnou obranu a na čtyřicet minut zastavilo provoz na letištích v Lublinu a Řešově. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02g9YtbgoXXEaSgrubfyZ34yx5F9Smqe5qeFcuL6TvL5eduDSNLxi9uS4VFxLPRkuTl):  
+        detail: |
+          - Ukrajina zlikvidovala ruského generálmajora Antona Grunise. Potvrdil to velitel Sil bezpilotních systémů Robert Brovdi, podle kterého ho 12. září dostala jednotka Rarog z 427. samostatného pluku bezpilotních systémů na okupovaném území Doněcké oblasti. Grunis velel 4. samostatné gardové motostřelecké brigádě na kosťantynivském směru a v červenci osobně hlásil Putinovi, že ruské síly Kosťantynivku dobyly. Ukrajinci to tehdy popřeli …a o město se bojuje dodnes. 27. srpna, tedy sotva před třemi týdny, dostal Grunis od ministra obrany Belousova zlatou hvězdu Hrdiny Ruské federace za odvahu a hrdinství. „Maďar“ dodal, že jde už o sedmého ruského velitele na úrovni brigády, divize nebo armády, kterého jeho jednotky zlikvidovaly.
+          - Tři ze šesti největších ruských rafinérií v září kvůli ukrajinským dronům omezily nebo úplně zastavily provoz. Šestice Kiriši, NORSI, Taneko, Omsk, Perm a Volgograd tvoří zhruba polovinu celkové ruské produkce nafty. Kiriši stojí úplně, NORSI a Volgograd jedou asi na čtvrtinu kapacity. V Leningradské oblasti, kde Kiriši leží, zavedly úřady u čerpacích stanic limity na nákup paliva. Připomeňme, že Trump minulý týden vyzval Zelenského, aby přestal likvidovat ruskou naftu, protože to prý zdražuje palivo celému světu. Za růstem cen přitom podle dat stojí hlavně americko-izraelská válka s Íránem a uzavření Hormuzského průlivu.
+          - Ursula von der Leyenová ve výročním projevu o stavu Unie představila nový mechanismus proti ruským hybridním hrozbám, který má fungovat po vzoru NATO. Součástí má být takzvaný protihybridní manuál a nástroj doplňující článek 4 Severoatlantické smlouvy pro incidenty, které nedosahují úrovně ozbrojené agrese, ale bezpečnost zjevně ohrožují. Pro Ukrajinu samotnou toho projev přinesl velmi málo.
+          - Americká prokuratura obvinila pět lidí napojených na ruskou síť, která měla v zemích podporujících Ukrajinu organizovat sabotáže a atentáty na podporovatele Ukrajiny nebo opoziční figury. Síť podle obžaloby funguje minimálně od roku 2024 a naposledy se pokoušela naverbovat několik lidí přímo v USA, aby sledovali a zabíjeli ruské disidenty za odměnu ve výši desítek tisíc dolarů.
+          - ISW dnes napsal, že ukrajinská protiofenziva s krycím názvem Vivaldi narušila ruský plán obklíčit doněckou pevnostní linii. Operaci severně od Lymanu vede 3. armádní sbor a jeho velitel Andrij Bileckyj ji odtajnil teprve v úterý s tím, že Ukrajinci vyčistili 75 kilometrů čtverečních a že šlo zatím jen o první sérii protiútoků.
+          - Kubánský učitel salsy žijící v Rusku podle DW naverboval nejméně tucet lidí, aby jménem ruských tajných služeb prováděli sabotážní akce po celé Evropě. Mezi cíle patřily podniky, autobusové depo (!) a vybavení určené pro Ukrajinu.
+          - Útok ruského dronu zničil sklad, v němž se nacházely kostýmy, kulisy a rekvizity z posledních 20 let činnosti komediálního studia „Kvartal 95“, jehož spoluzakladatelem byl Volodymyr Zelenskyj ještě předtím, než vstoupil do politiky.
+          - Bělorusko propustí 25 politických vězňů výměnou za americké úlevy ze sankcí. Oznámil to zvláštní vyslanec John Coale s tím, že USA sejmou sankce ze dvou běloruských podniků: Lakokrasky a Bellesbumprom.
+          - Americká Sněmovna reprezentantů posunula k dalšímu kroku zákon o sankcích proti Rusku. Poslední procedurální hlasování prošlo v úterý těsným poměrem 214:211, finální hlasování je na programu dnes.
+          - Kolaborantka a bývalá mluvčí Zelenského Julia Mendel měla na pozvání proruské AfD promluvit v Europarlamentu. Kvůli ukrajinským sankcím jí ale byl zakázán vstup do budovy. 
+          - Dva evropští komisaři poslali Verchovné radě dopis, ve kterém jí připomínají, že díru v ukrajinském rozpočtu může zalepit sama, pokud protlačí slíbené reformy.
+          - Zelenskyj odmítl Kushnerovu stupidní představu mírové dohody, ve které „vyhrají všichni“. Podle něj to nejde, když Putin chce celou Ukrajinu.
+          - Demokraté v Kongresu zahájili vyšetřování vztahů Donalda Trumpa mladšího s ruským oligarchou.
+          - Ukrajina zasáhla ruský letoun Su-24 na letišti v Saky na okupovaném Krymu.
+          - Podle „Rybáře“ ukrajinské síly znovu vstoupily do Luhanské oblasti. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pbs.twimg.com/media/HSUVp-PXcAAhNAG?format=jpg&name=large)
+          - [Vivaldi](https://x.com/Maks_NAFO_FELLA/status/2100259726692896776)
+          - [Ruská propaganda má další bizarní historku](https://x.com/CrimeanVoyager/status/2100119644082184514)
+          - [Na Donbasu probíhají „volby“](https://x.com/nexta_tv/status/2100275770413244442)
+          - [Sabotáž v Rusku](https://x.com/EuromaidanPress/status/2100213105192001749)
+          - [Mínus generál Grunis](https://x.com/GloOouD/status/2100147278426112106)
+          - [Ruský dron nad Oděsou](https://x.com/bayraktar_1love/status/2100275258741735716)
+          - [Rozebírání logistiky](https://x.com/bayraktar_1love/status/2100187318522978309)
       - title: "Úterý"
         year: "15. září 2026"
         sort: "2026-09-15"
