@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "17. září 2026"
+        sort: "2026-09-17"
+        image: assets/img/timeline/2026-09-17.jpg
+        podcast: "2026-09-17.mp3"
+        desc: |
+          Sněmovna reprezentantů USA schválila poměrem 262 ku 159 hlasům zákon zesnulého senátora Lindseyho Grahama o sankcích proti Rusku. Pro hlasovalo 203 republikánů, 56 demokratů a jeden nezávislý, proti sedm republikánů a 152 demokratů. Norma dává prezidentovi pravomoc uvalit cla až 100 procent na pět největších odběratelů ruské ropy a plynu a na pět zemí, které Moskvě pomáhají obcházet energetické sankce. Seznam se má revidovat každých 180 dní, výjimku dostanou státy dovážející méně než 15 procent ruského plynu, pokud dovoz snižují. Zákon dále míří na Putina a další vysoké představitele, na Centrální banku, Sberbank a Gazprombank i na stínovou flotilu. Senát ho schválil už začátkem srpna, ve sněmovně narazil na odpor části demokratů kvůli obavám, že dává prezidentovi příliš velkou moc nad cly. Zákon ještě musí podepsat Trump. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0r8uor4a5xRm9C7aEhCqYkyV7PCzBgjsoiWeCpShdn5yJv8UXkhtH46kxydpz3QHHl): 
+        detail: |
+          - Velitel 3. armádního sboru Andrij Bileckyj v televizním rozhovoru řekl, že severní rameno kleští, kterými chtělo Rusko obklíčit donbaská pevnostní města, je rozdrcené. Ruský plán počítal s obchvatem Slovjansku, Kramatorsku, Družkivky a Kostjantynivky ze severu přes Svjatohirsk a z jihu přes Dobropillja, přičemž oba hroty se měly potkat až u Barvinkove v Charkovské oblasti, tedy hluboko za současnou frontou. Jižní kleště se zastavily loni u Dobropillja, severní podle Bileckého v důsledku protiofenzivy zanikly úplně. Rusům podle něj nezbude než dobývat aglomerace čelním útokem, což bude pro ně mnohem bolestivější a dražší, než je obklíčit. Zároveň poprvé pojmenoval cíl operace Vivaldi: není jím zisk území, ale vyvedení ukrajinských jednotek na výhodné obranné linie. Putin nařídil dobýt celou Doněckou oblast do konce roku 2026, zatím ruská armáda minula patnáct vlastních termínů.
+          - Ruské rafinerie vydělaly v prvním pololetí letošního roku 938 miliard rublů, tedy zhruba 11,1 miliardy dolarů, což je o 16,2 procenta víc než loni, a to i přesto, že ukrajinské drony vyřadily pětinu ruských rafinérských kapacit. Podle Moscow Times to zařídily rekordní velkoobchodní ceny a prudce rostoucí dotace ze státního rozpočtu. Ministerstvo financí vyplácelo ve druhém čtvrtletí kolem 350 miliard rublů měsíčně a za červenec a srpen dohromady 500 miliard. Lehké ropné produkty od konce února podražily o 37 procent, nafta o třetinu. Účet platí zejména ruští řidiči: benzin je od ledna dražší o 21,2 procenta a nafta o 18,4 procenta, tedy výrazně nad inflací. Ukrajinský generální štáb odhadl škody ruskému ropnému průmyslu od srpna 2025 na 13,5 miliardy dolarů.
+          - Rusko strávilo noc tím, co umí nejlépe: terorem. Ukrajinská protivzdušná obrana v noci sestřelila 124 ze 157 vyslaných dronů a sedm z deseti Banderolů. Zásahy jsou hlášeny ze 36 míst a bilance za poslední den je deset mrtvých a jednasedmdesát zraněných. Ukrajinské drony mezitím letěly opačným směrem, na vojenské letiště v Rostovské oblasti a do průmyslové zóny jaroslavské rafinerie, odkud se objevily záběry požáru. 
+          - Dron, který sestřelily stíhačky NATO nad územím Litvy, byl podle vyšetřovatelů ruský průzkumný dron Gerbera. Nesl ale malou výbušnou nálož, kterou museli zneškodnit pyrotechnici. 
+          - Kolaborantka Elena Astanina, která se jako „předsedkyně oblastní volební komise č. 394“ podílela na organizaci zinscenovaných referend v okupovaném Tokmaku, byla zabita dronem. 
+          - Marine Le Pen tvrdí, že v případě jejího volebního vítězství bude Francie dál cvičit ukrajinské vojáky a poskytovat vojenskou pomoc, ale hodlá omezit finanční podporu. 
+          - Bělorusko zahájilo rozsáhlé vojenské manévry u tzv. Suwalské kapsy – pozemního koridoru mezi Polskem a Litvou. 
+          - Adam Kadyrov dostal od svého otce jako dárek svou vlastní vojenskou jednotku s názvem „Dustum-K13“.
+          - Ukrajina vybrala do oscarového klání dokument Traces o ženách, které přežily ruské sexuální násilí.
+          - Ukrajinský energetický gigant DTEK získal financování od Spojených států ve výši 85 miliónů dolarů. 
+          - Rusko zasáhlo v Černém moři nákladní loď plující pod vlajkou Tanzanie do přístavu v Ukrajině. 
+          - Ve slovenském Prešově vypukl požár v produkční hale zbrojovky ZVS Holding. 
+          - Ukrajinský nálet zasáhl dva odpalovače systému S-400 v Brjanské oblasti. 
+          - Ukrajina repatriovala ostatky 252 údajných padlých vojáků. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1006256118378012821)
+          - [Ruská logistika](https://pixelfed.cz/p/dnesnaukrajine/1006255135764205697)
+          - [Kadyrovic jsou skutečně myslitelé](https://pixelfed.cz/p/dnesnaukrajine/1006255171465580675)
+          - [Německo uzavřelo konzulát v Petrohradu](https://pixelfed.cz/p/dnesnaukrajine/1006255199285485700)
+          - [Mínus ruské vrtulníky](https://pixelfed.cz/p/dnesnaukrajine/1006255222061133958)
+          - [Sumy](https://pixelfed.cz/p/dnesnaukrajine/1006255289093615751)
+          - [Ruská válečná loď s ochranou před drony](https://pixelfed.cz/p/dnesnaukrajine/1006255347987144840)
+          - [Rostov](https://pixelfed.cz/p/dnesnaukrajine/1006255397685252234)
+          - [Přesilovka](https://pixelfed.cz/p/dnesnaukrajine/1006255418306674827)
       - title: "Středa"
         year: "16. září 2026"
         sort: "2026-09-16"
