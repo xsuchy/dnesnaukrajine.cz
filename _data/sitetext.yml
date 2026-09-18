@@ -38,6 +38,37 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "18. září 2026"
+        sort: "2026-09-18"
+        image: assets/img/timeline/2026-09-18.jpg
+        podcast: "2026-09-18.mp3"
+        desc: |
+          Rusko dnes zahájilo třídenní volby do Státní dumy, první parlamentní volby od začátku plnohodnotné invaze – a Ukrajina k nim poslala vlastní volební komisi. Ruské ministerstvo obrany hlásí, že přes noc sestřelilo 629 dronů nad ruskými regiony, Černým a Azovským mořem. Starosta Moskvy Sergej Sobjanin připustil, že jen k Moskevské oblasti mířilo od večera přes 350 dronů a 64 z nich dopadlo na přiblížení k hlavnímu městu. Letecký poplach byl od půlnoci vyhlášen ve třiceti ruských regionech. Šéfka ústřední volební komise Ella Pamfilovová mluvila o drobných incidentech: v Krasnodarském kraji se musela jedna volební místnost přestěhovat, protože jí dron vytloukl okna, čtrnáct okrsků v okupované Luhanské oblasti zůstalo bez proudu a v Soči museli voliči i komise ráno do krytů. Aby bylo jasno, o jakou „demokratickou“ soutěž jde, krátce před hlasováním ruský Nejvyšší soud vyřadil z voleb Jabloko, jedinou stranu, která otevřeně vystupovala proti válce. Volí se také na okupovaných ukrajinských územích – v doprovodu vojáků se samopaly. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0o8WANsYD2dPuxZFyMFeBTQ4Yk9F58nnT1LxTUyzUqco3n1W6C1p8TYKifVJLiVBJl): 
+        detail: |
+          - Jaroslavská rafinerie Slavněfť-JANOS zastavila zpracování ropy. Podle Reuters poškodil noční úder ze 17. září primární destilační jednotku AVT-3 s kapacitou 17 140 tun denně, tedy zhruba 40 procent kapacity závodu. Druhá jednotka AVT-4 se třiatřiceti procenty byla mimo provoz už od předchozího zásahu 28. srpna. Rafinerie leží asi 250 kilometrů severovýchodně od Moskvy, ročně zpracuje kolem 15 milionů tun ropy a patří k pěti největším v Rusku. Ve čtvrtek už její palivo nebylo nabízeno na domácí komoditní burze. Zelenskyj uvedl, že šlo o společnou operaci SBU, Sil bezpilotních systémů, vojenské rozvědky HUR a zahraniční rozvědky, a že během téže noci byly v Rostovské oblasti zasaženy ruské vojenské letouny: jeden An-12, dva An-26 a tři vrtulníky. 
+          - Politico popsalo, jak Rusko systematicky loví ukrajinské osobní vlaky. Od začátku plnohodnotné invaze bylo poškozeno nebo zničeno přes 500 lokomotiv, více než 60 procent z nich za posledních osm měsíců, a Ukrzaliznycja dnes přichází o 37 až 40 lokomotiv měsíčně. Podle šéfa drah Oleksandra Percovského začalo Rusko na vlaky cílit na podzim 2025, kdy získalo antény pro mesh sítě, přes které navádí drony na cíl. Drony si díky nim předávají signál mezi sebou nebo se připojují k pozemním vysílačům v Bělorusku a na okupovaném území, takže je lze řídit v reálném čase i přes rušení a útočit na pohyblivé cíle. Ruské ministerstvo obrany útoky na železnici nepopírá a označuje je za součást ničení ukrajinské logistiky. 
+          - Bloomberg píše, že ruské elity a lidé z okolí Kremlu se bojí skryté mobilizace hned po volbách a radí příbuzným, ať odjedou ze země, případně si shánějí zahraniční účty. Podle evropského bezpečnostního činitele se Rusko chystá poslat na frontu dalších 300 tisíc mužů, tentokrát ale nejspíš bez oficiálního vyhlášení: papírové povolávací rozkazy nahradil jednotný digitální registr propojený s daňovou správou, ministerstvem vnitra, zdravotní dokumentací, majetkovými databázemi i hraniční evidencí. Obavy přiživil i Putinův pokyn snížit počet regionálních úředníků o 15 procent, protože v aparátu prý panuje strach, že právě ti propuštění půjdou na vojnu. 
+          - Ukrajinské síly zasáhly u Novofedorivky na letišti Saky na okupovaném Krymu pozemní řídicí stanici ruských dronů Orion, známých také jako Inochodec. Jde o průzkumně-úderný systém třídy MALE, který vydrží ve vzduchu až 24 hodin, pracuje do výšky 7,5 kilometru a unese řízenou munici o hmotnosti 200 až 250 kilogramů. Generální štáb dále hlásí zásah místa skladování a odpalu úderných dronů u Doněcku, muničního skladu u Dovžansku a zásobovacího skladu u Kypučeho v Luhansku. 
+          - New York Times popsal, jak Putin na jednání s americkými vyjednavači v Kremlu 5. září tvrdil, že ruská armáda do několika měsíců dobude celý Donbas a že je Rusko připraveno tvrdě udeřit na ukrajinskou energetiku a zajistit Ukrajincům mimořádně těžkou zimu. Jared Kushner mu na to podle zdrojů listu odpověděl: Při vší úctě, tohle jste nám říkal už před rokem. Jaká je šance, že sem přijedeme za rok znovu a uslyšíme totéž? Třeba ten rok nemusíme ztratit. 
+          - Přes noc Rusko poslalo na Ukrajinu 93 útočných dronů, Šáhidů, z toho 46 proudových, a návnad Gerbera a Parodija, plus rakety Banderol a Dan-T. Do osmé hodiny ranní protivzdušná obrana sestřelila nebo potlačila 72 cílů, zásahy jsou hlášeny na třinácti místech a trosky spadly na dalších třech. Drony startovaly z Orelské a Rostovské oblasti, z okupované části Doněcké oblasti, od Hvardijského na okupovaném Krymu a z akvatoria Azovského moře. 
+          - V Záporoží zasáhl ruský dron pozdě večer obchodní centrum Amstor. Požár se rozšířil na více než 10 tisíc metrů čtverečních a hasiči museli kvůli hrozbě opakovaných úderů opakovaně do krytu. Hasicí práce skončily až v pátek ráno. Jeden člověk je zraněný. Podle místních médií přežily děti z nedalekého skateparku výbuch tak, že se schovaly v betonových prohlubních skatebowlů. Poškozené jsou i autobusy, zastávky, provozovny a další komerční objekty. 
+          - Konotop na Sumsku dostal v noci zásah, který poškodil školu, školku, zdravotnická zařízení, železnici, energetické vedení a řadu soukromých domů a malých firem. Část města zůstala bez plynu. Zraněné jsou dvě ženy, u jedenašedesátileté lékaři konstatovali akutní stresovou reakci, pětatřicetiletá má vícečetná poranění rukou. 
+          - Fico kvůli nemoci zrušil cestu na Ukrajinu. Předtím na setkání s veřejností prohlásil, že by neposlal slovenské vojáky umírat kvůli „nějakému článku pět“. 
+          - Ruský dron při nočním náletu na Ukrajinu vletěl nad území Moldavska a explodoval zhruba 10 km od hlavního města Kišiněvu. 
+          - Ukrajinci sestřelili nástupce ruského dronu Molnija, dřevěný kamikadze stroj, který nesl dvanáctikilogramovou minu. 
+          - Estonská rozvědka uvádí, že Rusko ztrácí na Ukrajině přes 10 tisíc vojáků týdně už třetí týden v řadě.
+          - Putin podepsal dekret, kterým se znárodňují ruské assety firem Auchan, Nestlé a Leroy Merlin. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1006582649782124182)
+          - [Po náletu na ruské pozice](https://pixelfed.cz/p/dnesnaukrajine/1006581338985389691)
+          - [Janos](https://pixelfed.cz/p/dnesnaukrajine/1006581397596331645)
+          - [Raketa byla rychlejší](https://pixelfed.cz/p/dnesnaukrajine/1006581429567676030)
+          - [Rusové zasáhli civilní autobus](https://pixelfed.cz/p/dnesnaukrajine/1006581459327536767)
+          - [Záporoží](https://pixelfed.cz/p/dnesnaukrajine/1006581826409291401)
+          - [Redukce stáda](https://pixelfed.cz/p/dnesnaukrajine/1006582890110373530)
+          - [Rostov](https://pixelfed.cz/p/dnesnaukrajine/1006582909460373147)
+          - [Oděsa](https://pixelfed.cz/p/dnesnaukrajine/1006582967090863772)
       - title: "Čtvrtek"
         year: "17. září 2026"
         sort: "2026-09-17"
