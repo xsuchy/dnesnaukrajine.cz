@@ -38,6 +38,37 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "20. září 2026"
+        sort: "2026-09-20"
+        image: assets/img/timeline/2026-09-20.jpg
+        podcast: "2026-09-20.mp3"
+        desc: |
+          Putin si z voleb do Státní dumy udělal referendum o podpoře války a Ukrajina mu na něj v noci na dnešek odpověděla po svém. Moskvu a okolí zasáhla největší dronová vlna, jakou ruská metropole dosud zažila. Podle generálního štábu byl hlavním cílem moskevský ropný závod Gazpromněft-MNPZ ve čtvrti Kapotňa, kde zásah dostala primární destilační jednotka AVT-6, komplexní rafinační jednotka a izomerizační jednotka a v areálu vypukl rozsáhlý požár. Rafinerie leží patnáct kilometrů od Kremlu a pokrývá zhruba čtyřicet procent moskevského trhu s palivy a sedmdesát procent poptávky Moskevské oblasti po benzinu a leteckém petroleji, je také hlavním dodavatelem paliva pro moskevská letiště. Zelenský napsal, že šlo o cíle, které do ruské válečné mašinerie sypou miliardy dolarů. Ruské ministerstvo obrany tvrdí, že přes noc sestřelilo 1110 dronů nad devatenácti regiony a Krymem, což je nejvyšší číslo letošního roku, dosavadní maximum bylo 822 v srpnu. Volby přesto podle Kremlu proběhly hladce. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02EJRcac7d9mFRs7NdgUsgYdgdb4uwuYvYDjNoRnfBrFSytikNH44f2QgAtv2X9XG7l): 
+        detail: |
+          - Třetí armádní sbor oznámil nové výsledky operace Vivaldi na severu Doněcké oblasti: ukrajinské jednotky osvobodily Šandryholove a Derylove a získaly plnou kontrolu nad Drobyševem. Za první dvě fáze operace se podle sboru podařilo vrátit pod kontrolu 125 čtverečních kilometrů, z toho 50 dosud okupovaných, a způsobit Rusům přes tři tisíce ztrát, z nichž osm set připadá na poslední fázi. Operace cílí na jednotky 20. a 25. armády a 1. gardové tankové armády. Velitel sboru Andrij Bilecký uvedl, že před útočnými skupinami postupují drony a pozemní bezpilotní prostředky a že těžké bombardovací drony dopravují kamikadze roboty i víc než deset kilometrů za ruské linie. Nasazeny byly mimo jiné 60. mechanizovaná, 125. těžká mechanizovaná a 3. útočná brigáda a KRAKEN. Ve skutečnosti se Ukrajinci probojovali už mnohem dále, ale většina operací dál probíhá v utajení. 
+          - V Rusku skončil třetí a poslední den voleb do Státní dumy, prvních parlamentních voleb od zahájení plnohodnotné invaze. Očekává se, že si Jednotné Rusko bez potíží udrží dominanci. Většina protiválečných kandidátů se na hlasovací lístky vůbec nedostala, a ti z liberálního Jabloka, kteří kandidovat mohli, uvedli, že se bojí o svou svobodu poté, co soudy před volbami poslaly dva vysoké představitele strany na dlouhé roky za mříže za výroky o válce. Podle šéfky ústřední volební komise Elly Pamfilovové byla účast v neděli dopoledne přes 45 procent. Hlasovalo se i na nelegálně okupovaných ukrajinských územích. Volby už tradičně provází masivní podvody. 
+          - Ruský dron zabil ve Fastivském okrese Kyjevské oblasti devětatřicetiletou ženu a dvě tříleté děti, chlapce a dívku. Podle prokuratury byly tři rodiny s dětmi krátce předtím venku před domem, žena vzala obě děti dovnitř uložit ke spánku a o chvíli později přišel výbuch. Další dívka zemřela v nemocnici po samostatném úderu v jiném okrese, celková bilance tak stoupla na čtyři mrtvé, z toho tři děti. Fastivská okresní prokuratura zahájila vyšetřování válečného zločinu.
+          - Ruské úřady zavedly noční zákaz vycházení v blízkosti estonské hranice u Narvy a do 26. září zakázaly vjezd vozidel a vstup osob do okresů Slantsy a Kingisepp v okruhu 5 km od hranice.
+          - Ukrajinská zbrojovka Fire Point potvrdila, že drony FP-1 zničily logistický komplex firmy Modern Warehouse Technologies v Sofjinu v Ramenském okrese Moskevské oblasti. 
+          - Zelenskyj uvedl, že jen za tento týden Rusko vyslalo na Ukrajinu přes dva tisíce útočných dronů, 1700 leteckých pum a devatenáct raket různých typů.
+          - V okupované části Chersonské oblasti zahynuli při cíleném dronovém útoku na civilní autobus dva lidé, z toho jeden člen místní volební komise. 
+          - Rusové za bílého dne vybombardovali nákupní centrum Nový Kontinent v Dnipru. 
+          - Ukrajinská rozvědka ukázala japonské delegaci trosky severokorejských raket. 
+          - Zelenskyj oznámil, že schválil nové údery hluboko v Rusku. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1007293431417686933)
+          - [Rusové chtěli odnést zřícený dron](https://pixelfed.cz/p/dnesnaukrajine/1007289670544509795)
+          - [Smrtící fronta na palivo](https://pixelfed.cz/p/dnesnaukrajine/1007289730395831140)
+          - [Moskevská rafinérie](https://pixelfed.cz/p/dnesnaukrajine/1007289772992990053)
+          - [Nálet na Moskvu](https://pixelfed.cz/p/dnesnaukrajine/1007289815722826598)
+          - [Moskevská PVO](https://pixelfed.cz/p/dnesnaukrajine/1007289885104290664)
+          - [Logistický park Sofijno](https://pixelfed.cz/p/dnesnaukrajine/1007289927385779049)
+          - [Moskva](https://pixelfed.cz/p/dnesnaukrajine/1007290356388002669)
+          - [Ruský styl voleb](https://pixelfed.cz/p/dnesnaukrajine/1007290403723131758)
+          - [Moskva, Sadovod](https://pixelfed.cz/p/dnesnaukrajine/1007290555705125745)
+          - [Lukašenkovo přiznání](https://pixelfed.cz/p/dnesnaukrajine/1007290588295359346)
+          - [Dnipro](https://pixelfed.cz/p/dnesnaukrajine/1007290617760222067)
       - title: "Sobota"
         year: "19. září 2026"
         sort: "2026-09-19"

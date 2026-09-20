@@ -23,6 +23,98 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Sunday
+    year: September 20, 2026
+    sort: '2026-09-20'
+    image: assets/img/timeline/2026-09-20.jpg
+    podcast: 2026-09-20.mp3
+    desc: "Putin turned the State Duma elections into a referendum on support for\
+      \ the war, and Ukraine responded in its own way last night. Moscow and the surrounding\
+      \ area were hit by the largest wave of drones the Russian capital has ever experienced.\
+      \ According to the General Staff, the main target was the Gazpromneft-MNPZ oil\
+      \ refinery in the Kapotnya district of Moscow, where the AVT-6 primary distillation\
+      \ unit, a complex refining unit, and an isomerization unit were hit, and a massive\
+      \ fire broke out on the premises. The refinery is located fifteen kilometers\
+      \ from the Kremlin and supplies roughly forty percent of Moscow’s fuel market\
+      \ and seventy percent of the Moscow Region’s demand for gasoline and jet fuel;\
+      \ it is also the main fuel supplier for Moscow’s airports. Zelenskyy wrote that\
+      \ these were targets that pour billions of dollars into the Russian war machine.\
+      \ The Russian Ministry of Defense claims that overnight it shot down 1,110 drones\
+      \ over nineteen regions and Crimea, which is the highest number this year; the\
+      \ previous record was 822 in August. Nevertheless, according to the Kremlin,\
+      \ the elections went smoothly. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02EJRcac7d9mFRs7NdgUsgYdgdb4uwuYvYDjNoRnfBrFSytikNH44f2QgAtv2X9XG7l)\
+      \ also happened: \n"
+    detail: "- The Third Army Corps announced new results of Operation Vivaldi in\
+      \ the north of the Donetsk region: Ukrainian forces liberated Shandryholove\
+      \ and Derylove and gained full control of Drobyšev. According to the corps,\
+      \ during the first two phases of the operation, they managed to regain control\
+      \ of 125 square kilometers—50 of which had been under occupation—and inflict\
+      \ over 3,000 casualties on Russian forces, 800 of which occurred during the\
+      \ latest phase. The operation targets units of the 20th and 25th Armies and\
+      \ the 1st Guards Tank Army. Corps Commander Andriy Biletskyy stated that drones\
+      \ and ground-based unmanned vehicles are advancing ahead of the assault groups\
+      \ and that heavy bomber drones are delivering kamikaze robots more than ten\
+      \ kilometers behind Russian lines. Among others, the 60th Mechanized Brigade,\
+      \ the 125th Heavy Mechanized Brigade, the 3rd Assault Brigade, and KRAKEN have\
+      \ been deployed. In reality, the Ukrainians have already advanced much further,\
+      \ but most operations continue to be conducted in secrecy. \n- In Russia, the\
+      \ third and final day of the State Duma elections—the first parliamentary elections\
+      \ since the start of the full-scale invasion—has come to an end. United Russia\
+      \ is expected to maintain its dominance without difficulty. Most anti-war candidates\
+      \ did not even make it onto the ballots, and those from the liberal Yabloko\
+      \ party who were able to run said they feared for their freedom after courts\
+      \ sentenced two senior party officials to long prison terms before the election\
+      \ for statements they made about the war. According to Ella Pamfilova, head\
+      \ of the Central Election Commission, voter turnout on Sunday morning was over\
+      \ 45 percent. Voting also took place in the illegally occupied Ukrainian territories.\
+      \ As has become traditional, the elections were marred by massive fraud. \n\
+      - A Russian drone killed a 39-year-old woman and two 3-year-old children—a boy\
+      \ and a girl—in the Fastiv District of the Kyiv Region. According to the prosecutor’s\
+      \ office, three families with children had been outside in front of their house\
+      \ shortly before; the woman took both children inside to put them to bed, and\
+      \ a moment later, an explosion occurred. Another girl died in the hospital following\
+      \ a separate strike in a different district, bringing the total death toll to\
+      \ four, including three children. The Fastiv District Prosecutor’s Office has\
+      \ launched an investigation into a war crime.\n- Russian authorities have imposed\
+      \ a nighttime curfew near the Estonian border at Narva and, until September\
+      \ 26, have banned vehicles and people from entering the districts of Slantsy\
+      \ and Kingisepp within a 5-kilometer radius of the border.\n- The Ukrainian\
+      \ arms manufacturer Fire Point confirmed that FP-1 drones destroyed a logistics\
+      \ complex belonging to Modern Warehouse Technologies in Sofino, in the Ramenskoye\
+      \ District of the Moscow Region. \n- Zelenskyy said that this week alone, Russia\
+      \ had launched over 2,000 attack drones, 1,700 aerial bombs, and 19 missiles\
+      \ of various types at Ukraine.\n- In the occupied part of the Kherson region,\
+      \ two people were killed in a targeted drone attack on a civilian bus, one of\
+      \ whom was a member of the local election commission. \n- The Russians bombed\
+      \ the Novy Kontinent shopping center in Dnipro in broad daylight. \n- Ukrainian\
+      \ intelligence showed a Japanese delegation the wreckage of North Korean missiles.\
+      \ \n- Zelenskyy announced that he had authorized new strikes deep inside Russia.\
+      \ \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1007293431417686933)
+
+      - [The Russians wanted to take the crashed drone away](https://pixelfed.cz/p/dnesnaukrajine/1007289670544509795)
+
+      - [A Deadly Line for Gas](https://pixelfed.cz/p/dnesnaukrajine/1007289730395831140)
+
+      - [Moscow Refinery](https://pixelfed.cz/p/dnesnaukrajine/1007289772992990053)
+
+      - [The Air Raid on Moscow](https://pixelfed.cz/p/dnesnaukrajine/1007289815722826598)
+
+      - [Moscow Air Defense](https://pixelfed.cz/p/dnesnaukrajine/1007289885104290664)
+
+      - [Sofijno Logistics Park](https://pixelfed.cz/p/dnesnaukrajine/1007289927385779049)
+
+      - [Moscow](https://pixelfed.cz/p/dnesnaukrajine/1007290356388002669)
+
+      - [The Russian Way of Holding Elections](https://pixelfed.cz/p/dnesnaukrajine/1007290403723131758)
+
+      - [Moscow, Sadovod](https://pixelfed.cz/p/dnesnaukrajine/1007290555705125745)
+
+      - [Lukashenko''s Confession](https://pixelfed.cz/p/dnesnaukrajine/1007290588295359346)
+
+      - [Dnipro](https://pixelfed.cz/p/dnesnaukrajine/1007290617760222067)
+
+      '
   - title: Saturday
     year: September 19, 2026
     sort: '2026-09-19'
