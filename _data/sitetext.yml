@@ -38,6 +38,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "21. září 2026"
+        sort: "2026-09-21"
+        image: assets/img/timeline/2026-09-21.jpg
+        podcast: "2026-09-21.mp3"
+        desc: |
+          Donald Trump dnes s upřímnou lítostí napsal, že Rusko „bohužel ztratilo kontrolu nad svým rafinérským průmyslem kvůli válce s Ukrajinou“, a zase vyzval Zelenského, aby přestal útočit na ruské rafinerie. Také si posteskl, že válka měsíčně zabije 25 tisíc lidí. Ukrajina odpověděla tak, že ráno zasáhly její drony Ufu v Baškortostánu, zhruba 1400 kilometrů od ukrajinských hranic. Podle kanálu Aspekty-Baškortostán byl terčem závod Bašněfť-Novoil s výrobní kapacitou 7,3 milionu tun ročně, který dodává asi desetinu ruského vysokooktanového benzinu. Ufský komplex dostal od června zásah už nejméně poosmé. Reuters mezitím s odvoláním na tři zdroje z oboru potvrdil, že moskevská rafinerie Gazpromněfti po nedělním útoku úplně zastavila provoz a oprava potrvá týdny. Bloomberg píše, že Rusko kvůli tomu nejspíš prodlouží zákaz vývozu nafty. Zelenský znovu nabídl Rusku vzájemné zastavení úderů na energetiku a kritickou infrastrukturu a chce to s partnery probrat na Valném shromáždění OSN v New Yorku. Dodal ale, že doby, kdy trpěla jen napadená strana, jsou pryč. Trumpa ovšem zjevně trápí zavřené ruské rafinerie víc než 172 ruských dronů, které jen za dnešní noc dopadly na ukrajinská města. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0EJyPqK4ruarVeofXrNUweHmVy4bFRRPQmyWvGUjVMSkaxvxktWamd4C4QvnGgkQHl):
+        detail: |
+          - Seznam Zprávy odhalily, že vojenský propagandistický projekt Rybar, napojený na GRU, natáčí v Evropě dokumentární seriál o politické a ekonomické situaci. Producent Boris Dvorkin oslovil kvůli rozhovoru českého experta na dezinformace Bohumila Kartouse. Na schůzku za ním z Berlína přijel korespondent Vitalij Čaščuchin s kameramanem Igorem Dolmatovem. Čaščuchin na skrytou kameru potvrdil, že se točí pro Rybar, a když je oslovili novináři, oba se pokusili utéct. Dvorkinovy projekty podle Seznamu podporuje fond Historie vlasti, který řídí šéf ruské rozvědky SVR Sergej Naryškin. Rybar i jeho šéf Michail Zvinčuk jsou pod sankcemi a za jejich porušení hrozí v Česku až osm let vězení.
+          - Protivzdušná obrana v noci sestřelila nebo potlačila 147 z celkem 172 dronů a střel. Zásahy jsou hlášeny ze čtrnácti míst a trosky dopadly na další čtyři. Podle premiéra Koreckého útočili Rusové na obytné domy a civilní podniky v deseti oblastech. V Bojarce na Kyjevsku zničili výrobní a skladové prostory firmy VENTS a na Oděsku hořely sklady řetězce Silpo. V Lozové na Charkovsku zasáhli nádraží a v okolí zabili ženu a těžce popálili třináctiletého chlapce. Na Sumsku jsou za den dva mrtví a tři zranění včetně dítěte.
+          - Jednotné Rusko podle ústřední volební komise „vyhrálo“ volby do Státní dumy s 57,86 %. Druhá je KSRF s 13,84 %, LDPR má 8,9 % a Noví lidé 7,94 %, Spravedlivé Rusko nejspíš s 4,95 % hlasů do Dumy neprojde. Předseda Dumy Volodin získal ve svém obvodu přes 99 % hlasů a Ramzan Kadyrov ve volbách hlavy Čečenska 99,85 procenta. Putinova strana se nejdřív chlubila, že do Dumy pošle 86 veteránů války, pak zprávu smazala a číslo stáhla na 49. V Moskvě mezitím místopředseda okrskové komise sprostě napadl nezávislou členku komise, protože natáčela sčítání hlasů.
+          - Velvyslanci sedmadvacítky odsouhlasili, že ze sankčních seznamů EU zmizí ruští miliardáři Ališer Usmanov a Michail Fridman. Je to cena za dohodu, která o další tři roky prodlužuje sankce proti tisícům dalších ruských osob a firem. Za Usmanova lobovaly Francie a Slovensko, za Fridmana Lucembursko. Ve stejný den šéfka unijní diplomacie Kaja Kallasová navrhla sankce proti organizátorům ruských „voleb“ na okupovaných územích Ukrajiny a EU oznámila, že jejich výsledky neuzná. Jednou rukou trestat, druhou omilostňovat.
+          - Podle Guardianu evropské tajné služby připouštějí, že by Rusko mohlo zkusit otestovat NATO v řádu měsíců, ne let. Ředitel české BIS Michal Koudelka nevyloučil omezený vpád na území některé členské země, klidně pod cizí vlajkou nebo s masivní informační kampaní. Pobaltské služby jsou opatrnější: šéf lotyšské VDD Normunds Mežviets nevidí známky bezprostředního útoku a Estonci vyzvali lidi, aby nepodléhali panice.
+          - Maďarský premiér Péter Magyar oznámil, že se Budapešť nepřipojila ke Karpatské osmičce, kterou iniciovala Ukrajina. Maďarsko podle něj také nedovolí postavit na svém území sklad ropných produktů pro Ukrajinu, přestože MOL s Naftogazem podepsal memorandum. Předsedkyně maďarského parlamentu navíc odmítla setkání s předsedou Verchovné rady Stefančukem.
+          - V Záporoží dostala v noci přímý zásah budova č. 3 Záporožské národní univerzity – kulturní památka – a velká část vyhořela. Poškozené jsou i budovy č. 4 a 5, drony zasáhly také výškový obytný dům a nákupní centrum. Zraněných je šest, studenti ani zaměstnanci univerzity mezi nimi nejsou.
+          - Peskov přiznal, že v okupovaných Oleškách panuje humanitární katastrofa, a vinu přiznal… Kyjevu. Podle dřívějších zpráv přitom ruští vojáci na checkpointech nepouštějí do města humanitární pomoc a nepouštějí ven ani lidi, kteří pak před hladem utíkají přes minová pole.
+          - V Rumunsku zadrželi proruského exkandidáta na prezidenta Călina Georgesca, vyšetřuje se pro podvod za 1,1 milionu eur a založení zločinecké skupiny.
+          - Kreml podle kanálu NEXTA plánuje rozšířit závod Alabuga-Volokno v Tatarstánu a navýšit výrobu útočných dronů Geran zhruba o 28 tisíc kusů ročně.
+          - Partyzáni z hnutí ATEŠ vyřadili v Taganrogu klíčový úsek železnice, přes který se zásobuje jižní uskupení ruské armády.
+          - Na frontě padl Mykola Karpjuk, spoluzakladatel UNA-UNSO a bývalý politický vězeň Kremlu.
+          - Burkina Faso tajně vydala Rusku občana Finska, který bojoval na straně Ukrajiny.
+          - Idiot Trump oznámil velký obchod na nákup běloruských draselných hnojiv.
+          - Přesně před čtyřmi lety Putin vyhlásil „částečnou“ mobilizaci. Pořád trvá.
+          - Polsko instaluje u východní hranice přes tisíc nových sirén.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1007733466332501879)
+          - [Ukrajinský MiG v roli PVO](https://pixelfed.cz/p/dnesnaukrajine/1007729061422573377)
+          - [Zastavený ruský útok](https://pixelfed.cz/p/dnesnaukrajine/1007729680945948489)
+          - [Ruský dron](https://pixelfed.cz/p/dnesnaukrajine/1007729711605143370)
+          - [Dron bombardér](https://pixelfed.cz/p/dnesnaukrajine/1007730022290323280)
+          - [PVO v Moskvě](https://pixelfed.cz/p/dnesnaukrajine/1007730041229457233)
+          - [Interceptor vs. Proudový Shahed](https://pixelfed.cz/p/dnesnaukrajine/1007730060522620754)
+          - [Rozebírání logistiky](https://pixelfed.cz/p/dnesnaukrajine/1007730106048857939)
       - title: "Neděle"
         year: "20. září 2026"
         sort: "2026-09-20"
