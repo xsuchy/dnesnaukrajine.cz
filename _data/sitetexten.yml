@@ -23,6 +23,93 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Tuesday
+    year: September 22, 2026
+    sort: '2026-09-22'
+    image: assets/img/timeline/2026-09-22.jpg
+    podcast: 2026-09-22.mp3
+    desc: "Today, just a few hours before the sanctions regime was set to expire,\
+      \ the European Union demonstrated how to conduct diplomatic bargaining… with\
+      \ disgrace. The ambassadors of the 27 member states ultimately agreed to extend\
+      \ the sanctions against roughly 3,000 Russian individuals and companies by 36\
+      \ months, but in exchange, Alisher Usmanov and Mikhail Fridman will be removed\
+      \ from the list. France reportedly pushed for Usmanov’s removal in order to\
+      \ secure the release of its citizens detained in Azerbaijan, while Luxembourg\
+      \ added Fridman, who is seeking $16 billion from France in arbitration. Slovakia\
+      \ had been pushing for the same thing for months. Only Latvia opposed, until\
+      \ the very last moment, the idea of using the demands of two oligarchs as a\
+      \ pretext to impose sanctions on 3,000 others; in the end, however, it abstained\
+      \ from the vote. Ukrainian Foreign Minister Andriy Sybiha called the decision\
+      \ shameful and unjustifiable and urged individual member states to impose their\
+      \ own national measures against both men. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0381t93pUABWWp6zjK7XTKFJ4W4uNj7n3fDtDPaGarcyV2csJK6LKBWHrvVVSwAv8xl)\
+      \ also happened: \n"
+    detail: "- Russian attacks over the past day have killed at least eight people\
+      \ and wounded 37 in Ukraine. A ballistic missile struck the Interpipe plant\
+      \ in Dnipro overnight. Four employees were killed, and the company—which employs\
+      \ about 9,500 people and exports to more than 50 countries—was forced to halt\
+      \ production. Russia launched Oniks anti-ship missiles, Iskander-M and S-400\
+      \ ballistic missiles, KN-23 missiles, four Kalibr missiles, eight Banderol/Dan-T\
+      \ missiles, and 212 drones. A total of 186 targets, including 177 drones, were\
+      \ shot down or neutralized, with strikes reported from 22 locations. The main\
+      \ targets were the Dnipropetrovsk, Kirovohrad, and Poltava regions. In the Poltava\
+      \ region, a Naftogaz facility sustained at least five hits and, according to\
+      \ the company, is beyond repair. Parts of the Kyiv, Vinnytsia, Dnipropetrovsk,\
+      \ Zhytomyr, Mykolaiv, Sumy, and Chernihiv regions were left without power; in\
+      \ the Kyiv region alone, over 21,000 customers were without electricity.\n-\
+      \ The General Staff confirmed that Ukrainian forces struck two refineries yesterday\
+      \ evening and overnight. In Ufa, Bashkortostan—about 1,300 kilometers from the\
+      \ Ukrainian border—the Bashneft-UNPZ refinery, with a capacity of about 7.5\
+      \ million metric tons of crude oil per year, was on fire; the facility produces\
+      \ gasoline, diesel, liquefied gases, and sulfur. In Samara, about 910 kilometers\
+      \ from the border, the Kuibyshev refinery, owned by Rosneft and with a capacity\
+      \ of around 7 million metric tons, was struck. According to the Special Operations\
+      \ Forces, the attack on Samara was carried out by Deep Strike units in conjunction\
+      \ with the Unmanned Systems Forces and military intelligence. Based on the images,\
+      \ *Militarnyi* believes that the damaged unit is likely the AVT-5 atmospheric-vacuum\
+      \ unit.\n- Zelenskyy met with Trump in New York on the sidelines of the 81st\
+      \ UN General Assembly. Trump repeated his usual mantra that Russia and Ukraine\
+      \ will reach an agreement, but once again refused to say what kind, adding that\
+      \ he often discusses ending the war with both Zelenskyy and Putin. Zelenskyy\
+      \ said he hopes for Trump’s help in ending the war as soon as possible, preferably\
+      \ before winter. He wanted to discuss with Trump, above all, a mutual ceasefire\
+      \ regarding attacks on energy infrastructure and targets in the Black Sea, as\
+      \ well as the signing of the so-called “Drone Deal.”\n- France has signed a\
+      \ contract with Ukraine to supply radars and will provide the country with missiles\
+      \ and interceptor drones. After meeting with Zelenskyy, Macron did not specify\
+      \ the numbers, types, or timelines, and emphasized that Russian attacks on the\
+      \ energy sector could leave millions of families without heat and electricity.\
+      \ Zelenskyy added that Ukraine is prepared to acquire additional SAMP/T systems\
+      \ and missiles for them using funds from an EU loan and that work is continuing\
+      \ on their licensed production directly in Ukraine. \n- The SBU announced that\
+      \ it had foiled an FSB plot to assassinate the president of the K-1 kickboxing\
+      \ federation in Kyiv. It did not disclose the target’s name, stating only that\
+      \ he had been fighting since 2022—first in the Kyiv region and later on the\
+      \ eastern front—and that he currently heads a nationwide civic organization\
+      \ and works as a coach. \n- Journalists from the BBC and Mediazona, with the\
+      \ help of volunteers, have identified the names of 258,989 Russian soldiers\
+      \ killed in the war against Ukraine. These names were found in open sources;\
+      \ the actual number is likely much higher. \n- Lukashenko dashed Trump's hopes\
+      \ for larger shipments of Belarusian potash. According to him, Belarus has nothing\
+      \ to ship because everything has already been contracted out.\n- From September\
+      \ 16 to 26, Russia imposed additional movement restrictions in the border districts\
+      \ of Kingisepp and Slancy in the Leningrad Region.\n"
+    videa: '- [Updated RuAF Casualties](https://pixelfed.cz/p/dnesnaukrajine/1008111171893744993)
+
+      - [Erdogan Expressed Support for Ukraine at the UN](https://pixelfed.cz/p/dnesnaukrajine/1008109917662848314)
+
+      - [A train carrying fuel derailed in Russia](https://pixelfed.cz/p/dnesnaukrajine/1008109968969209148)
+
+      - [Minus a truckload of ammunition](https://pixelfed.cz/p/dnesnaukrajine/1008110004219147584)
+
+      - [Zelensky and Trump](https://pixelfed.cz/p/dnesnaukrajine/1008110054355916099)
+
+      - [Dnipro](https://pixelfed.cz/p/dnesnaukrajine/1008110089643742532)
+
+      - [Bull''s-eye!](https://pixelfed.cz/p/dnesnaukrajine/1008110122356237637)
+
+      - [Action on the Front Lines](https://pixelfed.cz/p/dnesnaukrajine/1008110183725180232)
+
+      '
   - title: Monday
     year: September 21, 2026
     sort: '2026-09-21'

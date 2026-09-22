@@ -38,6 +38,31 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "22. září 2026"
+        sort: "2026-09-22"
+        image: assets/img/timeline/2026-09-22.jpg
+        podcast: "2026-09-22.mp3"
+        desc: |
+          Evropská unie dnes pár hodin před vypršením sankčního režimu předvedla, jak se dělá diplomatický obchod… s ostudou. Velvyslanci sedmadvacítky se nakonec dohodli, že sankce proti zhruba třem tisícům ruských osob a firem prodlouží rovnou o 36 měsíců, ale výměnou za to ze seznamu zmizí Ališer Usmanov a Michail Fridman. Francie tlačila na vyškrtnutí Usmanova údajně proto, aby si vykoupila propuštění svých občanů zadržovaných v Ázerbájdžánu, Lucembursko si pak přihodilo Fridmana, který po něm v arbitráži požaduje 16 miliard dolarů. Slovensko o totéž usilovalo už měsíce. Jediné Lotyšsko se do poslední chvíle stavělo proti tomu, aby se požadavky dvou oligarchů braly jako rukojmí sankcí na tři tisíce dalších, nakonec se ale zdrželo hlasování. Ukrajinský ministr zahraničí Andrij Sybiha rozhodnutí označil za ostudné a neospravedlnitelné a vyzval jednotlivé členské státy, aby proti oběma zavedly vlastní národní opatření. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0381t93pUABWWp6zjK7XTKFJ4W4uNj7n3fDtDPaGarcyV2csJK6LKBWHrvVVSwAv8xl): 
+        detail: |
+          - Ruské útoky za poslední den zabily na Ukrajině nejméně osm lidí a 37 jich zranily. Balistická střela v noci zasáhla závod Interpipe v Dnipru. Zahynuli čtyři zaměstnanci a firma, která zaměstnává kolem 9 500 lidí a vyváží do více než padesáti zemí, musela zastavit výrobu. Rusko vyslalo protilodní střely Oniks, balistické Iskander-M, S-400 a KN-23, čtyři Kalibry, osm zbraní typu Banderol/Dan-T a 212 dronů. Sestřeleno nebo potlačeno bylo 186 cílů včetně 177 dronů, zásahy jsou hlášeny z 22 míst. Hlavními cíli byly Dněpropetrovská, Kirovohradská a Poltavská oblast. V Poltavské oblasti dostalo zařízení Naftogazu nejméně pět zásahů a podle firmy je neopravitelné. Bez proudu se ocitly části Kyjevské, Vinnycké, Dněpropetrovské, Žytomyrské, Mykolajivské, Sumské a Černihivské oblasti, jen na Kyjevsku zůstalo bez elektřiny přes 21 tisíc odběratelů.
+          - Generální štáb potvrdil, že ukrajinské síly včera večer a v noci na dnešek zasáhly dvě rafinerie. V Ufě v Baškortostánu, zhruba 1 300 kilometrů od ukrajinských hranic, hořela rafinerie Bašněfť-UNPZ s kapacitou kolem 7,5 milionu tun ropy ročně, která vyrábí benzin, naftu, zkapalněné plyny a síru. V Samaře, asi 910 kilometrů od hranic, dostala zásah Kujbyševská rafinerie koncernu Rosněfť s kapacitou kolem 7 milionů tun. Útok na Samaru provedly podle Sil speciálních operací jednotky Deep Strike společně se Silami bezpilotních systémů a vojenskou rozvědkou. Militarnyi na základě snímků soudí, že poškozená je pravděpodobně atmosféricko-vakuová jednotka AVT-5.
+          - Zelenskyj se v New Yorku sešel s Trumpem na okraj 81. Valného shromáždění OSN. Trump zopakoval svou obvyklou mantru, že Rusko a Ukrajina dohodu uzavřou, ale znovu odmítl říct jakou, a dodal, že o konci války mluví často se Zelenským i s Putinem. Zelenskyj řekl, že doufá v Trumpovu pomoc s ukončením války, a to co nejdřív, nejlépe ještě před zimou. Chtěl s ním probrat hlavně vzájemné zastavení úderů na energetiku a cíle v Černém moři a podpis takzvaného Drone Dealu.
+          - Francie podepsala s Ukrajinou kontrakt na dodávku radarů a poskytne jí rakety a drony – interceptory. Macron po setkání se Zelenským neupřesnil počty, typy ani termíny a zdůraznil, že ruské údery na energetiku mohou připravit miliony rodin o teplo a elektřinu. Zelenskyj dodal, že Ukrajina je připravená pořídit další systémy SAMP/T a rakety k nim z prostředků úvěru EU a že se dál pracuje na jejich licenční výrobě přímo na Ukrajině. 
+          - SBU oznámila, že překazila plán FSB zavraždit v Kyjevě prezidenta kickboxerské federace K-1. Jméno cíle nezveřejnila, uvedla jen, že od roku 2022 bojoval, nejdřív na Kyjevsku a později na východní frontě, a dnes vede celostátní občanskou organizaci a pracuje jako trenér. 
+          - Novináři BBC a Mediazony s pomocí dobrovolníků identifikovali jména 258 989 ruských vojáků padlých ve válce proti Ukrajině. Jde o jména dohledaná z otevřených zdrojů, skutečné číslo bude mnohem vyšší. 
+          - Lukašenko zchladil Trumpovy naděje na větší dodávky běloruského potaše. Podle něj Bělorusko nemá co dodávat, protože všechno je už nasmlouvané.
+          - Rusko zavedlo od 16. do 26. září další omezení pohybu v pohraničních okresech Kingisepp a Slancy v Leningradské oblasti.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1008111171893744993)
+          - [Erdogan podpořil Ukrajinu v OSN](https://pixelfed.cz/p/dnesnaukrajine/1008109917662848314)
+          - [V Rusku vykolejil vlak s palivem](https://pixelfed.cz/p/dnesnaukrajine/1008109968969209148)
+          - [Mínus náklaďák s municí](https://pixelfed.cz/p/dnesnaukrajine/1008110004219147584)
+          - [Zelenský a Trump](https://pixelfed.cz/p/dnesnaukrajine/1008110054355916099)
+          - [Dnipro](https://pixelfed.cz/p/dnesnaukrajine/1008110089643742532)
+          - [Trefa!](https://pixelfed.cz/p/dnesnaukrajine/1008110122356237637)
+          - [Akce na frontě](https://pixelfed.cz/p/dnesnaukrajine/1008110183725180232)
       - title: "Pondělí"
         year: "21. září 2026"
         sort: "2026-09-21"
