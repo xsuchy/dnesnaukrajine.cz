@@ -38,6 +38,35 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "23. září 2026"
+        sort: "2026-09-23"
+        image: assets/img/timeline/2026-09-23.jpg
+        podcast: "2026-09-23.mp3"
+        desc: |
+          Pár hodin po tom, co Zelenskyj s Trumpem v New Yorku probírali oboustranné příměří na energetiku, začalo Rusko sypat na Kyjev vlny dronů. Od půlnoci zažil Kyjev osm poplachů. Útočily hlavně proudové Shahedy. Dva lidé zemřeli a nejméně 43 jich je zraněných. Hořela historická kruhová tržnice Šajba u hlavního nádraží, postavená v sedmdesátých letech jako experimentální krytý trh. Drony zasáhly také devítipatrový dům v Solomjanském obvodu, čtyřpatrové obchodní centrum, čerpací stanici a sklady v Holosijivském, železniční infrastrukturu a v neposlední řadě datacentra dvou poskytovatelů internetu, takže asi sto tisíc domácností v Kyjevě a okolí zůstalo bez připojení. Rusové navíc přitvrdili svou obvyklou taktiku dvojitého úderu: druhý zásah u téhož obchodního centra nepřišel po deseti minutách, ale po hodině, kdy už ho nikdo nečekal. A zatímco tohle probíhalo, sešel se v New Yorku Marco Rubio s Lavrovem a po schůzce oznámil, že USA zvou Putina na prosincový summit G20 v Miami, protože je to prý příležitost promluvit si s Trumpem a dalšími světovými lídry. Lavrov mezitím Radě bezpečnosti sdělil, že Rusko svou více než čtyři roky trvající válku pozastavovat nebude. Takže asi tak. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0k9jepu2TE98kSTF4tgrAe2APDPKpXqhM6eo3G4tDYksSq36WPyLnRvKGF5DQUtKwl):
+        detail: |
+          - Na Oleksandrivku na Doněcku shodili Rusové kolem desáté dopoledne čtyři řízené pumy FAB-250 s naváděcí sadou UMPK. Jeden bytový dům byl zničen, poškozeno je dalších jedenáct bytovek, 42 rodinných domů, školka, obchod, administrativní budova a šest aut. Reuters večer hlásil pět mrtvých a šest zraněných, pod troskami může být dalších sedm lidí včetně dvou dětí. Mezi oběťmi jsou ženy ve věku 38, 65 a 69 let, mezi zraněnými pětiletý chlapec. Kromě Oleksandrivky zemřeli dva lidé v Kramatorsku a jedna žena ve Slovjansku.
+          - V noci zasáhli Rusové v Černém moři nákladní loď plující pod vlajkou Antiguy a Barbudy. Kapitán, občan Ukrajiny, zemřel, zbytek posádky evakuovalo ukrajinské námořnictvo a požár se podařilo uhasit. V Oděské oblasti Rusové zasáhli také přístavní a civilní infrastrukturu a podruhé také sklady s léky, drogerií a potravinami. Podle turecké komory lodní dopravy IMEAK bylo v Černém moři od února 2022 zasaženo nejméně 226 civilních a obchodních plavidel. 
+          - Síly bezpilotních systémů oznámily další výsledky operace Krymský vypínač: mezi 6. a 22. zářím zasáhly 38 energetických objektů v Rusku, na Krymu a na okupovaných územích. Deset z nich leží přímo na Krymu a podle velitele Roberta „Maďara" Brovdiho je od 6. července celkové skóre 412 vyřazených zařízení. 
+          - Ruský vrtulník Mi-8 narušil v 11:08 polský vzdušný prostor severně od Braniewa. Přiletěl z Kaliningradské oblasti, zaletěl zhruba 300 metrů a zdržel se 42 sekund. Polsko mu poslalo naproti stíhačky a uvedlo pozemní síly do pohotovosti. Podle Poláků Rusko testuje připravenost polské protivzdušné obrany. 
+          - Ráno hlásili obyvatelé Ufy v Baškortostánu sérii výbuchů. Podle ruského nezávislého kanálu ASTRA se kouř zvedal v bezprostřední blízkosti ufské rafinerie, kanál ale připustil, že zdrojem mohla být i sousední teplárna. V Samaře mezitím stále hoří Kujbyševská rafinerie Rosněfti. 
+          - Litva oznámila, že uvalí vlastní sankce na ruské oligarchy Ališera Usmanova a Michaila Fridmana, které EU den předtím ze svého seznamu vyškrtla. Ministr zahraničí Andrij Sybiha vyzval ostatní členské země, aby následovaly příkladu baltských zemí. 
+          - Velvyslanci EU v Bruselu potvrdili, že Ukrajina splnila deset reforem z takzvaného Plánu pro Ukrajinu, čímž se uvolnily tři miliardy eur finanční podpory. Stalo se to pár hodin po schůzce Zelenského s Ursulou von der Leyenovou v New Yorku.
+          - Běloruská opoziční lídryně Svjatlana Cichanouská varovala, že Rusko může Bělorusko použít k dalším útokům na Ukrajinu. Podle ní se na běloruských hranicích s Ukrajinou a zeměmi EU instalují opakovače signálu pro řízení dronů.  
+          - Francouzský krajně levicový prezidentský kandidát Jean-Luc Mélenchon označil za příčinu eskalace války ukrajinské údery do hloubi Ruska. Že je Rusko agresorem, zmínil, ale za řešení označil diplomacii a mírová jednání.
+          - Polský ministr zahraničí Radosław Sikorski se v New Yorku sešel s běloruským protějškem. 
+          - V ukrajinských ozbrojených silách slouží podle generálního štábu nyní více než 57 tisíc žen.
+          - V Charkovské oblasti zasáhl ruský dron auto a zabil muže.
+          - Rusové vybombardovali sklad hraček v Oděse. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1008480584321696388)
+          - [Mínus ruská báze](https://pixelfed.cz/p/dnesnaukrajine/1008476911621419610)
+          - [Sklad hraček v Oděse](https://pixelfed.cz/p/dnesnaukrajine/1008477363422761571)
+          - [Kyjevská univerzita](https://pixelfed.cz/p/dnesnaukrajine/1008477405224272484)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/1008477433031025253)
+          - [Robot pomohl robotovi](https://pixelfed.cz/p/dnesnaukrajine/1008477456865862246)
+          - [Kyjevské nádraží](https://pixelfed.cz/p/dnesnaukrajine/1008477476266603111)
       - title: "Úterý"
         year: "22. září 2026"
         sort: "2026-09-22"
