@@ -38,6 +38,32 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "24. září 2026"
+        sort: "2026-09-24"
+        image: assets/img/timeline/2026-09-24.jpg
+        podcast: "2026-09-24.mp3"
+        desc: |
+          Zelenskyj včera v rozhovoru pro Axios prozradil, co Washington tlačí jako tři nejbližší kroky k deeskalaci: příměří v úderech na energetiku, obnovení obilného koridoru v Černém moři a trojstranné jednání USA, Ukrajiny a Ruska, nejspíš v Abú Zabí. Ukrajina je podle něj na energetické příměří připravená. Rusko odpovědělo ještě tu samou noc v podobě 282 dronů, balistiky Iskander-M, S-400 a KN-23 a protilodních Zirkonů. Terčem byly hlavně Kyjevská a Oděská oblast, do Kyjeva přiletěly rakety ve třech vlnách a poškodily obytné domy, porodnici, energetiku i logistiku. Dva lidé zemřeli, osm jich skončilo v péči lékařů. Protivzdušná obrana sestřelila 227 cílů, z toho 219 dronů, čtyři Zirkony, tři balistické střely a jeden Banderol. Zásahy jsou hlášeny ze třinácti míst, trosky spadly na dalších deseti. Takhle vypadá podle páté kolony partner k seriózním mírovým jednáním. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02GToQegPVxa3RzfBDLxeSaudJE6mSWovPPu55bsT5PQPTNQnk6sfdKVRQWxe199BWl):
+        detail: |
+          - Ruské útoky si za uplynulý den vyžádaly nejméně šestnáct mrtvých a devětapadesát zraněných. Nejhůř dopadla Doněcká oblast, kde zemřelo osm lidí a devatenáct jich bylo zraněno: pět mrtvých v Oleksandrivce, dva v Kramatorsku, jeden ve Slovjansku. Charkovská oblast hlásí šest mrtvých a dvanáct zraněných, Sumská devět zraněných po zhruba šedesáti útocích na dvaadvacet obcí, Oděská dva zraněné a poškozenou nemocnici, školu, obytné domy, obchodní centrum i sklady. Na Chersonsku jsou dva zranění a poškozené plynovody, v Záporožské oblasti šest zraněných po 690 úderech na 55 sídel, na Dnipropetrovsku jeden zraněný. 
+          - ISW hlásí ukrajinský postup hned ve třech oblastech. Na Charkovsku se podařilo zatlačit Rusy západně od Kalynového severně od Kupjansku a zlepšit pozice na křídlech města. V Doněcké oblasti postoupily ukrajinské jednotky ve východní a střední části Moločarky jihozápadně od Časového Jaru, dále východně od Stinky a jižně a jihovýchodně od Novopavlivky. V Záporožské oblasti postoupily jihovýchodně od Oleksandrivky a drží pozice v jižní části Orichivu. Na severu Sumské oblasti Rusové dál útočí pomocí diverzních skupin, podle analytiků při tom ale trpí značné ztráty a postoupit se jim nepodařilo.
+          - Austrálie podepsala s Ukrajinou desetiletou bezpečnostní dohodu a ohlásila balík pomoci za šedesát milionů australských dolarů. Ze tří čtvrtin bude tvořen vojenským materiálem, zbytek půjde na energetiku a humanitární pomoc. K tomu zavedla 106 nových sankčních položek. Osmatřicet z nich míří na plavidla ruské stínové flotily, řada dalších na organizace, které militarizují děti včetně těch unesených z okupovaných území – třeba na Kadyrovovu nadaci nebo Všeruské dětské centrum. Na seznam se dostal i Michail Zvinčuk, muž stojící za kanálem Rybar, a šéf ruské zápasnické federace.
+          - V Rumunsku a Moldavsku spadly během noci dva drony. Moldavská policie našla v okrese Florešti trosky dronu Gerbera, druhý stroj narušil rumunský vzdušný prostor zhruba na čtyři minuty a dopadl u městečka Solca v župě Suceava. Šéf Černovické oblasti Ruslan Osypenko tvrdí, že drony mířily na hraniční přechody s Rumunskem a Moldavskem.
+          - Ukrajinské drony v noci zasáhly dvě ruské ropné základny. V Kagalnickém okrese v Rostovské oblasti a v Dinském okrese Krasnodarského kraje, kde stále hoří areál zasaženého podniku, který monitorovací kanál Exilenova+ identifikoval jako ropnou základnu v Novotitarovské.
+          - Ve Staré Hnylycji na Charkovsku zasáhli Rusové ráno zemědělský podnik, když lidé uvnitř třídili zeleninu. Šest jich zemřelo, čtyři ženy a dva muži, dalších dvanáct utrpělo zranění a tři z nich jsou v těžkém stavu. Všechny oběti byly zdejší zaměstnanci. 
+          - Obyvatel Kyjeva, který pro běloruskou rozvědku sledoval pozice ukrajinských jednotek a naváděl ruské údery na energetiku v hlavním městě, dostal u soudu patnáct let vězení a konfiskaci majetku.
+          - Po nočních úderech na energetiku zůstávají bez proudu odběratelé ve Vinnycké, Dnipropetrovské, Doněcké, Záporožské, Oděské, Sumské, Černihivské a Charkovské oblasti. 
+          - Americká rozvědka varovala evropské vlády, že Rusko připravuje útoky dronů na Španělsko, Francii a Itálii z nákladních lodí ve Středozemním moři. 
+          - Ministr zahraničí Sybiha jednal na okraji Valného shromáždění s Íránem o zmírnění napětí s Ukrajinou.
+          - Na otázku, jestli přijede do Moskvy jednat s Putinem, Zelenskyj odpověděl, že leda na raketě. 
+          - Ukrajinské síly zničily v Huljajpoli ruský sklad dělostřelecké munice.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1008738648389962471)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/1008736765363505868)
+          - [Kyjev, klenotnictví](https://pixelfed.cz/p/dnesnaukrajine/1008736787368581837)
+          - [Nálet na Kyjev](https://pixelfed.cz/p/dnesnaukrajine/1008736840722676430)
+          - [Trefa!](https://pixelfed.cz/p/dnesnaukrajine/1008736908730014416)
       - title: "Středa"
         year: "23. září 2026"
         sort: "2026-09-23"
