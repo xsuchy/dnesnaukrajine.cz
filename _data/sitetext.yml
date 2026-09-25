@@ -38,6 +38,37 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "25. září 2026"
+        sort: "2026-09-25"
+        image: assets/img/timeline/2026-09-25.jpg
+        podcast: "2026-09-25.mp3"
+        desc: |
+          Ukrajinské drony dnes v noci znovu ukázaly, jak se pro ně mapa Ruska pořád zmenšuje. V Permu, zhruba 1500 kilometrů od hranic, po úderu ukrajinských dronů hořela rafinerie Lukoil-Permněfteorgsintez – závod, který ročně zpracuje přes 13 milionů tun ropy a mimo jiné pohání palivem ruskou armádu. Druhou zasaženou rafinerií byl Novošachtinsk v Rostovské oblasti, největší dodavatel pohonných hmot na jihu Ruska, který provoz rovnou úplně zastavil. Rusům navíc v okolí Rostova „ubyly“ dva radary 64L6 Gama-S1 a 39N6 Kasta-2E2. V Uljanovsku pak dostal zásah závod Iskra z koncernu Almaz-Antej, který vyrábí polovodiče a komponenty pro řízené střely Ch-59M2 a pro systémy Pancir-S1. A protože se i samotné rakety musí někde vyrábět, generální štáb Ukrajiny hlásí zásahy také dvou výroben tuhého raketového paliva pro Iskandery – v Jefremovu v Tulské oblasti a ve Voroněžsintezkaučuku, kde podle projektu ASTRA, poněkud ironicky, stojí necelé dva kilometry od areálu pozice ruské PVO – konkrétně zmíněné Panciry. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02W6NcD2Z8GKqBKZv46rJXAPkuK1FF2ryHqjni4BiEnWkkGoZwTDEPft9Y7qSBuPrUl):
+        detail: |
+          - Rusko od večera poslalo na Ukrajinu 295 dronů, z toho 52 proudových Shahedů, k tomu Gerbery a návnady Banderol/Dan-T a Parodija. Startovaly z Orlu, Kurska, Millerova, Primorsko-Achtarsku, Šatalova, okupovaného Doněcku a z Hvardijského na Krymu. Protivzdušná obrana jich sestřelila nebo potlačila 267. Zásahy jsou hlášeny z šestnácti míst. Od rána byla pod útokem Kyjev a osm krajů. V kyjevském Pečerském rajonu zasáhl dron šestnáctipatrový obytný dům, kde zahynul čtrnáctiletý chlapec. Počet zraněných v metropoli vystoupal na dvacet. Poškozena je i budova Nejvyšší rady soudnictví, na místě je šest zraněných. V Oděse Rusové použili taktiku dvojitého úderu na poštovní objekt, což si vyžádalo dva mrtvé. V Záporoží hořelo zdravotnické zařízení. Další dron dopadl blízko školky v Sumách, na Poltavsku pak byla poškozena železniční infrastruktura a v šesti krajích jsou nově hlášeny výpadky proudu.
+          - Emmanuel Macron řekl, že scénář s ruskou mobilizací dalších zhruba 300 tisíc lidí považuje za pravděpodobný a že s ním Kreml podle několika indicií čekal až na konec voleb do Státní dumy. Na otázku, jestli mohou ruské drony zaútočit na letadlo nebo letiště ve Francii, odpověděl jednoslovně: ano. Rusko podle něj bere Evropu jako strategické zázemí Ukrajiny, a protože Evropané Ukrajincům pomáhají, může se sama stát cílem. Připomněl incident v Lipsku, kde se na začátku srpna našly drony s výbušninou nachystané nejspíš na ukrajinská letadla. Pokus o útok tehdy selhal, ale kdyby vyšel, byli by na německém území mrtví. Při současném tempu ruského postupu by podle Macrona dobývání celého Donbasu trvalo ještě rok a půl až dva roky.
+          - ArcelorMittal oznámil, že není schopen bezpečně a udržitelně obnovit provoz největší ukrajinské hutě v Kryvém Rihu. Za posledních pět týdnů závod zasáhly čtyři raketové útoky, poslední 21. září, zabily pět lidí, sedmnáct zaměstnanců zranily a jeden je stále v kritickém stavu. Firma do provozu od začátku plnohodnotné války nalila přes 700 milionů dolarů a teď počítá s nepeněžním odpisem kolem miliardy dolarů. S ukrajinskou vládou jedná aspoň o zachování infrastruktury, aby se dalo najet na výrobu znovu, až bude mír.
+          - Zelenskyj potvrdil, že Washington navrhl připravit na technické úrovni trojstranné jednání Ukrajina–USA–Rusko a jako místo nabídl Spojené arabské emiráty. Kyjev teď čeká, až Američané navrhnou termín. Jako druhou možnou platformu prezident dříve zmínil summit G20, který se má konat 14. a 15. prosince v Miami. 
+          - Ruský dron zasáhl ve Slovjansku auto zahraničních novinářů – švédského spisovatele Mustafy Jana a jeho španělského kolegy, fotografa Diega Herrery. Oba byli v tu chvíli v nedaleké budově a zranění vyvázli, shořela jim ale všechna technika, notebooky i ochranná výstroj.
+          - Podle zprávy CREA klesl kvůli evropským sankcím a zadržování lodí počet plavidel stínové flotily plujících pod falešnou vlajkou na polovinu. Od ledna 2025 muselo 107 lodí přejít pod ruský rejstřík, protože je otevřené registry přestaly přijímat.
+          - Si Ťin-pching a Donald Trump jednali v Bílém domě mimo jiné o válce na Ukrajině. Schůzka v Oválné pracovně ale proběhla za zavřenými dveřmi a žádná společná tisková konference se nekonala. 
+          - Muž původem z Ukrajiny zabil v klášteře v polské Jarosławi kněze a další čtyři lidi pobodal. Jeho motiv se nyní vyšetřuje. Zatím se ví jen to, že muž přicestoval do Polska z Německa. 
+          - Spojené státy vyčlenily 27 milionů dolarů na návrat, rehabilitaci a reintegraci ukrajinských dětí unesených Ruskem. Ministr zahraničí Andrij Sybiha za to Washingtonu poděkoval.
+          - Vojenská kontrarozvědka SBU odhalila v Charkovské oblasti agenta FSB, který působil přímo uvnitř ukrajinských sil obrany a chystal navedení úderu na dílnu na opravu dronů.
+          - Italský ministr obrany Guido Crosetto uvedl, že informace španělského deníku El Mundo o možných ruských dronových útocích na Itálii, Španělsko a Francii se nepotvrdily.
+          - Finská vláda podpořila vznik Zvláštního tribunálu pro zločin agrese proti Ukrajině a Mezinárodní komise pro reparace. Příslušné návrhy putují do finského parlamentu.
+          - Švýcarsko dá 3 miliony franků na dočasné skladování ukrajinského obilí v rámci projektu FAO a dalších 6 milionů během tří let na rozvoj ekologického zemědělství.
+          - Web RIA Novosti po pár hodinách smazal článek, který naznačoval novou „Speciální vojenskou operaci“ proti Litvě. 
+          - Trump se podle Zelenského rozhodl schválit poskytnutí licencí Ukrajině na výrobu raket Patriot. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1009099573221505338)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/1009098232092068126)
+          - [Perm](https://pixelfed.cz/p/dnesnaukrajine/1009098258296346911)
+          - [Perm](https://pixelfed.cz/p/dnesnaukrajine/1009098327400360225)
+          - [Nálet na Perm](https://pixelfed.cz/p/dnesnaukrajine/1009098377598871842)
+          - [Družkivka po úderu ruského FPV dronu](https://pixelfed.cz/p/dnesnaukrajine/1009098415369566499)
+          - [Mínus dron](https://pixelfed.cz/p/dnesnaukrajine/1009098436386339108)
       - title: "Čtvrtek"
         year: "24. září 2026"
         sort: "2026-09-24"
