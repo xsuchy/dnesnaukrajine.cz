@@ -23,6 +23,102 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Saturday
+    year: September 26, 2026
+    sort: '2026-09-26'
+    image: assets/img/timeline/2026-09-26.jpg
+    podcast: 2026-09-26.mp3
+    desc: 'For the second day in a row, Russia has been striking Kyiv virtually nonstop,
+      and this time it is certainly not a matter of “accidental strikes on civilian
+      areas,” which is how Moscow usually explains its airstrikes. The target was
+      Ukraine’s ability to stay online. Over the past four days, the data centers
+      of Cosmonova, Datagroup, and MiroHost, as well as the infrastructure of the
+      provider UTELS, have been hit, with Cosmonova losing service after its second
+      strike in two days. About 100,000 households in Kyiv and the surrounding area
+      were left without a signal; the television stations Novyny.Live and Armiia TV
+      suspended their broadcasts; and the video players on the public broadcaster
+      Suspilne stopped working. The Russian Ministry of Defense ultimately boasted
+      about the strike on the data center serving mobile internet and Starlink. Russia
+      launched 173 Shahed drones overnight, fifty of which were jet-powered; air defense
+      shot down 134 of them, and strikes were reported at nineteen locations. Ukraine
+      responded in kind, but 1,000 kilometers away: shortly after midnight, drones
+      struck the Ilyskaya refinery in the Seversky District of the Krasnodar Krai,
+      about 30 kilometers from Krasnodar and 400 kilometers from the launch sites.
+      This refinery, with an annual capacity of 6.6 million metric tons of crude oil,
+      supplies fuel to the Southern Military District as well as to the occupied Ukrainian
+      territories, and had already caught fire on August 8. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0qitcHXqydUsjNimAtafv1ZHntFWw5MHtSF9oB1YhBTv4daLTLkVRJgKEn6uR7zNal)
+      also happened:
+
+      '
+    detail: "- Ukraine has a new chief prosecutor, and he was chosen based on a single\
+      \ criterion: that no one knew anything about him. Anton Kovalskyi has been the\
+      \ acting prosecutor general since September 17; he was previously the regional\
+      \ prosecutor in Khmelnytskyi, and before that spent five years in Chernivtsi.\
+      \ Political scientist Fesenko put it bluntly: “The first criterion was whether\
+      \ there were any scandals in his past or signs that what happened with Kravchenko\
+      \ might repeat itself.” Ruslan Kravchenko fled Ukraine on September 14 after\
+      \ NABU uncovered a network of fraudulent call centers allegedly operated with\
+      \ the support of the Prosecutor General’s Office. Anti-corruption activists,\
+      \ however, also have questions for Kovalsky: the media link him to businessman\
+      \ Ilya Pavlyuk and former Chernivtsi prosecutor Ihor Musteca; his wife earned\
+      \ about $120,000 in her first year selling sports nutrition products; and his\
+      \ deputy, Maksym Kuterha, acquired assets worth some $325,000 in 2024. \n- Foreign\
+      \ Minister Sybiha called on partners to take action regarding the occupied town\
+      \ of Oleshky in the Kherson region. According to reports, civilians are forced\
+      \ to survive on grass and weeds, while medicine, clean water, electricity, and\
+      \ medical care are becoming increasingly inaccessible to them. Children are\
+      \ among those trapped there. The town’s population has fallen from about 24,000\
+      \ to 2,000, and Russia is not allowing Ukrainian or international humanitarian\
+      \ organizations onto the left bank of the Dnieper River; therefore, Sybiha is\
+      \ calling on the UN, the Red Cross, and others to secure immediate humanitarian\
+      \ access and facilitate an evacuation. The Council of Europe’s Commissioner\
+      \ for Human Rights also raised the issue, noting that under international humanitarian\
+      \ law, the occupying authority has an obligation to ensure that civilians have\
+      \ access to food and medicine.\n- German authorities have linked the September\
+      \ 3 arson attack—in which someone threw incendiary devices from a moving car\
+      \ at a construction site near the Munich headquarters of Rohde & Schwarz and\
+      \ Helsing—to Russia’s GRU. Fortunately, the fire was quickly extinguished; the\
+      \ damage was minor, and no one was injured. Two Bulgarian citizens—a 28-year-old\
+      \ woman and a 38-year-old man—were arrested. Investigators believe they are\
+      \ operatives recruited by Russian intelligence services to carry out acts of\
+      \ sabotage for money. Helsing supplies Ukraine with drones equipped with artificial\
+      \ intelligence. \n- Mykhailo Fedorov announced the “Army of Robots” project\
+      \ at the IT Arena conference. It builds on the “Army of Drones” project from\
+      \ 2022 and is intended to replace infantry with unmanned systems. He describes\
+      \ it as an “ecosystem” that combines investments in defense companies, domestic\
+      \ technology production, and research with rapid testing by military units.\
+      \ Within six months, the first Russian soldier is to be killed by a humanoid\
+      \ robot; within twelve months, robots are to carry out an attack on a position\
+      \ without the participation of infantry.\n- Moldovan police found the wreckage\
+      \ of a drone identified as a Geran-4, including a partially damaged jet engine,\
+      \ in the village of Cotiujeni in Briceni District, 1.7 kilometers from the border.\
+      \ The drone crashed after striking trees. On the same day, four other flying\
+      \ objects violated Moldovan airspace.\n- A group of twelve Democratic and six\
+      \ Republican senators, led by Roger Wicker and Jeanne Shaheen, is pressuring\
+      \ Trump to rescind Putin’s invitation to the G20 summit in Miami. They argue\
+      \ that this would amount to legitimizing and normalizing the Russian government.\n\
+      - Partisans from the ATESH movement announced that they had destroyed a warehouse\
+      \ in the Sverdlovsk region containing drones ready to be shipped to Russian\
+      \ troops. According to them, these were valuable hexacopters that the military\
+      \ uses to transport ammunition, supplies, and medicine, to drop explosives,\
+      \ and to lay mines from a distance.\n- For the first time, Finland and Sweden\
+      \ jointly deployed fighter jets to intercept Russian aircraft over the Gulf\
+      \ of Finland. Finnish F/A-18 Hornets and Swedish JAS 39 Gripens identified a\
+      \ formation consisting of a Tu-134 transport aircraft and MiG-31 and Su-30 fighter\
+      \ jets in international airspace.\n- Ukraine has temporarily closed the Yahodyn\
+      \ and Ustyluh border crossings due to the threat of attacks.\n- Russian attacks\
+      \ over the past day have killed six people and wounded 45 in Ukraine.\n- The\
+      \ Russians report that the Ukrainians have fought their way back into Yampil\
+      \ and Torskoye. \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1009528925444548798)
+
+      - [Minus](https://pixelfed.cz/p/dnesnaukrajine/1009527206462015648)
+
+      - [Kyiv Yesterday](https://pixelfed.cz/p/dnesnaukrajine/1009527246529665185)
+
+      - [Those drones again](https://pixelfed.cz/p/dnesnaukrajine/1009527323514296482)
+
+      '
   - title: Friday
     year: September 25, 2026
     sort: '2026-09-25'

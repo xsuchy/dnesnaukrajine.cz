@@ -38,6 +38,30 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "26. září 2026"
+        sort: "2026-09-26"
+        image: assets/img/timeline/2026-09-26.jpg
+        podcast: "2026-09-26.mp3"
+        desc: |
+          Rusko druhý den v řadě zasahuje Kyjev prakticky bez přestávky a tentokrát skutečně nejde o „náhodné zásahy civilní zástavby“, kterými Moskva obvykle své nálety vysvětluje. Terčem byla ukrajinská schopnost být online. Za poslední čtyři dny dostala zásah datová centra Cosmonova, Datagroup a MiroHost i infrastruktura providera UTELS, přičemž Cosmonova přišla o provoz po druhém zásahu ve dvou dnech. Bez signálu se ocitlo asi sto tisíc domácností v Kyjevě a okolí, vysílání přerušily televize Novyny.Live a Armiia TV a veřejnoprávnímu Suspilne přestaly fungovat videopřehrávače. Ruské ministerstvo obrany se zásahem datového centra obsluhujícího mobilní internet a Starlink nakonec samo pochlubilo. Rusko v noci vypustilo 173 dronů typu Shahed, z toho padesát v proudové verzi, protivzdušná obrana jich sestřelila 134 a zásahy hlásí devatenáct míst. Ukrajina odpověděla ve stejné logice, jen o tisíc kilometrů jinam: krátce po půlnoci zasáhly drony Iljskou rafinerii v Severském rajónu Krasnodarského kraje, asi třicet kilometrů od Krasnodaru a čtyři sta kilometrů od míst odpalu. Tato rafinerie s roční kapacitou 6,6 milionu tun ropy dodává palivo jižnímu vojenskému okruhu i okupovaným ukrajinským územím a hořela už 8. srpna. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0qitcHXqydUsjNimAtafv1ZHntFWw5MHtSF9oB1YhBTv4daLTLkVRJgKEn6uR7zNal):
+        detail: |
+          - Ukrajina má nového šéfa žalobců a vybrala ho podle jediného kritéria: aby o něm nikdo nic nevěděl. Úřadujícím generálním prokurátorem je od 17. září Anton Kovalskyj, dosud krajský prokurátor v Chmelnyckém, předtím pět let v Černovicích. Politolog Fesenko to pojmenoval narovinu: „Prvním kritériem bylo, zda v jeho minulosti nejsou skandály nebo signály, že by se opakovalo to, co s Kravčenkem.“ Ruslan Kravčenko totiž 14. září uprchl z Ukrajiny poté, co NABU rozkrylo krytí sítě podvodných call center provozované údajně za podpory Generální prokuratury. Antikorupční aktivisté ale mají otázky i na Kovalského: média ho spojují s podnikatelem Iljou Pavljukem a bývalým prokurátorem Ihorem Mustecou z Černovic, jeho žena vydělala v prvním roce prodeje sportovní výživy asi 120 tisíc dolarů a jeho zástupce Maksym Kuterha nabyl v roce 2024 majetek za nějakých 325 tisíc dolarů. 
+          - Ministr zahraničí Sybiha vyzval partnery, aby něco udělali s okupovanými Oleškami v Chersonské oblasti. Podle zpráv jsou civilisté nuceni přežívat na trávě a plevelu, zároveň jsou pro ně léky, čistá voda, elektřina a lékařská péče čím dál nedostupnější. Mezi takto uvězněnými jsou i děti. Počet obyvatel města klesl z asi 24 tisíc na dva tisíce a Rusko nepouští ukrajinské ani mezinárodní humanitární organizace na levý břeh Dněpru, proto Sybiha žádá OSN, Červený kříž a další, aby si vynutili okamžitý humanitární přístup a umožnili evakuaci. Téma otevřel i komisař Rady Evropy pro lidská práva, který připomněl, že okupační správa má podle mezinárodního humanitárního práva povinnost zajistit civilistům přístup k jídlu a lékům.
+          - Německá justice spojila s ruskou GRU žhářský útok z 3. září, kdy někdo z jedoucího auta naházel zápalné prostředky na stavbu poblíž mnichovského sídla firem Rohde & Schwarz a Helsing. Oheň tehdy naštěstí rychle uhasili, škoda byla malá a nikdo se nezranil. Zadrženi byli dva bulharští občané, osmadvacetiletá žena a osmatřicetiletý muž, které vyšetřovatelé považují za operativce rekrutované ruskými zpravodajskými službami k provádění sabotáží za peníze. Firma Helsing dodává Ukrajině drony s umělou inteligencí. 
+          - Mychajlo Fedorov oznámil na konferenci IT Arena projekt Armáda robotů. Navazuje na Armádu dronů z roku 2022 a má nahrazovat pěchotu bezpilotními systémy. Popisuje ho jako „ekosystém“ spojující investice do zbrojních firem, domácí výrobu technologií a výzkum s rychlým testováním u jednotek. Do šesti měsíců má být zabit první ruský voják humanoidním robotem, do dvanácti měsíců mají roboti provést útok na pozici bez účasti pěchoty.
+          - Moldavská policie našla ve vesnici Cotiujeni v okrese Briceni, 1,7 kilometru od hranice, trosky dronu s označením Geran-4 včetně částečně poškozeného proudového motoru. Stroj spadl po nárazu do stromů. Téhož dne narušily moldavský vzdušný prostor další čtyři letící objekty.
+          - Skupina dvanácti demokratických a šesti republikánských senátorů v čele s Rogerem Wickerem a Jeanne Shaheenovou tlačí na Trumpa, aby zrušil Putinovo pozvání na summit G20 v Miami. Argumentují, že by to znamenalo legitimizaci a normalizaci ruské vlády.
+          - Partyzáni z hnutí ATESH oznámili, že ve Sverdlovské oblasti zničili sklad dronů připravených k odeslání ruským jednotkám. Podle nich šlo o cenné hexakoptéry, které armáda používá k dovážení munice, zásob a léků, ke shazování trhavin i k dálkovému kladení min.
+          - Finsko a Švédsko poprvé společně vyslaly stíhačky naproti ruským letadlům nad Finským zálivem. Finské F/A-18 Hornet a švédské JAS 39 Gripen identifikovaly formaci s transportním Tu-134 a stíhačkami MiG-31 a Su-30 v mezinárodním vzdušném prostoru.
+          - Ukrajina kvůli hrozbě útoků dočasně zavřela hraniční přechody Jahodyn a Ustyluh.
+          - Ruské útoky za poslední den zabily na Ukrajině šest lidí a 45 jich zranily.
+          - Rusové hlásí, že Ukrajinci se probojovali zpět do Jampilu a Torského. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1009528925444548798)
+          - [Mínus](https://pixelfed.cz/p/dnesnaukrajine/1009527206462015648)
+          - [Včerejší Kyjev](https://pixelfed.cz/p/dnesnaukrajine/1009527246529665185)
+          - [A zase ty drony](https://pixelfed.cz/p/dnesnaukrajine/1009527323514296482)
       - title: "Pátek"
         year: "25. září 2026"
         sort: "2026-09-25"
