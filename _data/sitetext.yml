@@ -38,6 +38,34 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "27. září 2026"
+        sort: "2026-09-27"
+        image: assets/img/timeline/2026-09-27.jpg
+        podcast: "2026-09-27.mp3"
+        desc: |
+          Rusko se teď systematicky snaží Ukrajinu odříznout od internetu. Ruské drony dvakrát zasáhly datové centrum v Kyjevě, poškozena je i hlavní kancelář Kyivstaru, největšího mobilního operátora v zemi. Podle Zelenského si nálety vyžádaly tři raněné, z toho dvě děti. Ruské ministerstvo obrany se pochlubilo, že šlo o datové centrum konkurenčního Vodafonu, které „zabezpečuje přenos zpravodajských dat pro ZSU“. V praxi to znamená, že bez mobilních a datových služeb zůstalo asi sto tisíc domácností v Kyjevě a okolí a několik televizních kanálů přestalo vysílat. Celkem Rusko od šesti hodin večer v sobotu vypustilo 170 útočných dronů, z toho 76 proudových Shahedů, k nim také Gerbery a makety Parodije. Protivzdušná obrana sestřelila nebo potlačila 147 z nich. Zaznamenaných je 18 míst, kam dopadly drony nebo jejich trosky. Za celý den zabily ruské útoky na Ukrajině 14 lidí a 57 jich zranily. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid032CY1cRa3KpAWJSxvLF6TULec9npvB1GDgxhLmzwUPDD1zMTcUd7hHoM2y6ZkUtV1l):
+        detail: |
+          - Ruské ministerstvo financí ihned po skončení voleb zvedá daně, aby zaplatilo Putinovu válku – a to hned v návrhu rozpočtu na roky 2027 až 2029. Deficit za první pololetí letošního roku totiž vyšplhal na 5,85 bilionu rublů, respektive 2,8 procenta HDP, tedy téměř dvojnásobek ročního cíle, a rezervní fond se scvrkl na 1,6 procenta HDP. Prognóza růstu na letošní rok je 0,6 procenta proti více než čtyřem procentům v letech 2023 a 2024. Daň z pasivních příjmů se má zvednout z 13–15 na 13–22 procent, což se dotkne asi čtyř milionů Rusů, zahraniční online nákupy budou mít DPH 22 procent plus poplatek sto rublů za zásilky pod 200 eur. Ministr financí Anton Siluanov přitom ještě nedávno označoval zprávy o plánovaném zvyšování daní za falešné.
+          - Nálet na jih Oděské oblasti zapálil výrobní halu se skladovými prostory a nákladními automobily, požár hasilo více než 140 hasičů a pět členů Národní gardy, kteří museli kvůli opakovaným poplachům ustupovat do krytů. Poškozena je také fasáda a okna hotelu, zdravotnické zařízení, obchod, dvoupodlažní obytný dům a obilní sklad. V Kiliji zasáhly drony přístavní a civilní infrastrukturu. Ruské ministerstvo obrany tvrdí, že zničilo štáb námořní základny „Východ“, čtyři sklady vojenského majetku a přístaviště a že úder přišel „v momentě vykládky systémů PVO“.
+          - Sergej Lavrov se v sobotu v New Yorku poprvé od začátku plné invaze sešel s německým ministrem zahraničí. Johann Wadephul mu podle svých slov řekl, že „Rusko musí ukončit svou agresivní válku proti Ukrajině a zastavit své nepřátelské akce proti Německu a jeho spojencům“. Lavrov schůzku odbyl konstatováním, že z ní „nevyplynulo nic nového“. Na závěrečné tiskové konferenci přitvrdil: „Nebudeme bojovat s Evropou, to je nesmysl a absurdita. Ale je to Evropa, kdo se připravuje na válku s námi. Tento postoj se může ukázat jako sebenaplňující se proroctví.“
+          - V platnost vstoupily ukrajinské sankce proti 44 lidem, kteří se zapojili do ruských „parlamentních voleb“ na okupovaných územích. Na seznamu je mimo jiné bývalý ukrajinský poslanec Jurij Onyščuk, který po okupaci Melitopolu začal spolupracovat s Rusy. Volby se konaly 18. až 20. září a účast na okupovaných územích měla podle ruských čísel dosáhnout 74 až 81 procent proti 56 procentům v celém Rusku. V okupované Doněcké oblasti přitom údajných voličů bylo dvakrát víc, než kolik tam reálně žije lidí. 
+          - Centrum pro boj s dezinformacemi upozornilo na rozsáhlou ruskou kampaň na sociálních sítích, která vyzývá Ukrajince k protestům a destabilizaci. Hesla kampaně: okamžitě uzavřít mír, zrušit mobilizaci, uspořádat okamžité volby. Jako vůdci protestů jsou v ní prezentováni údajní ukrajinští vojáci — cílem ruských služeb je podle Centra vtáhnout do protestů armádu.
+          - Britská policie v Gloucestershire vyhlásila mimořádnou situaci po zatčení pěti mužů poblíž letecké základny RAF Fairford pro podezření z přípravy teroristického činu. Na místo vyjelo asi třicet vozů, vojenští pyrotechnici prohlíželi vozidla a domy ve Whelfordu byly evakuovány. Na Fairfordu jsou rozmístěny americké bombardéry B-1B Lancer.
+          - Srbsko udělilo občanství Vadymu Novynskému, bývalému ukrajinskému poslanci, který je od prosince 2022 pod ukrajinskými sankcemi a od ledna 2025 podezřelý z velezrady a podněcování náboženské nenávisti. Soud ho v nepřítomnosti poslal do vazby a Ukrajina po něm pátrá.
+          - Na Sumy dopadly kolem půl šesté odpoledne tři řízené pumy. Zahynula starší žena a šestnáctiletá dívka, dalších pět lidí je zraněno, mezi nimi dítě. Jedna z bomb poškodila budovu Centra podpory rodin a dětí, které bylo v tu chvíli naštěstí bez návštěvníků. 
+          - Podle ISW osvobodila Ukrajina letos asi 972 kilometrů čtverečních, tedy přibližně dvojnásobek toho, co při kontraofenzivě v roce 2023. Rusko ale za leden až září zabralo o 650 kilometrů čtverečních víc, než kolik Ukrajina osvobodila.
+          - Ukrajinská armáda dopravila drony čtyři tuny potravin do okupovaných Olešek.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1009954222279338078)
+          - [Kyjev, koncert, pohoda…](https://pixelfed.cz/p/dnesnaukrajine/1009950613934090288)
+          - [Rusové zabili člověka, když venčil psi](https://pixelfed.cz/p/dnesnaukrajine/1009950639399028785)
+          - [Novator zachránil život](https://pixelfed.cz/p/dnesnaukrajine/1009950707921684530)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/1009950733088069683)
+          - [Škola v Kyjevě](https://pixelfed.cz/p/dnesnaukrajine/1009950772556519476)
+          - [Mínus Grad](https://pixelfed.cz/p/dnesnaukrajine/1009950832311900214)
+          - [Ruský nálet](https://pixelfed.cz/p/dnesnaukrajine/1009950862993819703)
+          - [Mínus dva](https://pixelfed.cz/p/dnesnaukrajine/1009950919290411064)
       - title: "Sobota"
         year: "26. září 2026"
         sort: "2026-09-26"
