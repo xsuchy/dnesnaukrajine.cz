@@ -38,6 +38,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "28. září 2026"
+        sort: "2026-09-28"
+        image: assets/img/timeline/2026-09-28.jpg
+        podcast: "2026-09-28.mp3"
+        desc: |
+          Rusko dnes nebombardovalo Kyjev v noci, kdy aspoň může předstírat, že jde o úder na cíle skryté ve tmě, ale bušilo do centra hlavního města za bílého dne, devět hodin v kuse, uprostřed pracovního týdne. Dron zasáhl hlavní budovu Národní akademie věd Ukrajiny ve Volodymyrské ulici a lidé z ní před požárem utíkali okny. Zemřela Natalia, asistentka šestaosmdesátiletého Volodymyra Horbulina, bývalého tajemníka Rady národní bezpečnosti a obrany a architekta ukrajinského raketového a kosmického programu. Dron dopadl do místnosti o podlaží výš nad jeho kanceláří a sám Horbulin vyvázl s lehkými zraněními od střepů. Jiný dron zasáhl a zapálil vyšší podlaží soukromé kliniky Dobrobut, kde se v tu dobu léčili i dětští pacienti. Zasažena byla také budova ministerstva školství a vědy, objekty Ukrtelecomu a státních železnic, farmaceutický podnik, čerpací stanice, šestnáctipodlažní panelák na Podolu a historický dům. Mezi zraněnými jsou opět i tři děti. Peskov k tomu na briefingu poznamenal, že Ukrajina „zaplatí cenu za činy, které se staly v posledních měsících" a ruská armáda zasahuje cíle, které „považuje za vhodné" - zjevně tím myslí vědeckou akademii a nemocnici. Ve stejný den vyšlo najevo, že Trump opět žádá Zelenského, aby polevil v úderech na ruské rafinerie, protože mu kvůli nim roste cena dieselu. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02PbVTKoAPfCC3cVJmkZbcCptzHxFoVUNwe34Pe4jNw1t5j5X6dbdeNg3VrMNDMo3Nl):
+        detail: |
+          - Ukrajinský 3. armádní sbor pod velením brigádního generála Andrije Bileckého oznámil třetí fázi operace Vivaldi na limanském směru v severní Doněcké oblasti: osvobozeny jsou obce Nove, Ridkodub a Katerynivka, obnovena je plná kontrola nad Karpivkou a Novomychajlivkou. Sbor hlásí více než dvě stě padesát zajatých ruských vojáků. Bilecký označil za jednu z klíčových součástí úspěchu zastírací operace, které přesvědčily ruské velení, že hlavní útok přijde jinde. Sbor k prolomení opevněných pozic přestavěl sovětské obrněné transportéry BTR-60 na velká kamikadze vozidla a zničil odpaliště elitní ruské dronové jednotky Rubikon, která musela úsek opustit. Na osvobození Karpivky se vedle sboru podíleli i pohraničníci z jednotky Silver Trio.
+          - Ukrajinské drony zasáhly čtyři palivové sklady v Krasnodarském kraji: Edelweiss-95 a Din-Yug-Oil v Novotytarivské, Lukoil-Yugnefteprodukt v Pavlovské a sklad ve Staronyžestebliivské. Zelenskyj k tomu dodal, že Ukrajina nasadila své dalekonosné „sankce" proti dvěma zbrojovkám v Tulské a Voroněžské oblasti, dále proti infrastruktuře pro dronové útoky v Kalužské a Orlovské oblasti, ruským silám v Brjanské oblasti a jednomu cíli v Černém moři. V Brjanské oblasti se po úderu na železniční úsek Djaťkovo–Ljudinovo zřítila část mostu a vykolejilo deset vagonů, dalších osmnáct prázdných vagonů vykolejilo v Unečském rajónu. 
+          - Rada ministrů EU schválila pět celoevropských obranných projektů, ve kterých má Ukrajina hrát významnou roli. DECODER pro dronové a protidronové technologie za tři a půl až pět a půl miliardy eur se všemi členy kromě Malty, protivzdušná a protiraketová obrana EU-FIAMD za 55 až 80 miliard eur do roku 2040 s účastí Ukrajiny, integrovaná námořní a podmořská obrana s účastí Ukrajiny zaměřená na monitoring plynovodů, větrných turbín a internetových kabelů, Eastern Flank Watch za 60 až 100 miliard eur do roku 2036 jen pro členské státy, a kosmický projekt, ze kterého je Ukrajina výslovně vyloučená. 
+          - Ukrajinský dron natočil mezi Kupjanskem a obcí Holubivkou devět civilistů včetně dětí, starších osob a člověka na podpažních berlích, které do podzemního plynovodu Šebelynka–Ostrogožsk nahnali muži v civilním oděvu. Podle Chartije to byli ruští vojáci, kteří si svlékli uniformy a stahovali se společně s násilně odvedenými civilisty, aby se vyhnuli ukrajinským úderům. Ukrajinští vojáci skupinu sledovali, ale nezahájili palbu kvůli přítomnosti dětí a starých lidí. Trasa vyžaduje překonat více než deset kilometrů v podzemí, než vyústí v lese. Materiál Chartija předá k vyšetřování válečných zločinů.
+          - Putin dnes podepsal dekret, kterým omezil přístup k údajům o palivo-energetickém sektoru: objemům a hodnotě exportu, kupcům a prodejcům, platebním schématům, přepravním trasám a terminálům, celní statistice, zpracování a produkci rafinerií i plánovaným domácím prodejům benzinu a dieselu. Druhým dekretem stanovil početní stav ruských ozbrojených sil na 2 441 630 osob, z toho 1 550 500 vojáků.
+          - Polský náměstek ministra obrany Cezary Tomczyk oznámil, že Polsko zmírní pravidla pro ničení objektů vstupujících z ruského směru. Dosud mírová procedura vyžadovala vizuální identifikaci pilotem, což znamenalo nutnost přiblížit se k cíli; nově postačí pozitivní identifikace na základě radarového odečtu. 
+          - Vojáci 1020. protiletadlového raketového a dělostřeleckého pluku poprvé použili nový ukrajinský interceptor s reaktivním motorem proti ruskému dronu Geran-5. Cíl zničili při rychlosti 425 kilometrů v hodině a ve výšce přes tři kilometry.
+          - Jednotka Prymary zasáhla na dočasně okupovaných územích železniční most, radary Nebo-U a dvě Kasta-2E, velitelské místo P-18 Terek, devět komunikačních prostředků a prostředků elektronického boje, letadlo L-39 a tři rychlé čluny. 
+          - Nejvyšší diplomatka EU Kaja Kallasová vyzvala členské státy, aby Ukrajině dodaly interceptory pro systémy Patriot ze stávajících zásob a doplnily je později.
+          - Rusko nabízí dvacet milionů dolarů za informace o pohybu Roberta „Maďara“ Brovdiho, a to prostřednictvím postsovětských kriminálních sítí. 
+          - Evropská unie zařadila na sankční seznam deset ruských představitelů za vyřazení protivojenské strany Jabloko z parlamentních voleb. 
+          - Ruský dron dopadl několik set metrů od polské hranice u hraničního přechodu Jahodyn ve Volyňské oblasti.
+          - V ruské Jaroslavské oblasti hořela fabrika na pyrotechniku, oheň zachvátil dvě výrobní haly.
+          - Výcviková mise EU pro Ukrajinu EUMAM byla prodloužena o dva roky.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1010401605177657501)
+          - [Zajatci od Lymanu](https://pixelfed.cz/p/dnesnaukrajine/1010400300552349827)
+          - [Rusové používali civilisty jako živý štít během ústupu](https://pixelfed.cz/p/dnesnaukrajine/1010400411559188614)
+          - [Kyjev, zasažená nemocnice](https://pixelfed.cz/p/dnesnaukrajine/1010400450576033927)
+          - [Nemocnice v Kyjevě](https://pixelfed.cz/p/dnesnaukrajine/1010400473725061256)
+          - [Roj dronů u Kyjeva](https://pixelfed.cz/p/dnesnaukrajine/1010400496536631433)
+          - [Kamikadze BTR](https://pixelfed.cz/p/dnesnaukrajine/1010400523421579404)
+          - [Mínus dva](https://pixelfed.cz/p/dnesnaukrajine/1010400556386011277)
+          - [Akademie věd](https://pixelfed.cz/p/dnesnaukrajine/1010400581611440270)
+          - [Jahodyn](https://pixelfed.cz/p/dnesnaukrajine/1010400606478256272)
       - title: "Neděle"
         year: "27. září 2026"
         sort: "2026-09-27"
