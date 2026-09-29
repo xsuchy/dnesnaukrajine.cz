@@ -23,6 +23,94 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Tuesday
+    year: September 29, 2026
+    sort: '2026-09-29'
+    image: assets/img/timeline/2026-09-29.jpg
+    podcast: 2026-09-29.mp3
+    desc: "This morning, Russia dropped four guided bombs on the center of Sumy, and\
+      \ one of them struck a school during class time. The fact that we aren’t counting\
+      \ the dead children by the dozens tonight is not thanks to the Russian pilots\
+      \ or their renowned accuracy, but to the teachers and school administration,\
+      \ who managed to evacuate about a hundred people to a shelter in time. As a\
+      \ result, “only” two people were killed in nearby single-family homes, and another\
+      \ six were injured, including three children. Sumy lies twenty-five kilometers\
+      \ from the front line; from warning to strike, there are usually barely a few\
+      \ minutes. This followed the fourth consecutive night of attacks on Kyiv. Russia\
+      \ launched a Zircon anti-ship missile, two ballistic missiles, and 152 drones,\
+      \ 82 of which were jet-powered. Air defenses intercepted all three missiles\
+      \ and 106 drones. Nevertheless, strikes were reported in 24 locations. In Kyiv,\
+      \ a depot at the main train station, data centers, school facilities, and residential\
+      \ buildings were on fire; the Taras Shevchenko Museum was also damaged. And\
+      \ [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02iuYtobN4re78wVwTcm28UnmVyenHZjSySSPjpdKNxdexoFeZxGD3mcXofCYUyHUMl)\
+      \ also happened: \n"
+    detail: "- Russia is preparing a record defense budget of 17.1 trillion rubles\
+      \ for 2027, or roughly $202 billion. This represents a 27 percent increase over\
+      \ the original plan and is the highest level since the start of the invasion.\
+      \ The budget deficit is expected to rise to 3.2 percent of GDP, and the national\
+      \ debt to 21.7 percent. Putin also signed a decree expanding the armed forces\
+      \ to 2.44 million people, including 1.55 million soldiers. This is the fourth\
+      \ expansion this year alone and the seventh since February 2022.\n- Ukrainian\
+      \ drones attacked the railway in the Bryansk region again overnight. The Trosna–Rzhanitsa\
+      \ section, approximately 68 kilometers from the Belarusian border, was hit—specifically,\
+      \ the bridge near Trosna, which is now the third bridge in the region to be\
+      \ struck. This is the second attack on the Bryansk railway in two days. The\
+      \ previous night, part of a bridge collapsed on the Dyatkovo–Lyudinovo section,\
+      \ derailing ten railcars, and another eighteen empty railcars derailed in the\
+      \ Unecha District. \n- NATO Secretary General Mark Rutte stated at a press conference\
+      \ with the Lithuanian prime minister that Russia is losing—both militarily in\
+      \ Ukraine and in its efforts to undermine the Alliance’s unity—and that it is\
+      \ suffering more than 40,000 deaths and serious injuries per month. Regarding\
+      \ hybrid attacks, he added that NATO does not always have to respond symmetrically\
+      \ or publicly acknowledge who is behind them.\n- Ukrainian diver Volodymyr Zhuravlyov,\
+      \ whom Germany accuses of involvement in the sabotage of the Nord Stream gas\
+      \ pipelines, has requested political asylum in Croatia. He was detained there\
+      \ on August 19 under a European arrest warrant, and a Croatian court approved\
+      \ his extradition on September 18. His attorney, Mykola Katerynchuk, claims\
+      \ that he would not receive a fair trial in Germany.\n- Estonia has officially\
+      \ blamed Russia for the August 15 arson attack on the defense company Milrem\
+      \ Robotics, which supplies unmanned ground vehicles to Ukraine. Foreign Minister\
+      \ Tsahkna and Prime Minister Michal described it as an act of sabotage ordered\
+      \ by Russian special services. \n- The Baltic states, together with Ukraine,\
+      \ are launching a system to verify the origin of grain to prevent grain stolen\
+      \ from occupied territories from entering the market. Lithuania is testing the\
+      \ system at the port of Klaipėda, while Latvia has been collecting samples since\
+      \ mid-September and sending them to a laboratory in France.\n- Russian jet drones\
+      \ attacked Odessa and the surrounding area. Three trucks were destroyed and\
+      \ eight others were damaged; port facilities, a high school, and a residential\
+      \ building were also damaged. Ten cats and three dogs died at an animal shelter\
+      \ near Odessa.\n- An explosion occurred at the Salyut Yug pyrotechnics plant\
+      \ in the Russian village of Kubrinsk in the Yaroslavl Region, killing fourteen\
+      \ people. It is reportedly unrelated to Ukrainian attacks; the Russian Investigative\
+      \ Committee cites a short circuit as the cause.\n- Belgium will deliver three\
+      \ F-16 fighter jets to Ukraine by the end of the year. Ukraine has already received\
+      \ ammunition for these aircraft from Belgium and Spain. As of June, it had approximately\
+      \ 39 such aircraft at its disposal, supplied by the Netherlands and Denmark.\n\
+      - In the Vinnytsia region, more than 15,000 customers were left without power\
+      \ following overnight attacks on railway infrastructure; power outages have\
+      \ also been reported in the Rivne, Donetsk, Sumy, and Kharkiv regions.\n- A\
+      \ Russian Tu-95 strategic bomber crashed during a training flight in the Amur\
+      \ Region; all six crew members were killed. Russian sources cite a fuel explosion\
+      \ as the preliminary cause.\n- Norway has allocated $2.6 million for humanitarian\
+      \ programs in Ukraine, including 15 million Norwegian kroner to UNICEF for the\
+      \ reintegration of deported children.\n- The Ukrainian military deployed an\
+      \ amphibious logistics robot for the first time; it traveled more than forty\
+      \ kilometers over land and water.\n- The Danish Parliament unanimously supported\
+      \ continuing military aid to Ukraine. This is because there are no collaborators\
+      \ in the Parliament. \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1010648504845370431)
+
+      - [Minus the bomber](https://pixelfed.cz/p/dnesnaukrajine/1010645148114494497)
+
+      - [Minus Geran](https://pixelfed.cz/p/dnesnaukrajine/1010645271265350691)
+
+      - [Sumy, school](https://pixelfed.cz/p/dnesnaukrajine/1010645323389334564)
+
+      - [Safari in Kherson](https://pixelfed.cz/p/dnesnaukrajine/1010645389759104037)
+
+      - [This one got lucky](https://pixelfed.cz/p/dnesnaukrajine/1010645460673492007)
+
+      '
   - title: Monday
     year: September 28, 2026
     sort: '2026-09-28'

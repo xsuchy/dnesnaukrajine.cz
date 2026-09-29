@@ -38,6 +38,35 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "29. září 2026"
+        sort: "2026-09-29"
+        image: assets/img/timeline/2026-09-29.jpg
+        podcast: "2026-09-29.mp3"
+        desc: |
+          Rusko dnes ráno shodilo na centrum Sum čtyři řízené letecké pumy a jednou z nich trefilo školu v době vyučování. Že se dnes večer nepočítají mrtvé děti po desítkách, není zásluha ruských pilotů ani jejich proslulé přesnosti, ale učitelů a vedení školy, kteří stihli včas odvést do úkrytu okolo stovky lidí. Zahynuli tak „jen“ dva lidé v okolních rodinných domech, dalších šest je zraněných, mezi nimi už jsou i tři děti. Sumy leží pětadvacet kilometrů od fronty, od výstrahy po úder to bývá sotva pár minut. Předcházela tomu čtvrtá noc útoků na Kyjev v řadě. Rusko vypustilo protilodní střelu Zirkon, dvě balistické rakety a 152 dronů, z toho 82 proudových. Protivzdušná obrana zneškodnila všechny tři rakety a 106 dronů. Zásahy jsou přesto hlášeny z 24 míst. V Kyjevě hořelo depo hlavního nádraží, datová centra, školské zařízení i obytné domy, poškozené je i Muzeum Tarase Ševčenka. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02iuYtobN4re78wVwTcm28UnmVyenHZjSySSPjpdKNxdexoFeZxGD3mcXofCYUyHUMl): 
+        detail: |
+          - Rusko chystá na rok 2027 rekordní obranný rozpočet 17,1 bilionu rublů, tedy zhruba 202 miliard dolarů. Proti původnímu plánu je to nárůst o 27 procent a jde o nejvyšší úroveň od začátku invaze. Schodek rozpočtu má stoupnout na 3,2 procenta HDP a státní dluh na 21,7 procenta. Putin také podepsal dekret rozšiřující ozbrojené síly na 2,44 milionu lidí, z toho 1,55 milionu vojáků. Je to čtvrté rozšíření jen za letošek a sedmé od února 2022.
+          - Ukrajinské drony v noci znovu zaútočily na železnici v Brjanské oblasti. Zasažen byl úsek Trosna–Ržanica zhruba 68 kilometrů od běloruských hranic, konkrétně most u Trosny, tedy už třetí zasažený most v regionu. Jde o druhý útok na brjanskou železnici během dvou dnů. Předchozí noc se na úseku Djaťkovo–Ljudinovo zřítila část mostu a vykolejilo deset vagonů, v Unečském rajónu pak dalších osmnáct prázdných vagonů. 
+          - Generální tajemník NATO Mark Rutte na tiskové konferenci s litevským premiérem prohlásil, že Rusko prohrává, vojensky na Ukrajině i ve snaze rozbít jednotu Aliance, a že přichází o víc než 40 tisíc mrtvých a těžce raněných měsíčně. K hybridním útokům dodal, že NATO nemusí reagovat vždy symetricky ani veřejně přiznávat, kdo za nimi stojí.
+          - Ukrajinský potápěč Volodymyr Žuravljov, kterého Německo viní z podílu na sabotáži plynovodů Nord Stream, požádal o politický azyl v Chorvatsku. Zadržen tam byl 19. srpna na evropský zatýkací rozkaz a chorvatský soud jeho vydání povolil 18. září. Jeho advokát Mykola Katerynčuk tvrdí, že by se v Německu nedočkal spravedlivého procesu.
+          - Estonsko oficiálně přisoudilo Rusku žhářský útok z 15. srpna na obrannou firmu Milrem Robotics, která Ukrajině dodává bezpilotní pozemní vozidla. Ministr zahraničí Tsahkna a premiér Michal ho označili za sabotáž na objednávku ruských speciálních služeb. 
+          - Pobaltské státy spouštějí spolu s Ukrajinou ověřování původu obilí, aby se na trh nedostalo zrno ukradené z okupovaných území. Litva systém testuje v přístavu Klaipėda, Lotyšsko od poloviny září odebírá vzorky a posílá je do laboratoře ve Francii.
+          - Na Oděsu a okolí útočily ruské proudové drony. Zničeny jsou tři náklaďáky a dalších osm poškozeno, poškozeny jsou i přístavní objekty, gymnázium a obytný dům. V útulku pro zvířata u Oděsy uhynulo deset koček a tři psi.
+          - V pyrotechnickém závodě Saljut Jug v ruské obci Kubrinsk v Jaroslavské oblasti došlo k výbuchu, kvůli kterému zahynulo čtrnáct lidí. S ukrajinskými údery to prý nesouvisí, ruský Vyšetřovací výbor mluví o zkratu.
+          - Belgie předá Ukrajině do konce roku tři stíhačky F-16. Munici pro tyto stroje už Ukrajina dostala od Belgie a Španělska. K červnu jich měla k dispozici zhruba devětatřicet, dodaných Nizozemskem a Dánskem.
+          - Ve Vinnycké oblasti zůstalo po nočních útocích na železniční infrastrukturu bez elektřiny přes patnáct tisíc odběratelů, výpadky hlásí i Rivne a Doněcká, Sumská a Charkovská oblast.
+          - V Amurské oblasti se při výcvikovém letu zřítil ruský strategický bombardér Tu-95, zahynulo všech šest členů posádky. Jako předběžnou příčinu uvádějí ruské zdroje výbuch paliva.
+          - Norsko vyčlenilo 2,6 milionu dolarů na humanitární programy na Ukrajině, z toho patnáct milionů norských korun pro UNICEF na reintegraci deportovaných dětí.
+          - Ukrajinská armáda poprvé nasadila obojživelného logistického robota, který urazil přes čtyřicet kilometrů po souši i po vodě.
+          - Dánský parlament jednomyslně podpořil pokračování vojenské pomoci Ukrajině. Protože v něm nesedí žádní kolaboranti. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1010648504845370431)
+          - [Mínus bombardér](https://pixelfed.cz/p/dnesnaukrajine/1010645148114494497)
+          - [Mínus Geran](https://pixelfed.cz/p/dnesnaukrajine/1010645271265350691)
+          - [Sumy, škola](https://pixelfed.cz/p/dnesnaukrajine/1010645323389334564)
+          - [Safari Cherson](https://pixelfed.cz/p/dnesnaukrajine/1010645389759104037)
+          - [Tenhle měl štěstí](https://pixelfed.cz/p/dnesnaukrajine/1010645460673492007)
       - title: "Pondělí"
         year: "28. září 2026"
         sort: "2026-09-28"
