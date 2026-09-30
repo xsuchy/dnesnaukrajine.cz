@@ -38,6 +38,34 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa"
+        year: "30. září 2026"
+        sort: "2026-09-30"
+        image: assets/img/timeline/2026-09-30.jpg
+        podcast: "2026-09-30.mp3"
+        desc: |
+          Rusko v noci poslalo na Ukrajinu bezmála dvě stě dronů, k tomu balistiku a protilodní Zirkony a Onyxy. Jde nejspíš o start letošní zimní kampaně proti ukrajinské energetice. Kdo si po dvou měsících soustavných Putinových řečí o míru myslel, že Moskva bude šetřit svoje rakety, byl opravdu naivní. Protivzdušná obrana zneškodnila 160 cílů, z toho pět raket. Zásahy jsou hlášeny z osmnácti míst a poplach trval celých dvanáct hodin a čtyřiačtyřicet minut. Zahynulo pět lidí včetně dítěte ve Vyšhorodu, dvě ženy zemřely v kyjevském Svjatošynském obvodu a v Solomjanském obvodu zahynul řidič Kyjevteploenerha, kterého nálet zastihl při práci ve skladu. Energetika dostala zásah v jedenácti regionech, poškozeno je zařízení Tripilské tepelné elektrárny a Ukrenergo muselo večer zavést havarijní odstávky v Kyjevě a v Kyjevské, Černihivské a Žytomyrské oblasti. Zelenskyj poděkoval partnerům za nové balíčky protivzdušné obrany a dodal, že každá antiraketa skutečně zachraňuje životy a čím blíž jsme k zimě, tím víc Ukrajina podobnou ochranu potřebuje. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02JgTJWYDv8jbM3PLa9K3sz9buq9Uw6AUCb9yrv94H8eRX5osQxeKooLXCxeEwRab3l):
+        detail: |
+          - Ukrajina odpověděla na ruský nálet podobnou vlnou, a byla to jedna z geograficky nejhlubších vln celé války. Mezi osmou večerní moskevského času a osmou ráno letělo na Rusko podle ruského ministerstva obrany víc než 400 dronů. Na seznamu cílů je Belgorodská, Brjanská, Volgogradská, Voroněžská, Kostromská, Kurská, Orelská, Penzenská, Rostovská, Rjazaňská, Samarská, Saratovská a Uljanovská oblast, Moskevská oblast, Baškortostán, Tatarstán, Permský kraj a okupovaný Krym, tedy od hranic až k Volze a Uralu. Nejhůř dopadla Rostovská oblast: v Azově úřady vyhlásily mimořádný stav. V Permském kraji se ráno rozezněly sirény v Permu, Berezniki a Solikamsku, letiště Bolšoje Savino od 7:54 zastavilo provoz a byl aktivován plán „Kovjor" do okruhu sta kilometrů. Zavřená byla i letiště v Saratově a Samaře a omezený provoz v Penze a Nižním Novgorodu. Guvernéři samozřejmě tvrdí, že se vše obešlo bez zásahů a bez mrtvých, což je u takového počtu strojů tvrzení, které se v čase téměř jistě ukáže jako lež.
+          - Trumpova administrativa podle The Atlantic a Kyiv Independent zvažuje uvolnění sankcí proti Rusku výměnou za propuštění politických vězňů. Plán od 23. září připravuje John Coale, Trumpův zvláštní vyslanec pro Bělorusko, který stejný recept použil v Bělorusku, kde výměnou za úlevy na běloruský potaš dostal na svobodu asi sedm stovek lidí. Kreml ale celý nápad odmítl už v zárodku. Dmitrij Peskov prohlásil, že Rusko „kategoricky popírá existenci jakýchkoli politických vězňů a považuje takové rámování otázky za absolutně nevhodné". 
+          - V Hranitném v Doněcké oblasti byl zasažen sklad bezpilotních prostředků, v Lysyčansku v Luhanské oblasti velitelsko-pozorovací stanoviště ruské jednotky a ve Starobilsku byla zničena opravárenská základna. Další sklady materiálu a techniky padly v Azovském, Manhuši, Novoandrijivce a Volnovaše a jeden na okupovaném Krymu v Kumovém. Zvláštní jednotka rozvědky HUR „Prymary" hlásí zásahy železniční infrastruktury, letadel, plavidel, radiolokátorů a spojovací techniky.
+          - Zelenskyj navštívil limanský úsek fronty, kde probíhá operace Vivaldi, zastavil se na velitelském stanovišti 66. samostatné mechanizované brigády a vyznamenal šestnáct vojáků. V nejnovější fázi operace Ukrajinci osvobodili Ridkodub, Nove a Katerynivku a obnovili plnou kontrolu nad Karpivkou a Novomychajlivkou, Rusové tu přišli o víc než dva tisíce lidí a přes 250 jich padlo do zajetí. 
+          - Ruské ambasády rozeslaly novou jadernou hrozbu. Zastupitelství v Irsku ve středu uvedlo, že „nesmí být žádná pochybnost o tom, že Rusko by bylo připraveno použít celý svůj arzenál včetně jaderných zbraní k obraně svého území, pokud se země NATO pokusí izolovat Kaliningradskou oblast od zbytku země". Obdobně se v předchozích dnech vyjádřily ambasády v Británii a Belgii. 
+          - ISW hlásí ukrajinské postupy nejen u Limanu, ale i u Časového Jaru přes Mykolajivku, protiútoky u Rajského, Toreckého a Novomykolajivky, které zablokovaly ruský obchvat Družkivky od jihozápadu, a posun v západní Záporožské oblasti jihovýchodně od Orichivu u Malé Tokmačky. Ruští blogeři svalují neúspěchy na „kulturu lhaní" ve velení.
+          - Americké ministerstvo financí uvalilo sankce na třináct osob a firem v Rusku, Číně, Hongkongu, Pákistánu a Íránu za obstarávání zbraní a komponentů pro íránské ministerstvo obrany. Na seznamu je mimo jiné ruská konstrukční kancelář Jakovlev a rejdařství MG-Flot, které pro ruské ministerstvo obrany přepravuje zbraně.
+          - Ukrajina vyjednává s evropskými státy a výrobci munice o desítkách tisíc kusů dvacetimilimetrových náloží do kanonů F-16, aby jimi sestřelovala ruské proudové drony. Na jeden sestřelený stroj padne přibližně 150 ran, denně by při současné intenzitě útoků bylo potřeba kolem deseti tisíc. 
+          Při ruském útoku spadl dron také na moldavské území, a to u obce Girbovets v okrese Anenii Noi, vybuchl asi ve čtyřiceti metrech nad zemí vedle antény civilního mobilního operátora.
+          - Ministr ekonomiky Oleksandr Kravčenko řekl Guardianu, že každá hodina, kdy kvůli raketovému poplachu stojí byznys, stojí Ukrajinu 45 milionů dolarů
+          - Putin na úvodním zasedání nové Státní dumy prohlásil, že Rusko si zajistí „spolehlivé garance bezpečnosti a suverenity pro generace dopředu".
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1011003663627842233)
+          - [Ukrajinský útok](https://pixelfed.cz/p/dnesnaukrajine/1011001056544182923)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/1011001106367300239)
+          - [Velmi nebezpečná situace](https://pixelfed.cz/p/dnesnaukrajine/1011001189853446801)
+          - [Rusové zasáhli vedení vysokého napětí](https://pixelfed.cz/p/dnesnaukrajine/1011001237522211474)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/1011001264254591635)
+          - [Drony se činí](https://pixelfed.cz/p/dnesnaukrajine/1011001347155907220)
+          - [Zelenskyj na obhlídce](https://pixelfed.cz/p/dnesnaukrajine/1011001408981119637)
       - title: "Úterý"
         year: "29. září 2026"
         sort: "2026-09-29"
