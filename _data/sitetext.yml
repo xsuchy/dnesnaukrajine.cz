@@ -38,6 +38,36 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "1. října 2026"
+        sort: "2026-10-01"
+        image: assets/img/timeline/2026-10-01.jpg
+        podcast: "2026-10-01.mp3"
+        desc: |
+          Ukrajina dnes slaví Den obránců a obránkyň a Rusko jí popřálo svým obvyklým způsobem. Krátce před půl dvanáctou dopoledne zasáhly dva drony nosnou konstrukci Jižního mostu v Kyjevě, a to v momentě, kdy po něm jelo metro, takže tlaková vlna zastihla jedoucí vlak. Podle poradce prezidenta Beskrestnova šlo o novou kumulativní řeznou nálož se čtyřicetikilovou hlavní náplní a čtyřmi úderníky, určenou na stožáry velmi vysokého napětí a ocelové mostní konstrukce, poprvé použitou den předtím. O žádný zbloudilý Shahed tedy nešlo, někdo si ten cíl záměrně vybral. Starosta Kličko hlásil dva zásahy u konstrukce, provoz metra na zelené lince i povrchová doprava přes most se zastavily. Je 1681. den války a tohle je to, čemu Moskva říká „strategické vojenské cíle“. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02YQ3sgD7B9Tt7X29CKFrVam9DXKir4fd7qF5kBnxHaR4ezDDMYwjyKuBHQ4vc4diil):
+        detail: |
+          - Moskva začala z majetku evropských firem dělat páku na jejich vlády. Putinův dekret ze 17. září dal pod dočasnou správu šestnáct společností, mimo jiné švýcarské Nestlé s cukrovinkářským podnikem Kamskaja v Permu, francouzský Auchan a Lemana PRO, dřívější Leroy Merlin, dalším dekretem z 28. září přibylo německé Metro AG. Správu vede firma L.E.V. Management v čele s ruským generálmajorem ve výslužbě Andrejem Krajuškinem. Na dotaz k italské UniCredit a rakouské Raiffeisenbank zdroj z ruské vlády odpověděl, ať se bojí. Peskov tvrdí, že jsou „kroky vratné, ale důvod je vracet zatím nevidí“.
+          - USA si v NATO začaly vybírat, s kým se budou bavit. Náměstek ministra obrany pro politiku Elbridge Colby svolal takzvanou Bergenskou skupinu, pracovní skupinu o budoucnosti Aliance, a pozval do ní Norsko, Švédsko, Finsko, Polsko, Německo a Nizozemsko, Dánsko se má možná přidat až po dohodě o rozšíření americké vojenské přítomnosti v Grónsku. Vynechal Británii, Francii, Estonsko, Lotyšsko i Litvu. Schůzka se má konat v říjnu v Polsku. Kritériem má být podle Colbyho rychlé plnění závazků na obranné výdaje a dostatečná vojenská velikost. 
+          - Ukrajina dnes přinesla humanitární katastrofu v okupovaných Oleškách před Stálou radu OBSE. Město je bez běžných dodávek potravin a léků od konce května, zůstává v něm podle různých odhadů dva až čtyři tisíce lidí, mezi nimi je asi dvě stě dětí. Lidé přežívají ze zahrádek, konzerv a výměnného obchodu, ukrajinská armáda jim v noci na sobotu dopravila drony asi čtyři tuny jídla.
+          - Británie schválila nový sankční balíček dopadající na celkem 31 entit. Je mezi nimi 22 fyzických osob, z toho osm kvůli mučení, sedm za indoktrinaci ukrajinských dětí a sedm za dezinformace, včetně čtyř Gruzínců. Dále energetická firma Novatek Gas and Power Asia a osm plavidel: tři ze stínové flotily, dvě bunkrovací a tři ruská plavidla ledové klasy, všechna vázaná na LNG. 
+          - Ukrajinské drony letěly v noci hluboko do Ruska a na okupovaný Krym. Na Krymu byla zasažena energetická zařízení a část sídel zůstala bez elektřiny, dodávky jsou podle okupační správy nadále komplikované. V Brjanské oblasti zemědělský holding Miratorg přišel o devět strojů a dalších třináct má poškozených.
+          - Rusko v noci vyslalo na Ukrajinu 107 úderných dronů typu Shahed a Gerbera plus makety, z toho 63 reaktivních. Protivzdušná obrana jich do osmi hodin ráno sestřelila nebo potlačila 87, zásahy jsou hlášeny z jedenácti míst. Za poslední den zabily ruské útoky nejméně šest lidí a 38 jich zranily.
+          - Ke Dni obránců a obránkyň podepsal Zelenskyj šest dekretů a vyznamenal 1 759 obránců, z toho 716 posmrtně, Křížem vojenských zásluh, Řádem Bohdana Chmelnyckého a dalšími medailemi. 
+          - Bulharský proruský premiér Rumen Radev varoval na obranném summitu Euronews, že Putin má stále jadernou kartu a mohl by ji chtít použít, pokud se bude cítit oslabený a bez východisek. 
+          - Garri Kasparov oznámil, že ho americká a litevská rozvědka varovaly, že je jeho život v ohrožení. Kreml podle něj chtěl zabít prominentní ruské kritiky ve Spojených státech a v Litvě.
+          - Trump opět lživě označil ukrajinské útoky na ruské rafinerie za hlavní příčinu dieselové krize v USA. Cena dieselu v USA dosáhla rekordních 6,53 dolaru za galon.
+          - Ukrajina žádá Spojené státy, aby sankcionovaly dodavatele ruské satelitní sítě Rassvet.
+          - Ukrajina přivezla domů dalších čtrnáct dětí z okupované části Chersonské oblasti.
+          - Ruský úder z 30. září poškodil generátorové zařízení Trypilské tepelné elektrárny.
+          - Estonsko zakázalo tranzit ruského a běloruského obilí po svém území. 
+          - Putin má dnes ve Valdaji pronést projev „na který celý svět čeká“.
+        videa: |
+          - [Zelenský u fronty](https://pixelfed.cz/p/dnesnaukrajine/1011357984315523484)
+          - [Zasažená škola v Kyjevě](https://pixelfed.cz/p/dnesnaukrajine/1011358038627856800)
+          - [Zasažený most](https://pixelfed.cz/p/dnesnaukrajine/1011358113418150305)
+          - [Zářezy](https://pixelfed.cz/p/dnesnaukrajine/1011358141326766498)
+          - [Ukrajinské údery](https://pixelfed.cz/p/dnesnaukrajine/1011358172044734885)
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1011358491332186543)
       - title: "Středa"
         year: "30. září 2026"
         sort: "2026-09-30"

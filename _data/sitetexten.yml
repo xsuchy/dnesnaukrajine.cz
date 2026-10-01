@@ -23,6 +23,95 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Thursday
+    year: October 1, 2026
+    sort: '2026-10-01'
+    image: assets/img/timeline/2026-10-01.jpg
+    podcast: 2026-10-01.mp3
+    desc: 'Ukraine is celebrating Defenders’ Day today, and Russia offered its congratulations
+      in its usual manner. Shortly before 11:30 a.m., two drones struck the support
+      structure of the South Bridge in Kyiv just as a subway train was passing over
+      it, so the shock wave hit the moving train. According to presidential adviser
+      Beskrestnov, the device was a new cumulative fragmentation charge with a 40-kilogram
+      main charge and four detonators, designed for very high-voltage pylons and steel
+      bridge structures, and used for the first time the day before. So this was not
+      a stray Shahed; someone deliberately chose that target. Mayor Klitschko reported
+      two hits on the structure; metro service on the green line and surface traffic
+      across the bridge were halted. It is the 1,681st day of the war, and this is
+      what Moscow calls “strategic military targets.” And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02YQ3sgD7B9Tt7X29CKFrVam9DXKir4fd7qF5kBnxHaR4ezDDMYwjyKuBHQ4vc4diil)
+      also happened:
+
+      '
+    detail: "- Moscow has begun using the assets of European companies as leverage\
+      \ against their governments. Putin’s decree of September 17 placed sixteen companies\
+      \ under temporary administration, including Switzerland’s Nestlé, which owns\
+      \ the Kamskaya confectionery plant in Perm; France’s Auchan; and Lemana PRO,\
+      \ formerly Leroy Merlin. A subsequent decree on September 28 added Germany’s\
+      \ Metro AG to the list. The administration is led by L.E.V. Management, headed\
+      \ by retired Russian Major General Andrei Krajuškin. When asked about Italy’s\
+      \ UniCredit and Austria’s Raiffeisenbank, a source from the Russian government\
+      \ replied that they should be afraid. Peskov claims that the “measures are reversible,\
+      \ but he sees no reason to reverse them at this time.”\n- The U.S. began picking\
+      \ and choosing whom it would engage with within NATO. Elbridge Colby, the Under\
+      \ Secretary of Defense for Policy, convened the so-called Bergen Group, a working\
+      \ group on the future of the Alliance, and invited Norway, Sweden, Finland,\
+      \ Poland, Germany, and the Netherlands to join; Denmark may join only after\
+      \ an agreement is reached on expanding the U.S. military presence in Greenland.\
+      \ He excluded the United Kingdom, France, Estonia, Latvia, and Lithuania. The\
+      \ meeting is scheduled to take place in October in Poland. According to Colby,\
+      \ the criteria will be rapid fulfillment of defense spending commitments and\
+      \ sufficient military strength. \n- Today, Ukraine brought the humanitarian\
+      \ catastrophe in the occupied town of Oleshky to the attention of the OSCE Permanent\
+      \ Council. The town has been without regular supplies of food and medicine since\
+      \ the end of May; according to various estimates, between two and four thousand\
+      \ people remain there, including about two hundred children. People are surviving\
+      \ on produce from their gardens, canned goods, and barter; on Saturday night,\
+      \ the Ukrainian army delivered about four metric tons of food to them via drones.\n\
+      - Britain has approved a new package of sanctions targeting a total of 31 entities.\
+      \ Among them are 22 individuals, including eight for torture, seven for indoctrinating\
+      \ Ukrainian children, and seven for disinformation, including four Georgians.\
+      \ Also included are the energy company Novatek Gas and Power Asia and eight\
+      \ vessels: three from the shadow fleet, two bunkering vessels, and three Russian\
+      \ ice-class vessels, all linked to LNG. \n- Ukrainian drones flew deep into\
+      \ Russia and the occupied Crimea overnight. Energy facilities in Crimea were\
+      \ hit, and some towns were left without power; according to the occupying administration,\
+      \ power supply remains problematic. In the Bryansk region, the Miratorg agricultural\
+      \ holding lost nine machines and had another thirteen damaged.\n- Overnight,\
+      \ Russia launched 107 Shahed- and Gerbera-type attack drones, as well as decoys,\
+      \ into Ukraine, 63 of which were jet-powered. By 8 a.m., air defenses had shot\
+      \ down or intercepted 87 of them, with strikes reported from eleven locations.\
+      \ Over the past day, Russian attacks have killed at least six people and wounded\
+      \ 38.\n- On Defenders' Day, Zelenskyy signed six decrees and awarded 1,759 defenders—716\
+      \ of them posthumously—with the Cross of Military Merit, the Order of Bohdan\
+      \ Khmelnytsky, and other medals. \n- Bulgaria's pro-Russian Prime Minister Rumen\
+      \ Radev warned at a Euronews defense summit that Putin still holds the nuclear\
+      \ card and might want to use it if he feels weakened and cornered. \n- Garry\
+      \ Kasparov announced that U.S. and Lithuanian intelligence agencies had warned\
+      \ him that his life was in danger. According to him, the Kremlin wanted to kill\
+      \ prominent Russian critics in the United States and Lithuania.\n- Trump once\
+      \ again falsely claimed that Ukrainian attacks on Russian refineries were the\
+      \ main cause of the diesel crisis in the U.S. The price of diesel in the U.S.\
+      \ reached a record high of $6.53 per gallon.\n- Ukraine is calling on the United\
+      \ States to impose sanctions on suppliers to the Russian satellite network Rassvet.\n\
+      - Ukraine has brought home another fourteen children from the occupied part\
+      \ of the Kherson region.\n- A Russian strike on September 30 damaged the generator\
+      \ equipment at the Trypilska Thermal Power Plant.\n- Estonia has banned the\
+      \ transit of Russian and Belarusian grain through its territory. \n- Putin is\
+      \ scheduled to deliver a speech today in Valdai “that the whole world is waiting\
+      \ for.”\n"
+    videa: '- [Zelensky at the line](https://pixelfed.cz/p/dnesnaukrajine/1011357984315523484)
+
+      - [A school hit in Kyiv](https://pixelfed.cz/p/dnesnaukrajine/1011358038627856800)
+
+      - [The Damaged Bridge](https://pixelfed.cz/p/dnesnaukrajine/1011358113418150305)
+
+      - [Notches](https://pixelfed.cz/p/dnesnaukrajine/1011358141326766498)
+
+      - [Ukrainian strikes](https://pixelfed.cz/p/dnesnaukrajine/1011358172044734885)
+
+      - [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1011358491332186543)
+
+      '
   - title: Wednesday
     year: September 30, 2026
     sort: '2026-09-30'
