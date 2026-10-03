@@ -15,6 +15,14 @@ a {
   }
 }
 
+// Style for links in the main content area (white background)
+.page-section a {
+  color: #0000EE;
+  &:hover {
+    color: #0000D7;
+  }
+}
+
 .timeline-body .text-muted a {
   color: #0000EE;
   &:hover {
