@@ -41,6 +41,17 @@
                 </div>
                 <div class="timeline-body">
                   <div class="text-muted">{{ event.desc | markdownify }}
+                  {% if event.pictures and event.pictures.size > 0 %}
+                  <div class="picture-grid">
+                    {% for picture in event.pictures %}
+                    <div class="picture-item">
+                      <a href="https://podcast.dnesnaukrajine.cz/images/{{ picture[0] }}" data-lightbox="pictures-{{ event.year }}" data-title="{{ picture[1] }}">
+                        <img src="https://podcast.dnesnaukrajine.cz/images/{{ picture[0] }}" alt="{{ picture[1] }}" class="picture-thumbnail" loading="lazy">
+                      </a>
+                    </div>
+                    {% endfor %}
+                  </div>
+                  {% endif %}
                   {% if event.detail %}
                   <details {{ details_on }}>
                   <summary>More</summary>

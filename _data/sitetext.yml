@@ -42,6 +42,10 @@ timeline:
         year: "3. října 2026"
         sort: "2026-10-03"
         image: assets/img/timeline/2026-10-03.jpg
+        pictures:
+          - ["2026-10-03-1.jpg", "Momentka."]
+          - ["2026-10-03-2.jpg", "Mínus Pantsir."]
+          - ["2026-10-03-3.jpg", "Samara."]
         podcast: "2026-10-03.mp3"
         desc: |
           Rusko už třetí den v řadě pálí po kyjevských mostech – jednoduše proto, že na frontě mu to až tak nejde. Krátce po půl sedmé ráno zasáhl dron Severní most přes Dněpr, poškodil povrch vozovky i trolejové vedení a provoz z levého na pravý břeh se zastavil. Letecký expert a bývalý konstruktér Antonova Konstantin Kryvolap si myslí, že cílem není mosty zbořit, ale působit psychologicky, což zní uvěřitelně i proto, že to má reálnější dopad na průběh války než postup o tři stromořadí někde u Pokrovsku. Celkem Rusko v noci vypustilo 157 dronů Shahed, Gerbera a maket Parodija včetně verzí s proudovým motorem, protivzdušná obrana jich sestřelila nebo potlačila 131. Zásahy jsou hlášené z dvanácti míst, padající úlomky z dalších pěti. Zahynulo osm lidí a 81 jich bylo zraněno. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0ugLxUTJNgyEWpBacuRj1NusomHXvQ2iyuMPZNZe9RmyWPdVeUbgfwuLVgGUMGXAel):
@@ -74,6 +78,11 @@ timeline:
         year: "2. října 2026"
         sort: "2026-10-02"
         image: assets/img/timeline/2026-10-02.jpg
+        pictures:
+          - ["2026-10-02-1.jpg", ""]
+          - ["2026-10-02-2.jpg", ""]
+          - ["2026-10-02-3.jpg", ""]
+          - ["2026-10-02-4.jpg", ""]
         podcast: "2026-10-02.mp3"
         desc: |
           Rusko si pro tento týden vybralo cíl, na kterém je dobře vidět, jak málo mu jde o vojenskou logiku a jak moc o nervy obyčejných Ukrajinců. Kyjevský Pivdennyj most, po kterém jezdí auta i metro přes Dnipro, dostal za dva dny zásah už počtvrté. Poškozená je vozovka, jeden z pilířů, svodidla i betonové konstrukce chránící trasu metra, a kyjevská městská vojenská správa dnes most uzavřela v obou směrech. Metro přes něj nejede a čeká se na posudek výzkumných institutů. Lidé v dopravní špičce přecházeli řeku pěšky. Poslední noční útok na Kyjev také zabil mladou ženu a dva lidi zranil v Darnyckém obvodu, kde hořelo ve dvacátém čtvrtém a dvacátém pátém patře bytovky. Dron dopadl také na školu, ve které se ukrývalo přes sto dětí a asi šedesát zaměstnanců, všichni to naštěstí přežili bez újmy. Rusko přes noc vypustilo 108 dronů typu Shahed, z toho 47 proudových, protivzdušná obrana 88 z nich sestřelila nebo potlačila a zásahy jsou hlášené z jedenácti míst. Volodymyr Zelenský dodal to, co je zjevné každému, kdo si pamatuje rok 2022: cílem úderů na civilní objekty a školy je vytvářet tlak na to, aby Kyjevané začali z města odcházet. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02XV5pT9haj7CDmXNHk9jadoCdJ129Ry6ypNAcg89pDY6ptWkkkZ1jAmvw96qok1Prl): 
@@ -108,6 +117,11 @@ timeline:
         year: "1. října 2026"
         sort: "2026-10-01"
         image: assets/img/timeline/2026-10-01.jpg
+        pictures:
+          - ["2026-10-01-1.jpg", ""]
+          - ["2026-10-01-2.jpg", ""]
+          - ["2026-10-01-3.jpg", ""]
+          - ["2026-10-01-4.jpg", ""]
         podcast: "2026-10-01.mp3"
         desc: |
           Ukrajina dnes slaví Den obránců a obránkyň a Rusko jí popřálo svým obvyklým způsobem. Krátce před půl dvanáctou dopoledne zasáhly dva drony nosnou konstrukci Jižního mostu v Kyjevě, a to v momentě, kdy po něm jelo metro, takže tlaková vlna zastihla jedoucí vlak. Podle poradce prezidenta Beskrestnova šlo o novou kumulativní řeznou nálož se čtyřicetikilovou hlavní náplní a čtyřmi úderníky, určenou na stožáry velmi vysokého napětí a ocelové mostní konstrukce, poprvé použitou den předtím. O žádný zbloudilý Shahed tedy nešlo, někdo si ten cíl záměrně vybral. Starosta Kličko hlásil dva zásahy u konstrukce, provoz metra na zelené lince i povrchová doprava přes most se zastavily. Je 1681. den války a tohle je to, čemu Moskva říká „strategické vojenské cíle“. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02YQ3sgD7B9Tt7X29CKFrVam9DXKir4fd7qF5kBnxHaR4ezDDMYwjyKuBHQ4vc4diil):
@@ -138,6 +152,17 @@ timeline:
         year: "30. září 2026"
         sort: "2026-09-30"
         image: assets/img/timeline/2026-09-30.jpg
+        pictures:
+          - ["2026-09-30-1.jpg", ""]
+          - ["2026-09-30-2.jpg", ""]
+          - ["2026-09-30-3.jpg", ""]
+          - ["2026-09-30-4.jpg", ""]
+          - ["2026-09-30-5.jpg", ""]
+          - ["2026-09-30-6.jpg", ""]
+          - ["2026-09-30-7.jpg", ""]
+          - ["2026-09-30-8.jpg", ""]
+          - ["2026-09-30-9.jpg", ""]
+          - ["2026-09-30-10.jpg", ""]
         podcast: "2026-09-30.mp3"
         desc: |
           Rusko v noci poslalo na Ukrajinu bezmála dvě stě dronů, k tomu balistiku a protilodní Zirkony a Onyxy. Jde nejspíš o start letošní zimní kampaně proti ukrajinské energetice. Kdo si po dvou měsících soustavných Putinových řečí o míru myslel, že Moskva bude šetřit svoje rakety, byl opravdu naivní. Protivzdušná obrana zneškodnila 160 cílů, z toho pět raket. Zásahy jsou hlášeny z osmnácti míst a poplach trval celých dvanáct hodin a čtyřiačtyřicet minut. Zahynulo pět lidí včetně dítěte ve Vyšhorodu, dvě ženy zemřely v kyjevském Svjatošynském obvodu a v Solomjanském obvodu zahynul řidič Kyjevteploenerha, kterého nálet zastihl při práci ve skladu. Energetika dostala zásah v jedenácti regionech, poškozeno je zařízení Tripilské tepelné elektrárny a Ukrenergo muselo večer zavést havarijní odstávky v Kyjevě a v Kyjevské, Černihivské a Žytomyrské oblasti. Zelenskyj poděkoval partnerům za nové balíčky protivzdušné obrany a dodal, že každá antiraketa skutečně zachraňuje životy a čím blíž jsme k zimě, tím víc Ukrajina podobnou ochranu potřebuje. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02JgTJWYDv8jbM3PLa9K3sz9buq9Uw6AUCb9yrv94H8eRX5osQxeKooLXCxeEwRab3l):
