@@ -38,6 +38,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "2. října 2026"
+        sort: "2026-10-02"
+        image: assets/img/timeline/2026-10-02.jpg
+        podcast: "2026-10-02.mp3"
+        desc: |
+          Rusko si pro tento týden vybralo cíl, na kterém je dobře vidět, jak málo mu jde o vojenskou logiku a jak moc o nervy obyčejných Ukrajinců. Kyjevský Pivdennyj most, po kterém jezdí auta i metro přes Dnipro, dostal za dva dny zásah už počtvrté. Poškozená je vozovka, jeden z pilířů, svodidla i betonové konstrukce chránící trasu metra, a kyjevská městská vojenská správa dnes most uzavřela v obou směrech. Metro přes něj nejede a čeká se na posudek výzkumných institutů. Lidé v dopravní špičce přecházeli řeku pěšky. Poslední noční útok na Kyjev také zabil mladou ženu a dva lidi zranil v Darnyckém obvodu, kde hořelo ve dvacátém čtvrtém a dvacátém pátém patře bytovky. Dron dopadl také na školu, ve které se ukrývalo přes sto dětí a asi šedesát zaměstnanců, všichni to naštěstí přežili bez újmy. Rusko přes noc vypustilo 108 dronů typu Shahed, z toho 47 proudových, protivzdušná obrana 88 z nich sestřelila nebo potlačila a zásahy jsou hlášené z jedenácti míst. Volodymyr Zelenský dodal to, co je zjevné každému, kdo si pamatuje rok 2022: cílem úderů na civilní objekty a školy je vytvářet tlak na to, aby Kyjevané začali z města odcházet. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02XV5pT9haj7CDmXNHk9jadoCdJ129Ry6ypNAcg89pDY6ptWkkkZ1jAmvw96qok1Prl): 
+        detail: |
+          - Institut pro studium války spočítal, co Rusko stálo září. Ruské síly obsadily 175,54 kilometru čtverečního, ale přišly o 256,35, takže čistá ztráta je 80,81 kilometru čtverečního, a pokud se započítají i průniky, je to asi 175 kilometrů čtverečních. Ukrajinský generální štáb přitom za září vykázal 46 230 ruských ztrát na lidech, což je nejvyšší měsíční číslo letošního roku a třetí měsíc v řadě nad čtyřiceti tisíci. Od března letošního roku Rusko podle ISW čistě přišlo o 293,59 kilometru čtverečního území. Závěr je jasný: Rusko nedosahuje prakticky žádných územních zisků, zato za ně platí ztrátami, které nestíhá nahrazovat.
+          - Ukrajinské drony v noci zasáhly ruskou ropnou infrastrukturu ve Volgogradské a Samarské oblasti. Ve Volgogradu šlo o rafinerii Lukoilu, která zpracuje kolem patnácti milionů tun ropy ročně a představuje asi pět procent ruských rafinérských kapacit, a o chemický závod Kaustik vyrábějící kyselinu chlorovodíkovou, plasty a syntetické pryskyřice se dvojím civilním i vojenským využitím. V Samarské oblasti mířily drony na přečerpávací stanici Transněfti u obce Prosvet, která se rozkládá na více než 216 hektarech a má 71 nádrží o celkovém objemu přes 1,6 milionu kubíků ropy. Stanice míchá ropu ze čtyř potrubí do exportní směsi Urals a ukrajinské drony ji zasáhly už v září 2025 a v dubnu letošního roku. 
+          - Ruští zajatci z 3. útočné roty 283. pluku 144. motostřelecké divize, která patří k 20. armádě, popsali po zajetí podmínky, které by si člověk v evropské armádě 21. století nedokázal představit. Jeden ze zástupců velitele uvedl, že za šest měsíců zhubl víc než šedesát kilo a že na pozice se jídlo prostě nedostávalo. Vojákům chyběla voda, munice i zdravotní péče, část z nich pila vlastní moč a vodu z kaluží a jeden ze zajatých krátce po zajetí zemřel na akutní vyhladovění. Velitelé podle nich jednoduše utekli a vypnuli vysílačky, nebo podřízeným záměrně lhali o rozsahu ukrajinských útoků. 
+          - Vladimir Putin podepsal dekret o odvodu 120 tisíc mužů. Šéf mobilizačního oddělení ruského generálního štábu Jevhenij Burdinskij k tomu řekl, že odvedenci nebudou plnit bojové úkoly na Ukrajině. Totéž tvrdil Putin v rozhovorech na začátku března 2022 a ruské ministerstvo obrany pár dní poté přiznalo, že odvedenci na Ukrajině jsou a část z nich padla do zajetí. 
+          - Ukrajina dostala z Evropské unie 2,9 miliardy eur z programu Ukraine Facility. Peníze byly podmíněné reformami, konkrétně změnou majetkových přiznání soudců, jmenováním nového operátora trhu s elektřinou, plánem na snižování rozdílů v platech mezi muži a ženami a zlepšením zákona o bezpečnosti provozu. 
+          - Jihokorejský prezident Lee Jae Myung hrozí Ukrajině dalšími opatřeními, pokud se neomluví. Spor se vede o to, že Zelenskyj ve svém vystoupení v OSN 23. září prozradil detaily o dvou severokorejských zajatcích, které Kyjev předal Soulu. 
+          - Rusko vyhostilo maďarské diplomaty v odpovědi na to, že Budapešť 8. září poslala domů deset ruských. Personál velvyslanectví v Moskvě a konzulátů v Petrohradu a Kazani má dva týdny na odjezd. 
+          - Do ukrajinského parlamentu dorazil zákon o školství národnostních menšin, který má odblokovat vyjednávání o členství v Evropské unii, které nyní stále blokuje hlavně Maďarsko.
+          - Nad Voroněžskou oblastí sestřelil ruský Su-35 omylem vlastní vrtulník Mi-8. Zahynula celá tříčlenná posádka, tedy pilot, navigátor a palubní střelec. 
+          - Odpoledne dopadly na Charkov tři ruské klouzavé bomby. Zahynuly dvě ženy ve věku 66 a 80 let a 36 lidí bylo zraněno, mezi nimi tři děti.
+          - Ukrajinská firma předvedla na největším cvičení námořních dronů NATO jedenáct bezpilotních plavidel a osm dronů.
+          - Skupina G7 se dohodla na uvolnění až sta milionů barelů nafty a ropy ze strategických rezerv během čtyř měsíců.
+          - Španělsko, Belgie a Polsko posílají Ukrajině dvacetimilimetrovou munici do kanónů stíhaček F-16.
+          - Letiště v Kišiněvě bylo evakuováno kvůli nahlášené bombě. Jde o druhý takový případ jen letos.
+          - Ruský FPV dron zasáhl v 7:08 v Kramatorsku autobus na pravidelné lince, dva lidé byli zraněni. 
+          - Ruský rozpočtový deficit letos dosáhl rekordních 88 miliard dolarů a příští rok opět poroste. 
+          - Zahynul pilot Marat Redvanovič Mambetov, další z „Duchů Kyjeva“. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1011862286054024484)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/1011858099849544970)
+          - [Mínus logistika](https://pixelfed.cz/p/dnesnaukrajine/1011858184079324428)
+          - [Samara](https://pixelfed.cz/p/dnesnaukrajine/1011858215485084941)
+          - [Mínus ruská báze](https://pixelfed.cz/p/dnesnaukrajine/1011858242331342094)
+          - [Mínus Pancir](https://pixelfed.cz/p/dnesnaukrajine/1011858270519256335)
+          - [Archiv: Na Donbasu](https://x.com/Bodbe6/status/2106028898362236956)
+          - [Trefa!](https://pixelfed.cz/p/dnesnaukrajine/1011862896466900266)
       - title: "Čtvrtek"
         year: "1. října 2026"
         sort: "2026-10-01"
