@@ -75,7 +75,7 @@ PŘEKLADY ROZHOVORŮ/VIDEÍ:
 - Varanka Anka
 
 BLOGY:
-- Glasnost Gone
+- [Glasnost Gone](https://glasnostgone.org/)
 - [Special Kherson Cat](https://x.com/bayraktar_1love)
 - MAKS 23
 - Calibre Obscura
