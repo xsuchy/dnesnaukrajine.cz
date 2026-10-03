@@ -41,6 +41,12 @@
                 </div>
                 <div class="timeline-body">
                   <div class="text-muted">{{ event.desc | markdownify }}
+                  {% if event.detail %}
+                  <details {{ details_on }}>
+                  <summary>More</summary>
+                  {{ event.detail | markdownify }}
+                  </details>
+                  {% endif %}
                   {% if event.pictures and event.pictures.size > 0 %}
                   <div class="picture-grid">
                     {% for picture in event.pictures %}
@@ -51,12 +57,6 @@
                     </div>
                     {% endfor %}
                   </div>
-                  {% endif %}
-                  {% if event.detail %}
-                  <details {{ details_on }}>
-                  <summary>More</summary>
-                  {{ event.detail | markdownify }}
-                  </details>
                   {% endif %}
                   {% if event.videa %}
                   <details {{ details_on }}>

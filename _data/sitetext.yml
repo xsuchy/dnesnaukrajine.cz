@@ -153,17 +153,6 @@ timeline:
         year: "30. září 2026"
         sort: "2026-09-30"
         image: assets/img/timeline/2026-09-30.jpg
-        pictures:
-          - ["2026-09-30-1.jpg", ""]
-          - ["2026-09-30-2.jpg", ""]
-          - ["2026-09-30-3.jpg", ""]
-          - ["2026-09-30-4.jpg", ""]
-          - ["2026-09-30-5.jpg", ""]
-          - ["2026-09-30-6.jpg", ""]
-          - ["2026-09-30-7.jpg", ""]
-          - ["2026-09-30-8.jpg", ""]
-          - ["2026-09-30-9.jpg", ""]
-          - ["2026-09-30-10.jpg", ""]
         podcast: "2026-09-30.mp3"
         desc: |
           Rusko v noci poslalo na Ukrajinu bezmála dvě stě dronů, k tomu balistiku a protilodní Zirkony a Onyxy. Jde nejspíš o start letošní zimní kampaně proti ukrajinské energetice. Kdo si po dvou měsících soustavných Putinových řečí o míru myslel, že Moskva bude šetřit svoje rakety, byl opravdu naivní. Protivzdušná obrana zneškodnila 160 cílů, z toho pět raket. Zásahy jsou hlášeny z osmnácti míst a poplach trval celých dvanáct hodin a čtyřiačtyřicet minut. Zahynulo pět lidí včetně dítěte ve Vyšhorodu, dvě ženy zemřely v kyjevském Svjatošynském obvodu a v Solomjanském obvodu zahynul řidič Kyjevteploenerha, kterého nálet zastihl při práci ve skladu. Energetika dostala zásah v jedenácti regionech, poškozeno je zařízení Tripilské tepelné elektrárny a Ukrenergo muselo večer zavést havarijní odstávky v Kyjevě a v Kyjevské, Černihivské a Žytomyrské oblasti. Zelenskyj poděkoval partnerům za nové balíčky protivzdušné obrany a dodal, že každá antiraketa skutečně zachraňuje životy a čím blíž jsme k zimě, tím víc Ukrajina podobnou ochranu potřebuje. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02JgTJWYDv8jbM3PLa9K3sz9buq9Uw6AUCb9yrv94H8eRX5osQxeKooLXCxeEwRab3l):
@@ -192,6 +181,11 @@ timeline:
         year: "29. září 2026"
         sort: "2026-09-29"
         image: assets/img/timeline/2026-09-29.jpg
+        pictures:
+          - ["2026-09-29-1.jpg", ""]
+          - ["2026-09-29-2.jpg", ""]
+          - ["2026-09-29-3.jpg", ""]
+          - ["2026-09-29-4.jpg", ""]
         podcast: "2026-09-29.mp3"
         desc: |
           Rusko dnes ráno shodilo na centrum Sum čtyři řízené letecké pumy a jednou z nich trefilo školu v době vyučování. Že se dnes večer nepočítají mrtvé děti po desítkách, není zásluha ruských pilotů ani jejich proslulé přesnosti, ale učitelů a vedení školy, kteří stihli včas odvést do úkrytu okolo stovky lidí. Zahynuli tak „jen“ dva lidé v okolních rodinných domech, dalších šest je zraněných, mezi nimi už jsou i tři děti. Sumy leží pětadvacet kilometrů od fronty, od výstrahy po úder to bývá sotva pár minut. Předcházela tomu čtvrtá noc útoků na Kyjev v řadě. Rusko vypustilo protilodní střelu Zirkon, dvě balistické rakety a 152 dronů, z toho 82 proudových. Protivzdušná obrana zneškodnila všechny tři rakety a 106 dronů. Zásahy jsou přesto hlášeny z 24 míst. V Kyjevě hořelo depo hlavního nádraží, datová centra, školské zařízení i obytné domy, poškozené je i Muzeum Tarase Ševčenka. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02iuYtobN4re78wVwTcm28UnmVyenHZjSySSPjpdKNxdexoFeZxGD3mcXofCYUyHUMl): 
