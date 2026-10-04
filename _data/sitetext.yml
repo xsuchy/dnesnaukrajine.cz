@@ -38,6 +38,34 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "4. října 2026"
+        sort: "2026-10-04"
+        image: assets/img/timeline/2026-10-04.jpg
+        podcast: "2026-10-04.mp3"
+        desc: |
+          Moskva před víkendem vyzvala diplomaty a cizince, aby opustili Kyjev, protože se chystá masivní úder. Německý kancléř Friedrich Merz na to odpověděl tím, že do Kyjeva neohlášeně přijel vlakem, a ukázal tak Rusku vztyčený prostředníček. Rusko nicméně jako obvykle v noci vyslalo na Ukrajinu 135 útočných dronů, z toho více než padesát proudových. Protivzdušná obrana zneškodnila 123 dronů a dvě střely Banderol. Zásahy jsou hlášeny z pěti míst a na dalších pěti dopadly trosky. Severní most v Kyjevě dostal zásah už čtvrtý den v řadě, navíc přesně v době, kdy po městě chodila německá delegace. Merze doprovázela ministryně hospodářství Katherina Reicheová a deset šéfů německých zbrojních a energetických firem. Německo slíbilo dodat tisíce záchytných dronů, uvolnit miliardu eur a dalších 350 milionů poslat na obnovu energetické infrastruktury. Kancléř to shrnul jednou větou: „Pokud Rusko nezastavíme, jeho vojenská mašinérie se dříve nebo později obrátí proti nám.“ A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0M2RXK2Ktk2pT3Bo4ZZAiT45ygJ3j1rjoHBwe1vJ4A5B2hhuN1gAmZyKTbRsGkzTJl):
+        detail: |
+          - Podle New York Times se americko-ruská jednání o ukončení války přelila na několikamiliardový obchod s aktivy ruského Lukoilu, tedy s rafineriemi, ropnými poli a čerpacími stanicemi po celém světě. Návrh měl Vladimir Putin předložit Jaredu Kushnerovi a Stevu Witkoffovi během jejich zářijové návštěvy Moskvy jako doklad toho, že Rusové s Američany pořád mohou obchodovat. Zájemcem je americká investiční firma Carlyle, která se s Lukoilem na odkupu zahraničních aktiv dohodla už v lednu. Lukoil je od roku 2025 je pod americkými sankcemi. Jejich zrušení by hodnotu jeho aktiv zvedlo, čímž by vlastníci aktiv skokově zbohatli, a mohlo zároveň stlačit ceny ropy, což je vzhledem k válce mezi USA a Íránem pro Washington lákavé. Sněmovna reprezentantů přitom nedávno schválila zákon, který má naopak usnadnit sankce proti zemím financujícím ruskou válku.
+          - Vysoký komisař OSN pro lidská práva Volker Türk zveřejnil zprávu, podle níž bylo za prvních osm měsíců roku 2026 na Ukrajině ověřeno 15 280 zabitých a zraněných civilistů. To je o 55 procent více než za stejné období roku 2025 a víc než 400 civilních obětí týdně po 34 týdnů v řadě. Jen řízené letecké bomby si v Doněcké, Charkovské, Sumské a Záporožské oblasti vyžádaly asi 2 500 obětí, tedy o 62 procent více než loni. Zpráva také dokumentuje přes tisíc případů sexuálního násilí, z nichž 89 procent připisuje ruské straně a 11 procent ukrajinské, přičemž většinu obětí tvoří muži v zadržovacích zařízeních. Türk válku označil za lidskoprávní katastrofu a vedle míru žádá i vyvození odpovědnosti.
+          - Ruské útoky za poslední den zabily nejméně pět lidí a přes třicet jich zranily. Nejhůř je na tom Sumská oblast se třemi mrtvými a šestnácti zraněnými: zásah skladu zdravotnického materiálu zabil 52letého zaměstnance a tři lidi zranil, řízené letecké bomby pak zranily dalších třináct lidí včetně dítěte. V Charkovské oblasti zahynuli dva lidé a pět bylo zraněno při úderech na Charkov a devět dalších sídel, v Dnipropetrovské oblasti jsou tři zranění, v Záporožské dva po 745 úderech na 47 obcí, v Chersonské oblasti dva a ve Slovjansku v Doněcké oblasti také dva.
+          - Albánský premiér Edi Rama v rozhovoru pro Die Welt označil sliby o vstupu Ukrajiny do Evropské unie za lež. Podle něj si evropští představitelé soukromě uvědomují, že běžný přístupový proces není pro zemi ve válce použitelný, a navrhuje postupný model, kdy by kandidáti byli hned zapojeni do pracovních formátů EU a formální členství přišlo později podle ověřených reforem. Zároveň žádá zrušení práva veta v Evropské radě. Albánie sama na vstup čeká od roku 2014.
+          - Poradce prezidenta pro obranné technologie Serhij Beskrestnov s volacím znakem Flash upozornil, že Rusko možná provozuje přímo v Kyjevě skryté pozemní převaděče, díky kterým mohou operátoři komunikovat se Shahedy v reálném čase a měnit jim trajektorii ještě za letu. Ve městě odhaduje jedno až tři taková zařízení. Jako příklad uvádí útok na budovu SBU ze 4. září, kdy ve vzduchu nebyly žádné další ruské drony, které by mohly signál přenášet. 
+          - V Lotyšsku vyhrála parlamentní volby vládní Spojená kandidátka premiéra Andrise Kulbergse s 35 procenty hlasů a rekordními 42 mandáty ze sta. Nejpravděpodobnější koalice s Národním spojenectvím a Novou jednotou by měla 59 křesel. Proruské strany Lotyšsko na prvním místě (eh…), Suverénní moc i Progresivní strana nezabodovaly a jdou do opozice.
+          - Zelenskyj označil poslední vlnu ruských hybridních útoků v Evropě za pokus zastrašit evropskou veřejnost a varoval spojence, že polemizováním nad ruskými kompromisy budou jen ztrácet čas.
+          - Ukrajinské bombardovací drony, které během nedávné protiofenzivy v Doněcké oblasti vysazovaly pozemní roboty, dostanou rušičku na obranu proti FPV dronům.
+          - Izjum na Charkovsku zasáhly salvové raketomety velkého kalibru, poškodily obytné domy a průmyslový podnik a vyvolaly požár.
+          - Rusko podle ukrajinských zdrojů šetří balistické střely na zimu a nahrazuje je proudovými drony.
+          - V Záporoží otevřeli první podzemní mateřskou školu.
+          - Ukrajina slaví Den teritoriální obrany.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1012377954125948772)
+          - [Úder na most](https://pixelfed.cz/p/dnesnaukrajine/1012381119629813659)
+          - [Vivaldi](https://x.com/WarLifeFootage/status/2106440164968988802)
+          - [Vivaldi](https://pixelfed.cz/p/dnesnaukrajine/1012382603085146027)
+          - [Mínus pěchota](https://pixelfed.cz/p/dnesnaukrajine/1012382639104677804)
+          - [Merz v Kyjevě](https://pixelfed.cz/p/dnesnaukrajine/1012382697988499374)
+          - [Překvápko](https://pixelfed.cz/p/dnesnaukrajine/1012382942321891249)
       - title: "Sobota"
         year: "3. října 2026"
         sort: "2026-10-03"
@@ -80,10 +108,10 @@ timeline:
         sort: "2026-10-02"
         image: assets/img/timeline/2026-10-02.jpg
         pictures:
-          - ["2026-10-02-1.jpg", ""]
-          - ["2026-10-02-2.jpg", ""]
-          - ["2026-10-02-3.jpg", ""]
-          - ["2026-10-02-4.jpg", ""]
+          - ["2026-10-02-1.jpg", "Kyjev."]
+          - ["2026-10-02-2.jpg", "Hadí ostrov má nový památník speciálním jednotkám."]
+          - ["2026-10-02-3.jpg", "Po ruském náletu na objekt DTEKu."]
+          - ["2026-10-02-4.jpg", "Rusové bombardovali hasičskou stanici."]
         podcast: "2026-10-02.mp3"
         desc: |
           Rusko si pro tento týden vybralo cíl, na kterém je dobře vidět, jak málo mu jde o vojenskou logiku a jak moc o nervy obyčejných Ukrajinců. Kyjevský Pivdennyj most, po kterém jezdí auta i metro přes Dnipro, dostal za dva dny zásah už počtvrté. Poškozená je vozovka, jeden z pilířů, svodidla i betonové konstrukce chránící trasu metra, a kyjevská městská vojenská správa dnes most uzavřela v obou směrech. Metro přes něj nejede a čeká se na posudek výzkumných institutů. Lidé v dopravní špičce přecházeli řeku pěšky. Poslední noční útok na Kyjev také zabil mladou ženu a dva lidi zranil v Darnyckém obvodu, kde hořelo ve dvacátém čtvrtém a dvacátém pátém patře bytovky. Dron dopadl také na školu, ve které se ukrývalo přes sto dětí a asi šedesát zaměstnanců, všichni to naštěstí přežili bez újmy. Rusko přes noc vypustilo 108 dronů typu Shahed, z toho 47 proudových, protivzdušná obrana 88 z nich sestřelila nebo potlačila a zásahy jsou hlášené z jedenácti míst. Volodymyr Zelenský dodal to, co je zjevné každému, kdo si pamatuje rok 2022: cílem úderů na civilní objekty a školy je vytvářet tlak na to, aby Kyjevané začali z města odcházet. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02XV5pT9haj7CDmXNHk9jadoCdJ129Ry6ypNAcg89pDY6ptWkkkZ1jAmvw96qok1Prl): 
@@ -119,10 +147,10 @@ timeline:
         sort: "2026-10-01"
         image: assets/img/timeline/2026-10-01.jpg
         pictures:
-          - ["2026-10-01-1.jpg", ""]
-          - ["2026-10-01-2.jpg", ""]
-          - ["2026-10-01-3.jpg", ""]
-          - ["2026-10-01-4.jpg", ""]
+          - ["2026-10-01-1.jpg", "Země-vzduch."]
+          - ["2026-10-01-2.jpg", "SBU zadržela Ruskem najaté atentátníky."]
+          - ["2026-10-01-3.jpg", "Rusové vybombardovali další supermarket."]
+          - ["2026-10-01-4.jpg", "Rusové zasáhli most v Kyjevě."]
         podcast: "2026-10-01.mp3"
         desc: |
           Ukrajina dnes slaví Den obránců a obránkyň a Rusko jí popřálo svým obvyklým způsobem. Krátce před půl dvanáctou dopoledne zasáhly dva drony nosnou konstrukci Jižního mostu v Kyjevě, a to v momentě, kdy po něm jelo metro, takže tlaková vlna zastihla jedoucí vlak. Podle poradce prezidenta Beskrestnova šlo o novou kumulativní řeznou nálož se čtyřicetikilovou hlavní náplní a čtyřmi úderníky, určenou na stožáry velmi vysokého napětí a ocelové mostní konstrukce, poprvé použitou den předtím. O žádný zbloudilý Shahed tedy nešlo, někdo si ten cíl záměrně vybral. Starosta Kličko hlásil dva zásahy u konstrukce, provoz metra na zelené lince i povrchová doprava přes most se zastavily. Je 1681. den války a tohle je to, čemu Moskva říká „strategické vojenské cíle“. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02YQ3sgD7B9Tt7X29CKFrVam9DXKir4fd7qF5kBnxHaR4ezDDMYwjyKuBHQ4vc4diil):
@@ -182,10 +210,10 @@ timeline:
         sort: "2026-09-29"
         image: assets/img/timeline/2026-09-29.jpg
         pictures:
-          - ["2026-09-29-1.jpg", ""]
-          - ["2026-09-29-2.jpg", ""]
-          - ["2026-09-29-3.jpg", ""]
-          - ["2026-09-29-4.jpg", ""]
+          - ["2026-09-29-1.jpg", "Společně proti zlu."]
+          - ["2026-09-29-2.jpg", "Mínus bombardér."]
+          - ["2026-09-29-3.jpg", "Škola v Sumách."]
+          - ["2026-09-29-4.jpg", "Rusové použili civilisty jako živý štít."]
         podcast: "2026-09-29.mp3"
         desc: |
           Rusko dnes ráno shodilo na centrum Sum čtyři řízené letecké pumy a jednou z nich trefilo školu v době vyučování. Že se dnes večer nepočítají mrtvé děti po desítkách, není zásluha ruských pilotů ani jejich proslulé přesnosti, ale učitelů a vedení školy, kteří stihli včas odvést do úkrytu okolo stovky lidí. Zahynuli tak „jen“ dva lidé v okolních rodinných domech, dalších šest je zraněných, mezi nimi už jsou i tři děti. Sumy leží pětadvacet kilometrů od fronty, od výstrahy po úder to bývá sotva pár minut. Předcházela tomu čtvrtá noc útoků na Kyjev v řadě. Rusko vypustilo protilodní střelu Zirkon, dvě balistické rakety a 152 dronů, z toho 82 proudových. Protivzdušná obrana zneškodnila všechny tři rakety a 106 dronů. Zásahy jsou přesto hlášeny z 24 míst. V Kyjevě hořelo depo hlavního nádraží, datová centra, školské zařízení i obytné domy, poškozené je i Muzeum Tarase Ševčenka. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02iuYtobN4re78wVwTcm28UnmVyenHZjSySSPjpdKNxdexoFeZxGD3mcXofCYUyHUMl): 
@@ -216,10 +244,10 @@ timeline:
         sort: "2026-09-28"
         image: assets/img/timeline/2026-09-28.jpg
         pictures:
-          - ["2026-09-28-1.jpg", ""]
-          - ["2026-09-28-2.jpg", ""]
-          - ["2026-09-28-3.jpg", ""]
-          - ["2026-09-28-4.jpg", ""]
+          - ["2026-09-28-1.jpg", "Rusové vybombardovali další sklad potravin."]
+          - ["2026-09-28-2.jpg", "Rusové u Narvy."]
+          - ["2026-09-28-3.jpg", "Když propagandisti dostanou nové noty."]
+          - ["2026-09-28-4.jpg", "PVO."]
         podcast: "2026-09-28.mp3"
         desc: |
           Rusko dnes nebombardovalo Kyjev v noci, kdy aspoň může předstírat, že jde o úder na cíle skryté ve tmě, ale bušilo do centra hlavního města za bílého dne, devět hodin v kuse, uprostřed pracovního týdne. Dron zasáhl hlavní budovu Národní akademie věd Ukrajiny ve Volodymyrské ulici a lidé z ní před požárem utíkali okny. Zemřela Natalia, asistentka šestaosmdesátiletého Volodymyra Horbulina, bývalého tajemníka Rady národní bezpečnosti a obrany a architekta ukrajinského raketového a kosmického programu. Dron dopadl do místnosti o podlaží výš nad jeho kanceláří a sám Horbulin vyvázl s lehkými zraněními od střepů. Jiný dron zasáhl a zapálil vyšší podlaží soukromé kliniky Dobrobut, kde se v tu dobu léčili i dětští pacienti. Zasažena byla také budova ministerstva školství a vědy, objekty Ukrtelecomu a státních železnic, farmaceutický podnik, čerpací stanice, šestnáctipodlažní panelák na Podolu a historický dům. Mezi zraněnými jsou opět i tři děti. Peskov k tomu na briefingu poznamenal, že Ukrajina „zaplatí cenu za činy, které se staly v posledních měsících" a ruská armáda zasahuje cíle, které „považuje za vhodné" - zjevně tím myslí vědeckou akademii a nemocnici. Ve stejný den vyšlo najevo, že Trump opět žádá Zelenského, aby polevil v úderech na ruské rafinerie, protože mu kvůli nim roste cena dieselu. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02PbVTKoAPfCC3cVJmkZbcCptzHxFoVUNwe34Pe4jNw1t5j5X6dbdeNg3VrMNDMo3Nl):
@@ -254,10 +282,10 @@ timeline:
         sort: "2026-09-27"
         image: assets/img/timeline/2026-09-27.jpg
         pictures:
-          - ["2026-09-27-1.jpg", ""]
-          - ["2026-09-27-2.jpg", ""]
-          - ["2026-09-27-3.jpg", ""]
-          - ["2026-09-27-4.jpg", ""]
+          - ["2026-09-27-1.jpg", "Sumy."]
+          - ["2026-09-27-2.jpg", "Pětice zadržených v Británii."]
+          - ["2026-09-27-3.jpg", "Zaměřování Gradu."]
+          - ["2026-09-27-4.jpg", "Rusové informují o ukrajinském postupu."]
         podcast: "2026-09-27.mp3"
         desc: |
           Rusko se teď systematicky snaží Ukrajinu odříznout od internetu. Ruské drony dvakrát zasáhly datové centrum v Kyjevě, poškozena je i hlavní kancelář Kyivstaru, největšího mobilního operátora v zemi. Podle Zelenského si nálety vyžádaly tři raněné, z toho dvě děti. Ruské ministerstvo obrany se pochlubilo, že šlo o datové centrum konkurenčního Vodafonu, které „zabezpečuje přenos zpravodajských dat pro ZSU“. V praxi to znamená, že bez mobilních a datových služeb zůstalo asi sto tisíc domácností v Kyjevě a okolí a několik televizních kanálů přestalo vysílat. Celkem Rusko od šesti hodin večer v sobotu vypustilo 170 útočných dronů, z toho 76 proudových Shahedů, k nim také Gerbery a makety Parodije. Protivzdušná obrana sestřelila nebo potlačila 147 z nich. Zaznamenaných je 18 míst, kam dopadly drony nebo jejich trosky. Za celý den zabily ruské útoky na Ukrajině 14 lidí a 57 jich zranily. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid032CY1cRa3KpAWJSxvLF6TULec9npvB1GDgxhLmzwUPDD1zMTcUd7hHoM2y6ZkUtV1l):
@@ -287,10 +315,10 @@ timeline:
         sort: "2026-09-26"
         image: assets/img/timeline/2026-09-26.jpg
         pictures:
-          - ["2026-09-26-1.jpg", ""]
-          - ["2026-09-26-2.jpg", ""]
-          - ["2026-09-26-3.jpg", ""]
-          - ["2026-09-26-4.jpg", ""]
+          - ["2026-09-26-1.jpg", "V ukrajinském supermarketu."]
+          - ["2026-09-26-2.jpg", "Mínus ruské rafinérky."]
+          - ["2026-09-26-3.jpg", "Mínus ruské rafinérky."]
+          - ["2026-09-26-4.jpg", "'Zelení mužíčci' na Donbasu 2014."]
         podcast: "2026-09-26.mp3"
         desc: |
           Rusko druhý den v řadě zasahuje Kyjev prakticky bez přestávky a tentokrát skutečně nejde o „náhodné zásahy civilní zástavby“, kterými Moskva obvykle své nálety vysvětluje. Terčem byla ukrajinská schopnost být online. Za poslední čtyři dny dostala zásah datová centra Cosmonova, Datagroup a MiroHost i infrastruktura providera UTELS, přičemž Cosmonova přišla o provoz po druhém zásahu ve dvou dnech. Bez signálu se ocitlo asi sto tisíc domácností v Kyjevě a okolí, vysílání přerušily televize Novyny.Live a Armiia TV a veřejnoprávnímu Suspilne přestaly fungovat videopřehrávače. Ruské ministerstvo obrany se zásahem datového centra obsluhujícího mobilní internet a Starlink nakonec samo pochlubilo. Rusko v noci vypustilo 173 dronů typu Shahed, z toho padesát v proudové verzi, protivzdušná obrana jich sestřelila 134 a zásahy hlásí devatenáct míst. Ukrajina odpověděla ve stejné logice, jen o tisíc kilometrů jinam: krátce po půlnoci zasáhly drony Iljskou rafinerii v Severském rajónu Krasnodarského kraje, asi třicet kilometrů od Krasnodaru a čtyři sta kilometrů od míst odpalu. Tato rafinerie s roční kapacitou 6,6 milionu tun ropy dodává palivo jižnímu vojenskému okruhu i okupovaným ukrajinským územím a hořela už 8. srpna. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0qitcHXqydUsjNimAtafv1ZHntFWw5MHtSF9oB1YhBTv4daLTLkVRJgKEn6uR7zNal):
@@ -667,6 +695,11 @@ timeline:
         year: "15. září 2026"
         sort: "2026-09-15"
         image: assets/img/timeline/2026-09-15.jpg
+        pictures:
+          - ["2026-09-15-1.jpg", ""]
+          - ["2026-09-15-2.jpg", ""]
+          - ["2026-09-15-3.jpg", ""]
+          - ["2026-09-15-4.jpg", ""]
         podcast: "2026-09-15.mp3"
         desc: |
           Ani patolízalství vůči Rusku, které soustavně předvádí Trumpovo nejbližší okolí, očividně Rusům nestačí. Sergej Lavrov totiž nově prohlásil, že za prodlužování války můžou …Spojené státy. Kdyby prý Američané neustoupili od dohod, které dojednal s Trumpem Putin v Anchorage na Aljašce, žilo by se už rok bez války. A tak je to s Rusy pokaždé: podejte jim prst a utrhnou vám ruku, obě nohy, půlku zad, a nakonec vás obviní z toho, že jste fašisté a že jste si to beztak udělali sami, protože trpíte na rusofobii. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid05XHYoabsVFyLiF6hE3Wfz2AtAqbkZo7mcc3KNDaCFyUmar4m5qB1PxJ8CJx5F5vCl):
@@ -702,6 +735,11 @@ timeline:
         year: "14. září 2026"
         sort: "2026-09-14"
         image: assets/img/timeline/2026-09-14.jpg
+        pictures:
+          - ["2026-09-14-1.jpg", ""]
+          - ["2026-09-14-2.jpg", ""]
+          - ["2026-09-14-3.jpg", ""]
+          - ["2026-09-14-4.jpg", ""]
         podcast: "2026-09-14.mp3"
         desc: |
           Trump včera večer na své Truth Social oznámil, že se Ukrajina a Rusko dohodly, že si nebudou navzájem útočit na energetiku, a hned dodal, že za světový růst cen nafty může válka Ruska s Ukrajinou, ne Írán. Dohodu dosud nepotvrdila ani jedna ze zmíněných stran, nicméně Moskva si Trumpův výrok pochvalovala. Na dotaz novináře, zda Rusko skutečně má v úmyslu takové údery zastavit, Peskov odpověděl… že odpovídat nebude. Zelenskyj naopak pár hodin předtím řekl, že Ukrajina svým partnerům navrhla, aby s Ruskem dojednali zastavení úderů na kritickou infrastrukturu, tedy na energetiku, potravinové řetězce, logistiku a další zařízení nutná pro základní potřeby obyvatel. „Pokud naši partneři dokážou zajistit, že Rusko skutečně nemá v úmyslu útočit na naši rozvodnou síť, další energetická zařízení, kritickou infrastrukturu nebo potravinové řetězce, pak jsme samozřejmě připraveni takové údery neprovádět. Musí to být spolehlivé, dlouhodobé a mít reálný dopad na životy lidí, ne něco, co se rozpadne, jakmile si Rusové odbydou své ‚volby' a dostanou dočasnou úlevu na cenách benzinu a nafty," uvedl. Jinými slovy: Kyjev nabízí jasně podmíněné příměří a čeká na konkrétní záruky, idiot Trump si mezitím na síti sám odhlasoval hotovou dohodu. Americká válka s Íránem, která vyřadila část blízkovýchodních rafinérských kapacit a fakticky přiškrtila Hormuzský průliv, samozřejmě v jeho vysvětlení cen nafty nefiguruje. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02fagE4yi4Zqa7Z4D8i9eW4PMfnpvqoDcxuLdvCnDZ97C57zAmxB9aA7UeMu1Ry66wl):
@@ -728,6 +766,11 @@ timeline:
         year: "13. září 2026" 
         sort: "2026-09-13"
         image: assets/img/timeline/2026-09-13.jpg
+        pictures:
+          - ["2026-09-13-1.jpg", ""]
+          - ["2026-09-13-2.jpg", ""]
+          - ["2026-09-13-3.jpg", ""]
+          - ["2026-09-13-4.jpg", ""]
         podcast: "2026-09-13.mp3"
         desc: |
           Rusko v noci vyslalo na Ukrajinu 453 dronů – shahedy, gerbery, včetně proudových verzí, návnadové Parodije a raketové drony S8000 Banderol. Ukrajinská protivzdušná obrana jich sestřelila 405 a k tomu šest banderol, zásahy jsou hlášené ze třinácti míst a padající trosky ze sedmi dalších. Terčem byl tentokrát hlavně západ země. U hraničního přechodu Jahodyn–Dorohusk, což je kapacitně největší přechod na polské hranici, shořela čerpací stanice a od trosek začaly hořet i zaparkované kamiony. Další dron zasáhl lokomotivu osobního vlaku z Kyjeva do Varšavy dva kilometry od polské hranice. Ve vlaku bylo podle polských drah 208 lidí, nikdo ale naštěstí nebyl zraněn, protože monitorovací skupina posádku na hrozbu předem upozornila. Jen krátce předtím ze stanice odjel diplomatický vlak s Borisem Johnsonem, Carlem Bildtem a poradci pro národní bezpečnost z několika zemí EU, kteří se vraceli z bezpečnostní konference v Kyjevě. V Jahodyni v tu chvíli ještě stál vlak s bývalým ředitelem CIA Davidem Petraeusem. Ukrzaliznycja považuje za pravděpodobné, že skutečným cílem byl právě diplomatický vlak. Polsko během náletu vyslalo do vzduchu stíhací letouny a uvedlo do pohotovosti protivzdušnou obranu. Ukrajinský ministr zahraničí Andrij Sybiha vyzval partnery k plnému obchodnímu embargu a sankcím na ruský vojensko-průmyslový komplex. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02rePszctfpwWHL1Bqu49HW8Ej3ayFgUKm1YSef3HyWC4h2CWGt7rjyGo947mKk8wSl): 
@@ -762,6 +805,10 @@ timeline:
         year: "12. září 2026" 
         sort: "2026-09-12"
         image: assets/img/timeline/2026-09-12.jpg
+        pictures:
+          - ["2026-09-18-1.jpg", ""]
+          - ["2026-09-18-2.jpg", ""]
+          - ["2026-09-18-3.jpg", ""]
         podcast: "2026-09-12.mp3"
         desc: |
           Ukrajinské drony v noci letěly na dvě ruská města. V Taganrogu v Rostovské oblasti, hlásili obyvatelé sérii silných detonací. Podle portálu ASTRA stoupal kouř od vojenského letiště Taganrog-Centralnyj, kde sídlí 708. pluk vojenského dopravního letectva a v sousedství se nachází také 325. letecký opravárenský závod, který se stará mimo jiné o vzácné stroje A-50U a dopravní Il-76. Ze satelitních dat byl patrný požár v areálu taganrogské automobilky TagAZ, kde se vyrábí drony pro ruskou armádu. Druhým cílem noci bylo Toljatti v Samarské oblasti, zhruba 880 kilometrů od ukrajinské hranice, kde po náletu hořel chemický závod Kujbyševazot, jeden z klíčových podniků ruského dusíkatého průmyslu, který vyrábí čpavek, dusičnan amonný, močovinu a kaprolaktam a stojí zhruba za polovinou ruské produkce kaprolaktamu a třemi čtvrtinami kordových tkanin pro pneumatiky. Jeho produkty se používají také při výrobě tuhých raketových paliv pro taktické a balistické rakety. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid035VeHwvHRW5aQiBhcBtZMfCRiyvAB47hJeBq9HcrDth8PdwTPgpT9o5w8xnudRUXul):
@@ -794,6 +841,10 @@ timeline:
         year: "11. září 2026" 
         sort: "2026-09-11"
         image: assets/img/timeline/2026-09-11.jpg
+        pictures:
+          - ["2026-09-11-1.jpg", ""]
+          - ["2026-09-11-2.jpg", ""]
+          - ["2026-09-11-3.jpg", ""]
         podcast: "2026-09-11.mp3"
         desc: |
           Ukrajinské drony a rakety měly napilno v ruském týlu. V Saratově hořelo na dvou místech současně. Podle OSINT analýzy portálu ASTRA zasáhly drony rafinerii koncernu Rosněfť s roční kapacitou zhruba 4,8 milionu tun ropy, která funguje od roku 1934 a od začátku invaze ji Ukrajinci trefili nejméně šestnáctkrát (!!). Druhým cílem bylo logistické centrum e-shopu Ozon, firma pak zastavila příjem objednávek pro celou Saratovskou oblast a její akcie na moskevské burze spadly o pět procent. Nad Volgogradem podle výrobce Fire Point zaútočily rakety FP-5 Flamingo na vojensko-průmyslové cíle. Gubernátor Andrej Bočarov nicméně připustil jen poškození průmyslového objektu na jihu města padajícími troskami. Ukrajinské drony zaútočily na ruské rafinerie letos už nejméně sedmdesátkrát a zpracování ropy v Rusku kleslo na nejnižší úroveň za dvacet let. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0hKoeGvw8JwJYxm3MTu2Jmg2mzKGvTbiZhY8dbEgbbT9B8jsL5iHSJv3sJM7Smv5gl):
@@ -821,6 +872,10 @@ timeline:
         year: "10. září 2026" 
         sort: "2026-09-10"
         image: assets/img/timeline/2026-09-10.jpg
+        pictures:
+          - ["2026-09-18-1.jpg", ""]
+          - ["2026-09-18-2.jpg", ""]
+          - ["2026-09-18-3.jpg", ""]
         podcast: "2026-09-10.mp3"
         desc: |
           Generální štáb potvrdil, že ukrajinské údery na Novorossijsk z 9. září zasáhly nejméně tři ruské válečné lodě: fregatu Admirál Essen, velkou výsadkovou loď Petr Morgunov a malou námořní minolovku Železňakov. Fregata, která nosí řízené střely Kalibr, dostala podle ukrajinského námořnictva zásah protilodní střelou komplexu Neptun a na můstku po úderu hořelo. Kromě lodí byly zasaženy také tamější sklady mazutu. Operaci vedlo oddělení aktivních operací rozvědky HUR společně s dalšími složkami obranných sil. Rozsah poškození plavidel štáb zatím neupřesnil. Během dne se ale objevily první satelitní snímky, které údery dokazují. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid023QRP4wnebyUxDis3pF4pNupqxVCyTcMW8KVuqGQWiy5B7pdFZZsoeYfQAdQ49ujPl): 
@@ -853,6 +908,11 @@ timeline:
         year: "9. září 2026" 
         sort: "2026-09-09"
         image: assets/img/timeline/2026-09-09.jpg
+        pictures:
+          - ["2026-09-09-1.jpg", ""]
+          - ["2026-09-09-2.jpg", ""]
+          - ["2026-09-09-3.jpg", ""]
+          - ["2026-09-09-4.jpg", ""]
         podcast: "2026-09-09.mp3"
         desc: |
           Rusko útočí na Ukrajinu třetí noc v řadě a mění cíle. Podle vzdušných sil vypustilo přes noc 196 dronů typu Šáhid včetně proudových, k tomu balistické rakety Iskander-M z okupovaného Krymu a řízené střely Banderol S8000 od Azovského moře. Protivzdušná obrana sestřelila nebo potlačila 165 dronů, zásahy jsou hlášené z 23 míst a na čtyřech dalších dopadly trosky. Za poslední den zabily ruské útoky na Ukrajině nejméně dvanáct lidí a šestašedesát jich zranily. V kyjevské čtvrti Darnyckyj zasáhl ranní úder jednadvacetipatrový obytný dům, pět lidí skončilo se zraněními. Zelenskyj si postěžoval na slabou reakci v zahraničí: Moskva podle něj nesmí jít do zimy s pocitem, že jí raketový a dronový teror projde bez následků. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02W1tQp1pMQu1S7E8N1Atb95cJNrUs7c7jbk2ZmF9eRJFpNKc46kMMDMmw6Co4feZBl):
@@ -884,6 +944,17 @@ timeline:
         year: "8. září 2026" 
         sort: "2026-09-08"
         image: assets/img/timeline/2026-09-08.jpg
+        pictures:
+          - ["2026-09-08-1.jpg", ""]
+          - ["2026-09-08-2.jpg", ""]
+          - ["2026-09-08-3.jpg", ""]
+          - ["2026-09-08-4.jpg", ""]
+          - ["2026-09-08-5.jpg", ""]
+          - ["2026-09-08-6.jpg", ""]
+          - ["2026-09-08-7.jpg", ""]
+          - ["2026-09-08-8.jpg", ""]
+          - ["2026-09-08-9.jpg", ""]
+          - ["2026-09-08-10.jpg", ""]
         podcast: "2026-09-08.mp3"
         desc: |
           Rusko v noci ukončilo krátké „příměří“, které vyhlásilo na dobu návštěvy amerických vyslanců, a udeřilo na Kyjev kombinovaným úderem. Podle ukrajinského letectva Rusko vyslalo protilodní střely Oniks, balistické rakety Iskander-M, S-400 a KN-23, 32 řízených střel Ch-101 a 166 dronů typu Šahed, z nichž víc než polovina byla proudová. Obrana zničila nebo potlačila 175 vzdušných cílů, konkrétně dvě balistické rakety, 31 řízených střel a 142 dronů, zásahy jsou hlášeny z 29 míst. Hlavními cíli byly Kyjev a Oděská oblast, útok zasáhl i Záporožskou a Dněpropetrovskou oblast. V Kyjevě zahynuli dva lidé a počet zraněných se během dne postupně upřesňoval z deseti na šestnáct, hořel sklad i vzdělávací zařízení a poškozeny jsou nejméně dva vícepodlažní obytné domy. Mezi cíli náletu byly skladiště farmaceutické společnosti, supermarket Varus nebo studio televizního kanálu „My jsme Ukrajina“, kam dopadly dva projektily, a to přímo během živého vysílání. Budova byla částečně zničena a nejméně pět lidí bylo zraněno. Ruské ministerstvo obrany nicméně už tradičně mluví o masivním úderu na zbrojní podniky, dopravní a logistické uzly, na přístavní infrastrukturu v Čornomorsku v Oděské oblasti a na tanker s palivem a mazivy pro ukrajinskou armádu. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02CopEVN1qMykTt24EEVyErZzoqTnCtMTLA24UiFtxp4PYhmJJ8GtuY9ZsCKn5NKspl):
@@ -918,6 +989,11 @@ timeline:
         year: "7. září 2026" 
         sort: "2026-09-07"
         image: assets/img/timeline/2026-09-07.jpg
+        pictures:
+          - ["2026-09-07-1.jpg", ""]
+          - ["2026-09-07-2.jpg", ""]
+          - ["2026-09-07-3.jpg", ""]
+          - ["2026-09-07-4.jpg", ""]
         podcast: "2026-09-07.mp3"
         desc: |
           Ukrajinské dálkové údery se opět rozběhly hned po odjezdu amerických vyjednavačů z Kyjeva. Zelenskyj ráno oznámil, že cílem byly rafinerie v Permském kraji a Tatarstánu. V Permu, přes tisíc kilometrů od ukrajinských hranic, podle monitorovacího kanálu Supernova+ dostal zásah Lukoil-Permnefteorgsintez, jedna z deseti největších ruských rafinerií a po Nižním Novgorodu druhá největší v portfoliu Lukoilu. V roce 2024 zpracovala 12,6 milionu tun ropy, z toho dva miliony tun benzinu a 5,3 milionu tun nafty. Druhým cílem byla už poněkolikáté rafinerie TANECO v Nižněkamsku v Tatarstánu, jedna z nejmodernějších ruských rafinerií vůbec. Obě zařízení dohromady zpracují kolem 29 milionů tun ropy ročně. Poplach kvůli dronům vyhlásily úřady také v Baškortostánu a Udmurtii, v Čuvašsku je poškozený telekomunikační stožár. Ruské ministerstvo obrany tvrdí, že přes noc sestřelilo 306 ukrajinských dronů. Třídenní pauza, kterou Putin nařídil pro údery na Kyjev a Zelenskyj pro údery na Moskvu, se totiž týkala hlavních měst, ne rafinerií nebo jiných cílů. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02dR5gvo1LPBKFhaabQJbRBVoQhDexwYHRdkfWzCxu1G9ZJN9XACZo6wje3Fyn6WBvl):
@@ -946,6 +1022,11 @@ timeline:
         year: "6. září 2026" 
         sort: "2026-09-06"
         image: assets/img/timeline/2026-09-06.jpg
+        pictures:
+          - ["2026-09-21-1.jpg", ""]
+          - ["2026-09-21-2.jpg", ""]
+          - ["2026-09-21-3.jpg", ""]
+          - ["2026-09-21-4.jpg", ""]
         podcast: "2026-09-06.mp3"
         desc: |
           Do Kyjeva dnes míří Steve Witkoff a Jared Kushner, poprvé od začátku velké invaze. Přijíždějí z Moskvy, kde s Putinem jednali přes tři hodiny za zavřenými dveřmi a pak s ním večeřeli. Putinův poradce Jurij Ušakov mluvil o konstruktivním, otevřeném a užitečném jednání, konkrétní výsledky ale nezmínil a dodal, že se podrobně probíraly i ekonomické otázky a možné velké společné rusko-americké projekty. Trump před odletem řekl, že jeho vyjednavači vezou návrh na ukončení války. Putin nařídil třídenní pauzu v úderech na Kyjev od sobotní půlnoci, Zelenskyj slíbil, že Ukrajina do pondělí nezaútočí na Moskvu. Putin podle Ušakova informoval Američany, že situace na frontě se vyvíjí dobře, a že cíle „SVO“ budou dosaženy. Zároveň na ně ale opět apeloval, že je třeba odstranit „kořeny konfliktu“. Witkoff je naopak zachycen na kamerách, jak říká Putinovi: „V první řadě, pane prezidente Putine, moc vám děkujeme za pozvání. Až odejdeme do důchodu, budeme mít spoustu úžasných příběhů a vzpomínek, a ty s vámi budou mezi nimi na samém vrcholu.“ A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0YHbNmUjDG3hKbSN1VR1N5UTocQR8HYSDxAvfhnDxvdAjn79Wrtun27pGpsPiLy9Zl):
@@ -975,6 +1056,11 @@ timeline:
         year: "5. září 2026" 
         sort: "2026-09-05"
         image: assets/img/timeline/2026-09-05.jpg
+        pictures:
+          - ["2026-09-05-1.jpg", ""]
+          - ["2026-09-05-2.jpg", ""]
+          - ["2026-09-05-3.jpg", ""]
+          - ["2026-09-05-4.jpg", ""]
         podcast: "2026-09-05.mp3"
         desc: |
           Ukrajina od půlnoci nestřílí, Rusko ano. Ukrajinské jednotky dostaly rozkaz zastavit bojovou činnost od půlnoci 5. září do konce dne 8. září, tedy po dobu, kdy do Moskvy a Kyjeva míří Trumpovi vyslanci Steve Witkoff a Jared Kushner s návrhy na ukončení války. Zelenskyj den předtím potvrdil, že vyslanci do Kyjeva dorazí v neděli, a že Spojeným státům slíbil, že kvůli bezpečnosti amerických vyjednavačů nebude Ukrajina po dobu jejich pobytu podnikat vzdušné údery na Rusko. Vyzval Moskvu, aby udělala totéž. Odpověď z Kremlu přišla během několika hodin. Od šesté večerní pálilo Rusko balistické rakety Iskander-M/KN-23 z Rostovské a Voroněžské oblasti a vyslalo také 167 dronů, z nichž zhruba polovina byla proudová, dále Gerbery a návnady typu Parodija. Do půl deváté ráno protivzdušná obrana sestřelila nebo potlačila 128 dronů, zásahy jsou hlášené ze třiadvaceti míst. Nejhůř dopadlo Kamjanske v Dněpropetrovské oblasti, kde jsou po náletu čtyři mrtví a pět zraněných včetně mladé ženy, která skončila na jednotce intenzivní péče. Rusové zasáhli také dvě letiště u Kyjeva – pravděpodobně proto, že Američané se plánovali do Kyjeva dopravit letecky. Ruské ministerstvo obrany údery potvrdilo. Kyjev mezitím skutečně nezaútočil na žádný cíl v Rusku, nicméně ukrajinská strana údajně v reakci na ruské nálety navrhované příměří dnes ráno zrušila. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02DWf9MTNF3zqejAA8a4BeZsLMiVX12ZaYUcTSd84VBYqU7xsuZqqcUWaGPWi4PxGxl):
