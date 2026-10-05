@@ -38,6 +38,36 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "5. října 2026"
+        sort: "2026-10-05"
+        image: assets/img/timeline/2026-10-05.jpg
+        podcast: "2026-10-05.mp3"
+        desc: |
+          Zatímco se ve světových metropolích pořád řeší, jaký formát mírových jednání by Putinovi asi nejvíc vyhovoval, Rusko devastovalo Charkov. Město dostalo za jediný den dva velké zásahy. V noci na něj dopadly tryskové drony Banderol v klasickém „double-tap“ útoku, kdy druhý úder míří tam, kde už se shromáždili lidé a hasiči. Po útoku zůstal jeden mrtvý a osm zraněných, poškozeno bylo nejméně deset vícepodlažních domů, hořela administrativní budova a auta. Odpoledne kolem 14:40 přišly tři řízené letecké bomby na Slobidský okres, kde zasáhly pětipatrový obytný dům, firmu DBN, která vyrábí sádrokartonové panely na obnovu zničených budov, a krejčovskou dílnu. Podle šéfa Charkovské oblastní správy Oleha Syněhubova si odpolední nálet vyžádal šest mrtvých a devětapadesát zraněných, mezi nimi tři děti. Jedenáctiletá dívka je v těžkém stavu. Mluvčí záchranářů Jevhen Vasylenko oznámil, že dva lidi vytáhli živé zpod trosek. Starosta Ihor Terechov ale varoval, že pod sutinami mohou být další. Sluší se připomenout, že Putin a jeho propaganda považují Charkov za „ruské město“. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0fHmBPNXycL73msrf1aESBFLsgwMtk6dxQB3882DmBrwryQj453eMui69fXqGvZVJl):
+        detail: |
+          - Ukrajinské údery dronů vyřadily už víc než 51 procent ruské kapacity na zpracování ropy. V polovině září to bylo 45 procent. Ministr obrany Jevhen Chmara to označil za významnou ránu nepřátelské ekonomice a její schopnosti vést agresi a zásobovat vojenské útvary. Podle Mezinárodní energetické agentury klesla ruská produkce v červnu na 3,8 milionu barelů denně, což je nejméně za dvacet let, a do poloviny září bylo potvrzeno 204 úderů na 28 velkých rafinerií. Opravy sekundárních jednotek trvají šest až osm měsíců. Moskevská rafinerie s kapacitou 250 tisíc barelů denně má být mimo provoz do začátku roku 2027. Ukrajina navíc letos ztrojnásobila výrobu a nákupy dronů dlouhého doletu. Putin 28. září podepsal výnos, který omezuje zveřejňování dat o stavu rafinerií.
+          - V noci Rusko vypustilo na Ukrajinu víc než 205 úderných dronů. Protivzdušná obrana do osmé hodiny ráno sestřelila nebo potlačila 172 z nich, zásahy byly zaznamenány na třinácti místech a trosky dopadly na dalších třech. V Sumské oblasti si 45 úderů na 21 obcí vyžádalo jednoho mrtvého a několik zraněných, v Mykolajivu poškodila střela Banderol sklady a vozidla a zranila jednoho člověka, v Dnipropetrovské oblasti si téměř padesát dronových a dělostřeleckých úderů ve třech okresech vyžádalo jednoho mrtvého a jednoho zraněného. Ve Slovjansku zabily tři letecké údery jednoho člověka a tři zranily, včetně dítěte.
+          - Ruské drony zaútočily v Černém moři na nákladní loď Royad Mammadov plující pod vlajkou Svatého Kryštofa a Nevisu, kterou vlastní turecká společnost MG Shipping 5. Vezla kukuřici z ukrajinského Izmajilu do italské Ravenny a zasažena byla v rumunské výlučné ekonomické zóně, asi devět námořních mil od plošiny Pescăruș a dvacet mil od rumunského pobřeží. Zahynul kapitán a další člen posádky. Tři lidé byli zraněni. Jeden námořník je pohřešovaný a jedenáct se podařilo zachránit. Posádku tvořili občané Ázerbájdžánu a Indie. Loď po úderu hořela a potopila se. 
+          - Vrchní velitel ukrajinských ozbrojených sil Mychajlo Drapatyj, který je ve funkci od července, decentralizuje velení na frontě. Vzniklo šest operačních uskupení, z toho dvě nová: Centr pod velením Andrije Bileckého a Azov pod velením Denyse Prokopenka. Obě dostala nejtěžší úseky v Doněcké oblasti včetně Kramatorsku a Dobropillji. Několik desítek vyšších důstojníků, mezi nimi plukovníky a brigádní generály, poslal Drapatyj do zálohy, zpět do služby naopak vrátil Serhije Sobka a Emila Iškulova. 
+          - Německo podepsalo patnáct dohod s Ukrajinou v hodnotě přes 8,5 miliardy eur, mimo jiné o protidronových řešeních, zvýšené výrobě raket pro systémy Patriot a FREYJA, radarech a pozemních bezpilotních systémech. Balíček má hodnotu přes 1,3 miliardy eur. Ministr energetiky Denys Šmyhal uvedl, že Německo dá více než 557 milionů eur do Ukrajinského fondu na podporu energetiky a dalších 50 milionů půjde na obnovu Nového bezpečného konfinementu v Černobylu.
+          - Při havárii ruského bombardéru Tu-95MS z 29. září u obce Krasnojarovo v Amurské oblasti zahynulo osm důstojníků a tři z nich jsou vedeni v ukrajinské databázi Kniha katů, protože se podíleli na organizaci raketových úderů na Ukrajinu. Jde o Andreje Lobanova, Fjodora Pavljukova a Andreje Gerasimova. Totožnost potvrdila Mediazona. Letadlo spadlo při cvičném letu ze základny Ukrajinka.
+          - Estonsko trvale přesouvá hlavní jednotky své 1. mechanizované brigády z Tapy do Jõhvi, tedy asi padesát kilometrů od ruské hranice místo dosavadních sto třiceti. V Narvě se zároveň staví nová vojenská základna s kapacitou do tisíce vojáků – v míru dvě stě a za války dalších osm set.
+          - Satelitní snímky letiště Chanskaja v ruském Adygejsku ukázaly dvě zcela vyhořelá letadlová stání po nočním úderu dronů. Podle SBU byly zasaženy stroje Su-35 a Su-34 a muniční sklad leteckých zbraní. Na téže základně Rusko cvičí vojenské piloty.
+          - Ukrajinské drony dopravily do okupovaných Olešek asi čtyři tuny humanitární pomoci, tedy přibližně čtyři stovky balíčků s jídlem, léky a potřebami pro děti. V Oleškách zůstává přes šest tisíc obyvatel, z toho asi dvě stě dětí.
+          - Putin povolil italské skupině UniCredit reorganizaci a prodej ruské dceřiné společnosti. Kupcem UniCredit Bank Russia má být soukromý investor ze Spojených arabských emirátů. Platební divizi si banka ponechá.
+          - Ukrajinská armáda má „Bolívarův prapor“, který vede uprchlý venezuelský vojenský důstojník, plukovník Jose David Chaparro. Tvoří ho asi dvě stě padesát vojáků převážně z Kolumbie, Chile a Venezuely.
+          - U hraničního přechodu Palanca v moldavském okrese Ștefan Vodă se po dopadu odrazil ruský projektil a zasáhl civilní autobus. Zraněn byl moldavský pohraničník.
+          - Zelenskyj po telefonátu s Emmanuelem Macronem oznámil, že ukrajinští piloti brzy začnou výcvik na francouzských stíhačkách Rafale. 
+          - Ukrajinské vzdušné síly poprvé sestřelily tryskové drony automatickými kulometnými věžemi s umělou inteligencí. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1012818947229862344)
+          - [Ruský dron a ukrajinský balón](https://pixelfed.cz/p/dnesnaukrajine/1012817870275099063)
+          - [Mínus Gvozdika](https://pixelfed.cz/p/dnesnaukrajine/1012817919425694136)
+          - [Akce v zákopech](https://pixelfed.cz/p/dnesnaukrajine/1012818065167595966)
+          - [Mínus](https://pixelfed.cz/p/dnesnaukrajine/1012818104919792063)
+          - [Ruská helikoptéra honí dron](https://pixelfed.cz/p/dnesnaukrajine/1012818166055426496)
+          - [Automatická věž](https://pixelfed.cz/p/dnesnaukrajine/1012818208755980737)
       - title: "Neděle"
         year: "4. října 2026"
         sort: "2026-10-04"
