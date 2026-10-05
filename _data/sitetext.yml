@@ -41,6 +41,11 @@ timeline:
       - title: "Pondělí"
         year: "5. října 2026"
         sort: "2026-10-05"
+        pictures:
+          - ["2026-10-05-1.jpg", "Sumy, výrobce léků."]
+          - ["2026-10-05-2.jpg", "Momentka."]
+          - ["2026-10-05-3.jpg", "Potopená loď."]
+          - ["2026-10-05-4.jpg", "Jak se vracejí Ukrajinci ze zajetí."]
         image: assets/img/timeline/2026-10-05.jpg
         podcast: "2026-10-05.mp3"
         desc: |
