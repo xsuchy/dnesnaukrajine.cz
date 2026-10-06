@@ -23,6 +23,110 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Tuesday
+    year: October 6, 2026
+    sort: '2026-10-06'
+    image: assets/img/timeline/2026-10-06.jpg
+    podcast: 2026-10-06.mp3
+    desc: 'Last night, Moscow got its first real taste of the war it has been waging
+      for four years now, and discovered that jet fuel burns just as well in the Ramenskoye
+      District as it does in Kharkiv. Mayor Sergey Sobyanin counted 650 Ukrainian
+      drones over the Moscow region. Russian state media called it the largest drone
+      attack on the Moscow region in two years. The main target was the Volodarskaya
+      pumping station near the village of Konstantinovo, about forty kilometers from
+      the center of Moscow, which is operated by the state-owned company Transnefteprodukt.
+      It is the largest oil storage facility in the region, handling up to three million
+      metric tons of petroleum products annually; it has 27 tanks with a total capacity
+      of around 250,000 cubic meters and supplies jet fuel via pipeline to Vnukovo,
+      Domodedovo, and Sheremetyevo airports. According to the independent Russian
+      channel ASTRA and geolocated footage, two tanks were on fire. Rosaviatsiya suspended
+      operations at four airports, including Zhukovsky. No Russian official has admitted
+      to the attack on the oil depot, and Ukraine has not yet officially confirmed
+      it; however, the photos and videos do not lie. Vorobyov only acknowledged two
+      deaths, six injuries, and damage to homes in several villages. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02EfQJDTTU2jiYk32vAZzeG8RPVQXf8V5joRsrAPgyvGS47nwsJbknatEn8tM9LCYLl)
+      also happened:
+
+      '
+    detail: "- In Bulgaria’s exclusive economic zone, maritime and aerial drones attacked\
+      \ two commercial vessels about eighty miles off the coast of Bjala in the Varna\
+      \ region. The Togolese-flagged cargo ship ALFA WATAN, sailing from Turkey to\
+      \ Romania, sank, while the Palauan-flagged motor vessel ABLE caught fire; its\
+      \ entire crew of 18 was rescued by the Bulgarian ferry DIOSCURIA. The vessel\
+      \ MERCY, flying the flag of Saint Kitts and Nevis, also participated in the\
+      \ rescue. The sailors include Turks and Indians; two of them have burns and\
+      \ head injuries. Prime Minister Rumen Radev convened an emergency meeting with\
+      \ representatives from four ministries, the Office of the President, and the\
+      \ security services, and described the attack as absolutely unacceptable and\
+      \ a flagrant violation of international and maritime law. For Bulgaria, this\
+      \ is the first attack of this kind in its economic zone. This is already the\
+      \ third civilian vessel struck in two days; according to Russian media outlets,\
+      \ all of them had previously been sailing to Ukrainian ports on the Danube.\n\
+      - Ukraine has put Turkish Korkut self-propelled anti-aircraft guns—a more modern\
+      \ version of the German Gepard—into service. The battery consists of a command\
+      \ vehicle and three units, each equipped with a pair of radar-guided 35-millimeter\
+      \ cannons, and costs around $37 million. In September, Ukrainian air defenses\
+      \ shot down 90 percent of the slower Geran-2 propeller-driven drones, but only\
+      \ 55 percent of the jet-powered Geran-4 and Geran-5 drones, which fly at around\
+      \ 600 kilometers per hour. The Korkuts could change these statistics. \n- South\
+      \ Korean ports shipped over 176,000 metric tons of fuel, mostly diesel, to Russia\
+      \ in July and August. Seven Russian tankers made fourteen voyages there; three\
+      \ of them are on the sanctions lists of the United Kingdom and the European\
+      \ Union, and part of the cargo was transferred from ship to ship directly at\
+      \ sea. This does not violate South Korean law; export restrictions cover electronics,\
+      \ machinery, and vehicles, but not fuel. The Foreign Ministry in Seoul stated\
+      \ that “the country remains a responsible member of the international community.”\n\
+      - In Kramatorsk, Russian FPV drones struck three ambulances within 25 minutes\
+      \ last night. A residential building was also hit; a 49-year-old woman was killed,\
+      \ and a 68-year-old woman suffered a broken leg and shrapnel wounds. Three paramedics\
+      \ suffered blast injuries, shrapnel wounds, burns, and other injuries. The Donetsk\
+      \ Regional Prosecutor’s Office has opened an investigation into war crimes related\
+      \ to both incidents and has characterized the attacks on the ambulances as targeted.\n\
+      - The Ukrainian SBU detained a man in Kyiv suspected of setting up radio relay\
+      \ stations for Russian drones. According to investigators, between September\
+      \ 21 and 24, he collected data on defense facilities and critical infrastructure\
+      \ and, over the course of four days, guided Geran-5 jet drones and ballistic\
+      \ missiles toward Kyiv. He used mesh radio networks, which allow for real-time\
+      \ signal sharing between a drone in the air and a ground-based relay station.\
+      \ He is suspected of collaborating with the FSB.\n- The Lithuanian parliament\
+      \ approved, on first reading, a constitutional amendment that would repeal Article\
+      \ 137, which prohibits weapons of mass destruction and foreign military bases\
+      \ on Lithuanian territory. 106 lawmakers voted in favor, 18 against, and six\
+      \ abstained. The Kremlin has already warned that it will respond.\n- Russia\
+      \ launched 137 attack drones overnight. Air defenses shot down or intercepted\
+      \ 114 drones; strikes were reported in 17 locations, and debris fell in four\
+      \ others. Over the past day, Russian attacks in Ukraine have killed at least\
+      \ 13 people and injured 104.\n- In Zaporizhzhia, a Russian drone struck one\
+      \ of the bridges over the Dnieper River. A crater was left in the roadway, a\
+      \ civilian car caught fire, and traffic across the bridge had to be rerouted.\
+      \ Five people were injured, including two Red Cross workers, aged 43 and 54,\
+      \ who were driving across the bridge on their way to work.\n- Ukrainian forces\
+      \ have begun deploying automated, remote-controlled turrets equipped with M2\
+      \ Browning machine guns around major cities to counter low-flying Russian drones.\
+      \ The system is called Sky Sentinels and is being tested in combat near Kharkiv.\n\
+      - Seoul considers Ukraine's apology for publicizing the transfer of two North\
+      \ Korean prisoners to be insufficient and is considering recalling its ambassador\
+      \ from Kyiv.\n- The Omega Telekom data center in Kyiv suspended operations following\
+      \ overnight attacks and is rerouting communication channels to backup centers.\
+      \ \n- In Kryvyi Rih, Banderol missiles struck a hospital in the city center.\
+      \ Four people were injured, two of whom are medical personnel.\n- Germany has\
+      \ detained former intelligence chief Hanning on suspicion of spying for foreign\
+      \ powers. \n- U.S. Secretary of State Marco Rubio said that Washington has no\
+      \ plans to withdraw diplomats from Kyiv.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1013072144149349212)
+
+      - [Bridge in Kyiv](https://pixelfed.cz/p/dnesnaukrajine/1013068917552968464)
+
+      - [Volodarskaya](https://pixelfed.cz/p/dnesnaukrajine/1013068953332118289)
+
+      - [Ibid.](https://pixelfed.cz/p/dnesnaukrajine/1013069001596027666)
+
+      - [Minus the Russian drone operators ](https://pixelfed.cz/p/dnesnaukrajine/1013069037526983443)
+
+      - [That didn''t work out](https://pixelfed.cz/p/dnesnaukrajine/1013069085719048980)
+
+      - [Lancet got caught in the net](https://pixelfed.cz/p/dnesnaukrajine/1013069132406448917)
+
+      '
   - title: Monday
     year: October 5, 2026
     sort: '2026-10-05'

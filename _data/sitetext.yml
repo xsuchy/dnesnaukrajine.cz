@@ -38,6 +38,36 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "6. října 2026"
+        sort: "2026-10-06"
+        image: assets/img/timeline/2026-10-06.jpg
+        podcast: "2026-10-06.mp3"
+        desc: |
+          Moskva si v noci poprvé pořádně přičichla k válce, kterou sama čtvrtý rok vede, a zjistila, že letecké palivo hoří stejně dobře v Ramenském rajónu jako v Charkově. Starosta Sergej Sobjanin napočítal nad moskevským regionem 650 ukrajinských dronů. Ruská státní média to označila za největší dronový nálet na Moskevskou oblast za celé dva roky. Hlavním cílem byla přečerpávací stanice Volodarskaja u obce Konstantinovo, nějakých čtyřicet kilometrů od centra Moskvy, kterou provozuje státní Transnefteprodukt. Je to největší ropný sklad v regionu, projde jím až tři miliony tun ropných produktů ročně, má 27 nádrží o objemu kolem 250 tisíc kubíků a potrubím zásobuje leteckým palivem Vnukovo, Domodědovo i Šeremeťjevo. Podle ruského nezávislého kanálu ASTRA a geolokovaných záběrů hořely dvě nádrže. Rosaviacija zavřela provoz na čtyřech letištích včetně Žukovského. Zásah ropné báze nikdo z ruských představitelů nepřiznal a Ukrajina ho zatím oficiálně nepotvrdila, nicméně fotky a videa nelžou. Vorobjov pouze připustil dva mrtvé, šest zraněných a poškozené domy v několika obcích. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02EfQJDTTU2jiYk32vAZzeG8RPVQXf8V5joRsrAPgyvGS47nwsJbknatEn8tM9LCYLl):
+        detail: |
+          - V bulharské výlučné ekonomické zóně napadly námořní a vzdušné drony dvě obchodní plavidla, asi osmdesát mil od pobřeží Bjaly ve Varnenské oblasti. Nákladní loď ALFA WATAN pod vlajkou Toga plující z Turecka do Rumunska se potopila, motorová loď ABLE pod vlajkou Palau začala hořet a celou její osmnáctičlennou posádku zachránil bulharský trajekt DIOSCURIA. Na záchraně se podílelo i plavidlo MERCY pod vlajkou Svatého Kryštofa a Nevisu. Mezi námořníky jsou Turci a Indové, dva z nich mají popáleniny a poranění hlavy. Premiér Rumen Radev svolal mimořádné jednání s představiteli čtyř ministerstev, prezidentské kanceláře a bezpečnostních služeb a útok označil za absolutně nepřijatelný a za nehorázné porušení mezinárodního a námořního práva. Pro Bulharsko je to první útok tohoto typu v jeho ekonomické zóně. Jde už o třetí civilní plavidlo zasažené během dvou dnů, všechna podle ruských kanálů dříve vplouvala do ukrajinských přístavů na Dunaji.
+          - Ukrajina zařadila do služby turecké samohybné protiletadlové kanóny Korkut, modernější obdobu německých Gepardů. Baterie se skládá z velitelského vozidla a tří jednotek s dvojicí radarem řízených pětatřicetimilimetrových kanónů a stojí kolem 37 milionů dolarů. V září ukrajinská protivzdušná obrana sestřelila devadesát procent pomalejších vrtulových dronů Geran-2, ale jen 55 procent reaktivních Geranů-4 a Geranů-5, které letí kolem 600 kilometrů v hodině. Korkuty by s těmito čísly mohly zamíchat. 
+          - Jihokorejské přístavy odeslaly v červenci a srpnu do Ruska přes 176 tisíc tun paliva, převážně nafty. Sedm ruských tankerů tam uskutečnilo čtrnáct plaveb, tři z nich jsou na sankčních seznamech Británie a Evropské unie, část nákladu se překládala z lodi na loď přímo na moři. Jihokorejské zákony to neporušuje, exportní restrikce pokrývají elektroniku, stroje a vozidla, ne palivo. Ministerstvo zahraničí v Soulu k tomu uvedlo, že „země zůstává odpovědným členem mezinárodního společenství“.
+          - V Kramatorsku zasáhly v noci ruské FPV drony během pětadvaceti minut tři sanitky. Zásah dostal také obytný dům, ve kterém zahynula devětačtyřicetiletá žena a osmašedesátiletá žena skončila se zlomenou nohou a poraněními od šrapnelů. Tři zdravotníci mají tlaková poranění, poranění šrapnely, popáleniny a další zranění. Doněcké krajské státní zastupitelství otevřelo vyšetřování válečných zločinů u obou incidentů a zásah sanitek označilo za cílený.
+          - Ukrajinská SBU zadržela v Kyjevě muže podezřelého ze zřizování radiových převaděčů pro ruské drony. Podle vyšetřovatelů mezi 21. a 24. zářím sbíral data o obranných objektech a kritické infrastruktuře a čtyři dny navigoval na Kyjev reaktivní drony Geran-5 a balistické rakety. Pracoval s mesh radiovými sítěmi, které umožňují sdílet signál v reálném čase mezi dronem ve vzduchu a pozemním převaděčem. Je podezřelý ze spolupráce s FSB.
+          - Litevský parlament schválil v prvním čtení ústavní změnu, která má vypustit článek 137 zakazující na litevském území zbraně hromadného ničení a zahraniční vojenské základny. Pro bylo 106 zákonodárců, proti 18, šest se zdrželo. Kreml už varoval, že bude reagovat.
+          - Rusko v noci vypustilo 137 úderných dronů. Protivzdušná obrana sestřelila nebo potlačila 114 dronů, zásahy jsou hlášené ze sedmnácti míst a trosky dopadly na další čtyři. Za uplynulý den zabily ruské útoky na Ukrajině nejméně 13 lidí a 104 jich zranily.
+          - V Záporoží zasáhl ruský dron jeden z mostů přes Dněpr. Ve vozovce zůstal kráter, vzňalo se civilní auto a provoz přes most musel být odkloněn. Zraněných je pět, mezi nimi dva pracovníci Červeného kříže ve věku 43 a 54 let, kteří jeli přes most do práce.
+          - Ukrajinské síly začaly rozmisťovat kolem velkých měst automatizované dálkově ovládané střelecké věže s kulomety M2 Browning proti nízko letícím ruským dronům. Systém se jmenuje Sky Sentinels a testuje se v boji u Charkova.
+          - Soul považuje ukrajinskou omluvu za zveřejnění převozu dvou severokorejských zajatců za nedostatečnou a zvažuje odvolání svého velvyslance z Kyjeva.
+          - Kyjevské datacentrum Omega Telekom po nočních úderech zastavilo provoz a přepojuje komunikační kanály na záložní centra. 
+          - V Kryvém Rihu zasáhly rakety Banderol nemocnici v centru města. Zraněni jsou čtyři lidé, dva z nich zdravotníci.
+          - Německo zadrželo bývalého šéfa rozvědky Hanninga pro podezření ze špionáže ve prospěch cizích mocností. 
+          - Americký ministr zahraničí Marco Rubio řekl, že Washington neplánuje stahovat diplomaty z Kyjeva.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1013072144149349212)
+          - [Most v Kyjevě](https://pixelfed.cz/p/dnesnaukrajine/1013068917552968464)
+          - [Volodarskaja](https://pixelfed.cz/p/dnesnaukrajine/1013068953332118289)
+          - [Tamtéž](https://pixelfed.cz/p/dnesnaukrajine/1013069001596027666)
+          - [Mínus ruští dronaři ](https://pixelfed.cz/p/dnesnaukrajine/1013069037526983443)
+          - [Tohle nevyšlo](https://pixelfed.cz/p/dnesnaukrajine/1013069085719048980)
+          - [Lancet se chytil do sítě](https://pixelfed.cz/p/dnesnaukrajine/1013069132406448917)
       - title: "Pondělí"
         year: "5. října 2026"
         sort: "2026-10-05"
@@ -222,6 +252,11 @@ timeline:
         sort: "2026-09-30"
         image: assets/img/timeline/2026-09-30.jpg
         podcast: "2026-09-30.mp3"
+        pictures:
+          - ["2026-09-30-1.jpg", ""]
+          - ["2026-09-30-2.jpg", ""]
+          - ["2026-09-30-3.jpg", ""]
+          - ["2026-09-30-4.jpg", ""]
         desc: |
           Rusko v noci poslalo na Ukrajinu bezmála dvě stě dronů, k tomu balistiku a protilodní Zirkony a Onyxy. Jde nejspíš o start letošní zimní kampaně proti ukrajinské energetice. Kdo si po dvou měsících soustavných Putinových řečí o míru myslel, že Moskva bude šetřit svoje rakety, byl opravdu naivní. Protivzdušná obrana zneškodnila 160 cílů, z toho pět raket. Zásahy jsou hlášeny z osmnácti míst a poplach trval celých dvanáct hodin a čtyřiačtyřicet minut. Zahynulo pět lidí včetně dítěte ve Vyšhorodu, dvě ženy zemřely v kyjevském Svjatošynském obvodu a v Solomjanském obvodu zahynul řidič Kyjevteploenerha, kterého nálet zastihl při práci ve skladu. Energetika dostala zásah v jedenácti regionech, poškozeno je zařízení Tripilské tepelné elektrárny a Ukrenergo muselo večer zavést havarijní odstávky v Kyjevě a v Kyjevské, Černihivské a Žytomyrské oblasti. Zelenskyj poděkoval partnerům za nové balíčky protivzdušné obrany a dodal, že každá antiraketa skutečně zachraňuje životy a čím blíž jsme k zimě, tím víc Ukrajina podobnou ochranu potřebuje. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02JgTJWYDv8jbM3PLa9K3sz9buq9Uw6AUCb9yrv94H8eRX5osQxeKooLXCxeEwRab3l):
         detail: |
@@ -1128,6 +1163,13 @@ timeline:
         sort: "2026-09-04"
         image: assets/img/timeline/2026-09-04.jpg
         podcast: "2026-09-04.mp3"
+        pictures:
+          - ["2026-09-04-1.jpg", ""]
+          - ["2026-09-04-2.jpg", ""]
+          - ["2026-09-04-3.jpg", ""]
+          - ["2026-09-04-4.jpg", ""]
+          - ["2026-09-04-5.jpg", ""]
+          - ["2026-09-04-6.jpg", ""]
         desc: |
           Ruské Soči zasáhlo hned několik vln útoků ukrajinských dronů. Ukrajinské námořnictvo nejdříve napadlo námořním dronem plavidlo Nefrit, které obsluhuje ruskou ropnou, plynovou a příbřežní infrastrukturu, převáží náklad i personál a zajišťuje podvodní technické práce. Nad ránem pak přiletěly vzdušné drony a zasáhly ropnou základnu společnosti Rosněft-Kubaňněftěprodukt. OSINT hlásí i druhý požár, tentokrát u protivzdušné divize poblíž obce Sirius na hranici s Abcházií, kde stojí systémy S-300 nebo S-400. Druhým cílem noci byl Sterlitamak v Baškortostánu, přes 1 300 kilometrů od ukrajinských hranic. Hořel tam petrochemický závod, který vyrábí ionol, přísadu do leteckých paliv a maziv. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid037Yu147hQj5JfpwCyJF8zZLcohM6HP6bxpsBNi4pP4MQLxCFawAKaYoBuAZHRe13Cl):
         detail: |
@@ -1161,6 +1203,18 @@ timeline:
         sort: "2026-09-03"
         image: assets/img/timeline/2026-09-03.jpg
         podcast: "2026-09-03.mp3"
+        pictures:
+          - ["2026-09-03-1.jpg", ""]
+          - ["2026-09-03-2.jpg", ""]
+          - ["2026-09-03-3.jpg", ""]
+          - ["2026-09-03-4.jpg", ""]
+          - ["2026-09-03-5.jpg", ""]
+          - ["2026-09-03-6.jpg", ""]
+          - ["2026-09-03-7.jpg", ""]
+          - ["2026-09-03-8.jpg", ""]
+          - ["2026-09-03-9.jpg", ""]
+          - ["2026-09-03-10.jpg", ""]
+          - ["2026-09-03-11.jpg", ""]
         desc: |
           Německo podle Der Spiegel chystá rozsáhlou odvetu za ruský dronový útok na letišti Lipsko/Halle a Ukrajina v ní hraje hlavní roli. Berlín má v září dodat tisíce útočných dronů a rakety pro systémy Iris-T, prohloubit spolupráci tajných služeb a pomáhat Ukrajincům se zaměřováním cílů pro protiúdery na ruském území. Bundestag má brzy schválit zákon o zpravodajských službách, který BND umožní aktivnější obranu: přístup k počítačům a serverům protivníka, mazání ukradených dat a zásahy do dodavatelských řetězců. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02mnr2U5sNaHV2cujfd3Q3Pnc4x2uuzLETerLtXxV9GA9o3tyHw5Z48WVCHwhgH1u3l):
         detail: |
@@ -1197,6 +1251,11 @@ timeline:
         sort: "2026-09-02"
         image: assets/img/timeline/2026-09-02.jpg
         podcast: "2026-09-02.mp3"
+        pictures:
+          - ["2026-09-02-1.jpg", ""]
+          - ["2026-09-02-2.jpg", ""]
+          - ["2026-09-02-3.jpg", ""]
+          - ["2026-09-02-4.jpg", ""]
         desc: |
           V Kyjevě se v noci na dnešek střílelo. A bohužel mezi ukrajinskými silovými složkami. Na ulici Jurije Šumského v Dniprovském rajónu podle ukrajinských médií zasahovali příslušníci vojenské rozvědky HUR proti skupině lidí, u nichž měl být Stepan Kaplunov, zástupce velitele Ruského dobrovolnického sboru pro bojové operace. Kaplunov zmizel před několika dny, podle RDK ho na dvoře jeho vlastního domu odvedli neznámí muži. Skupina, která ho zadržela, se ukázala být příslušníky SBU. Velitelé obou útvarů situaci na místě nejprve uklidnili, po příjezdu dalších lidí ze SBU, kteří začali zadržovat důstojníky HUR, ale padly další výstřely. Ukrajinská Pravda píše o třech zraněných příslušnících HUR. Policie uzavřela ulici a nechala odklonit městskou dopravu, na sítích kolovala videa mužů ve vojenském oblečení a záznamy střelby. Dopoledne pak SBU společně s HUR oznámily, že zabránily teroristickému útoku, který ruská FSB chystala na jednoho z vůdců ruského opozičního hnutí, jenž přijel do Ukrajiny na oslavy Dne nezávislosti. Podle zdrojů RBK-Ukrajina jde právě o Kaplunova. Kde se nachází a v jakém je stavu, oficiálně nikdo nesdělil. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Up6gKP3XDbrJ54xfCq8UtdLqxcsNMratoiBDjWnyib4vFccyGnFv1tMNoaho4oGAl):
         detail: |
@@ -1226,6 +1285,11 @@ timeline:
         sort: "2026-09-01"
         image: assets/img/timeline/2026-09-01.jpg
         podcast: "2026-09-01.mp3"
+        pictures:
+          - ["2026-09-01-1.jpg", ""]
+          - ["2026-09-01-2.jpg", ""]
+          - ["2026-09-01-3.jpg", ""]
+          - ["2026-09-01-4.jpg", ""]
         desc: |
           Rusko útočí na ukrajinská města šestý den v řadě. V noci na dnešek zasáhly balistické rakety v Kyjevě železniční depo a další objekty Ukrzaliznyce. Zahynulo sedm lidí, z toho šest železničářů. Celková bilance útoku na hlavní město se přes den vyšplhala na osm mrtvých a sedm zraněných, mezi nimi tři děti. V Boryspilu poškodil zásah obyčejný pětipatrový panelák, odkud muselo být evakuováno padesát lidí, poškozené jsou i tamní podniky. V centru města zemřeli čtyři lidé a třináct jich je zraněných. Podle Volodymyra Zelenského si tak celý noční útok vyžádal dvanáct mrtvých (mezi nimi je občan Indie), a desítky zraněných. Následky odstraňovalo jen v Kyjevě a okolí bezmála 350 záchranářů. Protivzdušná obrana zneškodnila pět balistických raket, pět Kalibrů, dvě střely S8000 Banderol a 187 dronů. Podle mluvčího letectva byly sestřeleny všechny řízené střely s plochou dráhou letu. Útoky ale pokračovaly i přes den. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02is8dHS6JNMGKjoaMa6GsetrDPJPYuy72unY98GiKbrQ4LRCKuJsZtyR176x4SVaFl): 
         detail: |
@@ -1256,6 +1320,11 @@ timeline:
         sort: "2026-08-31"
         image: assets/img/timeline/2026-08-31.jpg
         podcast: "2026-08-31.mp3"
+        pictures:
+          - ["2026-08-31-1.jpg", ""]
+          - ["2026-08-31-2.jpg", ""]
+          - ["2026-08-31-3.jpg", ""]
+          - ["2026-08-31-4.jpg", ""]
         desc: |
           Rusko útočí na ukrajinská města pátý den v řadě – a mění taktiku. Místo jedné masivní noční vlny raket a dronů posílá proudové Gerany v hodinu trvajících náletech rozložených do celého dne s cílem maximálně terorizovat civilní populaci neustálými poplachy. Za poslední čtyři dny takto Rusko vypustilo bezmála 800 proudových dronů. V noci na dnešek přiletělo 121 dálkových útočných dronů a jedna střela s plochou dráhou letu Kh-59. Protivzdušná obrana sestřelila 96 dronů, tedy asi 79 procent. Střela cíl nezasáhla, několik dronů obranou prošlo a zasáhlo jedenáct míst, na dalších osmi místech spadly trosky. Za poslední den zabily ruské útoky v šesti oblastech sedm lidí a dalších 43 zranily. V Kryvém Rihu hořel po ranním zásahu průmyslový areál a dva muži byli zraněni. V Oděské oblasti Rusové zasáhli terminál Nové pošty, obešlo se to tentokrát bez zraněných. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02oxKua1W1v1ALR91x3xGDAdY8mDeDEW6Lrtk5d6p9SDN85JEhqNqfZLEGbhPawmaFl): 
         detail: |
