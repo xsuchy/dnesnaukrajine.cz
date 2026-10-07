@@ -1354,6 +1354,15 @@ timeline:
         sort: "2026-08-30"
         image: assets/img/timeline/2026-08-30.jpg
         podcast: "2026-08-30.mp3"
+        pictures:
+          - ["2026-08-30-1.jpg", ""]
+          - ["2026-08-30-2.jpg", ""]
+          - ["2026-08-30-3.jpg", ""]
+          - ["2026-08-30-4.jpg", ""]
+          - ["2026-08-30-5.jpg", ""]
+          - ["2026-08-30-6.jpg", ""]
+          - ["2026-08-30-7.jpg", ""]
+          - ["2026-08-30-8.jpg", ""]
         desc: |
           Ukrajinské drony v noci zasáhly Kirišskou rafinerii v Leningradské oblasti. KINEF, celým jménem Kirišiněftěorgsintez, je co do kapacity druhou největší rafinerií v Rusku a vůbec největší v Severozápadním federálním okruhu: zpracuje kolem dvaceti milionů tun ropy ročně. Stejnou noc dostalo zásah letiště v Jejsku v Krasnodarském kraji a v Millerovu v Rostovské oblasti místo, kde Rusové skladují, připravují a vypouštějí útočné drony. Velitel Sil bezpilotních systémů Robert Brovdi později upřesnil, že v Jejsku shořely komplet Pancir-S1, radiolokátor Sopka-2 a sklad letecké výzbroje. V Šabelském byl zničen radar Kasta 2E2 a v Dolotince u millerovského letiště muniční sklady, technicko-opravárenská jednotka, radar Nebo-SV a hlavní cíl celé operace: modul DRL-27 přistávacího radiolokačního systému RSP-27, který na letišti zajišťuje řízení letového provozu. Zelenskyj k tomu řekl, že Rusko musí pocítit, že se válka vrací tam, odkud přišla. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0YhHfvLkQADERguZABRi234xF7MA5pLvfiGnz3T8ArLUTnvwFbNPsTU88ohkdB99Vl):
         detail: |
@@ -1391,6 +1400,11 @@ timeline:
         sort: "2026-08-29"
         image: assets/img/timeline/2026-08-29.jpg
         podcast: "2026-08-29.mp3"
+        pictures:
+          - ["2026-08-29-1.jpg", ""]
+          - ["2026-08-29-2.jpg", ""]
+          - ["2026-08-29-3.jpg", ""]
+          - ["2026-08-29-4.jpg", ""]
         desc: |
           Kyjevská oblast má za sebou nejtragičtější noc za dlouhou dobu. Ruský dron zasáhl v pátek kolem 20:10 areál ve vesnici Myla v Bučanském okrese, zhruba pět kilometrů západně od Kyjeva u dálnice Kyjev–Čop. Vypukl velký požár a po něm začala detonovat munice, která tam byla uskladněna. Podle šéfa kyjevské oblastní správy Tymura Tkačenka si výbuchy vyžádaly nejméně 37 mrtvých a 42 zraněných, mezi nimi čtyři děti, a číslo zatím není konečné, protože práce na místě pokračují. Mezi mrtvými je i Taras Didyč, starosta Dmytrivské hromady, který na místo dorazil jako jeden z prvních zasahujících. Poškozeno je asi padesát obytných domů, oheň se rozšířil na domy i restauraci a zničil domov pro seniory, evakuováno bylo 381 lidí včetně 59 dětí. Volodymyr Zelenskyj potvrdil, že terčem byl sklad munice, a oznámil, že SBU a Národní policie zahájily trestní řízení pro služební nedbalost kvůli nelegálnímu skladování munice u obytné zástavby. Premiér Serhij Korecký připomněl, že nedávná podobná tragédie ve Vyšneve nebyla ponaučením, a mluví o trestuhodné nedbalosti v pátém roce plnohodnotné invaze. Generální prokuratura prověřuje, zda byly výbušniny v podniku uloženy legálně a zda měl potřebná povolení. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0P1BbByVJ155b95hhiNS9WZx1asZYrDuDfRbiHa8vE94mpyPqTzQXNzu74FuYNC6Al):
         detail: |
@@ -1442,6 +1456,11 @@ timeline:
         sort: "2026-08-27"
         image: assets/img/timeline/2026-08-27.jpg
         podcast: "2026-08-27.mp3"
+        pictures:
+          - ["2026-08-27-1.jpg", ""]
+          - ["2026-08-27-2.jpg", ""]
+          - ["2026-08-27-3.jpg", ""]
+          - ["2026-08-27-4.jpg", ""]
         desc: |
           Rusko v noci znovu poslalo na Ukrajinu svou balistiku. Kolem třetí hodiny ranní zaznělo v Kyjevě během necelé minuty šest výbuchů. Trosky raket se pak našly v Podilském a Ševčenkivském rajónu. Zasažena byla i Oděsa, kde podle šéfa městské vojenské správy Serhije Lysaka utrpěla poškození civilní infrastruktura, jedno vzdělávací zařízení a výšková obytná budova, a Záporoží, kde bylo podle gubernátora Ivana Fedorova zraněno nejméně sedm lidí včetně tří dětí. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0uRUJ6NK6HxtGbbP3AERJ6w4jizpaWb8yFTxN1F8YoFFE2YD2sUvRZtpsmpEJAqFdl): 
         detail: |
@@ -1468,6 +1487,11 @@ timeline:
         sort: "2026-08-26" 
         image: assets/img/timeline/2026-08-26.jpg
         podcast: "2026-08-26.mp3"
+        pictures:
+          - ["2026-08-26-1.jpg", ""]
+          - ["2026-08-26-2.jpg", ""]
+          - ["2026-08-26-3.jpg", ""]
+          - ["2026-08-26-4.jpg", ""]
         desc: |
           Ukrajinské drony i dnes v noci letěly hluboko do ruského týlu. V Kstovu v Nižněnovgorodské oblasti hořela rafinerie NORSI koncernu Lukoil, čtvrtá největší rafinerie v Rusku a druhý největší producent benzinu s roční produkcí kolem 15 až 17 milionů tun ropy, výrobce nafty a leteckého paliva pro ruskou armádu. Kstovo leží asi 800 kilometrů od ukrajinských hranic a jen letos ho ukrajinské drony zasáhly už popáté. Druhým cílem noci byl Kotovsk v tambovské oblasti, kde podle gubernátora Jevgenije Pervyšova vzplál sklad e-shopu Wildberries. Výbuch a následný požár hlásí monitorovací kanály také z okupovaného Luhansku, na Krymu se v Bachčisarajském okrese a v Simferopolu asi hodinu opakovaně vypínal proud a výbuchy zněly i v Sackém okrese a u Jevpatorije. Zelenský uvedl, že Kyjev za poslední den zasáhl v Rusku šestnáct cílů včetně ropných zařízení a logistiky. Ruské ministerstvo obrany tvrdí, že přes noc nad svým a okupovaným územím sestřelilo 426 ukrajinských dronů. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0v71FEVtQXJnVjbqDPW8BFHVxJqrTKALQskhETmC2zgJzLvQ8dBabxz7Z7SgUdf2sl):
         detail: |
@@ -1501,6 +1525,11 @@ timeline:
         sort: "2026-08-25" 
         image: assets/img/timeline/2026-08-25.jpg
         podcast: "2026-08-25.mp3"
+        pictures:
+          - ["2026-08-25-1.jpg", ""]
+          - ["2026-08-25-2.jpg", ""]
+          - ["2026-08-25-3.jpg", ""]
+          - ["2026-08-25-4.jpg", ""]
         desc: |
           Ukrajinské drony v noci znovu letěly na ruské rafinerie. V Krasnodarském kraji zasáhly Afipský závod, jednu z největších rafinérií na jihu Ruska s roční kapacitou 6,25 milionu tun ropy, což je více než dvě procenta celkové ruské produkce. Generální štáb potvrdil požár v areálu, pro závod jde letos už o pátý zásah. Gubernátor oblasti Venjamin Kondraťjev útok připustil jen napůl: podle něj šlo hlavně o padající trosky dronů, které dopadly na železniční stanici Afipská a poškodily nejméně deset rodinných domů v obci Afipský. Druhým cílem téže noci byla Novošachtinská rafinerie v Rostovské oblasti s kapacitou 5,6 milionu tun. Gubernátor Jurij Sljusar přiznal poškození bez dalších podrobností a závod přerušil výrobu. Jen za srpen tak provoz zastavilo už šest ruských rafinerií. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0uTeuSiVHLsxwGS4mZ4NHN5RNqViD78ek8sPCqxthSGyVbkpSsq1wi8FLnXrTFKK9l): 
         detail: |
@@ -1535,6 +1564,11 @@ timeline:
         sort: "2026-08-24" 
         image: assets/img/timeline/2026-08-24.jpg
         podcast: "2026-08-24.mp3"
+        pictures:
+          - ["2026-08-24-1.jpg", ""]
+          - ["2026-08-24-2.jpg", ""]
+          - ["2026-08-24-3.jpg", ""]
+          - ["2026-08-24-4.jpg", ""]
         desc: |
           Ukrajina slaví pětatřicáté výročí nezávislosti a Kyjev se na jeden den stal hlavním městem evropské diplomacie. Na Sofijském náměstí stál Zelenskyj vedle nového britského premiéra Andyho Burnhama a předsedy Evropské rady Antónia Costy, do města dorazili také lucemburský premiér Luc Frieden, finský prezident Alexander Stubb, moldavská prezidentka Maia Sanduová, litevský prezident Gitanas Nausėda a další. Macron s Merzem se ke koalici ochotných připojili přes video. Burnham přijel na svou vůbec první zahraniční cestu ve funkci a přivezl to, o co Kyjev usiloval měsíce: souhlas britské vlády s tím, aby zbrojovka MBDA odtajnila údaje o britských komponentech střel SCALP/Storm Shadow. Francie licenci na výrobu své verze dala už v červenci, chybělo právě britské svolení, takže Ukrajina teď může začít stavět vlastní řízené střely s doletem kolem 550 kilometrů. Zelenskyj v projevu poprvé zveřejnil čísla, která se běžně tají: v roce 2023 dostala 675 antiraket k systémům Patriot, v roce 2025 už jen 364 a letos to podle projekcí bude 264. Požádal spojence o nejméně 300 kusů do zimy a o pomoc s pokrytím schodku 27 miliard eur na protivzdušnou obranu. Evropská komise ve stejný den schválila dalších 6,1 miliardy eur na nákup protivzdušných a protiraketových systémů, střel, munice a radarů. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0NPaVnVcAK9htikZZDVHxHin7pFCzPz52LLj3C1Ys4p3K4kUoJ2qUVeQadDtg8TFml):
         detail: |
@@ -1567,6 +1601,11 @@ timeline:
         sort: "2026-08-23" 
         image: assets/img/timeline/2026-08-23.jpg
         podcast: "2026-08-23.mp3"
+        pictures:
+          - ["2026-08-23-1.jpg", ""]
+          - ["2026-08-23-2.jpg", ""]
+          - ["2026-08-23-3.jpg", ""]
+          - ["2026-08-23-4.jpg", ""]
         desc: |
           Ukrajinské drony v noci znovu mířily na ruský e-commerce. V Orenburgu, zhruba tisíc kilometrů od ukrajinských hranic, zaútočily na zvláštní ekonomickou zónu Orenburžje a zapálily logistické centrum firmy Ozon. Vedení evakuovalo přes tři sta zaměstnanců, zastavilo výdej ze skladu a zboží stáhlo z nabídky marketplace. Areál Ozon otevřel v srpnu 2024, první etapa má 40 tisíc metrů čtverečních a stála přes 4 miliardy rublů (43 milionů dolarů), po plánovaném rozšíření měl sklad pojmout přes 31 milionů kusů zboží a odbavit až 915 tisíc objednávek denně. Jde o druhý zásah Ozonu ve dvou nocích: den předtím hořelo jeho centrum o rozloze 75 tisíc metrů čtverečních v Samarské oblasti. Ozon stejně jako Wildberries dodává nejrůznější zboží také ruské armádě a systematické zásahy skladů zboží dvojího užití tak komplikují Rusům operace a zároveň poškozují ruskou ekonomiku. V noci ale hořelo také v Kolpinu u Petrohradu, kde v průmyslovém areálu vzplál sklad firmy Logistera o rozloze 82 tisíc metrů čtverečních. Poplach v Leningradské oblasti vyhlášený nebyl a výbuchy nikdo neslyšel, ale hořící hala stojí zhruba 350 metrů od dalšího skladu Ozonu. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid028bHUFejL7TU8mVGeyp1BYDNs4xP93fnZhP3FBcAEFgeCSSuN1LQ4qHprQER5Ywkel): 
         detail: |
@@ -1599,6 +1638,11 @@ timeline:
         sort: "2026-08-22" 
         image: assets/img/timeline/2026-08-22.jpg
         podcast: "2026-08-22.mp3"
+        pictures:
+          - ["2026-08-22-1.jpg", ""]
+          - ["2026-08-22-2.jpg", ""]
+          - ["2026-08-22-3.jpg", ""]
+          - ["2026-08-22-4.jpg", ""]
         desc: |
           Ukrajinské drony v noci zasáhly Samarskou oblast a vůbec poprvé si vybraly za cíl také společnost Ozon. V Novokujbyševsku hořela rafinerie koncernu Rosněfť s projektovou kapacitou zhruba 8,8 milionu tun ropy ročně, což ji řadí do desítky největších ruských rafinérských provozů. Vyrábí přes dvacet druhů produktů včetně automobilového a leteckého paliva, nafty a maziv a podle Generálního štábu plní potřeby ruské armády. Druhým cílem byl areál firmy Ozon o rozloze 75 000 metrů čtverečních, který funguje od roku 2022 a patří k největším logistickým uzlům v její síti. Firma potvrdila požár a evakuaci více než pěti set zaměstnanců. Ozon je hlavním konkurentem firmy Wildberries. Obě platformy dohromady drží 77 % všech objednávek na ruských e-shopech a přes polovinu celého online maloobchodu v zemi. Zasažené lokality leží zhruba 900 kilometrů od fronty. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid01T3usge8ZQnmyTGvSNNPYokV5P5cPsCMzRvYmzPnsKWazRaVm4gxZzmgr2UWuUHKl):
         detail: |
@@ -1635,6 +1679,8 @@ timeline:
         sort: "2026-08-21" 
         image: assets/img/timeline/2026-08-21.jpg
         podcast: "2026-08-21.mp3" 
+        pictures:
+          - ["2026-08-21-1.jpg", ""]
         desc: |
           Ukrajinské drony v noci znovu doletěly za Ural. V Permu, zhruba 1 400 kilometrů od ukrajinských hranic, zasáhly rafinerii Lukoil-Permněftěorgsintez a nad areálem se ráno zvedl sloup kouře. Rosaviace v reakci zastavila provoz na permském letišti Bolšoje Savino. Gubernátor Machonin připustil jen to, že protivzdušná obrana sestřelila šestnáct dronů, jeden člověk je zraněn a poškozený je „průmyslový objekt". Permská rafinerie přitom patří do desítky největších ruských rafinérských provozů a je druhým největším závodem Lukoilu hned po Nižním Novgorodu. V roce 2024 zpracovala 12,6 milionu tun ropy, z toho zhruba 2 miliony tun benzinu a 5,3 milionu tun nafty, vedle toho vyrábí letecký petrolej a maziva a zásobuje domácí i zahraniční trh. Drony na ni letěly naposledy 29. července a už po jarní sérii úderů provoz několik týdnů kompletně stál. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0uaRW175ohdVu3aZfEjjQxjGteNnAvoQeU1mEVpe6fkxhYxnqeYNaiAFzRSaiJ9i7l):
         detail: |
@@ -1661,6 +1707,8 @@ timeline:
         sort: "2026-08-20" 
         image: assets/img/timeline/2026-08-20.jpg
         podcast: "2026-08-20.mp3" 
+        pictures:
+          - ["2026-08-20-1.jpg", ""]
         desc: |
           Rusko krátce po půlnoci zahájilo několikahodinový kombinovaný útok na Kyjev. Na město letěla balistika, střely Kalibr odpálené od Novorossijsku, hypersonické Cirkony z Kurské oblasti a proudové drony. Ukrajinské letectvo hlásí za noc 46 řízených střel různých typů a 168 dronů plus neupřesněný počet balistických raket. Počty balistiky letectvo od začátku srpna nezveřejňuje, protože Ukrajině prakticky došly antirakety pro systémy Patriot, což bylo to jediné, co balistiku umí sestřelit. Zneškodněno bylo 41 střel a 145 dronů, zásahy jsou hlášeny z 28 míst. Hlavním cílem útoku byla Kyjevská oblast. Podle zatím posledních čísel zemřelo v hlavním městě nejméně patnáct lidí a přes třicet skončilo v péči lékařů, bilance se v průběhu dne dál zvyšuje. V Solomjanském okrese vyhořela po náletu horní patra devítipodlažního domu a jen tam přišlo o život sedm lidí. Poškozena je dále budova dětské nemocnice, škola, sklady a nebytové objekty v Darnyckém, Svjatošynském a Ševčenkivském okrese. Bez proudu zůstalo asi 90 tisíc kyjevských domácností, DTEK dopoledne obnovil dodávky víc než polovině z nich. V Boryspilu zasáhli Rusové sklad potravin a areál Červeného kříže. Zelenskyj doplnil, že Rusové zasáhli také plynárenskou infrastrukturu na Černihivsku a hraniční přechod do Moldavska v Oděské oblasti. Ruské ministerstvo obrany naopak už tradičně mluví o „masivním úderu vysoce přesnými zbraněmi" na obranný a energetický průmysl, sklad munice a logistický uzel. Za posledních čtyřiadvacet hodin si ruské útoky na celé Ukrajině vyžádaly podle krajských vojenských správ 23 mrtvých a 132 zraněných. Starosta Kyjeva Vitalij Kličko vyhlásil na pátek den smutku. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Pv9HizKWuvkeWv2oQ5nN5yaregUU7LXUZtQWcqGVHA33V9kkSDHiG8jqFzYnrq6Rl): 
         detail: |
@@ -1690,6 +1738,15 @@ timeline:
         sort: "2026-08-19" 
         image: assets/img/timeline/2026-08-19.jpg
         podcast: "2026-08-19.mp3" 
+        pictures:
+          - ["2026-08-19-1.jpg", ""]
+          - ["2026-08-19-2.jpg", ""]
+          - ["2026-08-19-3.jpg", ""]
+          - ["2026-08-19-4.jpg", ""]
+          - ["2026-08-19-5.jpg", ""]
+          - ["2026-08-19-6.jpg", ""]
+          - ["2026-08-19-7.jpg", ""]
+          - ["2026-08-19-8.jpg", ""]
         desc: |
           Ukrajinské drony v noci znovu letěly hluboko do ruského týlu. V Ufě v Baškortostánu, přes tisíc kilometrů od ukrajinských hranic, zasáhl dron jednu z rafinerií koncernu Bašneft a v areálu vypukl požár. Severní průmyslová zóna Ufy s produkcí 23,5 milionu tun ropy ročně, patří k největším rafinérským komplexům v Rusku a jen v srpnu ho ukrajinské drony zasáhly už potřetí. Druhým cílem noci byl Dzeržinsk v Nižněnovgorodské oblasti: podle ruského nezávislého portálu ASTRA a předběžné OSINT analýzy mířily drony na závod Sverdlov, jeden z největších ruských výrobců trhavin a klíčový podnik vojensko-chemického průmyslu, který funguje více než sto let. Výbuchy hlásili obyvatelé i z Novomoskovsku v Tulské oblasti. Ruské ministerstvo obrany tvrdí, že mezi úterní nocí a středečním ránem zneškodnilo 453 ukrajinských dronů nad Ruskem a okupovaným Krymem. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Z3vRi8YESEP4mFtfbkhXUwCAShjjen1DRWhxHB4hKEussVCp9h7rDzq8jrhTvrjml): 
         detail: |
@@ -1720,6 +1777,8 @@ timeline:
         sort: "2026-08-18" 
         image: assets/img/timeline/2026-08-18.jpg
         podcast: "2026-08-18.mp3"
+        pictures:
+          - ["2026-08-18-1.jpg", ""]
         desc: |
           Rusko dnes ráno zasáhlo dvěma řízenými střelami Banderol centrum Pečenih na Charkovsku. Podle šéfa oblastní správy zahynulo deset lidí a osmnáct jich bylo zraněno. Rusové schválně cílili na rušnou křižovatku, kde stojí pošta a obchody a která je obklopená obytnými domy. Požár zachvátil plochu zhruba 400 m², shořela kavárna a sedm aut, poškozeno je deset rodinných domů, budova pošty, pět obchodů a dalších patnáct vozidel. Během noci vypustilo Rusko na Ukrajinu celkem 147 dronů typu Shahed včetně proudových verzí a návnad Gerbera a Parody. Protivzdušná obrana jich 111 sestřelila nebo potlačila, zásahy jsou hlášeny z devatenácti míst. Za poslední den ruské útoky zabily nejméně devatenáct lidí v šesti oblastech a třiapadesát jich zranily. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02zbuHVs1ijHyyXHTy6prrCrQeKK4hxjLfKKmFF9ozKMuo8tVn12jMT5Nr8SRVFR6el):
         detail: |
@@ -1752,6 +1811,15 @@ timeline:
         sort: "2026-08-17" 
         image: assets/img/timeline/2026-08-17.jpg
         podcast: "2026-08-17.mp3"
+        pictures:
+          - ["2026-08-17-1.jpg", ""]
+          - ["2026-08-17-2.jpg", ""]
+          - ["2026-08-17-3.jpg", ""]
+          - ["2026-08-17-4.jpg", ""]
+          - ["2026-08-17-5.jpg", ""]
+          - ["2026-08-17-6.jpg", ""]
+          - ["2026-08-17-7.jpg", ""]
+          - ["2026-08-17-8.jpg", ""]
         desc: |
           Ukrajina předložila Trumpově administrativě memorandum, které poprvé v číslech shrnuje, co její kampaň dálkových úderů za posledních čtyřicet dní udělala s ruskou ekonomikou. Podle dokumentu provedla SBU více než sto „úspěšných úderů" na strategické cíle v Rusku a na okupovaných územích. Ukrajinské síly zasáhly všech deset největších ruských rafinerií, přičemž nejvzdálenější cíl ležel v Omsku zhruba 2 500 kilometrů od hranic. Údery na rafinerie probíhají zhruba každé dva dny a Kyjev odhaduje, že vyřadil přes 30 % ruských rafinérských kapacit, což znamená ztráty kolem 15 miliard dolarů. Kampaň se rozšířila i na stínovou flotilu – pod útokem bylo skoro 200 plavidel v Černém a Azovském moři – a na desítky vojenských objektů, na Krymu zejména letiště Saky, Hvardijske, Belbek a Bagerovo. Červenec byl podle dokumentu pro ruskou dopravní techniku a cisterny nejhorším měsícem celé války: zničeno nebo poškozeno bylo skoro 14 000 kusů. Memorandum zároveň obsahuje varování: při ruském raketovém útoku na Kyjev 5. srpna, který zabil 18 lidí, nebyla sestřelena ani jedna z 24 balistických raket, protože Ukrajina nemá dost vhodných střel pro PVO. V červenci Rusko odpálilo kolem stovky balistických raket a úspěšnost jejich zachycení zůstává kriticky nízká. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02WDT4uCzLnnL2aNTkd8jKFV5zEbBncKudemG59Jmut4RhdfBtTNAqkqJBZ9EDfVDNl): 
         detail: |
@@ -1782,6 +1850,11 @@ timeline:
         sort: "2026-08-16" 
         image: assets/img/timeline/2026-08-16.jpg
         podcast: "2026-08-16.mp3"
+        pictures:
+          - ["2026-08-16-1.jpg", ""]
+          - ["2026-08-16-2.jpg", ""]
+          - ["2026-08-16-3.jpg", ""]
+          - ["2026-08-16-4.jpg", ""]
         desc: |
           Ukrajina v noci provedla zřejmě největší dronový úder na Moskevskou oblast za celou válku. Od sobotního večera do půl sedmé ráno letělo na region okolo 600 dronů, z nichž 201 bylo sestřeleno nad Moskevskou oblastí v Domodědovu, Podolsku, Stupinu, Odincovu, Naro-Fominsku, Ramenskom, Čechovu, Kolomně, Kašiře a Jegorjevsku. Hlavním cílem byl sklad Wildberries v Kolediném u Podolsku. Areál o rozloze zhruba 250 000 m² byl jedním z největších logistických uzlů firmy a po náletu kompletně shořel. Druhý požár vypukl ve skladu č. 15 v komplexu MLP Severnoje Domodědovo. Ukrajinské ministerstvo obrany oznámilo, že Ukrajina už odstavila sedm z deseti největších logistických center firmy. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0fwjpT9KoS18jGGKZsaNFzpQ5JUd7fUWac2PnJksfkPZZcviBJ6eHvPbqwkp3pdXxl): 
         detail: |
@@ -1815,6 +1888,11 @@ timeline:
         sort: "2026-08-15" 
         image: assets/img/timeline/2026-08-15.jpg
         podcast: "2026-08-15.mp3"
+        pictures:
+          - ["2026-08-15-1.jpg", ""]
+          - ["2026-08-15-2.jpg", ""]
+          - ["2026-08-15-3.jpg", ""]
+          - ["2026-08-15-4.jpg", ""]
         desc: |
           Ukrajina v noci sáhla po nejcennějším cíli posledních týdnů – a nebyla to rafinerie. Střely FP-5 Flamingo zasáhly Raketově-kosmické centrum Progress v Samaře, tedy jediný ruský závod, který sériově montuje nosné rakety Sojuz-2. Nad průmyslovou zónou, kde stojí Progress a sousední letecký závod Aviakor, vyšlehl velký požár a sloup kouře. Podle předběžné analýzy CyberBorošna dostala zásah budova 106A, kde se vyvíjejí palubní elektrické systémy, přístroje a desky plošných spojů. Sojuz-2.1b je hlavní ruský způsob, jak dostávat na oběžnou dráhu vojenské družice a také satelity konstelace Rassvet, ruské odpovědi na Starlink. Rusko jich odpálí šest až osm ročně, přičemž na plánovaných 288 družic by jich potřebovalo nejméně osmnáct. Areál leží zhruba 850 až 950 kilometrů od ukrajinských hranic. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0EM8sAqpRLPGu6cmQrQd67pLhJ3S1tBTdANfHiXWc25xq9LbFfVNLUJA8NWbup4d3l):
         detail: |
@@ -1848,6 +1926,15 @@ timeline:
         sort: "2026-08-14" 
         image: assets/img/timeline/2026-08-14.jpg
         podcast: "2026-08-14.mp3"
+        pictures:
+          - ["2026-08-14-1.jpg", ""]
+          - ["2026-08-14-2.jpg", ""]
+          - ["2026-08-14-3.jpg", ""]
+          - ["2026-08-14-4.jpg", ""]
+          - ["2026-08-14-5.jpg", ""]
+          - ["2026-08-14-6.jpg", ""]
+          - ["2026-08-14-7.jpg", ""]
+          - ["2026-08-14-8.jpg", ""]
         desc: |
           Ukrajina v noci provedla jednu z nejrozsáhlejších úderných vln za poslední týdny a poprvé za dlouhou dobu zasáhla oba konce ruské ropné logistiky současně. Generální štáb potvrdil, že Síly bezpilotních systémů společně s vojenskou rozvědkou HUR zasáhly v noci ze 13. na 14. srpna rafinerii Lukoil-Volgogradněftěpererabotka ve Volgogradu, kde vypukly silné požáry. Jde o největšího producenta paliv a maziv v Jižním federálním okruhu – zpracuje přes 15 milionů tun ropy ročně, což je 5,6 % veškeré ruské rafinérské kapacity, a vyrábí naftu, benzin a letecký petrolej klíčový pro logistiku ruské armády. Zároveň byla pod útokem Leningradská oblast, kde jsou hlášeny škody a požár v prostoru přístavu Usť-Luga, který je jedním z největších ruských přístavů na Baltu a sídlí v něm ropný terminál, přes který Rusko vyváží ropu a ropné produkty – tedy jeden z hlavních zdrojů příjmů státního rozpočtu. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0fkAM1C3VLqArYpijWuMN1PzHEThnLcnemEbCV4sLS3jpLDSJsKaGpgb5hFFKydiul): 
         detail: |
@@ -1873,6 +1960,8 @@ timeline:
         sort: "2026-08-13" 
         image: assets/img/timeline/2026-08-13.jpg
         podcast: "2026-08-13.mp3"
+        pictures:
+          - ["2026-08-13-1.jpg", ""]
         desc: |
           Ukrajinské drony v noci zasáhly ropný a petrochemický komplex Gazprom Neftěchim Salavat v Baškortostánu, zhruba 1 300 kilometrů od ukrajinských hranic. V areálu vypukl požár. Jde o jeden z největších ruských rafinérsko-petrochemických provozů s kapacitou až 10 milionů tun surovin ročně, který vyrábí benzin, naftu, mazut, bitumen i polyetylen a zásobuje ruskou armádu. Zásah dostalo v Baškortostánu i další logistické centrum Wildberries. Nejcennějším cílem noci byl ale radar Nebo-U v okupovaném Sevastopolu. Tento třísouřadnicový radiolokátor slouží k detekci a sledování letadel, řízených střel i balistických raket a jeho cena se odhaduje na 100 milionů dolarů. Podle Generálního štábu jeho vyřazení zhoršuje ruskou schopnost včas zaznamenat přilétající ukrajinské projektily. Ve stejnou dobu ukrajinské drony zaútočily na Balaklavskou tepelnou elektrárnu a u obce Šturmove začalo hořet velké vodárenské zařízení. Celý Sevastopol byl po náletu bez proudu, než se dodávky podařilo provizorně obnovit. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid037xN8jsR2yXDRAjAADUyFx2Diw1n6NK9WgPN8Dq5rxmCyW4od1PMJpwGQuZe9S7qsl):
         detail: |
@@ -1907,6 +1996,8 @@ timeline:
         sort: "2026-08-12" 
         image: assets/img/timeline/2026-08-12.jpg
         podcast: "2026-08-12.mp3"
+        pictures:
+          - ["2026-08-12-1.jpg", ""]
         desc: |
           Ukrajinské síly v noci provedly to, co Zelenskyj označil za „unikátní operaci" proti námořní základně v Novorossijsku – poslední velké opoře ruské Černomořské flotily na okupovaném Krymu. Použily k tomu proudové drony Paljanycja, rakety Neptun a námořní drony. Potvrzené jsou zásahy pozic protivzdušné obrany, několika mol a infrastruktury přístavu. Zásahy utrpěly také nejméně čtyři válečné lodě: Admirál Essen a Admirál Makarov, ale i další plavidla. Ruské ministerstvo obrany tvrdí, že sestřelilo přes 500 projektilů. Podle místních úřadů zahynuli tři lidé, 24 jich bylo zraněno, poškozeny byly desítky obytných domů a trosky sestřelených dronů dopadly do areálů čtyř průmyslových podniků. Ruské zdroje potvrzují, že dva velké obilné terminály přestaly po náletu fungovat, a protože Rusko je největší světový vývozce pšenice a většinu jí posílá právě přes černomořské přístavy, trhy okamžitě zareagovaly obavami z výpadku dodávek. Starosta Novorossijsku Kravčenko vyhlásil ve městě stav nouze; přerušené jsou dodávky vody a poškozená jsou i školská zařízení. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0deq1qZFgFBiEFrx3XYtV7SGsyvJZzhwm9LPLFYPY7YWG44QboVAjTXwRn3FY9Gzgl): 
         detail: |
@@ -1939,6 +2030,8 @@ timeline:
         sort: "2026-08-11"
         image: assets/img/timeline/2026-08-11.jpg
         podcast: "2026-08-11.mp3"
+        pictures:
+          - ["2026-08-11-1.jpg", ""]
         desc: |
           Rusko v noci zaútočilo balistickými raketami na Záporoží, Kyjev a další města. V Záporoží zasáhly rakety areál hutního závodu Záporižstal. Zaměstnanci právě mířili do krytu poté, co se rozezněl poplach. Sedm z nich to bohužel nestihlo. Dalších 21 lidí utrpělo zranění. Podle mateřského Metinvestu byla poškozena energetická infrastruktura i hlavní a pomocné provozy koksovny a vysokých pecí; závod musel kompletně zastavit výrobu a ostatní záporožské provozy jedou na snížený výkon. Zelenskyj uvedl, že Rusové při náletu použili severokorejské balistické rakety, ruské Zirkony a řízené letecké pumy s cílem způsobit maximální škody na civilní infrastruktuře. Ukrajinská rozvědka přitom už 5. srpna hlásila, že se do západního Ruska přesouvá severokorejská raketová jednotka. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02JXoF7mjyYLCKsPHncruZPFMXUVvSVaCiWyW852WAhAsGUUqucv41UqZB37qNYVZgl):
         detail: |
@@ -1975,6 +2068,8 @@ timeline:
         sort: "2026-08-10"
         image: assets/img/timeline/2026-08-10.jpg
         podcast: "2026-08-10.mp3"
+        pictures:
+          - ["2026-08-10-1.jpg", ""]
         desc: |
           Analýza videozáznamu z nedávného incidentu na letišti v německém Lipsku ukázala, že FPV dron narazil do křídla ukrajinského nákladního letadla An-124 „Ruslan“, ale naštěstí neexplodoval. Přestože dron zasáhl nejzranitelnější část křídla, kde se nacházejí palivové nádrže, pouze se od letadla odrazil a spadl na zem. Jeho hlavice přitom byla naplněna plastickou trhavinou Semtex, což vyvrací dřívější teorii, že se jednalo pouze o „varování“ bez úmyslu způsobit skutečné škody. USA už dříve dospěly k závěru, že dron patřil ruské speciální službě. Jedná se tak o přímý útok ruských tajných služeb na vojenský cíl na území státu NATO. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid04dAykrXeCML2TUzNWa7VmdcFskTJ3GBtcgXEAHAsAra8KWxtLPhFaLuVKpBbeXB1l): 
         detail: |
@@ -2006,6 +2101,13 @@ timeline:
         sort: "2026-08-09"
         image: assets/img/timeline/2026-08-09.jpg
         podcast: "2026-08-09.mp3"
+        pictures:
+          - ["2026-08-09-1.jpg", ""]
+          - ["2026-08-09-2.jpg", ""]
+          - ["2026-08-09-3.jpg", ""]
+          - ["2026-08-09-4.jpg", ""]
+          - ["2026-08-09-5.jpg", ""]
+          - ["2026-08-09-6.jpg", ""]
         desc: |
           Rusko v noci podniklo masivní kombinovaný útok na Oděsu, při kterém vyslalo 11 raket, z nichž většina letěla balistickou trajektorií, a až 100 dronů, včetně útočných dronů Banderol s proudovým pohonem. Ukrajinská protivzdušná obrana sestřelila 72 % dronů, pět ze šesti dronů typu „Banderol“ a jednu raketu. Další tři rakety donutila změnit kurz pomocí rušiček. Přesto Rusové zasáhli devět míst v Oděse a jejím okolí, přičemž zranili devět lidí a poškodili domy, automobily a energetickou infrastrukturu. V některých částech města nálet vyřadil z provozu dodávky elektřiny, vody a mobilní služby. A potom ještě [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0grhgCKcb8gKFw5PZdk891ZfyrXrGqzwf1ePvWDGhtKMv7g485WJfUPf9ZEYiYiu5l): 
         detail: |
@@ -2039,6 +2141,13 @@ timeline:
         sort: "2026-08-08"
         image: assets/img/timeline/2026-08-08.jpg
         podcast: "2026-08-08.mp3"
+        pictures:
+          - ["2026-08-08-1.jpg", ""]
+          - ["2026-08-08-2.jpg", ""]
+          - ["2026-08-08-3.jpg", ""]
+          - ["2026-08-08-4.jpg", ""]
+          - ["2026-08-08-5.jpg", ""]
+          - ["2026-08-08-6.jpg", ""]
         desc: |
           Ruský státní propagandista Solovjov poskytl rozsáhlý rozhovor americkému krajně pravicovému moderátorovi a konspiračnímu teoretikovi Alexi Jonesovi. Solovjov v něm mimo jiné tvrdil, že Rusko už dobylo Kosťantynivku a že „osvobození“ Donbasu bude brzy dokončeno. Dále prohlásil, že od února 2022 získalo Rusko více nového území než Sovětský svaz v důsledku druhé světové války. Podle Solovjova také nejsou USA ve skutečnosti řízeny Trumpem ani politiky, ale „technofašisty“. Jako jednoho z nich jmenoval generálního ředitele společnosti Palantir Alexe Karpa. Solovjov tvrdí, že „technofašisté“ chtějí zničit Rusko, protože je to „poslední křesťanská země na světě“. Poté naznačil, že Ukrajinci zabili Lindseyho Grahama, aby urychlili schválení jeho návrhu zákona o drakonických sankcích proti Rusku. A i další tvrzení byly solidní fantasmagorie: Rusko prý nechce obsadit Lvov ani Kyjev a nikdy nemělo v úmyslu dobýt celou Ukrajinu. Všichni ruští vojáci, kteří bojují již dva a půl roku, jsou údajně dobrovolníci. A na závěr se Solovjov a Jones dostali k té nejdůležitější otázce ze všech: kdo stojí v čele celého tohoto systému? Satan. Na tom se oba shodli. Ale zpátky do [reality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02F1ntJFLZzSR4A1tBs4YX4p4om3dd997Tvq2LvLrw3sNtms1y9fi1Y3evbwXGLh8Rl):
         detail: |
@@ -2073,6 +2182,13 @@ timeline:
         sort: "2026-08-07"
         image: assets/img/timeline/2026-08-07.jpg
         podcast: "2026-08-07.mp3"
+        pictures:
+          - ["2026-08-07-1.jpg", ""]
+          - ["2026-08-07-2.jpg", ""]
+          - ["2026-08-07-3.jpg", ""]
+          - ["2026-08-07-4.jpg", ""]
+          - ["2026-08-07-5.jpg", ""]
+          - ["2026-08-07-6.jpg", ""]
         desc: |
           Americké zpravodajské služby se domnívají, že do kouta zahnaný Putin by se mohl rozhodnout k útoku na NATO ve snaze ukázat alespoň nějaký úspěch na bojišti. K tomu by mohlo dojít již letos na podzim. Možné scénáře sahají od kyberútoku až po omezenou invazi. Pravděpodobnost krajního scénáře – pozemní operace – je v současné době hodnocena jako nízká, ale podle zpráv se s postupem času zvyšuje. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02XGiDzr5bhDkfdEoi3C21LVUrm2EmbCDBTdHJnGqLb98K9dqy2i8mYm5howuGXUAgl): 
         detail: |
@@ -2103,6 +2219,13 @@ timeline:
         sort: "2026-08-06"
         image: assets/img/timeline/2026-08-06.jpg
         podcast: "2026-08-06.mp3"
+        pictures:
+          - ["2026-08-06-1.jpg", ""]
+          - ["2026-08-06-2.jpg", ""]
+          - ["2026-08-06-3.jpg", ""]
+          - ["2026-08-06-4.jpg", ""]
+          - ["2026-08-06-5.jpg", ""]
+          - ["2026-08-06-6.jpg", ""]
         desc: |
           Ukrajinský dobrovolník Oleksij Jukov zahynul při výbuchu protipěchotní miny, když se snažil vyzvednout ostatky padlých ruských vojáků. Jukov věřil, že každý padlý voják si zaslouží vrátit se domů a že každá rodina si zaslouží možnost pochovat své blízké. Nazýval padlé „dušemi“, nikoli těly. Jeho životním posláním bylo přivádět ukrajinské obránce zpět k jejich rodinám, aby mohli být důstojně pohřbeni. Zároveň vyzvedával ostatky ruských vojáků, aby mohly být vyměněny, a umožnil tak návrat domů dalším ukrajinským hrdinům. Oleksij se svými principy řídil až do poslední chvíle. Ať je mu země lehká. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0y7QJG3ZsJSwkgejm1vq2r7VNZECBZK21n1y37ppPetZvBT3vTmAAvnhNWwv6Gc49l): 
         detail: |
@@ -2138,6 +2261,13 @@ timeline:
         sort: "2026-08-05"
         image: assets/img/timeline/2026-08-05.jpg
         podcast: "2026-08-05.mp3"
+        pictures:
+          - ["2026-08-05-1.jpg", ""]
+          - ["2026-08-05-2.jpg", ""]
+          - ["2026-08-05-3.jpg", ""]
+          - ["2026-08-05-4.jpg", ""]
+          - ["2026-08-05-5.jpg", ""]
+          - ["2026-08-05-6.jpg", ""]
         desc: |
           V noci byl na letišti v Lipsku nalezen na zemi FPV dron s výbušninami. Dron se nacházel v blízkosti ukrajinského nákladního letadla typu Antonov, což vedlo k dočasnému přerušení provozu letiště. Později, asi 6 km od letiště, se jiné nákladní letadlo srazilo s neznámým předmětem a muselo nouzově přistát v Hannoveru, kde byly zjištěny drobné škody. Naštěstí nebyl při ani jednom z incidentů nikdo zraněn. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02KcUsNDqoiCnmERzq6Vy9UHkb4Ux6JMUaYkQtdD9SxKpFZtJC92M3CeoVLxh7TMfnl): 
         detail: |
