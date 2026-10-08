@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek"
+        year: "8. října 2026"
+        sort: "2026-10-08"
+        image: assets/img/timeline/2026-10-08.jpg
+        podcast: "2026-10-08.mp3"
+        desc: |
+          Dva autobusy plné lidí ráno na ulici v Kramatorsku, cestou do práce. Ruská kluzná bomba, pravděpodobně řízená munice UMPB D-30 SN svržená z letadla, je zasáhla jeden po druhém. První bomba rozmetala na úlomky karoserie, druhý shořel do kostry. Bilance během dne stoupala z dvanácti na třicet a nakonec na 33 mrtvých a osmnáct zraněných, dvě těla zůstala neidentifikována a Zelenskyj varoval, že číslo ještě nemusí být konečné. Je to jeden z nejsmrtelnějších jednotlivých úderů letošního roku. Vedoucí Doněcké oblastní správy Vadym Filaškin nařídil zastavit veřejnou dopravu v Kramatorsku i ve Slovjansku, protože prý Ukrajina „nemá právo riskovat životy lidí“, a popsal to bez okolků: autobus s cestujícími je pro Rusy „atraktivní cíl“, protože jediný zásah zabije spoustu lidí. Z Moskvy nepřišlo nic, žádná reakce, Rusko jen opakovaně popírá, že by útočilo na civilisty. A shodou okolností právě dnes prohlásil americký ministr zahraničí Marco Rubio, že válka se dostala do „strategického patu“. Pro třiatřicet lidí v Kramatorsku to ale bohužel žádný pat nebyl. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Th2c9RPQwNhx4m4ew9qreVqZdm4ReH9Yte8BbuPFw9vkF2MBsHoZfkf3WdgTeWz5l):
+        detail: |
+          - Británie oznámila 38 nových entit na sankčním seznamu. Dvě ropné firmy, Zarubežněft a INK Capital, dvanáct tankerů stínové flotily, většinou starších dvaceti let a plujících pod falešnými vlajkami, šest zápisů ve finančním a kryptosektoru a sedmnáct v dodavatelských řetězcích, včetně ruských dovozců obráběcích strojů, elektroniky a materiálů pro výrobu balistických raket a dronů. Británie tak nyní pokrývá sankcemi více než devadesát procent ruské ropné produkční kapacity a celkem má proti Rusku 3 537 sankcí. Mezi zasaženými kryptosubjekty je Xeltox Enterprises, vlastník burzy Cryptomus, a dvě platformy, které zpracovávaly transakce pro kremelskou nelegální finanční síť A7. Ta loni podle vlastních tvrzení přesunula více než devadesát miliard dolarů, tedy asi polovinu ročních ruských vojenských výdajů. 
+          - Peskov přitakal Rubiovi a prohlásil, že cesta k mírovému urovnání „momentálně není v dohledu“, že dohoda musí vydržet „pro generace“ a že dočasné zmrazení konfliktu nepomůže, a náměstek ministra zahraničí Sergej Rjabkov den předtím uvedl, že jednání v americkém formátu se zatím neplánují. Zelenskyj Rubiovu diagnózu o „patu“ odmítl: „Během téhle války jsme slyšeli všelijaké věci. Do kouta se zaháníme sami – lidi, vůdci, politici, děláme si to sami.“ A doplnil recept: „Zavřete Rusku celou ekonomiku. Zašijte mu pusu. Přestaňte je krmit svými prodeji.“
+          - Ruské velení přesouvá do směru Slovjansk-Kramatorsk další síly z méně důležitých úseků fronty, jmenovitě jednotky Sil bezpilotních systémů a spetsnazu, s cílem obsadit aglomeraci před zimou. ISW takový cíl rovnou označil za blud. Institut také potvrdil ukrajinské postupy východně od Oleksandrivky v Dnipropetrovské oblasti a osvobození Perebudovy severně od Komaru, které přiznávají i ruští milbloggeři, a pokračující úspěšné protiútoky k východnímu břehu řeky Žerebec severovýchodně od Lymanu. 
+          - Ukrajinské drony v noci zasáhly datové centrum Yandexu v Sasovu v Rjazaňské oblasti, největší datacentrum firmy, které stojí na pozemku strojírenského závodu Sasta, výrobce kovoobráběcích a CNC strojů pod britskými sankcemi od roku 2024. Yandex oznámil, že provoz v Sasovu byl plně pozastaven, což dokazovaly i následné výpadky internetu. Akcie Yandexu klesly na Moskevské burze o více než 3,4 procenta. 
+          - RFE/RL zveřejnilo zachycený ruský plán úderů na šedesát strategických energetických a komunálních cílů na Ukrajině. Na seznamu je deset velkých vodních elektráren na Dněpru a Dněstru, tři funkční jaderné elektrárny, které mají být odpojeny od sítě, přeshraniční interkonektory na západě země, tepelné elektrárny a teplárny, vysokonapěťové rozvodny, kotelny, čistírny a vodní pumpy. 
+          - Reuters s odvoláním na pět lidí se znalostí jednání napsal, že nejvyšší ruští a američtí představitelé včetně zvláštního vyslance Jareda Kushnera probírali vstup amerického investora do plynovodů Nord Stream. Dmitrijev a Kushner podle Reuters probírali i prodej evropských aktiv Lukoilu konsorciu americké DFC a investorů z Kataru a SAE s tím, že USA zruší sankce.
+          - Předseda Vojenského výboru NATO admirál Giuseppe Cavo Dragone v Kyjevě uvedl, že Aliance se rozhodla letos poskytnout Ukrajině materiál za sedmdesát miliard dolarů a za stejnou sumu i v roce 2027. Zároveň vyzval členské země, aby zjistily, kolik 20mm munice mohou Ukrajině poslat okamžitě.
+          - Generální štáb potvrdil zásah ropného a petrochemického komplexu Gazprom Neftěchim Salavat v Baškortostánu, kde po útoku vypukl požár, a také úder na největší rafinerii Omské oblasti na vzdálenost přes 2 500 kilometrů od Ukrajiny, provedený modernizovanými drony FP-1.
+          - Velvyslanci EU se shodli na největším rozšíření sankčního seznamu od roku 2022: 743 fyzických osob a 826 subjektů. Celkový počet osob a subjektů pod válečnými sankcemi EU se zvýší na téměř 4 650. Ministři zahraničí mají seznam formálně potvrdit v pondělí v Lucemburku.
+          - Zelenskyj oznámil, že ukrajinský vyjednávací tým odjíždí 9. a 10. října na jednání do USA, a vyzval Washington, aby Ukrajině otevřel Starlink nad ruským územím: „Pomozte nám bránit nebe a dominovat mu. Pak si Putin sedne k vyjednávacímu stolu.“
+          - V noci Rusko vypustilo na Ukrajinu 142 útočných a maketových dronů typu Shahed, Gerbera a Parodie, z nichž 82 bylo proudových. Protivzdušná obrana zneškodnila 126 dronů, zásahy jsou hlášené ze sedmi lokalit a pády trosek ze čtyř.
+          - Kyjevské oblasti je po dronovém náletu poškozena škola se školkou a dětské hřiště a jeden zraněný. Ministerstvo energetiky zároveň vyzvalo lidi, aby nezveřejňovali záběry z míst zásahů, protože pomáhají nepříteli a ohrožují opraváře.
+          - V některých ruských dronech Gerbera, které v noci z 9. na 10. září 2025 vnikly do polského vzdušného prostoru, našla polská vojenská prokuratura SIM karty polských mobilních operátorů.
+          - Litevský premiér Mindaugas Sinkevičius vyzval k sankcím EU proti ruskému obilí. Litva bude prosazovat zákaz tranzitu i zařazení ruských zemědělských oligarchů na sankční seznam.
+          - AfD a BSW získaly většinu v parlamentu první východoněmecké země. Jejich první společný návrh: ukončit pomoc Ukrajině a obnovit vztahy s Ruskem.
+          - Zálužnému věří 64 procent Ukrajinců, Zelenskému a Budanovovi po 53 procentech, vyplývá z průzkumu Rating Group.
+          - Jižní Korea odvolá svého velvyslance na Ukrajině Park Hee-changa. 
+          - Marine Le Penová se postavila proti členství Ukrajiny v EU.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1013907328819775255)
+          - [Kramatorsk](https://pixelfed.cz/p/dnesnaukrajine/1013901684419352240)
+          - [Na frontě](https://x.com/GloOouD/status/2108227112914014290)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/1013906808237295368)
+          - [Mínus radar](https://pixelfed.cz/p/dnesnaukrajine/1013906841445279497)
+          - [Omsk](https://pixelfed.cz/p/dnesnaukrajine/1013906885661304586)
+          - [HIMARS vs. radar](https://pixelfed.cz/p/dnesnaukrajine/1013906906612610827)
+          - [Neprošli](https://pixelfed.cz/p/dnesnaukrajine/1013906931289630476)
+          - [Mínus datacentrum](https://pixelfed.cz/p/dnesnaukrajine/1013906951931737870)
+          - [Yandex](https://pixelfed.cz/p/dnesnaukrajine/1013906973614888719)
       - title: "Středa"
         year: "7. října 2026"
         sort: "2026-10-07"
