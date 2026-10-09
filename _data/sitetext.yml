@@ -38,6 +38,35 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "9. října 2026"
+        sort: "2026-10-09"
+        image: assets/img/timeline/2026-10-09.jpg
+        podcast: "2026-10-09.mp3"
+        desc: |
+          Ukrajinské drony si v noci udělaly výlet skoro až k polárnímu kruhu. V Uchtě v Komijské republice, bezmála 1 700 kilometrů od ukrajinských hranic, se nad rafinerií Lukoil-Uchtaněftěpererabotka zvedl po náletu sloup černého kouře. V Tverské oblasti pro změnu hořel Redkinský experimentální závod, který vyrábí komponenty palivové směsi Decilin-M pro střely s plochou dráhou letu Ch-55 a Ch-101, tedy přesně pro ty rakety, jimiž Rusko zasahuje ukrajinskou energetiku. A v Kalužské oblasti přišlo o několik kompletně vyřazených modulů datacentra Yandexu, druhé ruské datacentrum téže firmy za dva dny. Zelenskyj to po útocích na ukrajinská datacentra předeslal docela stručně: odpovídáme vždy stejnou mincí. Yandex mezitím vymazal svá datová centra z map. Jako to mohlo něčemu pomoct. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02jjPZhBcZZSbA3oGkBUtLBAX8hrmhghq89CS43fpqnTCa4SUMpUWtRHEDWNVyjeXAl):
+        detail: |
+          - Ukrajinská delegace dorazila do Miami na dvoudenní jednání s americkými vyjednavači Stevem Witkoffem a Jaredem Kushnerem. Za Kyjev přijeli šéf prezidentské kanceláře Kyrylo Budanov, jeho první zástupce Serhij Kyslycja, ředitel zahraniční rozvědky Rustem Umerov a předseda frakce Služebník lidu Davyd Arachamija. Washington přizval i poradce pro národní bezpečnost z Británie, Francie a Německa a představitele NATO a EU. Na stole jsou bezpečnostní garance pro Ukrajinu, plán poválečné obnovy a podle Axios také částečné zastavení palby, které by se omezilo na útoky na energetiku a vývoz obilí. Ukrajina už dala echo, že by na to přistoupila, Rusko zatím mlčí. Witkoff a Kushner by měli ještě v říjnu zamířit do Moskvy za Putinem – potřetí za rok. Trumpova administrativa chce průlom v jednáních před americkými volbami do Kongresu a než naplno udeří zima.
+          - Černá Hora zadržela Michaila Zvinčuka, zakladatele proválečného telegramového kanálu Rybar, spolu s jeho manželkou a třemi spolupracovníky. Bývalý tiskový důstojník ruského ministerstva obrany je na sankčních seznamech a americký State Department nabízí až 10 milionů dolarů za informace vedoucí k němu a lidem z Rybaru kvůli vměšování do (nejen) amerických voleb a vlivovým operacím. Podle černohorských médií šlo o akci policie a tajné služby proti hybridním aktivitám ruských informačních sítí. Skupina měla v zemi natáčet materiál, který měl poškodit černohorskou turistiku a ekonomiku. Premiér Milojko Spajić na síti X napsal, že Černá Hora chrání své zájmy a nikdo neohrozí její evropskou budoucnost. 
+          - Rakouská policie po více než dvanácti hodinách propustila ukrajinského investigativního novináře Mychajla Tkače, šéfa investigativního oddělení Ukrajinské pravdy. Ten byl ve Vídni na redakční misi a pátral po uprchlém bývalém generálním prokurátorovi Ruslanu Kravčenkovi, kterého NABU a SAPO v rámci operace Kartágo podezřívají, že za úplatky kryl podvodná call centra. Zadržen byl i kameraman Jaroslav Bondarenko, který se podle šéfredaktorky Sevgil Musajevové při zásahu zranil. Ministerstvo zahraničí potvrdilo Tkačovo propuštění, redakce ale označila zadržení za nezákonné a žádá od Rakouska vysvětlení okolností, informaci o Bondarenkově stavu a vrácení zabavených telefonů.
+          - Za poslední den zabily ruské útoky na Ukrajině nejméně 41 lidí a 67 jich zranily. Nejhůř je na tom Doněcká oblast, následuje Záporožská s 1 039 zásahy v 51 obcích. Na samotné Záporoží dopadlo mezi 4:50 a 5:59 šest řízených pum, jeden člověk zahynul, devět bylo zraněno včetně dítěte a policisty a hasiči evakuovali dvanáct lidí. V noci Rusko vyslalo 136 dronů, z toho 93 proudových Šáhidů, protivzdušná obrana jich sestřelila nebo potlačila 114. Na okraji Černihivu zapálil dron typu Geran hypermarket.
+          - Ukrenergo hlásí nové odstávky energie v Kyjevě a šesti oblastech, tedy na Černihivsku, Charkovsku, Doněcku, Záporožsku, Dnipropetrovsku a Odesku. V části regionů platí hodinové harmonogramy a omezení pro průmysl. Spotřeba byla v 9:30 o 11,4 procenta vyšší než den předtím, protože na západě bylo zataženo a domácí solární panely nestíhaly produkovat. Ruský dron zasáhl energetické zařízení v Poltavské oblasti a odstřihl od elektřiny šest tisíc odběratelů.
+          - Britský ministr zahraničí Ed Miliband při své první návštěvě Ukrajiny v této funkci oznámil zimní balíček za 54 milionů liber, tedy asi 71 milionů dolarů. Dvacet milionů půjde na havarijní opravy energetických sítí, záložní generátory a solární zdroje, dalších 34 milionů na udržení vytápění a vodohospodářské infrastruktury přes zimu. Balíček je podle Milibanda vzkaz Putinovi, že Brity jen tak neunaví.
+          - Námořník britského královského námořnictva Teddy Young, čtyřiadvacetiletý specialista vojenského zpravodajství s vysokým bezpečnostním prověřením, se poprvé postavil před soud. Podle obžaloby mezi listopadem 2024 a květnem 2025 shromažďoval chráněné informace ve prospěch cizí moci a sepsal rusky zprávu s utajovanými údaji. Soudkyně ho poslala do vazby, další stání bude 16. října.
+          - Agentura Rating zveřejnila průzkum z 3. až 5. října. V hypotetickém prvním kole prezidentských voleb by Volodymyr Zelenskyj získal 22,9 procenta, Valerij Zalužnyj 20,2 procenta, Petro Porošenko a Mychajlo Fedorov po 7,6 procenta, Kyrylo Budanov 6,7 procenta, Andrij Bileckyj 5,4 a Dmytro Razumkov 5,1 procenta. Nerozhodnutých je 9,2 procenta obyvatel.
+          - Na lvovské stanici Pidzamče se při odjezdu srazil motorový vlak Lvov-Sokal s elektrickou lokomotivou. Zraněno bylo pět lidí, strojvedoucí byl uvězněn v kabině. Příčinu vyšetřují železniční specialisté.
+          - Kyjevští policisté zneškodnili dvě nevybuchlé balistické rakety, které dopadly v blízkosti obytných domů. Každá vážila půl tuny.
+          - Kyjevský starosta Kličko vyzval obyvatele, aby na zimu odešli. Podle něj půjde o holé přežití. 
+          - Ukrajina se zúčastní mezinárodní zbrojní výstavy a fóra Future Forces v Praze.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1014178179957620840)
+          - [Ruský nálet na dětské hřiště](https://pixelfed.cz/p/dnesnaukrajine/1014175963660480591)
+          - [Ukrajinský dron a jeho odpal](https://pixelfed.cz/p/dnesnaukrajine/1014175994952228944)
+          - [Rus na straně příjemce](https://pixelfed.cz/p/dnesnaukrajine/1014176044277895249)
+          - [Ruská likvidace min](https://pixelfed.cz/p/dnesnaukrajine/1014176104706527314)
+          - [Ruská PVO](https://pixelfed.cz/p/dnesnaukrajine/1014176148714377299)
+          - [Drony pracují](https://pixelfed.cz/p/dnesnaukrajine/1014176201084813396)
+          - [Bělgorod](https://pixelfed.cz/p/dnesnaukrajine/1014176244689383509)
       - title: "Čtvrtek"
         year: "8. října 2026"
         sort: "2026-10-08"
