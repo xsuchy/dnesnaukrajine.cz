@@ -38,6 +38,39 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota"
+        year: "10. října 2026"
+        sort: "2026-10-10"
+        image: assets/img/timeline/2026-10-10.jpg
+        podcast: "2026-10-10.mp3"
+        desc: |
+          Rusko shodilo na obytné čtvrti Záporoží pět řízených leteckých pum a jedna z nich zničila vchod pětipodlažního domu až po úroveň druhého patra. Do odpoledne se počet mrtvých vyšplhal na patnáct, mezi nimi tři děti, zraněných je podle ministra vnitra Ivana Vyhivského sedmnáct. Jednu ženu vytáhli záchranáři z trosek živou po osmi hodinách, poškozeno je nejméně 26 domů v Ševčenkivském a Voznesenivském rajónu a osud dalších lidí pod troskami byl i odpoledne nejasný. Prokuratura věc šetří jako další válečný zločin. Zelenskyjto pojmenoval bez obalu: tohle je ruské poděkování za to, že Washington den předtím uvolnil sankce na ruskou naftu. Rusko podle něj každé polevení tlaku čte jako signál, že má válčit dál, a svět mu musí začít posílat jiné signály. Den předtím zabil jiný ruský útok v Záporoží 23 lidí. S tím vším souvisí i další [zpráva](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02rL4buoV4F9Ut3JoVTZBJFKo4q8kxwuux7noTQvoNzna4z2gMdE6SdwJaJH6uh87Xl):
+        detail: |
+          - Americké ministerstvo financí vydalo licenci, která až do 7. dubna 2027 povoluje prodej, dodávky a dovoz ruské nafty. Trump oznámil, že se s Putinem dohodli na uvolnění sankcí, aby se srazily ceny pohonných hmot, a slíbil, že půjdou dolů „rekordním tempem“. Rusko má okamžitě pustit na trh 300 tisíc tun, v listopadu dalších 500 tisíc a potom milion, Trump dokonce mluvil o třech milionech tun „v nejbližší době“. Vicepremiér Novak potvrdil, že Moskva je připravena dodávky navýšit. Futures na naftu po oznámení spadly o čtyři procenta, pořád jsou ale více než o 110 procent nad lednovou úrovní. Republikán Don Bacon mluví o „morální slepotě“ vůči Putinovi, demokrat Richard Blumenthal o poskvrnění charakteru amerického národa a firmám ve Státech vzkázal, že „Kongres se dívá“.
+          - Podle Axios američtí vyjednavači Steve Witkoff a Jared Kushner na jednání v Miami ukrajinské straně pohrozili, že Ukrajina může přijít o přístup k americkým zpravodajským informacím, pokud nepřestane útočit na ruské rafinerie. Trump prý o to Zelenského požádal asi šestkrát a Kyjev to pokaždé ignoroval, a teprve pak padlo rozhodnutí povolit nákup ruské nafty. Tentýž činitel tvrdí, že Zelenskyj „špatně čte situaci“ a „vyčerpává dobrou vůli, kterou mu Trump posledního půl roku prokazoval“. Útoky na rafinerie podle Trumpa zvedají ceny paliv v USA a Trump je nebere jako rovnocennou odpověď na ruské útoky na ukrajinskou energetiku. Witkoff s Kushnerem podle zdrojů zvažují, že příští týden vyrazí do Moskvy a do Kyjeva s novým mírovým návrhem.
+          - V Kyjevě se po zásahu energetického objektu v Kyjevské oblasti kolem jedné odpoledne zastavilo metro i eskalátory, protože zmizelo napětí z externích přívodů. Kyjevpastrans vzápětí odstavil elektrickou dopravu v Holosijivském a částečně v Solomjanském, Ševčenkivském a Pečerském rajónu. Provoz v metru se obnovil asi o hodinu později, ale s intervaly patnáct minut a více. Vitalij Kličko hlásil i problémy s dodávkami vody. V Solomjanském rajónu spadly trosky dronů na pětadvacetipodlažní obytný dům a na osmipodlažní administrativní budovu.
+          - Ombudsman Dmytro Lubinec oznámil, že ruské jednotky pod záminkou „evakuace“ odvezly 25 obyvatel okupované části Charkovské oblasti, mezi nimi děti i seniory. Okupanti to na Telegramu prezentují jako „záchrannou operaci“, na videích je ale vidět nátlak a zastrašování. Lubinec nejvíc řeší děti, o kterých rodiče nemusí mít tušení, kde jsou, a varuje před telegramovým botem, přes který Rusové sbírají osobní údaje. 
+          - Bělorusko si předvolalo ukrajinského chargé d'affaires Ivana Novického kvůli útoku dronu na kamion s běloruskou registrací v Brjanské oblasti, při kterém byla těžce zraněna běloruská občanka. Minsk tvrdí, že šlo o záměr, a vyhrazuje si „adekvátní odpovědní opatření“. Ukrajinské ministerstvo zahraničí obvinění odmítlo jako nepodložené a Minsku připomnělo, že je spolupachatelem ruské agrese.
+          - Kreml ústy Jurije Ušakova popsal páteční telefonát tak, že Putin odmítl obnovení mírových rozhovorů a potvrdil, že Rusko povede válku, „dokud nedosáhne všech vytčených cílů“. Trump mu podle Ušakova popřál k narozeninám, přál mu úspěchy a předal pozdrav od první dámy. Putin navíc obvinil Ukrajinu, že se snaží narušit ruské volby, a tvrdil, že jeho jednotky „plně drží iniciativu“ a postupují.
+          - V noci Rusko vyslalo na Ukrajinu 160 dronů, z toho 110 reaktivních, včetně Šáhidů, Gerber a maket Parodija. Startovaly z Orlu, Kurska, Šatalova, Millerova a Primorsko-Achtarsku, z okupovaného Doněcku a z Hvardijského na Krymu, útok začal už v šest večer a ráno stále probíhal. Protivzdušná obrana zneškodnila 117 cílů, zásahy jsou hlášeny ze čtrnácti míst a trosky dopadly na dalších deset. 
+          - NATO a EU tlačí na Řecko a Španělsko, aby předaly Ukrajině rakety Patriot PAC-2, kterým se blíží konec certifikované dvacetitřileté životnosti. Athény jich podle Telegraphu mají nejméně dvě stě, španělské zásoby jsou tajné a Madrid v září potvrdil dodávku pěti kusů. Zelenskyj mluví o potřebě 300 až 360 antiraket na zimu. 
+          - V Rostově na Donu hořel po nočním útoku dronů terminál Novošachtinského závodu ropných produktů, dříve známý jako Jug Rusi, s projektovou kapacitou asi 2,5 milionu tun ročně. Terminál překládá ropné produkty na export a zásobuje palivem ruskou armádu. 
+          - Generální štáb potvrdil opakovaný zásah ropného uzlu Samara u obce Prosvet v Samarské oblasti. Stanice přijímá ropu potrubím z Tatarstánu a západní Sibiře a míchá z ní exportní směs Urals. Rozsah škod se ještě zjišťuje, při útoku ze 7. října tam shořely čtyři padesátitisícové nádrže.
+          - Při nedávném náletu na ruský velitelský post u Doněcku údajně zahynuly dvě desítky ruských důstojníků ze 41. armády – 18 na místě a další dva v nemocnici. Mezi nimi je sedm plukovníků, šest poručíků, pět majorů, jeden kapitán a jeden starší poručík.
+          - Ukrajina podle Financial Times nehodlá útoky na ruské rafinerie zastavit ani po Trumpově dohodě s Putinem. Kyjev dříve opakoval, že je připraven přestat, pokud Rusko přestane bombardovat ukrajinskou energetiku a civilní infrastrukturu.
+          - Kompromisní verze unijního rozpočtu zachovává podporu Ukrajině, ale krátí peníze určené na její evropskou integraci. 
+          - Lídr ruského Jabloka dostal pokutu za protiválečné slogany dopsané na hlasovací lístky do Dumy.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1014533090595288382)
+          - [Ruský kulturní event ve Washingtonu](https://pixelfed.cz/p/dnesnaukrajine/1014528501265933534)
+          - [Rostov](https://pixelfed.cz/p/dnesnaukrajine/1014528532382069983)
+          - [Neproplížili se](https://pixelfed.cz/p/dnesnaukrajine/1014528599011468512)
+          - [Překvapení](https://pixelfed.cz/p/dnesnaukrajine/1014528642541692131)
+          - [Ruská bramborová PVO](https://pixelfed.cz/p/dnesnaukrajine/1014528677431919844)
+          - [Rostov](https://pixelfed.cz/p/dnesnaukrajine/1014528691398952165)
+          - [Samara](https://pixelfed.cz/p/dnesnaukrajine/1014528719915525350)
+          - [Mínus Pancir](https://pixelfed.cz/p/dnesnaukrajine/1014528742371001576)
+          - [Baf!](https://pixelfed.cz/p/dnesnaukrajine/1014528802028791018)
       - title: "Pátek"
         year: "9. října 2026"
         sort: "2026-10-09"
