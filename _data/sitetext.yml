@@ -38,6 +38,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle"
+        year: "11. října 2026"
+        sort: "2026-10-11"
+        image: assets/img/timeline/2026-10-11.jpg
+        podcast: "2026-10-11.mp3"
+        desc: |
+          Trump včera vzkázal Volodymyru Zelenskému k útokům na ruské rafinerie „ať toho sakra nechá“, a dodal, že by Ukrajina měla mít „nového prezidenta“. To vše pár dní po tom, co jeho administrativa povolila dovoz ruské nafty do Spojených států až do dubna 2027. Zelenský dnes odpověděl způsobem, který se dal čekat: Ukrajina je ochotná přestat bombardovat ruské rafinerie v okamžiku, kdy Rusko přestane bombardovat ukrajinskou energetiku. „Skutečnou příčinou války v Evropě je Rusko, a jedině Rusko,“ řekl s tím, že jakákoli deeskalace musí být vzájemná a opřená o skutečné garance, protože Rusko už dohodnuté klidy zbraní porušilo tolikrát, že slovo samo nestačí. Energetické příměří je podle něj dosažitelné hned, jen ho Putin nechce. Připomeňme kontext, který ve Washingtonu zřejmě zapadl: 8. října ruské útoky na rozvodnou síť ponořily Kyjev takřka do úplné tmy a od té doby neustaly. Generální štáb v září odhadoval, že 45 procent ruských rafinérských kapacit stojí. Tedy že právě ty údery, které má Kyjev zastavit, fungují ze všeho nejlépe. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02JJBUWVDJVzjF74vn9dn6GKZroWVRoLGuH49KFU1gT2wtQAN3EMcmikcCn79dq2atl):
+        detail: |
+          - Ruský Yandex přišel za čtyři dny o třetí datové centrum. Po Sasovu v Rjazaňské oblasti a po Kaluze dnes podle agentury TASS kompletně odstavil provoz ve Vladimirské oblasti, kde po náletu dronů vypukl požár. Yandex Cloud ráno přiznal „přerušení dodávek energie v zóně dostupnosti ru-central1-a“, což je právě vladimirský areál. Podle kanálu Ostorožno Novosti si dnes lidé napříč Ruskem nemohli objednat taxi, stejné potíže hlásili zákazníci v Srbsku, Kazachstánu, Bělorusku a Armenii, nefungovala aplikace Yandex Pro pro řidiče a kurýry ani služby smart home. Firma si včera do uživatelských podmínek přidala útoky dronů a raket jako okolnost vyšší moci, která ji zbavuje závazků.
+          - Ukrajinské drony poškodily sklápěcí železniční most přes Don mezi Rostovem na Donu a Batajskem. Provoz musel být zastaven na obou kolejích a Rusko přiznalo zpoždění u 25 dálkových vlaků na trasách z Moskvy a Petrohradu do Adleru, Novorossijsku, Anapy a Mineralnych Vod. Soupravy Tavrija na okupovaný Krym nabraly až tři a půl hodiny zpoždění. Podle otevřených zdrojů jde o klíčový bod logistiky ruské armády, přes který putuje vojenský náklad a posily na jižní frontu. Monitorovací kanály hlásily možné poškození samotného zdvihacího mechanismu, oficiálně to potvrzeno nebylo. Hnutí ATESH přitom už 6. října informovalo, že Rusko opevňuje mosty přes Don proti dronům.
+          - V noci na dnešek zaútočilo Rusko 116 útočnými drony typu Shahed, z nichž bylo 95 proudových, k tomu připojilo Gerbery a návnady Parodija. Protivzdušná obrana podle předběžných údajů letectva sestřelila nebo potlačila 94 z nich, mezi nimi 74 proudových Shahedů, deset dronů zasáhlo sedm lokalit a na devíti místech dopadly trosky. Za poslední den zabily ruské útoky nejméně dva lidi a 25 jich zranily. V Dnipropetrovské oblasti zahynul jedenáctiletý chlapec a devět lidí bylo zraněno, mezi nimi dvě osmileté dívky, v Doněcké oblasti je jeden mrtvý a čtyři ranění, v Charkově šest zraněných včetně dítěte, v Kyjevské oblasti čtyři, na Sumštině dva a v Chersonu jeden.
+          - Lotyšsko, Litva a Estonsko poslaly společný dopis, v němž žádají zákaz tranzitu ruského obilí přes území Evropské unie, zastavení vývozu obilí ukradeného na okupovaných ukrajinských územích a posílení Solidárních koridorů mezi EU a Ukrajinou. „Evropská unie se nesmí stát kanálem, jímž si Rusko kompenzuje ekonomické důsledky své vlastní agrese,“ píše se v dopise. Ukrajinský ministr zemědělství Taras Vysockyj iniciativu přivítal, premiéři tří baltských států se sejdou s ostatními lídry 14. října v Bruselu, kam přijede i Zelenskyj.
+          - Osmnáct ukrajinských firem už má povolení vyvážet hotové zbraně. Komise pro kontrolu exportu podle svého šéfa Davyda Alojana zpracovala více než 400 žádostí a schválila přes devadesát procent z nich. Kapacita ukrajinské zbrojní výroby má letos dosáhnout 55 miliard dolarů, oproti zhruba miliardě ročně na začátku invaze, u některých kategorií Ukrajina vyrobí až o polovinu víc, než sama dokáže využít nebo zaplatit. Ministerstvo obrany a generální štáb si drží právo prvního odběru.
+          - Kolem páté hodiny ráno zasáhl ruský dron u Sum sanitku, která jela k výjezdu. Zraněni byli čtyřiačtyřicetiletý řidič a devětapadesátiletá zdravotnice, podle předběžných informací ne těžce. Posádka se z poškozeného vozu dostala sama, kolegové ji pak odvezli i přes riziko druhého úderu.
+          - Podle Financial Times, který se odvolává na pět evropských tajných služeb, zesílila ruská vojenská rozvědka GRU pokusy o zavraždění vedoucích představitelů evropských zbrojovek. Cílem má být oslabit podporu Ukrajiny. Firmy v reakci posílily osobní ochranu svých manažerů.
+          - Nizozemská ministryně obrany Dilan Yeşilgöz-Zegeriusová prohlásila, že Nizozemsko považuje Rusko za nepřítele, nikoli už jen za agresora. „Rusko je náš nepřítel. A ne, neznamená to, že jsme ve válce,“ řekla. Žádná jiná země Evropské unie to zatím takto výslovně neformulovala.
+          - V noci zasáhly ukrajinské drony pozici ruské protivzdušné obrany v Soči, konkrétně v oblasti Sirius. Při téže vlně útoků dostala zásah i sočská ropná infrastruktura, na snímcích je šest zničených nádrží v depu Rosněfti a tři poškozené nebo zničené u Lukoil-Jugněfteprodukt.
+          - Estonský premiér Kristen Michal označil americké uvolnění sankcí na ruskou naftu za historickou chybu. Estonsko podle něj omezilo dovoz ruského paliva právě na americké naléhání, takže odřezávat Moskvu od příjmů je potřeba dál.
+          - Austrálie i po otevření amerického trhu ruské palivo nadále nevpustí. Podle australských představitelů nechtějí, aby z války na Blízkém východě profitoval Vladimir Putin.
+          - Evropská unie za prvních devět měsíců roku dovezla rekordních 12,18 milionu tun ruského zkapalněného plynu z Arktidy, o 9,5 procenta víc než loni.
+          - Počet mrtvých po včerejším zásahu obytné čtvrti v Záporoží řízenými bombami vystoupal na dvacet, mezi nimi jsou tři děti, zraněných je 32.
+          - Japonské ministerstvo obrany podepsalo kontrakt na nákup ukrajinských interceptorových dronů od firmy SkyFall.
+          - Španělsko a Řecko odmítly předat Ukrajině rakety Patriot, jimž se blíží konec životnosti.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1014892003882009295)
+          - [Samara](https://pixelfed.cz/p/dnesnaukrajine/1014890777250452141)
+          - [Štěstí](https://pixelfed.cz/p/dnesnaukrajine/1014890815888028334)
+          - [Záporoží](https://pixelfed.cz/p/dnesnaukrajine/1014890893600023217)
+          - [„Trump pidar“](https://pixelfed.cz/p/dnesnaukrajine/1014890920319984307)
+          - [Mínus sklad paliv](https://pixelfed.cz/p/dnesnaukrajine/1014890973470360246)
+          - [Na Krym pontonem](https://pixelfed.cz/p/dnesnaukrajine/1014891015493640887)
+          - [Chytil ho](https://pixelfed.cz/p/dnesnaukrajine/1014891052042035896)
+          - [Mínus datacentrum](https://pixelfed.cz/p/dnesnaukrajine/1014891086459491001)
+          - [Mínus pontony](https://pixelfed.cz/p/dnesnaukrajine/1014891115567641274)
       - title: "Sobota"
         year: "10. října 2026"
         sort: "2026-10-10"
