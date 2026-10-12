@@ -43,6 +43,11 @@ timeline:
         sort: "2026-10-12"
         image: assets/img/timeline/2026-10-12.jpg
         podcast: "2026-10-12.mp3"
+        pictures:
+          - ["2026-10-12-1.jpg", "Po ruském náletu."]
+          - ["2026-10-12-2.jpg", "Ruský Geran má nově 32 antén."]
+          - ["2026-10-12-3.jpg", "Aktivita na Redditu po zničení ruských datacenter."]
+          - ["2026-10-12-4.jpg", "Fronte podle Molina."]
         desc: |
           Energetické příměří, které Donald Trump v neděli oznámil na Truth Social, má jeden drobný problém: neví o něm ani jedna ze dvou válčících stran. Rusko navíc včera večer zasáhlo teplárnu CH-5 v Charkově. Kreml k příměří podle mluvčího Dmitrije Peskova „zatím nemá co říct“, kontakty údajně probíhají a jakmile bude co oznámit, určitě to řekne. Zato měl Peskov naprosto jasno v tom, co Rusko nechce: Zelenského návrh šedesátidenního příměří, během kterého by Ukrajina stihla uspořádat prezidentské volby, odmítl se slovy, že „jak prezident Putin, tak představitelé na dalších úrovních opakovaně uvedli, že příměří nechceme“. Putin je prý pouze ochoten nařídit, aby se v samotný den hlasování na Ukrajinu neútočilo. Jeden den klidu na volby, pak zas normálka – bomby, požáry, smrt. To je ruská velkorysost. Ale také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0fVnAQnK6HZz5B3vGCNQpcBbqWmrT1c5CksfJmhWdLs9VGn4yyhkiQWMgeweBELXRl): 
         detail: |
