@@ -38,6 +38,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí"
+        year: "12. října 2026"
+        sort: "2026-10-12"
+        image: assets/img/timeline/2026-10-12.jpg
+        podcast: "2026-10-12.mp3"
+        desc: |
+          Energetické příměří, které Donald Trump v neděli oznámil na Truth Social, má jeden drobný problém: neví o něm ani jedna ze dvou válčících stran. Rusko navíc včera večer zasáhlo teplárnu CH-5 v Charkově. Kreml k příměří podle mluvčího Dmitrije Peskova „zatím nemá co říct“, kontakty údajně probíhají a jakmile bude co oznámit, určitě to řekne. Zato měl Peskov naprosto jasno v tom, co Rusko nechce: Zelenského návrh šedesátidenního příměří, během kterého by Ukrajina stihla uspořádat prezidentské volby, odmítl se slovy, že „jak prezident Putin, tak představitelé na dalších úrovních opakovaně uvedli, že příměří nechceme“. Putin je prý pouze ochoten nařídit, aby se v samotný den hlasování na Ukrajinu neútočilo. Jeden den klidu na volby, pak zas normálka – bomby, požáry, smrt. To je ruská velkorysost. Ale také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0fVnAQnK6HZz5B3vGCNQpcBbqWmrT1c5CksfJmhWdLs9VGn4yyhkiQWMgeweBELXRl): 
+        detail: |
+          - Zelenskyj na Varšavském bezpečnostním fóru prohlásil, že po úderech na datová centra Yandexu se na sociálních sítích „začalo o něco lépe dýchat“. Ukrajina během čtyř dnů zasáhla tři datová centra: Sasovo v Rjazaňské oblasti, jedno v Kalužské oblasti a jedno ve Vladimiru. Data Cloudflare skutečně ukazují pokles automatizovaného provozu ze sítí Yandexu na zhruba 0,4 procenta nejvyšší hodnoty. Většina analytiků upozorňuje, že jde především o vyhledávací crawlery, ne o účty na sítích, nicméně sami uživatelé hlásí výrazný propad v aktivitě proruských účtů. Ukrajinská zbrojovka Fire Point si mezitím neodpustila odpověď šéfovi Yandex fintechu, který si na X stěžoval na poškození dalšího datového centra: „Dimo, už jsi to zkusil vypnout a zapnout?“ V jiném postu doplněném fotografií černého mraku nad datovým centrem v Rusku potom Fire Point informoval, že „zahájil migraci ruských botů do cloudu“. 
+          - V noci na pondělí vyslalo Rusko na Ukrajinu 121 dronů, z toho 76 proudových Shahedů, a jednu řízenou raketu Ch-59 odpálenou nad Černým mořem, zbytek doplnily drony Gerbera, střely Banderol a makety Parodija. Protivzdušná obrana sestřelila nebo potlačila 89 dronů, z nich 55 proudových. Zásahy jsou hlášené z patnácti míst a trosky dopadly na další čtyři. V Žytomyrské oblasti hořela železniční infrastruktura v okolí Korostenu, v Černihivské oblasti podnik a domy, v Odeské oblasti logistický areál poštovního operátora a v Dnipropetrovské oblasti dostaly tři okresy přes deset úderů. V Kyjevě bylo poškozeno vysokonapěťové vedení, velká část města zůstala bez vody a DTEK hlásil krátké výpadky elektřiny. Za poslední den zabily ruské útoky nejméně deset lidí a 73 jich zranily. Nejhůř dopadla Charkovská oblast s pěti mrtvými a 42 zraněnými. 
+          - Zelenskyj nabídl ve Varšavě Trumpovi „dieselovou dohodu“: Ukrajina pozastaví útoky na ruskou ropnou a naftovou infrastrukturu, pokud dostane garanci ochrany ukrajinské elektrizační soustavy. Argumentoval tím, že ruský vliv na globální ceny nafty je mizivý. Rusko produkuje asi 300 až 500 tisíc tun měsíčně proti asi 120 milionům tun světové spotřeby, tedy cca 2,2 %. Připomněl také, že zatímco Rusko má desítky rafinerií, Ukrajina má jednu, a ta je těžce poškozená. A varoval, že pokračující ruská blokáda Černého moře se do jednoho až dvou měsíců promění v nedostatek potravin zejména pro země Afriky.  
+          - Verchovná rada schválila 266 hlasy zákon o školách národnostních menšin, který Maďarsko požadovalo jako podmínku dalšího postupu ukrajinského přístupového procesu. Školy, kde se více než polovina žáků učí v jazyce menšiny, můžou získat zvláštní status a jejich vedení musí daný jazyk ovládat. Zákon se vztahuje na úřední jazyky EU, na ruštinu tedy nikoli. V Zakarpatské oblasti žije asi 80 tisíc etnických Maďarů. Otevírá se tím cesta k dalším dvěma vyjednávacím klastrům pro Ukrajinu a Moldavsko, o kterých se má rozhodovat 13. října v Lucemburku. Kyjev chce mít do konce roku otevřených všech šest. 
+          - Finská ministryně zahraničí Elina představila pět návrhů, které mají Rusům znemožnit cestování do EU: konec schengenských víz pro nepodstatné cesty včetně turistiky, závazný vízový zákaz pro Putinův okruh a všechny sankcionované osoby, odmítání víz ruským sportovcům spjatým s režimem, zákaz vstupu pro ruské veterány a novelu, která by umožnila zavádět závazná omezení rychle a jednotně. Francie, Španělsko a Itálie proti zákazu turistických víz vystupují. 
+          - Ministři zahraničí EU schválili dosud největší rozšíření sankčního seznamu. Bezmála 1 600 nových sankcí míří na ruský vojensko-průmyslový komplex, loděnice, letecké a kosmické firmy, výrobce elektroniky i opravny obrněné techniky, přičemž více než polovina položek souvisí s výrobním řetězcem balistických raket.
+          - Zvláštní vyslanci Steve Witkoff a Jared Kushner podle Axios odložili cestu do Moskvy. Zůstane odložená minimálně do chvíle, než bude jasné, jestli Ukrajina a evropští spojenci přijmou nový americký mírový návrh. Jeho obsah zveřejněný není. 
+          - Americká hrozba Ukrajině kvůli útokům na ruské rafinerie je podle zdrojů Kyiv Independent větší, než se původně psalo. Na stole není jen zastavení výměny zpravodajských informací, ale i prodeje zbraní. 
+          - V Bělorusku začala společná vojenská cvičení států Organizace Smlouvy o kolektivní bezpečnosti. Podle ODKB se jich účastní více než 1 500 vojáků, přes 300 kusů techniky a asi 80 dronů. 
+          - Hnutí Svoboda Rossii oznámilo, že zasáhlo železniční trasy, po kterých se na letiště Engels-2 v Saratovské oblasti dopravují rakety Ch-101 pro bombardéry Tu-95. 
+          - Ruské ministerstvo obrany zpřístupnilo výrobcům dronů databázi videí z bojového nasazení, aby na nich trénovali umělou inteligenci. 
+          - Německý generál varoval, že ruské satelity sledují družici ICEY, která poskytuje snímky Ukrajině.
+          - Litva vyzvala EU, aby ruskou zahraniční rozvědku SVR označila za teroristickou organizaci. 
+          - EU má příští týden připravit vojenskou pomoc Ukrajině v hodnotě téměř tří miliard eur.
+          - Polská policie zadržela muže, který měl plánovat atentát na Donalda Tuska. 
+          - Granát shozený ruským dronem zabil v Nikopolu 11leté dítě. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1015307799698412654)
+          - [Ruský plukovník přiznal sestřel letu MH-17](https://pixelfed.cz/p/dnesnaukrajine/1015306247598183515)
+          - [Rusko zničilo ukrajinskou věž PVO](https://pixelfed.cz/p/dnesnaukrajine/1015306312121066588)
+          - [Mínus Geran](https://pixelfed.cz/p/dnesnaukrajine/1015306350142137437)
+          - [Mínus dům i s krysami](https://pixelfed.cz/p/dnesnaukrajine/1015306449369597024)
+          - [Buča](https://pixelfed.cz/p/dnesnaukrajine/1015306518899422306)
+          - [Abrams, někde pod tím vším](https://pixelfed.cz/p/dnesnaukrajine/1015306588626793571)
+          - [Příprava úderu](https://pixelfed.cz/p/dnesnaukrajine/1015306645961593956)
+          - [Mínus logistika](https://pixelfed.cz/p/dnesnaukrajine/1015306882659783782)
       - title: "Neděle"
         year: "11. října 2026"
         sort: "2026-10-11"
