@@ -38,6 +38,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý"
+        year: "13. října 2026"
+        sort: "2026-10-13"
+        image: assets/img/timeline/2026-10-13.jpg
+        podcast: "2026-10-13.mp3"
+        desc: |
+          Energetické příměří, které Trump v neděli oznámil za obě strany, podle autora výroku dál trvá. Trump přesto ráno připustil, že „k porušením došlo na obou stranách“, a vinu tak rozdělil „spravedlivě“ mezi toho, kdo střílí, i toho, kdo je ostřelován. Zelenskyj mezitím počítá nejméně šest zasažených ukrajinských energetických instalací od nedělního vyhlášení, zatímco ukrajinské drony na ruské rafinerie od té doby nevyletěly ani jednou a ani ruské úřady či média žádný takový útok nehlásí. Sergej Lavrov k potenciální pauze v bojích dodal, že si ji Zelenskyj „nezaslouží“, a potvrdil, že Rusko bude pokračovat v dosahování cílů své „speciální vojenské operace“. A k tomu přišla zpráva, která by měla v Kyjevě zvonit na poplach víc než sirény: při pondělním nočním balistickém úderu na Kyjev Ukrajina podle Zelenského nedostala od partnerů žádné zpravodajské informace o startu raket. Radar je zachytil sám, výbuchy se ozvaly dřív než poplach a prezident útok označil za „obzvlášť ohavný“. Na čtvrti na levém břehu Dněpru letělo šest balistických raket, zasaženo je dopravní zařízení v Dněprovském okrese a čtyřpatrový sklad v Desněnském. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02uDp1e3KHaUCMaDacjnayuVWKRGbMwRkRaSkH8iPtP2hfABaqPTXvWPcd55bbtfMgl): 
+        detail: |
+          - Deník Ukrajinská Pravda žádá nezávislé vyšetřování postupu rakouské policie, která ve Vídni zadržela jejího investigativního reportéra Mychajla Tkače a kameramana Jaroslava Bondarenka. Tkač strávil v cele dvanáct hodin, Bondarenko čtyřiadvacet. Policisté jim podle jejich popisu rozbili okna auta, Bondarenka donutili lehnout tváří na rozbité sklo a v nemocnici mu v poutech vytahovali tři střepy z míst pod okem, Tkačovi přitlačili koleno na krk, přestože opakoval, že je novinář. Vídeňská prokuratura tvrdí, že šlo o omyl, novináři byli zadrženi jako možní spolupachatelé dvou Ukrajinců vyšetřovaných pro špionáž. Novináři přitom zjišťovali, kde ve Vídni pobývá bývalý generální prokurátor Ruslan Kravčenko. 
+          - Charkov hlásí po ruském úderu čtyři mrtvé a 41 zraněných, mezi nimi záchranáře. Podle šéfa charkovské vojenské správy Oleha Synjehubova město zasáhlo asi deset střel typu Banderol a mířily na civilní infrastrukturu. V Cholodnohirském okrese se zřítila celá sekce čtyřpatrového obytného domu a poškozeno je přes dvacet okolních domů, v Ševčenkivském okrese hořela banka v přízemí pětipatrového domu a šest aut. Devatenáctiletý muž s těžkými popáleninami skončil na jednotce intenzivní péče, z trosek vytáhli záchranáři tři až čtyři lidi. V celé Charkovské oblasti je za poslední den přes padesát zraněných, mezi nimi čtyři děti. 
+          - V Černém moři v noci kolem půl druhé ráno zasáhly tři drony necelých třicet kilometrů od bulharského pobřeží nákladní loď Chelsea 3 s ukrajinským vlastníkem plující pod maltskou vlajkou. Z patnáctičlenné posádky, sedmi Ukrajinců a osmi Ázerbájdžánců, se zachránili všichni, pět z nich ošetřovali lékaři. Další zasažená loď se dokonce potopila, z její posádky vylovili jediného člověka. Premiér Rumen Radev opět svolal bezpečnostní radu, útoky označil za „absolutně nepřijatelné“ a chce si předvolat ruskou velvyslankyni Eleonoru Mitrofanovovou. 
+          - Ukrajina sice nechala ruské rafinerie na pokoji, dronům ale volno nedala. Podle moskevského primátora Sergeje Sobjanina letělo k Moskevské oblasti 417 dronů, většinu podle něj sestřelila protivzdušná obrana na vzdálených přístupech a dalších 65 padlo při přiblížení k samotné Moskvě. Agentura TASS to označila za jeden z největších pokusů o útok na Moskvu od začátku roku. Terčem byl i Stavropolský kraj, kde gubernátor Vladimir Vladimirov potvrdil nálet na průmyslové objekty v Solnečnodolsku a na průmyslovou zónu Nevinnomysku. 
+          - Francouzské námořnictvo zadrželo tanker DF Peak, dříve nesoucí jméno Kaliningrad, který plul neoprávněně pod vlajkou Beninu. Stalo se to 833 kilometrů jižně od Réunionu v Indickém oceánu. Loď je sankcionovaná Spojenými státy, Evropskou unií, Švýcarskem, Kanadou i Japonskem. Emmanuel Macron napsal, že Francie je odhodlaná potírat stínovou flotilu, kdekoli na světě.
+          - V Rivne zasáhl ruský proudový dron vzdělávací zařízení přímo v centru města, a to v 10:35 dopoledne, tedy pětadvacet minut po vyhlášení poplachu. Zraněno bylo dvacet lidí, jeden z nich je v kritickém stavu a tři ve středně těžkém. Dron poškodil druhé patro budovy a vyvolal požár, který se podařilo lokalizovat. Na místě zasahovali kromě hasičů také policisté a SBU. 
+          - V Mykolajivské oblasti poškodily ruské útoky nákladní terminál a skladové prostory, požár zuřil asi na pěti stech metrech čtverečních a obešel se bez zraněných. Ruské ministerstvo obrany tvrdí, že v ústí Dněpru a Jižního Bugu zasáhlo nákladní loď s vojenským nákladem mířící do mykolajivského přístavu. 
+          - Ukrajinská rozvědka zveřejnila rozbor rakety Ch-47M2 Kinžal a ukázala, že je z devadesáti procent složená z komponent balistické rakety Iskander-M. Na jejím výrobním řetězci se podílí 58 podniků, z nichž dvacet dva dosud nebylo sankcionováno. Rusko ale podle rozvědky výrobu Kinžalů omezilo. 
+          - Německý kancléř Friedrich Merz nesouhlasí s dohodou Trumpa a Putina o dodávkách ruské nafty do USA a ujistil Zelenského o německé podpoře. Rusko podle něj bude vyjednávat vážně jen pod tlakem, a proto Německo své sankce neopustí. 
+          - Británie uvalila sankce na nizozemského podnikatele a tureckou firmu, které Kyiv Independent odhalil při dodávkách strojního zařízení z Evropské unie ruským výrobcům raket. 
+          - Drogový dealer se sedmi předchozími tresty zastřelil v Doněcku šest ruských operátorů dronů. Jeden ze zabitých sloužil v tajné jednotce FSB.
+          - Příjmy ukrajinského státního rozpočtu za prvních devět měsíců roku zaostaly za plánem o padesát miliard hřiven. 
+          - Z okupované části Chersonské oblasti se na ukrajinsky kontrolované území vrátilo dalších jedenáct dětí. 
+          - Nový britský premiér oznámil, že podle informací rozvědky Rusko ovlivňovalo hlasování o Brexitu. 
+          - Ruský dron zasáhl zdravotnické zařízení v Chmelnycké oblasti, zranění skončili čtyři pacienti.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1015687795292943733)
+          - [Rivne](https://pixelfed.cz/p/dnesnaukrajine/1015686711289193826)
+          - [Charkov](https://pixelfed.cz/p/dnesnaukrajine/1015686770145523043)
+          - [Poláci si přišli pro kolaboranta](https://pixelfed.cz/p/dnesnaukrajine/1015686833695102309)
+          - [Ruská propaganda řeší invazi do Pobaltí](https://pixelfed.cz/p/dnesnaukrajine/1015686986105251176)
+          - [Akce na frontě](https://pixelfed.cz/p/dnesnaukrajine/1015687142624097642)
+          - [Nepropluli](https://pixelfed.cz/p/dnesnaukrajine/1015687195685893483)
+          - [V Penze explodoval plynovod](https://pixelfed.cz/p/dnesnaukrajine/1015687230763382124)
+          - [Mínus dron](https://pixelfed.cz/p/dnesnaukrajine/1015687298919540077)
+          - [Charkov](https://pixelfed.cz/p/dnesnaukrajine/1015687361513579887)
       - title: "Pondělí"
         year: "12. října 2026"
         sort: "2026-10-12"
@@ -82,6 +116,15 @@ timeline:
         sort: "2026-10-11"
         image: assets/img/timeline/2026-10-11.jpg
         podcast: "2026-10-11.mp3"
+        pictures:
+          - ["2026-10-11-1.jpg", ""]
+          - ["2026-10-11-2.jpg", ""]
+          - ["2026-10-11-3.jpg", ""]
+          - ["2026-10-11-4.jpg", ""]
+          - ["2026-10-11-5.jpg", ""]
+          - ["2026-10-11-6.jpg", ""]
+          - ["2026-10-11-7.jpg", ""]
+          - ["2026-10-11-8.jpg", ""]
         desc: |
           Trump včera vzkázal Volodymyru Zelenskému k útokům na ruské rafinerie „ať toho sakra nechá“, a dodal, že by Ukrajina měla mít „nového prezidenta“. To vše pár dní po tom, co jeho administrativa povolila dovoz ruské nafty do Spojených států až do dubna 2027. Zelenský dnes odpověděl způsobem, který se dal čekat: Ukrajina je ochotná přestat bombardovat ruské rafinerie v okamžiku, kdy Rusko přestane bombardovat ukrajinskou energetiku. „Skutečnou příčinou války v Evropě je Rusko, a jedině Rusko,“ řekl s tím, že jakákoli deeskalace musí být vzájemná a opřená o skutečné garance, protože Rusko už dohodnuté klidy zbraní porušilo tolikrát, že slovo samo nestačí. Energetické příměří je podle něj dosažitelné hned, jen ho Putin nechce. Připomeňme kontext, který ve Washingtonu zřejmě zapadl: 8. října ruské útoky na rozvodnou síť ponořily Kyjev takřka do úplné tmy a od té doby neustaly. Generální štáb v září odhadoval, že 45 procent ruských rafinérských kapacit stojí. Tedy že právě ty údery, které má Kyjev zastavit, fungují ze všeho nejlépe. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02JJBUWVDJVzjF74vn9dn6GKZroWVRoLGuH49KFU1gT2wtQAN3EMcmikcCn79dq2atl):
         detail: |
@@ -116,6 +159,9 @@ timeline:
         sort: "2026-10-10"
         image: assets/img/timeline/2026-10-10.jpg
         podcast: "2026-10-10.mp3"
+        pictures:
+          - ["2026-10-10-1.jpg", ""]
+          - ["2026-10-10-2.jpg", ""]
         desc: |
           Rusko shodilo na obytné čtvrti Záporoží pět řízených leteckých pum a jedna z nich zničila vchod pětipodlažního domu až po úroveň druhého patra. Do odpoledne se počet mrtvých vyšplhal na patnáct, mezi nimi tři děti, zraněných je podle ministra vnitra Ivana Vyhivského sedmnáct. Jednu ženu vytáhli záchranáři z trosek živou po osmi hodinách, poškozeno je nejméně 26 domů v Ševčenkivském a Voznesenivském rajónu a osud dalších lidí pod troskami byl i odpoledne nejasný. Prokuratura věc šetří jako další válečný zločin. Zelenskyjto pojmenoval bez obalu: tohle je ruské poděkování za to, že Washington den předtím uvolnil sankce na ruskou naftu. Rusko podle něj každé polevení tlaku čte jako signál, že má válčit dál, a svět mu musí začít posílat jiné signály. Den předtím zabil jiný ruský útok v Záporoží 23 lidí. S tím vším souvisí i další [zpráva](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02rL4buoV4F9Ut3JoVTZBJFKo4q8kxwuux7noTQvoNzna4z2gMdE6SdwJaJH6uh87Xl):
         detail: |
@@ -149,6 +195,8 @@ timeline:
         sort: "2026-10-09"
         image: assets/img/timeline/2026-10-09.jpg
         podcast: "2026-10-09.mp3"
+        pictures:
+          - ["2026-10-09-1.jpg", ""]
         desc: |
           Ukrajinské drony si v noci udělaly výlet skoro až k polárnímu kruhu. V Uchtě v Komijské republice, bezmála 1 700 kilometrů od ukrajinských hranic, se nad rafinerií Lukoil-Uchtaněftěpererabotka zvedl po náletu sloup černého kouře. V Tverské oblasti pro změnu hořel Redkinský experimentální závod, který vyrábí komponenty palivové směsi Decilin-M pro střely s plochou dráhou letu Ch-55 a Ch-101, tedy přesně pro ty rakety, jimiž Rusko zasahuje ukrajinskou energetiku. A v Kalužské oblasti přišlo o několik kompletně vyřazených modulů datacentra Yandexu, druhé ruské datacentrum téže firmy za dva dny. Zelenskyj to po útocích na ukrajinská datacentra předeslal docela stručně: odpovídáme vždy stejnou mincí. Yandex mezitím vymazal svá datová centra z map. Jako to mohlo něčemu pomoct. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02jjPZhBcZZSbA3oGkBUtLBAX8hrmhghq89CS43fpqnTCa4SUMpUWtRHEDWNVyjeXAl):
         detail: |
@@ -178,6 +226,8 @@ timeline:
         sort: "2026-10-08"
         image: assets/img/timeline/2026-10-08.jpg
         podcast: "2026-10-08.mp3"
+        pictures:
+          - ["2026-10-08-1.jpg", ""]
         desc: |
           Dva autobusy plné lidí ráno na ulici v Kramatorsku, cestou do práce. Ruská kluzná bomba, pravděpodobně řízená munice UMPB D-30 SN svržená z letadla, je zasáhla jeden po druhém. První bomba rozmetala na úlomky karoserie, druhý shořel do kostry. Bilance během dne stoupala z dvanácti na třicet a nakonec na 33 mrtvých a osmnáct zraněných, dvě těla zůstala neidentifikována a Zelenskyj varoval, že číslo ještě nemusí být konečné. Je to jeden z nejsmrtelnějších jednotlivých úderů letošního roku. Vedoucí Doněcké oblastní správy Vadym Filaškin nařídil zastavit veřejnou dopravu v Kramatorsku i ve Slovjansku, protože prý Ukrajina „nemá právo riskovat životy lidí“, a popsal to bez okolků: autobus s cestujícími je pro Rusy „atraktivní cíl“, protože jediný zásah zabije spoustu lidí. Z Moskvy nepřišlo nic, žádná reakce, Rusko jen opakovaně popírá, že by útočilo na civilisty. A shodou okolností právě dnes prohlásil americký ministr zahraničí Marco Rubio, že válka se dostala do „strategického patu“. Pro třiatřicet lidí v Kramatorsku to ale bohužel žádný pat nebyl. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Th2c9RPQwNhx4m4ew9qreVqZdm4ReH9Yte8BbuPFw9vkF2MBsHoZfkf3WdgTeWz5l):
         detail: |
@@ -215,6 +265,15 @@ timeline:
         sort: "2026-10-07"
         image: assets/img/timeline/2026-10-07.jpg
         podcast: "2026-10-07.mp3"
+        pictures:
+          - ["2026-10-07-1.jpg", ""]
+          - ["2026-10-07-2.jpg", ""]
+          - ["2026-10-07-3.jpg", ""]
+          - ["2026-10-07-4.jpg", ""]
+          - ["2026-10-07-5.jpg", ""]
+          - ["2026-10-07-6.jpg", ""]
+          - ["2026-10-07-7.jpg", ""]
+          - ["2026-10-07-8.jpg", ""]
         desc: |
           Putin má narozeniny a jeho generálové zřejmě věděli, co si přeje. V noci na dnešek poslali na Ukrajinu 183 projektilů: pět balistických raket typu Iskander-M, severokorejských KN-23 a protiletadlových S-400 vypálených po balistické dráze, k tomu Cirkony a Oniksy, 48 křídlatých raket Ch-101, Iskander-K a Kalibr a 130 úderných dronů, z nichž 46 bylo proudových. Protivzdušná obrana zneškodnila 161 cílů, zásahy jsou hlášeny z osmnácti míst v Kyjevě a dvanácti oblastí. Nejhůř to dopadlo v Prylukách na Černihivsku, kde raketa rozmetala dva vchody pětipatrového panelového domu a zabila devět lidí včetně tří dětí. Do poledne se celková bilance noci vyšplhala na patnáct mrtvých a přes čtyřicet zraněných. Zelenskyj uvedl, že klíčovým cílem byla energetika a že Rusko chtělo udeřit „bolestivě a demonstrativně“ - a demonstrativnost mu vyšla, protože v Prylukách shořel dům, ve kterém žily rodiny zaměstnanců plynárenské firmy, a zbytek města zůstal bez plynu. Ministr zahraničí Andrij Sybiha to shrnul lapidárně: „Na Putinovy narozeniny mu ruští generálové nadělili jeho nejoblíbenější dárek: válečné zločiny.“ A dodal, že posledním dárkem snad bude vazební cela v Haagu. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0oaPyynQK3HjGJsW2dGTQTxSRE1Tvs1FEV6kpJm6E2ArPHJdFWYyeCkoUGsefjWvBl):
         detail: |
@@ -248,6 +307,8 @@ timeline:
         sort: "2026-10-06"
         image: assets/img/timeline/2026-10-06.jpg
         podcast: "2026-10-06.mp3"
+        pictures:
+          - ["2026-10-06-1.jpg", ""]
         desc: |
           Moskva si v noci poprvé pořádně přičichla k válce, kterou sama čtvrtý rok vede, a zjistila, že letecké palivo hoří stejně dobře v Ramenském rajónu jako v Charkově. Starosta Sergej Sobjanin napočítal nad moskevským regionem 650 ukrajinských dronů. Ruská státní média to označila za největší dronový nálet na Moskevskou oblast za celé dva roky. Hlavním cílem byla přečerpávací stanice Volodarskaja u obce Konstantinovo, nějakých čtyřicet kilometrů od centra Moskvy, kterou provozuje státní Transnefteprodukt. Je to největší ropný sklad v regionu, projde jím až tři miliony tun ropných produktů ročně, má 27 nádrží o objemu kolem 250 tisíc kubíků a potrubím zásobuje leteckým palivem Vnukovo, Domodědovo i Šeremeťjevo. Podle ruského nezávislého kanálu ASTRA a geolokovaných záběrů hořely dvě nádrže. Rosaviacija zavřela provoz na čtyřech letištích včetně Žukovského. Zásah ropné báze nikdo z ruských představitelů nepřiznal a Ukrajina ho zatím oficiálně nepotvrdila, nicméně fotky a videa nelžou. Vorobjov pouze připustil dva mrtvé, šest zraněných a poškozené domy v několika obcích. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02EfQJDTTU2jiYk32vAZzeG8RPVQXf8V5joRsrAPgyvGS47nwsJbknatEn8tM9LCYLl):
         detail: |
@@ -1633,6 +1694,23 @@ timeline:
         sort: "2026-08-28"
         image: assets/img/timeline/2026-08-28.jpg
         podcast: "2026-08-28.mp3"
+        pictures:
+          - ["2026-08-28-1.jpg", ""]
+          - ["2026-08-28-10.jpg", ""]
+          - ["2026-08-28-11.jpg", ""]
+          - ["2026-08-28-12.jpg", ""]
+          - ["2026-08-28-13.jpg", ""]
+          - ["2026-08-28-14.jpg", ""]
+          - ["2026-08-28-15.jpg", ""]
+          - ["2026-08-28-16.jpg", ""]
+          - ["2026-08-28-2.jpg", ""]
+          - ["2026-08-28-3.jpg", ""]
+          - ["2026-08-28-4.jpg", ""]
+          - ["2026-08-28-5.jpg", ""]
+          - ["2026-08-28-6.jpg", ""]
+          - ["2026-08-28-7.jpg", ""]
+          - ["2026-08-28-8.jpg", ""]
+          - ["2026-08-28-9.jpg", ""]
         desc: |
           Ukrajinské zasáhly rafinerii Slavněft-JANOS v Jaroslavli, jeden z pěti největších ruských rafinérských komplexů, který ročně zpracuje kolem 15 milionů tun ropy a leží asi 700 kilometrů od ukrajinských hranic. Pro tuhle rafinerii jde už o osmý ukrajinský úder v letošním roce. Druhý cíl noci byl ještě zajímavější: v Engelsu v Saratovské oblasti zasáhly piloti jednotky Alfa ukrajinské SBU strategický bombardér Tu-95MS. Právě z Engelsu přitom startují letouny, které na ukrajinská města odpalují střely s plochou dráhou letu, a stejná jednotka stála za operací Pavučina z června 2025. Ruské ministerstvo obrany tvrdí, že přes noc sestřelilo 512 ukrajinských dronů nad osmnácti ruskými regiony, okupovaným Krymem a Černým mořem. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02VMSP6uv5C5uhv5jYAaQ9dwawMeBCwY5PiKVE61MnmUwUSB8CkLUiGmPA8umJovMYl): 
         detail: |
@@ -3230,6 +3308,23 @@ timeline:
         sort: "2026-07-16"
         image: assets/img/timeline/2026-07-16.jpg
         podcast: "2026-07-16.mp3"
+        pictures:
+          - ["2026-07-16-1.jpg", ""]
+          - ["2026-07-16-10.jpg", ""]
+          - ["2026-07-16-11.jpg", ""]
+          - ["2026-07-16-12.jpg", ""]
+          - ["2026-07-16-13.jpg", ""]
+          - ["2026-07-16-14.jpg", ""]
+          - ["2026-07-16-15.jpg", ""]
+          - ["2026-07-16-16.jpg", ""]
+          - ["2026-07-16-2.jpg", ""]
+          - ["2026-07-16-3.jpg", ""]
+          - ["2026-07-16-4.jpg", ""]
+          - ["2026-07-16-5.jpg", ""]
+          - ["2026-07-16-6.jpg", ""]
+          - ["2026-07-16-7.jpg", ""]
+          - ["2026-07-16-8.jpg", ""]
+          - ["2026-07-16-9.jpg", ""]
         desc: |
           Ukrajinci opět vyšli do ulic, a to poté, co se ukázalo, že další vládní rošáda by se měla týkat i současného ministra obrany Fedorova. Ten si totiž za půl roku ve vládě vytvořil značnou popularitu jak u vojáků, tak u široké veřejnosti. Byl to právě on, kdo prosadil populární reformy, zajistil některou klíčovou pomoc a stojí tak nepřímo za některými úspěchy ukrajinské armády. Proč má tedy být z postu odvolán? Podle Zelenského je hlavním problémem napětí mezi Fedorovem a Syrským, který se naopak některým reformám urputně brání. Dvě významné osobnosti ukrajinského obranného aparátu dnes ráno oznámily svůj odchod. Vojenský expert Serhij „Flash“ Beskrestnov ukončil svou činnost jako poradce ministra obrany Fedorova. Flash patří k nejznámějším ukrajinským odborníkům na drony, komunikaci a elektronický boj. Spolupracoval s armádou a vývojáři v obranném průmyslu, analyzoval ruskou taktiku a pomáhal předvídat nové hrozby. Krátce nato podal výpověď také náměstek velitele letectva Pavlo Jelizarov. Své rozhodnutí taktéž zdůvodnil odvoláním Fedorova z funkce. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02orqfTJ73SULRxohxHrzj1bQy69y5GY1zU1yrQ4QmeWwncVbXVaanHQqzo4Q5uxBJl): 
         detail: |
@@ -3256,6 +3351,8 @@ timeline:
         sort: "2026-07-15"
         image: assets/img/timeline/2026-07-15.jpg
         podcast: "2026-07-15.mp3"
+        pictures:
+          - ["2026-07-15-1.jpg", ""]
         desc: |
           Podle agentury Bloomberg se Rusku nedaří prodat ropu, kterou je nuceno vyvážet kvůli odstávkám rafinérií. V důsledku toho se na moři nahromadilo přibližně 135 milionů barelů ruské ropy, což je téměř rekordní množství od začátku roku. Některé ropné tankery už několik týdnů kotví u pobřeží Egypta, Singapuru a ruského přístavu Kozmino a čekají na odběratele nebo na překládku. A krom toho se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0cRVrLH727oSqGgCLhnYBTnh994gWeJzRG6VK41MsAeL8JSFLxDrhYkvZKxtFiwazl): 
         detail: |
@@ -3287,6 +3384,8 @@ timeline:
         sort: "2026-07-14"
         image: assets/img/timeline/2026-07-14.jpg
         podcast: "2026-07-14.mp3"
+        pictures:
+          - ["2026-07-14-1.jpg", ""]
         desc: |
           Rusko obvinilo Německo z účasti na „teroristických útocích“ na ruském území a předvolalo svého velvyslance poté, co německé velvyslanectví zveřejnilo video, v němž se vysmívalo Kremlu kvůli palivové krizi. Ve videu velvyslanectví sdělovalo, že Moskva zvažuje dovoz paliva, přídělový systém a posílení protivzdušné obrany, zatímco existuje mnohem jednodušší řešení: ukončit válku proti Ukrajině. Poté, co se klip stal virálním, ruské ministerstvo zahraničí předvolalo německého velvyslance Alexandra Lambsdorffa, obvinilo Berlín z účasti na útocích na Ukrajinu a prohlásilo, že sdělení velvyslanectví připomíná „nejhorší praktiky nacistické propagandy“. To nevymyslíš. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02wwExsJXKNw4s7TkTAzey4yANmSv8kYtXKGYAzDdY9WToe2taYfhC3pGk8S8U5V1Ql): 
         detail: |
@@ -3317,6 +3416,8 @@ timeline:
         sort: "2026-07-13"
         image: assets/img/timeline/2026-07-13.jpg
         podcast: "2026-07-13.mp3"
+        pictures:
+          - ["2026-07-13-1.jpg", ""]
         desc: |
           Ukrajina a devět evropských zemí oficiálně založily Koalici proti balistickým raketám. Hlavy států Dánska, Francie, Německa, Itálie, Nizozemska, Norska, Španělska, Švédska, Ukrajiny a Spojeného království se dohodly na spojení obranného průmyslu, výzkumu a operačních zkušeností s cílem vytvořit společný protiraketový potenciál pro Evropu. Česko mezi těmi zeměmi nehledejte. Tomu aktuálně vládne bývalý estébák s podporou proruských fašistických stran. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02kFUxK5MnEosHR6JpU3ygRDaVDjdxwdkdidB1s2F7XpXa4DTAHisZ6ejdRpdjcCHdl): 
         detail: |
@@ -3352,6 +3453,23 @@ timeline:
         sort: "2026-07-12"
         image: assets/img/timeline/2026-07-12.jpg
         podcast: "2026-07-12.mp3"
+        pictures:
+          - ["2026-07-12-1.jpg", ""]
+          - ["2026-07-12-10.jpg", ""]
+          - ["2026-07-12-11.jpg", ""]
+          - ["2026-07-12-12.jpg", ""]
+          - ["2026-07-12-13.jpg", ""]
+          - ["2026-07-12-14.jpg", ""]
+          - ["2026-07-12-15.jpg", ""]
+          - ["2026-07-12-16.jpg", ""]
+          - ["2026-07-12-2.jpg", ""]
+          - ["2026-07-12-3.jpg", ""]
+          - ["2026-07-12-4.jpg", ""]
+          - ["2026-07-12-5.jpg", ""]
+          - ["2026-07-12-6.jpg", ""]
+          - ["2026-07-12-7.jpg", ""]
+          - ["2026-07-12-8.jpg", ""]
+          - ["2026-07-12-9.jpg", ""]
         desc: |
           Poté, co byli ruští špioni vyhoštěni ze západních zemí, objevily se desítky ruských agentů v Japonsku, které má poměrně slabou legislativu vůči špionáži. Podle deníku New York Times tam Rusové vybudovali síť, jejímž úkolem je zajišťovat dodávky technologií potřebných pro ruský vojensko-průmyslový komplex. V centru operace stojí utajené 20. ředitelství GRU. Jeho důstojníci prý působí pod diplomatickým a obchodním krytím a nakupují či převážejí citlivé vybavení do Ruska. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02vWnaYanAweXbxYiLV8xw5kQjeejRhM5Pdr5uxDkBjaV3xBg1B53gXpg1iMciv8jel): 
         detail: |
@@ -3385,6 +3503,23 @@ timeline:
         sort: "2026-07-11"
         image: assets/img/timeline/2026-07-11.jpg
         podcast: "2026-07-11.mp3"
+        pictures:
+          - ["2026-07-11-1.jpg", ""]
+          - ["2026-07-11-10.jpg", ""]
+          - ["2026-07-11-11.jpg", ""]
+          - ["2026-07-11-12.jpg", ""]
+          - ["2026-07-11-13.jpg", ""]
+          - ["2026-07-11-14.jpg", ""]
+          - ["2026-07-11-15.jpg", ""]
+          - ["2026-07-11-16.jpg", ""]
+          - ["2026-07-11-2.jpg", ""]
+          - ["2026-07-11-3.jpg", ""]
+          - ["2026-07-11-4.jpg", ""]
+          - ["2026-07-11-5.jpg", ""]
+          - ["2026-07-11-6.jpg", ""]
+          - ["2026-07-11-7.jpg", ""]
+          - ["2026-07-11-8.jpg", ""]
+          - ["2026-07-11-9.jpg", ""]
         desc: |
           Od dnešní půlnoci ukrajinské drony provedly dalších 34 úspěšných úderů na plavidla z ruské stínové flotily v Azovském moři. Celkový počet úspěšných zásahů se tak vyšplhal už na 82 a celkový počet zasažených jednotlivých plavidel vyrostl o 29 na 77, a to za pouhých šest dní. Mezi zasaženými loděmi při posledních náletech je 21 tankerů, 4 remorkéry, 2 nákladní lodě pro suchý náklad a jedna těžební loď. A kromě toho se stalo taky [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02qBq7imMYuNu3kqphJHuiojSN3RhqwPxsGx57m9w3MreLFMikUWqUK646Cb4cxkCWl): 
         detail: |
@@ -3415,6 +3550,11 @@ timeline:
         sort: "2026-07-10"
         image: assets/img/timeline/2026-07-10.jpg
         podcast: "2026-07-10.mp3"
+        pictures:
+          - ["2026-07-10-1.jpg", ""]
+          - ["2026-07-10-2.jpg", ""]
+          - ["2026-07-10-3.jpg", ""]
+          - ["2026-07-10-4.jpg", ""]
         desc: |
           Investigativní projekt „Schémata“ identifikoval ruského vězeňského lékaře známého pod přezdívkou „Konoval“, kterého bývalí ukrajinští váleční zajatci obviňují z mučení a týrání ve vězeňské kolonii č. 7 v Pakinu ve Vladimirské oblasti. Je jím Vjačeslav Čerdantsev. Podle bývalých válečných zajatců Čerdantsev nutil vězně, aby se svlékli donaha, napodobovali sexuální akty, vystavoval je sexuálnímu ponižování a odepíral jim lékařskou péči. Tvrdí také, že odmítání péče přispělo k vypuknutí svrabu uvnitř věznice. Teď ještě zařídit Konovalovi nějakou nečekanou návštěvu. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02c7FqKoKtcPXwfRBPdFmMhHfP3uPdAYRyFVyPkzwCRw9xjnHUeitdivWRUWyqscHZl): 
         detail: |
