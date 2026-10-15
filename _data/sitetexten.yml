@@ -23,6 +23,125 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Wednesday
+    year: October 14, 2026
+    sort: '2026-10-14'
+    image: assets/img/timeline/2026-10-14.jpg
+    podcast: 2026-10-14.mp3
+    desc: 'Trump’s energy ceasefire lasted exactly three days—and even then, only
+      in White House press statements. The Kremlin never confirmed it and today merely
+      stated that “its scope is unclear.” Meanwhile, Russia fired 39 ballistic missiles
+      and 128 drones at Ukrainian energy infrastructure overnight. Air defenses intercepted
+      four missiles and 115 drones; strikes were reported in 22 locations. The main
+      target was Kyiv: according to Prime Minister Serhiy Koretsky, the Russians struck
+      all three of the city’s heating plants, including the key TEC-4, as well as
+      critical facilities in the Kyiv region that supply the capital and central regions.
+      Zelenskyy reported damage to 26 components of the power grid and four facilities
+      in the oil and gas sector; at least 600,000 people were left without electricity,
+      and DTEK implemented emergency power outages in five districts of Kyiv. Four
+      people were killed and 25 injured in the capital, including three women and
+      an eight-year-old girl. For the second night in a row, Ukraine received no advance
+      warning of the airstrike from its partners. The day before, Trump had assured
+      that Ukraine was still receiving intelligence, but he refused to accuse Russia
+      of violating the ceasefire. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid05ZpCaQucaq3van42vj258Dd1egi1PEwYE3njykUifBQLhTFqQBAFeuHgK227Yy6Wl)
+      also happened:
+
+      '
+    detail: "- Ukrainian drones struck Sberbank’s mega data center in Balakovo, in\
+      \ the Saratov region, overnight. The 122.2 billion ruble project—worth over\
+      \ a billion dollars—is expected to have approximately 3,000 server racks, up\
+      \ to 120,000 servers, and a power consumption of 82 megawatts upon completion.\
+      \ In addition to the bank’s IT infrastructure, it is also intended to serve\
+      \ the state digital platform GosTech. The OSINT channel Exilenova+ reports that\
+      \ the MZ Balakovo metallurgical plant’s industrial zone was also struck. Governor\
+      \ Roman Busargin claims that the infrastructure is functioning normally. However,\
+      \ the Russian media outlets The Bell and Important Stories reported widespread\
+      \ outages affecting the Sberbank app and website, GigaChat, the Samokat delivery\
+      \ service, Točka Bank, Mail.ru, VKontakte, Ozon, Yandex, and the Reg.ru hosting\
+      \ service.\n- Twelve U.S. senators—six Democrats and six Republicans—signed\
+      \ a letter calling on Trump to rescind the agreement on Russian oil imports.\
+      \ “This agreement is a gift to our adversary and a betrayal of our allies; it\
+      \ should be rescinded,” the letter states. The senators describe the agreement’s\
+      \ impact on oil prices as negligible, while it will fill the Kremlin’s war chest.\
+      \ Instead, the United States should impose sanctions under a new law that allows\
+      \ for up to 100 percent tariffs on the five largest buyers of Russian oil and\
+      \ gas. Italian Prime Minister Giorgia Meloni told the Senate that the agreement\
+      \ “legitimizes Moscow” at a time when it is bombing Ukraine, and she argued\
+      \ that the rise in fuel prices is primarily due to the war in Iran, not the\
+      \ war in Ukraine.\n- Overnight, SpaceX quietly imposed a speed limit of 160\
+      \ km/h on moving terminals in the StarShield military package. Presidential\
+      \ adviser Serhiy Beskrestnov (Flash) announced that this had disrupted several\
+      \ missions. Among other things, Ukraine uses Starlink to control attack drones\
+      \ over occupied territory. “This can’t be a coincidence,” Beskrestnov wrote,\
+      \ referring to the political situation. Activist Serhiy Sternenko claims that\
+      \ SpaceX acted at Trump’s request. Polish Foreign Minister Radosław Sikorski,\
+      \ whose country pays roughly $50 million a year for Ukraine’s Starlink service,\
+      \ asked Musk on X if he was “playing politics again,” adding, “As your European\
+      \ customers, we’re watching you.”\n- A trial has begun in Hamburg for a 50-year-old\
+      \ former Ukrainian officer, whom the German judiciary refers to as Serhiy K.\
+      \ for privacy reasons. According to the indictment, he led a group of Ukrainian\
+      \ agents—including divers and an explosives expert—who blew up the Nord Stream\
+      \ gas pipelines in 2022. He is alleged to have entered Germany via Poland using\
+      \ a forged Ukrainian passport three weeks before the attack; the group then\
+      \ rented a sailboat in Rostock, sailed to the Danish island of Bornholm, and\
+      \ attached explosives to the seabed. The prosecution claims he acted on behalf\
+      \ of Ukrainian state authorities and characterizes the attack on civilian infrastructure\
+      \ as a war crime. The defendant denies the charges, and Kyiv denies any involvement.\
+      \ \n- On October 13, around 4:00 p.m. in the Kharkiv region, a man in civilian\
+      \ clothing approached a building where soldiers from the 72nd Separate Mechanized\
+      \ Brigade were stationed and opened fire. He killed one soldier outside, then\
+      \ entered the building and killed four more. According to a source from military\
+      \ command speaking to BBC Ukraine, the attacker was an escaped Russian prisoner\
+      \ of war. The prosecutor’s office has not confirmed this and is also investigating\
+      \ the possibility that the attacker was linked to a Russian sabotage and reconnaissance\
+      \ group.\n- On October 13, Russian drones struck the Epicentr chain’s logistics\
+      \ center in Khmelnytskyi ten times in a single day. Five large fires broke out,\
+      \ and because about thirty drones were flying over the complex, it was impossible\
+      \ to extinguish them. As a result, approximately 85 percent of the stored goods\
+      \ were destroyed by fire. The company states that this was its last large warehouse\
+      \ complex, as the Russians had previously destroyed its two largest facilities\
+      \ in Kyiv and the Kyiv region. \n- In Lutsk, Russian drones struck a wholesale\
+      \ warehouse. Six people were killed—five at the scene and a sixth later in the\
+      \ hospital—and ten to twelve were injured. A nine-story prefabricated apartment\
+      \ building was also hit, injuring two people, including a child. Debris from\
+      \ the drone damaged the Korsak Museum of Contemporary Ukrainian Art—the largest\
+      \ of its kind in the country—and the fire spread to Petr Antyp’s polyptych *Cosmogony*.\n\
+      - In Bulgaria, unknown perpetrators set fire to eleven of the seventeen antennas\
+      \ connected to the Starlink network at a secure facility near Sofia. This was\
+      \ reported by opposition lawmaker Ivaylo Mirchev, who said the perpetrators\
+      \ were two masked men and suggested a Russian connection. In late September,\
+      \ a Starlink ground station in Poland was destroyed by a similar fire.\n- Zelenskyy\
+      \ arrived in Britain, held talks with Prime Minister Andy Burnham at Downing\
+      \ Street, and met with King Charles III. London announced a £45 million air\
+      \ defense package, of which £10 million will go toward accelerating deliveries\
+      \ of British LMM missiles.\n- In Sloviansk, a Russian FAB-250 bomb struck a\
+      \ so-called “resilience center”—a place where people go to stay warm and charge\
+      \ their phones during power outages. Eight people were injured, including four\
+      \ Ukrainian Red Cross workers.\n- The European Commission has provided Ukraine\
+      \ with 2.86 billion euros for defense, specifically for drones, air defense\
+      \ systems, missiles, radars, electronic warfare equipment, and ammunition. \n\
+      - The Third Army Corps announced the fourth phase of Operation Vivaldi. According\
+      \ to Andriy Biletsky, Ukrainian forces have liberated an additional 101 square\
+      \ kilometers in the Lyman sector.\n- An air defense unit from the 115th Independent\
+      \ Mechanized Brigade shot down a Russian Mi-28NM attack helicopter using an\
+      \ anti-aircraft guided drone.\n- Russia has built a new launch site for Geran-5\
+      \ jet drones near Millerovo in the Rostov Region.\n- FBI Director Kash Patel\
+      \ arrived in Russia on an unannounced visit. \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1016202876373676112)
+
+      - [Minus the Russian helicopter](https://pixelfed.cz/p/dnesnaukrajine/1016201539730415677)
+
+      - [Starlink in Bulgaria](https://pixelfed.cz/p/dnesnaukrajine/1016201566786699326)
+
+      - [Power Outage in Kyiv](https://pixelfed.cz/p/dnesnaukrajine/1016201599734591552)
+
+      - [Luck](https://pixelfed.cz/p/dnesnaukrajine/1016201647864754241)
+
+      - [Vivaldi](https://pixelfed.cz/p/dnesnaukrajine/1016201716327108674)
+
+      - [The Kremlin announced new agreements with the U.S.](https://pixelfed.cz/p/dnesnaukrajine/1016201750655660099)
+
+      '
   - title: Tuesday
     year: October 13, 2026
     sort: '2026-10-13'
