@@ -188,15 +188,6 @@ timeline:
         sort: "2026-10-11"
         image: assets/img/timeline/2026-10-11.jpg
         podcast: "2026-10-11.mp3"
-        pictures:
-          - ["2026-10-11-1.jpg", ""]
-          - ["2026-10-11-2.jpg", ""]
-          - ["2026-10-11-3.jpg", ""]
-          - ["2026-10-11-4.jpg", ""]
-          - ["2026-10-11-5.jpg", ""]
-          - ["2026-10-11-6.jpg", ""]
-          - ["2026-10-11-7.jpg", ""]
-          - ["2026-10-11-8.jpg", ""]
         desc: |
           Trump včera vzkázal Volodymyru Zelenskému k útokům na ruské rafinerie „ať toho sakra nechá“, a dodal, že by Ukrajina měla mít „nového prezidenta“. To vše pár dní po tom, co jeho administrativa povolila dovoz ruské nafty do Spojených států až do dubna 2027. Zelenský dnes odpověděl způsobem, který se dal čekat: Ukrajina je ochotná přestat bombardovat ruské rafinerie v okamžiku, kdy Rusko přestane bombardovat ukrajinskou energetiku. „Skutečnou příčinou války v Evropě je Rusko, a jedině Rusko,“ řekl s tím, že jakákoli deeskalace musí být vzájemná a opřená o skutečné garance, protože Rusko už dohodnuté klidy zbraní porušilo tolikrát, že slovo samo nestačí. Energetické příměří je podle něj dosažitelné hned, jen ho Putin nechce. Připomeňme kontext, který ve Washingtonu zřejmě zapadl: 8. října ruské útoky na rozvodnou síť ponořily Kyjev takřka do úplné tmy a od té doby neustaly. Generální štáb v září odhadoval, že 45 procent ruských rafinérských kapacit stojí. Tedy že právě ty údery, které má Kyjev zastavit, fungují ze všeho nejlépe. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02JJBUWVDJVzjF74vn9dn6GKZroWVRoLGuH49KFU1gT2wtQAN3EMcmikcCn79dq2atl):
         detail: |
@@ -231,9 +222,6 @@ timeline:
         sort: "2026-10-10"
         image: assets/img/timeline/2026-10-10.jpg
         podcast: "2026-10-10.mp3"
-        pictures:
-          - ["2026-10-10-1.jpg", ""]
-          - ["2026-10-10-2.jpg", ""]
         desc: |
           Rusko shodilo na obytné čtvrti Záporoží pět řízených leteckých pum a jedna z nich zničila vchod pětipodlažního domu až po úroveň druhého patra. Do odpoledne se počet mrtvých vyšplhal na patnáct, mezi nimi tři děti, zraněných je podle ministra vnitra Ivana Vyhivského sedmnáct. Jednu ženu vytáhli záchranáři z trosek živou po osmi hodinách, poškozeno je nejméně 26 domů v Ševčenkivském a Voznesenivském rajónu a osud dalších lidí pod troskami byl i odpoledne nejasný. Prokuratura věc šetří jako další válečný zločin. Zelenskyjto pojmenoval bez obalu: tohle je ruské poděkování za to, že Washington den předtím uvolnil sankce na ruskou naftu. Rusko podle něj každé polevení tlaku čte jako signál, že má válčit dál, a svět mu musí začít posílat jiné signály. Den předtím zabil jiný ruský útok v Záporoží 23 lidí. S tím vším souvisí i další [zpráva](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02rL4buoV4F9Ut3JoVTZBJFKo4q8kxwuux7noTQvoNzna4z2gMdE6SdwJaJH6uh87Xl):
         detail: |
@@ -267,8 +255,6 @@ timeline:
         sort: "2026-10-09"
         image: assets/img/timeline/2026-10-09.jpg
         podcast: "2026-10-09.mp3"
-        pictures:
-          - ["2026-10-09-1.jpg", ""]
         desc: |
           Ukrajinské drony si v noci udělaly výlet skoro až k polárnímu kruhu. V Uchtě v Komijské republice, bezmála 1 700 kilometrů od ukrajinských hranic, se nad rafinerií Lukoil-Uchtaněftěpererabotka zvedl po náletu sloup černého kouře. V Tverské oblasti pro změnu hořel Redkinský experimentální závod, který vyrábí komponenty palivové směsi Decilin-M pro střely s plochou dráhou letu Ch-55 a Ch-101, tedy přesně pro ty rakety, jimiž Rusko zasahuje ukrajinskou energetiku. A v Kalužské oblasti přišlo o několik kompletně vyřazených modulů datacentra Yandexu, druhé ruské datacentrum téže firmy za dva dny. Zelenskyj to po útocích na ukrajinská datacentra předeslal docela stručně: odpovídáme vždy stejnou mincí. Yandex mezitím vymazal svá datová centra z map. Jako to mohlo něčemu pomoct. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02jjPZhBcZZSbA3oGkBUtLBAX8hrmhghq89CS43fpqnTCa4SUMpUWtRHEDWNVyjeXAl):
         detail: |
@@ -298,8 +284,6 @@ timeline:
         sort: "2026-10-08"
         image: assets/img/timeline/2026-10-08.jpg
         podcast: "2026-10-08.mp3"
-        pictures:
-          - ["2026-10-08-1.jpg", ""]
         desc: |
           Dva autobusy plné lidí ráno na ulici v Kramatorsku, cestou do práce. Ruská kluzná bomba, pravděpodobně řízená munice UMPB D-30 SN svržená z letadla, je zasáhla jeden po druhém. První bomba rozmetala na úlomky karoserie, druhý shořel do kostry. Bilance během dne stoupala z dvanácti na třicet a nakonec na 33 mrtvých a osmnáct zraněných, dvě těla zůstala neidentifikována a Zelenskyj varoval, že číslo ještě nemusí být konečné. Je to jeden z nejsmrtelnějších jednotlivých úderů letošního roku. Vedoucí Doněcké oblastní správy Vadym Filaškin nařídil zastavit veřejnou dopravu v Kramatorsku i ve Slovjansku, protože prý Ukrajina „nemá právo riskovat životy lidí“, a popsal to bez okolků: autobus s cestujícími je pro Rusy „atraktivní cíl“, protože jediný zásah zabije spoustu lidí. Z Moskvy nepřišlo nic, žádná reakce, Rusko jen opakovaně popírá, že by útočilo na civilisty. A shodou okolností právě dnes prohlásil americký ministr zahraničí Marco Rubio, že válka se dostala do „strategického patu“. Pro třiatřicet lidí v Kramatorsku to ale bohužel žádný pat nebyl. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Th2c9RPQwNhx4m4ew9qreVqZdm4ReH9Yte8BbuPFw9vkF2MBsHoZfkf3WdgTeWz5l):
         detail: |
@@ -337,15 +321,6 @@ timeline:
         sort: "2026-10-07"
         image: assets/img/timeline/2026-10-07.jpg
         podcast: "2026-10-07.mp3"
-        pictures:
-          - ["2026-10-07-1.jpg", ""]
-          - ["2026-10-07-2.jpg", ""]
-          - ["2026-10-07-3.jpg", ""]
-          - ["2026-10-07-4.jpg", ""]
-          - ["2026-10-07-5.jpg", ""]
-          - ["2026-10-07-6.jpg", ""]
-          - ["2026-10-07-7.jpg", ""]
-          - ["2026-10-07-8.jpg", ""]
         desc: |
           Putin má narozeniny a jeho generálové zřejmě věděli, co si přeje. V noci na dnešek poslali na Ukrajinu 183 projektilů: pět balistických raket typu Iskander-M, severokorejských KN-23 a protiletadlových S-400 vypálených po balistické dráze, k tomu Cirkony a Oniksy, 48 křídlatých raket Ch-101, Iskander-K a Kalibr a 130 úderných dronů, z nichž 46 bylo proudových. Protivzdušná obrana zneškodnila 161 cílů, zásahy jsou hlášeny z osmnácti míst v Kyjevě a dvanácti oblastí. Nejhůř to dopadlo v Prylukách na Černihivsku, kde raketa rozmetala dva vchody pětipatrového panelového domu a zabila devět lidí včetně tří dětí. Do poledne se celková bilance noci vyšplhala na patnáct mrtvých a přes čtyřicet zraněných. Zelenskyj uvedl, že klíčovým cílem byla energetika a že Rusko chtělo udeřit „bolestivě a demonstrativně“ - a demonstrativnost mu vyšla, protože v Prylukách shořel dům, ve kterém žily rodiny zaměstnanců plynárenské firmy, a zbytek města zůstal bez plynu. Ministr zahraničí Andrij Sybiha to shrnul lapidárně: „Na Putinovy narozeniny mu ruští generálové nadělili jeho nejoblíbenější dárek: válečné zločiny.“ A dodal, že posledním dárkem snad bude vazební cela v Haagu. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0oaPyynQK3HjGJsW2dGTQTxSRE1Tvs1FEV6kpJm6E2ArPHJdFWYyeCkoUGsefjWvBl):
         detail: |
@@ -379,8 +354,6 @@ timeline:
         sort: "2026-10-06"
         image: assets/img/timeline/2026-10-06.jpg
         podcast: "2026-10-06.mp3"
-        pictures:
-          - ["2026-10-06-1.jpg", ""]
         desc: |
           Moskva si v noci poprvé pořádně přičichla k válce, kterou sama čtvrtý rok vede, a zjistila, že letecké palivo hoří stejně dobře v Ramenském rajónu jako v Charkově. Starosta Sergej Sobjanin napočítal nad moskevským regionem 650 ukrajinských dronů. Ruská státní média to označila za největší dronový nálet na Moskevskou oblast za celé dva roky. Hlavním cílem byla přečerpávací stanice Volodarskaja u obce Konstantinovo, nějakých čtyřicet kilometrů od centra Moskvy, kterou provozuje státní Transnefteprodukt. Je to největší ropný sklad v regionu, projde jím až tři miliony tun ropných produktů ročně, má 27 nádrží o objemu kolem 250 tisíc kubíků a potrubím zásobuje leteckým palivem Vnukovo, Domodědovo i Šeremeťjevo. Podle ruského nezávislého kanálu ASTRA a geolokovaných záběrů hořely dvě nádrže. Rosaviacija zavřela provoz na čtyřech letištích včetně Žukovského. Zásah ropné báze nikdo z ruských představitelů nepřiznal a Ukrajina ho zatím oficiálně nepotvrdila, nicméně fotky a videa nelžou. Vorobjov pouze připustil dva mrtvé, šest zraněných a poškozené domy v několika obcích. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02EfQJDTTU2jiYk32vAZzeG8RPVQXf8V5joRsrAPgyvGS47nwsJbknatEn8tM9LCYLl):
         detail: |
@@ -823,10 +796,6 @@ timeline:
         year: "23. září 2026"
         sort: "2026-09-23"
         image: assets/img/timeline/2026-09-23.jpg
-        pictures:
-          - ["2026-09-23-1.jpg", ""]
-          - ["2026-09-23-2.jpg", ""]
-          - ["2026-09-23-3.jpg", ""]
         podcast: "2026-09-23.mp3"
         desc: |
           Pár hodin po tom, co Zelenskyj s Trumpem v New Yorku probírali oboustranné příměří na energetiku, začalo Rusko sypat na Kyjev vlny dronů. Od půlnoci zažil Kyjev osm poplachů. Útočily hlavně proudové Shahedy. Dva lidé zemřeli a nejméně 43 jich je zraněných. Hořela historická kruhová tržnice Šajba u hlavního nádraží, postavená v sedmdesátých letech jako experimentální krytý trh. Drony zasáhly také devítipatrový dům v Solomjanském obvodu, čtyřpatrové obchodní centrum, čerpací stanici a sklady v Holosijivském, železniční infrastrukturu a v neposlední řadě datacentra dvou poskytovatelů internetu, takže asi sto tisíc domácností v Kyjevě a okolí zůstalo bez připojení. Rusové navíc přitvrdili svou obvyklou taktiku dvojitého úderu: druhý zásah u téhož obchodního centra nepřišel po deseti minutách, ale po hodině, kdy už ho nikdo nečekal. A zatímco tohle probíhalo, sešel se v New Yorku Marco Rubio s Lavrovem a po schůzce oznámil, že USA zvou Putina na prosincový summit G20 v Miami, protože je to prý příležitost promluvit si s Trumpem a dalšími světovými lídry. Lavrov mezitím Radě bezpečnosti sdělil, že Rusko svou více než čtyři roky trvající válku pozastavovat nebude. Takže asi tak. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0k9jepu2TE98kSTF4tgrAe2APDPKpXqhM6eo3G4tDYksSq36WPyLnRvKGF5DQUtKwl):
@@ -886,11 +855,6 @@ timeline:
         year: "21. září 2026"
         sort: "2026-09-21"
         image: assets/img/timeline/2026-09-21.jpg
-        pictures:
-          - ["2026-09-21-1.jpg", ""]
-          - ["2026-09-21-2.jpg", ""]
-          - ["2026-09-21-3.jpg", ""]
-          - ["2026-09-21-4.jpg", ""]
         podcast: "2026-09-21.mp3"
         desc: |
           Donald Trump dnes s upřímnou lítostí napsal, že Rusko „bohužel ztratilo kontrolu nad svým rafinérským průmyslem kvůli válce s Ukrajinou“, a zase vyzval Zelenského, aby přestal útočit na ruské rafinerie. Také si posteskl, že válka měsíčně zabije 25 tisíc lidí. Ukrajina odpověděla tak, že ráno zasáhly její drony Ufu v Baškortostánu, zhruba 1400 kilometrů od ukrajinských hranic. Podle kanálu Aspekty-Baškortostán byl terčem závod Bašněfť-Novoil s výrobní kapacitou 7,3 milionu tun ročně, který dodává asi desetinu ruského vysokooktanového benzinu. Ufský komplex dostal od června zásah už nejméně poosmé. Reuters mezitím s odvoláním na tři zdroje z oboru potvrdil, že moskevská rafinerie Gazpromněfti po nedělním útoku úplně zastavila provoz a oprava potrvá týdny. Bloomberg píše, že Rusko kvůli tomu nejspíš prodlouží zákaz vývozu nafty. Zelenský znovu nabídl Rusku vzájemné zastavení úderů na energetiku a kritickou infrastrukturu a chce to s partnery probrat na Valném shromáždění OSN v New Yorku. Dodal ale, že doby, kdy trpěla jen napadená strana, jsou pryč. Trumpa ovšem zjevně trápí zavřené ruské rafinerie víc než 172 ruských dronů, které jen za dnešní noc dopadly na ukrajinská města. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0EJyPqK4ruarVeofXrNUweHmVy4bFRRPQmyWvGUjVMSkaxvxktWamd4C4QvnGgkQHl):
@@ -960,11 +924,6 @@ timeline:
         year: "19. září 2026"
         sort: "2026-09-19"
         image: assets/img/timeline/2026-09-19.jpg
-        pictures:
-          - ["2026-09-19-1.jpg", ""]
-          - ["2026-09-19-2.jpg", ""]
-          - ["2026-09-19-3.jpg", ""]
-          - ["2026-09-19-4.jpg", ""]
         podcast: "2026-09-19.mp3"
         desc: |
           Donald Trump podepsal zákon, který prosazoval Lindsey Graham přes rok a kterého se nakonec nedožil — zemřel v červenci ve svých 71 letech. „Lindsey O. Graham Sanctioning Russia and Iran Act of 2026“ rozšiřuje sankce proti Rusku a zároveň o dalších pět let prodlužuje sankční zákon vůči Íránu. Prezident má nejpozději do 30 dnů uvalit cla až 100 procent na zboží ze zemí, které po uplynutí této lhůty vědomě nakoupí ruskou ropu nebo plyn a zároveň patřily za předchozích dvanáct měsíců mezi pět největších odběratelů. Totéž platí pro pětici států, které nejvíc pomáhají obcházet sankce. Na zboží dovážené přímo z Ruska pak mají do 30 dnů dopadnout cla až 500 procent a sankce se rozšiřují na ruské představitele, finanční instituce, státem ovládané podniky, energetický sektor i plavidla stínové flotily. Zelenský Trumpovi i oběma komorám poděkoval s tím, že nejlepší poctou Grahamově památce bude úplné a rychlé naplnění zákona. Ve stejný den Putin na jednání vojensko-průmyslové komise oznámil, že Rusko je připraveno spolupracovat a obnovit vztahy s evropskými sousedy a vůči Evropě nemá žádné nepřátelské úmysly. Evropským lídrům zároveň vyčetl, že mluvením o přípravě na válku zakrývají domácí hospodářské problémy a snaží se získat zpět ztracené voliče. Muž, který válku rozpoutal, si stěžuje, že ho nikdo nechce poslouchat. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02KcizoW6J6tpUdrLMuYcEnZ9x2y75cKZrYTPR3Jef5fWBKdo6XNx4QJkBf5ioC4Hql): 
@@ -993,10 +952,6 @@ timeline:
         year: "18. září 2026"
         sort: "2026-09-18"
         image: assets/img/timeline/2026-09-18.jpg
-        pictures:
-          - ["2026-09-18-1.jpg", ""]
-          - ["2026-09-18-2.jpg", ""]
-          - ["2026-09-18-3.jpg", ""]
         podcast: "2026-09-18.mp3"
         desc: |
           Rusko dnes zahájilo třídenní volby do Státní dumy, první parlamentní volby od začátku plnohodnotné invaze – a Ukrajina k nim poslala vlastní volební komisi. Ruské ministerstvo obrany hlásí, že přes noc sestřelilo 629 dronů nad ruskými regiony, Černým a Azovským mořem. Starosta Moskvy Sergej Sobjanin připustil, že jen k Moskevské oblasti mířilo od večera přes 350 dronů a 64 z nich dopadlo na přiblížení k hlavnímu městu. Letecký poplach byl od půlnoci vyhlášen ve třiceti ruských regionech. Šéfka ústřední volební komise Ella Pamfilovová mluvila o drobných incidentech: v Krasnodarském kraji se musela jedna volební místnost přestěhovat, protože jí dron vytloukl okna, čtrnáct okrsků v okupované Luhanské oblasti zůstalo bez proudu a v Soči museli voliči i komise ráno do krytů. Aby bylo jasno, o jakou „demokratickou“ soutěž jde, krátce před hlasováním ruský Nejvyšší soud vyřadil z voleb Jabloko, jedinou stranu, která otevřeně vystupovala proti válce. Volí se také na okupovaných ukrajinských územích – v doprovodu vojáků se samopaly. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0o8WANsYD2dPuxZFyMFeBTQ4Yk9F58nnT1LxTUyzUqco3n1W6C1p8TYKifVJLiVBJl): 
@@ -1028,17 +983,6 @@ timeline:
         year: "17. září 2026"
         sort: "2026-09-17"
         image: assets/img/timeline/2026-09-17.jpg
-        pictures:
-          - ["2026-09-17-1.jpg", ""]
-          - ["2026-09-17-2.jpg", ""]
-          - ["2026-09-17-3.jpg", ""]
-          - ["2026-09-17-4.jpg", ""]
-          - ["2026-09-17-5.jpg", ""]
-          - ["2026-09-17-6.jpg", ""]
-          - ["2026-09-17-7.jpg", ""]
-          - ["2026-09-17-8.jpg", ""]
-          - ["2026-09-17-9.jpg", ""]
-          - ["2026-09-17-10.jpg", ""]
         podcast: "2026-09-17.mp3"
         desc: |
           Sněmovna reprezentantů USA schválila poměrem 262 ku 159 hlasům zákon zesnulého senátora Lindseyho Grahama o sankcích proti Rusku. Pro hlasovalo 203 republikánů, 56 demokratů a jeden nezávislý, proti sedm republikánů a 152 demokratů. Norma dává prezidentovi pravomoc uvalit cla až 100 procent na pět největších odběratelů ruské ropy a plynu a na pět zemí, které Moskvě pomáhají obcházet energetické sankce. Seznam se má revidovat každých 180 dní, výjimku dostanou státy dovážející méně než 15 procent ruského plynu, pokud dovoz snižují. Zákon dále míří na Putina a další vysoké představitele, na Centrální banku, Sberbank a Gazprombank i na stínovou flotilu. Senát ho schválil už začátkem srpna, ve sněmovně narazil na odpor části demokratů kvůli obavám, že dává prezidentovi příliš velkou moc nad cly. Zákon ještě musí podepsat Trump. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0r8uor4a5xRm9C7aEhCqYkyV7PCzBgjsoiWeCpShdn5yJv8UXkhtH46kxydpz3QHHl): 
@@ -1218,10 +1162,6 @@ timeline:
         year: "12. září 2026" 
         sort: "2026-09-12"
         image: assets/img/timeline/2026-09-12.jpg
-        pictures:
-          - ["2026-09-18-1.jpg", ""]
-          - ["2026-09-18-2.jpg", ""]
-          - ["2026-09-18-3.jpg", ""]
         podcast: "2026-09-12.mp3"
         desc: |
           Ukrajinské drony v noci letěly na dvě ruská města. V Taganrogu v Rostovské oblasti, hlásili obyvatelé sérii silných detonací. Podle portálu ASTRA stoupal kouř od vojenského letiště Taganrog-Centralnyj, kde sídlí 708. pluk vojenského dopravního letectva a v sousedství se nachází také 325. letecký opravárenský závod, který se stará mimo jiné o vzácné stroje A-50U a dopravní Il-76. Ze satelitních dat byl patrný požár v areálu taganrogské automobilky TagAZ, kde se vyrábí drony pro ruskou armádu. Druhým cílem noci bylo Toljatti v Samarské oblasti, zhruba 880 kilometrů od ukrajinské hranice, kde po náletu hořel chemický závod Kujbyševazot, jeden z klíčových podniků ruského dusíkatého průmyslu, který vyrábí čpavek, dusičnan amonný, močovinu a kaprolaktam a stojí zhruba za polovinou ruské produkce kaprolaktamu a třemi čtvrtinami kordových tkanin pro pneumatiky. Jeho produkty se používají také při výrobě tuhých raketových paliv pro taktické a balistické rakety. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid035VeHwvHRW5aQiBhcBtZMfCRiyvAB47hJeBq9HcrDth8PdwTPgpT9o5w8xnudRUXul):
@@ -1254,10 +1194,6 @@ timeline:
         year: "11. září 2026" 
         sort: "2026-09-11"
         image: assets/img/timeline/2026-09-11.jpg
-        pictures:
-          - ["2026-09-11-1.jpg", ""]
-          - ["2026-09-11-2.jpg", ""]
-          - ["2026-09-11-3.jpg", ""]
         podcast: "2026-09-11.mp3"
         desc: |
           Ukrajinské drony a rakety měly napilno v ruském týlu. V Saratově hořelo na dvou místech současně. Podle OSINT analýzy portálu ASTRA zasáhly drony rafinerii koncernu Rosněfť s roční kapacitou zhruba 4,8 milionu tun ropy, která funguje od roku 1934 a od začátku invaze ji Ukrajinci trefili nejméně šestnáctkrát (!!). Druhým cílem bylo logistické centrum e-shopu Ozon, firma pak zastavila příjem objednávek pro celou Saratovskou oblast a její akcie na moskevské burze spadly o pět procent. Nad Volgogradem podle výrobce Fire Point zaútočily rakety FP-5 Flamingo na vojensko-průmyslové cíle. Gubernátor Andrej Bočarov nicméně připustil jen poškození průmyslového objektu na jihu města padajícími troskami. Ukrajinské drony zaútočily na ruské rafinerie letos už nejméně sedmdesátkrát a zpracování ropy v Rusku kleslo na nejnižší úroveň za dvacet let. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0hKoeGvw8JwJYxm3MTu2Jmg2mzKGvTbiZhY8dbEgbbT9B8jsL5iHSJv3sJM7Smv5gl):
@@ -1285,10 +1221,6 @@ timeline:
         year: "10. září 2026" 
         sort: "2026-09-10"
         image: assets/img/timeline/2026-09-10.jpg
-        pictures:
-          - ["2026-09-18-1.jpg", ""]
-          - ["2026-09-18-2.jpg", ""]
-          - ["2026-09-18-3.jpg", ""]
         podcast: "2026-09-10.mp3"
         desc: |
           Generální štáb potvrdil, že ukrajinské údery na Novorossijsk z 9. září zasáhly nejméně tři ruské válečné lodě: fregatu Admirál Essen, velkou výsadkovou loď Petr Morgunov a malou námořní minolovku Železňakov. Fregata, která nosí řízené střely Kalibr, dostala podle ukrajinského námořnictva zásah protilodní střelou komplexu Neptun a na můstku po úderu hořelo. Kromě lodí byly zasaženy také tamější sklady mazutu. Operaci vedlo oddělení aktivních operací rozvědky HUR společně s dalšími složkami obranných sil. Rozsah poškození plavidel štáb zatím neupřesnil. Během dne se ale objevily první satelitní snímky, které údery dokazují. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid023QRP4wnebyUxDis3pF4pNupqxVCyTcMW8KVuqGQWiy5B7pdFZZsoeYfQAdQ49ujPl): 
@@ -1357,17 +1289,6 @@ timeline:
         year: "8. září 2026" 
         sort: "2026-09-08"
         image: assets/img/timeline/2026-09-08.jpg
-        pictures:
-          - ["2026-09-08-1.jpg", ""]
-          - ["2026-09-08-2.jpg", ""]
-          - ["2026-09-08-3.jpg", ""]
-          - ["2026-09-08-4.jpg", ""]
-          - ["2026-09-08-5.jpg", ""]
-          - ["2026-09-08-6.jpg", ""]
-          - ["2026-09-08-7.jpg", ""]
-          - ["2026-09-08-8.jpg", ""]
-          - ["2026-09-08-9.jpg", ""]
-          - ["2026-09-08-10.jpg", ""]
         podcast: "2026-09-08.mp3"
         desc: |
           Rusko v noci ukončilo krátké „příměří“, které vyhlásilo na dobu návštěvy amerických vyslanců, a udeřilo na Kyjev kombinovaným úderem. Podle ukrajinského letectva Rusko vyslalo protilodní střely Oniks, balistické rakety Iskander-M, S-400 a KN-23, 32 řízených střel Ch-101 a 166 dronů typu Šahed, z nichž víc než polovina byla proudová. Obrana zničila nebo potlačila 175 vzdušných cílů, konkrétně dvě balistické rakety, 31 řízených střel a 142 dronů, zásahy jsou hlášeny z 29 míst. Hlavními cíli byly Kyjev a Oděská oblast, útok zasáhl i Záporožskou a Dněpropetrovskou oblast. V Kyjevě zahynuli dva lidé a počet zraněných se během dne postupně upřesňoval z deseti na šestnáct, hořel sklad i vzdělávací zařízení a poškozeny jsou nejméně dva vícepodlažní obytné domy. Mezi cíli náletu byly skladiště farmaceutické společnosti, supermarket Varus nebo studio televizního kanálu „My jsme Ukrajina“, kam dopadly dva projektily, a to přímo během živého vysílání. Budova byla částečně zničena a nejméně pět lidí bylo zraněno. Ruské ministerstvo obrany nicméně už tradičně mluví o masivním úderu na zbrojní podniky, dopravní a logistické uzly, na přístavní infrastrukturu v Čornomorsku v Oděské oblasti a na tanker s palivem a mazivy pro ukrajinskou armádu. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02CopEVN1qMykTt24EEVyErZzoqTnCtMTLA24UiFtxp4PYhmJJ8GtuY9ZsCKn5NKspl):
@@ -1435,11 +1356,6 @@ timeline:
         year: "6. září 2026" 
         sort: "2026-09-06"
         image: assets/img/timeline/2026-09-06.jpg
-        pictures:
-          - ["2026-09-21-1.jpg", ""]
-          - ["2026-09-21-2.jpg", ""]
-          - ["2026-09-21-3.jpg", ""]
-          - ["2026-09-21-4.jpg", ""]
         podcast: "2026-09-06.mp3"
         desc: |
           Do Kyjeva dnes míří Steve Witkoff a Jared Kushner, poprvé od začátku velké invaze. Přijíždějí z Moskvy, kde s Putinem jednali přes tři hodiny za zavřenými dveřmi a pak s ním večeřeli. Putinův poradce Jurij Ušakov mluvil o konstruktivním, otevřeném a užitečném jednání, konkrétní výsledky ale nezmínil a dodal, že se podrobně probíraly i ekonomické otázky a možné velké společné rusko-americké projekty. Trump před odletem řekl, že jeho vyjednavači vezou návrh na ukončení války. Putin nařídil třídenní pauzu v úderech na Kyjev od sobotní půlnoci, Zelenskyj slíbil, že Ukrajina do pondělí nezaútočí na Moskvu. Putin podle Ušakova informoval Američany, že situace na frontě se vyvíjí dobře, a že cíle „SVO“ budou dosaženy. Zároveň na ně ale opět apeloval, že je třeba odstranit „kořeny konfliktu“. Witkoff je naopak zachycen na kamerách, jak říká Putinovi: „V první řadě, pane prezidente Putine, moc vám děkujeme za pozvání. Až odejdeme do důchodu, budeme mít spoustu úžasných příběhů a vzpomínek, a ty s vámi budou mezi nimi na samém vrcholu.“ A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0YHbNmUjDG3hKbSN1VR1N5UTocQR8HYSDxAvfhnDxvdAjn79Wrtun27pGpsPiLy9Zl):
@@ -1506,8 +1422,6 @@ timeline:
           - ["2026-09-04-2.jpg", ""]
           - ["2026-09-04-3.jpg", ""]
           - ["2026-09-04-4.jpg", ""]
-          - ["2026-09-04-5.jpg", ""]
-          - ["2026-09-04-6.jpg", ""]
         desc: |
           Ruské Soči zasáhlo hned několik vln útoků ukrajinských dronů. Ukrajinské námořnictvo nejdříve napadlo námořním dronem plavidlo Nefrit, které obsluhuje ruskou ropnou, plynovou a příbřežní infrastrukturu, převáží náklad i personál a zajišťuje podvodní technické práce. Nad ránem pak přiletěly vzdušné drony a zasáhly ropnou základnu společnosti Rosněft-Kubaňněftěprodukt. OSINT hlásí i druhý požár, tentokrát u protivzdušné divize poblíž obce Sirius na hranici s Abcházií, kde stojí systémy S-300 nebo S-400. Druhým cílem noci byl Sterlitamak v Baškortostánu, přes 1 300 kilometrů od ukrajinských hranic. Hořel tam petrochemický závod, který vyrábí ionol, přísadu do leteckých paliv a maziv. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid037Yu147hQj5JfpwCyJF8zZLcohM6HP6bxpsBNi4pP4MQLxCFawAKaYoBuAZHRe13Cl):
         detail: |
@@ -1541,18 +1455,6 @@ timeline:
         sort: "2026-09-03"
         image: assets/img/timeline/2026-09-03.jpg
         podcast: "2026-09-03.mp3"
-        pictures:
-          - ["2026-09-03-1.jpg", ""]
-          - ["2026-09-03-2.jpg", ""]
-          - ["2026-09-03-3.jpg", ""]
-          - ["2026-09-03-4.jpg", ""]
-          - ["2026-09-03-5.jpg", ""]
-          - ["2026-09-03-6.jpg", ""]
-          - ["2026-09-03-7.jpg", ""]
-          - ["2026-09-03-8.jpg", ""]
-          - ["2026-09-03-9.jpg", ""]
-          - ["2026-09-03-10.jpg", ""]
-          - ["2026-09-03-11.jpg", ""]
         desc: |
           Německo podle Der Spiegel chystá rozsáhlou odvetu za ruský dronový útok na letišti Lipsko/Halle a Ukrajina v ní hraje hlavní roli. Berlín má v září dodat tisíce útočných dronů a rakety pro systémy Iris-T, prohloubit spolupráci tajných služeb a pomáhat Ukrajincům se zaměřováním cílů pro protiúdery na ruském území. Bundestag má brzy schválit zákon o zpravodajských službách, který BND umožní aktivnější obranu: přístup k počítačům a serverům protivníka, mazání ukradených dat a zásahy do dodavatelských řetězců. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02mnr2U5sNaHV2cujfd3Q3Pnc4x2uuzLETerLtXxV9GA9o3tyHw5Z48WVCHwhgH1u3l):
         detail: |
@@ -1692,15 +1594,6 @@ timeline:
         sort: "2026-08-30"
         image: assets/img/timeline/2026-08-30.jpg
         podcast: "2026-08-30.mp3"
-        pictures:
-          - ["2026-08-30-1.jpg", ""]
-          - ["2026-08-30-2.jpg", ""]
-          - ["2026-08-30-3.jpg", ""]
-          - ["2026-08-30-4.jpg", ""]
-          - ["2026-08-30-5.jpg", ""]
-          - ["2026-08-30-6.jpg", ""]
-          - ["2026-08-30-7.jpg", ""]
-          - ["2026-08-30-8.jpg", ""]
         desc: |
           Ukrajinské drony v noci zasáhly Kirišskou rafinerii v Leningradské oblasti. KINEF, celým jménem Kirišiněftěorgsintez, je co do kapacity druhou největší rafinerií v Rusku a vůbec největší v Severozápadním federálním okruhu: zpracuje kolem dvaceti milionů tun ropy ročně. Stejnou noc dostalo zásah letiště v Jejsku v Krasnodarském kraji a v Millerovu v Rostovské oblasti místo, kde Rusové skladují, připravují a vypouštějí útočné drony. Velitel Sil bezpilotních systémů Robert Brovdi později upřesnil, že v Jejsku shořely komplet Pancir-S1, radiolokátor Sopka-2 a sklad letecké výzbroje. V Šabelském byl zničen radar Kasta 2E2 a v Dolotince u millerovského letiště muniční sklady, technicko-opravárenská jednotka, radar Nebo-SV a hlavní cíl celé operace: modul DRL-27 přistávacího radiolokačního systému RSP-27, který na letišti zajišťuje řízení letového provozu. Zelenskyj k tomu řekl, že Rusko musí pocítit, že se válka vrací tam, odkud přišla. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0YhHfvLkQADERguZABRi234xF7MA5pLvfiGnz3T8ArLUTnvwFbNPsTU88ohkdB99Vl):
         detail: |
@@ -1738,11 +1631,6 @@ timeline:
         sort: "2026-08-29"
         image: assets/img/timeline/2026-08-29.jpg
         podcast: "2026-08-29.mp3"
-        pictures:
-          - ["2026-08-29-1.jpg", ""]
-          - ["2026-08-29-2.jpg", ""]
-          - ["2026-08-29-3.jpg", ""]
-          - ["2026-08-29-4.jpg", ""]
         desc: |
           Kyjevská oblast má za sebou nejtragičtější noc za dlouhou dobu. Ruský dron zasáhl v pátek kolem 20:10 areál ve vesnici Myla v Bučanském okrese, zhruba pět kilometrů západně od Kyjeva u dálnice Kyjev–Čop. Vypukl velký požár a po něm začala detonovat munice, která tam byla uskladněna. Podle šéfa kyjevské oblastní správy Tymura Tkačenka si výbuchy vyžádaly nejméně 37 mrtvých a 42 zraněných, mezi nimi čtyři děti, a číslo zatím není konečné, protože práce na místě pokračují. Mezi mrtvými je i Taras Didyč, starosta Dmytrivské hromady, který na místo dorazil jako jeden z prvních zasahujících. Poškozeno je asi padesát obytných domů, oheň se rozšířil na domy i restauraci a zničil domov pro seniory, evakuováno bylo 381 lidí včetně 59 dětí. Volodymyr Zelenskyj potvrdil, že terčem byl sklad munice, a oznámil, že SBU a Národní policie zahájily trestní řízení pro služební nedbalost kvůli nelegálnímu skladování munice u obytné zástavby. Premiér Serhij Korecký připomněl, že nedávná podobná tragédie ve Vyšneve nebyla ponaučením, a mluví o trestuhodné nedbalosti v pátém roce plnohodnotné invaze. Generální prokuratura prověřuje, zda byly výbušniny v podniku uloženy legálně a zda měl potřebná povolení. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0P1BbByVJ155b95hhiNS9WZx1asZYrDuDfRbiHa8vE94mpyPqTzQXNzu74FuYNC6Al):
         detail: |
@@ -1766,23 +1654,6 @@ timeline:
         sort: "2026-08-28"
         image: assets/img/timeline/2026-08-28.jpg
         podcast: "2026-08-28.mp3"
-        pictures:
-          - ["2026-08-28-1.jpg", ""]
-          - ["2026-08-28-10.jpg", ""]
-          - ["2026-08-28-11.jpg", ""]
-          - ["2026-08-28-12.jpg", ""]
-          - ["2026-08-28-13.jpg", ""]
-          - ["2026-08-28-14.jpg", ""]
-          - ["2026-08-28-15.jpg", ""]
-          - ["2026-08-28-16.jpg", ""]
-          - ["2026-08-28-2.jpg", ""]
-          - ["2026-08-28-3.jpg", ""]
-          - ["2026-08-28-4.jpg", ""]
-          - ["2026-08-28-5.jpg", ""]
-          - ["2026-08-28-6.jpg", ""]
-          - ["2026-08-28-7.jpg", ""]
-          - ["2026-08-28-8.jpg", ""]
-          - ["2026-08-28-9.jpg", ""]
         desc: |
           Ukrajinské zasáhly rafinerii Slavněft-JANOS v Jaroslavli, jeden z pěti největších ruských rafinérských komplexů, který ročně zpracuje kolem 15 milionů tun ropy a leží asi 700 kilometrů od ukrajinských hranic. Pro tuhle rafinerii jde už o osmý ukrajinský úder v letošním roce. Druhý cíl noci byl ještě zajímavější: v Engelsu v Saratovské oblasti zasáhly piloti jednotky Alfa ukrajinské SBU strategický bombardér Tu-95MS. Právě z Engelsu přitom startují letouny, které na ukrajinská města odpalují střely s plochou dráhou letu, a stejná jednotka stála za operací Pavučina z června 2025. Ruské ministerstvo obrany tvrdí, že přes noc sestřelilo 512 ukrajinských dronů nad osmnácti ruskými regiony, okupovaným Krymem a Černým mořem. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02VMSP6uv5C5uhv5jYAaQ9dwawMeBCwY5PiKVE61MnmUwUSB8CkLUiGmPA8umJovMYl): 
         detail: |
@@ -2034,8 +1905,6 @@ timeline:
         sort: "2026-08-21" 
         image: assets/img/timeline/2026-08-21.jpg
         podcast: "2026-08-21.mp3" 
-        pictures:
-          - ["2026-08-21-1.jpg", ""]
         desc: |
           Ukrajinské drony v noci znovu doletěly za Ural. V Permu, zhruba 1 400 kilometrů od ukrajinských hranic, zasáhly rafinerii Lukoil-Permněftěorgsintez a nad areálem se ráno zvedl sloup kouře. Rosaviace v reakci zastavila provoz na permském letišti Bolšoje Savino. Gubernátor Machonin připustil jen to, že protivzdušná obrana sestřelila šestnáct dronů, jeden člověk je zraněn a poškozený je „průmyslový objekt". Permská rafinerie přitom patří do desítky největších ruských rafinérských provozů a je druhým největším závodem Lukoilu hned po Nižním Novgorodu. V roce 2024 zpracovala 12,6 milionu tun ropy, z toho zhruba 2 miliony tun benzinu a 5,3 milionu tun nafty, vedle toho vyrábí letecký petrolej a maziva a zásobuje domácí i zahraniční trh. Drony na ni letěly naposledy 29. července a už po jarní sérii úderů provoz několik týdnů kompletně stál. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0uaRW175ohdVu3aZfEjjQxjGteNnAvoQeU1mEVpe6fkxhYxnqeYNaiAFzRSaiJ9i7l):
         detail: |
@@ -2062,8 +1931,6 @@ timeline:
         sort: "2026-08-20" 
         image: assets/img/timeline/2026-08-20.jpg
         podcast: "2026-08-20.mp3" 
-        pictures:
-          - ["2026-08-20-1.jpg", ""]
         desc: |
           Rusko krátce po půlnoci zahájilo několikahodinový kombinovaný útok na Kyjev. Na město letěla balistika, střely Kalibr odpálené od Novorossijsku, hypersonické Cirkony z Kurské oblasti a proudové drony. Ukrajinské letectvo hlásí za noc 46 řízených střel různých typů a 168 dronů plus neupřesněný počet balistických raket. Počty balistiky letectvo od začátku srpna nezveřejňuje, protože Ukrajině prakticky došly antirakety pro systémy Patriot, což bylo to jediné, co balistiku umí sestřelit. Zneškodněno bylo 41 střel a 145 dronů, zásahy jsou hlášeny z 28 míst. Hlavním cílem útoku byla Kyjevská oblast. Podle zatím posledních čísel zemřelo v hlavním městě nejméně patnáct lidí a přes třicet skončilo v péči lékařů, bilance se v průběhu dne dál zvyšuje. V Solomjanském okrese vyhořela po náletu horní patra devítipodlažního domu a jen tam přišlo o život sedm lidí. Poškozena je dále budova dětské nemocnice, škola, sklady a nebytové objekty v Darnyckém, Svjatošynském a Ševčenkivském okrese. Bez proudu zůstalo asi 90 tisíc kyjevských domácností, DTEK dopoledne obnovil dodávky víc než polovině z nich. V Boryspilu zasáhli Rusové sklad potravin a areál Červeného kříže. Zelenskyj doplnil, že Rusové zasáhli také plynárenskou infrastrukturu na Černihivsku a hraniční přechod do Moldavska v Oděské oblasti. Ruské ministerstvo obrany naopak už tradičně mluví o „masivním úderu vysoce přesnými zbraněmi" na obranný a energetický průmysl, sklad munice a logistický uzel. Za posledních čtyřiadvacet hodin si ruské útoky na celé Ukrajině vyžádaly podle krajských vojenských správ 23 mrtvých a 132 zraněných. Starosta Kyjeva Vitalij Kličko vyhlásil na pátek den smutku. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Pv9HizKWuvkeWv2oQ5nN5yaregUU7LXUZtQWcqGVHA33V9kkSDHiG8jqFzYnrq6Rl): 
         detail: |
@@ -2093,15 +1960,6 @@ timeline:
         sort: "2026-08-19" 
         image: assets/img/timeline/2026-08-19.jpg
         podcast: "2026-08-19.mp3" 
-        pictures:
-          - ["2026-08-19-1.jpg", ""]
-          - ["2026-08-19-2.jpg", ""]
-          - ["2026-08-19-3.jpg", ""]
-          - ["2026-08-19-4.jpg", ""]
-          - ["2026-08-19-5.jpg", ""]
-          - ["2026-08-19-6.jpg", ""]
-          - ["2026-08-19-7.jpg", ""]
-          - ["2026-08-19-8.jpg", ""]
         desc: |
           Ukrajinské drony v noci znovu letěly hluboko do ruského týlu. V Ufě v Baškortostánu, přes tisíc kilometrů od ukrajinských hranic, zasáhl dron jednu z rafinerií koncernu Bašneft a v areálu vypukl požár. Severní průmyslová zóna Ufy s produkcí 23,5 milionu tun ropy ročně, patří k největším rafinérským komplexům v Rusku a jen v srpnu ho ukrajinské drony zasáhly už potřetí. Druhým cílem noci byl Dzeržinsk v Nižněnovgorodské oblasti: podle ruského nezávislého portálu ASTRA a předběžné OSINT analýzy mířily drony na závod Sverdlov, jeden z největších ruských výrobců trhavin a klíčový podnik vojensko-chemického průmyslu, který funguje více než sto let. Výbuchy hlásili obyvatelé i z Novomoskovsku v Tulské oblasti. Ruské ministerstvo obrany tvrdí, že mezi úterní nocí a středečním ránem zneškodnilo 453 ukrajinských dronů nad Ruskem a okupovaným Krymem. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Z3vRi8YESEP4mFtfbkhXUwCAShjjen1DRWhxHB4hKEussVCp9h7rDzq8jrhTvrjml): 
         detail: |
@@ -2132,8 +1990,6 @@ timeline:
         sort: "2026-08-18" 
         image: assets/img/timeline/2026-08-18.jpg
         podcast: "2026-08-18.mp3"
-        pictures:
-          - ["2026-08-18-1.jpg", ""]
         desc: |
           Rusko dnes ráno zasáhlo dvěma řízenými střelami Banderol centrum Pečenih na Charkovsku. Podle šéfa oblastní správy zahynulo deset lidí a osmnáct jich bylo zraněno. Rusové schválně cílili na rušnou křižovatku, kde stojí pošta a obchody a která je obklopená obytnými domy. Požár zachvátil plochu zhruba 400 m², shořela kavárna a sedm aut, poškozeno je deset rodinných domů, budova pošty, pět obchodů a dalších patnáct vozidel. Během noci vypustilo Rusko na Ukrajinu celkem 147 dronů typu Shahed včetně proudových verzí a návnad Gerbera a Parody. Protivzdušná obrana jich 111 sestřelila nebo potlačila, zásahy jsou hlášeny z devatenácti míst. Za poslední den ruské útoky zabily nejméně devatenáct lidí v šesti oblastech a třiapadesát jich zranily. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02zbuHVs1ijHyyXHTy6prrCrQeKK4hxjLfKKmFF9ozKMuo8tVn12jMT5Nr8SRVFR6el):
         detail: |
@@ -2166,15 +2022,6 @@ timeline:
         sort: "2026-08-17" 
         image: assets/img/timeline/2026-08-17.jpg
         podcast: "2026-08-17.mp3"
-        pictures:
-          - ["2026-08-17-1.jpg", ""]
-          - ["2026-08-17-2.jpg", ""]
-          - ["2026-08-17-3.jpg", ""]
-          - ["2026-08-17-4.jpg", ""]
-          - ["2026-08-17-5.jpg", ""]
-          - ["2026-08-17-6.jpg", ""]
-          - ["2026-08-17-7.jpg", ""]
-          - ["2026-08-17-8.jpg", ""]
         desc: |
           Ukrajina předložila Trumpově administrativě memorandum, které poprvé v číslech shrnuje, co její kampaň dálkových úderů za posledních čtyřicet dní udělala s ruskou ekonomikou. Podle dokumentu provedla SBU více než sto „úspěšných úderů" na strategické cíle v Rusku a na okupovaných územích. Ukrajinské síly zasáhly všech deset největších ruských rafinerií, přičemž nejvzdálenější cíl ležel v Omsku zhruba 2 500 kilometrů od hranic. Údery na rafinerie probíhají zhruba každé dva dny a Kyjev odhaduje, že vyřadil přes 30 % ruských rafinérských kapacit, což znamená ztráty kolem 15 miliard dolarů. Kampaň se rozšířila i na stínovou flotilu – pod útokem bylo skoro 200 plavidel v Černém a Azovském moři – a na desítky vojenských objektů, na Krymu zejména letiště Saky, Hvardijske, Belbek a Bagerovo. Červenec byl podle dokumentu pro ruskou dopravní techniku a cisterny nejhorším měsícem celé války: zničeno nebo poškozeno bylo skoro 14 000 kusů. Memorandum zároveň obsahuje varování: při ruském raketovém útoku na Kyjev 5. srpna, který zabil 18 lidí, nebyla sestřelena ani jedna z 24 balistických raket, protože Ukrajina nemá dost vhodných střel pro PVO. V červenci Rusko odpálilo kolem stovky balistických raket a úspěšnost jejich zachycení zůstává kriticky nízká. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02WDT4uCzLnnL2aNTkd8jKFV5zEbBncKudemG59Jmut4RhdfBtTNAqkqJBZ9EDfVDNl): 
         detail: |
@@ -2281,15 +2128,6 @@ timeline:
         sort: "2026-08-14" 
         image: assets/img/timeline/2026-08-14.jpg
         podcast: "2026-08-14.mp3"
-        pictures:
-          - ["2026-08-14-1.jpg", ""]
-          - ["2026-08-14-2.jpg", ""]
-          - ["2026-08-14-3.jpg", ""]
-          - ["2026-08-14-4.jpg", ""]
-          - ["2026-08-14-5.jpg", ""]
-          - ["2026-08-14-6.jpg", ""]
-          - ["2026-08-14-7.jpg", ""]
-          - ["2026-08-14-8.jpg", ""]
         desc: |
           Ukrajina v noci provedla jednu z nejrozsáhlejších úderných vln za poslední týdny a poprvé za dlouhou dobu zasáhla oba konce ruské ropné logistiky současně. Generální štáb potvrdil, že Síly bezpilotních systémů společně s vojenskou rozvědkou HUR zasáhly v noci ze 13. na 14. srpna rafinerii Lukoil-Volgogradněftěpererabotka ve Volgogradu, kde vypukly silné požáry. Jde o největšího producenta paliv a maziv v Jižním federálním okruhu – zpracuje přes 15 milionů tun ropy ročně, což je 5,6 % veškeré ruské rafinérské kapacity, a vyrábí naftu, benzin a letecký petrolej klíčový pro logistiku ruské armády. Zároveň byla pod útokem Leningradská oblast, kde jsou hlášeny škody a požár v prostoru přístavu Usť-Luga, který je jedním z největších ruských přístavů na Baltu a sídlí v něm ropný terminál, přes který Rusko vyváží ropu a ropné produkty – tedy jeden z hlavních zdrojů příjmů státního rozpočtu. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0fkAM1C3VLqArYpijWuMN1PzHEThnLcnemEbCV4sLS3jpLDSJsKaGpgb5hFFKydiul): 
         detail: |
@@ -2315,8 +2153,6 @@ timeline:
         sort: "2026-08-13" 
         image: assets/img/timeline/2026-08-13.jpg
         podcast: "2026-08-13.mp3"
-        pictures:
-          - ["2026-08-13-1.jpg", ""]
         desc: |
           Ukrajinské drony v noci zasáhly ropný a petrochemický komplex Gazprom Neftěchim Salavat v Baškortostánu, zhruba 1 300 kilometrů od ukrajinských hranic. V areálu vypukl požár. Jde o jeden z největších ruských rafinérsko-petrochemických provozů s kapacitou až 10 milionů tun surovin ročně, který vyrábí benzin, naftu, mazut, bitumen i polyetylen a zásobuje ruskou armádu. Zásah dostalo v Baškortostánu i další logistické centrum Wildberries. Nejcennějším cílem noci byl ale radar Nebo-U v okupovaném Sevastopolu. Tento třísouřadnicový radiolokátor slouží k detekci a sledování letadel, řízených střel i balistických raket a jeho cena se odhaduje na 100 milionů dolarů. Podle Generálního štábu jeho vyřazení zhoršuje ruskou schopnost včas zaznamenat přilétající ukrajinské projektily. Ve stejnou dobu ukrajinské drony zaútočily na Balaklavskou tepelnou elektrárnu a u obce Šturmove začalo hořet velké vodárenské zařízení. Celý Sevastopol byl po náletu bez proudu, než se dodávky podařilo provizorně obnovit. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid037xN8jsR2yXDRAjAADUyFx2Diw1n6NK9WgPN8Dq5rxmCyW4od1PMJpwGQuZe9S7qsl):
         detail: |
@@ -2351,8 +2187,6 @@ timeline:
         sort: "2026-08-12" 
         image: assets/img/timeline/2026-08-12.jpg
         podcast: "2026-08-12.mp3"
-        pictures:
-          - ["2026-08-12-1.jpg", ""]
         desc: |
           Ukrajinské síly v noci provedly to, co Zelenskyj označil za „unikátní operaci" proti námořní základně v Novorossijsku – poslední velké opoře ruské Černomořské flotily na okupovaném Krymu. Použily k tomu proudové drony Paljanycja, rakety Neptun a námořní drony. Potvrzené jsou zásahy pozic protivzdušné obrany, několika mol a infrastruktury přístavu. Zásahy utrpěly také nejméně čtyři válečné lodě: Admirál Essen a Admirál Makarov, ale i další plavidla. Ruské ministerstvo obrany tvrdí, že sestřelilo přes 500 projektilů. Podle místních úřadů zahynuli tři lidé, 24 jich bylo zraněno, poškozeny byly desítky obytných domů a trosky sestřelených dronů dopadly do areálů čtyř průmyslových podniků. Ruské zdroje potvrzují, že dva velké obilné terminály přestaly po náletu fungovat, a protože Rusko je největší světový vývozce pšenice a většinu jí posílá právě přes černomořské přístavy, trhy okamžitě zareagovaly obavami z výpadku dodávek. Starosta Novorossijsku Kravčenko vyhlásil ve městě stav nouze; přerušené jsou dodávky vody a poškozená jsou i školská zařízení. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0deq1qZFgFBiEFrx3XYtV7SGsyvJZzhwm9LPLFYPY7YWG44QboVAjTXwRn3FY9Gzgl): 
         detail: |
@@ -2385,8 +2219,6 @@ timeline:
         sort: "2026-08-11"
         image: assets/img/timeline/2026-08-11.jpg
         podcast: "2026-08-11.mp3"
-        pictures:
-          - ["2026-08-11-1.jpg", ""]
         desc: |
           Rusko v noci zaútočilo balistickými raketami na Záporoží, Kyjev a další města. V Záporoží zasáhly rakety areál hutního závodu Záporižstal. Zaměstnanci právě mířili do krytu poté, co se rozezněl poplach. Sedm z nich to bohužel nestihlo. Dalších 21 lidí utrpělo zranění. Podle mateřského Metinvestu byla poškozena energetická infrastruktura i hlavní a pomocné provozy koksovny a vysokých pecí; závod musel kompletně zastavit výrobu a ostatní záporožské provozy jedou na snížený výkon. Zelenskyj uvedl, že Rusové při náletu použili severokorejské balistické rakety, ruské Zirkony a řízené letecké pumy s cílem způsobit maximální škody na civilní infrastruktuře. Ukrajinská rozvědka přitom už 5. srpna hlásila, že se do západního Ruska přesouvá severokorejská raketová jednotka. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02JXoF7mjyYLCKsPHncruZPFMXUVvSVaCiWyW852WAhAsGUUqucv41UqZB37qNYVZgl):
         detail: |
@@ -2423,8 +2255,6 @@ timeline:
         sort: "2026-08-10"
         image: assets/img/timeline/2026-08-10.jpg
         podcast: "2026-08-10.mp3"
-        pictures:
-          - ["2026-08-10-1.jpg", ""]
         desc: |
           Analýza videozáznamu z nedávného incidentu na letišti v německém Lipsku ukázala, že FPV dron narazil do křídla ukrajinského nákladního letadla An-124 „Ruslan“, ale naštěstí neexplodoval. Přestože dron zasáhl nejzranitelnější část křídla, kde se nacházejí palivové nádrže, pouze se od letadla odrazil a spadl na zem. Jeho hlavice přitom byla naplněna plastickou trhavinou Semtex, což vyvrací dřívější teorii, že se jednalo pouze o „varování“ bez úmyslu způsobit skutečné škody. USA už dříve dospěly k závěru, že dron patřil ruské speciální službě. Jedná se tak o přímý útok ruských tajných služeb na vojenský cíl na území státu NATO. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid04dAykrXeCML2TUzNWa7VmdcFskTJ3GBtcgXEAHAsAra8KWxtLPhFaLuVKpBbeXB1l): 
         detail: |
@@ -2456,13 +2286,6 @@ timeline:
         sort: "2026-08-09"
         image: assets/img/timeline/2026-08-09.jpg
         podcast: "2026-08-09.mp3"
-        pictures:
-          - ["2026-08-09-1.jpg", ""]
-          - ["2026-08-09-2.jpg", ""]
-          - ["2026-08-09-3.jpg", ""]
-          - ["2026-08-09-4.jpg", ""]
-          - ["2026-08-09-5.jpg", ""]
-          - ["2026-08-09-6.jpg", ""]
         desc: |
           Rusko v noci podniklo masivní kombinovaný útok na Oděsu, při kterém vyslalo 11 raket, z nichž většina letěla balistickou trajektorií, a až 100 dronů, včetně útočných dronů Banderol s proudovým pohonem. Ukrajinská protivzdušná obrana sestřelila 72 % dronů, pět ze šesti dronů typu „Banderol“ a jednu raketu. Další tři rakety donutila změnit kurz pomocí rušiček. Přesto Rusové zasáhli devět míst v Oděse a jejím okolí, přičemž zranili devět lidí a poškodili domy, automobily a energetickou infrastrukturu. V některých částech města nálet vyřadil z provozu dodávky elektřiny, vody a mobilní služby. A potom ještě [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0grhgCKcb8gKFw5PZdk891ZfyrXrGqzwf1ePvWDGhtKMv7g485WJfUPf9ZEYiYiu5l): 
         detail: |
@@ -2496,13 +2319,6 @@ timeline:
         sort: "2026-08-08"
         image: assets/img/timeline/2026-08-08.jpg
         podcast: "2026-08-08.mp3"
-        pictures:
-          - ["2026-08-08-1.jpg", ""]
-          - ["2026-08-08-2.jpg", ""]
-          - ["2026-08-08-3.jpg", ""]
-          - ["2026-08-08-4.jpg", ""]
-          - ["2026-08-08-5.jpg", ""]
-          - ["2026-08-08-6.jpg", ""]
         desc: |
           Ruský státní propagandista Solovjov poskytl rozsáhlý rozhovor americkému krajně pravicovému moderátorovi a konspiračnímu teoretikovi Alexi Jonesovi. Solovjov v něm mimo jiné tvrdil, že Rusko už dobylo Kosťantynivku a že „osvobození“ Donbasu bude brzy dokončeno. Dále prohlásil, že od února 2022 získalo Rusko více nového území než Sovětský svaz v důsledku druhé světové války. Podle Solovjova také nejsou USA ve skutečnosti řízeny Trumpem ani politiky, ale „technofašisty“. Jako jednoho z nich jmenoval generálního ředitele společnosti Palantir Alexe Karpa. Solovjov tvrdí, že „technofašisté“ chtějí zničit Rusko, protože je to „poslední křesťanská země na světě“. Poté naznačil, že Ukrajinci zabili Lindseyho Grahama, aby urychlili schválení jeho návrhu zákona o drakonických sankcích proti Rusku. A i další tvrzení byly solidní fantasmagorie: Rusko prý nechce obsadit Lvov ani Kyjev a nikdy nemělo v úmyslu dobýt celou Ukrajinu. Všichni ruští vojáci, kteří bojují již dva a půl roku, jsou údajně dobrovolníci. A na závěr se Solovjov a Jones dostali k té nejdůležitější otázce ze všech: kdo stojí v čele celého tohoto systému? Satan. Na tom se oba shodli. Ale zpátky do [reality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02F1ntJFLZzSR4A1tBs4YX4p4om3dd997Tvq2LvLrw3sNtms1y9fi1Y3evbwXGLh8Rl):
         detail: |
@@ -2537,13 +2353,6 @@ timeline:
         sort: "2026-08-07"
         image: assets/img/timeline/2026-08-07.jpg
         podcast: "2026-08-07.mp3"
-        pictures:
-          - ["2026-08-07-1.jpg", ""]
-          - ["2026-08-07-2.jpg", ""]
-          - ["2026-08-07-3.jpg", ""]
-          - ["2026-08-07-4.jpg", ""]
-          - ["2026-08-07-5.jpg", ""]
-          - ["2026-08-07-6.jpg", ""]
         desc: |
           Americké zpravodajské služby se domnívají, že do kouta zahnaný Putin by se mohl rozhodnout k útoku na NATO ve snaze ukázat alespoň nějaký úspěch na bojišti. K tomu by mohlo dojít již letos na podzim. Možné scénáře sahají od kyberútoku až po omezenou invazi. Pravděpodobnost krajního scénáře – pozemní operace – je v současné době hodnocena jako nízká, ale podle zpráv se s postupem času zvyšuje. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02XGiDzr5bhDkfdEoi3C21LVUrm2EmbCDBTdHJnGqLb98K9dqy2i8mYm5howuGXUAgl): 
         detail: |
@@ -2574,13 +2383,6 @@ timeline:
         sort: "2026-08-06"
         image: assets/img/timeline/2026-08-06.jpg
         podcast: "2026-08-06.mp3"
-        pictures:
-          - ["2026-08-06-1.jpg", ""]
-          - ["2026-08-06-2.jpg", ""]
-          - ["2026-08-06-3.jpg", ""]
-          - ["2026-08-06-4.jpg", ""]
-          - ["2026-08-06-5.jpg", ""]
-          - ["2026-08-06-6.jpg", ""]
         desc: |
           Ukrajinský dobrovolník Oleksij Jukov zahynul při výbuchu protipěchotní miny, když se snažil vyzvednout ostatky padlých ruských vojáků. Jukov věřil, že každý padlý voják si zaslouží vrátit se domů a že každá rodina si zaslouží možnost pochovat své blízké. Nazýval padlé „dušemi“, nikoli těly. Jeho životním posláním bylo přivádět ukrajinské obránce zpět k jejich rodinám, aby mohli být důstojně pohřbeni. Zároveň vyzvedával ostatky ruských vojáků, aby mohly být vyměněny, a umožnil tak návrat domů dalším ukrajinským hrdinům. Oleksij se svými principy řídil až do poslední chvíle. Ať je mu země lehká. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0y7QJG3ZsJSwkgejm1vq2r7VNZECBZK21n1y37ppPetZvBT3vTmAAvnhNWwv6Gc49l): 
         detail: |
@@ -2616,13 +2418,6 @@ timeline:
         sort: "2026-08-05"
         image: assets/img/timeline/2026-08-05.jpg
         podcast: "2026-08-05.mp3"
-        pictures:
-          - ["2026-08-05-1.jpg", ""]
-          - ["2026-08-05-2.jpg", ""]
-          - ["2026-08-05-3.jpg", ""]
-          - ["2026-08-05-4.jpg", ""]
-          - ["2026-08-05-5.jpg", ""]
-          - ["2026-08-05-6.jpg", ""]
         desc: |
           V noci byl na letišti v Lipsku nalezen na zemi FPV dron s výbušninami. Dron se nacházel v blízkosti ukrajinského nákladního letadla typu Antonov, což vedlo k dočasnému přerušení provozu letiště. Později, asi 6 km od letiště, se jiné nákladní letadlo srazilo s neznámým předmětem a muselo nouzově přistát v Hannoveru, kde byly zjištěny drobné škody. Naštěstí nebyl při ani jednom z incidentů nikdo zraněn. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02KcUsNDqoiCnmERzq6Vy9UHkb4Ux6JMUaYkQtdD9SxKpFZtJC92M3CeoVLxh7TMfnl): 
         detail: |
@@ -2657,8 +2452,6 @@ timeline:
         year: "4. srpna 2026"
         sort: "2026-08-04"
         image: assets/img/timeline/2026-08-04.jpg
-        pictures:
-          - ["2026-08-04-1.jpg", ""]
         desc: |
           Rusové zveřejnili na Telegramu video, na kterém jejich FPV dron loví za bílého dne obyčejného prodejce zeleniny na ulici v Chersonu a pokouší se ho zabít. Celý incident natočila také náhodná svědkyně. Muž jako zázrakem vyvázl jen s lehkými zraněními, přestože dron explodoval těsně vedle něj. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid04b6S1857qkSbnB1hbz8FR7Ta79e9k9FgAZ9QvjFTEBbQY3L1ikMb7dfzYvpTT5bDl): 
         detail: |
@@ -2693,8 +2486,6 @@ timeline:
         sort: "2026-08-03"
         image: assets/img/timeline/2026-08-03.jpg
         podcast: "2026-08-03.mp3"
-        pictures:
-          - ["2026-08-03-1.jpg", ""]
         desc: |
           Vitalina Jarovenko, dvacetiletá dobrovolnice, zahynula 1. srpna při ruském útoku na Kyjev. V noci, když sloužila u zdravotnického praporu na levém břehu Kyjeva, dorazila Vitalina na místo ruského raketového útoku, aby pomohla zraněným. Při záchraně životů ostatních ji pak zasáhl druhý raketový úder a na místě zabil. Hrdinům sláva. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02LZxZXUL1oVLtpfpDA1CT6FeqQXzi1GtPxxUsgGYMVrn8HmEQXCudP2sVyfHLzfeSl): 
         detail: |
@@ -2733,8 +2524,6 @@ timeline:
         sort: "2026-08-02"
         image: assets/img/timeline/2026-08-02.jpg
         podcast: "2026-08-02.mp3"
-        pictures:
-          - ["2026-08-02-1.jpg", ""]
         desc: |
           Včera pozdě večer explodovala v luxusní moskevské restauraci Balzi Rossi improvizovaná bomba. Ruská média uvádějí, že výbušné zařízení maskované jako dárek pronesla dovnitř jakási žena. Podle kusých zpráv zahynulo pět lidí a více než 21 dalších bylo zraněno. Kanály na Telegramu tvrdí, že se v restauraci konala oslava 55. narozenin velitele ruských leteckých a kosmických sil Alexandra Čajka. Akci, jíž se účastnili vojáci, politici, úředníci a příslušníci FSB, údajně střežili příslušníci FSO. Čajko sám prý nebyl při incidentu zraněn. Což je nemilé. Na začátku invaze totiž Čajko velel ruským silám postupujícím na Kyjev. Ukrajina ho proto obviňuje z účasti na bombardování Boroďanky a podílu na masakru civilistů v Buči. Totožnost obětí nejspíš vypluje na povrch v příštích dnech. Ruská propaganda každopádně atentát popírá a snaží se tvrdit, že šlo o výbuch plynu. Tak určitě. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0opSxwhkabkeZXU9K69rMe8EZP9X3MyGNT49sMB6PCtbtp97vpq6SnSsxXxbpR5Zal): 
         detail: |
@@ -2802,8 +2591,6 @@ timeline:
         sort: "2026-07-31"
         image: assets/img/timeline/2026-07-31.jpg
         podcast: "2026-07-31.mp3"
-        pictures:
-          - ["2026-07-31-1.jpg", ""]
         desc: |
           Ukrajinské drony nad ránem dopadaly na Volgograd, Kazaň, Nižnekamsk a Kaspijsk. Ve Volgogradu byla zasažena ropná rafinérie a také logistický areál společnosti Wildberries. Další rafinérie a další areál Wildberries byl zasažen v Nižnekamsku. V Kaspijsku byl cílem dronů tamější přístavní terminál. Došlo také k prvnímu útoku na druhý největší e-shop, společnost Ozon. Ukrajinský dron jen těsně minul její logistické sklady v Zelenodolsku. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02vfRaEEknS88A2ybXfX7JvcJhUFs3mScCc4dWphFMwbYqiwSFK9oroDVXuL86Fjenl): 
         detail: |
@@ -2841,8 +2628,6 @@ timeline:
         sort: "2026-07-30"
         image: assets/img/timeline/2026-07-30.jpg
         podcast: "2026-07-30.mp3"
-        pictures:
-          - ["2026-07-30-1.jpg", ""]
         desc: |
           Ruská řízená střela s plochou dráhou letu typu Ch-101 vletěla během rozsáhlého nočního náletu na Ukrajinu do polského vzdušného prostoru a dopadla do pole u obcí Tarnawa-Kolonia a Tokary, zhruba 94 km od ukrajinských hranic. Střele startovala naproti polská stíhačka F-16 a premiér Tusk uvedl, že Polsko bylo připraveno raketu sestřelit, pokud by pokračovala v letu. Tusk také později uvedl, že si telefonoval s partnery z NATO a dohodli se na koordinovaném postupu v případě dalších ruských „omylů“ a provokací. Rusko během náletu vyslalo okolo sedmi desítek raket nebo střel s plochou dráhou letu a okolo 280 útočných dronů. I přes kvalitní práci ukrajinské PVO se bohužel noc neobešla bez civilních tragédií. Proto jako obvykle čekejte v komentářích další nálet – z Petrohradu. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0BJyL1Edw5pye9LvJSJzS7nPFyTYhFoem2dMxy5KknPBks1V92mAK6wmukx8aMsBkl): 
         detail: |
@@ -2882,10 +2667,6 @@ timeline:
         sort: "2026-07-29"
         image: assets/img/timeline/2026-07-29.jpg
         podcast: "2026-07-29.mp3"
-        pictures:
-          - ["2026-07-29-1.jpg", ""]
-          - ["2026-07-29-2.jpg", ""]
-          - ["2026-07-29-3.jpg", ""]
         desc: |
           Neznámý muž střílel na místního podnikatele u vchodu do bytového domu v ruském městě Tula a poté z místa činu uprchl. Oběť byla převezena do nemocnice a úřady zahájily vyšetřování pokusu o vraždu. Podle ruských médií byl terčem útoku Andrej Čerezov, ředitel společnosti Russian Air Transport Laboratory, která se zabývá vývojem dronů. Podle zpráv na něj útočník vystřelil třikrát. Podezřelý je stále na svobodě. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02goxv4jtejs94vm8rescLe1v8Heqkvd8TVg3tUC4SdxKfze66RCNLpAzQjtddgazyl): 
         detail: |
@@ -2923,8 +2704,6 @@ timeline:
         sort: "2026-07-28"
         image: assets/img/timeline/2026-07-28.jpg
         podcast: "2026-07-28.mp3"
-        pictures:
-          - ["2026-07-28-1.jpg", ""]
         desc: |
           Polská policie zadržela dva pachatele nedávného násilného útoku na ukrajinský pár. Jedním z nich je boxer, který se před úřady pokusil ujet na dálnici, kde ho musela zajistit zásahová jednotka. Podle polských úřadů mají oba muži kriminální minulost. Polský premiér Tusk na to konto vzkázal, že „zločinci nebudou diktovat pravidla na polských ulicích“, vyhlásil „válku násilí, nenávisti a beztrestnosti“ a vyzval prezidenta, aby k těmto incidentům dál nemlčel. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0UiwosoWP8LuwqECdjHkxUNTfqM4Rauzso1i8hBPnfeSSmKQ9w6sfsvEcDRxo6yRWl): 
         detail: |
@@ -2957,8 +2736,6 @@ timeline:
         sort: "2026-07-27"
         image: assets/img/timeline/2026-07-27.jpg
         podcast: "2026-07-27.mp3"
-        pictures:
-          - ["2026-07-27-1.jpg", ""]
         desc: |
           Rusko před pár dny přišlo s informací, že Ukrajina zasáhla „prázdninový resort na území kontrolovaném Ruskem“ a snažilo se tak vyvolat dojem, že se Ukrajina dopustila válečného zločinu – a navíc na civilních rodinách. Informaci bez jakékoliv snahy o poskytnutí kontextu převzala i některá západní média včetně americké ABC a na dezinformačních kanálech se zpráva šířila s obvyklou viralitou. Jak se zpětně ukazuje, k zásahu „rekreačního střediska“ skutečně došlo, ale v době, kdy hostilo velmi specifické „rekreanty“: V okupované Kyrylivce na pobřeží Azovského moře v Melitopolském okrese po ukrajinském náletu zemřel Michajl Ivanov, 54letý vedoucí záporožské pobočky ruského Hlavního centra pro rádiové frekvence, bývalý úředník ruského cenzurního úřadu Roskomnadzor a také někdejší vojenský důstojník s dvacetiletou kariérou v ruské armádě. Při náletu údajně zemřeli také jeho dva potomci a zraněna byla jeho žena. Rusko tak nejspíše resort využívalo k rekonvalescenci armádních důstojníků, vojenských veteránů a vysoce postavených úředníků. Celkem mělo být podle Rusů zabito osm lidí, ale totožnosti dalších zatím nejsou známy. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0VAAxS9a7uGHv3ZJAaP5Z1s6sDdgJuBvpDKP5FFR7vhxFehEN7PsQHq9HWNFaX1Mil): 
         detail: |
@@ -3002,12 +2779,6 @@ timeline:
         sort: "2026-07-26"
         image: assets/img/timeline/2026-07-26.jpg
         podcast: "2026-07-26.mp3"
-        pictures:
-          - ["2026-07-26-1.jpg", ""]
-          - ["2026-07-26-2.jpg", ""]
-          - ["2026-07-26-3.jpg", ""]
-          - ["2026-07-26-4.jpg", ""]
-          - ["2026-07-26-5.jpg", ""]
         desc: |
           Ukrajina oznámila, že zničila v Kaspickém moři dvě ruské nákladní lodě, které prý přepravovaly ruské zbraně do Íránu (nebo opačným směrem). Írán pak okolnosti útoku nepřímo potvrdil, když začal Ukrajině vyhrožovat, že ji v odvetě zasáhne svými balistickými raketami. Tenhle vývoj asi nikdo nečekal. Každopádně se děje také [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0WYYtk5R9LgwyABxExXd4pAQwBitLWVukvoXB5WxmB1hUArZ7t3YAY4hxby8YdgQVl): 
         detail: |
@@ -3044,17 +2815,6 @@ timeline:
         sort: "2026-07-25"
         image: assets/img/timeline/2026-07-25.jpg
         podcast: "2026-07-25.mp3"
-        pictures:
-          - ["2026-07-25-1.jpg", ""]
-          - ["2026-07-25-10.jpg", ""]
-          - ["2026-07-25-2.jpg", ""]
-          - ["2026-07-25-3.jpg", ""]
-          - ["2026-07-25-4.jpg", ""]
-          - ["2026-07-25-5.jpg", ""]
-          - ["2026-07-25-6.jpg", ""]
-          - ["2026-07-25-7.jpg", ""]
-          - ["2026-07-25-8.jpg", ""]
-          - ["2026-07-25-9.jpg", ""]
         desc: |
           Ukrajinská Doněcká oblastní prokuratura oznámila, že zahájila vyšetřování válečných zločinů v souvislosti s vraždou ukrajinského vojáka poblíž vesnice Jalta v osadě Komar. Podle videa, které Rusové sami zveřejnili, byl ukrajinský voják zajat odpoledne 13. července, poté byl krátce vyslýchán, načež jeden z Rusů nařídil jeho popravu a další ho okamžitě zastřelil. Bohužel to není ze strany Rusů výjimečná událost. Takových už natočili desítky, a další stovky nebo tisíce spáchali mimo pohled telefonů a kamer. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid025ST6uSzn7uCidsox8w96FCnf6uqMKTUZwYH63tPme9eJ2Yk6sJ7uBMNjXZ7wzMmRl): 
         detail: |
@@ -3087,17 +2847,6 @@ timeline:
         sort: "2026-07-24"
         image: assets/img/timeline/2026-07-24.jpg
         podcast: "2026-07-24.mp3"
-        pictures:
-          - ["2026-07-24-1.jpg", ""]
-          - ["2026-07-24-10.jpg", ""]
-          - ["2026-07-24-2.jpg", ""]
-          - ["2026-07-24-3.jpg", ""]
-          - ["2026-07-24-4.jpg", ""]
-          - ["2026-07-24-5.jpg", ""]
-          - ["2026-07-24-6.jpg", ""]
-          - ["2026-07-24-7.jpg", ""]
-          - ["2026-07-24-8.jpg", ""]
-          - ["2026-07-24-9.jpg", ""]
         desc: |
           Ruská dezinformační hydra aktuálně šíří v Polsku příběhy o smyšlených zločinech, které měli spáchat Ukrajinci, aby je policie následně propustila bez obvinění nebo uvěznění. Všechny jsou samozřejmě smyšlené a jejich cílem je vyvolávat nenávist vůči ukrajinským uprchlíkům. Je to další stupeň dezinformační kampaně, která už v menší míře probíhá i u nás, kdy tisíce falešných účtů píší pod desítky článků o zločinech spáchaných Čechy, že „kdyby to byl Ukrajinec, tak se mu nic nestane“. Nezbývá než doufat, že české úřady, a zejména Policie, tyto aktivity sleduje a chystá nějaká preventivní prohlášení nebo osvětovou kampaň. V Polsku totiž tato kampaň bohužel dopadá na úrodnou půdu a začínají se množit nevyprovokované násilné útoky proti Ukrajincům ze strany Poláků. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0jbV66JCtC2Sjrjdbfp55oADgA7X1acVKdud3qkM7Mjy3iP3QqRjEyhko4F2aJo5al): 
         detail: |
@@ -3415,23 +3164,6 @@ timeline:
         sort: "2026-07-16"
         image: assets/img/timeline/2026-07-16.jpg
         podcast: "2026-07-16.mp3"
-        pictures:
-          - ["2026-07-16-1.jpg", ""]
-          - ["2026-07-16-10.jpg", ""]
-          - ["2026-07-16-11.jpg", ""]
-          - ["2026-07-16-12.jpg", ""]
-          - ["2026-07-16-13.jpg", ""]
-          - ["2026-07-16-14.jpg", ""]
-          - ["2026-07-16-15.jpg", ""]
-          - ["2026-07-16-16.jpg", ""]
-          - ["2026-07-16-2.jpg", ""]
-          - ["2026-07-16-3.jpg", ""]
-          - ["2026-07-16-4.jpg", ""]
-          - ["2026-07-16-5.jpg", ""]
-          - ["2026-07-16-6.jpg", ""]
-          - ["2026-07-16-7.jpg", ""]
-          - ["2026-07-16-8.jpg", ""]
-          - ["2026-07-16-9.jpg", ""]
         desc: |
           Ukrajinci opět vyšli do ulic, a to poté, co se ukázalo, že další vládní rošáda by se měla týkat i současného ministra obrany Fedorova. Ten si totiž za půl roku ve vládě vytvořil značnou popularitu jak u vojáků, tak u široké veřejnosti. Byl to právě on, kdo prosadil populární reformy, zajistil některou klíčovou pomoc a stojí tak nepřímo za některými úspěchy ukrajinské armády. Proč má tedy být z postu odvolán? Podle Zelenského je hlavním problémem napětí mezi Fedorovem a Syrským, který se naopak některým reformám urputně brání. Dvě významné osobnosti ukrajinského obranného aparátu dnes ráno oznámily svůj odchod. Vojenský expert Serhij „Flash“ Beskrestnov ukončil svou činnost jako poradce ministra obrany Fedorova. Flash patří k nejznámějším ukrajinským odborníkům na drony, komunikaci a elektronický boj. Spolupracoval s armádou a vývojáři v obranném průmyslu, analyzoval ruskou taktiku a pomáhal předvídat nové hrozby. Krátce nato podal výpověď také náměstek velitele letectva Pavlo Jelizarov. Své rozhodnutí taktéž zdůvodnil odvoláním Fedorova z funkce. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02orqfTJ73SULRxohxHrzj1bQy69y5GY1zU1yrQ4QmeWwncVbXVaanHQqzo4Q5uxBJl): 
         detail: |
@@ -3458,8 +3190,6 @@ timeline:
         sort: "2026-07-15"
         image: assets/img/timeline/2026-07-15.jpg
         podcast: "2026-07-15.mp3"
-        pictures:
-          - ["2026-07-15-1.jpg", ""]
         desc: |
           Podle agentury Bloomberg se Rusku nedaří prodat ropu, kterou je nuceno vyvážet kvůli odstávkám rafinérií. V důsledku toho se na moři nahromadilo přibližně 135 milionů barelů ruské ropy, což je téměř rekordní množství od začátku roku. Některé ropné tankery už několik týdnů kotví u pobřeží Egypta, Singapuru a ruského přístavu Kozmino a čekají na odběratele nebo na překládku. A krom toho se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0cRVrLH727oSqGgCLhnYBTnh994gWeJzRG6VK41MsAeL8JSFLxDrhYkvZKxtFiwazl): 
         detail: |
@@ -3491,8 +3221,6 @@ timeline:
         sort: "2026-07-14"
         image: assets/img/timeline/2026-07-14.jpg
         podcast: "2026-07-14.mp3"
-        pictures:
-          - ["2026-07-14-1.jpg", ""]
         desc: |
           Rusko obvinilo Německo z účasti na „teroristických útocích“ na ruském území a předvolalo svého velvyslance poté, co německé velvyslanectví zveřejnilo video, v němž se vysmívalo Kremlu kvůli palivové krizi. Ve videu velvyslanectví sdělovalo, že Moskva zvažuje dovoz paliva, přídělový systém a posílení protivzdušné obrany, zatímco existuje mnohem jednodušší řešení: ukončit válku proti Ukrajině. Poté, co se klip stal virálním, ruské ministerstvo zahraničí předvolalo německého velvyslance Alexandra Lambsdorffa, obvinilo Berlín z účasti na útocích na Ukrajinu a prohlásilo, že sdělení velvyslanectví připomíná „nejhorší praktiky nacistické propagandy“. To nevymyslíš. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02wwExsJXKNw4s7TkTAzey4yANmSv8kYtXKGYAzDdY9WToe2taYfhC3pGk8S8U5V1Ql): 
         detail: |
@@ -3523,8 +3251,6 @@ timeline:
         sort: "2026-07-13"
         image: assets/img/timeline/2026-07-13.jpg
         podcast: "2026-07-13.mp3"
-        pictures:
-          - ["2026-07-13-1.jpg", ""]
         desc: |
           Ukrajina a devět evropských zemí oficiálně založily Koalici proti balistickým raketám. Hlavy států Dánska, Francie, Německa, Itálie, Nizozemska, Norska, Španělska, Švédska, Ukrajiny a Spojeného království se dohodly na spojení obranného průmyslu, výzkumu a operačních zkušeností s cílem vytvořit společný protiraketový potenciál pro Evropu. Česko mezi těmi zeměmi nehledejte. Tomu aktuálně vládne bývalý estébák s podporou proruských fašistických stran. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02kFUxK5MnEosHR6JpU3ygRDaVDjdxwdkdidB1s2F7XpXa4DTAHisZ6ejdRpdjcCHdl): 
         detail: |
@@ -3560,23 +3286,6 @@ timeline:
         sort: "2026-07-12"
         image: assets/img/timeline/2026-07-12.jpg
         podcast: "2026-07-12.mp3"
-        pictures:
-          - ["2026-07-12-1.jpg", ""]
-          - ["2026-07-12-10.jpg", ""]
-          - ["2026-07-12-11.jpg", ""]
-          - ["2026-07-12-12.jpg", ""]
-          - ["2026-07-12-13.jpg", ""]
-          - ["2026-07-12-14.jpg", ""]
-          - ["2026-07-12-15.jpg", ""]
-          - ["2026-07-12-16.jpg", ""]
-          - ["2026-07-12-2.jpg", ""]
-          - ["2026-07-12-3.jpg", ""]
-          - ["2026-07-12-4.jpg", ""]
-          - ["2026-07-12-5.jpg", ""]
-          - ["2026-07-12-6.jpg", ""]
-          - ["2026-07-12-7.jpg", ""]
-          - ["2026-07-12-8.jpg", ""]
-          - ["2026-07-12-9.jpg", ""]
         desc: |
           Poté, co byli ruští špioni vyhoštěni ze západních zemí, objevily se desítky ruských agentů v Japonsku, které má poměrně slabou legislativu vůči špionáži. Podle deníku New York Times tam Rusové vybudovali síť, jejímž úkolem je zajišťovat dodávky technologií potřebných pro ruský vojensko-průmyslový komplex. V centru operace stojí utajené 20. ředitelství GRU. Jeho důstojníci prý působí pod diplomatickým a obchodním krytím a nakupují či převážejí citlivé vybavení do Ruska. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02vWnaYanAweXbxYiLV8xw5kQjeejRhM5Pdr5uxDkBjaV3xBg1B53gXpg1iMciv8jel): 
         detail: |
@@ -3610,23 +3319,6 @@ timeline:
         sort: "2026-07-11"
         image: assets/img/timeline/2026-07-11.jpg
         podcast: "2026-07-11.mp3"
-        pictures:
-          - ["2026-07-11-1.jpg", ""]
-          - ["2026-07-11-10.jpg", ""]
-          - ["2026-07-11-11.jpg", ""]
-          - ["2026-07-11-12.jpg", ""]
-          - ["2026-07-11-13.jpg", ""]
-          - ["2026-07-11-14.jpg", ""]
-          - ["2026-07-11-15.jpg", ""]
-          - ["2026-07-11-16.jpg", ""]
-          - ["2026-07-11-2.jpg", ""]
-          - ["2026-07-11-3.jpg", ""]
-          - ["2026-07-11-4.jpg", ""]
-          - ["2026-07-11-5.jpg", ""]
-          - ["2026-07-11-6.jpg", ""]
-          - ["2026-07-11-7.jpg", ""]
-          - ["2026-07-11-8.jpg", ""]
-          - ["2026-07-11-9.jpg", ""]
         desc: |
           Od dnešní půlnoci ukrajinské drony provedly dalších 34 úspěšných úderů na plavidla z ruské stínové flotily v Azovském moři. Celkový počet úspěšných zásahů se tak vyšplhal už na 82 a celkový počet zasažených jednotlivých plavidel vyrostl o 29 na 77, a to za pouhých šest dní. Mezi zasaženými loděmi při posledních náletech je 21 tankerů, 4 remorkéry, 2 nákladní lodě pro suchý náklad a jedna těžební loď. A kromě toho se stalo taky [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02qBq7imMYuNu3kqphJHuiojSN3RhqwPxsGx57m9w3MreLFMikUWqUK646Cb4cxkCWl): 
         detail: |
@@ -3657,11 +3349,6 @@ timeline:
         sort: "2026-07-10"
         image: assets/img/timeline/2026-07-10.jpg
         podcast: "2026-07-10.mp3"
-        pictures:
-          - ["2026-07-10-1.jpg", ""]
-          - ["2026-07-10-2.jpg", ""]
-          - ["2026-07-10-3.jpg", ""]
-          - ["2026-07-10-4.jpg", ""]
         desc: |
           Investigativní projekt „Schémata“ identifikoval ruského vězeňského lékaře známého pod přezdívkou „Konoval“, kterého bývalí ukrajinští váleční zajatci obviňují z mučení a týrání ve vězeňské kolonii č. 7 v Pakinu ve Vladimirské oblasti. Je jím Vjačeslav Čerdantsev. Podle bývalých válečných zajatců Čerdantsev nutil vězně, aby se svlékli donaha, napodobovali sexuální akty, vystavoval je sexuálnímu ponižování a odepíral jim lékařskou péči. Tvrdí také, že odmítání péče přispělo k vypuknutí svrabu uvnitř věznice. Teď ještě zařídit Konovalovi nějakou nečekanou návštěvu. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02c7FqKoKtcPXwfRBPdFmMhHfP3uPdAYRyFVyPkzwCRw9xjnHUeitdivWRUWyqscHZl): 
         detail: |
@@ -3696,12 +3383,6 @@ timeline:
         sort: "2026-07-09"
         image: assets/img/timeline/2026-07-09.jpg
         podcast: "2026-07-09.mp3"
-        pictures:
-          - ["2026-07-09-1.jpg", ""]
-          - ["2026-07-09-2.jpg", ""]
-          - ["2026-07-09-3.jpg", ""]
-          - ["2026-07-09-4.jpg", ""]
-          - ["2026-07-09-5.jpg", ""]
         desc: |
           Ukrajinská kampaň proti ruským tankerům pokračuje. Maďarovi ptáci oznámili, že dnes v noci zasáhli dalších 12 tankerů z ruské stínové flotily. Celkový počet zásahů plavidel v Azovském moři během posledních 96 hodin se tak vyšplhal až na 38. A dokonce byl zveřejněn i jmenný seznam zasažených lodí: 6. 7. 2026 byly zasaženy 2 tankery (Kapitán Barmin, Sanar-3 (třída Primemax), 7. 7. 2026 bylo zasaženo 10 plavidel (8 tankerů, 1 nákladní loď, 1 trajekt): Venera-3, Sanar-1, Sanar-17, Klimena, Teti, Aleksej Savrasov, Penelopa, Ivan Čeremisinov, Nákladní loď (název se potvrzuje), Trajekt SKS One (Kerč). 8. 7. 2026 dalších 9 plavidel: tankery Efrosinya V, Maria, Sanar-17 (znovu zasažen),  Sanar, Klimena (znovu zasažen) a nákladní lodě Donstar, Jarygin, Feofan Šochirev, Evgenija Z. A nakonec dnes v noci, 9. 7. 2026 bylo zasaženo 14 plavidel (12 tankerů, 1 nákladní loď, 1 remorkér): tankery Chelsea-6, Aura, Sonar-1, Ilya Repin, Merkurij, Galiaskar Kamal, Alfeo, Aphrodite, Venera-3 a Penelopa. Názvy dalších pěti zasažených plavidel se stále ověřují. A dnes v noci bude pravděpodobně pokračování. Ale děje se také [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02aMUM7gGqXcuwPJb6rTmAs5WFc8htGTikLxhKP5Lawg9U5XVqz6ryR7pvPhF86AbRl): 
         detail: |
@@ -3735,8 +3416,6 @@ timeline:
         sort: "2026-07-08"
         image: assets/img/timeline/2026-07-08.jpg
         podcast: "2026-07-08.mp3"
-        pictures:
-          - ["2026-07-08-1.jpg", ""]
         desc: |
           Poté, co ukrajinské drony úspěšně zasáhly rafinérii v Omsku, začaly ruské proválečné kanály na Telegramu tvrdit, že drony nemohly z Ukrajiny uletět tak daleko. Místo toho přišly s novým vysvětlením: drony byly údajně vypuštěny z Kazachstánu nebo přeletěly přes Kaspické moře z Ázerbájdžánu. Jako „důkaz“ někteří propagandisté uvádějí, že Baku se údajně mstí za útoky na zařízení spojená se společností SOCAR na Ukrajině. Rusové se zkrátka nedokáží smířit se skutečností, že je drtí několikanásobně menší soused. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02maN3m7DQw9RLPb55UbMatDR4EDPiMEZs3MHm6UjD8nQFoPWyyNkEiEkEXngdnV9el): 
         detail: |
@@ -3773,11 +3452,6 @@ timeline:
         sort: "2026-07-07"
         image: assets/img/timeline/2026-07-07.jpg
         podcast: "2026-07-07.mp3"
-        pictures:
-          - ["2026-07-07-1.jpg", ""]
-          - ["2026-07-07-2.jpg", ""]
-          - ["2026-07-07-3.jpg", ""]
-          - ["2026-07-07-4.jpg", ""]
         desc: |
           Ukrajina provedla koordinované údery na ruská plavidla, přičemž během dvou dnů zasáhla v Azovském moři 10 tankerů patřících do ruské stínové flotily, jednu nákladní loď na suchý náklad a také další trajekt, který se podílel na zásobování okupovaného Krymu. Mezi identifikované tankery patří Venera-3, Sanar-1, Sanar-17, Klimena, Teti, Alexej Savrasov a Penelope. Identita dalších tankerů se stále ověřuje. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0m4Dr9AAgJ8fEvzyBXia6BJiifcic5FwofamDdBaY4CtWLrqcqfsMdYuuKPSoozrbl): 
         detail: |
@@ -3817,8 +3491,6 @@ timeline:
         sort: "2026-07-06"
         image: assets/img/timeline/2026-07-06.jpg
         podcast: "2026-07-06.mp3"
-        pictures:
-          - ["2026-07-06-1.jpg", ""]
         desc: |
           Rusové nedokáží prolomit frontu ani bránit ukrajinským náletům na klíčové cíle v Rusku, a tak i dnes pokračoval ruský teror civilní populace Ukrajiny. Podle ukrajinského letectva vyslalo Rusko celkem 351 dronů typu Shahed a 68 raket, z toho 6 raket typu Zirkon/Oniks, 23 raket typu Iskander-M/S-400, 33 raket typu Ch-101 a 6 raket typu Kalibr. Ukrajinské síly sestřelily 37 z 68 ruských raket a 326 z 351 dronů. Hlavním cílem náletu byl Kyjev. V jediném paneláku v Kyjevě zemřelo po zásahu raketou a kolapsu části budovy nejméně 9 lidí a 60 bylo zraněno. Zemřela tak mimo jiné jedna celá rodina. Celkový počet obětí na životech se prozatím zastavil na 17, ale nejspíš dál poroste. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02PguPjbFr3gjUQnCkxpYp1YkTsvUNWvvhJyYTxXr1BAC6nbBHbLgW2a3mTFwFxQgpl): 
         detail: |
@@ -3859,8 +3531,6 @@ timeline:
         sort: "2026-07-05"
         image: assets/img/timeline/2026-07-05.jpg
         podcast: "2026-07-05.mp3"
-        pictures:
-          - ["2026-07-05-1.jpg", ""]
         desc: |
           Ruská invaze na Ukrajinu zbavuje Rusko těch nejhorších, zatímco mezi Ukrajinci si bere životy těch nejlepších. Pavlo se narodil 1. srpna 1994 ve Stryii ve Lvovské oblasti. S vyznamenáním absolvoval gymnázium a získal magisterský titul v oboru matematického a počítačového modelování na Lvovské polytechnické národní univerzitě. Později dokončil doktorát na Karpenkově fyzikálně-mechanickém ústavu Národní akademie věd Ukrajiny. Tématem jeho disertační práce byla křížová spektrální analýza periodicky nestacionárních náhodných procesů. V ústavu působil nejprve jako inženýr a poté jako mladší vědecký pracovník, později přednášel už jako docent na Lvovské polytechnice. Po vypuknutí invaze nezůstal stranou, ale zapojil se jako dobrovolník a pomáhal ukrajinským obráncům. V září 2025 byl povolán do armády a stal se operátorem dronů v úderné letecké jednotce. 24. června 2026 padl v boji u vesnice Semereky v Sumské oblasti. Bylo mu 31 let. Čest jeho památce. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02tZrnNfzCcP2htkYe3HJktR3uf2H9Ns3rWD8gbyHehDU6V7fCin9tKDgwCeGh3YKdl): 
         detail: |
@@ -3892,8 +3562,6 @@ timeline:
         sort: "2026-07-04"
         image: assets/img/timeline/2026-07-04.jpg
         podcast: "2026-07-04.mp3"
-        pictures:
-          - ["2026-07-04-1.jpg", ""]
         desc: |
           Při ruských útocích klouzavými bombami na města Sumy a Záporoží bylo zabito nejméně 19 ukrajinských civilistů a desítky dalších byly zraněny. 13letá dívka, kterou exploze v Sumách připravila o obě nohy, je v kritickém stavu v péči lékařů. Jiná, 5letá dívka, bohužel zemřela na místě i přes snahu mediků ji resuscitovat. Spolu s ní byla zabita i její 34letá matka. Jednoho těžce zraněného muže se lékařům v nemocnici podařilo oživit poté, co se mu v důsledku zranění zastavilo srdce. Počet obětí ale pravděpodobně i tak poroste. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0jc8T5Q6uw5U2eb3drXrNvHRH1LEhhBPZn3ZHRyyp9eukshDAMVwd7VodWrpKGEMal): 
         detail: |
@@ -3927,18 +3595,6 @@ timeline:
         sort: "2026-07-03"
         image: assets/img/timeline/2026-07-03.jpg
         podcast: "2026-07-03.mp3"
-        pictures:
-          - ["2026-07-03-1.jpg", ""]
-          - ["2026-07-03-10.jpg", ""]
-          - ["2026-07-03-11.jpg", ""]
-          - ["2026-07-03-2.jpg", ""]
-          - ["2026-07-03-3.jpg", ""]
-          - ["2026-07-03-4.jpg", ""]
-          - ["2026-07-03-5.jpg", ""]
-          - ["2026-07-03-6.jpg", ""]
-          - ["2026-07-03-7.jpg", ""]
-          - ["2026-07-03-8.jpg", ""]
-          - ["2026-07-03-9.jpg", ""]
         desc: |
           Rusové žijící v okolí Moskvy v úterý vyfotili baterie S-300/400, které střílely na cíl vysoko nad hlavním městem. Ten ale letěl příliš vysoko na to, aby šlo o dron nebo řízenou střelu. Ruské ministerstvo obrany později uvedlo, že jeho protivzdušná obrana sestřelila ukrajinskou „operativně-taktickou raketu dlouhého doletu“, což by byl první takový případ v probíhající válce. Kyjev nic nepotvrdil. Není proto jasné, o jakou raketu se jednalo, ani jestli cokoliv zasáhla. Analytici OSINT ale spekulují, že mohlo jít o experimentální raketu FP-9, respektive její první ostrý test. Spoluzakladatel společnosti Fire Point nicméně trvá na tom, že to nebyla jejich raketa. Ať už to byla jakákoliv zbraň, skutečností zůstává, že ukrajinští vývojáři podobným způsobem nasazují nové zbraně do boje, aby shromáždili cenná data o letu rakety, nikoli aby nutně způsobili škody. Pro kontext, populární střela Flamingo (Plameňák) strávila rok tím, že míjela cíl, než konečně začala přesně zasahovat – a od té doby něco zasahuje prakticky týden co týden. Je tak možné, že podobné incidenty budou jen přibývat. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02EccshEGciMgCLABgaSQkUzoYpAJFLgGpbdCrN1DvMKGNxB6sABRrMKwehJnLGHPxl): 
         detail: |
@@ -3970,10 +3626,6 @@ timeline:
         sort: "2026-07-02"
         image: assets/img/timeline/2026-07-02.jpg
         podcast: "2026-07-02.mp3"
-        pictures:
-          - ["2026-07-02-1.jpg", ""]
-          - ["2026-07-02-2.jpg", ""]
-          - ["2026-07-02-3.jpg", ""]
         desc: |
           Rusko podniklo rozsáhlý nálet na Kyjev. Během noci bylo nad Ukrajinou sestřeleno nebo zneškodněno 48 z 74 raket a 476 z 496 bezpilotních letounů, konkrétně 0/4 protilodních raket 3M22 Zircon, 4 z 24 balistických raket Iskander-M/S-400, 32 ze 34 řízených střel Ch-101, 8 z 8 řízených střel Kalibr, 4 ze 4 leteckých řízených střel Kh-59/69 a 476 ze 496 útočných dronů. Zasaženy byly obytné budovy, logistické centrum pošty, vědecký institut, sklad ukrajinského knižního nakladatelství, ambulance, obchody a další objekty. Ve stejnou chvíli Rusové svrhli naváděné letecké pumy na Charkov, kde zemřel 15letý kluk a 29 lidí utrpělo zranění. Projektily dopadaly také na Záporoží. I tam si útok vyžádal oběti. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02cPxh7DmJR5iWicDjxt1PuduN4JQ9fSnW4HCoQjsegiyerJYbCu54iWo8NizPwYVSl): 
         detail: |
@@ -4008,12 +3660,6 @@ timeline:
         sort: "2026-07-01"
         image: assets/img/timeline/2026-07-01.jpg
         podcast: "2026-07-01.mp3"
-        pictures:
-          - ["2026-07-01-1.jpg", ""]
-          - ["2026-07-01-2.jpg", ""]
-          - ["2026-07-01-3.jpg", ""]
-          - ["2026-07-01-4.jpg", ""]
-          - ["2026-07-01-5.jpg", ""]
         desc: |
           Při střelbě v ukrajinském Mykolajivu zahynuli dva cizinci. Svědci uvedli, že z jedoucího vozu zaznělo několik výstřelů, načež vozidlo vjelo na křižovatku řízenou semaforem. Předběžné zprávy naznačují, že v autě se nacházeli tři cizinci. Dva muži byli na místě zabiti, zatímco třetí byl zadržen. Všichni zúčastnění byli latinskoameričtí zahraniční dobrovolníci sloužící v ukrajinských obranných silách. Podezřelým je chilský občan obviněný z vraždy dvou kolumbijských občanů. A taky se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02SpdL7RJDpKXcYDZhHioiDL152nxS4aATra6LkQ7y9MeGsgvWMeTQSkoEMXcozs2Nl): 
         detail: |
@@ -4046,10 +3692,6 @@ timeline:
         sort: "2026-06-30"
         image: assets/img/timeline/2026-06-30.jpg
         podcast: "2026-06-30.mp3"
-        pictures:
-          - ["2026-06-30-1.jpg", ""]
-          - ["2026-06-30-2.jpg", ""]
-          - ["2026-06-30-3.jpg", ""]
         desc: |
           Podle ukrajinského novináře Karpenka je téměř jisté, že Putin v září vyhlásí novou velkou vlnu mobilizace. Podle něj bude scénář následující: po skončení voleb, které Putinovo Jednotné Rusko samozřejmě vyhraje – nechá Putin pod smyšlenou záminkou odstavit internet. Potom spustí masivní mobilizaci s cílem posílit ruskou armádu o dalších 500 000 lidí. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0S3rKm5UawRSoBFAb2naFV1rMmSRc9CSzGun7ed9i39LtGCo48Kxw6juUYu1RjZFnl): 
         detail: |
@@ -4083,12 +3725,6 @@ timeline:
         sort: "2026-06-29"
         image: assets/img/timeline/2026-06-29.jpg
         podcast: "2026-06-29.mp3"
-        pictures:
-          - ["2026-06-29-1.jpg", ""]
-          - ["2026-06-29-2.jpg", ""]
-          - ["2026-06-29-3.jpg", ""]
-          - ["2026-06-29-4.jpg", ""]
-          - ["2026-06-29-5.jpg", ""]
         desc: |
           Pracovníci polské Agentury pro vnitřní bezpečnost společně s Pohraniční stráží zadrželi devět ukrajinských občanů a dva běloruské občany. Všichni mají být neprodleně vyhoštěni ze země. Podle polského ministra-koordinátora speciálních služeb Tomasze Siemoniaka zadržení od podzimu roku 2025 verbovali a platili účastníky demonstrací organizovaných mezi ukrajinskými uprchlíky v Polsku. Vyšetřování prokázalo, že organizace a financování těchto akcí probíhaly z Ruska. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0dW4pYU8mSYwiukjNuGpnGDoxTu1yW969H4VTUJBHkQ3YM8TB9yEeTzqeGWJpgr4Hl):
         detail: |
@@ -4119,12 +3755,6 @@ timeline:
         sort: "2026-06-28"
         image: assets/img/timeline/2026-06-28.jpg
         podcast: "2026-06-28.mp3"
-        pictures:
-          - ["2026-06-28-1.jpg", ""]
-          - ["2026-06-28-2.jpg", ""]
-          - ["2026-06-28-3.jpg", ""]
-          - ["2026-06-28-4.jpg", ""]
-          - ["2026-06-28-5.jpg", ""]
         desc: |
           Čínská státní televize odvysílala reportáž, ve které mluvila o tom, že Rusko už druhý den soustavně likviduje ukrajinskou energetickou infrastrukturu. Mělo to ale háček. Na záběrech, kterými reportáž doplnila, byla hořící ruská ropná rafinérie v Moskvě. Ruská, nebo čínská propaganda? A není to jedno? Stejné metody, stejně ironické výsledky. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0VuHzg2kAs7VdZN5VuunXpdCrisSX97oC8DTKm2EjFPaDRiCmSKESHy27qwzSLYTUl):
         detail: |
@@ -4153,10 +3783,6 @@ timeline:
         sort: "2026-06-27"
         image: assets/img/timeline/2026-06-27.jpg
         podcast: "2026-06-27.mp3"
-        pictures:
-          - ["2026-06-27-1.jpg", ""]
-          - ["2026-06-27-2.jpg", ""]
-          - ["2026-06-27-3.jpg", ""]
         desc: |
           Zdá se, že ruský „veterán“ Aleksandr Lunin ustoupil a žádná vzpoura se – alespoň prozatím – nekoná. Lunin se objevil na novém videu, kde „upřesnil“, že skutečnými nepřáteli lidu nejsou vedoucí představitelé v Kremlu, ale ostatní prováleční „Z-blogeři“, kteří podle něj neukazují realitu toho, co se na frontě skutečně děje. I když Lunin vzal svá slova zpět, určité zrnko přesto do ruské společnosti zasel. Mezitím se totiž objevila jiná videa, kde ozbrojenou vzpourou vyhrožují další vojenské jednotky. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0mtNuJUgynvZtfxtsmocKkYErT3o5WFqRsUWvqnkcXNx6ia2aR2jJA4McQvHpy9anl): 
         detail: |
@@ -4195,8 +3821,6 @@ timeline:
         sort: "2026-06-26"
         image: assets/img/timeline/2026-06-26.jpg
         podcast: "2026-06-26.mp3"
-        pictures:
-          - ["2026-06-26-1.jpg", ""]
         desc: |
           Na ruských sociálních sítích se objevilo zajímavé video. Ruský vojenský bloger Alexandr Lunin v něm oznámil, že se setkal s vrcholnými představiteli ruské armády a rozvědek a nechal je doručit Putinovi jasný vzkaz: Buď se Putin s Luninem osobně v řádu dní setká a před zraky kamer si vyslechne, jakým problémům ruská armáda čelí (jmenuje například systematické mučení a vydírání ze strany velitelů jednotek nebo záhadná „zmizení“ vojáků, kteří se postavili na odpor proti „sebevražedným rozkazům“), nebo prý armáda obrátí zbraně proti Kremlu. Čtyři hodiny po zveřejnění získalo video několik miliónů zhlédnutí a více než 120 000 pozitivních reakcí. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid029zHXnvVMKLm2EUFJgEZLQDWt3mkyLVEdF6QFAxzJPoquFg2dMtzDw7hyH9gvj11Rl): 
         detail: |
@@ -4227,11 +3851,6 @@ timeline:
         sort: "2026-06-25"
         image: assets/img/timeline/2026-06-25.jpg
         podcast: "2026-06-25.mp3"
-        pictures:
-          - ["2026-06-25-1.jpg", ""]
-          - ["2026-06-25-2.jpg", ""]
-          - ["2026-06-25-3.jpg", ""]
-          - ["2026-06-25-4.jpg", ""]
         desc: |
           Putin se rozvášnil na kamery a předvedl divákům lekci z ruské „alternativní“ historie: „Putin: Stalin navrhl všem evropským mocnostem, aby uzavřely spojenectví proti agresivnímu německému režimu, proti nacistickému režimu. Všechny se však z toho vyvlékly a jako první začaly uzavírat smlouvy s Hitlerem. Kdo podepsal smlouvu v roce 1938? Právě ony: Francie, Velká Británie. Britský premiér přiletěl do Londýna, vystoupil z letadla, začal mávat smlouvou a křičet: ‚Přinesl jsem vám mír!‘ Ačkoli rozumnější lidé ve Velké Británii říkali: ‚No, teď je válka nevyhnutelná.‘ A přesně to se stalo. Potom se zaměřili na Sovětský svaz. A okamžitě, hned ten samý den, začalo nacistické Německo obviňovat Sovětský svaz, že to byl téměř on, kdo zaútočil, jako by se Sovětský svaz připravoval na útok. Nesmysl.“ Pro pořádek, v roce 1939 uzavřeli nacisté se Sověty pakt Ribbentrop-Molotov, oficiálně smlouvu „o neútočení“, neoficiálně smlouvu o poválečném rozdělení Evropy mezi obě mocnosti. Putin do dneška tento pakt obhajuje. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0E8sn9PRv7B6cKm7SNSZSG2nZu4H2j1JGVqFDXiz41mDJHYYCQWhMXR9UWsXsZTdSl): 
         detail: |
@@ -4266,12 +3885,6 @@ timeline:
         sort: "2026-06-24"
         image: assets/img/timeline/2026-06-24.jpg
         podcast: "2026-06-24.mp3"
-        pictures:
-          - ["2026-06-24-1.jpg", ""]
-          - ["2026-06-24-2.jpg", ""]
-          - ["2026-06-24-3.jpg", ""]
-          - ["2026-06-24-4.jpg", ""]
-          - ["2026-06-24-5.jpg", ""]
         desc: |
           Podle dokumentů, které prozkoumala agentura Bloomberg, probíhá ruská dezinformační operace, která se zaměřuje na vyhledávače a chatboty s umělou inteligencí, a to pomocí falešných webů ve stylu Wikipedie, mediálních sítí a koordinovaného online obsahu, jehož cílem je ovlivnit způsob, jakým automatizované systémy získávají a generují informace. Odborníci citovaní agenturou Bloomberg varují, že zaměření se na trénovací data pro umělou inteligenci a vyhledávací procesy zvyšuje riziko, že manipulované narativy budou reprodukovány automatizovanými systémy používanými k generování a shrnování informací. Dokumenty zmiňují tzv. „Projekt 2026“, který je připisován agentuře Social Design Agency (SDA), subjektu se sídlem v Moskvě, na který uvalily sankce USA, Velká Británie a EU kvůli dezinformačním aktivitám spojeným s Kremlem. Cílem projektu je vybudovat alternativní online znalostní ekosystémy, které mohou být indexovány vyhledávači a začleněny do trénovacích dat umělé inteligence. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid03HVqcBFe59fQT7tScDgvcgHpamxjfXkEQxKakPK6APBks51cZEpGTsRfc4DhqFhpl): 
         detail: |
@@ -4303,11 +3916,6 @@ timeline:
         sort: "2026-06-23"
         image: assets/img/timeline/2026-06-23.jpg
         podcast: "2026-06-23.mp3"
-        pictures:
-          - ["2026-06-23-1.jpg", ""]
-          - ["2026-06-23-2.jpg", ""]
-          - ["2026-06-23-3.jpg", ""]
-          - ["2026-06-23-4.jpg", ""]
         desc: |
           Ruská propaganda se snaží šířit narativ, že za včerejším ukrajinským náletem na Voroněž je ve skutečnosti NATO, protože Ukrajina prý nemá zpravodajské informace a prostředky k provedení takového úderu. Podobné báchorky jsou oblíbenou součástí ruské propagandy (ale i propagandy jiných fašistických subjektů), kdy nepřítel musí být vykreslován jako slabý a neschopný, proto se u podobných incidentů vždy hledá „alternativní“ vysvětlení, ale zároveň – poněkud paradoxně – jako všehoschopný, aby se dařilo mobilizovat populaci k odporu. Rozpor v obou postojích každopádně konzumentům takové propagandy nepřijde nijak divný. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02m3Syj3qBQyB1S1QkkRqPfjfrSHrRNxj8QCDyQGn1YuBnXpX5xKBUZufmkPTLY6XFl): 
         detail: |
@@ -4336,8 +3944,6 @@ timeline:
         sort: "2026-06-22"
         image: assets/img/timeline/2026-06-22.jpg
         podcast: "2026-06-22.mp3"
-        pictures:
-          - ["2026-06-22-1.jpg", ""]
         desc: |
           Ukrajina zasáhla ruský závod, který vyrábí čipy pro některé z nejčastěji používaných moskevských raket. Cílem náletu byl závod VZPP-S ve Voroněži, přední ruský výrobce mikročipů a výkonových modulů, který figuruje na sankčních seznamech mnoha západních zemí. Jeho součástky se používají nejméně ve třech ruských zbraních: v řízené střele Kh-101, v raketě Iskander-K a v protiletadlovém systému Pantsir-S1. Nálet způsobil masivní požár a videa a fotky z místa ukázaly rozsáhlou devastaci celé budovy. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid035R7whSttc6ydTZ73R9QubqMyk6BgbCpAh78eGE6rX5dJz11hMzz74HjXG7CwHwkVl): 
         detail: |
@@ -4374,8 +3980,6 @@ timeline:
         sort: "2026-06-21"
         image: assets/img/timeline/2026-06-21.jpg
         podcast: "2026-06-21.mp3"
-        pictures:
-          - ["2026-06-21-1.jpg", ""]
         desc: |
           Zelenský poslal Nawrockému Řád Bílého orla zpátky prostřednictvím služby „Nova Pošta“ a později napsal: „Pokud se má za to, že tento výjimečný symbol může zůstat Kateřině II., Benitu Mussolinimu a Gerhardu Schröderovi, pak my na Ukrajině o tom nebudeme diskutovat. Ukrajina je vděčná polskému národu za jeho podporu a spolupráci, která hraje významnou roli v boji za naši i vaši nezávislost na Rusku. Ukrajina nikdy nezapomíná na solidaritu a ví, že spolupráce mezi státy a národy v našem regionu je jednou z hmatatelných záruk bezpečnosti jak pro Ukrajince, tak pro každý sousední stát. Ukrajina se bude i nadále bránit v této válce, kterou rozpoutalo Rusko, a my rozhodně dosáhneme důstojného míru.“ Bývalí prezidenti Leonid Kučma, Viktor Juščenko i Petro Porošenko se v reakci na krok polského prezidenta rozhodli vzdát svých titulů, aby vyjádřili Zelenskému solidaritu. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Jpokict8i6kfGdJLwrMCP7SuNBdRhVoBgni6bnvAMxj8XZ1kLSXYHea5sQ2bD13cl): 
         detail: |
@@ -4402,11 +4006,6 @@ timeline:
         sort: "2026-06-20"
         image: assets/img/timeline/2026-06-20.jpg
         podcast: "2026-06-20.mp3"
-        pictures:
-          - ["2026-06-20-1.jpg", ""]
-          - ["2026-06-20-2.jpg", ""]
-          - ["2026-06-20-3.jpg", ""]
-          - ["2026-06-20-4.jpg", ""]
         desc: |
           Zelenský prohlásil něco, co se nedá chápat jinak než jako ultimátum. Nechal se slyšet, že v Bělorusku poblíž ukrajinských hranic Rusové rozmístili systémy, které pomáhají navádět ruské drony a rakety během náletů na sever a západ Ukrajiny, a vyzval Lukašenka, aby se do sedmi dní postaral o jejich odstranění, jinak to prý Ukrajina udělá sama. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid035ZJxYBDnZ9CijDzccMtcPR3rsycy6KDJxFiGTHaG5yyWFUyPZpR4ZAEY5VtmifYzl): 
         detail: |
@@ -4443,18 +4042,6 @@ timeline:
         sort: "2026-06-19"
         image: assets/img/timeline/2026-06-19.jpg
         podcast: "2026-06-19.mp3"
-        pictures:
-          - ["2026-06-19-1.jpg", ""]
-          - ["2026-06-19-10.jpg", ""]
-          - ["2026-06-19-11.jpg", ""]
-          - ["2026-06-19-2.jpg", ""]
-          - ["2026-06-19-3.jpg", ""]
-          - ["2026-06-19-4.jpg", ""]
-          - ["2026-06-19-5.jpg", ""]
-          - ["2026-06-19-6.jpg", ""]
-          - ["2026-06-19-7.jpg", ""]
-          - ["2026-06-19-8.jpg", ""]
-          - ["2026-06-19-9.jpg", ""]
         desc: |
           Jedna z největších báchorek ruské propagandy je ta, že Rusko neválčí „naplno“, protože nechce, ale kdyby chtělo, tak už je po válce. Teď ji zopakoval pro domácí publikum také poslanec Státní dumy Žuravlev, když vyzval Rusko, aby „začalo bojovat doopravdy“. Ruští vojenští blogeři na Žuravlevovu výzvu okamžitě zareagovali. Kanál TG „Под лед“ napsal: „Poslanec Žuravlev nás právě vyzval, abychom ‚začali bojovat doopravdy‘. Znamená to snad, že posledních 4,5 roku jsme nebojovali doopravdy? Pokud ne, co jsme tedy vlastně dělali – a proč?“ Kanál TG „Тройка“: „Asi bychom měli našim vojákům na frontě a rodinám padlých sdělit, že posledních 4,5 roku jsme to vůbec nebrali vážně. Dělali jsme to jen tak pro zábavu.“ Kanál TG „Вожак“: „Lidé říkají: pojďme konečně začít bojovat doopravdy! Přátelé, je mi líto, že vás musím zklamat. Doopravdy už bojujeme asi čtyři roky. Neexistují žádné tajné triky ani náhlá řešení. Vše, co lze použít, kromě jaderných zbraní, již bylo použito.“ Tak tolik ke stupidním výkřikům zdejší páté kolony ve stylu „počkejte, až se Rusko přestane držet zpátky“. A taky se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0EDMHMpFsTC9mDzaNjLyf5nb2JJ4F8UagqV5dptHG9MetKEZqrgyqSueFHLb4RiXZl): 
         detail: |
@@ -4489,11 +4076,6 @@ timeline:
         sort: "2026-06-18"
         image: assets/img/timeline/2026-06-18.jpg
         podcast: "2026-06-18.mp3"
-        pictures:
-          - ["2026-06-18-1.jpg", ""]
-          - ["2026-06-18-2.jpg", ""]
-          - ["2026-06-18-3.jpg", ""]
-          - ["2026-06-18-4.jpg", ""]
         desc: |
           Zelenskyj: „Dnes v noci naše dálkové údery opět zasáhly Moskevskou oblast: podruhé za týden byla zasažena moskevská ropná rafinerie. Zasaženy byly také cíle v Rostovské oblasti a na dočasně okupovaných územích Ukrajiny. Jedná se o zcela oprávněnou reakci na ruské útoky na naše města a obce a o další významný výsledek práce našich vojáků namířený proti zařízením, která podporují ruskou vojenskou mašinerii. V posledních dnech všichni naši partneři poukazují na přesnost a účinnost našich střednědobých útoků a sankcí s dalekým dosahem. Je čas tuto válku ukončit a Rusko musí podniknout nezbytné diplomatické kroky.“ S Moskvou si nedělal legraci. Ráno byla opět zasažena moskevská rafinerie, a to daleko větším úderem, než byl ten včerejší. V celém areálu teď zuří masivní požáry. Ostatně, z fotek a videí si uděláte nejlepší obrázek. A taky se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02vXRnvGqbeKFgp5zB3JKqWhuY3B5WCBs6fALHPxgr9CT3RA8mktk8Af5vV8i6HwKNl): 
         detail: |
@@ -4531,8 +4113,6 @@ timeline:
         sort: "2026-06-17"
         image: assets/img/timeline/2026-06-17.jpg
         podcast: "2026-06-17.mp3"
-        pictures:
-          - ["2026-06-17-1.jpg", ""]
         desc: |
           V Brjanské oblasti byl dronem zasažen autobus údajně vezoucí mladé fotbalisty z Běloruska do Ruska. Vedoucí zájezdu byl podle ruských zdrojů zabit a několik dětí mělo utrpět zranění. Rusko z útoku obvinilo Ukrajinu, ta ale tvrdí, že v době úderu v oblasti žádné ukrajinské drony neoperovaly a že jde o další pokus Ruska, jak zatáhnout Bělorusko do války. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02rHNpbC9AMGK6pqru6Hj4sG1XxsoA18NxvKmHsinskBL4oJxGfXcZXdaibXQdhx2Ml): 
         detail: |
@@ -4559,12 +4139,6 @@ timeline:
         sort: "2026-06-16"
         image: assets/img/timeline/2026-06-16.jpg
         podcast: "2026-06-16.mp3"
-        pictures:
-          - ["2026-06-16-1.jpg", ""]
-          - ["2026-06-16-2.jpg", ""]
-          - ["2026-06-16-3.jpg", ""]
-          - ["2026-06-16-4.jpg", ""]
-          - ["2026-06-16-5.jpg", ""]
         desc: |
           Ruská propaganda aktuálně šíří desítky falešných fotek a videí, které mají ilustrovat „beznadějnou situaci Ukrajinců v Kosťantynivce“. Naposledy ruské kanály zveřejnily fotky, na kterých se prý vzdávají desítky ukrajinských vojáků. Údajné fotky jsou ve skutečnosti vyjmuté z videí z ruské Kurské oblasti a zachycují početnou skupinu Rusů, která se v srpnu 2024 vzdala Ukrajincům během výpadu do Ruska. Rusko také využívá videa a fotky generované umělou inteligencí, které mají zachycovat vyvěšování ruských vlajek v místech, kam se zatím Rusové ani nepřiblížili. Situace v Kosťantynivce nicméně skutečně složitá je. Ale zdaleka ne tak, jako v ruských fantaziích, kterými Rusko krmí svou pátou kolonu na Západě. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0tPh9NAhoiTPxgZvL1yJVrk7fKxnRuvfh29UBBcVxTV3yp5Red4YXciew6xrLNA7gl): 
         detail: |
@@ -4596,10 +4170,6 @@ timeline:
         sort: "2026-06-15"
         image: assets/img/timeline/2026-06-15.jpg
         podcast: "2026-06-15.mp3"
-        pictures:
-          - ["2026-06-15-1.jpg", ""]
-          - ["2026-06-15-2.jpg", ""]
-          - ["2026-06-15-3.jpg", ""]
         desc: |
           Rusové podnikli nálety, po kterých zůstalo zničeno tolik kulturních a historických objektů napříč Ukrajinou, že jde těžko mluvit o náhodě. Rusko je zkrátka odporný, teror šířící vřed na tváři planety. Posuďte sami: ruský nálet na Kyjev způsobil požár Národního filmového studia Alexandra Dovženka. Oheň nevratně poškodil kostýmní dílnu a zničil největší a nejstarší sbírku kostýmů na Ukrajině – asi 100 000 kostýmů a tři miliony oděvů, které tu celé generace shromažďovali zaměstnanci studia už od 50. let minulého století. Mezi cíle útoku patří také historická katedrála Nanebevzetí Panny Marie v Kyjevsko-pečerské lávře, která utrpěla přímý zásah, po němž byla poškozena střecha chrámu. Rusko zničilo také největší terminál přední ukrajinské společnosti Nova Pošta. V Charkově pak byli při dvojitém úderu zabiti čtyři hasiči, když ruské projektily dopadly na místo, kam přijeli likvidovat následky prvního úderu. Rusko vyslalo celkem 611 dronů a 70 raket. Protivzdušná obrana sestřelila 582 dronů a 50 raket. Zelenskyj už oznámil, že Ukrajina na tento útok rázně odpoví. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02SXN1VTciWDmZsniNFzaKr2aoo6x3cbbuUeqn1cgBJ6D8Azgogt6wX7WDq9V1oLGxl): 
         detail: |
@@ -4634,9 +4204,6 @@ timeline:
         sort: "2026-06-14"
         image: assets/img/timeline/2026-06-14.jpg
         podcast: "2026-06-14.mp3"
-        pictures:
-          - ["2026-06-14-1.jpg", ""]
-          - ["2026-06-14-2.jpg", ""]
         desc: |
           Ruský milbloger Romanov tvrdí, že zrádci uvnitř ruských velitelských struktur předávají Ukrajině souřadnice pozorovacích a velitelských stanovišť. Podle něj byl jeden takový případ odhalen v operačním oddělení 8. armády, což vedlo některé velitele praporů k tomu, že preventivně hlásili velení falešné koordináty. Romanov také tvrdí, že falešné mapy frontové linie vedly k tomu, že ruské velení podniklo útok na „vymyšlený“ úsek, při kterém bylo během dvou hodin ztraceno 40 vojáků. A to jsou jen věci, které Rusové přiznávají nahlas. Taky se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02rLykUwVKdK7aEryAr9ZjGr1vQtLsgXWGM8YvsM2B9GWNpEA9L8U2oUZ456gdzhFal): 
         detail: |
@@ -4673,8 +4240,6 @@ timeline:
         sort: "2026-06-13"
         image: assets/img/timeline/2026-06-13.jpg
         podcast: "2026-06-13.mp3"
-        pictures:
-          - ["2026-06-13-1.jpg", ""]
         desc: |
           Polsko a Ukrajina se dostaly do křížku poté, co se jedna z ukrajinských jednotek rozhodla pojmenovat po „hrdinech Ukrajinské povstalecké armády“. Polská reprezentace v čele s prezidentem Nawrockim vyzvala Zelenského, aby jméno přehodnotil. Ten ale opáčil, že jméno si jednotka zvolila sama a že konečné rozhodnutí je na ní. Polsko kvůli situaci pohrozilo, že Zelenskému odebere státní vyznamenání a celý incident má i značný dopad na to, jak Ukrajince vnímá polská veřejnost. UPA je přeci jenom v obou zemích vnímána diametrálně odlišně. Zatímco na Ukrajině se připomíná spíše jako symbol boje za nezávislost a samostatný ukrajinský stát, v Polsku se v souvislosti s ní mluví hlavně o etnických nepokojích na Západní Ukrajině a masakrech civilní populace. Téma je to každopádně velmi citlivé a komplexní. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0L3gRF2wxfYAKMdKk1mC3XhZTHWu1HLtGmsY59TCuTVV87ff8ebscUt3ZK3A5uHiol): 
         detail: |
@@ -4711,15 +4276,6 @@ timeline:
         sort: "2026-06-12"
         image: assets/img/timeline/2026-06-12.jpg
         podcast: "2026-06-12.mp3"
-        pictures:
-          - ["2026-06-12-1.jpg", ""]
-          - ["2026-06-12-2.jpg", ""]
-          - ["2026-06-12-3.jpg", ""]
-          - ["2026-06-12-4.jpg", ""]
-          - ["2026-06-12-5.jpg", ""]
-          - ["2026-06-12-6.jpg", ""]
-          - ["2026-06-12-7.jpg", ""]
-          - ["2026-06-12-8.jpg", ""]
         desc: |
           Ukrajinský generální štáb potvrdil zásahy a požáry ve dvou ropných rafinériích v ruském Tatarstánu – více než 1 100 km od hranic s Ukrajinou. Cílem byly rafinérie TANECO s kapacitou přes 16 milionů tun ročně a TAIF-NK v Nižnekamsku. Téže noci ukrajinské síly zasáhly závod Toljattikaučuk v nedaleké Samarské oblasti, který vyrábí syntetický kaučuk používaný v pevném raketovém palivu pro ruské balistické střely. Prostě kvalitní práce. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Q9kttNzSqCm2gooHkUn64bwbqczptUVRZmryjZvBohM5Gcdb3kahi12Ggsnr9oC9l): 
         detail: |
@@ -4760,8 +4316,6 @@ timeline:
         sort: "2026-06-11"
         image: assets/img/timeline/2026-06-11.jpg
         podcast: "2026-06-11.mp3"
-        pictures:
-          - ["2026-06-11-1.jpg", ""]
         desc: |
           Poslanec ruské Státní dumy a generál ruské armády Gurulev na videu přiznal, že ruské jednotky v roce 2014 na jeho osobní rozkaz zabíjely civilisty na Donbasu. Gurulev prohlásil, že při jednom z ostřelování ruskými jednotkami pod jeho velením zahynula žena a dítě. Podle něj „nebylo jiné východisko“, protože musel ochránit své vlastní muže. Zároveň ve stejném videu vyzval k dalším útokům na ukrajinská města: „Tohle je válka. A na nepřítele se musí útočit všude. V Kyjevě. Aby tam nebyla voda, elektřina, kanalizace – nic.“ Ale samozřejmě, že Rusko chce mír, zatímco Západ je plný válečných štváčů, že dezoláti? Každopádně se děje ještě [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02BtubJkt8oSvDtAjJKT1mJE9ryMSBw9HzSa83enX7LFX5dVQFJAbmEwLzDpvvJ1zil): 
         detail: |
@@ -4837,12 +4391,6 @@ timeline:
         sort: "2026-06-09"
         image: assets/img/timeline/2026-06-09.jpg
         podcast: "2026-06-09.mp3"
-        pictures:
-          - ["2026-06-09-1.jpg", ""]
-          - ["2026-06-09-2.jpg", ""]
-          - ["2026-06-09-3.jpg", ""]
-          - ["2026-06-09-4.jpg", ""]
-          - ["2026-06-09-5.jpg", ""]
         desc: |
           Ukrajinci podnikli úspěšný bombový atentát na dalšího ruského důstojníka přímo v ulicích Moskvy. Při explozi auta na místě zahynul. Podle ruských kanálů šlo o generálporučíka, ale jeho přesná totožnost je zatím předmětem spekulací. Později se objevily informace, že došlo ještě ke druhému výbuchu. Detaily budou nejspíš známy později. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid029PL3ituFmQ9xsMAo6Bs6NNEMCypEMjxzY6Ja19YVZP6youyGbZ6CkeLYDFRgXb6gl): 
         detail: |
@@ -4920,9 +4468,6 @@ timeline:
         sort: "2026-06-07"
         image: assets/img/timeline/2026-06-07.jpg
         podcast: "2026-06-07.mp3"
-        pictures:
-          - ["2026-06-07-1.jpg", ""]
-          - ["2026-06-07-2.jpg", ""]
         desc: |
           Rusko opět oživuje svou stokrát omílanou propagandu o údajných tajných základnách NATO a zabitých západních generálech a instruktorech. Aktuální verze tvrdí, že při nedávném masivním náletu na Kyjev byly střelami Zirkon „zničeny instalace ukrajinské SBU“ a že v jedné z nich se „nacházeli poradci americké armády, kteří byli při úderu zabiti“. Tak určitě! A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0mrjFFKjk3JEnuV5WNMowFVRefMceBFDwi1hJj3MoJx2D9a9YZ5sSMRuz52J9eQJql): 
         detail: |
@@ -4960,9 +4505,6 @@ timeline:
         sort: "2026-06-06"
         image: assets/img/timeline/2026-06-06.jpg
         podcast: "2026-06-06.mp3"
-        pictures:
-          - ["2026-06-06-1.jpg", ""]
-          - ["2026-06-06-2.jpg", ""]
         desc: |
           Poté, co Putin v televizi prohlásil, že „ruská armáda stále postupuje prakticky po celé délce fronty“, ozvalo se několik ruských vojenských komentátorů včetně někdejšího „lidového gubernátora Doněcké oblasti“, kolaboranta Pavla Gubareva. Ten se nechal slyšet, že Putin je naprosto odtržený od reality na frontě. Podle Gubareva ruská armáda nejenže nikam nepostupuje, ale navíc prý na většině klíčových míst naopak poslední týdny ustupuje. To samé říkají analytici z ISW: „Putinova tvrzení ohledně vývoje na bojišti jsou v rozporu s dostupnými důkazy a naznačují, že ruské vojenské velení mu neposkytuje přesné zpravodajské informace o skutečném vývoji ruských operací na bojišti. Ruský postup se v roce 2026 do značné míry zastavil, zatímco ukrajinské síly dosáhly několika taktických úspěchů.“ A já říkám: neberte mu to. Nechte ho v té deziluzi dál žít. Protože jedno z pravidel válčení zní: Nerušte nepřítele, když dělá chybu. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0367jmQ8s3AgvRAg5ZgCZbP9tdWVm3QQqNFFaEXGgJbEQSvp95dtsc3kNKr5zWtAqVl): 
         detail: |
@@ -5006,11 +4548,6 @@ timeline:
         sort: "2026-06-05"
         image: assets/img/timeline/2026-06-05.jpg
         podcast: "2026-06-05.mp3"
-        pictures:
-          - ["2026-06-05-1.jpg", ""]
-          - ["2026-06-05-2.jpg", ""]
-          - ["2026-06-05-3.jpg", ""]
-          - ["2026-06-05-4.jpg", ""]
         desc: |
           Zelenskyj napsal otevřený dopis Putinovi (zde v mírně zkrácené verzi): „Když jste se před více než 26 lety dostal k moci v Rusku, mnoho lidí na Ukrajině k vám mělo kladný vztah. To je nyní minulostí. Dnes absolutní většina Ukrajinců vnímá pozitivně skutečnost, že naše bezpilotní letouny s dlouhým doletem „navštívily“ zahájení vašeho fóra v Petrohradu. Jak dobře víte, tato vzdálenost není limitem našich schopností. Nyní však všichni vidíme, že to pro Rusy konečně začíná být neúnosné – že válka přináší Rusku stále více negativních důsledků. Nelíbí se jim naše drony a rakety. Nelíbí se jim nedostatek paliva a neustálé zvyšování cen. Nelíbí se jim pokračující zákazy. Nelíbí se jim váš záměr zahájit druhou vlnu mobilizace, abyste válku rozšířili do dalšího směru na Ukrajině nebo ji nasměrovali proti dalším sousedním zemím. Nelíbí se jim, že vaše válka nemá konce. Ano, stále můžete Rusy nutit, aby tak žili. Ale vaše zdroje se výrazně tenčí. Toho si nemůžete nevšimnout. Čím déle to bude trvat, tím více bude narůstat únava – i u vás. Není to tak, že bychom se my na Ukrajině obávali o Rusy – po všem, co vaše válka Ukrajině přinesla. Ale záleží mi na Ukrajincích. Ztrácíme naše lidi a každá ztráta je bolestivá. A i když jsou ukrajinské ztráty v poměru jedna ku pěti nebo jedna ku šesti ve srovnání s ruskými ztrátami, stále to má velký význam. Ukrajina si zachovává svou nezávislost. A zachová si ji – navzdory jakýmkoli předpovědím. Přinesli jsme válku na vaše území a bez pomoci Severní Koreje byste nezvládli s tím cokoliv dělat. Jste prvním ruským vůdcem, který se musel obrátit na Pchjongjang s žádostí o pomoc. A dnes jste zcela závislý na Číně – což je také poprvé v ruské historii. Volba je nyní na vás. Zastavte válku. Ukrajina nabízí ukončení této války. Navrhuji setkání. Frontová linie je nyní linií, od které by měla začít diplomacie. Ukrajina je připravena na výměnu vězňů „všichni za všechny“, a to by se mohlo stát dobrým prologem k ukončení války. Pokud osobně nedojdete k závěru, že tato válka musí skončit, Ukrajina bude i nadále bojovat o svou existenci. Budeme mít ty, kteří nás podporují. Ale vy budete muset bojovat mnohem více o svou vlastní existenci – ne o existenci Ruska, ale o svou osobní. A to není výhrůžka ode mě ani od Ukrajiny. To jsou fakta z ruské historie: když se Rusko unaví, dochází ke změnám. Můžeme na té únavě pracovat. Můžete zastavit svou válku. Věčná památka všem, kteří přišli o život v této válce. Sláva Ukrajině.“ A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid025kLGyAZAxYSJ3KnHcKPuDiEq9xnGofAgq8RfkSjhX2iKnBDUVFatBcDrsi177r28l):
         detail: |
@@ -5181,8 +4718,6 @@ timeline:
         sort: "2026-06-01"
         image: assets/img/timeline/2026-06-01.jpg
         podcast: "2026-06-01.mp3"
-        pictures:
-          - ["2026-06-01-1.jpg", ""]
         desc: |
           Dnes si připomínáme první výročí speciální operace SBU s názvem „Pavučina“, při níž bylo poškozeno 41 ruských letadel, včetně strategických bombardérů Tu-95, Tu-22M3, Tu-160 a letounů A-50. Celková výše způsobených škod tehdy přesáhla podle odhadů 7 miliard dolarů. Celková výše škod ruskému sebevědomí a obrazu „neporazitelného Ruska“ se počítá dodnes. Ale zpět k [novinkám](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Tbc7KyCbzbVNoGsJbqRrySayJaafqMf9z299gffBFfVPuWaWBxfgRJMeVuABGBcel): 
         detail: |
@@ -5257,9 +4792,6 @@ timeline:
         sort: "2026-05-30"
         image: assets/img/timeline/2026-05-30.jpg
         podcast: "2026-05-30.mp3"
-        pictures:
-          - ["2026-05-30-1.jpg", ""]
-          - ["2026-05-30-2.jpg", ""]
         desc: |
           Ukrajinci v noci podnikli úspěšný nálet na několik cílů v Taganrogu v Rostovské oblasti. Zasažen byl tamější přístav a také vojenské letiště. V důsledku toho byly zničeny dva ruské strategické bombardéry Tu-142 „Bear“, odpalovač raket Iskander, tanker s ropou, skladiště paliv a část přístavní infrastruktury. Prostě dobrý start dne. A taky se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02cN5vTRnhh8mNq4hGdAYmPRUG2CssCR9UvsoghFiLtERdBS8jESd6EzYi53Ga3Mmvl): 
         detail: |
@@ -5423,12 +4955,6 @@ timeline:
         sort: "2026-05-26"
         image: assets/img/timeline/2026-05-26.jpg
         podcast: "2026-05-26.mp3"
-        pictures:
-          - ["2026-05-26-1.jpg", ""]
-          - ["2026-05-26-2.jpg", ""]
-          - ["2026-05-26-3.jpg", ""]
-          - ["2026-05-26-4.jpg", ""]
-          - ["2026-05-26-5.jpg", ""]
         desc: |
           Nová mapa, kterou zveřejnil ruský vojenský bloger Rybář, a jejíž informace potvrzují i další ruské vojenské kanály, ukazuje hned dvě důležité věci. Jednak dokládá to, že ukrajinské drony nyní působí citelné ztráty ruské logistice hluboko v ruském týle. Zároveň ale naznačuje, že ukrajinský protiútok jižně od Záporoží je mnohem větší a úspěšnější, než se dosud předpokládalo. Ukrajinci drží veškeré informace pod pokličkou, Rybář ale tvrdí, že Ukrajinci prolomili ruskou obranu v sektoru u městečka Stepnove a podnikají výpady dál na jih. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid08pzk3ttKHhjLmX1XX3mevxP9wPbentYXMbWyU7o7NP4kG7pekM7WqkvfSKyk2mnTl): 
         detail: |
@@ -5462,9 +4988,6 @@ timeline:
         sort: "2026-05-25"
         image: assets/img/timeline/2026-05-25.jpg
         podcast: "2026-05-25.mp3"
-        pictures:
-          - ["2026-05-25-1.jpg", ""]
-          - ["2026-05-25-2.jpg", ""]
         desc: |
           Rusko se zoufale snaží využít nedávnou událost, při které Ukrajinci zasáhli základnu elitní ruské jednotky dronařů Rubikon v okupovaném Starobilsku. Rubikon si zřídil dočasnou základnu v budově vysokoškolských kolejí, kterou zároveň využíval jako náborové středisko pro nové piloty z řad studentů. Důkazy o tom, že to tak skutečně bylo, v minulosti zveřejnili sami Rusové na svých sociálních sítích. Nyní se ale snaží všechny důkazy smazat, protože potřebují prodat světu jiný příběh: O tom, jak „nacistická Ukrajina zabila nevinné děti“. A neštítí se k tomu zneužívat ani podobizny lidí, které sami Rusové v minulosti zabili. Mezi portréty údajných obětí náletu je také nejméně šest mladých Ukrajinců a Ukrajinek, jejichž fotky Rusové náhodně posbírali na internetu a nemají se Starobilskem jakékoliv propojení, natož aby byli na místě v době náletu. Rusové včera navozili na místo „nezávislé zahraniční novináře“, mezi kterými jsou obvyklé tváře, které Rusové využívají pro různé role ve své propagandě. Prostě Rusko. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02ughyhbPzZsSfC1UxyFZLcsxdTeeiZTNbBk6QtGRXFAyAVkGY4CNhLxkypaoeRZUVl): 
         detail: |
@@ -5534,11 +5057,6 @@ timeline:
         sort: "2026-05-23"
         image: assets/img/timeline/2026-05-23.jpg
         podcast: "2026-05-23.mp3"
-        pictures:
-          - ["2026-05-23-1.jpg", ""]
-          - ["2026-05-23-2.jpg", ""]
-          - ["2026-05-23-3.jpg", ""]
-          - ["2026-05-23-4.jpg", ""]
         desc: |
           Ukrajinský prezident oznámil, že se objevují známky příprav na kombinovaný útok na Ukrajinu, včetně Kyjeva, s využitím různých druhů zbraní, a to včetně systému Orešnik. Americké velvyslanectví v Kyjevě vzápětí varovalo před potenciálně rozsáhlým útokem, k němuž by mohlo dojít v příštích 24 hodinách. V době psaní reportu už se v Kyjevě ozývaly první výbuchy. O rozsahu útoku ale budeme vědět až ráno. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02kX55uJRokA1cff3oUBRdEdoFsf4pDTYxY4zVwEf2y4jcWc6mXFc9LaFLTFbESuQ1l): 
         detail: |
@@ -5893,9 +5411,6 @@ timeline:
         sort: "2026-05-14"
         image: assets/img/timeline/2026-05-14.jpg
         podcast: "2026-05-14.mp3"
-        pictures:
-          - ["2026-05-14-1.jpg", ""]
-          - ["2026-05-14-2.jpg", ""]
         desc: |
           Americký Institut pro studium války (ISW) vydal zajímavé zhodnocení aktuální reality ruské invaze na Ukrajinu: „ISW už není ochotno vydávat předpovědi toho, kdy by ruské síly mohly obsadit Doněckou oblast včetně tamějšího pásu pevnostních měst. Vzhledem ke zpomalení ruského postupu a náročnosti terénu v té části Doněcku, která je pod ukrajinskou kontrolou, není jasné, zda je Rusko vůbec schopno toto území obsadit. Přehnané územní ambice Ruska a agresivní územní požadavky jsou v naprostém rozporu s realitou na bojišti. Anonymní zdroje v kontaktu s Putinem a další zdroje obeznámené s touto záležitostí, stejně jako hodnocení ukrajinské rozvědky sdílené s FT, naznačují, že vysocí ruští velitelé přesvědčili Putina, že ruské síly by mohly do podzimu 2026 obsadit zbytky Doněcké a Luhanské oblasti. ISW odhaduje, že ruské síly od začátku roku 2026 postoupily v Doněcké oblasti pouze o 349,89 km², což představuje postup o 2,63 km² denně. Silné ukrajinské opevnění, náročná geografie oblasti a ukrajinské protiútoky a údery drony středního dosahu, které brání ruským ofenzivním operacím na celé frontě, zhoršují vyhlídky na ruské dobytí zbytku Doněcku.“ A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0wWRACUHV4uMau5crCw6e3PPDgbysK3MM7ESDmtrRQKAmjuoyjJkUKGqyxQjEofj2l): 
         detail: |
@@ -5927,11 +5442,6 @@ timeline:
         sort: "2026-05-13"
         image: assets/img/timeline/2026-05-13.jpg
         podcast: "2026-05-13.mp3"
-        pictures:
-          - ["2026-05-13-1.jpg", ""]
-          - ["2026-05-13-2.jpg", ""]
-          - ["2026-05-13-3.jpg", ""]
-          - ["2026-05-13-4.jpg", ""]
         desc: |
           Deník ASTRA píše, že Rusům v Moskvě bylo zakázáno zveřejňovat videa a fotografie z útoků ukrajinských bezpilotních letounů, a to v rámci „boje proti falešným zprávám“. Na téhle informaci se dá opět krásně ilustrovat, jak ruská propaganda a její kolaboranti vyprazdňují významy slov a využívají orwellovský „newspeak“, aby usnadnili dosažení fašistických cílů. „Fake news“ jsou tedy jakékoliv zprávy, které se Rusku nehodí do krámu, a to bez ohledu na jejich pravdivost. A spoustu dalších slovíček už znáte: Třeba takový „fašista“ v ruské propagandě není člověk zastávající fašistickou ideologii, ale jednoduše každý, kdo se Rusku staví na odpor. Válka je „speciální operace“. Totální devastace je „osvobozování“. Mučení a vraždění potenciálních oponentů na okupovaném území je „filtrace“. V nepřátelských zemích zásadně nevládnou vlády, ale „režimy“. A tak dále, a tak dále. Prostě orwellovská fašistická diktatura se vším všudy. Ale také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid04vADZxRhnyc9Y6mrfdyorGDT83gwsQShuB1RPjEZ9SWfmJs68ayfkyGLcW5ZJFM4l): 
         detail: |
@@ -6148,11 +5658,6 @@ timeline:
         sort: "2026-05-07"
         image: assets/img/timeline/2026-05-07.jpg
         podcast: "2026-05-07.mp3"
-        pictures:
-          - ["2026-05-07-1.jpg", ""]
-          - ["2026-05-07-2.jpg", ""]
-          - ["2026-05-07-3.jpg", ""]
-          - ["2026-05-07-4.jpg", ""]
         desc: |
           Kreml zveřejnil seznam zahraničních hostů na oslavách 9. května v Moskvě. Seznam je, mírně řečeno, velmi skromný. Mezi devíti hosty jsou dva představitelé neuznaných kvazistátů Abcházie a Jižní Osetie, tři zástupci Republiky srbské – separatistické entity v rámci Bosny a Hercegoviny – a také diktátor Lukašenko. Ze skutečných hlav států dorazí pouze malajský sultán a prezident komunistického Laosu. Slovenský premiér Fico sice bude v Moskvě, ale přehlídky se údajně nezúčastní. Prostě supervelmoc v akci. Každopádně se děje také [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02r3hjg53Ec2UJG1jMji6rA1PqVHZ1j43Rk6HVNgyXn1aif9x2Jn5NEVPmeqHuQfF1l): 
         detail: |
@@ -6220,11 +5725,6 @@ timeline:
         sort: "2026-05-05"
         image: assets/img/timeline/2026-05-05.jpg
         podcast: "2026-05-05.mp3"
-        pictures:
-          - ["2026-05-05-1.jpg", ""]
-          - ["2026-05-05-2.jpg", ""]
-          - ["2026-05-05-3.jpg", ""]
-          - ["2026-05-05-4.jpg", ""]
         desc: |
           Ukrajinci v noci zasáhli rafinérii Kirišiněfteorgsintez v Leningradské oblasti. Snímky z družice NASA FIRMS potvrzují požár v areálu, zatímco místní úřady pouze uvádějí, že během noci bylo sestřeleno 18 ukrajinských dronů. Provoz rafinérie se nicméně po náletu zastavil. Další úder zasáhl opět také podnik VNIIR-Progress v Čeboksarech. Vyrábí se v něm navigační moduly Kometa používané v ruských dronech a raketách typů Kalibr a Iskander. Co na oplátku zasáhli Rusové? O tom víc v [reportu](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Zs9j1rpx7JCJpCJXYg9JZ95cC4uyABgBXyEVQhkkw36arj3gdKEZwFLmvtQuFAEbl): 
         detail: |
@@ -6297,11 +5797,6 @@ timeline:
         sort: "2026-05-03"
         image: assets/img/timeline/2026-05-03.jpg
         podcast: "2026-05-03.mp3"
-        pictures:
-          - ["2026-05-03-1.jpg", ""]
-          - ["2026-05-03-2.jpg", ""]
-          - ["2026-05-03-3.jpg", ""]
-          - ["2026-05-03-4.jpg", ""]
         desc: |
           Výletní autobus s 40 dětmi zastavil včera ráno u čerpací stanice nedaleko Dnipra. Děti vystoupily, aby si odskočily na toaletu. Stejně tak i řidič. V tu chvíli zasáhl benzínku ruský dron. Řidič autobusu Serhij řekl médiím: „Mysleli jsme, že dron nad námi jen přeletí. Můj kolega ale řekl: ‚Schovej se.‘ Jenže já jsem to nestihl. Autobus byl prošpikován naskrz. Letěl jsem tři metry vzduchem.“ 40 dětí, které byly na cestě na prázdniny do Ivano-Frankivské oblasti, přežilo, protože vystoupily z autobusu jen o 30 sekund dříve. Šest jiných lidí ale bylo zraněno, včetně 10letého chlapce a 21leté těhotné ženy. Takhle vypadá ruské „osvobozování“. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0HLqAbk7J9S7iPf3qw7Hgzzr2bLrfjnMhrQLWv5E2KC3Tpaz4jeXS9e3vw9ZSutrFl): 
         detail: |
@@ -6343,11 +5838,6 @@ timeline:
         sort: "2026-05-02"
         image: assets/img/timeline/2026-05-02.jpg
         podcast: "2026-05-02.mp3"
-        pictures:
-          - ["2026-05-02-1.jpg", ""]
-          - ["2026-05-02-2.jpg", ""]
-          - ["2026-05-02-3.jpg", ""]
-          - ["2026-05-02-4.jpg", ""]
         desc: |
           Ukrajinská vojenská rozvědka (HUR) prozradila detaily z poměrně unikátní tajné operace zaměřené proti Kadyrovcům v Sumské oblasti. Zpravodajcům se podařilo naverbovat dnes už bývalého vojáka jednotky Achmat. Prostřednictvím něj nainstalovali odposlouchávací zařízení přímo v zasedací místnosti velitelství čečenského pluku, díky čemuž měli v reálném čase přístup k operačním informacím jednotky včetně lokací všech polních základen. Pak už jen stačilo ve vhodný čas zaútočit raketami a drony na shromaždiště Kadyrovců. Výsledek? Než se Čečencům podařilo štenice objevit, utrpěli ztráty čítající nejméně 41 mrtvých, 87 zraněných a více než 100 pohřešovaných vojáků. Krásná práce. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02yV5bhxmJnaKCdD4X9ZQokwhyLLavrCrWf1C6fXj85ofwa4wpFnRpBk4zWHWrTvrCl): 
         detail: |
@@ -6424,12 +5914,6 @@ timeline:
         sort: "2026-04-30"
         image: assets/img/timeline/2026-04-30.jpg
         podcast: "2026-04-30.mp3"
-        pictures:
-          - ["2026-04-30-1.jpg", ""]
-          - ["2026-04-30-2.jpg", ""]
-          - ["2026-04-30-3.jpg", ""]
-          - ["2026-04-30-4.jpg", ""]
-          - ["2026-04-30-5.jpg", ""]
         desc: |
           Trump na tiskovce v Bílém domě prohlásil: „Myslím, že Ukrajina je z vojenského hlediska poražena. Měli 159 lodí. Všechny leží na dně. Každé jejich letadlo bylo sestřeleno.“ O čem to blábolí? Ano, spletl si Ukrajinu a Írán. To americký viceprezident JD Vance se nespletl a rovnou prohlásil, že jedna z věcí, na které je nejvíce pyšný, je, že Trumpova vláda ukončila vojenskou pomoc Ukrajině. Na to reagoval Zelenskyj slovy, že pokud má Vance radost z toho, že nepomáhá Ukrajině, znamená to, že pomáhá Rusku. A taky že jo. Ale naštěstí se toho děje [více](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0XqXf8B95DbUzitKDqUy6XvQS4n7X33YzBYonmx4Bqo8Bc4tivEx86ST2kML5VZaLl): 
         detail: |
@@ -6508,11 +5992,6 @@ timeline:
         sort: "2026-04-28"
         image: assets/img/timeline/2026-04-28.jpg
         podcast: "2026-04-28.mp3"
-        pictures:
-          - ["2026-04-28-1.jpg", ""]
-          - ["2026-04-28-2.jpg", ""]
-          - ["2026-04-28-3.jpg", ""]
-          - ["2026-04-28-4.jpg", ""]
         desc: |
           Polskou kryptoměnovou burzu Zondacrypto pravděpodobně ovládají členové tambovské zločinecké organizace. Podle deníku Gazeta Wyborcza a polské Agentury pro vnitřní bezpečnost získali členové tambovské zločinecké organizace v této burze v roce 2018 prostřednictvím zprostředkovatelů kontrolní podíl. Skupina Tambov přitom patřila v devadesátých a nultých letech k nejvlivnějším zločineckým organizacím v Rusku. Zondacrypto se aktuálně nachází ve vážných problémech: uživatelé hlásí problémy s výběrem prostředků a rezervy bitcoinů údajně klesly téměř o 99 %. Polští státní zástupci proto zahájili vyšetřování trestného činu podvodu a praní špinavých peněz s odhadovanou škodou ve výši 83 milionů eur. Peníze z krypta končily v Rusku? Tak to je novinka. A taky se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid09g8BmqMJx39b2geDmK7oG52sJNw15puGwRxqPZvLn5vWmdueHbLzMbVrLBdxnyoBl):
         detail: |
@@ -6583,12 +6062,6 @@ timeline:
         sort: "2026-04-26"
         image: assets/img/timeline/2026-04-26.jpg
         podcast: "2026-04-26.mp3"
-        pictures:
-          - ["2026-04-26-1.jpg", ""]
-          - ["2026-04-26-2.jpg", ""]
-          - ["2026-04-26-3.jpg", ""]
-          - ["2026-04-26-4.jpg", ""]
-          - ["2026-04-26-5.jpg", ""]
         desc: |
           Ukrajinská bezpečnostní služba (SBU) informovala o úderech na několik ruských vojenských cílů v Sevastopolu a na letišti v Belbeku. Operace měla za cíl: dvě výsadkové lodě (Jamal, Filčenkov), průzkumnou loď Ivan Churs, stíhací letoun MiG-31 na letecké základně v Belbeku, prostředky protivzdušné obrany a radarové zařízení a také vojenskou infrastrukturu včetně výcvikového střediska a technických zařízení v Belbeku. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Ay9grcKDUBN5vtSeBFgcz18gd7zLz4yn1vfMg6uXVUUDeBktzKPFp8ivMkhjRbFJl): 
         detail: |
@@ -6623,11 +6096,6 @@ timeline:
         sort: "2026-04-25"
         image: assets/img/timeline/2026-04-25.jpg
         podcast: "2026-04-25.mp3"
-        pictures:
-          - ["2026-04-25-1.jpg", ""]
-          - ["2026-04-25-2.jpg", ""]
-          - ["2026-04-25-3.jpg", ""]
-          - ["2026-04-25-4.jpg", ""]
         desc: |
           Trump se svými kroky soustavně snaží oslabit Evropu a „trestat“ ji za to, co vnímá jako „neposlušnost“. A protože vyhrožovat zabráním Grónska evidentně nezabralo, nově motivoval svého nejlepšího kamaráda z jižní části amerického kontinentu Mileie, aby si Argentina začala opět nárokovat Falklandy, nebo jak jim říkají Argentinci: Malvíny. Argentina by si nejspíš nechtěla zopakovat opakování dva měsíce trvajícího výprasku jménem Válka o Falklandy, čím ale podobná prohlášení škodí mnohem více, je to, jak nahrávají ruské nebo čínské propagandě. Ty totiž stojí na neustálém nárokování si jakýchsi „historických území“ – a pokud může Západ, proč by nemohli oni? Každopádně děje se toho [více](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0gHmeVJffnr3Bb7XVa7cyBvdvQmscApMwm7GtmKWtTxFBAXNwFw1FNrJaaHL5SH6El): 
         detail: |
@@ -6702,11 +6170,6 @@ timeline:
         sort: "2026-04-23"
         image: assets/img/timeline/2026-04-23.jpg
         podcast: "2026-04-23.mp3"
-        pictures:
-          - ["2026-04-23-1.jpg", ""]
-          - ["2026-04-23-2.jpg", ""]
-          - ["2026-04-23-3.jpg", ""]
-          - ["2026-04-23-4.jpg", ""]
         desc: |
           Co obsahuje 20. balíček sankcí EU proti Rusku, který brzy vstoupí v platnost? Není toho vůbec málo! Tak například: Zákaz prodeje tankerů do Ruska, jakož i poskytování údržby a dalších služeb pro ruské tankery a ledoborce na přepravu zkapalněného zemního plynu (LNG). Kompletní zákaz provádění finančních transakcí s celkem 20 ruskými bankami. Zákaz poskytování služeb Rusku v oblasti kyberbezpečnosti. Omezení spolupráce s ruskými přístavy v Murmansku a Tuapse, stejně jako s ropným terminálem Karimun v Indonésii. Zákaz podílení se na údržbě ruských terminálů na zkapalněný zemní plyn (LNG) od roku 2027. Přísnější kontroly diamantů — dovozci nyní musí prokázat, že drahokamy nejsou spojeny s Ruskem. Sankce proti kyrgyzskému subjektu, který zprostředkovává obchodování s kryptoměnami. Úplný sektorový zákaz ruských kryptoměnových služeb a burzovních platforem, včetně operací s kryptoměnou RUBx a podpory digitálního rublu. Sankce proti 16 společnostem z Číny, Spojených arabských emirátů, Uzbekistánu, Kazachstánu a Běloruska, které dodávají zboží dvojího užití do Ruska. Vývozní omezení pro dalších 60 společností v Rusku, Číně, Hongkongu, Turecku a Spojených arabských emirátech. Zákaz vývozu CNC strojů a rádiových zařízení do Kyrgyzstánu z důvodu rizika zpětného vývozu do Ruska. Zavedení kvót na dovoz amoniaku. A v neposlední řadě: rozšíření sankcí vůči ruské propagandě tak, aby zahrnovala alternativní weby zakázaných ruských médií. Slušné. A jen asi tak se tříletým zpožděním. Ale také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid027fV4rkZEypWgbieLfxSepe1qKgfwFXsE4r4URBbL7yZLeCJrtfQ1SZ7h7YX1UAoxl): 
         detail: |
@@ -6738,11 +6201,6 @@ timeline:
         sort: "2026-04-22"
         image: assets/img/timeline/2026-04-22.jpg
         podcast: "2026-04-22.mp3"
-        pictures:
-          - ["2026-04-22-1.jpg", ""]
-          - ["2026-04-22-2.jpg", ""]
-          - ["2026-04-22-3.jpg", ""]
-          - ["2026-04-22-4.jpg", ""]
         desc: |
           Italská premiérka reagovala poté, co ji ruský propagandista Solovjov v přímém přenosu nazval „fašistkou“, „děvkou“, „monstrem“ a „zrádkyní“: „My, na rozdíl od jiných, nejsme nikým ovládáni, nemáme žádné pány a nepřijímáme rozkazy. Máme jen jeden kompas, a tím jsou zájmy Itálie.“ Itálie si kvůli skandálu předvolala ruského velvyslance a politici napříč politickým spektrem vyjádřili Meloniové podporu. Skoro jako když zloděj křičí „chyťte zloděje“, co? A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02UdsD6q9wKk3EyihzsBx9QQ4nd1EEMeNUGiqpvnsngjS9wkoCUN2ovBEv33m9SnyNl): 
         detail: |
@@ -6785,11 +6243,6 @@ timeline:
         sort: "2026-04-21"
         image: assets/img/timeline/2026-04-21.jpg
         podcast: "2026-04-21.mp3"
-        pictures:
-          - ["2026-04-21-1.jpg", ""]
-          - ["2026-04-21-2.jpg", ""]
-          - ["2026-04-21-3.jpg", ""]
-          - ["2026-04-21-4.jpg", ""]
         desc: |
           Rusové mají potíže v zahraničí kvůli restrikcím VPN – nemůžou kupovat letenky, převádět peníze ani se přihlásit na portál „Gosuslugi“. Domácí služby jednoduše kompletně blokují přihlášení ze zahraničních IP adres. Situace už postihla některé oblíbené turistické destinace Rusů – Turecko, Thajsko, Egypt nebo Vietnam. Rusko ale zesiluje svoje cenzurní aktivity i v dalších oblastech. Například nová biografie spisovatele Michaila Bulgakova byla v Rusku označena jako nelegální podle zákona o „propagaci drog“. Prostě ráj. A taky se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0mcqGegNMt33Dcwh8BvXCCQs7efpCAYt6u3RvUbgcj4V33MSqavW5h4wmoM72YbZsl): 
         detail: |
@@ -6826,12 +6279,6 @@ timeline:
         sort: "2026-04-20"
         image: assets/img/timeline/2026-04-20.jpg
         podcast: "2026-04-20.mp3"
-        pictures:
-          - ["2026-04-20-1.jpg", ""]
-          - ["2026-04-20-2.jpg", ""]
-          - ["2026-04-20-3.jpg", ""]
-          - ["2026-04-20-4.jpg", ""]
-          - ["2026-04-20-5.jpg", ""]
         desc: |
           Dočasně okupovaný Sevastopol zažil dvě krušné noci (17.–19. dubna). Podle OSINT analytiků bylo zasaženo celkem pět lodí ruské Černomořské flotily. Mezi cíli je několik výsadkových lodí projektu 775 – lodě Jamal, Azov a Olšanskij – a dále loď Nikolaj Filčenkov a plavidlo Slavutič. Nejméně dva zásahy jsou zachyceny na videích, které pořídili ukrajinské útočné drony. Na další zásahy poukazují některé nepřímé indicie, ale na potvrzení se stále čeká. Každopádně se dějí i další [věci](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02VghH21d6ubeXA3s8eNVeq9y2Wb3W6d6rQYk1SeV1rh5bLSNwVdF885Srs5KfoTaul): 
         detail: |
@@ -6872,12 +6319,6 @@ timeline:
         sort: "2026-04-19"
         image: assets/img/timeline/2026-04-19.jpg
         podcast: "2026-04-19.mp3"
-        pictures:
-          - ["2026-04-19-1.jpg", ""]
-          - ["2026-04-19-2.jpg", ""]
-          - ["2026-04-19-3.jpg", ""]
-          - ["2026-04-19-4.jpg", ""]
-          - ["2026-04-19-5.jpg", ""]
         desc: |
           Proruský „kanál“ Luboše Xavera Veselého s názvem XTV oslavil 9 let existence v jednom z pražských hotelů. Mezi hosty vysílání nechyběly největší hvězdy místní ruské páté kolony a dezinformační scény včetně Miloše Zemana, Jindřicha Rajchla, Libora Vondráčka, Lubomíra Zaorálka, Romana Šmuclera, Petra Macinky, Filipa Turka, Matěje Gregora nebo „wannabe influencera“ Adama Šejny. Poblahopřát přišli ale také například Andrej Babiš, Václav Klaus nebo Aleš Juchelka. Asi aby nebylo pochyb o tom, na které straně barikády pánové stojí. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid024G94xMYzDmpap7utRigbhvyAHrbUbPuFsVcARbv9Goqq3CwzstHN7AFA1pEdsjySl):
         detail: |
@@ -6916,9 +6357,6 @@ timeline:
         sort: "2026-04-18"
         image: assets/img/timeline/2026-04-18.jpg
         podcast: "2026-04-18.mp3"
-        pictures:
-          - ["2026-04-18-1.jpg", ""]
-          - ["2026-04-18-2.jpg", ""]
         desc: |
           V době psaní reportu probíhala rozsáhlá protiteroristická akce přímo v ulicích Kyjeva. Pachatel zabil několik lidí střelnou zbraní a následně se opevnil v supermarketu Velmart ve čtvrti Demijivska, kde držel několik rukojmích. Na místě zasahovala protiteroristická jednotka KORD a po neúspěšném vyjednávání a při následném zásahu útočníka zastřelila. Incident si vyžádal nejméně pět mrtvých a patnáct zraněných. Útočníkem byl 57letý Dmitrij Vasylčenkov, rodák z Moskvy, podplukovník ruské armády ve výslužbě – vojenská jednotka 30274. Rusko se začíná uchylovat k terorismu v podobě, jakou známe od nejrůznějších separatistických nebo islamistických teroristických buněk. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02KSvFqdrFgSFG8CWycW86VriqytvnZ2orAszGTmdD18bGqnLLU8FMfZ94Cc5dQwL5l): 
         detail: |
@@ -6956,11 +6394,6 @@ timeline:
         sort: "2026-04-17"
         image: assets/img/timeline/2026-04-17.jpg
         podcast: "2026-04-17.mp3"
-        pictures:
-          - ["2026-04-17-1.jpg", ""]
-          - ["2026-04-17-2.jpg", ""]
-          - ["2026-04-17-3.jpg", ""]
-          - ["2026-04-17-4.jpg", ""]
         desc: |
           Čeští elfové analyzovali časovou osu nedávných výhrůžek ze strany Ruska vůči českým firmám a zjistili, že dezinformační kanál „neČT24“ (podle české rozvědky provozovaný ruským Sputnikem) nejenže zveřejnil hrozbu už dvě minuty po první publikaci v ruských státních médiích, ale navíc zprávu opatřil českým překladem a seznamem adres dotčených českých firem – a to dokonce rychleji než sama ruská TASS, kde se seznam firem objevil až za dalších několik minut po jedné z revizí článku. Tím se de facto potvrzuje, že profil neČT24 je přímo řízen ruskou státní propagandou, nebo s ní minimálně úzce spolupracuje při šíření klíčových narativů. Připomeňme si pro kontext, že Vávra a jeho „Společnost pro obranu svobody projevu“ tento kanál nedávno sdíleli a po kritice relativizovali jeho napojení na ruskou propagandu, čímž zase nepřímo potvrdili, že s ruskou státní propagandou spolupracují také. A ještě se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0aq4EZyu9HQDC53RkJjMNE3ZQbTh3qvW4Uxebuzt71gZh47RyrL13GFDLnFH6jQmJl): 
         detail: |
@@ -7080,12 +6513,6 @@ timeline:
         sort: "2026-04-14"
         image: assets/img/timeline/2026-04-14.jpg
         podcast: "2026-04-14.mp3"
-        pictures:
-          - ["2026-04-14-1.jpg", ""]
-          - ["2026-04-14-2.jpg", ""]
-          - ["2026-04-14-3.jpg", ""]
-          - ["2026-04-14-4.jpg", ""]
-          - ["2026-04-14-5.jpg", ""]
         desc: |
           Ukrajina a Německo uzavřely novou dohodu o vojenské spolupráci v hodnotě 4 miliard eur. Německo bude financovat stovky raket pro systémy Patriot a dodá 36 odpalovacích zařízení systému IRIS-T, čímž posílí ochranu ukrajinských měst a infrastruktury. 300 milionů eur bude investováno do útočných prostředků s dlouhým doletem. Obě země také zahájí společnou výrobu dronů vybavených umělou inteligencí, přičemž v první fázi je pro ukrajinské ozbrojené síly plánováno 5 000 kusů. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02dymCE7kdVgpkzJziy5J14KW4bNZswqBpKzgbtTbWWMAxuvpwQb7zeQgxGisuQfWdl): 
         detail: |
@@ -7196,12 +6623,6 @@ timeline:
         sort: "2026-04-11"
         image: assets/img/timeline/2026-04-11.jpg
         podcast: "2026-04-11.mp3"
-        pictures:
-          - ["2026-04-11-1.jpg", ""]
-          - ["2026-04-11-2.jpg", ""]
-          - ["2026-04-11-3.jpg", ""]
-          - ["2026-04-11-4.jpg", ""]
-          - ["2026-04-11-5.jpg", ""]
         desc: |
           Putinovo „příměří“ podle očekávání netrvalo ani tři hodiny, než začala ruská armáda ostřelovat města prakticky na celé frontě. Na Cherson od rána prší rakety ze salvových raketometů. Rusové vyslali také desítky FPV dronů, přičemž jeden z nich zasáhl civilní linkový autobus a zabil jeho řidiče. Pod těžkou palbou byl také Kramatorsk, kam dopadly nejméně tři letecké pumy a bylo zraněno několik civilních osob. Zelenský uvedl, že Ukrajina je připravena v příměří pokračovat, ale že odpoví stejnou silou na jakékoliv porušení. A pokud můžeme dělat nějaké závěry z toho, jak vypadala všechna dosavadní Ruskem oznámená příměří, je téměř jisté, že k jeho porušení ze strany Ruska opět dojde. Nebo spíš, že k příměří reálně nikdy nedojde. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0P5oP9rkDQ94sAQEVnn7Syi5dLwBd65hP9B6RyaD6UWachoVH6YLrWCFTq3Dv83FGl):  
         detail: |
@@ -7239,12 +6660,6 @@ timeline:
         sort: "2026-04-10"
         image: assets/img/timeline/2026-04-10.jpg
         podcast: "2026-04-10.mp3"
-        pictures:
-          - ["2026-04-10-1.jpg", ""]
-          - ["2026-04-10-2.jpg", ""]
-          - ["2026-04-10-3.jpg", ""]
-          - ["2026-04-10-4.jpg", ""]
-          - ["2026-04-10-5.jpg", ""]
         desc: |
           Ruští propagandisté teď otevřeně na svých kanálech přiznávají, že „převrat“ na Donbasu zosnovala ruská FSB, a to včetně následné invaze a války, protože to prý „není důvod“ dál skrývat. Celou akci podle nich financoval ruský oligarcha Malofejev. Právě jeho peníze měly vyzbrojit tamější „separatisty“ – rozuměj zločince a jiné devianty, než jim přišla na pomoc regulérní ruská armáda. Ti s funkčním mozkem současná „přiznání“ nijak nepřekvapí. Pátá kolona Ruska ale bude papouškovat ruskou propagandu o nacistech a denacifikaci ještě dlouho potom. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0GryCw1TkEBkQH9xEBzs2acT5bbX2KYq4QQZJ9RCjBq7H74DZx6tmJ1Jytm85b3Ril): 
         detail: |
@@ -7276,12 +6691,6 @@ timeline:
         sort: "2026-04-09"
         image: assets/img/timeline/2026-04-09.jpg
         podcast: "2026-04-09.mp3"
-        pictures:
-          - ["2026-04-09-1.jpg", ""]
-          - ["2026-04-09-2.jpg", ""]
-          - ["2026-04-09-3.jpg", ""]
-          - ["2026-04-09-4.jpg", ""]
-          - ["2026-04-09-5.jpg", ""]
         desc: |
           Francie se chystá postavit ruskou „stínovou flotilu“ mimo zákon. Návrh novely zákona o vojenském plánování počítá s tresty pro osoby, které tyto lodě řídí nebo spravují: až dva roky vězení a pokuty až do výše 300 000 eur. Tato pravidla by se vztahovala na kohokoli, kdo se fakticky podílí na provozu plavidel. Pokud by dané jednání ohrozilo lidské životy, tresty by se mohly zvýšit až na sedm let vězení a pokuty až do výše 700 000 eur. Pozdě, ale přece. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid08ZMRL1SYH7x4twa2HniPAefktspwAzpAcwdEBHKcJzzFZsr4NCTTcBVwxcCerSFEl): 
         detail: |
@@ -15158,17 +14567,6 @@ timeline:
         year: "22. září 2025"
         sort: "2025-09-22"
         image: assets/img/timeline/2025-09-22.jpg
-        pictures:
-          - ["2025-09-22-1.jpg", ""]
-          - ["2025-09-22-10.jpg", ""]
-          - ["2025-09-22-2.jpg", ""]
-          - ["2025-09-22-3.jpg", ""]
-          - ["2025-09-22-4.jpg", ""]
-          - ["2025-09-22-5.jpg", ""]
-          - ["2025-09-22-6.jpg", ""]
-          - ["2025-09-22-7.jpg", ""]
-          - ["2025-09-22-8.jpg", ""]
-          - ["2025-09-22-9.jpg", ""]
         desc: |
           Polský ministr zahraničí Sikorski si dnes na půdě OSN nebral servítky. Ruské delegaci vzkázal: „Víme moc dobře, že vám je mezinárodní právo ukradené a že jste v zásadě neschopní mírového soužití se svými sousedy. Váš radikální nacionalismus je nekontrolovatelnou touhou po nadvládě – nejhorší formou šovinismu. To neskončí, dokud si neuvědomíte a nepřiznáte, že éra impérií je pryč a že vaše impérium se nikdy nevrátí! A každý úder, který vám zasadí ukrajinští vojáci – Bůh jim žehnej – ten den přibližuje.“ Zároveň důrazně Rusko varoval: „Až příště nějaký ruský létající objekt naruší náš vzdušný prostor a my ho sestřelíme, tak si sem nechoďte stěžovat. Varovali jsme vás.“ A taky se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Wu1zqW2BnMpAKxJyZPWk7xD9xt7tf6TPfGoJy17wx8zo8KY8Bd1zbdvMWFV9jAykl): 
         detail: |
@@ -15205,8 +14603,6 @@ timeline:
         year: "21. září 2025"
         sort: "2025-09-21"
         image: assets/img/timeline/2025-09-21.jpg
-        pictures:
-          - ["2025-09-21-1.jpg", ""]
         desc: |
           Jak vypadá taktika, kterou ruská armáda aktuálně provozuje na většině fronty? Útoky malých útočných formací na čtyřkolkách nebo motocyklech. Valná většina vojáků do cíle nedojede, protože je po cestě zlikvidují miny nebo FPV drony. A pokud někdo přece jen přežije, velitelé zkoumají podrobně jeho trasu, aby po stejné vyslali další jednotku. Není to žádná regulérní vojenská taktika, ale čirá loterie s lidskými životy. Zkrátka Rusko. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0RQnBwgLtGTJjZZg6t7rSHx7TDqKoygEFURN1hm2NMESodNWEmb3o81xNnRRgR22Gl): 
         detail: |
@@ -15242,17 +14638,6 @@ timeline:
         year: "20. září 2025"
         sort: "2025-09-20"
         image: assets/img/timeline/2025-09-20.jpg
-        pictures:
-          - ["2025-09-20-1.jpg", ""]
-          - ["2025-09-20-10.jpg", ""]
-          - ["2025-09-20-2.jpg", ""]
-          - ["2025-09-20-3.jpg", ""]
-          - ["2025-09-20-4.jpg", ""]
-          - ["2025-09-20-5.jpg", ""]
-          - ["2025-09-20-6.jpg", ""]
-          - ["2025-09-20-7.jpg", ""]
-          - ["2025-09-20-8.jpg", ""]
-          - ["2025-09-20-9.jpg", ""]
         desc: |
           Rusko v noci podniklo další masivní nálet na cíle po celé Ukrajině. Ve vzduchu bylo 579 dronů, 8 balistických raket a 32 střel s plochou dráhou letu. Zasaženo bylo devět oblastí Ukrajiny: Mykolajivská, Černihivská, Záporožská, Kyjevská, Poltavská, Oděská, Sumská a Charkovská. Jeden projektil s kazetovou municí zasáhl panelák v Dnipru, zabil tři lidi a desítky dalších zranil. Ukrajinská PVO sestřelila celkem 583 projektilů (552 dronů a 31 raket/střel). A taky se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02yPPEPh5Ej1rxXjhgfLETXVnUz5Wz6b8ARR3iMB7Qu2zVk9mHRFXpd1oXeWyXxxTFl): 
         detail: |
@@ -15286,8 +14671,6 @@ timeline:
         year: "19. září 2025"
         sort: "2025-09-19"
         image: assets/img/timeline/2025-09-19.jpg
-        pictures:
-          - ["2025-09-19-1.jpg", ""]
         desc: |
           Hlavní dronař Robert „Maďar“ Brovdy oznámil, že usiluje o to, aby piloti dronů tvořili 5 % armády namísto současných 2,2 %. Pokud by se to podařilo, pak podle něj Ukrajina zcela ovládne bojiště na všech úrovních – taktické, operační i strategické – a vytvoří nepropustnou virtuální hradbu v šíři 100 km podél linie kontaktu. Pokud by se to nepodařilo, pak avizuje, že odstoupí z velení. Snad se jeho vize naplní, ale teď už další [aktuality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid08Z8Umh37yuFQMMJxeFWRUVc5iqsGBwMa8CmpfdmbqtAh7hTfntT26R2dnYQvuCsAl): 
         detail: |
@@ -15332,17 +14715,6 @@ timeline:
         year: "18. září 2025"
         sort: "2025-09-18"
         image: assets/img/timeline/2025-09-18.jpg
-        pictures:
-          - ["2025-09-18-1.jpg", ""]
-          - ["2025-09-18-10.jpg", ""]
-          - ["2025-09-18-2.jpg", ""]
-          - ["2025-09-18-3.jpg", ""]
-          - ["2025-09-18-4.jpg", ""]
-          - ["2025-09-18-5.jpg", ""]
-          - ["2025-09-18-6.jpg", ""]
-          - ["2025-09-18-7.jpg", ""]
-          - ["2025-09-18-8.jpg", ""]
-          - ["2025-09-18-9.jpg", ""]
         desc: |
           Lavrov opět hodil vidle do argumentů Trumpa nebo nejrůznějších „chcimírů“, když se včera nechal slyšet, že žádné případné výměny teritorií nezastaví ruskou vojenskou kampaň proti Ukrajině. Zároveň odmítl, že by Rusko vyměnilo mírové snahy za obnovení obchodu s USA, a zopakoval ruskou propagandu o potřebě řešit „kořeny války“ – slovní spojení, podle kterého dnes spolehlivě poznáte konzumenty ruské propagandy, a které zahrnuje údajnou (a neexistující) diskriminaci ruskojazyčné populace na Ukrajině nebo „přibližování NATO k ruským hranicím“. Rusko jednoduše nechce mír. Chce ovládnout pobřeží Černého moře a – slovy karbaníků – jde do toho „all-in“. A taky se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02vwC57M8UJvJwRjYxBXDWeFquYeBEGMnbL8cirJkKdSo6yDMCR95J8ea83aJELx2El): 
         detail: |
@@ -15373,8 +14745,6 @@ timeline:
         year: "17. září 2025"
         sort: "2025-09-17"
         image: assets/img/timeline/2025-09-17.jpg
-        pictures:
-          - ["2025-09-17-1.jpg", ""]
         desc: |
           Ruská státní mediální agentura TASS odvysílala zprávu o tom, že před americkou ambasádou v Moskvě kdosi vytvořil provizorní pomník zabité Ukrajince Iryně Zarucké a zabitému klerofašistovi a dezinformátorovi Charliemu Kirkovi. Zcela „náhodou“ se prakticky totožný pomníček objevil nedávno také na pražském Václavském náměstí, a zcela „náhodou“ za ním stojí osoby blízké proruským "konzervativním" hnutím. Náhoda jak hrom. A taky se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02YWptcwrtNmiK1oXGjFPb4a7jr29w8LKHTuFF3caGS3HH8LQLo8fqMjspkELYkY8ml): 
         detail: |
@@ -15453,17 +14823,6 @@ timeline:
         year: "15. září 2025"
         sort: "2025-09-15"
         image: assets/img/timeline/2025-09-15.jpg
-        pictures:
-          - ["2025-09-15-1.jpg", ""]
-          - ["2025-09-15-10.jpg", ""]
-          - ["2025-09-15-2.jpg", ""]
-          - ["2025-09-15-3.jpg", ""]
-          - ["2025-09-15-4.jpg", ""]
-          - ["2025-09-15-5.jpg", ""]
-          - ["2025-09-15-6.jpg", ""]
-          - ["2025-09-15-7.jpg", ""]
-          - ["2025-09-15-8.jpg", ""]
-          - ["2025-09-15-9.jpg", ""]
         desc: |
           Polský ministr zahraničí Sikorski vyzval NATO, aby zvážilo možnost, že by aliance sestřelovala ruské drony ještě nad územím Ukrajiny. Zároveň vyzval alianci, aby převzala kontrolu nad ruskou stínovou flotilou v Baltském moři, které podle něj kvůli tragickému stavu tankerů hrozí ekologická katastrofa. Medveděv reagoval slovy, že sestřelování ruských dronů by znamenalo začátek války mezi NATO a Ruskem. Vidle mu do toho hodil sám Putinův mluvčí Peskov, který naopak prohlásil, že „NATO je de facto ve válce s Ruskem“. A vedle toho jsou tu ještě tyhle [aktuality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0YiWcJuxXnUM5kis6RJYchcnLQ4pTe14C7ZofPVRabCdTQUbJ3JwLETDQaMqTxik2l): 
         detail: |
@@ -15494,8 +14853,6 @@ timeline:
         year: "14. září 2025"
         sort: "2025-09-14"
         image: assets/img/timeline/2025-09-14.jpg
-        pictures:
-          - ["2025-09-14-1.jpg", ""]
         desc: |
           V Bělorusku začaly manévry Západ-2025. Ruská armáda společně s běloruskou a několika jednotkami ze zemí OSKB nacvičují nejrůznější scénáře včetně vpádu do Polska a do Suwalské kapsy pod záminkou „obrany Kaliningradu“ – jak je to v ruské historii zvykem. Cvičí se také nasazení jaderných sil pro případ jaderného úderu na některou ze západních zemí a další vyloženě „obranné“ úkoly. Podle informací, které přinesla indická mutace ruského propagandistického kanálu Sputnik, se k mezinárodnímu cvičení přidaly také jednotky z Indie. Pokud je to pravda, Indie de facto nacvičuje společně s Ruskem útok na Evropu. A to by nás nemělo nechávat v klidu. Tady jsou každopádně další [aktuality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02SdKnrGFE1DXoGuXvCoivwLPu1HEVVPkG5K2fmyWdTLt2j4vjKZ4yHu8TrwL52Xarl): 
         detail: |
@@ -15531,17 +14888,6 @@ timeline:
         year: "13. září 2025"
         sort: "2025-09-13"
         image: assets/img/timeline/2025-09-13.jpg
-        pictures:
-          - ["2025-09-13-1.jpg", ""]
-          - ["2025-09-13-10.jpg", ""]
-          - ["2025-09-13-2.jpg", ""]
-          - ["2025-09-13-3.jpg", ""]
-          - ["2025-09-13-4.jpg", ""]
-          - ["2025-09-13-5.jpg", ""]
-          - ["2025-09-13-6.jpg", ""]
-          - ["2025-09-13-7.jpg", ""]
-          - ["2025-09-13-8.jpg", ""]
-          - ["2025-09-13-9.jpg", ""]
         desc: |
           Během nedávného náletu dronů na Primorsk u Petrohradu zasadili Ukrajinci značnou ránu ruské schopnosti exportovat ropu. Podle ukrajinské rozvědky byl zasažen nejen samotný přístavní terminál, ale také přečerpávací stanice “NPS-3,” “NPS Andreepol” a “NPS-7” ve třech oblastech Ruska. Navíc po náletu na Primorsk vypukl požár na palubě dvou ropných tankerů. A tak, zatímco Západ zvažuje další sankce, Ukrajina postupně přidává další a další ruskou ropnou infrastrukturu na svůj vlastní „sankční seznam“. A taky se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02riSzCXHpxX7dTFYK9HeKbkSuYeghnQVVLg7KzBs8H1kNKbiUj1P6yhPqfjNsGMQXl):
         detail: |
@@ -15579,17 +14925,6 @@ timeline:
         year: "12. září 2025"
         sort: "2025-09-12"
         image: assets/img/timeline/2025-09-12.jpg
-        pictures:
-          - ["2025-09-12-1.jpg", ""]
-          - ["2025-09-12-10.jpg", ""]
-          - ["2025-09-12-2.jpg", ""]
-          - ["2025-09-12-3.jpg", ""]
-          - ["2025-09-12-4.jpg", ""]
-          - ["2025-09-12-5.jpg", ""]
-          - ["2025-09-12-6.jpg", ""]
-          - ["2025-09-12-7.jpg", ""]
-          - ["2025-09-12-8.jpg", ""]
-          - ["2025-09-12-9.jpg", ""]
         desc: |
           Polsko včera v noci z bezpečnostních důvodů kompletně zapečetilo své hranice s Běloruskem, natáhlo na přechodech žiletkové dráty a rozmístilo protitankové zábrany. K hranicím také přesunulo okolo 40 000 vojáků. Dnes mají totiž v Bělorusku naplno vypuknout manévry Západ-2025. Rusko označilo uzavření hranic Polskem za „neuvážený krok, který může mít následky“. Prostě soused, kterého nechcete. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid037WczqrMkFE2WT38PzQEidTh4bu8nvSb8UGvVT9UUoBJ218AFroGkkTkPpeigtXvrl): 
         detail: |
@@ -15668,17 +15003,6 @@ timeline:
         year: "10. září 2025"
         sort: "2025-09-10"
         image: assets/img/timeline/2025-09-10.jpg
-        pictures:
-          - ["2025-09-10-1.jpg", ""]
-          - ["2025-09-10-10.jpg", ""]
-          - ["2025-09-10-2.jpg", ""]
-          - ["2025-09-10-3.jpg", ""]
-          - ["2025-09-10-4.jpg", ""]
-          - ["2025-09-10-5.jpg", ""]
-          - ["2025-09-10-6.jpg", ""]
-          - ["2025-09-10-7.jpg", ""]
-          - ["2025-09-10-8.jpg", ""]
-          - ["2025-09-10-9.jpg", ""]
         desc: |
           Ruské kamikadze drony už neohrožují jen Ukrajinu. Údajně až 19 (podle některých zdrojů dokonce 23) dronů během nočního náletu na Ukrajinu vlétlo do vzdušného prostoru Polska. A Polsko tentokrát nemohlo pasivně přihlížet. Proti dronům zasahovala polská protivzdušná obrana a také nizozemské stíhačky F-35 a společně nejméně osm z nich sestřelily. Jeden z dronů letěl 330 km skrz polský vzdušný prostor a jeho trosky dopadly 200 km od českých hranic. Polský prezident kvůli incidentu svolal mimořádné zasedání vlády a později Polsko oznámilo, že využije článek 4 Severoatlantické aliance k jednání o posílení obrany svých východních hranic. Kreml každopádně oznámil, že tvrzení, že drony nad Polskem byly ruské, není podloženo žádnými důkazy. A tento narativ přebrali okamžitě i ruští influenceři: Robert Fico, ale třeba i Kateřina Konečná, žádají, aby se prošetřilo, kdo "drony nad Polskem ovládal", aby se prý vyloučily provokace. Experti ale o původu dronů nijak nepochybují - ostatně, Ukrajina jejich let po celou dobu monitorovala. Dodávají ale, že Rusko se nejspíš rozhodlo využít své probíhající manévry Zapad-2025 k tomu, aby otestovalo připravenost NATO na potenciální konflikt. Bezpečnost Evropy tedy bude do velké míry záležet na tom, jaká bude její odezva na tento incident. A tady jsou další [zprávy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid038JAHAfATrcRyNhY97nXG62km84vjGtrqmr44owLexe5J1SRa14FdjCqXL6CezVbal):
         detail: |
@@ -15710,17 +15034,6 @@ timeline:
         year: "9. září 2025"
         sort: "2025-09-09"
         image: assets/img/timeline/2025-09-09.jpg
-        pictures:
-          - ["2025-09-09-1.jpg", ""]
-          - ["2025-09-09-10.jpg", ""]
-          - ["2025-09-09-2.jpg", ""]
-          - ["2025-09-09-3.jpg", ""]
-          - ["2025-09-09-4.jpg", ""]
-          - ["2025-09-09-5.jpg", ""]
-          - ["2025-09-09-6.jpg", ""]
-          - ["2025-09-09-7.jpg", ""]
-          - ["2025-09-09-8.jpg", ""]
-          - ["2025-09-09-9.jpg", ""]
         desc: |
           Ukrajinci včera naplno odhalili své nové zbraně domácí produkce. A to ve chvíli, kdy pět střel dopadlo na ruskou základnu v areálu bývalého závodu Topaz v okupovaném Doněcku. Další projektily chvíli nato zasáhly velitelské posty 41. vševojskové armády a 20. gardové motostřelecké divize. Podle videí na sociálních sítích šlo nejspíše o „Chlebíky“, tryskové drony Palyanytsya, které stírají rozdíl mezi dronem a střelou s plochou dráhou letu. Jejich papírový dolet je až 650 km, rychlost až 900 km/h a nesou bojovou hlavici s až 100 kg trhaviny. Útok navíc přišel ve chvíli, kdy Rusové shromažďují v okolí Doněcku značné síly pro „rozhodující úder“ s cílem obsadit zbytek Doněcké oblasti. Jaké škody byly způsobeny, to se ale v tuto chvíli neví. Pokud se dá ale usuzovat cokoliv z minulých podobných úderů, pak můžeme v příštích dnech a týdnech očekávat příliv úmrtních listů. Ukrajinci totiž neplýtvají svými cennými raketami a drony, pokud nemají jistotu, že bude úder bolet. A ještě se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0qaGQWkd4bh9Vkny9d9ZBxdtrzrvvu5g4q3Zvxcn9C7GUDhzCZCmtrtbZmRCRk7zdl): 
         detail: |
@@ -15758,8 +15071,6 @@ timeline:
         year: "8. září 2025"
         sort: "2025-09-08"
         image: assets/img/timeline/2025-09-08.jpg
-        pictures:
-          - ["2025-09-08-1.jpg", ""]
         desc: |
           Irina Jarovaja, poslankyně ruské Státní dumy za Putinovu stranu Jednotné Rusko, prohlásila v televizním rozhovoru, že ruština, jakožto jazyk, je nejvíce předurčena k tomu, být jazykem dialogu a přátelství. „V ruštině jsou slova, jako v žádném jiném jazyce. Jsou v ní hluboké emoční a morální významy, které reflektují ruský národní charakter, který zas reflektuje milost, laskavost, houževnatost, sebeobětování a upřímnost,“ dodala ještě. Naší středoevropskou optikou je to samozřejmě snůška neuvěřitelných keců a sebeklamu, která je pro Putinovo Rusko, blouznící o vlastní velikosti a pozitivní roli v chodu dějin, poměrně typická. V jednom se ale Irina nemýlí. Ruština má spoustu unikátních slov. Třeba „snochačství“ (снохачество). Tohle krásné slůvko značí „sexuální styk hlavy rodiny se svou snachou v době synovy nepřítomnosti“. Rusko je zkrátka jedna velká ctnost. Až na to, že vůbec. A teď další [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02cCyw5ZDiqLH4wvbrN1uzVkhfGZeqCz1e69A7gYN1C1rHYzQFHT8xGGrpxGTvCS2Yl): 
         detail: |
@@ -15795,17 +15106,6 @@ timeline:
         year: "7. září 2025"
         sort: "2025-09-07"
         image: assets/img/timeline/2025-09-07.jpg
-        pictures:
-          - ["2025-09-07-1.jpg", ""]
-          - ["2025-09-07-10.jpg", ""]
-          - ["2025-09-07-2.jpg", ""]
-          - ["2025-09-07-3.jpg", ""]
-          - ["2025-09-07-4.jpg", ""]
-          - ["2025-09-07-5.jpg", ""]
-          - ["2025-09-07-6.jpg", ""]
-          - ["2025-09-07-7.jpg", ""]
-          - ["2025-09-07-8.jpg", ""]
-          - ["2025-09-07-9.jpg", ""]
         desc: |
           Rusové opět pokořili svůj rekord. Na Ukrajinu v noci letělo celkem 818 dronů nebo raket. Rekord si připsala i protivzdušná obrana, která dokázala zničit 747 dronů a 4 rakety/střely s plochou dráhou letu. V Kyjevě bohužel i tak zemřela při náletu mladá maminka a její dvouměsíční dítě. Celkem zahynuli čtyři lidé a nejméně 44 bylo zraněno, také tři koně v jednom z kyjevských jezdeckých klubů. Poprvé od začátku války byla také zasažena budova ukrajinské vlády, konkrétně sídlo kabinetu ministrů. Jeden z dronů navíc zabloudil do Polska a spadl na zem 50 km od ukrajinských  hranic. Západní lídři tradičně útok odsoudili. Zelenskyj jim ale tentokrát vzkázal, že jejich rozhořčené statusy na Twitteru nepřinášejí lidem, kteří přišli o své blízké nebo střechu nad hlavou, žádnou skutečnou útěchu. A taky se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02kgD44gjnxXCVy4j8PK4UgEcTAZGysqthYTSQHgfiycUbTnNsH1uaXU542eGqV2Wel):
         detail: |
@@ -15842,17 +15142,6 @@ timeline:
         year: "6. září 2025"
         sort: "2025-09-06"
         image: assets/img/timeline/2025-09-06.jpg
-        pictures:
-          - ["2025-09-06-1.jpg", ""]
-          - ["2025-09-06-10.jpg", ""]
-          - ["2025-09-06-2.jpg", ""]
-          - ["2025-09-06-3.jpg", ""]
-          - ["2025-09-06-4.jpg", ""]
-          - ["2025-09-06-5.jpg", ""]
-          - ["2025-09-06-6.jpg", ""]
-          - ["2025-09-06-7.jpg", ""]
-          - ["2025-09-06-8.jpg", ""]
-          - ["2025-09-06-9.jpg", ""]
         desc: |
           Trumpovo ministerstvo obrany sdělilo partnerům, že spojené státy ukončí financování programu obrany zemí sousedících s Ruskem, známého jako „Section 333“. Estonsko a Litva již potvrdily, že rozhodnutí se jich týká. Pentagon je prý informoval, že financování v rámci programu klesne na nulu na začátku nadcházejícího fiskálního roku. V minulých letech přitom baltské státy obdržely skrze program stovky miliónů dolarů na rozvoj svých obranných kapacit. Krok musí ještě schválit americký Kongres. Signál je ale jasný: Trump hodlá nechat Evropu napospas ruské hrozbě. A taky se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid026Fn1NV1dRA6oWTSS6CzXqn9NcL3gSNhDsHaZV6MnGmA5abA6987SiJgqggzTLMajl): 
         detail: |
@@ -15893,8 +15182,6 @@ timeline:
         year: "5. září 2025"
         sort: "2025-09-05"
         image: assets/img/timeline/2025-09-05.jpg
-        pictures:
-          - ["2025-09-05-1.jpg", ""]
         desc: |
           Rusové dnes v Chersonské oblasti zabili dronem ukrajinského farmáře Oleksandra Hordijenka. Jméno vám pravděpodobně nic neřekne, ale nejspíš si vzpomenete na fotku, kde urostlý zralý muž chrání traktory orající pole s brokovnicí v ruce. Oleksandr byl odhodlaný nenechat Rusy, aby ho připravili o jeho živobytí. Za své vlastní peníze nakoupil rušičky, které umístil na auta a zemědělské stroje, ozbrojil se a snažil se sestřelovat FPV drony, které farmáře ohrožovaly. Bohužel se mu jeho odhodlání stalo osudným. Rusko je totiž teroristický stát. A ještě se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid04QyA9nruPFyL2Mef5U19wENsEgf3Gx6aWZkBp8JKzJHAQmAuXbNsRLZc5ygb3Rw8l): 
         detail: |
@@ -15929,8 +15216,6 @@ timeline:
         year: "4. září 2025"
         sort: "2025-09-04"
         image: assets/img/timeline/2025-09-04.jpg
-        pictures:
-          - ["2025-09-04-1.jpg", ""]
         desc: |
           Rusové dnes zasáhli raketami humanitární pracovníky z organizace Danish Refugee Council, kteří pomáhají s likvidací pozemních min v civilních oblastech u Černihivu. Nejméně jeden člověk byl na místě zabit a dva další utrpěli zranění. Všichni přitom měli na sobě modré vesty značící humanitární misi, pohybovali se v bílých civilních autech s dobře čitelným označením a mise byla předem oznámena v komunikačních kanálech, aby se přesně takovému incidentu předešlo. Na tomhle místě se sluší připomenout, že Rusko cíleně útočí na humanitární pracovníky a zejména zdravotníky během celé své existence v jakékoliv válce. Během války v Sýrii to bylo pravidelné téma mnoha mezinárodních reportů a organizace Human Rights Watch k 8. červenci letošního roku evidovala 1 736 zničených zdravotnických zařízení na Ukrajině od začátku invaze. WHO uváděla už k srpnu loňského roku 1 940 útoků, jejichž cílem byli zdravotníci. Ostatně i sami dobrovolníci a humanitární pracovníci vypovídají, že pro ruskou armádu je červený kříž na vozidlech nebo oblečení doslova terč. Podle televize Al Jazeera jsou údery na nemocnice a ambulance systematickou kampaní Kremlu, jak připravit milióny Ukrajinců o přístup ke zdravotní péči a donutit je tak odejít. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0TRBtSYpRSL3vDYP6dzsbBB5fVaUt5qwxRkmC2QEgKNLrro8FYRi4Ho2A9u4xGRAfl): 
         detail: |
@@ -15964,17 +15249,6 @@ timeline:
         year: "3. září 2025"
         sort: "2025-09-03"
         image: assets/img/timeline/2025-09-03.jpg
-        pictures:
-          - ["2025-09-03-1.jpg", ""]
-          - ["2025-09-03-10.jpg", ""]
-          - ["2025-09-03-2.jpg", ""]
-          - ["2025-09-03-3.jpg", ""]
-          - ["2025-09-03-4.jpg", ""]
-          - ["2025-09-03-5.jpg", ""]
-          - ["2025-09-03-6.jpg", ""]
-          - ["2025-09-03-7.jpg", ""]
-          - ["2025-09-03-8.jpg", ""]
-          - ["2025-09-03-9.jpg", ""]
         desc: |
           Čína uspořádala masivní vojenskou přehlídku – největší ve své historii, kde představila své moderní zbraně včetně výkonných laserů proti letícím cílům nebo raket DF-5C schopných provádět jaderné údery kdekoliv na světě. V rámci obvyklé totalitní schizofrenie pak zakončila přehlídku tím, že nechala vypustit 80 000 holubic míru. Trump přehlídku komentoval na Truth Social vzkazem pro čínského prezidenta: „Prosím, vyřiďte Putinovi a Kim Čong-unovi mé nejvřelejší pozdravy, zatímco spřádáte plány proti Spojeným státům.“ Asi ho naštvalo, že ho nikdo nepozval. Ale teď už další [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02aaJ29CPR4LjizKDNBFjMd7byhp8yWsxRF8waPDPQxrY8RrpkTvFWTkHhbvY9iJf5l): 
         detail: |
@@ -16048,17 +15322,6 @@ timeline:
         year: "1. září 2025"
         sort: "2025-09-01"
         image: assets/img/timeline/2025-09-01.jpg
-        pictures:
-          - ["2025-09-01-1.jpg", ""]
-          - ["2025-09-01-10.jpg", ""]
-          - ["2025-09-01-2.jpg", ""]
-          - ["2025-09-01-3.jpg", ""]
-          - ["2025-09-01-4.jpg", ""]
-          - ["2025-09-01-5.jpg", ""]
-          - ["2025-09-01-6.jpg", ""]
-          - ["2025-09-01-7.jpg", ""]
-          - ["2025-09-01-8.jpg", ""]
-          - ["2025-09-01-9.jpg", ""]
         desc: |
           O novou, vládou kontrolovanou, sociální aplikaci Max od „ruského Facebooku“ vKontakte zatím Rusové nejeví příliš velký zájem, a tak se úřady zuby nehty snaží zajistit, aby si ji co nejvíce Rusů nainstalovalo. V některých menších městech například zastupitelé periodicky vysílají z obecního rozhlasu výzvy ke stažení aplikace. Vláda si také zaplatila desítky influencerů, aby aplikaci vychvalovali mezi mladými diváky. Ani to ale nejspíš nestačilo, protože ruská vláda v červnu přistoupila k radikálnímu kroku: Od prvního září, tedy ode dneška, musí být aplikace Max předinstalovaná na každém telefonu a tabletu prodávaném v Rusku i na okupovaných územích Ukrajiny. Kritici uvnitř i vně Ruska označují Max za „digitální gulag“. Rusko se při jeho vývoji nejspíš inspirovalo podobnými vládními aplikacemi v Číně. Primární účel aplikace je podobný jako u Messengeru od společnosti Meta. Obsahuje ale rozšířené funkcionality a do budoucna se má stát podobnou „superaplikací“ jako je čínský WeChat (a jakou plánoval vytvořit Musk ze svého „X“) – nabídne správu bankovních účtů a plateb, komunikaci s úřady apod., to vše pod drobnohledem ruských zpravodajských služeb a cenzurních úřadů. Jejím vydavatelem je společnost VK, která vlastní veškeré velké ruské sociální sítě: vKontakte, Odnoklassniki i Moj Mir, ale také e-mailovou službu Mail.ru, aplikaci Agent, nejrůznější platformy pro online a mobilní hry, vyhledávače, cloudové služby a podobně. Alespoň jednu z nich používá už teď prakticky každý jeden Rus. Max na konci července používaly 2 milióny Rusů. Digitální totalita pomalu začíná. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid026rq4LRXNsSbmVbkAsLsNFjmCCKbEgWm67uF91idUNNKwQHa5yWPvS6ZwF45q9Jaml): 
         detail: |
@@ -16088,17 +15351,6 @@ timeline:
         year: "31. srpna 2025"
         sort: "2025-08-31"
         image: assets/img/timeline/2025-08-31.jpg
-        pictures:
-          - ["2025-08-31-1.jpg", ""]
-          - ["2025-08-31-10.jpg", ""]
-          - ["2025-08-31-2.jpg", ""]
-          - ["2025-08-31-3.jpg", ""]
-          - ["2025-08-31-4.jpg", ""]
-          - ["2025-08-31-5.jpg", ""]
-          - ["2025-08-31-6.jpg", ""]
-          - ["2025-08-31-7.jpg", ""]
-          - ["2025-08-31-8.jpg", ""]
-          - ["2025-08-31-9.jpg", ""]
         desc: |
           Partyzáni v okupované části Chersonské oblasti informovali o incidentu, který se odehrál mezi dvěma jednotkami ruské armády. Podle partyzánů začala 19. srpna jednotka 24. motorizovaného střeleckého pluku střílet na pozice 127. brigády. Ti si logicky mysleli, že se jedná o ukrajinské sabotéry, a zahájili odvetnou palbu. Ve vzniklé chaotické „bitvě“ bylo zabito 21 okupantů a dalších 17 bylo zraněno a hospitalizováno. Velení teď provádí v jednotkách kontroly a vyslýchá přeživší účastníky. A taky se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0EHSpCmLts2NtetS6hUsRZCEo7XUZ4e4AgFYo7SvgU9VfybCfYn4S1TfqaAdCyKCDl):
         detail: |
@@ -16137,8 +15389,6 @@ timeline:
         year: "30. srpna 2025"
         sort: "2025-08-30"
         image: assets/img/timeline/2025-08-30.jpg
-        pictures:
-          - ["2025-08-30-1.jpg", ""]
         desc: |
           Včera před 11 lety, 29. srpna 2014, se odehrál tzv. Ilovajský masakr. Rusové tehdy obklíčili ukrajinskou armádu u Ilovjasku a bylo dohodnuto, že ukrajinským vojákům bude umožněn bezpečný průchod na vládou kontrolované území. Svoje slovo ale Rusové nedodrželi a namísto toho kolonu stahujících se vojáků rozstříleli těžkým dělostřelectvem v předem zaměřeném koridoru. 366 vojáků bylo na místě zabito, čtyři stovky utrpěly zranění a další tři stovky Rusové po masakru zajali. Je to jeden z mnoha důvodů, proč dnes Ukrajinci nevěří ani nos mezi očima. A jeden z mnoha důvodů, proč bychom ani my neměli Rusku věřit jakékoliv plané řeči o míru. Ale teď už [aktuality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid04ToedBNEornDqHEPRqCSA2rq9DzjruUEMzRhdmosuqRH8oxExar6pQUsUN9TZeaKl):
         detail: |
@@ -16170,29 +15420,6 @@ timeline:
         year: "29. srpna 2025"
         sort: "2025-08-29"
         image: assets/img/timeline/2025-08-29.jpg
-        pictures:
-          - ["2025-08-29-1.jpg", ""]
-          - ["2025-08-29-10.jpg", ""]
-          - ["2025-08-29-11.jpg", ""]
-          - ["2025-08-29-12.jpg", ""]
-          - ["2025-08-29-13.jpg", ""]
-          - ["2025-08-29-14.jpg", ""]
-          - ["2025-08-29-15.jpg", ""]
-          - ["2025-08-29-16.jpg", ""]
-          - ["2025-08-29-17.jpg", ""]
-          - ["2025-08-29-18.jpg", ""]
-          - ["2025-08-29-19.jpg", ""]
-          - ["2025-08-29-2.jpg", ""]
-          - ["2025-08-29-20.jpg", ""]
-          - ["2025-08-29-21.jpg", ""]
-          - ["2025-08-29-22.jpg", ""]
-          - ["2025-08-29-3.jpg", ""]
-          - ["2025-08-29-4.jpg", ""]
-          - ["2025-08-29-5.jpg", ""]
-          - ["2025-08-29-6.jpg", ""]
-          - ["2025-08-29-7.jpg", ""]
-          - ["2025-08-29-8.jpg", ""]
-          - ["2025-08-29-9.jpg", ""]
         desc: |
           Podle deníku The Economist se mise wagnerovců v Mali chýlí ke konci, protože nedokázali zajistit bezpečnost, ale naopak se spousta věcí zhoršila. Počet rebelů narostl, počet civilních obětí se zvýšil čtyřnásobně a wagnerovci rozpoutali kampaň teroru vůči civilní populaci. Navíc se wagnerovcům nepodařilo převzít kontrolu nad zlatými doly jako v Súdánu a Středoafrické republice. Tamější lídr Goïta se prý proto začal poohlížet po nových partnerech, zejména v Turecku a Spojených státech. Vliv Ruska ve světě tak pozvolna slábne. Jen vytrvat. A teď pár dalších [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02PUVqu4PPHKev5i1ghE5ySQWun9yakBQNZWqnWoLqvEjiRz68T1RuAfNZuTtJ4Hxkl). 
         detail: |
@@ -16231,29 +15458,6 @@ timeline:
         year: "28. srpna 2025"
         sort: "2025-08-28"
         image: assets/img/timeline/2025-08-28.jpg
-        pictures:
-          - ["2025-08-28-1.jpg", ""]
-          - ["2025-08-28-10.jpg", ""]
-          - ["2025-08-28-11.jpg", ""]
-          - ["2025-08-28-12.jpg", ""]
-          - ["2025-08-28-13.jpg", ""]
-          - ["2025-08-28-14.jpg", ""]
-          - ["2025-08-28-15.jpg", ""]
-          - ["2025-08-28-16.jpg", ""]
-          - ["2025-08-28-17.jpg", ""]
-          - ["2025-08-28-18.jpg", ""]
-          - ["2025-08-28-19.jpg", ""]
-          - ["2025-08-28-2.jpg", ""]
-          - ["2025-08-28-20.jpg", ""]
-          - ["2025-08-28-21.jpg", ""]
-          - ["2025-08-28-22.jpg", ""]
-          - ["2025-08-28-3.jpg", ""]
-          - ["2025-08-28-4.jpg", ""]
-          - ["2025-08-28-5.jpg", ""]
-          - ["2025-08-28-6.jpg", ""]
-          - ["2025-08-28-7.jpg", ""]
-          - ["2025-08-28-8.jpg", ""]
-          - ["2025-08-28-9.jpg", ""]
         desc: |
           Rusko podniklo další masivní nálet na Ukrajinu. Ve vzduchu bylo v jednu chvíli 598 dronů a 31 balistických raket nebo střel s plochou dráhou letu. Terčem bylo primárně ukrajinské hlavní město, resp. jeho civilní infrastruktura. V Kyjevě dopadly krátce po sobě dvě rakety Iskander-K na bytový dům. Nemohlo tak jít o omyl ani o rakety odvedené z kurzu. Mrtvých je už 18, z toho 4 jsou děti. Poškozena byla také budova, ve které sídlí mise EU pro Ukrajinu nebo Britský koncil, nákupní centrum a zdá se, že Rusové cíleně zasáhli také několik civilních vlaků typu Intercity. Mezi drony, které dopadly na Kyjev, byly také nové ruské proudové drony Geran-3. Vyšetřovatelé v nich objevili kromě jiných západních součástek také čerpadla od německé firmy Bosch nebo motory PBS TJ-40-G2 vyrobené společností PBS Velká Bíteš. Je těžké se při tom čtení nestydět. Ale teď už další [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02pX6oiGqVr67dQnxgWx1TW8BTDP6F3kgF4aA3XwCAM3zVjeFq2XQCBzopqycG62RKl): 
         detail: |
@@ -16288,8 +15492,6 @@ timeline:
         year: "27. srpna 2025"
         sort: "2025-08-27"
         image: assets/img/timeline/2025-08-27.jpg
-        pictures:
-          - ["2025-08-27-1.jpg", ""]
         desc: |
           Ukrajinský voják Serhij Hrebinyk (25 let) přežil 1 157 dní v ruském zajetí ve 4 různých věznicích poté, co ho Rusové zajali při obléhání Mariupolu. Po propuštění a zotavení poskytl rozhovor deníku New York Times. V něm popsal, jak ho během věznění Rusové nesčetněkrát fyzicky týrali, cíleně nechávali hladovět a bili ho tak, až mu začalo uhnívat ucho, následkem čehož zůstalo trvale deformované. Viděl také, jak Rusové utýrali některé spoluvězně k smrti – to když po trýznění vynášeli jejich bezvládná těla. Podle jeho svědectví také ruští dozorci nechávali vězně hrát zápasy ve sportu, a pouze ten, kdo vyhrál, dostal pořádně najíst. Ne, ruská invaze na Ukrajinu opravdu není konflikt, kde „obě strany jsou stejně špatné“. Kdokoliv si tak chce zachovávat domnělou „neutralitu“, chtě nechtě přehlíží naprostou zvrhlost a zločinnost současného Ruska a jeho vládnoucího režimu. Ale teď už [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Mg6M6pqhg18uvSCF8krMyv7SpjmHtTm4HtjiJrLkdZzvMLDUiu1k7VuMNa1Q3LZsl): 
         detail: |
@@ -16370,17 +15572,6 @@ timeline:
         year: "25. srpna 2025" 
         sort: "2025-08-25"
         image: assets/img/timeline/2025-08-25.jpg
-        pictures:
-          - ["2025-08-25-1.jpg", ""]
-          - ["2025-08-25-10.jpg", ""]
-          - ["2025-08-25-2.jpg", ""]
-          - ["2025-08-25-3.jpg", ""]
-          - ["2025-08-25-4.jpg", ""]
-          - ["2025-08-25-5.jpg", ""]
-          - ["2025-08-25-6.jpg", ""]
-          - ["2025-08-25-7.jpg", ""]
-          - ["2025-08-25-8.jpg", ""]
-          - ["2025-08-25-9.jpg", ""]
         desc: |
           Švédský ostrov Gotland, který se nachází uprostřed Baltského moře, se z neznámého důvodu ocitl v sobotu kompletně bez dodávek elektřiny. Údajně se přerušilo podmořské spojení ostrova se švédskou pevninou. Výpadek každopádně ohrozil také dodávky pitné vody, a tak úřady varovaly obyvatele, aby s vodou šetřili. Po půlnoci se pak podařilo dodávky elektřiny obnovit. Jen pár dní předtím (18. srpna) přitom norská rybářská loď zachytila na fotografiích ruskou minolovku a podpůrný remorkér, jak se pomalu plaví v místech, kde se nacházejí norské podmořské kabely a plynovody. Může jít samozřejmě pouze o náhodný sled událostí, ale jelikož Rusko už baltskou podmořskou infrastrukturu poškodilo v minulých letech několikrát, je na místě předpokládat, že spolu vše souvisí. Ale teď už další [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0G2njxxcwfrAYA8MMckKEzrs9uUqgrhoi1g84VoFb2skn44ptgntN8ojK3j99j2jfl): 
         detail: |
