@@ -38,6 +38,35 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek"
+        year: "16. října 2026"
+        sort: "2026-10-16"
+        image: assets/img/timeline/2026-10-16.jpg
+        podcast: "2026-10-16.mp3"
+        desc: |
+          Nad Moskvou se v noci de facto zavřelo nebe. Letiště Vnukovo, Domodědovo, Žukovskij i Šeremetěvo přes noc zrušily veškeré odlety i přílety. Zelenský už v září sliboval, že ruské nebe bude dalším cílem, a vypadá to, že to nebylo jen ukazování svalů pro domácí publikum. Primátor Moskvy Sergej Sobjanin se chlubil, že protivzdušná obrana nad hlavním městem zneškodnila víc než 59 dronů. Terčem noci bylo i datacentrum Yandexu ve Vladimirské oblasti, asi 500 kilometrů od ukrajinských hranic. Podle monitorovacích kanálů ExileNova+ a SuperNova+ to bylo už potřetí během několika dnů po úderech v Rjazaňské a Kalužské oblasti a po zásahu z 11. října, po němž Yandex sám přiznal, že provoz na místě „úplně zastavil“. V Rostovské oblasti podle gubernátora Jurije Slusara hořelo po zásahu výrobních a skladovacích objektů v Aksaji, terčem byly také Čertkovský rajón a Batajsk. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02ntkumpDAgh9DoHFMHasvgVntvzP2oWvcyrsJfEH8RXFWGUS4k9JbGoQtDP2o7Xmul):
+        detail: |
+          - Rusko poslalo na Ukrajinu 149 dronů typu Shahed, z toho 108 proudových. Vzdušné síly ohlásily 114 zneškodněných. Zásahy jsou hlášeny z 24 míst a celkem z devíti oblastí. Nejhůř odnesla dnešní noc Volyň, kde proudové drony zasáhly dvacet lokalit a bez elektřiny zůstalo kolem 370 tisíc lidí. V Umani zasáhl dron bytový dům, pět lidí je zraněno, tři skončili v nemocnici a jednoho muže hasiči vytáhli zpod trosek. V Šepetivském rajónu Chmelnické oblasti hořel ropný sklad, v Kyjevě zakládaly padající trosky požáry v Ševčenkivském a Svjatošynském rajónu a na pravém břehu klesl tlak vody. Výbuchy hlásili obyvatelé z Lucku, Rivne, Ivano-Frankivsku a Čerkas, dvakrát byl terčem Čortkiv v Ternopilské oblasti. V Charkově byl zasažen bleší trh. Při úderu zemřely dvě ženy ve věku 71 a 58 let. 
+          - Na bruselském summitu o zmrazených ruských aktivech se o ničem nerozhodlo. Belgie, u níž většina peněz leží, zůstává zásadně proti a požaduje od ostatních členských států nelimitované garance, zdrženlivá je Francie i Itálie. Pro využití aktiv jsou naopak Německo, Španělsko, Nizozemsko, severské a baltské státy. Ursula von der Leyenová oznámila, že se pracuje na 22. sankčním balíku, a dodala, že „nezruší žádné sankce, dokud Rusko nezastaví válku“. Kaja Kallasová připustila, že spolupráce EU a USA na Ukrajině je teď „velmi obtížná“ - a není se čemu divit, protože podle Financial Times američtí vyjednavači navrhli, že by se část zmrazených aktiv mohla Moskvě uvolnit jako pobídka k jednání. Evropané to nicméně rázně odmítli. 
+          - Pokyn omezit ukrajinské armádě přístup ke Starshieldu, vojenské verzi Starlinku, přišel z Bílého domu. Reuters to tvrdí s odvoláním na dva americké a jednoho západního představitele: Pentagon dostal příkaz, že služba má být zpomalena. Kdo konkrétně za tím stál, zdroje neřekly, ale údajně nešlo o pokyn samotného Trumpa. Elon Musk na síti X napsal, že o limitech rozhoduje americká armáda a v konečném důsledku prezident, a že Starlink „nelze používat k ofenzivní vojenské akci“. Poradce prezidenta Serhij Beskrestnov alias Flash mluvil o několika zásadně narušených misích, ministerstvo obrany později tvrdilo, že konektivita je obnovená a funguje. 
+          - Zelenskyj se v Bruselu poprvé sešel tváří v tvář s maďarským premiérem Péterem Magyarem. Schůzka přišla po tom, co Verchovna rada schválila zákon o vzdělávacích právech národnostních menšin, který si Budapešť vymínila jako podmínku pro posun v přístupových rozhovorech. Magyar to označil za „první krok k obnovení vzájemné důvěry“ a vyjádřil Ukrajině solidaritu proti ruské agresi. Maďarsko po přijetí zákona pustilo otevření dalších dvou vyjednávacích klastrů, které formálně začaly 13. října. 
+          - Andrej Babiš se v Bruselu ohradil proti miliardám pro Ukrajinu v příštím sedmiletém rozpočtu EU. Odmítl částku 100 miliard eur s tím, že by se na ni muselo půjčit, že členské státy nemají dost peněz a že Česko financování garantovat nebude. Čísla jsou mimochodem už dávno jiná: Komise sumu v červnu srazila na 89 miliard eur. Podpora Ukrajiny přitom do Babišova vystoupení vypadala jako jedna z mála věcí, na kterých se v Unii shodnou všichni.
+          - Ukrajina není první ve frontě na americké protivzdušné střely. „Nejsme číslo jedna, když jde o rozdělování PAC-2 a PAC-3,“ řekl Zelenský v Bruselu s tím, že většina jich míří na Blízký východ. Ukrajina je dostává z USA přes evropsky financovaný program PURL a od dalších partnerů po dvou, pěti nebo deseti kusech podle toho, co komu zbývá. 
+          - Čtyři ruské drony v noci narušily moldavský vzdušný prostor. Tři přeletěly mezi 23:02 a 3:46 a vrátily se nad Ukrajinu, čtvrtý vlétl do Moldavska v 5:59, znovu v 6:09 a pak také zamířil zpátky.
+          - Podle investigativy deníku Kyiv Post nabídla jistá čínská firma Rusku dronové technologie v hodnotě 2,9 milionu dolarů pro útoky hluboko na ukrajinském území.
+          - Rusko postavilo poblíž ukrajinských hranic novou velkou základnu pro odpalování proudových dronů, a to za pouhých šest týdnů.
+          - Emmanuel Macron prohlásil, že Ukrajina musí mít „všechny prostředky“ k obraně, a slíbil novou pomoc v oblasti letectví.
+          - Zelenského se nečekaně zastal Lukašenko, když prohlásil, že ukrajinského prezidenta si vybírá lid Ukrajiny a ne Trump. 
+          - Sergej Lavrov vyloučil jakékoli zastavení palby a zkritizoval Zelenského odpor k americko-ruské dohodě o naftě.
+          - Státy G7 slíbily 260 milionů eur na opravu bezpečnostního krytu nad Černobylem, který poškodil ruský dron.
+          - V Kyjevě začala topná sezóna. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1016721907427497908)
+          - [Charkov](https://pixelfed.cz/p/dnesnaukrajine/1016720791659341722)
+          - [Mínus rafinérka](https://pixelfed.cz/p/dnesnaukrajine/1016720826801731483)
+          - [Objetí se všemi, kromě Babiše](https://pixelfed.cz/p/dnesnaukrajine/1016720871962486684)
+          - [Nemilé](https://pixelfed.cz/p/dnesnaukrajine/1016720944883181471)
+          - [Rjazaň](https://pixelfed.cz/p/dnesnaukrajine/1016720967189735330)
       - title: "Čtvrtek"
         year: "15. října 2026"
         sort: "2026-10-15"
