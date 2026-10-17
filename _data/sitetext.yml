@@ -4726,6 +4726,11 @@ timeline:
       - title: "Pátek"
         year: "12. června 2026"
         sort: "2026-06-12"
+        pictures:
+          - ["2026-06-12-1.jpg", ""]
+          - ["2026-06-12-2.jpg", ""]
+          - ["2026-06-12-3.jpg", ""]
+          - ["2026-06-12-4.jpg", ""]
         image: assets/img/timeline/2026-06-12.jpg
         podcast: "2026-06-12.mp3"
         desc: |
@@ -4841,6 +4846,11 @@ timeline:
       - title: "Úterý"
         year: "9. června 2026"
         sort: "2026-06-09"
+        pictures:
+          - ["2026-06-09-1.jpg", ""]
+          - ["2026-06-09-2.jpg", ""]
+          - ["2026-06-09-3.jpg", ""]
+          - ["2026-06-09-4.jpg", ""]
         image: assets/img/timeline/2026-06-09.jpg
         podcast: "2026-06-09.mp3"
         desc: |
@@ -5168,6 +5178,11 @@ timeline:
       - title: "Pondělí"
         year: "1. června 2026"
         sort: "2026-06-01"
+        pictures:
+          - ["2026-06-01-1.jpg", ""]
+          - ["2026-06-01-2.jpg", ""]
+          - ["2026-06-01-3.jpg", ""]
+          - ["2026-06-01-4.jpg", ""]
         image: assets/img/timeline/2026-06-01.jpg
         podcast: "2026-06-01.mp3"
         desc: |
@@ -5244,6 +5259,11 @@ timeline:
         sort: "2026-05-30"
         image: assets/img/timeline/2026-05-30.jpg
         podcast: "2026-05-30.mp3"
+        pictures:
+          - ["2026-05-30-1.jpg", ""]
+          - ["2026-05-30-2.jpg", ""]
+          - ["2026-05-30-3.jpg", ""]
+          - ["2026-05-30-4.jpg", ""]
         desc: |
           Ukrajinci v noci podnikli úspěšný nálet na několik cílů v Taganrogu v Rostovské oblasti. Zasažen byl tamější přístav a také vojenské letiště. V důsledku toho byly zničeny dva ruské strategické bombardéry Tu-142 „Bear“, odpalovač raket Iskander, tanker s ropou, skladiště paliv a část přístavní infrastruktury. Prostě dobrý start dne. A taky se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02cN5vTRnhh8mNq4hGdAYmPRUG2CssCR9UvsoghFiLtERdBS8jESd6EzYi53Ga3Mmvl): 
         detail: |
@@ -5407,6 +5427,11 @@ timeline:
         sort: "2026-05-26"
         image: assets/img/timeline/2026-05-26.jpg
         podcast: "2026-05-26.mp3"
+        pictures:
+          - ["2026-05-26-1.jpg", ""]
+          - ["2026-05-26-2.jpg", ""]
+          - ["2026-05-26-3.jpg", ""]
+          - ["2026-05-26-4.jpg", ""]
         desc: |
           Nová mapa, kterou zveřejnil ruský vojenský bloger Rybář, a jejíž informace potvrzují i další ruské vojenské kanály, ukazuje hned dvě důležité věci. Jednak dokládá to, že ukrajinské drony nyní působí citelné ztráty ruské logistice hluboko v ruském týle. Zároveň ale naznačuje, že ukrajinský protiútok jižně od Záporoží je mnohem větší a úspěšnější, než se dosud předpokládalo. Ukrajinci drží veškeré informace pod pokličkou, Rybář ale tvrdí, že Ukrajinci prolomili ruskou obranu v sektoru u městečka Stepnove a podnikají výpady dál na jih. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid08pzk3ttKHhjLmX1XX3mevxP9wPbentYXMbWyU7o7NP4kG7pekM7WqkvfSKyk2mnTl): 
         detail: |
@@ -5440,6 +5465,11 @@ timeline:
         sort: "2026-05-25"
         image: assets/img/timeline/2026-05-25.jpg
         podcast: "2026-05-25.mp3"
+        pictures:
+          - ["2026-05-25-1.jpg", ""]
+          - ["2026-05-25-2.jpg", ""]
+          - ["2026-05-25-3.jpg", ""]
+          - ["2026-05-25-4.jpg", ""]
         desc: |
           Rusko se zoufale snaží využít nedávnou událost, při které Ukrajinci zasáhli základnu elitní ruské jednotky dronařů Rubikon v okupovaném Starobilsku. Rubikon si zřídil dočasnou základnu v budově vysokoškolských kolejí, kterou zároveň využíval jako náborové středisko pro nové piloty z řad studentů. Důkazy o tom, že to tak skutečně bylo, v minulosti zveřejnili sami Rusové na svých sociálních sítích. Nyní se ale snaží všechny důkazy smazat, protože potřebují prodat světu jiný příběh: O tom, jak „nacistická Ukrajina zabila nevinné děti“. A neštítí se k tomu zneužívat ani podobizny lidí, které sami Rusové v minulosti zabili. Mezi portréty údajných obětí náletu je také nejméně šest mladých Ukrajinců a Ukrajinek, jejichž fotky Rusové náhodně posbírali na internetu a nemají se Starobilskem jakékoliv propojení, natož aby byli na místě v době náletu. Rusové včera navozili na místo „nezávislé zahraniční novináře“, mezi kterými jsou obvyklé tváře, které Rusové využívají pro různé role ve své propagandě. Prostě Rusko. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02ughyhbPzZsSfC1UxyFZLcsxdTeeiZTNbBk6QtGRXFAyAVkGY4CNhLxkypaoeRZUVl): 
         detail: |
@@ -5509,6 +5539,11 @@ timeline:
         sort: "2026-05-23"
         image: assets/img/timeline/2026-05-23.jpg
         podcast: "2026-05-23.mp3"
+        pictures:
+          - ["2026-05-23-1.jpg", ""]
+          - ["2026-05-23-2.jpg", ""]
+          - ["2026-05-23-3.jpg", ""]
+          - ["2026-05-23-4.jpg", ""]
         desc: |
           Ukrajinský prezident oznámil, že se objevují známky příprav na kombinovaný útok na Ukrajinu, včetně Kyjeva, s využitím různých druhů zbraní, a to včetně systému Orešnik. Americké velvyslanectví v Kyjevě vzápětí varovalo před potenciálně rozsáhlým útokem, k němuž by mohlo dojít v příštích 24 hodinách. V době psaní reportu už se v Kyjevě ozývaly první výbuchy. O rozsahu útoku ale budeme vědět až ráno. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02kX55uJRokA1cff3oUBRdEdoFsf4pDTYxY4zVwEf2y4jcWc6mXFc9LaFLTFbESuQ1l): 
         detail: |
