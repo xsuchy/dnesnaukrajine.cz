@@ -4248,6 +4248,10 @@ timeline:
       - title: "Čtvrtek"
         year: "25. června 2026"
         sort: "2026-06-25"
+        pictures:
+          - ["2026-06-25-1.jpg", ""]
+          - ["2026-06-25-2.jpg", ""]
+          - ["2026-06-25-3.jpg", ""]
         image: assets/img/timeline/2026-06-25.jpg
         podcast: "2026-06-25.mp3"
         desc: |
@@ -4282,6 +4286,11 @@ timeline:
       - title: "Středa"
         year: "24. června 2026"
         sort: "2026-06-24"
+        pictures:
+          - ["2026-06-24-1.jpg", ""]
+          - ["2026-06-24-2.jpg", ""]
+          - ["2026-06-24-3.jpg", ""]
+          - ["2026-06-24-4.jpg", ""]
         image: assets/img/timeline/2026-06-24.jpg
         podcast: "2026-06-24.mp3"
         desc: |
@@ -4313,6 +4322,11 @@ timeline:
       - title: "Úterý"
         year: "23. června 2026"
         sort: "2026-06-23"
+        pictures:
+          - ["2026-06-23-1.jpg", ""]
+          - ["2026-06-23-2.jpg", ""]
+          - ["2026-06-23-3.jpg", ""]
+          - ["2026-06-23-4.jpg", ""]
         image: assets/img/timeline/2026-06-23.jpg
         podcast: "2026-06-23.mp3"
         desc: |
@@ -4377,6 +4391,11 @@ timeline:
       - title: "Neděle"
         year: "21. června 2026"
         sort: "2026-06-21"
+        pictures:
+          - ["2026-06-21-1.jpg", ""]
+          - ["2026-06-21-2.jpg", ""]
+          - ["2026-06-21-3.jpg", ""]
+          - ["2026-06-21-4.jpg", ""]
         image: assets/img/timeline/2026-06-21.jpg
         podcast: "2026-06-21.mp3"
         desc: |
