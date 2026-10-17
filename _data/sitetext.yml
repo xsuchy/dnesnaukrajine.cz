@@ -42,7 +42,6 @@ timeline:
         year: "17. října 2026"
         sort: "2026-10-17"
         pictures:
-          - ["2026-10-17-1.jpg", ""]
           - ["2026-10-17-2.jpg", ""]
           - ["2026-10-17-3.jpg", ""]
           - ["2026-10-17-4.jpg", ""]
@@ -4104,6 +4103,11 @@ timeline:
       - title: "Pondělí"
         year: "29. června 2026"
         sort: "2026-06-29"
+        pictures:
+          - ["2026-06-29-1.jpg", ""]
+          - ["2026-06-29-2.jpg", ""]
+          - ["2026-06-29-3.jpg", ""]
+          - ["2026-06-29-4.jpg", ""]
         image: assets/img/timeline/2026-06-29.jpg
         podcast: "2026-06-29.mp3"
         desc: |
@@ -4134,6 +4138,10 @@ timeline:
       - title: "Neděle"
         year: "28. června 2026"
         sort: "2026-06-28"
+        pictures:
+          - ["2026-06-28-1.jpg", ""]
+          - ["2026-06-28-2.jpg", ""]
+          - ["2026-06-28-3.jpg", ""]
         image: assets/img/timeline/2026-06-28.jpg
         podcast: "2026-06-28.mp3"
         desc: |
@@ -4162,6 +4170,11 @@ timeline:
       - title: "Sobota"
         year: "27. června 2026"
         sort: "2026-06-27"
+        pictures:
+          - ["2026-06-27-1.jpg", ""]
+          - ["2026-06-27-2.jpg", ""]
+          - ["2026-06-27-3.jpg", ""]
+          - ["2026-06-27-4.jpg", ""]
         image: assets/img/timeline/2026-06-27.jpg
         podcast: "2026-06-27.mp3"
         desc: |
@@ -4200,6 +4213,11 @@ timeline:
       - title: "Pátek"
         year: "26. června 2026"
         sort: "2026-06-26"
+        pictures:
+          - ["2026-06-26-1.jpg", ""]
+          - ["2026-06-26-2.jpg", ""]
+          - ["2026-06-26-3.jpg", ""]
+          - ["2026-06-26-4.jpg", ""]
         image: assets/img/timeline/2026-06-26.jpg
         podcast: "2026-06-26.mp3"
         desc: |
