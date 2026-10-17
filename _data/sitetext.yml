@@ -3958,6 +3958,11 @@ timeline:
       - title: "Pátek"
         year: "3. července 2026"
         sort: "2026-07-03"
+        pictures:
+          - ["2026-07-03-1.jpg", ""]
+          - ["2026-07-03-2.jpg", ""]
+          - ["2026-07-03-3.jpg", ""]
+          - ["2026-07-03-4.jpg", ""]
         image: assets/img/timeline/2026-07-03.jpg
         podcast: "2026-07-03.mp3"
         desc: |
@@ -3989,6 +3994,12 @@ timeline:
       - title: "Čtvrtek"
         year: "2. července 2026"
         sort: "2026-07-02"
+        pictures:
+          - ["2026-07-02-1.jpg", ""]
+          - ["2026-07-02-2.jpg", ""]
+          - ["2026-07-02-3.jpg", ""]
+          - ["2026-07-02-4.jpg", ""]
+          - ["2026-07-02-5.jpg", ""]
         image: assets/img/timeline/2026-07-02.jpg
         podcast: "2026-07-02.mp3"
         desc: |
@@ -4055,6 +4066,11 @@ timeline:
       - title: "Úterý"
         year: "30. června 2026"
         sort: "2026-06-30"
+        pictures:
+          - ["2026-06-30-1.jpg", ""]
+          - ["2026-06-30-2.jpg", ""]
+          - ["2026-06-30-3.jpg", ""]
+          - ["2026-06-30-4.jpg", ""]
         image: assets/img/timeline/2026-06-30.jpg
         podcast: "2026-06-30.mp3"
         desc: |
