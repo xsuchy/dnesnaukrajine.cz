@@ -41,6 +41,11 @@ timeline:
       - title: "Sobota"
         year: "17. října 2026"
         sort: "2026-10-17"
+        pictures:
+          - ["2026-10-17-1.jpg", ""]
+          - ["2026-10-17-2.jpg", ""]
+          - ["2026-10-17-3.jpg", ""]
+          - ["2026-10-17-4.jpg", ""]
         image: assets/img/timeline/2026-10-17.jpg
         podcast: "2026-10-16.mp3"
         desc: |
@@ -2818,6 +2823,11 @@ timeline:
       - title: "Sobota"
         year: "1. srpna 2026"
         sort: "2026-08-01"
+        pictures:
+          - ["2026-08-01-1.jpg", ""]
+          - ["2026-08-01-2.jpg", ""]
+          - ["2026-08-01-3.jpg", ""]
+          - ["2026-08-01-4.jpg", ""]
         image: assets/img/timeline/2026-08-01.jpg
         podcast: "2026-08-01.mp3"
         desc: |
@@ -3564,6 +3574,11 @@ timeline:
       - title: "Pondělí"
         year: "13. července 2026" 
         sort: "2026-07-13"
+        pictures:
+          - ["2026-07-13-1.jpg", ""]
+          - ["2026-07-13-2.jpg", ""]
+          - ["2026-07-13-3.jpg", ""]
+          - ["2026-07-13-4.jpg", ""]
         image: assets/img/timeline/2026-07-13.jpg
         podcast: "2026-07-13.mp3"
         desc: |
@@ -3599,6 +3614,11 @@ timeline:
       - title: "Neděle"
         year: "12. července 2026"
         sort: "2026-07-12"
+        pictures:
+          - ["2026-07-12-1.jpg", ""]
+          - ["2026-07-12-2.jpg", ""]
+          - ["2026-07-12-3.jpg", ""]
+          - ["2026-07-12-4.jpg", ""]
         image: assets/img/timeline/2026-07-12.jpg
         podcast: "2026-07-12.mp3"
         desc: |
