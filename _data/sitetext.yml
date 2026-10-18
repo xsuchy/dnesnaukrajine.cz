@@ -42240,6 +42240,11 @@ timeline:
       - title: "Středa"
         year: "27. září 2023"
         sort: "2023-09-27"
+        pictures:
+          - ["2023-09-27-1.jpg", ""]
+          - ["2023-09-27-2.jpg", ""]
+          - ["2023-09-27-3.jpg", ""]
+          - ["2023-09-27-4.jpg", ""]
         image: assets/img/timeline/2023-09-27.jpg
         desc: |
           Ruské kanály hlásí, že Ukrajinci obnovili ofenzivu u Verbového a Novoprokopivky. Ukrajinci to potvrzují, ale podle prezidenta Zelenského se uvedl do pohybu i další, blíže nespecifikovaný plán. Jedno z videí dokonce zachytilo zničení ruského tanku ukrajinskou střelou na jižním cípu Novoprokopivky. Je tedy možné, že Ukrajinci už drží pozice v samotné vesnici, resp. jejích ruinách. Rusové každopádně stahují další jednotky do okupovaného Tokmaku, což dává tušit, že průlom obrany berou jako pravděpodobný výsledek budoucích ukrajinských akcí. Už aby to bylo. Ale teď pár [aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0VDiM7GSt7vW7JGL35mP5kcqCaH6ze9wjmpKEFi8tbcpqyh5cR7FtPgSyQ2UyaKvml): 
@@ -43816,7 +43821,13 @@ timeline:
       - title: "Pátek"
         year: "18. srpen 2023"
         sort: "2023-08-18"
+        pictures:
+          - ["2023-08-18-1.jpg", ""]
+          - ["2023-08-18-2.jpg", ""]
+          - ["2023-08-18-3.jpg", ""]
+          - ["2023-08-18-4.jpg", ""]
         image: assets/img/timeline/2023-08-18.jpg
+        # https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02AuRf6hEvSTJqfACbjDxrq3SJkJ1rYBP6ys1H8ZLbAoZgVa6VDV3UgdJV9Ey3PS5Bl
         desc: |
           Český Nejvyšší správní soud nedávno potvrdil rozsudky z nižších instancí, že vypnutí dezinformačních webů po začátku ruské invaze, nebylo v rozporu se zákonem. Osm hlavních dezinformačních webů tehdy bylo odpojeno od české domény a defacto znepřístupněno pro jejich čtenáře, a to na celé tři měsíce. Bohužel od té doby jsou dávno zpátky v provozu a valí do méně vzdělané části populace – své hlavní cílové skupiny – ruskou propagandu v objemu ještě větším než před válkou. Ve sněmovně sice v minulých měsících byly snahy přijmout legislativu, která by boj s dezinformacemi umožnila, ale narazily na odpor hlavně vládní ODS. A tak si dál necháváme radikalizovat nižší střední třídu ruskými výmysly a působit neopravitelné rozkoly v rodinách. V online světě se přitom války dávno přelily do informačního prostoru, kde působí nevratné škody primárně demokraciím, které se na rozdíl od totalitních států, nedokáží proti nepřátelskému působení účinně bránit. A po příštích volbách můžeme sotva čekat, že se to změní. A to i ve světle takového dění: 
         detail: |
@@ -44456,9 +44467,14 @@ timeline:
       - title: "Středa"
         year: "2. srpen 2023"
         sort: "2023-08-02"
+        pictures:
+          - ["2023-08-02-1.jpg", ""]
+          - ["2023-08-02-2.jpg", ""]
+          - ["2023-08-02-3.jpg", ""]
+          - ["2023-08-02-4.jpg", ""]
         image: assets/img/timeline/2023-08-02.jpg
         desc: |
-          Zatímco si Polsko včera připomínalo výročí Varšavského povstání, dvě nízko letící běloruské helikoptéry cíleně narušily polský vzdušný prostor u obce Białowieża, Bělorusko nejdřív incident popřelo, ale když se objevily fotky a videa, oznámilo, že čeká na reakci Polska. Polsko si kvůli tomu předvolalo běloruského velvyslance. Zároveň na sítích kolovaly fotografie, které měly zachycovat wagnerovce u polského hraničního kamene, nicméně si ukázalo, že jde o podvrh. Na fotce byl polský pohraničník, kterému kdosi digitálně upravil nášivky a vlajky na výstroji. Polsko také o incidentu informovalo NATO a přesouvá na hranice s Běloruskem další vojáky. Já jen doufám, že při příští provokaci přivítá běloruské helikoptéry v Polsku raketa země-vzduch. Ale teď už novinky: 
+          Zatímco si Polsko včera připomínalo výročí Varšavského povstání, dvě nízko letící běloruské helikoptéry cíleně narušily polský vzdušný prostor u obce Białowieża, Bělorusko nejdřív incident popřelo, ale když se objevily fotky a videa, oznámilo, že čeká na reakci Polska. Polsko si kvůli tomu předvolalo běloruského velvyslance. Zároveň na sítích kolovaly fotografie, které měly zachycovat wagnerovce u polského hraničního kamene, nicméně si ukázalo, že jde o podvrh. Na fotce byl polský pohraničník, kterému kdosi digitálně upravil nášivky a vlajky na výstroji. Polsko také o incidentu informovalo NATO a přesouvá na hranice s Běloruskem další vojáky. Já jen doufám, že při příští provokaci přivítá běloruské helikoptéry v Polsku raketa země-vzduch. Ale teď už [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0hMTquFxaXyraEWeTMVdbnZ6xEzUiWhHUrJ1gnteYwkaP6VBQempffNS3H3u5Ec5ul): 
         detail: |
           - Rusové včera tvrdili, že námořní drony, které napadly jejich lodě v Černém moři, byly zneškodněny. Ukrajinci ale zveřejnili nahrávku údajného odposlechu ruských vojenských kanálů, na kterém posádka jedné z lodí žádá o evakuaci jednoho mrtvého a pětice raněných námořníků. Pokud je nahrávka pravdivá, pak minimálně jeden z dronů zasáhl jednu z lodí a pravděpodobně ji i poškodil. 
           - Video z dronu zachytilo moment, kdy 5 raket HIMARS naváděných dronem zasáhlo ruské cvičiště na ostrově Džarylhač na jihu Chersonské oblasti. Dá se předpokládat, že při útoku utrpělo Rusko ztráty čítající až desítky mužů (některé reporty uvádí až 200 mrtvých a raněných) a několik kusů techniky. 
@@ -44999,9 +45015,14 @@ timeline:
       - title: "Čtvrtek"
         year: "20. červenec 2023"
         sort: "2023-07-20"
+        pictures:
+          - ["2023-07-20-1.jpg", ""]
+          - ["2023-07-20-2.jpg", ""]
+          - ["2023-07-20-3.jpg", ""]
+          - ["2023-07-20-4.jpg", ""]
         image: assets/img/timeline/2023-07-20.jpg
         desc: |
-          Rusko oznámilo, že jakékoliv lodě v Černé moři plující směrem k ukrajinským přístavům, bude ode dneška považovat za vojenské cíle, protož můžou podle Ruska potenciálně vézt náklad vojenského charakteru. Zároveň bude prý každý stát, pod jehož vlajkou taková loď pluje, Rusko automaticky považovat za aktivně se účastnící války na straně Ukrajiny. Putinovo fašistické Rusko tím značně zesílilo svoje vydírání hladem, zároveň ale Putin oznámil podmínky, za kterých je Rusko ochotno vrátit se k obilné dohodě: Zrušení sankcí na vybrané firmy a produkty (například hnojiva nebo obilí), připojení ruských bank k systému SWIFT, zrušení zákazu na export součástek pro zemědělské stroje do Ruska, obnovení exportu Ruských potravin na Západ a obnovení toku čpavku v potrubí vedoucím z ruského Togliati do Oděsy. Pevně doufám, že Západ se Putinem vydírat nenechá a zajistí bezpečný export ukrajinského obilí Rusku navzdory. Ale teď už pár aktualit:
+          Rusko oznámilo, že jakékoliv lodě v Černé moři plující směrem k ukrajinským přístavům, bude ode dneška považovat za vojenské cíle, protož můžou podle Ruska potenciálně vézt náklad vojenského charakteru. Zároveň bude prý každý stát, pod jehož vlajkou taková loď pluje, Rusko automaticky považovat za aktivně se účastnící války na straně Ukrajiny. Putinovo fašistické Rusko tím značně zesílilo svoje vydírání hladem, zároveň ale Putin oznámil podmínky, za kterých je Rusko ochotno vrátit se k obilné dohodě: Zrušení sankcí na vybrané firmy a produkty (například hnojiva nebo obilí), připojení ruských bank k systému SWIFT, zrušení zákazu na export součástek pro zemědělské stroje do Ruska, obnovení exportu Ruských potravin na Západ a obnovení toku čpavku v potrubí vedoucím z ruského Togliati do Oděsy. Pevně doufám, že Západ se Putinem vydírat nenechá a zajistí bezpečný export ukrajinského obilí Rusku navzdory. Ale teď už pár [aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid038KNRf1LRRhWLQYTcFqV8FoJAxqF5Cz8RCM93T8s5oe3JBa1eV6oKjn1qmNgVDF4Sl):
         detail: |
           - Prigožin se objevil na videu z Běloruska, na kterém mluví k tamějším vojákům. Situaci na frontě označil za naprosto hanebnou a sdělil, že po asistenci s výcvikem běloruské armády se wagnerovci vrátí do Afriky. Na ukrajinskou frontu se podle něj wagnerovci vrátí, jen pokud se současná situace zásadně změní.
           - Spojené státy poskytnou v rámci nového balíku vojenské pomoci Ukrajině 4 baterie systémů NASAMS a další kamikadze drony Switchblade, také desítky obrněných vozidel, prostředky pro odminování, boj s drony a velkou zásilku munice do 155mm děl.
