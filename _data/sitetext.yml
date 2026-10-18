@@ -38,11 +38,11 @@ timeline:
     section: timeline
     start_align: "left"
     events:
-      - title: "Sobota" 
-        year: "17. října 2026"
-        sort: "2026-10-17"
-        image: assets/img/timeline/2026-10-17.jpg
-        podcast: "2026-10-16.mp3"
+      - title: "Neděle" 
+        year: "18. října 2026"
+        sort: "2026-10-18"
+        image: assets/img/timeline/2026-10-18.jpg
+        podcast: "2026-10-18.mp3"
         desc: |
           Na Rusko letělo více než tisíc dronů, šlo o jeden z největších úderů celé války. V Petrohradu hořel po zásahu petrohradský ropný terminál s roční propustností 12,5 milionu tun a kapacitou nádrží 442 tisíc kubíků, palivový sklad Ručji s 36 nádržemi, logistické centrum Ozonu v Kolpinu a datové centrum sítě VKontakte v Novosergijevce se čtyřmi halami a více než dvaceti tisíci servery. Zásah dostala také rozvodna Vostočnaja a dvě rozvodny v Janinu, bez proudu zůstalo asi dvacet tisíc lidí a síť VK mezi třetí a pátou ranní vypadávala. Jeden z dronů zasáhl i most přes Korabelný. Guvernér Alexandr Beglov hlásí jednoho mrtvého, pět zraněných a dvanáct poškozených bytových domů, jeho leningradský kolega Alexandr Drozděnko 127 sestřelených dronů nad regionem a ruské ministerstvo obrany celkem 1 015 dronů nad patnácti regiony, Krymem a Černým mořem. Agentura TASS označila útok za největší za celé čtyři roky. Ukrajinský výrobce Fire Point tvrdí, že použil primárně svůj dron FP-1. Dmitrij Peskov to okomentoval s obvyklou nonšalancí: „Kyjev sice klade odpor, ale nemůže změnit současný průběh událostí.“ No, uvidíme. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02ZNxXgyPyJAuWeNFd9NrubzyozebEN78ppsZVdTnUTRP14hboxjvpQ3eAXdKEncj1l):
         detail: |
@@ -83,7 +83,7 @@ timeline:
           - ["2026-10-17-3.jpg", ""]
           - ["2026-10-17-4.jpg", ""]
         image: assets/img/timeline/2026-10-17.jpg
-        podcast: "2026-10-16.mp3"
+        podcast: "2026-10-17.mp3"
         desc: |
           Rusko se v noci pokusilo o blackout na Ukrajině. Od sedmi večer do sedmi ráno poslalo na Ukrajinu víc než 320 dronů, řízených a balistických raket a zasáhlo přes patnáct objektů výroby a přenosu elektřiny. Zelenskyj to označil za jeden z největších útoků na ukrajinskou energetiku vůbec. Vzdušné síly hlásí 332 dronů, z nichž 289 sestřelily, zásahy jsou hlášeny z 22 míst a trosky spadly na tři další. Nejhůř to odnesly Luck, Rivne, Žytomyr, Vinnycja, Šepetivka, Slavuta a Netišyn, údery dostaly i Charkovská, Kyjevská a Dnipropetrovská oblast. Za poslední den zahynulo sedm lidí a asi devadesát jich je zraněných. Vinnycká hejtmanka Natalia Zabolotna mluví o jednom z největších útoků na region od začátku invaze. A přesně ve chvíli, kdy ukrajinští energetici lezli na sloupy, aby se pokusili likvidovat škody, přišla z Washingtonu zpráva, že Donald Trump odložil sankce, které sám pár týdnů předtím vepsal do zákona. Polevování v tlaku na agresora a peněžní odměny pro Putina jsou přitom jen pozvánkou k dalším úderům. Rusko tak dostalo během jedné noci dva signály a oba si vyložilo správně. A taky se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02zSYXPFHA4KgANHWipQC7rLC7QifTwdRPG6ogZnnSJK66hpcgcsvphjxQbsm13bVHl):
         detail: |
