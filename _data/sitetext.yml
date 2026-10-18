@@ -11188,10 +11188,15 @@ timeline:
       - title: "Středa"
         year: "31. prosince 2025"
         sort: "2025-12-31"
+        pictures:
+          - ["2025-12-31-1.jpg", ""]
+          - ["2025-12-31-2.jpg", ""]
+          - ["2025-12-31-3.jpg", ""]
+          - ["2025-12-31-4.jpg", ""]
         image: assets/img/timeline/2025-12-31.jpg
         podcast: "2025-12-31.mp3"
         desc: |
-          Podle ruského opozičního projektu Mediazona začaly webové stránky soudů v různých regionech Ruské federace likvidovat soudní spisy týkající se žalob ze strany rodin vojáků, jejichž cílem je prohlásit osoby za pohřešované nebo mrtvé. V současné době není možné na webových stránkách soudů v pěti desítkách ruských regionů najít ani jeden soudní spor registrovaný v roce 2025. Před měsícem přitom obsahovaly webové stránky soudů v těchto regionech informace o téměř 44 000 takových případech. Než dokumenty zmizely z webových stránek ruských soudů, bylo za poslední tři roky zaznamenáno 111 569 případů, ale nyní jich je pouze 41 512. Mediazona přitom právě tyto dokumenty používala k tomu, aby vytvářela kvalifikované odhady ruských ztrát ve válce s Ukrajinou. Modus operandi ruské armády je totiž takový, že velitelé záměrně udržují u padlých vojáků status AWOL/СОЧ (absent without leave = nepřítomen, bez povolení/Самовольное оставление части = samovolné opuštění jednotky), protože pokud by armáda přiznala, že padli nebo byli zajati, náležela by jejich rodinám finanční kompenzace. Ruským rodinám tedy nezbývá nic jiného, než status jejich příbuzných vojáků napadnout u soudu. Teď se ale zdá, že ruská vláda nařídila soudům, aby podobné žaloby plošně zametly pod stůl – jednak proto, aby zamaskovala ztráty, ale i proto, aby ulehčila ruské ekonomice, která se drží doslova na vlásku. A také se děje tohle: 
+          Podle ruského opozičního projektu Mediazona začaly webové stránky soudů v různých regionech Ruské federace likvidovat soudní spisy týkající se žalob ze strany rodin vojáků, jejichž cílem je prohlásit osoby za pohřešované nebo mrtvé. V současné době není možné na webových stránkách soudů v pěti desítkách ruských regionů najít ani jeden soudní spor registrovaný v roce 2025. Před měsícem přitom obsahovaly webové stránky soudů v těchto regionech informace o téměř 44 000 takových případech. Než dokumenty zmizely z webových stránek ruských soudů, bylo za poslední tři roky zaznamenáno 111 569 případů, ale nyní jich je pouze 41 512. Mediazona přitom právě tyto dokumenty používala k tomu, aby vytvářela kvalifikované odhady ruských ztrát ve válce s Ukrajinou. Modus operandi ruské armády je totiž takový, že velitelé záměrně udržují u padlých vojáků status AWOL/СОЧ (absent without leave = nepřítomen, bez povolení/Самовольное оставление части = samovolné opuštění jednotky), protože pokud by armáda přiznala, že padli nebo byli zajati, náležela by jejich rodinám finanční kompenzace. Ruským rodinám tedy nezbývá nic jiného, než status jejich příbuzných vojáků napadnout u soudu. Teď se ale zdá, že ruská vláda nařídila soudům, aby podobné žaloby plošně zametly pod stůl – jednak proto, aby zamaskovala ztráty, ale i proto, aby ulehčila ruské ekonomice, která se drží doslova na vlásku. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Gx6jHThFS2bPhkWeD2uvv2PmxfmAaVRbTiEoiei249YtpE61As8rio3xiQ6Ce2zVl): 
         detail: |
           - Projekt „Chci žít“ zveřejnil souhrnné statistiky od začátku války: více než 10 000 Rusů se během války ocitlo v ukrajinském zajetí. Jen v roce 2025 se vzdalo více ruských vojáků než v letech 2022 a 2023 dohromady. V průměru je každý týden zajato 60–90 ruských vojáků a v srpnu 2024 tento počet dosáhl až 350 za týden. Většina válečných zajatců byla zajata poblíž Pokrovsku, Bachmutu, Poloh a v ruské Kurské oblasti. Asi 19 % z nich jsou mobilizovaní vojáci a téměř 5 % jsou branci – přestože branci podle Ruska „oficiálně“ nebojují. Přibližně čtvrtina z nich uvádí, že se do války dostali proti své vůli – byli podvedeni nebo donuceni. Typickým válečným zajatcem je voják bez vysokoškolského vzdělání, často s trestním rejstříkem. 40 % z nich si už dříve odpykávalo trest za krádež, drogové delikty, loupež nebo vraždu. Mnozí z nich byli před válkou nezaměstnaní nebo pracovali v nízkopříjmových zaměstnáních. Část jsou také zahraniční bojovníci – v současné době tvoří asi 7 % všech válečných zajatců a jejich počet roste. Stovky zajatců trpí vážnými nemocemi, jako je HIV/AIDS, hepatitida B a C, tuberkulóza, cukrovka, ale také duševní poruchy včetně schizofrenie. Celkem už bylo do Ruska vráceno přes 6 000 zajatců.
           - Podle deníku The New York Times americký prezident ostře kritizoval a později odvolal z funkce Keitha Kellogga poté, co Kellogg chválil Zelenského jako odvážného vůdce a vyjádřil podporu Ukrajině. Kellogg se snažil Trumpovi vysvětlit, že Zelenskyj bojuje o přežití Ukrajiny, a měl ho přirovnat k Lincolnovi. Tohle přirovnání ale Trumpa naštvalo a krátce nato byl Kellogg zbaven funkce. Když pak Trump vysvětloval své rozhodnutí ostatním poradcům, označil prý Kellogga za „idiota“. Kellogga následně nahradil ve funkci Trumpův blízký přítel Stev Witkoff – i když sám Trump nedávno přiznal, že Witkoff „neví nic ani o Rusku ani o vyjednávání“. 
@@ -13190,9 +13195,14 @@ timeline:
       - title: "Úterý"
         year: "11. listopadu 2025"
         sort: "2025-11-11"
+        pictures:
+          - ["2025-11-11-1.jpg", ""]
+          - ["2025-11-11-2.jpg", ""]
+          - ["2025-11-11-3.jpg", ""]
+          - ["2025-11-11-4.jpg", ""]
         image: assets/img/timeline/2025-11-11.jpg
         desc: |
-          Ukrajinští celníci zmařili pokus o propašování 14 487 kusů poštovních známek s vyobrazením Hitlera a hákových křížů z Polska na území Ukrajiny. Informovala o tom sama Státní celní služba Ukrajiny. Pašované známky byly nalezeny ukryté mezi použitým oblečením na hraničním přechodu Shehyni–Medyka. Dovoz podobných předmětů je přitom zakázán podle ukrajinského zákona o propagandě totalitních režimů. Proč taková zásilka mířila na Ukrajinu, si asi čtenáři téhle stránky dokáží velmi dobře představit. Celníci tak ve skutečnosti nezmařili jen pašování, ale nejspíš i další pokus ruské propagandy snažící se vykreslit Ukrajinu jako stát plný nacistů. A také se stalo tohle: 
+          Ukrajinští celníci zmařili pokus o propašování 14 487 kusů poštovních známek s vyobrazením Hitlera a hákových křížů z Polska na území Ukrajiny. Informovala o tom sama Státní celní služba Ukrajiny. Pašované známky byly nalezeny ukryté mezi použitým oblečením na hraničním přechodu Shehyni–Medyka. Dovoz podobných předmětů je přitom zakázán podle ukrajinského zákona o propagandě totalitních režimů. Proč taková zásilka mířila na Ukrajinu, si asi čtenáři téhle stránky dokáží velmi dobře představit. Celníci tak ve skutečnosti nezmařili jen pašování, ale nejspíš i další pokus ruské propagandy snažící se vykreslit Ukrajinu jako stát plný nacistů. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02JePVorxQxwuskuKsM1BpacfRkJoy9orHgHVymWBaaKRDXrmAeMmKYiD9W6gjSfJql): 
         detail: |
           - Rusko začalo testovat nové opatření: když se kdokoli vrátí do země ze zahraničí, jeho SIM karta je na 24 hodin odpojena od mobilního internetu a SMS. Totéž se stane, pokud karta byla neaktivní déle než 72 hodin. Rusko si od toho slibuje, že zamezí, aby Ukrajinci využívali ruské mobilní sítě k ovládání a navádění dálkových dronů. 
           - Podle ministra zahraničí Sergeje Lavrova je Rusko připraveno jednat se Spojenými státy o obnovení příprav na setkání Putina a Trumpa. Lavrov ale zároveň označil ukrajinského prezidenta za „nacistu“ a varoval, že pokud některá jaderná velmoc provede jaderné zkoušky, Rusko učiní totéž.
@@ -14589,9 +14599,14 @@ timeline:
       - title: "Úterý"
         year: "7. října 2025"
         sort: "2025-10-07"
+        pictures:
+          - ["2025-10-07-1.jpg", ""]
+          - ["2025-10-07-2.jpg", ""]
+          - ["2025-10-07-3.jpg", ""]
+          - ["2025-10-07-4.jpg", ""]
         image: assets/img/timeline/2025-10-07.jpg
         desc: |
-          Trump naznačil, že Ukrajina obdrží americké střely Tomahawk. Bude prý ale nejdřív chtít vědět, jak je ukrajinská armáda plánuje využít, aby nedošlo ke zbytečné eskalaci konfliktu. Ruští vojenští blogeři panikaří a zároveň správně upozorňují, že vycvičit personál k jejich používání trvá měsíce, takže pokud k úderům dojde v příštích pár měsících, bude zřejmé, že rozhodnutí padlo mnohem dříve, nebo dokonce že Ukrajina střely už dávno obdržela a cvičí se v jejich využití. Už v dubnu se přitom objevila informace, že Spojené státy schválily prodej až 163 střel Tomahawk Nizozemsku. A dá se předpokládat, že Nizozemsko je plánovalo nakoupit právě pro Ukrajinu. Ale pryč od spekulací a zpět k novinkám: 
+          Trump naznačil, že Ukrajina obdrží americké střely Tomahawk. Bude prý ale nejdřív chtít vědět, jak je ukrajinská armáda plánuje využít, aby nedošlo ke zbytečné eskalaci konfliktu. Ruští vojenští blogeři panikaří a zároveň správně upozorňují, že vycvičit personál k jejich používání trvá měsíce, takže pokud k úderům dojde v příštích pár měsících, bude zřejmé, že rozhodnutí padlo mnohem dříve, nebo dokonce že Ukrajina střely už dávno obdržela a cvičí se v jejich využití. Už v dubnu se přitom objevila informace, že Spojené státy schválily prodej až 163 střel Tomahawk Nizozemsku. A dá se předpokládat, že Nizozemsko je plánovalo nakoupit právě pro Ukrajinu. Ale pryč od spekulací a zpět k [novinkám](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0vRvmUnbN4b66MDKgZxdkbVgbn2KSjm1MCDzT5VHExDkFc8ns1bP65RKagpmmVRPQl): 
         detail: |
           - Ruská propaganda nově tvrdí, že britské námořnictvo chystá útok pod falešnou vlajkou s využitím proukrajinských Rusů a čínských technologií na ukrajinskou nebo evropskou loď v evropských vodách s cílem vyvolat dojem, že Čína podporuje Rusko. Má to háček: Čína samozřejmě Rusko podporuje. Není tedy jisté, co by měl tenhle složitý konstrukt ruské propagandy dokázat.  
           - Ukrajinský dron zasáhl chladicí věž ruské jaderné elektrárny Novovoroněž. Společnost Rosenergoatom nicméně tvrdí, že drony byly odvedeny z jejich kurzu pomocí systémů elektronického boje. Chladicí věž tak nejspíš vůbec nebyla původním cílem dronů. 
@@ -15452,9 +15467,14 @@ timeline:
       - title: "Úterý"
         year: "16. září 2025"
         sort: "2025-09-16"
+        pictures:
+          - ["2025-09-16-1.jpg", ""]
+          - ["2025-09-16-2.jpg", ""]
+          - ["2025-09-16-3.jpg", ""]
+          - ["2025-09-16-4.jpg", ""]
         image: assets/img/timeline/2025-09-16.jpg
         desc: |
-          Exploze nad ránem otřásly ruskou základnou v obci Ščitovaja u Vladivostoku. Na místě jsou mrtví i ranění. Podle předběžných informací stojí za výbuchem ukrajinská vojenská rozvědka a cílem byli vojáci 155. gardové brigády námořní pěchoty, kteří se podíleli na válečných zločinech u Kyjeva, Vuhledaru nebo Mariupolu. Ať už válka skončí jakkoliv, jedno je jisté: ruští váleční zločinci v tom lepším případě stráví celý zbytek života tím, že se budou neustále dívat přes rameno. Tady jsou další novinky: 
+          Exploze nad ránem otřásly ruskou základnou v obci Ščitovaja u Vladivostoku. Na místě jsou mrtví i ranění. Podle předběžných informací stojí za výbuchem ukrajinská vojenská rozvědka a cílem byli vojáci 155. gardové brigády námořní pěchoty, kteří se podíleli na válečných zločinech u Kyjeva, Vuhledaru nebo Mariupolu. Ať už válka skončí jakkoliv, jedno je jisté: ruští váleční zločinci v tom lepším případě stráví celý zbytek života tím, že se budou neustále dívat přes rameno. Tady jsou další [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0D3P23wmHZsZ57FVK7M5ZAKGHCvwM42fZtu6xfRrADGEEUZACFWGKXAR3VGvByc3Yl): 
         detail: |
           - Čína tři hodiny jednala s Polskem a snažila se ho přesvědčit, aby opět otevřelo hranice s Běloruskem, přes které proudí značný objem zboží z Číny. Polsko ale žádost odmítlo, Číňanům sdělilo, že za uzavřením hranic jsou „destruktivní akce Moskvy a Minsku“, a doporučilo jim, aby Čína spíše tlačila na Rusko a Bělorusko. 
           - V čínské populaci je více mužů než žen, v ruské je tomu kvůli válce s Ukrajinou naopak. Ruští poslanci se proto obávají, že zavedení bezvízového režimu s Čínou povede k přílivu čínských mužů do Ruska, kteří si tam budou hledat manželky. 
@@ -21698,6 +21718,8 @@ timeline:
       - title: "Pátek"
         year: "4. dubna 2025" 
         sort: "2025-04-04"
+        pictures:
+          - ["2025-04-04-1.jpg", ""]
         image: assets/img/timeline/2025-04-04.jpg
         # https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0hEV9ZtzY25o5eGsWYgUqkgxMa7z2cDUJnBnpxyL4WyyEcc3STVhfTdXCdqn5PkVMl
         desc: |
@@ -21871,9 +21893,14 @@ timeline:
       - title: "Neděle"
         year: "30. března 2025" 
         sort: "2025-03-30"
+        pictures:
+          - ["2025-03-30-1.jpg", ""]
+          - ["2025-03-30-2.jpg", ""]
+          - ["2025-03-30-3.jpg", ""]
+          - ["2025-03-30-4.jpg", ""]
         image: assets/img/timeline/2025-03-30.jpg
         desc: |
-          Před třemi dny natočily ukrajinské drony bizarní situaci. Rusové se nejprve neúspěšně pokusili o dobytí pásu stromů, kde se nacházely ukrajinské pozice. Většina útočících vojáků ale byla zabita a zbytek se ukrýval v pásu keřů nedaleko ukrajinských zákopů. Následně vyslali Rusové do útoku obrněný transportér s dalšími vojáky směrem k místu, kde se skrývala první skupina. BPM vysadilo posily a poté, nejspíš vinou špatné komunikace, začalo divoce pálit do vlastních vojáků v remízku a většinu z nich zabilo. Přejeme Rusům další podobně úspěšné akce a teď už pár dalších novinek: 
+          Před třemi dny natočily ukrajinské drony bizarní situaci. Rusové se nejprve neúspěšně pokusili o dobytí pásu stromů, kde se nacházely ukrajinské pozice. Většina útočících vojáků ale byla zabita a zbytek se ukrýval v pásu keřů nedaleko ukrajinských zákopů. Následně vyslali Rusové do útoku obrněný transportér s dalšími vojáky směrem k místu, kde se skrývala první skupina. BPM vysadilo posily a poté, nejspíš vinou špatné komunikace, začalo divoce pálit do vlastních vojáků v remízku a většinu z nich zabilo. Přejeme Rusům další podobně úspěšné akce a teď už pár dalších [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02dAUDh6msUoAjAf5ZVb2hd4KeUCe6hDv1GNU99ohSVRkcmnEzJsEzRZD3SPudWkrjl): 
         detail: |
           - Šéfka amerických tajných služeb a pravděpodobná agentka Ruska Tulsi Gabbardová oznámila, že na Trumpův příkaz odebrala bezpečnostní prověrku bývalému prezidentu Joe Bidenovi. O přístup k tajným informacím přišli také další vysoce postavení představitelé demokratické strany: Kamala Harris, Hillary Clinton, Liz Cheney, Adam Kinzinger, Fiona Hill a Alexander Vindman. Každopádně Hillary Clinton o přístup přišla už v roce 2018 na vlastní žádost a Adam Kinzinger ji ani nikdy neměl.
           - Ruská neonacistická diverzní jednotka Rusič publikovala na svém telegramovém kanále video, na kterém ruští vojáci střílí zajatce a ukrajinské civilisty a unáší děti zabitých rodičů. Velitel jednotky, neonacista sadista Milčakov to nazval „natáčením v ukrajinském vepříně“ a „nejlepší reklamou na službu v ruské armádě“. Příspěvek nasbíral tisíce nadšených a souhlasných reakcí od ruských čtenářů.
