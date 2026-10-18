@@ -40165,7 +40165,13 @@ timeline:
       - title: "Neděle"
         year: "19. listopadu 2023"
         sort: "2023-11-19"
+        pictures:
+          - ["2023-11-19-1.jpg", ""]
+          - ["2023-11-19-2.jpg", ""]
+          - ["2023-11-19-3.jpg", ""]
+          - ["2023-11-19-4.jpg", ""]
         image: assets/img/timeline/2023-11-19.jpg
+        # https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0hGz9Cx1pUKDKvXx6gxPgtsYDPtwLZrgWXxo39koRBhBEdj6HWns8pn7jadRVVtrQl
         desc: |
           O krásný moment v ruském vysílání se postaral americko-ruský novinář žijící v Moskvě Michael Bohm. V dalších z televizních debat, kde figuroval jako host, diskutovali propagandisté o údajném americkém ovlivňování ruských voleb. Potom, co se navzájem ujistili, že k vměšování každý volební rok dochází, zeptali se Bohma, na to, co si o tom myslí on a jestli vidí paralely v USA, načež jim Bohm sdělil, že nechápe, proč se údajného ovlivňování zvenčí tak děsí, když je výsledek voleb stejně předem daný. Moderátor pak rychle změnil téma a Bohmovu poznámku zahrál do autu. Byla to ale nezvyklá chvíle upřímnosti, jakých se jinak v ruské televizi poskrovnu. Pojďme se proto raději podívat, co říkají jiná než ruská média a nezávislé kanály: 
         detail: |
@@ -40651,9 +40657,14 @@ timeline:
       - title: "Úterý"
         year: "7. listopadu 2023"
         sort: "2023-11-07"
+        pictures:
+          - ["2023-11-07-1.jpg", ""]
+          - ["2023-11-07-2.jpg", ""]
+          - ["2023-11-07-3.jpg", ""]
+          - ["2023-11-07-4.jpg", ""]
         image: assets/img/timeline/2023-11-07.jpg
         desc: |
-          Projekt „Chci žít“ oznámil, že Ukrajina brzy otevře další detenční centrum pro ruské zajatce. Těch prý v posledních týdnech rapidně přibývá zejména kvůli situaci na frontě a klesající morálce Rusů, kterou se Rusko nyní opět pokouší dostat pod kontrolu používáním bariérových oddílů. Nedávno se mluvilo o tom, že Ukrajina nemá dostatek zajatců, aby mohla provádět výměny, to ale není pravda. V ukrajinských detenčních centrech je ruských zajatců dost. Problém není jejich kvantita, ale kvalita. Rusko vyměňuje zajaté Ukrajince obvykle pouze za důstojníky, rozvědčíky, nejlépe pak za specialisty jako jsou piloti. A většina současných zajatců v detenčních centrech jsou branci, wagnerovci anebo žoldáci. Zkrátka vojáci, které Rusko může snadno nahradit v rámci mobilizace, a je pro něj tedy snadnější i levnější takové zajatce vůbec nepřiznat a radši je evidovat jako padlé nebo ztracené. Dokonce i když Ukrajinci zveřejní rozhovory se zajatci nebo jejich totožnost, ruské úřady je dál zamlčují, a to nejen proto, aby nemusely nikoho měnit, ale také proto, aby rodinám nemusely platit žádné kompenzace. Ukrajina proto čím dál více zapojuje zajatce do výrobních procesů nebo prací v průmyslu a zemědělství, aby nemusela nést náklady na jejich věznění. Neříká se nadarmo, že v neexistuje v Rusku levnější věc, než je lidský život. Ale teď už pár novinek: 
+          Projekt „Chci žít“ oznámil, že Ukrajina brzy otevře další detenční centrum pro ruské zajatce. Těch prý v posledních týdnech rapidně přibývá zejména kvůli situaci na frontě a klesající morálce Rusů, kterou se Rusko nyní opět pokouší dostat pod kontrolu používáním bariérových oddílů. Nedávno se mluvilo o tom, že Ukrajina nemá dostatek zajatců, aby mohla provádět výměny, to ale není pravda. V ukrajinských detenčních centrech je ruských zajatců dost. Problém není jejich kvantita, ale kvalita. Rusko vyměňuje zajaté Ukrajince obvykle pouze za důstojníky, rozvědčíky, nejlépe pak za specialisty jako jsou piloti. A většina současných zajatců v detenčních centrech jsou branci, wagnerovci anebo žoldáci. Zkrátka vojáci, které Rusko může snadno nahradit v rámci mobilizace, a je pro něj tedy snadnější i levnější takové zajatce vůbec nepřiznat a radši je evidovat jako padlé nebo ztracené. Dokonce i když Ukrajinci zveřejní rozhovory se zajatci nebo jejich totožnost, ruské úřady je dál zamlčují, a to nejen proto, aby nemusely nikoho měnit, ale také proto, aby rodinám nemusely platit žádné kompenzace. Ukrajina proto čím dál více zapojuje zajatce do výrobních procesů nebo prací v průmyslu a zemědělství, aby nemusela nést náklady na jejich věznění. Neříká se nadarmo, že v neexistuje v Rusku levnější věc, než je lidský život. Ale teď už pár [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0N1z5t4aw76eow5v8QkDBQkAfKZaNkvaA2z56C5ZUyLgyAoDRf7yjxd1EQDaKaahVl): 
         detail: |
           - Z nových snímků vyplývá, že Ukrajinci nyní po Dněpru na levý břeh plaví také těžkou techniku. Jakou a v jakém množství? To se v tuto chvíli neví, ale na ruských kanálech, které tyto informace potvrzují, panuje aktuálně poměrně pochmurná nálada a Rusové potvrzují, že za řekou operuje nejméně jedno ukrajinské BTR-4. 
           - Ukrajinské ministerstvo zdravotnictví uvádí, že Rusko za 1,5 roku války poškodilo už 1 468 zdravotnických zařízení a 193 dalších bylo úplně zničeno. Také zničilo 350 civilních ambulančních vozů a okolo 125 ukradlo a odvezlo na okupovaná území. 
@@ -40776,9 +40787,14 @@ timeline:
       - title: "Sobota"
         year: "4. listopadu 2023"
         sort: "2023-11-04"
+        pictures:
+          - ["2023-11-04-1.jpg", ""]
+          - ["2023-11-04-2.jpg", ""]
+          - ["2023-11-04-3.jpg", ""]
+          - ["2023-11-04-4.jpg", ""]
         image: assets/img/timeline/2023-11-04.jpg
         desc: |
-          Ruský bloger Rybář potvrzuje, že Ukrajinci aktuálně drží pozice uvnitř vesničky Krynky na levém břehu Dněpru a zároveň malé předmostí poblíž zničeného železničního mostu západněji od vesnice. Rusové se je pokusili opakovaně z pozic vytlačit, ale utrpěli ztráty. Rybar sice mluví o „dílčím úspěchu“, ale z dostupných informací netuším, co tím myslí. Naopak některá videa z dronů ukazují na značně neúspěšné ruské výpady. Nicméně terén v okolí je de facto močál, takže ani jedna strana nemůže v oblasti působit aktivně s těžkou technikou, a veškerou tíhu bojů tak nese pěchota za podpory artilerie a dronů. Rusové do mixu přidávají sem tam i vzdušné útoky prováděné z dálky pomocí naváděných bomb na kluzácích. Pokud by se tu podařil větší průlom, mohlo by to významně zamíchat s kartami. Tak držme mariňákům, kteří tu operují, všechny palce. A teď pár dalších novinek: 
+          Ruský bloger Rybář potvrzuje, že Ukrajinci aktuálně drží pozice uvnitř vesničky Krynky na levém břehu Dněpru a zároveň malé předmostí poblíž zničeného železničního mostu západněji od vesnice. Rusové se je pokusili opakovaně z pozic vytlačit, ale utrpěli ztráty. Rybar sice mluví o „dílčím úspěchu“, ale z dostupných informací netuším, co tím myslí. Naopak některá videa z dronů ukazují na značně neúspěšné ruské výpady. Nicméně terén v okolí je de facto močál, takže ani jedna strana nemůže v oblasti působit aktivně s těžkou technikou, a veškerou tíhu bojů tak nese pěchota za podpory artilerie a dronů. Rusové do mixu přidávají sem tam i vzdušné útoky prováděné z dálky pomocí naváděných bomb na kluzácích. Pokud by se tu podařil větší průlom, mohlo by to významně zamíchat s kartami. Tak držme mariňákům, kteří tu operují, všechny palce. A teď pár dalších [novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02LnZVVXjGMonFotiYF5esmu2AUdSB66WR7G5KqJqoGrG7e5HM557qfTqHHP1s2MdMl): 
         detail: |
           - Podle aktuálních statistik má míra korupce na Ukrajině klesající trend, mimo jiné í díky úspěšným reformám, zatímco Rusko, které o Ukrajině rádo v rámci propagandy tvrdí, že je „nejzkorumpovanější země na světě“, bylo v míře korupce ještě výše dokonce už před válkou, a od začátku války míra korupce v Rusku neustále stoupá. 
           - Na východní frontě padl šedesátiletý Ihor Dubyk. Ten bránil loni mariupolský Azovstal, kde ho nakonec Rusové zajali, 200 dní potom strávil v ruském zajetí, kde ho Rusové mučili, načež zhubl 30 kg. Po výměně zajatců se dostal zpět domů a už v prosinci byl opět zpátky na frontě. Tentokrát už bojoval naposledy. Hrdinům sláva! 
@@ -41133,7 +41149,13 @@ timeline:
       - title: "Čtvrtek"
         year: "26. října 2023"
         sort: "2023-10-26"
+        pictures:
+          - ["2023-10-26-1.jpg", ""]
+          - ["2023-10-26-2.jpg", ""]
+          - ["2023-10-26-3.jpg", ""]
+          - ["2023-10-26-4.jpg", ""]
         image: assets/img/timeline/2023-10-26.jpg
+        # https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0m5bDuaDfcgSDxLprGE9kRwDAo3z5EcaxxZ4dhbktdrSheRtmmgcYpLjyfbRBuVaxl
         desc: |
           Elon Musk uspořádal online diskusi na své platformě „X“ se dvěma samozvanými experty na geopolitiku a proruskými komentátory: investorem Davidem Sachsem a prezidentským kandidátem americké krajní pravice Vivekem Ramaswamym. Musk v diskusi prohlásil, že směřujeme k třetí světové válce, a že Rusko, Čína a Írán předběhly Západ v kapacitě průmyslu ale také kvalitě hypersonického a nukleárního arsenálu. A k překvapení nikoho se na konci diskuse shodli, že Ukrajina nemůže válku vyhrát, a proto by měla kapitulovat a postoupit Rusku některá území výměnou za mír. Dozvěděli jsme se tedy primárně to, že v kompetencích a chápání souvislostí ani jeden z trojice nepředčí průměrného českého „chcimíra“. A teď pár aktualit (nejen) ze samotné Ukrajiny: 
         detail: |
@@ -42019,9 +42041,14 @@ timeline:
       - title: "Pondělí"
         year: "2. října 2023"
         sort: "2023-10-02"
+        pictures:
+          - ["2023-10-02-1.jpg", ""]
+          - ["2023-10-02-2.jpg", ""]
+          - ["2023-10-02-3.jpg", ""]
+          - ["2023-10-02-4.jpg", ""]
         image: assets/img/timeline/2023-10-02.jpg
         desc: |
-          Možná je velkou chybou, že se ruské propagandě nedává ve světových i českých médiích větší prostor. Že si protiřečím? Vůbec ne. Mám totiž na mysli ruskou domácí propagandu, nikoliv tu, kterou pouští nám. Propagandu, kterou krmí svoje vlastní obyvatele. Možná potom by svět opravdu pochopil, co je současné Rusko zač a jak o nás smýšlí. V ruských televizích se vysílá naprosto pokřivená verze moderní historie. O Západu se mluví jako o žumpě světa nebo zkaženém světě plném deviantů, pedofilie a degenerace, kterému vládnou nacistické vlády. Ruští propagandisti téměř každý den diskutují o vymazání celých měst nebo evropských států nukleárními zbraněmi. Mluví o nás jako o svých poddaných, otrocích, které chtějí a jednou zase budou ovládat. Neustále se navzájem hecují v tom, co je potřeba udělat, abychom se Ruska báli a vzhlíželi k němu. Nijak se netají tím, že chtějí dobýt celou Evropu od Charkova až po Lisabon a v televizních politických debatách namísto střetu názorů řeší, kterou zemi napadnou jako další, až srovnají se zemí celou Ukrajinu. To je skutečná tvář Ruska. To je propaganda, kterou bychom měli neustále ukazovat v našich médiích, aby bylo nad slunce jasné, že současné Rusko je fašistický stát, který je potřeba zastavit. Můžeme to, prosím, začít dělat? Díky! A teď [novinky](krajine.cz/posts/pfbid0N1aWDKhAzSb7Gq48Ea24guKSY6Y58BwFZKzqQ4hZGSe9Db6zA7ByfgMVkFjrEgsXl): 
+          Možná je velkou chybou, že se ruské propagandě nedává ve světových i českých médiích větší prostor. Že si protiřečím? Vůbec ne. Mám totiž na mysli ruskou domácí propagandu, nikoliv tu, kterou pouští nám. Propagandu, kterou krmí svoje vlastní obyvatele. Možná potom by svět opravdu pochopil, co je současné Rusko zač a jak o nás smýšlí. V ruských televizích se vysílá naprosto pokřivená verze moderní historie. O Západu se mluví jako o žumpě světa nebo zkaženém světě plném deviantů, pedofilie a degenerace, kterému vládnou nacistické vlády. Ruští propagandisti téměř každý den diskutují o vymazání celých měst nebo evropských států nukleárními zbraněmi. Mluví o nás jako o svých poddaných, otrocích, které chtějí a jednou zase budou ovládat. Neustále se navzájem hecují v tom, co je potřeba udělat, abychom se Ruska báli a vzhlíželi k němu. Nijak se netají tím, že chtějí dobýt celou Evropu od Charkova až po Lisabon a v televizních politických debatách namísto střetu názorů řeší, kterou zemi napadnou jako další, až srovnají se zemí celou Ukrajinu. To je skutečná tvář Ruska. To je propaganda, kterou bychom měli neustále ukazovat v našich médiích, aby bylo nad slunce jasné, že současné Rusko je fašistický stát, který je potřeba zastavit. Můžeme to, prosím, začít dělat? Díky! A teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0N26ShVyoscSygUzQyaxAC9DhxuyzbXi5Wt65SSjJNHv9KKXFcq4TGFk3Fv83w9LUl): 
         detail: |
           - Moldavsko úplně přestane odebírat ruský plyn. Oznámilo, že našlo alternativu od evropského dodavatele, které je dokonce cenově výhodnější. Peskov také tvrdí, že Moldavsko dluží Rusku okolo 800 miliónů dolarů za dřívější dodávky plynu. Moldavská prezidentka si ale nechala zpracovat audit, ze kterého vychází, že země žádný dluh vůči Rusku nemá. 
           - Rusové vyšetřovací komise informovala o incidentu, který se stal v dubnu loňského roku. Dvojici ukrajinských SU-24M prý dokázala proniknout 50 km hluboko na ruské území, svrhnout několik bomb na skladiště paliv ve Starodubském u Brjansku a bezpečně se vrátit na ukrajinskou základnu. 
@@ -42215,7 +42242,7 @@ timeline:
         sort: "2023-09-27"
         image: assets/img/timeline/2023-09-27.jpg
         desc: |
-          Ruské kanály hlásí, že Ukrajinci obnovili ofenzivu u Verbového a Novoprokopivky. Ukrajinci to potvrzují, ale podle prezidenta Zelenského se uvedl do pohybu i další, blíže nespecifikovaný plán. Jedno z videí dokonce zachytilo zničení ruského tanku ukrajinskou střelou na jižním cípu Novoprokopivky. Je tedy možné, že Ukrajinci už drží pozice v samotné vesnici, resp. jejích ruinách. Rusové každopádně stahují další jednotky do okupovaného Tokmaku, což dává tušit, že průlom obrany berou jako pravděpodobný výsledek budoucích ukrajinských akcí. Už aby to bylo. Ale teď pár aktualit: 
+          Ruské kanály hlásí, že Ukrajinci obnovili ofenzivu u Verbového a Novoprokopivky. Ukrajinci to potvrzují, ale podle prezidenta Zelenského se uvedl do pohybu i další, blíže nespecifikovaný plán. Jedno z videí dokonce zachytilo zničení ruského tanku ukrajinskou střelou na jižním cípu Novoprokopivky. Je tedy možné, že Ukrajinci už drží pozice v samotné vesnici, resp. jejích ruinách. Rusové každopádně stahují další jednotky do okupovaného Tokmaku, což dává tušit, že průlom obrany berou jako pravděpodobný výsledek budoucích ukrajinských akcí. Už aby to bylo. Ale teď pár [aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0VDiM7GSt7vW7JGL35mP5kcqCaH6ze9wjmpKEFi8tbcpqyh5cR7FtPgSyQ2UyaKvml): 
         detail: |
           - Rusové zveřejnili další videa, která mají dokazovat, že admirál Sokolov žije. Na jednom videu admirál gratuluje sportovcům k úspěchům na turnaji. Ten ale skončil 18. 9. a útok na Sevastopol přišel o 4 dny později. Na jiném mluví o operacích flotily… v budově velitelství, které už dnes nestojí. Ukrajinská rozvědka nicméně oznámila, že se pokusí znovu ověřit své dřívější informace. 
           - Ruská propaganda skutečně tlačí incident v kanadském parlamentu, co jí síly stačí. Nově tvrdí, že Ukrajina vydala poštovní známku s Yaroslavem Hunkou, což je samozřejmě lež. Kvůli incidentu dnes také rezignoval poslanec Anthony Rota, který Hunku v sále přivítal, za což ho následně kritizovala jak sněmovní koalice, tak opozice. 
