@@ -52398,7 +52398,13 @@ timeline:
       - title: "Úterý"
         year: "7. února 2023"
         sort: "2023-02-07"
+        pictures:
+          - ["2023-02-07-1.jpg", ""]
+          - ["2023-02-07-2.jpg", ""]
+          - ["2023-02-07-3.jpg", ""]
+          - ["2023-02-07-4.jpg", ""]
         image: assets/img/timeline/2023-02-07.jpg
+        # https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02utUVCRyD6b3R1zNYzCJrkzzBpvfjEU8RZQAnxcNvpGqWxXSGpx1ZB86gpCJYYjool
         desc: "Rusové dnes pokořili další smutný rekord. A sice v největším denním přírůstku ztrát na živé síle. A bohužel pro Rusy, podle množství videí z neúspěšných ruských výpadů, které od rána plní sítě, ta čísla nejspíš odpovídají realitě. Při sledování videí z okolí Vuhledaru už si několik OSINT analytiků láme hlavu, jestli někdo ruským mariňákům vysvětlil, že když zaútočí každý den na stejném místě, ve stejnou hodinu a stejným způsobem, tak do i stejně dopadne. Jestli je definice bláznovství dělat stejnou věc stále dokola a očekávat jiný výsledek, pak se ruská armáda dočista zbláznila. Krajina kolem Vuhledaru začíná velmi rychle připomínat obří pohřebiště – a to nejen ruské techniky. Ostatně, dole ve videích se můžete přesvědčit sami, ale opět varuji, že to místy není pro slabé povahy. Zejména poslední video mě dnes trochu kazilo spaní, protože ukazuje jednu z mých nejhorších představ. Tak ho otevírejte jen, pokud jste si jisti, že se to na vás nepodepíše. A teď už novinky. Ty jsou vhodné pro všechny:"
         detail: |
           - Analytici z ISW nevěří, že by Rusko v příštích týdnech dokázalo shromáždit síly, které by měly šanci významně ovlivnit průběh války. Ruská armáda aktuálně postupuje tempem zhruba 100 m denně, což může působit děsivě, pokud se člověk soustředí na malý úsek fronty, jakým je i Bachmut a Soledar, ale při velikosti Ukrajiny jsou to zisky bližší nule. Okupantům prý nyní chybí nejen lidská síla, ale také munice.
@@ -53174,8 +53180,13 @@ timeline:
       - title: "Čtvrtek"
         year: "19. ledna 2023"
         sort: "2023-01-19"
+        pictures:
+          - ["2023-01-19-1.jpg", ""]
+          - ["2023-01-19-2.jpg", ""]
+          - ["2023-01-19-3.jpg", ""]
+          - ["2023-01-19-4.jpg", ""]
         image: assets/img/timeline/2023-01-19.jpg
-        desc: "Z Ruska přicházejí zprávy, že by mělo dojít k nasazení nejmodernějších tanků T-14 Armata v bojích na Ukrajinu. Analytici se ale víceméně shodují, že k tomu nejspíš nikdy nedojde. Rusko se podle nich nejspíš pokusí převést tanky někam do týlu, kde bude moct natočit propagandistická videa. Tanky T-14 totiž od začátku provází značné potíže. Několik jich muselo být odtaženo poté, co vypověděly službu během přehlídky v Moskvě a stejný osud je potkal v Sýrii, kam byly nejspíš nasazené také pouze v rámci PR a neúčastnily se bojů. A podobné názory zastává i část ruských vojenských blogerů. Tanky Armata jsou tak na papíře vytouženou odpovědí na západní Abramsy, Leopardy nebo Merkavy, ale v realitě jen další potěmkinovskou vesnicí. Jako ostatně i další složky ruské armády. A teď novinky"
+        desc: "Z Ruska přicházejí zprávy, že by mělo dojít k nasazení nejmodernějších tanků T-14 Armata v bojích na Ukrajinu. Analytici se ale víceméně shodují, že k tomu nejspíš nikdy nedojde. Rusko se podle nich nejspíš pokusí převést tanky někam do týlu, kde bude moct natočit propagandistická videa. Tanky T-14 totiž od začátku provází značné potíže. Několik jich muselo být odtaženo poté, co vypověděly službu během přehlídky v Moskvě a stejný osud je potkal v Sýrii, kam byly nejspíš nasazené také pouze v rámci PR a neúčastnily se bojů. A podobné názory zastává i část ruských vojenských blogerů. Tanky Armata jsou tak na papíře vytouženou odpovědí na západní Abramsy, Leopardy nebo Merkavy, ale v realitě jen další potěmkinovskou vesnicí. Jako ostatně i další složky ruské armády. A teď [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid022aiaY8xAt88gLnXq8erq9PjSoDz5qsqQUQwDLLq3PpFpLCpHE1afgM7jJ9t3yaGXl):"
         detail: |
           - Podle analytiků deníku Politico bylo Bulharsko v prvních měsících války jedním z klíčových partnerů Ukrajiny, ačkoliv to tak navenek nevypadalo, protože vláda musela svou pomoc vypravovat tajně s ohledem na některé pro-ruské politiky v zemi a jejich voličskou základnu. Podle deníku Bulharsko naplnilo až třetinu ukrajinských potřeb v oblasti dělostřelecké munice sovětské ráže a poskytlo okolo 40 % potřebného paliva. Hezkou ironií je pak skutečnost, že palivo pocházelo primárně od ruského Lukoilu z rafinérií v Černém moři. Když na to Rusové přišli, podnikli na Bulharsko masivní kyberútok, na což bulharská vláda reagovala tak, že vyhostila 70 ruských diplomatů, Gazprom následně s Bulharskem jako s první zemí přerušil smlouvy na dodávky plynu. Ukrajinská vláda už informace deníku oficiálně potvrdila.
           - Evropské země stupňují vojenskou pomoc Ukrajině. Švédsko poskytne Ukrajině dělostřelecké systémy Archer, 50 bojových vozidel CV90 a 57 robotů NLAW s protitankovými střelami. Estonsko souběžně oznámilo zatím největší balík vojenské pomoci, který bude obsahovat i těžké zbraně jako samohybná děla a velkou zásilku munice. Pozadu nezůstává ani zbytek Západu. Kanada poskytne 200 kusů obrněných vozidel Senator a Spojené státy už brzy oznámí další obří balík pomoci, jehož součástí budou mimo jiné vozidla Stryker nebo naváděné bomby GLSDB.
@@ -53351,7 +53362,13 @@ timeline:
       - title: "Neděle"
         year: "15. ledna 2023"
         sort: "2023-01-15"
+        pictures:
+          - ["2023-01-15-1.jpg", ""]
+          - ["2023-01-15-2.jpg", ""]
+          - ["2023-01-15-3.jpg", ""]
+          - ["2023-01-15-4.jpg", ""]
         image: assets/img/timeline/2023-01-15.jpg
+        # https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid03KJyJQCSNwK7VoqjTcdHDKXbaYyCasHUNaB887uFYqRLAkbkK6turmRgDBouXEKgl
         desc: "Ukrajinská velitelka působící v Bachmutu s volacím znakem „Vydma“ ve svém pravidelném video blogu potvrdila to, o čem se na základě fotek už několik týdnů spekuluje: wagnerovci se u Bachmutu a Soledaru převlékají do ukrajinských uniforem a následně infiltrují ukrajinské pozice, kde provádějí sabotáž nebo vraždí nic netušící ukrajinské vojáky. Podle ní chvíli trvalo, než se Ukrajinci na ruskou taktiku adaptovali, ale nyní už k tomu dochází minimálně. V první řadě je potřeba zopakovat, že oblékání cizích uniforem nebo nošení cizích rozpoznávacích znaků za účelem oklamání nepřítele je válečný zločin. Bohužel to ve spojení s wagnerovci nikoho nepřekvapí. Rusko je teroristický stát páchající válečné zločiny od prvního dne invaze. A podle toho často ty zprávy vypadají"
         detail: |
           - V celé Evropě se sem tam ozývají hlasy o tom, že s Ruskem je potřeba jednat o míru. Je tedy potřeba si připomenout důležitou věc: současné Rusko je fašistický stát. A takový stát ze samotné podstaty nemůže přistoupit na mír, protože jeho samotná existence stojí na představě vlastní síly a neporazitelnosti. Mír je tedy možný – jak správně říkají Ukrajinci i někteří čelní představitelé – až poté, co Rusko pochopí svou porážku a vyvodí z ní důsledky. Dříve ne.
