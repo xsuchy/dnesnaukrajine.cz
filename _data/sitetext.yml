@@ -3924,6 +3924,11 @@ timeline:
       - title: "Sobota"
         year: "4. července 2026"
         sort: "2026-07-04"
+        pictures:
+          - ["2026-07-04-1.jpg", ""]
+          - ["2026-07-04-2.jpg", ""]
+          - ["2026-07-04-3.jpg", ""]
+          - ["2026-07-04-4.jpg", ""]
         image: assets/img/timeline/2026-07-04.jpg
         podcast: "2026-07-04.mp3"
         desc: |
@@ -4033,6 +4038,11 @@ timeline:
       - title: "Středa"
         year: "1. července 2026"
         sort: "2026-07-01"
+        pictures:
+          - ["2026-07-01-1.jpg", ""]
+          - ["2026-07-01-2.jpg", ""]
+          - ["2026-07-01-3.jpg", ""]
+          - ["2026-07-01-4.jpg", ""]
         image: assets/img/timeline/2026-07-01.jpg
         podcast: "2026-07-01.mp3"
         desc: |
@@ -4985,6 +4995,11 @@ timeline:
       - title: "Sobota"
         year: "6. června 2026"
         sort: "2026-06-06"
+        pictures:
+          - ["2026-06-06-1.jpg", ""]
+          - ["2026-06-06-2.jpg", ""]
+          - ["2026-06-06-3.jpg", ""]
+          - ["2026-06-06-4.jpg", ""]
         image: assets/img/timeline/2026-06-06.jpg
         podcast: "2026-06-06.mp3"
         desc: |
@@ -5028,6 +5043,11 @@ timeline:
       - title: "Pátek"
         year: "5. června 2026"
         sort: "2026-06-05"
+        pictures:
+          - ["2026-06-05-1.jpg", ""]
+          - ["2026-06-05-2.jpg", ""]
+          - ["2026-06-05-3.jpg", ""]
+          - ["2026-06-05-4.jpg", ""]
         image: assets/img/timeline/2026-06-05.jpg
         podcast: "2026-06-05.mp3"
         desc: |
@@ -5952,6 +5972,11 @@ timeline:
       - title: "Středa"
         year: "13. května 2026"
         sort: "2026-05-13"
+        pictures:
+          - ["2026-05-13-1.jpg", ""]
+          - ["2026-05-13-2.jpg", ""]
+          - ["2026-05-13-3.jpg", ""]
+          - ["2026-05-13-4.jpg", ""]
         image: assets/img/timeline/2026-05-13.jpg
         podcast: "2026-05-13.mp3"
         desc: |
@@ -8339,6 +8364,11 @@ timeline:
       - title: "Sobota"
         year: "14. března 2026" 
         sort: "2026-03-14"
+        pictures:
+          - ["2026-03-14-1.jpg", ""]
+          - ["2026-03-14-2.jpg", ""]
+          - ["2026-03-14-3.jpg", ""]
+          - ["2026-03-14-4.jpg", ""]
         image: assets/img/timeline/2026-03-14.jpg
         podcast: "2026-03-14.mp3"
         desc: |
