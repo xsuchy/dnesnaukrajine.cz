@@ -38,6 +38,35 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí" 
+        year: "19. října 2026"
+        sort: "2026-10-19"
+        image: assets/img/timeline/2026-10-19.jpg
+        podcast: "2026-10-19.mp3"
+        desc: |
+          Idiot Trump se na své Truth Social postavil za výjimky ze sankcí pro Rusko s tím, že nechce udělat nic, co by Moskvu „hloupě vyhnalo od jednacího stolu“, a vzápětí opět obvinil Zelenského, že válku ukončit nechce a pravděpodobně nikdy nechtěl. Ukrajinské údery na ruské rafinerie podle něj vážně poškozují světové trhy s naftou a americké farmáře. Dodal, že Zelenského drží nad vodou evropské peníze a prostředky od administrativy „křiváka Bidena“ a že prý Ukrajina mohla před pár lety vyjednat mnohem lepší podmínky, dnes už je zničená a přišla o území, „moře i oceány“. Zelenskyj pak v rozhovoru pro Bloomberg řekl, že poslední americké kroky vypadají jako snaha dotlačit Ukrajinu k ústupkům, tedy ke kapitulaci, a že nepředpokládá, že by partneři vědomě chtěli ukončit válku na její účet, ale zvenčí to tak působí. Ministr financí Scott Bessent mezitím prohlásil, že evropské státy posílají Rusku víc peněz než Ukrajině, protože dovoz ruských produktů do Evropy více než desetinásobně převyšuje objemy do USA, a Zelenského stížnosti na omezení Starlinku označil za nezodpovědné. Americký ministr energetiky dodal, že naftová dohoda s Ruskem je ve skutečnosti pobídka k ukončení války. Aha. Dobře. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0gJdkYqrK7QvgiPZoqgG6XotraSrPDzZniDCtVeQ54mfxq48VsrhPKJ7dt8YkuhEml):
+        detail: |
+          - Rusko podle Zelenského vypálilo šestnáct balistických raket a střely Iskander-K a Banderol, hlavním cílem byl Kyjev a okolí, k tomu letectvo spočítalo 269 útočných dronů, z nichž 59 bylo proudových. Sestřeleno nebo potlačeno bylo 243 dronů a čtyři Iskandery-K, zásahy jsou hlášené z 25 míst a trosky z dalších osmi. V Kyjevě zahynula jednadvacetiletá žena a osm lidí bylo zraněno, pět z nich v pětadvacetipodlažním panelovém domě v Solomjanském obvodu. Na levém břehu Dněpru zasáhly údery nadzemní úsek metra, poškozené jsou koleje i trakce a stanice Černihivská a Lisová musely být zavřené. Jedna balistická raketa zničila datové centrum telekomunikační firmy Datagroup, která ho nepovažuje za obnovitelné a zákazníky obsluhuje ze záložní infrastruktury. Bez elektřiny zůstalo nejméně 550 tisíc domácností, Rusko zasáhlo energetiku v jedenácti oblastech. Varování o startu raket od partnerů včetně Spojených států Ukrajina před první vlnou znovu nedostala. 
+          - Podle amerických médií navrhl Putin na příští měsíc trojstranný summit s Donaldem Trumpem a Si Ťin-pchingem, na němž by se mělo jednat o ukončení války. Návrh měl zaznít při telefonátu s Trumpem 9. října, tedy při témže rozhovoru, kde se dohodly ruské dodávky nafty na americký a světový trh. Wall Street Journal tvrdí, že Kreml navrhuje schůzku na okraj summitu APEC v Šen-čenu 18. a 19. listopadu, Dmitrij Peskov potvrdil, že se o ní jedná, ale nic dohodnuté není. Vysoký americký představitel řekl, že Trump zatím nesouhlasil, ale otevřený by být mohl. Účast Ukrajiny v plánu nefiguruje. Putin přitom dál odmítá sejít se se Zelenským na neutrální půdě a trvá na Moskvě. Mluvčí Evropské komise k tomu připomněl: pokud chce Putin skončit s válkou, může ji zastavit ještě dnes.
+          - Zelenskyj v rozhovoru pro Bloomberg uvedl, že Spojené státy oddalují dodávky raket pro systémy Patriot, které jsou už zaplacené v rámci iniciativy PURL, kde spojenci z NATO financují nákup americké techniky pro Ukrajinu. Washington podle něj schválil dodání jen části zakoupených raket a o technický problém nejde. USA dnes dodávají dvanáct interceptorů měsíčně, tedy přibližně čtvrtinu objemu z doby Bidenovy administrativy, a na rozdíl od tehdejší vojenské pomoci si je Ukrajina musí kupovat. 
+          - V Irpini byl zasažen největší místní výrobní závod Ecosoft, výrobce filtračních a čisticích systémů na vodu. Planet Plastic vyrábí polyetylenové fólie, obaly a potrubí pro vodovody a plynovody, v roce 2022 byla téměř zničená, provoz obnovila v roce 2025 a letos v srpnu ho kvůli sílícím útokům na region pozastavila na neurčito. Ve městě zahynula žena a devatenáct lidí je zraněných, z toho devět dětí, po třech se pátrá. 
+          - SBU zadržela ředitele Oděské pobočky zahraniční certifikační firmy a jeho podřízeného, vedoucího laboratoře, za pomoc Rusku s prodejem ukradeného ukrajinského obilí. Ruské síly naložily v roce 2024 v mariupolském přístavu 7 857 tun ukrajinské pšenice na sankcionovanou loď Alfa M, převezly ji do Temrjuku v Krasnodarském kraji a nechaly si k ní vyrobit falešné doklady o ruském původu.
+          - Institut pro studium války analyzoval záběry z 18. října, na nichž ruský voják vztyčuje vlajku v jihovýchodní části města Dobropillja. O kontrolu nad městem nejde, šlo o infiltrační akci a ukrajinští představitelé ruská tvrzení o dobytí nebo obklíčení odmítli. ISW zatím nevidí důkazy o tom, že by se ruské síly ve městě konsolidovaly. 
+          - Metinvest uvedl, že při úderu na Zaporižstal 17. října Rusko vypálilo na závod šest balistických raket a poškodilo zařízení pro energetiku, logistiku i vysokou pec. Zaměstnanci se před útokem ukryli. Od srpna šlo o pátý útok na ocelárnu, celkem na ni dopadlo 23 raket, osm pracovníků už zahynulo a 31 bylo zraněno.
+          - Počet zraněných po ruských leteckých úderech na chersonskou čtvrť Korabelnyj ze 17. října vzrostl na 44. Zemřeli dva lidé, mezi nimi čtyřiašedesátiletý řidič sanitky, mezi zraněnými je měsíční kojenec a jedenáctiletá dívka.
+          - Ze zasaženého bytového domu ve Slovjansku vytáhli záchranáři tělo osmačtyřicetiletého muže, pátrání pokračuje. Při ruském úderu na město 17. října zahynulo nejméně šest lidí a patnáct bylo zraněno.
+          - Ukrajinská armáda zveřejnila záběry, na nichž nový proudový interceptor Bars ničí ruskou střelu Geran-5.
+          - Zelenskyj uvedl, že Ukrajina od začátku podzimu získala zpět víc území, než kolik ho Rusko dobylo.
+          - Úřady v Kramatorsku vyvrátily nepravdivé tvrzení o zabavování majetku pro ukrajinskou armádu.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1017860522388791653)
+          - [Spoust dobrých Rusů](https://pixelfed.cz/p/dnesnaukrajine/1017856041735360778)
+          - [Ruská logistika](https://pixelfed.cz/p/dnesnaukrajine/1017856112221569291)
+          - [Evakuace dronem](https://pixelfed.cz/p/dnesnaukrajine/1017856207825924364)
+          - [Petrohrad](https://pixelfed.cz/p/dnesnaukrajine/1017856233407144207)
+          - [Solovjov už zase vede genocidní řeči](https://pixelfed.cz/p/dnesnaukrajine/1017856906423800102)
+          - [Roj ukrajinských dronů](https://pixelfed.cz/p/dnesnaukrajine/1017856944646570279)
+          - [Mínus tank](https://pixelfed.cz/p/dnesnaukrajine/1017856978957861162)
       - title: "Neděle" 
         year: "18. října 2026"
         sort: "2026-10-18"
