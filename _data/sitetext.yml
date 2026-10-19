@@ -41,6 +41,11 @@ timeline:
       - title: "Pondělí" 
         year: "19. října 2026"
         sort: "2026-10-19"
+        pictures:
+          - ["2026-10-19-1.jpg", ""]
+          - ["2026-10-19-2.jpg", ""]
+          - ["2026-10-19-3.jpg", ""]
+          - ["2026-10-19-4.jpg", ""]
         image: assets/img/timeline/2026-10-19.jpg
         podcast: "2026-10-19.mp3"
         desc: |
