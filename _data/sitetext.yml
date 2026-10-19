@@ -42,10 +42,10 @@ timeline:
         year: "19. října 2026"
         sort: "2026-10-19"
         pictures:
-          - ["2026-10-19-1.jpg", ""]
-          - ["2026-10-19-2.jpg", ""]
-          - ["2026-10-19-3.jpg", ""]
-          - ["2026-10-19-4.jpg", ""]
+          - ["2026-10-19-1.jpg", "Ruská BTR."]
+          - ["2026-10-19-2.jpg", "Ukrajinský robot klade dráty."]
+          - ["2026-10-19-3.jpg", "Po ruském náletu."]
+          - ["2026-10-19-4.jpg", "Po ruském úderu zahynulo malé dítě."]
         image: assets/img/timeline/2026-10-19.jpg
         podcast: "2026-10-19.mp3"
         desc: |
@@ -76,10 +76,10 @@ timeline:
         year: "18. října 2026"
         sort: "2026-10-18"
         pictures:
-          - ["2026-10-18-1.jpg", ""]
-          - ["2026-10-18-2.jpg", ""]
-          - ["2026-10-18-3.jpg", ""]
-          - ["2026-10-18-4.jpg", ""]
+          - ["2026-10-18-1.jpg", "Petrohrad."]
+          - ["2026-10-18-2.jpg", "Petrohrad."]
+          - ["2026-10-18-3.jpg", "Petrohrad."]
+          - ["2026-10-18-4.jpg", "Zachráněná žena po ruském náletu ukazuje záchranářům, kolik let je jejímu dítěti, které je stále pod troskami. Bohužel se ho nepodařilo zachránit."]
         image: assets/img/timeline/2026-10-18.jpg
         podcast: "2026-10-18.mp3"
         desc: |
