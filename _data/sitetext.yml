@@ -41,6 +41,10 @@ timeline:
       - title: "Úterý" 
         year: "20. října 2026"
         sort: "2026-10-20"
+        pictures:
+          - ["2026-10-20-1.jpg", "Po včerejším náletu na park."]
+          - ["2026-10-20-2.jpg", "Jak dopadl Petrohrad."]
+          - ["2026-10-20-3.jpg", "Rusové zasáhli most v Dnipru."]
         image: assets/img/timeline/2026-10-20.jpg
         podcast: "2026-10-20.mp3"
         desc: |
