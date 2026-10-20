@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý" 
+        year: "20. října 2026"
+        sort: "2026-10-20"
+        image: assets/img/timeline/2026-10-20.jpg
+        podcast: "2026-10-20.mp3"
+        desc: |
+          „Mír“ se dnes vyjednával v norském Oslu, jen s jedním drobným detailem: Ukrajina v celém jednání vystupuje spíš jako předmět než jako jedna z jednajících stran. Americký vyslanec Steve Witkoff přiletěl Osla na jednání se Zelenským, finským prezidentem Alexandrem Stubbem, norským premiérem Jonasem Gahrem Størem a delegacemi E4, EU a NATO, Jared Kushner se kvůli chřipce připojil na dálku. Oficiálně jde o přípravu komplexního mírového návrhu, který Witkoff hned poté odveze Putinovi do Ruska. Deník New York Times to popisuje méně diplomaticky – jako Trumpovo rostoucí odhodlání celou dohodu Zelenskému vnutit, s tím, že držet okupované části východních oblastí "nestojí za to", a s příslibem peněz pro Kyjev, pokud Ukrajina přestane mít námitky i proti dohodě napsané z velké části podle ruských podmínek. Trump den předtím prohlásil, že by za Ukrajinu měl vyjednávat někdo jiný než Zelenský a že Rusko v poslední době nedělá nic „neadekvátního“. Tedy přesně v době, kdy ruské rakety a drony rozebíraly ukrajinskou energetiku a zabíjely lidi v autech na dálnici u Kyjeva. Zelenský mezitím opět nabídl třicetidenní pauzu v úderech na ruské rafinerie výměnou za Patrioty, které Evropa dávno zaplatila a které Washington zatím nedodal. Støre po schůzce ujistil, že Norsko bude pracovat na tom, aby Ukrajina byla před případným příměřím, během něj i po něm v nejsilnější možné pozici. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0FFbRmajzzYLfBxXKfus9YNh1VZpLRaghW7QEtivwbYk64Ds4Xu4wmVGo6S3bs2bhl): 
+        detail: |
+          - Rusko znovu cílilo na světlo a teplo. Mezi 18:00 v pondělí a 8:00 v úterý vyslalo na Ukrajinu 165 dronů, z toho 105 proudových Shahedů, protivzdušná obrana sestřelila nebo potlačila 115 z nich, zásahy jsou hlášené z třiceti míst a dopady trosek z dalších třinácti. V Ternopilské oblasti byly poškozeny tři energetické objekty na Kremeneččině, jeden objekt ve Lvovské oblasti dostal zásah dvakrát, na Volyni to nejvíc odnesl Kovel a v Odeské oblasti byly zasaženy tři objekty DTEK, po nichž zůstalo bez proudu více než třicet tisíc domácností. To všechno navrch k pondělnímu úderu, při kterém Rusko použilo šestnáct balistických raket a přes dvě stě dronů a poškodilo 28 rozvoden a dalších kritických energetických zařízení. Ukrenergo dnes zavedlo omezení dodávek pro průmysl na celém území státu a odstávky ve dvanácti oblastech, tedy zhruba v polovině země, místy až na osm hodin denně. 
+          - Ukrajina má jmenné údaje o 45 959 cizincích ze 151 zemí, kteří od roku 2022 podepsali smlouvu s ruským ministerstvem obrany. Oznámil to Dmytro Usov, tajemník koordinačního štábu pro zacházení s válečnými zajatci, podle kterého Kyjev u každého z nich zná hodnost, číslo smlouvy i datum podpisu. Nábor rok od roku zrychluje, 94 smluv v roce 2022, 4 067 v roce 2023, 8 877 v roce 2024, 16 085 v roce 2025 a 16 168 jen za letošek, přičemž ruský plán na rok 2026 počítal s 18 500 cizinci a Usov očekává, že bude splněn, možná i překročen. Dalších 25 až 30 procent rekrutů podle něj zůstává neidentifikovaných a nejméně 5 149 cizinců už padlo. Nejvíc přispěly Indonésie, Peru, Čad a Zimbabwe, mezi zajatými vedou Uzbeci, Tádžikové, Bělorusové a Kolumbijci. V dotazníku mezi zajatci skoro polovina přiznala, že věděla, že bude bojovat i proti civilistům. 
+          - Dopravní špička v Kyjevě skončila několika mrtvými. U obce Čabany na dálnici Kyjev-Odesa zasáhl ruský dron silnici poblíž obchodního centra a podle šéfa Kyjevské oblastní vojenské správy Tymura Tkačenka zahynuli tři lidé a čtyři byli zraněni. V samotném Kyjevě dopadl dron u benzinové stanice v Holosijivském okrese, jeden muž na místě zahynul, šest lidí je zraněných a pět z nich skončilo v nemocnici. V Obuchivském okrese mezitím vzrostl počet mrtvých po pondělním úderu na výrobní a skladovou budovu, protože hasiči našli v troskách další dvě těla. 
+          - Papež Lev XIV. Si telefonoval se Zelenským a žádal o humanitární příměří pro Olešky v okupované části Chersonské oblasti, kde se podle ukrajinských úřadů rozvíjí humanitární katastrofa, protože civilisté mají omezený přístup k jídlu, pitné vodě, lékům a základním službám. Tři dny předtím papež volal Putinovi, který podle ruských státních médií za krizi obvinil Ukrajinu, ale vatikánské humanitární úsilí slovně podpořil. Žádná dohoda o příměří ani humanitárním koridoru zatím neexistuje.
+          - Ukrajinské drony zasáhly ropnou infrastrukturu v Tambovské oblasti. Podle portálu ASTRA šlo o lineární výrobní a dispečerskou stanici Nikolskoje-1 u vesnice Novonikolskoje v Mičurinském okrese, která patří Transněftu a je součástí soustavy ropovodu Družba, tedy té, po níž teče ruská ropa do Maďarska a na Slovensko. Gubernátor Jevgenij Pervyšov připustil jen požár na území jednoho z podniků.
+          - SBU a policie zadržely v Kyjevě dva muže, kteří podle vyšetřovatelů na zadání ruských tajných služeb připravovali sérii teroristických útoků na budovy územních center komplektace v centru města. Jeden z nich si dřív odsedel vraždu, druhý byl s ním ve stejné věznici, třetí spolupachatel se skrývá v zahraničí a je obžalován v nepřítomnosti. 
+          - Brigádní generál Andrij Bilecký převzal velení nad dočasným uskupením sil Centr. 3. armádní sbor zdůraznil, že nejde o přeložení a Bileckyj formálně zůstává velitelem sboru, po dobu jeho vyslání sbor dočasně vede Dmytro Rohoziuk s volacím znakem Rohoz, dosavadní velitel 60. samostatné mechanizované brigády.
+          - Litva zdvojnásobila hlídkování na hranici s Kaliningradskou oblastí a misi vojáků, které vyslala po incidentu na lotyšsko-běloruské hranici, protáhla do poloviny listopadu. Velitel litevských ozbrojených sil Raimundas Vaikšnoras to spojuje s ruskými přípravami na rozsáhlou mobilizaci. 
+          - Verchovna rada až na třetí pokus zrušila osvobození zásilek do 150 eur od daně. Zdanění levných zahraničních balíků má Ukrajině uvolnit přístup k 3,7 miliardy eur od evropských partnerů a Mezinárodního měnového fondu. 
+          - Německá prokuratura obvinila v nepřítomnosti dva Němce z požáru zařízení Starlinku v Bulharsku. Podle obžaloby přijeli ze Srbska jako turisté, během několika hodin antény podpálili a tutéž noc odjeli. 
+          - Norská vláda navrhla pro Ukrajinu na rok 2026 pětaosmdesát miliard norských korun. Pokud to Storting schválí, celkový rámec norské podpory Ukrajině dosáhne 275 miliard korun. 
+          - Rusko začalo s výstavbou obřího radaru v Kaliningradu a podle deníku Times přesunulo do enklávy další jaderné hlavice. 
+          - Od 16. července provádí Rusko denně útoky na ukrajinskou energetiku. Celkový počet úderů dosáhl 2 147. 
+          - Rusové hlásí, že díky omezení Starshieldu ubyly útoky na jejich týl a logistiku. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1018157369381301557)
+          - [Rusko plní základny u hranic NATO novou technikou](https://pixelfed.cz/p/dnesnaukrajine/1018143236886621292)
+          - [Akce na frontě](https://x.com/TheDeadDistrict/status/2112486108336394358)
+          - [Rovnou do myslivny](https://pixelfed.cz/p/dnesnaukrajine/1018156901505494299)
+          - [Doněck](https://pixelfed.cz/p/dnesnaukrajine/1018156938450750752)
+          - [Idiot Trump](https://pixelfed.cz/p/dnesnaukrajine/1018156977986624801)
+          - [Mínus remorkér](https://pixelfed.cz/p/dnesnaukrajine/1018157031604768035)
+          - [Elektrostal](https://pixelfed.cz/p/dnesnaukrajine/1018157098620276009)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/1018157130470124842)
+          - [Akce v Sumské oblasti](https://pixelfed.cz/p/dnesnaukrajine/1018157165606747435)
+          - [Cherson safari](https://pixelfed.cz/p/dnesnaukrajine/1018157198702964014)
+          - [Ruské ztráty](https://pixelfed.cz/p/dnesnaukrajine/1018157307083074867)
+          - [Mínus Tornado](https://pixelfed.cz/p/dnesnaukrajine/1018157338701192500)
+          - [Biomasa](https://pixelfed.cz/p/dnesnaukrajine/1018157373918862649)
       - title: "Pondělí" 
         year: "19. října 2026"
         sort: "2026-10-19"
