@@ -41,6 +41,11 @@ timeline:
       - title: "Čtvrtek" 
         year: "22. října 2026"
         sort: "2026-10-22"
+        pictures:
+          - ["2026-10-22-1.jpg", "4 role v ukrajinské armádě. Poznáte je?"]
+          - ["2026-10-22-2.jpg", "4 role v ukrajinské armádě. Poznáte je?"]
+          - ["2026-10-22-3.jpg", "4 role v ukrajinské armádě. Poznáte je?"]
+          - ["2026-10-22-4.jpg", "4 role v ukrajinské armádě. Poznáte je?"]
         image: assets/img/timeline/2026-10-22.jpg
         podcast: "2026-10-22.mp3"
         desc: |
