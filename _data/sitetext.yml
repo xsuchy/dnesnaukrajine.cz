@@ -38,6 +38,37 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek" 
+        year: "22. října 2026"
+        sort: "2026-10-22"
+        image: assets/img/timeline/2026-10-22.jpg
+        podcast: "2026-10-22.mp3"
+        desc: |
+          Jednotka Chartija oznámila dokončení operace Veles. Ukrajinští vojáci se dostali víc než patnáct kilometrů do ruského týlu podzemními inženýrskými trasami a plynovody na kupjanském směru. Nápad nevznikl ve vzduchoprázdnu, přesně tohle dělali měsíce Rusové, aby se dostali za ukrajinské pozice. Trasu připravovali ženisté, instalovali v ní spojení, navigaci, logistiku a systémy pro podporu života. Vojáci absolvovali fyzickou i psychologickou přípravu na stísněné prostory. Nad zemí přitom útočila pěchota a ze dvou směrů pracovaly drony. Kromě brigády Chartija se zapojil útočný regiment R.U.H., dronový regiment Lava, dronová brigáda Achilles a jednotky vojenské rozvědky včetně Legie Svoboda Ruska a Ruského dobrovolnického korpusu. Chartija hlásí víc než třicet zajatých a přes sto zabitých Rusů a tvrdí, že tím Rusku odřízla možnost dostat se do kupjanského týlu. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0RnJGic91xNHssZeokB9UrmFbm6PHjFxojSUAGjZ2bZ7L9twX8FipCFAdWYbq8BjSl):
+        detail: |
+          - Ukrajinská rozvědka HUR zveřejnila rozbor nové ruské řízené střely Filin, kterou Rusko začalo používat proti Ukrajině na konci letošního léta. Vyrábí ji NPO Molnija ze skupiny Taktické raketové zbrojení, střela je dlouhá asi 3,5 metru s rozpětím kolem tří metrů, trup má z kompozitu vyztuženého karbonem a skelnými vlákny a některé díly jsou tištěné na 3D tiskárně. Startuje z pozemního odpalovače pomocí startovacího motoru na pevné pohonné hmoty, pak práci přebírá proudový motor R500 od firmy Reynolds, známý už ze střel S-71K Kover a S-71M Monochrom. Elektroniku dodává firma PLAZ, která zásobuje i drony Garpija, navigaci zajišťuje čínská inerciální jednotka a šestnáctikanálový satelitní modul Kometa. HUR ve střele napočítala 35 komponent americké výroby a 22 čínských.
+          - EU předložila návrh 117 nových sankčních položek (dvanáct osob a 105 subjektů). Jednatřicet z nich míří přímo na ruské kapacity zpracování, rafinace a vývozu ropy od Petrohradu po Sachalin, dvaapadesát na banky a finanční instituce, dva na zpracovatele zkapalněného plynu, jeden na ocelárnu v okupované Doněcké oblasti. Dalších patnáct zápisů je pro firmy vojensko-průmyslového komplexu a dvanáct pro fyzické osoby spojené s Ozonem, Wildberries a Yandexem. Zvlášť jsou na seznamu subjekty ze Spojených arabských emirátů, Ománu, Singapuru, Hongkongu a Seychel, které Moskvě pomáhají sankce obcházet, dvanáct jich je jen z Emirátů. 
+          - Finský premiér Petteri Orpo přijel do Kyjeva a s ukrajinskou stranou podepsal sedm dokumentů v celkové hodnotě kolem 300 milionů eur. Finsko daruje deset dieselových lokomotiv, Nokia Defense a ICEYE Ukraine podepsaly s ministerstvem obrany prohlášení o spolupráci v oblasti satelitní komunikace, PATRIA GROUP se dohodla s ukrajinským Centrem pro výzkum bezpilotních systémů na společném podniku ve Finsku pro vojenské a dvouúčelové drony a firma Bavovna Miltech s finskou INSTA na výstavbě kapacit pro vývoj a výrobu těžkých bezpilotních systémů včetně bombardovacích a nosných platforem.
+          - Rusko v noci ostřelovalo Kyjev a jedna z raket s kazetovou hlavicí dopadla mezi Kyjevsko-pečerskou lávru a budovu kláštera, tedy do míst, kde se nic „vojenského“ najít jednoduše nedá a kde kazetová munice slouží jen k jednomu účelu: zabít co nejvíc lidí na co největší ploše. Jiný zásah do infrastruktury metra na Pivdenním mostě rozdělil zelenou linku na dvě části, vlaky jezdí zvlášť na úseku Syrec–Vydubyči a Osokorky–Červonyj Chutir. Andrij Sybiha k tomu napsal, že Kyjevané si v noci zažili, jak Witkoffův ruský „humanismus“ vypadá ve skutečnosti.
+          - Moskevský primátor Sergej Sobjanin tvrdí, že od půl deváté večer do čtvrté ráno letělo na Moskevskou oblast 630 dronů, z toho 163 mělo být zneškodněno až na okraji samotné metropole. V Serpuchově, necelých sto kilometrů od Moskvy, zasáhly drony podle ruského kanálu ASTRA areál závodu 75. Arsenal, který podléhá ruskému dělostřelectvu a podle webu Militarnyi opravuje systémy protivzdušné obrany Buk a S-300V. Závod je na sankčních seznamech Ukrajiny i amerického ministerstva financí. 
+          - Rusko dokončilo přípravy na obnovení mechanizovaných útoků na jihu po několikaměsíční pauze a přesouvá obrněnou techniku na pozice. Nejaktivnější je huljajpilský směr, kde se denně odehrává deset až dvacet střetnutí a kde se Rusko pokouší o průlom k Záporoží a blokádu města. Spoléhá se na mlhu a déšť, které ukrajinským dronům zhoršují viditelnost, přesně jako v listopadu 2025. 
+          - Německá federální prokuratura zadržela v Brandenbursku, asi 85 kilometrů západně od Berlína, ukrajinského občana vedeného jako Vadym Y. Má od července 2025 přes prostředníka spolupracovat s ruskou rozvědkou a sbírat informace o výrobě obrněné techniky, munice a výbušnin, o vojenském personálu a o objektech, které mají zajišťovat východní křídlo NATO.
+          - Rusko podle HUR rozjelo v okupovaných oblastech další etapu operace s názvem Ilegál-2026. Lidi bez ruských dokladů okupační správa považuje za cizince a aplikuje na ně ruské migrační právo, cílem je dotlačit je k ruským pasům, případně je vytlačit z okupovaných území, zabavit jim majetek a vyhodit je z práce.
+          - Partyzánské hnutí ATEŠ tvrdí, že jeho lidé vyřazují ruské vojenské komunikační linky v okolí jednoho z největších moskevských komerčních datacenter IXcellerate, aby narušili koordinaci protivzdušné obrany a pomohli dronům dostat se k cílům. 
+          - Ruský úder zasáhl v Záporoží soukromý dům a zabil dvoučlennou rodinu, sedmatřicetiletého muže a osmatřicetiletou ženu.
+          - Rusko předalo Ukrajině těla 252 lidí, podle ruské strany patří ukrajinským vojákům.
+          - Zelenskyj udělil titul Hrdina Ukrajiny šesti vojákům, pěti z nich posmrtně.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1018980092863648174)
+          - [Válka v podzemí](https://pixelfed.cz/p/dnesnaukrajine/1018978469530284426)
+          - [Boje v potrubí](https://pixelfed.cz/p/dnesnaukrajine/1018978516150874508)
+          - [Po ruských náletech](https://pixelfed.cz/p/dnesnaukrajine/1018978582883025293)
+          - [Mínus fabrika v Tule](https://pixelfed.cz/p/dnesnaukrajine/1018978625470226830)
+          - [75. Arsenal](https://pixelfed.cz/p/dnesnaukrajine/1018978659628769681)
+          - [HIMARS se trefil](https://pixelfed.cz/p/dnesnaukrajine/1018978705333703058)
+          - [Moskva](https://pixelfed.cz/p/dnesnaukrajine/1018978737340875155)
+          - [Ruská PVO?](https://pixelfed.cz/p/dnesnaukrajine/1018978772312986004)
+          - [Mínus cisterna](https://pixelfed.cz/p/dnesnaukrajine/1018978805750006165)
       - title: "Středa" 
         year: "21. října 2026"
         sort: "2026-10-21"
