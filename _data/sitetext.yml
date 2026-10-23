@@ -41,6 +41,11 @@ timeline:
       - title: "Pátek" 
         year: "23. října 2026"
         sort: "2026-10-23"
+        pictures:
+          - ["2026-10-23-1.jpg", "Jsou doma."]
+          - ["2026-10-23-2.jpg", "Po ruských náletech."]
+          - ["2026-10-23-3.jpg", "Po ruských náletech."]
+          - ["2026-10-23-4.jpg", "Trosky dronu na moskevském letišti."]
         image: assets/img/timeline/2026-10-23.jpg
         podcast: "2026-10-23.mp3"
         desc: |
