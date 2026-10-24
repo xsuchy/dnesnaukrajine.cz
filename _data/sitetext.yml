@@ -38,6 +38,47 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota" 
+        year: "24. října 2026"
+        sort: "2026-10-24"
+        image: assets/img/timeline/2026-10-24.jpg
+        pictures:
+          - ["2026-10-24-1.jpg", "Bohdana."]
+          - ["2026-10-24-2.jpg", "Po ruském zajetí."]
+          - ["2026-10-24-3.jpg", "Omsk."]
+          - ["2026-10-24-4.jpg", "Omsk."]
+        podcast: "2026-10-24.mp3"
+        desc: |
+          Krym se v noci ponořil do tmy a obyvatelé okupovaného poloostrova si na vlastní kůži vyzkoušeli to, čím ruská propaganda už rok vyhrožuje Ukrajincům. Ukrajinské drony zasáhly rozvodnu Taman 500/220 kV v Krasnodarském kraji, klíčový uzel, který přes Kerčský průliv propojuje ruskou energetickou síť s Krymem. Bez elektřiny zůstal celý poloostrov včetně Sevastopolu, Jalty, Simferopolu a Alušty, a monitorovací služba NetBlocks naměřila propad internetového provozu téměř na nulu. V Toljatti v Samarské oblasti pak hořel závod Tolyattikauchuk, který vyrábí syntetický kaučuk pro kompozitní tuhá raketová paliva a palivovou přísadu MTBE, a zaměstnance sousední automobilky AvtoVAZ museli evakuovat od výrobních linek. Hlášené jsou i výpadky elektřiny a vody ve městě. Dál na východ, v Omsku přes 2 400 kilometrů od Ukrajiny, zasáhly ukrajinské drony petrochemický kombinát Omskij kaučuk a logistické centrum Ozonu. Generální štáb k tomu přidal zásah vojenského letounu na letišti Jejsk a Rosaviacija kvůli dronům preventivně opět uzavřela moskevská letiště Šeremetěvo, Domodedovo, Vnukovo i Žukovskij. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02cnXGfUq5S8GettFvSbKkTpqQTUGb6YXUCN8WoMD9vHSjPy2YUhdYrMgf3rqYPpJrl):
+        detail: |
+          - Rusko v noci vyslalo od šesti hodin večer 126 útočných dronů, mezi nimi Shahedy, jejich proudové verze, střely S8000 Banderol a Dan-T, Gerbery a klamné Parodije. Protivzdušná obrana do osmi ráno sestřelila nebo potlačila 101 dronů, z toho 50 proudových, zásahy jsou hlášené ze čtrnácti míst a trosky dopadly na pět dalších. V kyjevském Obolonu dron poškodil soukromý dům a zranil dva lidi, hasiči tam likvidovali požár, a v Kyjevě i v oblasti zavedli mimořádná odpojení elektřiny. Terčem byla také energetika a kritická infrastruktura v Žytomyrské oblasti, tam se vše obešlo bez zraněných. Za uplynulý den ruské útoky na Ukrajině zabily čtyři lidi a 78 jich zranily. 
+          - Zelenskyj podepsal další sankce proti ruskému zbrojnímu průmyslu. Část míří na 51 ruských občanů a 44 firem, z nichž 42 je registrovaných v Rusku a dvě v Číně, a jde o dodavatele surovin, zařízení a nástrojů pro balistické a dlouhé střely Iskander, Kalibr, Kh-101 a Kinžal, včetně vedení těchto firem. Druhý seznam zahrnuje 32 ruských občanů a 35 firem, které dodávají vysoce přesné průmyslové vybavení, nástroje, komponenty a elektroniku. Sankce dopadly také na podniky skupiny Rusal, které podle Ukrajiny vyrábějí vojenská letadla, obrněná vozidla, raketové systémy a drony.
+          - Ruská dceřiná firma německého velkoobchodu Metro, kterou Kreml v září převzal do nucené dočasné správy, poslala miliardu rublů, tedy asi 11,1 milionu eur, do fondu Všeruské lidové fronty „Vše pro vítězství!“ na vybavení pro vojáky na frontě. Metro AG uvedlo, že dar neschválilo a že od 28. září, kdy Putin podepsal příslušný dekret, nemá nad ruskou pobočkou žádnou kontrolu. Podle Deutsche Welle poslaly letos témuž fondu peníze i další firmy pod ruskou správou, mimo jiné Can-Pack 1,5 miliardy rublů, Akzo Nobel miliardu a Rockwool 600 milionů.
+          - Starlink a vojenský Starshield jsou podle Zelenského i ministra obrany Jevhena Chmary opět v plném provozu. Terminály v pohybu zvládají opět rychlosti nad 400 kilometrů v hodině místo zastropovaných 161 a připojení je stabilní, takže omezení, které ukrajinským dronovým jednotkám komplikovalo život víc než týden, skončilo. Skupina demokratických senátorů a kongresmanů přesto poslala Elonu Muskovi otevřený dopis s pěti otázkami, proč k omezení vůbec došlo.
+          - Ukrajina i Rusko potvrdily dohodu o lokálním příměří v okupovaných Oleškách v Chersonské oblasti. Začít má 27. října ve čtyři hodiny ráno místního času a znamená dočasné zastavení veškerých vojenských akcí ve městě, vpuštění humanitární pomoci, odminování přístupových cest a evakuaci civilistů bezpečným koridorem, přičemž evakuovaní si mají vybrat, zda chtějí na Ukrajinu, nebo do Ruska. 
+          - Zelenskyj v rozhovoru pro ABC News potvrdil, že je ochotný uzavřít mír na základě zmrazení konfliktu na současné linii fronty, ale odmítá uznat okupovaná území za ruská. Moskva přitom příměří se zmrazením fronty odmítá, dokud nebude celková dohoda uzavřená za ruských podmínek.
+          - Ukrajina dočasně evakuovala své velvyslanectví ve Washingtonu poté, co u vchodu do konzulárního oddělení našli podezřelý předmět. Policie uzavřela okolní ulice a poslala na místo pyrotechniky, později omezení zrušila a provoz se obnovil. 
+          - Z okupované části Chersonské oblasti se na ukrajinské území vrátilo dalších pět dětí a při výměně zajatců se podařilo dostat domů sedm dalších civilistů.
+          - Rusko v pátek odpoledne shodilo na Kramatorsk tři letecké bomby FAB-250. Zemřel jeden člověk a šest dalších bylo zraněno, mezi nimi tři děti. 
+          - Soud v Charkově poslal na patnáct let do vězení muže, který na pokyn ruských zpravodajských služeb zapaloval objekty Ukrzaliznycje.
+          - Policie v Žytomyrské oblasti zadržela sedmnáctiletou dívku, která podle vyšetřovatelů pomáhala ruské FSB otravovat ukrajinské vojáky.
+          - Partyzánské hnutí ATEŠ ohlásilo zničení komunikační věže u Šebekina v Belgorodské oblasti, která sloužila k řízení ruských dronů.
+          - Každý třetí voják zajatý Ukrajinci na frontě je nyní žoldák z Afriky, Asie nebo Blízkého východu. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1019702956643366806)
+          - [V podzemí u Kupjansku](https://pixelfed.cz/p/dnesnaukrajine/1019699428203988803)
+          - [Rusové zasáhli přehradu](https://pixelfed.cz/p/dnesnaukrajine/1019699463869245253)
+          - [Safari Cherson, Rusové zabili člověka při venčení](https://pixelfed.cz/p/dnesnaukrajine/1019699528178132812)
+          - [Solidní trefa](https://pixelfed.cz/p/dnesnaukrajine/1019699558757807950)
+          - [Omsk](https://pixelfed.cz/p/dnesnaukrajine/1019699595672688465)
+          - [Rozebírání logistiky](https://pixelfed.cz/p/dnesnaukrajine/1019699680198305620)
+          - [Omsk, Ozon](https://pixelfed.cz/p/dnesnaukrajine/1019699706934089557)
+          - [První ranou](https://pixelfed.cz/p/dnesnaukrajine/1019699739220445014)
+          - [Charkov](https://pixelfed.cz/p/dnesnaukrajine/1019699799464191832)
+          - [Ruský nálet na civilisty](https://pixelfed.cz/p/dnesnaukrajine/1019699833392650074)
+          - [Mínus ruský velitelský post](https://pixelfed.cz/p/dnesnaukrajine/1019699875357775707)
+          - [Zajatec do sbírky](https://pixelfed.cz/p/dnesnaukrajine/1019700361907717990)
+          - [Momentka](https://pixelfed.cz/p/dnesnaukrajine/1019700387951691628)
       - title: "Pátek" 
         year: "23. října 2026"
         sort: "2026-10-23"
