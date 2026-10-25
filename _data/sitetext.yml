@@ -29108,6 +29108,8 @@ timeline:
         year: "14. říjen 2024"
         sort: "2024-10-14"
         image: assets/img/timeline/2024-10-14.jpg
+        pictures:
+          - ["2024-10-14-1.jpg", ""]
         desc: |
           Ukrajinské úřady evakuují desítky institucí a podniků poté, co jim přišly zprávy o tom, že se v objektech nachází výbušná zařízení. Připomíná vám to něco? Ano, i Česko na začátku roku zasáhla vlna anonymních výhrůžek bombami, které měly být umístěny v desítkách škol. Česko přitom nebyla zdaleka jedinou zemí, která podobným výhrůžkám čelila. Například v květnu letošního roku a na podzim znovu to samé řešilo Slovensko, v roce 2023 Baltské státy, Bulharsko a Německo, v roce 2019 Polsko. A to je pouze zlomek. Ve všech případech se přitom skloňoval stejný pravděpodobný původce výhrůžek: Rusko a jeho tajné služby. Ostatně, i výhrůžky v Česku a na Slovensko se podařilo vystopovat až k ruským IP adresám. Polská rozvědka dokonce označila za viníka konkrétní jednotku ruské GRU operující z Petrohradu. Cíl byl nejspíš u všech těchto hybridních útoků stejný: způsobit chaos, vytvořit atmosféru strachu a nejistoty, podpořit proruské strany slibující falešnou představu o klidu a míru a potrestat státy za jejich postoj k Rusku a Ukrajině. Když přijde na Rusko a jeho hybridní válku, i poměrně inteligentní lidé mají tendenci ignorovat spojitosti a přecházet je posměšnou poznámkou, že člověk sleduje zprávy tolik, až slyší trávu růst a vidí Rusko všude. Faktem ale je, že ruská hybridní operace je mimořádně objemná, komplikovaná a účinná. Implantuje lidem názory, zesiluje určitá okrajová témata, podporuje společenský úpadek v jinak prosperujících zemích a rozsévá chaos všude, kde je k tomu prostor. Bylo by naopak velmi naivní ruskou dezinformační a propagandistickou mašinérii podceňovat. A teď [pár novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0NgT8Qq949DAU3SYfiPLq8wJn9M1SYrMhskLgi6BKQ4HQYkE4soPMHZe81Ge2uFA6l) z posledních 24 hodin: 
         detail: |
@@ -29140,6 +29142,8 @@ timeline:
         year: "13. říjen 2024"
         sort: "2024-10-13"
         image: assets/img/timeline/2024-10-13.jpg
+        pictures:
+          - ["2024-10-13-1.jpg", ""]
         desc: |
           V Choceradech se tento víkend koná „Konzervativní kemp“, který pořádá „Spolek pro obranu svobody projevu“. Mnohem víc než touha po svobodě projevu nebo konzervativní myšlenky ale jeho vystupující a hosty spojuje to, že jsou dlouhodobými konzumenty a aktivními šiřiteli nebezpečné ruské, případně čínské, propagandy. Mezi přednášejícími je například Petr Macinka (Motoristé, IVK), Patrik Nacher (ANO), Alexandr Vondra (ODS), Jan Zahradil (ODS), Daniela Kovářová, Ivo Budil (PRO), Daniel Vávra nebo Ladislav Jakl (IVK). Mezi hosty má být dále například Jiří Kobza (SPD), Marek Stoniš (Deník TO), Radek Vondráček (ANO), Radim Passer, Lubomír Veselý (XTV), Pavel Matocha, Roman Joch, Michal Semín (Akce D.O.S.T.), miliardář Pavel Tykač nebo Ondřej Dostál (Stačilo!). Co bylo skutečným cílem setkání, pravděpodobně uvidíme v příštích měsících vedoucím k volbám do parlamentu. A teď [další novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0tDzTtp6cu6JDrsAyuTdFhg1a9VL1wSs86SbQAzWuDoE1CTFe71GR4pWuXfWCohvl):
         detail: |
@@ -29179,6 +29183,9 @@ timeline:
         year: "12. říjen 2024"
         sort: "2024-10-12"
         image: assets/img/timeline/2024-10-12.jpg
+        pictures:
+          - ["2024-10-12-1.jpg", ""]
+          - ["2024-10-12-2.jpg", ""]
         desc: |
           Slovenská zbrojovka ZVS uvedla do provozu nový závod na výrobu dělostřelecké munice ráže 155 mm v obci Snina. Ten by tak měl začít produkovat přes 10 000 kusů této munice každý měsíc a dá se předpokládat, že jejím odbytištěm bude Ukrajina. Pokračuje tak schizofrenní postoj Ficovy vlády, která na jednu stranu vypouští do éteru desítky proruských výroků a veřejně kritizuje vojenskou pomoc Ukrajině, a na straně druhé umožňuje slovenskému zbrojnímu průmyslu profitovat z celé situace a dál Ukrajinu vyzbrojovat. Což bohužel nemění nic na tom, že jeho cílem pravděpodobně je situaci maximálně využít pro zájmy jeho vlády a zároveň ochotu Západu stát za Ukrajinou postupně rozleptá. A ještě se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid07QkoZVKXYUgsFhcg6b6YMpUByAifHBj7HjGuBqQtGSH28GaTEnwe7zBqPqoB53x5l):
         detail: |
@@ -29215,6 +29222,8 @@ timeline:
         year: "11. říjen 2024"
         sort: "2024-10-11"
         image: assets/img/timeline/2024-10-11.jpg
+        pictures:
+          - ["2024-10-11-1.jpg", ""]
         desc: |
           Ruští blogeři si postěžovali, že velitelé ruské armády často lžou o postupu ruské armády, což vede k situaci, kdy jejich dělostřelectvo nepálí na obce, které jsou podle velitelů pod ruskou kontrolou, a přitom je stále kontrolují ukrajinské jednotky. To pak logicky vede k situaci, kdy je pěchota vyslána obsadit nějakou vesnici a narazí na silný odpor, který znamená pro Rusy mnohem větší než nezbytné ztráty. Pravdou je, že Rusové nyní pálí o něco méně granátů denně než před několika měsíci a Ukrajina údajně dokázala snížit poměr vypálených granátů postupně z 1:8 až na současných 1:3, ale to je zároveň dáno navýšením produkce vlastních munice a dodávkám ze zahraničí. Rusové stále devastují dělostřelectvem všechny obce po celé délce fronty. A pak se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02efyDMvePzd7fLVoDtC4bU2KMVj7BVw5qiujTbPG2i53MgXLh1an6fxKiG3VBKV7Fl): 
         detail: |
