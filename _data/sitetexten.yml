@@ -23,6 +23,104 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Sunday
+    year: October 25, 2026
+    sort: '2026-10-25'
+    image: assets/img/timeline/2026-10-25.jpg
+    podcast: 2026-10-25.mp3
+    desc: 'While Witkoff and Kushner travel to the Kremlin to “negotiate peace,” details
+      of what is actually being discussed there are slowly coming to light. The New
+      York Times and the Financial Times reported that Novatek, a sanctioned Russian
+      gas giant, secretly financed Polar Train LNG—a $25 billion U.S. project to export
+      gas from Alaska’s North Slope—and influenced its strategic decisions without
+      the necessary U.S. permits. Former CEO Joel Riddle resigned in September because,
+      until then, he had been convinced that the money was coming from U.S. investor
+      Gentry Beach and the Emirati firm Tech Wave. Beach, however, did not invest
+      a single dollar in the company and is neither a shareholder nor a member of
+      the board of directors. Riddle claims that Novatek senior manager Denis Solovov
+      handled the financing via WhatsApp. Following Riddle’s departure, CFO Dan Chandra
+      and two executive managers also left. The interim CEO is now Tim Talkington,
+      formerly the head of Goldman Sachs’ Russian division. The project involves transporting
+      a Russian liquefaction facility currently under construction to Alaska, and
+      the company applied to the Department of the Treasury for permission to negotiate
+      with Novatek but was denied. Both Novatek and Polar LNG deny the reports and
+      have described Riddle as a disgruntled former employee who was fired. In any
+      case, Trump announced again today that once the war ends, the United States
+      will trade with both Ukraine and Russia. He somehow forgot to mention that trade
+      is likely already taking place. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0377NTdSwtjp4nsM4wmLhJCoK1hRV9owhxYVWijhE4VEXA6iMvsCiMTniTLNWurjful)
+      also happened:
+
+      '
+    detail: "- Since this evening, Russia has launched 153 drones into Ukraine, including\
+      \ 92 Shahed jet drones and low-cost Banderol missiles. Air defenses shot down\
+      \ 119 of them. In Vinnytsia, a drone struck a five-story residential building,\
+      \ injuring six people and completely destroying four apartments; a private nursing\
+      \ home was also damaged, and fifteen residents were evacuated from there. In\
+      \ Synelnykove, in the Dnipropetrovsk region, the death toll from a strike on\
+      \ a multi-story building rose to four; a 62-year-old man died in the hospital\
+      \ this morning. Among the thirteen injured is an 11-year-old girl; four people\
+      \ are in serious condition, and two of them are in critical condition. In Kharkiv,\
+      \ one person was killed following a strike in the Novobavarskyi district; a\
+      \ shopping mall in the Osnovyanskyi district and a commercial building in the\
+      \ Industrialnyi district caught fire. During a repeated strike on firefighters,\
+      \ two rescue workers were injured and a water tanker was destroyed; a third\
+      \ firefighter was injured while extinguishing the fire at the shopping mall.\
+      \ Energy infrastructure in the Zhytomyr region and critical infrastructure in\
+      \ Dnipro have been damaged; the Rivne region is reporting fires following a\
+      \ nighttime attack. Over the past day, Russian attacks in Ukraine have killed\
+      \ eight people and injured 51.\n- Ukrainian strikes today targeted the Russian\
+      \ military-industrial complex. In Yelets, in the Lipetsk region, at least two\
+      \ British Storm Shadow guided missiles struck two buildings at the Energija\
+      \ plant, which develops and manufactures chemical power sources—namely, batteries\
+      \ for the Iskander-K and Iskander-M missiles, the hypersonic Kinzhal, the anti-ship\
+      \ Zircon, the Pantsir air defense system, and the UMPB D-30SN guided glide bombs.\
+      \ According to Exilenova, this is the only Russian manufacturer of batteries\
+      \ for the navigation and correction modules of glide bombs. Energija has already\
+      \ been targeted at least four times. The second target was the Avisma chemical-metallurgical\
+      \ plant in Berezniki in the Perm Krai, approximately 1,500 kilometers from the\
+      \ Ukrainian border. It is owned by VSMPO-Avisma, the world’s largest titanium\
+      \ producer and a key supplier to the Russian defense industry. Titanium and\
+      \ magnesium alloys from this facility are used in military aircraft, aircraft\
+      \ engines, and rocket and space technology; the plant employs over 7,100 people.\
+      \ \n- Elon Musk confirmed that the decision to limit Starlink’s speed in Ukraine\
+      \ was his own, and accused the Ukrainian military of violating the terms of\
+      \ service by using it for offensive drone strikes and to kill people. According\
+      \ to Musk, any changes to the military’s StarShield program should have been\
+      \ decided by the U.S. government. Trump continues to insist that he wasn’t involved,\
+      \ but Vice President J. D. Vance hinted at coordination with the White House.\
+      \ Serhiy Beskrestnov, Zelenskyy’s advisor on defense technology, rejected the\
+      \ allegations. He said that the long-standing restrictions on the civilian system\
+      \ in Ukraine did not even allow for such use, and he finds it very strange that\
+      \ Musk is unaware of them. \n- Overnight, Ukrainian drones struck the MegaGRINN\
+      \ shopping and entertainment center in Belgorod, the city’s largest complex,\
+      \ covering an area of approximately 163,000 square meters and housing more than\
+      \ 200 stores, a supermarket, a movie theater, and restaurants. At the time of\
+      \ the attack, however, it was closed and empty. \n- In less than 24 hours, Russia\
+      \ struck four Epicentr hypermarkets—in Zaporizhzhia, Kharkiv, Vinnytsia, and\
+      \ Poltava. The company says the chain has been completely destroyed. In Poltava,\
+      \ a 52-year-old woman was injured during the strike on the hypermarket. \n-\
+      \ According to a survey conducted in Germany, 63 percent of people support maintaining\
+      \ or increasing military aid to Ukraine, while 32 percent want to reduce it.\n\
+      - Mediazona, in collaboration with the BBC's Russian service, has already identified\
+      \ 282,993 Russian soldiers killed in Ukraine. \n- National Guard soldiers delivered\
+      \ baby food and toys to the occupied town of Olešky in the Kherson region. \n\
+      - Ukrainian intelligence claims that Russia is turning the temporarily occupied\
+      \ territories into criminal enclaves.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1020027959807824712)
+
+      - [Evacuating a Drone with a Drone](https://pixelfed.cz/p/dnesnaukrajine/1020026610602677043)
+
+      - [The Storm Shadow missiles were in operation](https://pixelfed.cz/p/dnesnaukrajine/1020026654122840885)
+
+      - [Prisoners from the Pipe](https://pixelfed.cz/p/dnesnaukrajine/1020026705756967735)
+
+      - [Drones at Work](https://pixelfed.cz/p/dnesnaukrajine/1020026773967803194)
+
+      - [Minus the plane](https://pixelfed.cz/p/dnesnaukrajine/1020026804034855739)
+
+      - [Attacks on Ships](https://pixelfed.cz/p/dnesnaukrajine/1020026915674948413)
+
+      '
   - title: Saturday
     year: October 24, 2026
     sort: '2026-10-24'

@@ -38,6 +38,36 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle" 
+        year: "25. října 2026"
+        sort: "2026-10-25"
+        image: assets/img/timeline/2026-10-25.jpg
+        podcast: "2026-10-25.mp3"
+        pictures:
+          - ["2026-10-25-1.jpg", "Po ruském náletu."]
+          - ["2026-10-25-2.jpg", "Epicentr."]
+          - ["2026-10-25-3.jpg", "Rusové zasáhli další autobus."]
+          - ["2026-10-25-4.jpg", "Balíček pro Olešky."]
+        desc: |
+          Zatímco Witkoff s Kushnerem jezdí do Kremlu „vyjednávat mír“, pomalu vyplouvá na povrch, o čem se tam vlastně mluví. New York Times a Financial Times popsaly, že sankcionovaný ruský plynárenský gigant Novatek tajně financoval Polar Train LNG, pětadvacetimiliardový americký projekt na vývoz plynu z aljašského North Slope, a ovlivňoval jeho strategická rozhodnutí bez potřebných amerických povolení. Bývalý generální ředitel Joel Riddle v září rezignoval, protože byl do té doby přesvědčený, že peníze chodí od amerického investora Gentryho Beache a emirátské firmy Tech Wave. Beach nicméně do firmy nevložil ani dolar a není ani akcionářem, ani členem správní rady. Riddle tvrdí, že financování řešil přes WhatsApp vysoký manažer Novateku Denis Solovov. Po Riddlovi odešel finanční ředitel Dan Chandra i dva výkonní manažeři. Prozatímním šéfem je dnes Tim Talkington, dříve šéf ruské divize Goldman Sachs. Projekt přitom počítá s tím, že se na Aljašku převeze rozestavěné ruské zkapalňovací zařízení, a o povolení jednat s Novatekem si firma u ministerstva financí požádala, ale nedostala ho. Novatek i Polar LNG informace odmítají a Riddla označili za zklamaného bývalého zaměstnance, kterého vyhodili. Trump dnes každopádně opět oznámil, že po skončení války budou Spojené státy obchodovat s Ukrajinou i s Ruskem. Že se už nejspíš obchoduje, zmínit jaksi zapomněl. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0377NTdSwtjp4nsM4wmLhJCoK1hRV9owhxYVWijhE4VEXA6iMvsCiMTniTLNWurjful):
+        detail: |
+          - Rusko vyslalo od večera na Ukrajinu 153 dronů, z toho 92 proudových shahedů a k nim levné rakety Banderol. Protivzdušná obrana zneškodnila 119 z nich. Ve Vinnycji dron zasáhl obytnou pětipatrovou budovu, zranil šest lidí a úplně zničil čtyři byty, poškozený je i soukromý domov pro seniory, odkud evakuovali patnáct obyvatel. V Synelnykove v Dněpropetrovské oblasti stoupl počet mrtvých po úderu na vícepodlažní dům na čtyři, dvaašedesátiletý muž zemřel ráno v nemocnici. Mezi třinácti zraněnými je jedenáctiletá dívka, čtyři lidé jsou ve vážném a dva z nich v kritickém stavu. V Charkově zahynul po zásahu v Novobavarském rajónu jeden člověk, hořela nákupní galerie v Osnovjanském rajónu a komerční podnik v Industrialném. Při opakovaném úderu na hasiče byli zraněni dva záchranáři a zničena cisterna, třetí hasič se zranil při hašení galerie. Poškozena je energetická infrastruktura v Žytomyrské oblasti i kritická infrastruktura v Dnipru, požáry po nočním útoku hlásí Rivneská oblast. Za poslední den ruské útoky na Ukrajině zabily osm lidí a 51 jich zranily.
+          - Ukrajinské údery dnes mířily na ruský vojenský průmysl. V Jelcu v Lipecké oblasti zasáhly nejméně dvě britské řízené střely Storm Shadow dvě budovy závodu Energija, který vyvíjí a vyrábí chemické zdroje energie, tedy baterie pro rakety Iskander-K a Iskander-M, hypersonický Kinžal, protilodní Zirkon, protivzdušný systém Pancir a řízené klouzavé bomby UMPB D-30SN. Podle Exilenovy je to jediný ruský výrobce baterií pro navigační a korekční moduly kluzákových bomb. Energija byla terčem už nejméně čtyřikrát. Druhým cílem byl chemicko-metalurgický závod Avisma v Bereznikách v Permském kraji, přibližně 1 500 kilometrů od ukrajinských hranic. Patří společnosti VSMPO-Avisma, největšímu výrobci titanu na světě a klíčovému dodavateli ruského zbrojního průmyslu. Titan a hořčíkové slitiny odtud jdou do vojenských letadel, leteckých motorů a raketové a kosmické techniky, pracuje tam přes 7 100 lidí. 
+          - Elon Musk potvrdil, že omezení rychlosti Starlinku na Ukrajině bylo jeho rozhodnutí, a obvinil ukrajinskou armádu, že porušila podmínky služby, když ji použila k útočným dronovým úderům a zabíjení lidí. O změnách u vojenského Starshieldu měla podle Muska rozhodovat americká vláda. Trump dál tvrdí, že on to nebyl, ale viceprezident J. D. Vance naznačil koordinaci s Bílým domem. Serhij Beskrestnov, poradce Zelenského pro obranné technologie, obvinění odmítl. Dlouhodobá omezení civilního systému na Ukrajině prý takové použití ani neumožňovala a je podle něj velmi zvláštní, že o nich Musk neví. 
+          - V noci na dnešek zasáhly ukrajinské drony nákupní a zábavní centrum MegaGRINN v Bělgorodu, největší komplex ve městě o rozloze přibližně 163 tisíc metrů čtverečních s víc než dvěma stovkami obchodů, supermarketem, kinem a restauracemi. V době útoku bylo každopádně zavřené a prázdné. 
+          - Rusko za necelých čtyřiadvacet hodin zasáhlo čtyři hypermarkety Epicentr, a to v Záporoží, Charkově, Vinnycji a Poltavě. Firma mluví o totální destrukci sítě. V Poltavě byla při úderu na hypermarket zraněna dvaapadesátiletá žena. 
+          - Podle průzkumu v Německu podporuje 63 procent lidí udržení nebo navýšení vojenské pomoci Ukrajině, naopak 32 procent ji chce snížit.
+          - Mediazona společně s ruskou redakcí BBC identifikovala už 282 993 ruských vojáků zabitých na Ukrajině. 
+          - Vojáci Národní gardy dovezli do okupovaných Olešek v Chersonské oblasti kojeneckou výživu a hračky. 
+          - Ukrajinská rozvědka tvrdí, že Rusko mění dočasně okupovaná území na kriminální enklávy.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1020027959807824712)
+          - [Evakuace dronu dronem](https://pixelfed.cz/p/dnesnaukrajine/1020026610602677043)
+          - [Storm Shadow pracovaly](https://pixelfed.cz/p/dnesnaukrajine/1020026654122840885)
+          - [Zajatci z roury](https://pixelfed.cz/p/dnesnaukrajine/1020026705756967735)
+          - [Drony při práci](https://pixelfed.cz/p/dnesnaukrajine/1020026773967803194)
+          - [Mínus letadlo](https://pixelfed.cz/p/dnesnaukrajine/1020026804034855739)
+          - [Údery na lodě](https://pixelfed.cz/p/dnesnaukrajine/1020026915674948413)
       - title: "Sobota" 
         year: "24. října 2026"
         sort: "2026-10-24"
