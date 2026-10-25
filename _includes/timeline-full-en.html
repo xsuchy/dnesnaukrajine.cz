@@ -46,8 +46,11 @@
                     {% for picture in event.pictures %}
                     <div class="picture-item">
                       <a href="https://podcast.dnesnaukrajine.cz/images/{{ picture[0] }}" data-lightbox="pictures-{{ event.year }}" data-title="{{ picture[1] }}">
-                        <img src="https://podcast.dnesnaukrajine.cz/images/{{ picture[0] }}" alt="{{ picture[1] }}" class="picture-thumbnail" loading="lazy">
+                        <img src="https://podcast.dnesnaukrajine.cz/images/{{ picture[0] }}" alt="{{ picture[1] | default: 'Picture from ' + event.year }}" class="picture-thumbnail" loading="lazy">
                       </a>
+                      {% if picture[1] and picture[1] != '' %}
+                      <div class="picture-caption">{{ picture[1] }}</div>
+                      {% endif %}
                     </div>
                     {% endfor %}
                   </div>
