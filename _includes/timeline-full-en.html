@@ -50,7 +50,7 @@
                           <img src="https://podcast.dnesnaukrajine.cz/images/{{ picture[0] }}" alt="{{ picture[1] | default: 'Picture from ' + event.year }}" class="picture-thumbnail" loading="lazy">
                         </a>
                       </div>
-                      {% if picture[1] and picture[1] != '' %}
+                      {% if picture[1] != blank %}
                       <div class="picture-caption">{{ picture[1] }}</div>
                       {% endif %}
                     </div>
