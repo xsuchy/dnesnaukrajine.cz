@@ -38,6 +38,42 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí" 
+        year: "26. října 2026"
+        sort: "2026-10-26"
+        image: assets/img/timeline/2026-10-26.jpg
+        podcast: "2026-10-26.mp3"
+        pictures:
+          - ["2026-10-26-1.jpg", "Ukrajinská PVO."]
+          - ["2026-10-26-2.jpg", "Rusové zasáhli další obchoďák."]
+          - ["2026-10-26-3.jpg", "V Rusku vykolejil vlak s palivem."]
+          - ["2026-10-26-4.jpg", "Ruská věž s automatickou PVO."]
+        desc: |
+          Voroněž v noci na vlastní kůži poznala válku, kterou její vlastní průmysl pomáhá vést. Ukrajinské drony a rakety zasáhly petrochemický podnik Voroněžsyntezkaučuk, který dodává syntetický kaučuk do dodavatelských řetězců ruského zbrojního průmyslu a kde hořelo už 25. září. Podle monitorovacích kanálů utrpěl škody také Voroněžský letecký závod. Ten patří pod Iljušin, staví a modernizuje dálkové bombardéry Il-96 a Il-96-400M, dodává komponenty pro MC-21, SJ-100 a Il-114-300 i pylony a motorové gondoly pro motory PD-14 a PD-8. Zasažen byl i Severní most přes voroněžskou nádrž, provoz na něm byl přerušen a nad městem stoupal celý den kouř. Obyvatelé podle agentury ASTRA neslyšeli sirény a nepřišlo ani jiné varování před náletem, což je po bezmála pěti letech války skvělá vizitka ruských úřadů. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0KiXyszLSsgp87P1cUrMJ87nM3CrKLEXCT3pzGJqv4iXGurayQuVCqU8oxJeX4z5El):
+        detail: |
+          - Zelenský sdělil, za co by Ukrajina přestala zasahovat ruské rafinerie. Nabídl Washingtonu tři varianty: energetické příměří, tedy že Rusko přestane útočit na ukrajinskou energetiku a Ukrajina přestane zasahovat naftová zařízení a rafinerie. Nebo umožnění provozu Starlinku nad Ruskem, které by Ukrajině dovolilo zasahovat pozice ruských odpalovacích zařízení balistických raket. Případně dodávky raket pro Patrioty, aby Ukrajina nebyla závislá na Muskovi ani na Putinovi. Nedostala ale ani jedno, takže údery pokračují. Na rakety pro systémy Patriot a NASAMS, které už spojenci zaplatili, čeká Ukrajina téměř měsíc a chybí jen podpis amerického ministra obrany Peta Hegsetha. USA nicméně i tak exportují jen dvanáct raket pro Patrioty měsíčně. Zelenský také odmítl rušení sankcí jako pozvánku k jednání: byly podle něj uvaleny jako odpověď na agresi, ne jako cena za možnost spolu mluvit.
+          - Ukrajina brzdí reformu Státního úřadu pro vyšetřování (DBR), která je jednou z podmínek EU pro rozpočtovou pomoc na roky 2026 a 2027. Úřad vyšetřuje úředníky, soudce, prokurátory i vojáky, takže kdo ho ovládá, drží v ruce velmi silnou páku. Ředitele dnes vybírá devítičlenná komise, v níž tři členy jmenuje prezident, tři parlament ovládaný jeho stranou a tři vláda na doporučení mezinárodních partnerů, zahraniční experti tedy rozhodující hlas nemají. EU chce model jako u antikorupčního NABU, kde bez hlasů nezávislých zahraničních expertů ředitele potvrdit nelze. Vláda nejspíš schválí verzi, která bude Bruselu vyhovovat jen na papíře: úřad zůstane pod kontrolou Kanceláře prezidenta a nová pravidla se uplatní až v roce 2032. Termín pro přijetí reformy byl v říjnu a provedení má být hotové do konce roku. 
+          - Rusko vyslalo přes noc na Ukrajinu asi 140 dronů typu Shahed a Gerbera a návnad Parodija, také čtyři rakety, jednu střelu Ch-31P a tři řízené Ch-59/69. Protivzdušná obrana sestřelila nebo potlačila 112 dronů a všechny tři Ch-59/69, zásahy jsou hlášené z patnácti míst. V Jasnohirce u Kramatorsku svrhla ruská letadla čtyři řízené pumy na domy a obchody v centru, jeden člověk zahynul a deset bylo zraněno. Ve Slovjansku vyprostili záchranáři z rozbořeného domu tělo jeho majitele a v Pavlohradu zabil dron jednoho člověka a zranil sedm lidí včetně dvou desetiletých dívek. Izjum zasáhly řízené letecké pumy, poškozeno je víc než deset domů, dětská sportovní škola a několik ulic přišlo o elektřinu a internet. V Oděské oblasti Rusové zasáhli průmyslový podnik a při hašení ho napadli ještě dvakrát – hasiči se ale stihli ukrýt.
+          - Ukrajina a USA chtějí trilaterální jednání v Abú Dhabí posunout nejméně o týden dřív, předběžně se mluví o době kolem 10. listopadu, tedy až po amerických volbách. Podle Ukrajinské pravdy chce Kyjev na místo přivézt evropské úředníky a průběžně je informovat, Rusko je ale u prvního stolu nechce. Evropa navíc nemá jednoho vyjednavače s mandátem, na posledních jednáních ji zastupoval Björn Seibert, šéf kabinetu Ursuly von der Leyenové. Kremelský poradce Jurij Ušakov řekl, že Rusko je připraveno jednat po 4. listopadu, schůzku označil za předběžnou a průzkumnou a datum neuvedl. 
+          - Podle Wall Street Journal tlačí Trumpova administrativa Viktora Orbána na post generálního tajemníka OSN a zdroje ve třech zemích tvrdí, že by ho podpořilo i Rusko a Čína. Úředník amerického ministerstva zahraničí připustil, že to zní šíleně, odhaduje ale osm až deset hlasů z patnácti v Radě bezpečnosti. Vetovat může Francie i Británie. Mandát Antónia Guterrese končí 31. prosince a Rada bezpečnosti má 28. října absolvovat první neformální hlasování. O diplomatické imunitě, kterou taková funkce přináší, se v tiskových prohlášeních skoro nemluví.
+          - Bulharsko jde 1. listopadu do druhého kola prezidentských voleb a hlavním tématem je ukrajinská válka. Prezidentka Iliana Iotovová, která prosazuje dialog s Moskvou a staví se proti vojenské pomoci Ukrajině, získala podle exit pollů 35 až 36,5 procenta, bankéř a bývalý prozatímní premiér Andrej Gjurov 32,2 až 32,5 procenta. Účast byla jen kolem dvaceti procent a z 27 kandidátských dvojic byla téměř polovina otevřeně prokremelská. 
+          - Srbská Studentská kandidátka má podle předběžných odhadů 135 až 140 z 250 mandátů, koalice Aleksandara Vučiće kolem 105, většina je 126. Vučić porážku uznal v neděli a předpovídá, že nová vláda uvalí sankce na Rusko do března nebo dubna 2027. Kreml ústy Dmitrije Peskova „doufá, že nové politické síly pochopí, že spolupráce s Ruskem je v srbském zájmu, protože z ní Srbsko těží“.
+          - Ruský úder poškodil energetický objekt v Kamjanec-Podilském okrese v Chmelnycké oblasti. Omezení dodávek elektřiny platí v šesti oblastech. Ruské ministerstvo obrany se hlásí k zásahům elektráren v Charkovské a Chmelnycké oblasti, skladu v Charkově a přístavní infrastruktury v Čornomorsku.
+          - Podle Telegraphu a jeho diplomatických zdrojů může Moskva v nových jednáních žádat návrat NATO ke konfiguraci z roku 1997, tedy stažení spojeneckých sil z Polska, Estonska, Lotyšska, Litvy a Finska. V prosinci 2021 Rusko žádalo v podstatě totéž a NATO to tehdy jasně odmítlo.
+          - Dmitrij Medveděv na ruské státem podporované síti Max vyzval Trumpa, aby si zavolal ministra války a šéfa CIA a nechal je postarat se o „nešťastný malý problém“ jménem Zelenský, přičemž „jak, kde a čím, je nepodstatné“.
+          - V Paříži se sešli ministři obrany Francie, Německa, Itálie, Polska a Británie se šéfkou evropské diplomacie Kajou Kallasovou. Na programu byla dodatečná podpora Ukrajiny, evropská obrana a Blízký východ.
+          - Ukrajinské ministerstvo hospodářství navrhlo nový způsob, jak přilákat zahraniční pracovníky: každoroční seznam žádaných profesí a jednotné posuzování kvalifikace uchazečů.
+          - Moldavský premiér Alexandru Munteanu přijel do Kyjeva na jednání se Zelenským o bilaterálních vztazích, obchodu, regionální bezpečnosti a evropské cestě obou zemí.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1020428208682653005)
+          - [Prolejzačka](https://pixelfed.cz/p/dnesnaukrajine/1020420225728087303)
+          - [Voroněž](https://pixelfed.cz/p/dnesnaukrajine/1020420274789393672)
+          - [Mínus dron](https://pixelfed.cz/p/dnesnaukrajine/1020420310758810890)
+          - [Voroněž](https://pixelfed.cz/p/dnesnaukrajine/1020420343681115405)
+          - [Voroněž](https://pixelfed.cz/p/dnesnaukrajine/1020420382334706958)
+          - [Neprojeli](https://pixelfed.cz/p/dnesnaukrajine/1020420417329968400)
+          - [Orel](https://pixelfed.cz/p/dnesnaukrajine/1020420448533759250)
+          - [Tank pracuje](https://pixelfed.cz/p/dnesnaukrajine/1020420508341437715)
       - title: "Neděle" 
         year: "25. října 2026"
         sort: "2026-10-25"
