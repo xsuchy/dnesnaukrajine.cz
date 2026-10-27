@@ -37,6 +37,50 @@
 
   <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feeden.xml" />
   
+  <!-- Lightbox for picture gallery -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css" rel="stylesheet">
+  
+  <!-- Picture grid styles -->
+  <style>
+    .picture-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+      margin: 15px 0;
+    }
+    
+    .picture-container {
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+      align-items: stretch;
+    }
+    
+    .picture-item {
+      aspect-ratio: 1;
+      overflow: hidden;
+      border-radius: 4px;
+    }
+    
+    .picture-thumbnail {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+    
+    .picture-thumbnail:hover {
+      transform: scale(1.05);
+    }
+    
+    .picture-caption {
+      font-size: 0.8em;
+      color: #6c757d;
+      text-align: center;
+      word-break: break-word;
+    }
+  </style>
+  
   <!-- Page container change top padding when nav shrinks -->
   {% if page.layout == "page" %}
   <style>
