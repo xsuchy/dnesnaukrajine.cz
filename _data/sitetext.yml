@@ -37119,15 +37119,11 @@ timeline:
           - [Krynky](https://twitter.com/GloOouD/status/1769960467353518189)
           - [Drony se činí](https://twitter.com/gettylegion/status/1770043233965338625)
           - [Ničení ruského útoku](https://twitter.com/666_mancer/status/1769775614402195773)
-      pictures:
-        - image: assets/img/podcast/2024-03-19-1.jpg
-          desc:
-        - image: assets/img/podcast/2024-03-19-2.jpg
-          desc:
-        - image: assets/img/podcast/2024-03-19-3.jpg
-          desc:
-        - image: assets/img/podcast/2024-03-19-4.jpg
-          desc:
+        pictures:
+          - ["2024-03-19-1.jpg", ""]
+          - ["2024-03-19-2.jpg", ""]
+          - ["2024-03-19-3.jpg", ""]
+          - ["2024-03-19-4.jpg", ""]
       - title: "Pondělí"
         year: "18. března 2024"
         sort: "2024-03-18"
@@ -37200,15 +37196,11 @@ timeline:
           - [Legie a její přepad ruských vojáků](https://twitter.com/front_ukrainian/status/1769083112175157703)
           - [A je hotovo](https://twitter.com/herooftheday10/status/1769363716359999646)
           - [Drony (citlivé!)](https://twitter.com/sgorlovki/status/1769330602589737172)
-      pictures:
-        - image: assets/img/podcast/2024-03-17-1.jpg
-          desc:
-        - image: assets/img/podcast/2024-03-17-2.jpg
-          desc:
-        - image: assets/img/podcast/2024-03-17-3.jpg
-          desc:
-        - image: assets/img/podcast/2024-03-17-4.jpg
-          desc:
+        pictures:
+          - ["2024-03-17-1.jpg", ""]
+          - ["2024-03-17-2.jpg", ""]
+          - ["2024-03-17-3.jpg", ""]
+          - ["2024-03-17-4.jpg", ""]
       - title: "Sobota"
         year: "16. března 2024"
         sort: "2024-03-16"
@@ -37255,6 +37247,11 @@ timeline:
         year: "15. března 2024"
         sort: "2024-03-15"
         image: assets/img/timeline/2024-03-15.jpg
+        pictures:
+          - ["2024-03-15-1.jpg", ""]
+          - ["2024-03-15-2.jpg", ""]
+          - ["2024-03-15-3.jpg", ""]
+          - ["2024-03-15-4.jpg", ""]
         desc: |
           Bývalý ruský prezident a současný předseda bezpečnostní rady Medveděv sepsal svou představu o ruských „mírových“ požadavcích v sedmi bodech: „1) bezpodmínečná kapitulace bývalé Ukrajiny, reprezentované neonacistickou klikou v Kyjevě, úplné odzbrojení a zákaz budoucího vytváření ozbrojených složek; 2) Uznání nacistického charakteru kyjevského režimu mezinárodní komunitou a denacifikace Ukrajiny pod dohledem OSN; 3) OSN uzná ztrátu legálního statutu Ukrajiny a nemožnost jejích právních následníků vstupovat do jakýchkoliv vojenských aliancí, 4) Rezignace veškerých představitelů Ukrajiny a uspořádání nových voleb do provizorního parlamentu; 5) Provizorní parlament okamžitě schválí válečné reparace za škody způsobené občanům a majetku Ruské federace; 6) Provizorní parlament okamžitě uzná veškeré území Ukrajiny za území Ruské federace a schválí akt o sjednocení s Ruskou federací; 7) Rozpuštění provizorního parlamentu, schválení aktu o sjednocení v OSN.“ Tento svůj fašistický pamflet Medveděv následně označil za „mírnější verzi požadavků“. Pojďme radši na [další zprávy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02TW1y2uetwVqh8AGtEm9L28ata5AgxtjzfbKfa84dDgWNeEv4neGUd3xPJYStfSQQl), jinak budu potřeboval kýbl:
         detail: |
@@ -37289,6 +37286,11 @@ timeline:
         year: "14. března 2024"
         sort: "2024-03-14"
         image: assets/img/timeline/2024-03-14.jpg
+        pictures:
+          - ["2024-03-14-1.jpg", ""]
+          - ["2024-03-14-2.jpg", ""]
+          - ["2024-03-14-3.jpg", ""]
+          - ["2024-03-14-4.jpg", ""]
         desc: |
           Putinovo prohlášení, že „by bylo směšné začít jednat s Ukrajinou o míru jen proto, že jí dochází munice“, ostře kontrastuje s názory šířenými konzumenty ruské propagandy, že když Západ přestane dodávat munici, pak válka skončí. Putin v podstatě říká přesný opak: pokud bude cítit, že má Rusko navrch, válka bude pokračovat až do úplného zničení a podmanění Ukrajiny, což je pravděpodobně to, čemu říká „denacifikace“ – úplné zničení jakýchkoliv forem odporu na Ukrajině podle logiky „kdo nemiluje Rusko, musí být nacista“. To by ale znamenalo nejen nutnost zničení ukrajinské armády, ale také civilního odporu: aktivistů, inteligence, jednoduše kohokoliv, kdo nesouzní s ruským pokřiveným výkladem historie a ukrajinské identity. Existuje pro to jedno slovo, které takové jednání obsahuje celé: genocida. Západním politikům by mělo být neustále připomínáno, že nepodpořit Ukrajinu, aby se Rusku ubránila, znamená umožnit genocidu. A umožnit zločin znamená se na něm podílet. Nedovolme, aby letargie Západu umožnila Rusku páchat zločiny. Tady je pár [dalších důvodů](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02v4keCupEYFkPm4cSMDAzXmGQ9CbmcVJfu3RZNvyzaduQSpMnQqoN6LB9cHptRJSGl): 
         detail: |
@@ -37327,6 +37329,11 @@ timeline:
         year: "13. března 2024"
         sort: "2024-03-13"
         image: assets/img/timeline/2024-03-13.jpg
+        pictures:
+          - ["2024-03-13-1.jpg", ""]
+          - ["2024-03-13-2.jpg", ""]
+          - ["2024-03-13-3.jpg", ""]
+          - ["2024-03-13-4.jpg", ""]
         desc: |
           Ukrajina oznámila, že „systematicky implementuje detailní strategii na zredukování ekonomického potenciálu Ruska“. A jak řekla, tak udělala. V noci na dnešek zasáhly ukrajinské drony další tři velké ropné rafinérie v Rusku: v Rjazani, v Kstovém a v Kiriši. Drony ale útočily také na vojenské základny – leteckou základnu v Buturlinivce a vojenské letiště ve Voroněži. Rusové tvrdí, že jejich PVO sestřelila 65 dronů. Dobřeee. Rusové už několik týdnů nazpátek zastavili export ruských produktů kvůli nedostatku na domácím trhu a současné útoky situaci ještě zhorší. Ukrajinci dobře chápou, že o konci války se nejspíš nerozhodne na bojišti ale na světovém trhu. A potenciální kolaps ruské ekonomiky by se mohl o rychlý konec války spolehlivě postarat. Držme jim proto palce a pojďme na [další novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0S5ZfceT1mzK2uTVCj3pgcxcbSdzcEhojCrjLhwECqBdDjECFPLaSL9UsBtVyMnLpl): 
         detail: |
@@ -37419,6 +37426,11 @@ timeline:
         year: "11. března 2024"
         sort: "2024-03-11"
         image: assets/img/timeline/2024-03-11.jpg
+        pictures:
+          - ["2024-03-11-1.jpg", ""]
+          - ["2024-03-11-2.jpg", ""]
+          - ["2024-03-11-3.jpg", ""]
+          - ["2024-03-11-4.jpg", ""]
         desc: |
           Poté, co se Orbán setkal s Trumpem v jeho floridském sídle, poskytl rozhovor maďarským médiím, kde prohlásil, že pokud bude Trump zvolen prezidentem, slíbil nedat Ukrajině „už ani penny“, což by podle Orbána znamenalo, že rusko-ukrajinská válka okamžitě skončí, protože bez amerického financování prý Evropa nedokáže „válku živit“. Orbán dále řekl, že Trumpův mírový plán je prý velmi detailní a v souladu s maďarskými národními zájmy. Nebo že Trump hodlá přestat investovat do evropské bezpečnosti a nechat ji čistě na Evropanech. Doufám jen, že po tomhle vyjádření konečně přestanou Trumpovi fanoušci s omlouváním a vysvětlováním jeho kroků, jako by šlo ze strany Trumpa ve skutečnosti o jakousi promyšlenou partii 3D šachů, ve které by se Putinovi rozhodně postavil. Trump je ruský kolaborant. Orbán je ruský kolaborant. Když něco chodí jako kachna, kváká jako kachna a vypadá to jako kachna, pak to zkrátka je kachna, a ne orel bělohlavý. A teď [další aktuality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Ze9gerYcb5ynhjhHRtvCiDsHtdYCHz3eeGednEZi7WwjVR6egaFivUr42PtKTaxKl): 
         detail: |
@@ -37457,6 +37469,11 @@ timeline:
         year: "10. března 2024"
         sort: "2024-03-10"
         image: assets/img/timeline/2024-03-10.jpg
+        pictures:
+          - ["2024-03-10-1.jpg", ""]
+          - ["2024-03-10-2.jpg", ""]
+          - ["2024-03-10-3.jpg", ""]
+          - ["2024-03-10-4.jpg", ""]
         desc: |
           Jeden z nejbizarnějších příkladů toho, jak funguje rusko-čínská dezinformační mašinérie, šlo pozorovat na konci roku 2023. Už pár hodin poté, co Trump pronesl svůj projev, který okamžitě rozsvítil červené kontrolky u všechy historiků a politologů, protože nápadně připomínal Hitlerovy projevy ze 30. let minulého století, těsně než se Hitler dostal k moci. Robotické farmy okamžitě rozjely „damage control“ Trumpova projevu, ale ne tak, jak by člověk čekal. Najednou se objevily tisíce účtů na Twitteru a Facebooku, které sdílely „zásluhy“ Hitlera na poli výstavby, modernizace infrastruktury, restrukturalizace hospodářství nebo boje s nezaměstnaností s cílem vykreslit Hitlera v pozitivním světle jako někoho, kdo tvrdě pracoval pro svůj národ a jeho prosperitu. Ano. Propaganda totalitních států se místo toho, aby Trumpův projev zametla pod koberec, snažila přesvědčit svět, že přirovnání Trumpa k Hitlerovi je vlastně lichotivé, protože oba dali svou zemi na první místo. Že ten Hitler, který rozpoutal jednu z nejničivějších válek a holokaust, byl vlastně jen vlastenec, tvrdě pracující pro blaho Německa. A tehdy mi naplno došlo, že ruská a čínská dezinformační mašinérie nemá žádné morální limity a bude šířit skutečně úplně cokoliv, co může jejímu favoritu pomoci. Přitom společenská nebezpečnost takových psy-op kampaní může být potenciálně nevratná. Zejména tehdy, když začne ve společenské diskuzi normalizovat jednu z nejodpornějších postav moderních dějin. Ale očividně ani to nebyla ta pomyslná červená linie, za kterou by si společnost řekla, že je na čase dezinformace řešit. Kde tedy ta linie je? A je vůbec nějaká? Přemýšlejte o tom u [dalších aktualit](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid01H9zxNGzryy3g1FhArEtVqdHeqRC7mwZLjHDNfu2ZJ86fKEaBRvr48LM3WXkfhRyl): 
         detail: |
