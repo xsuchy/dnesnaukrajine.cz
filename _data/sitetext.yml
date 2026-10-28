@@ -38,6 +38,45 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa" 
+        year: "28. října 2026"
+        sort: "2026-10-28"
+        pictures:
+          - ["2026-10-28-1.jpg", "Průzkumný robot."]
+          - ["2026-10-28-2.jpg", "Trpaslík Putin."]
+          - ["2026-10-28-3.jpg", "Mínus ruské skladiště ropy."]
+          - ["2026-10-28-4.jpg", "Třetí bitva o Komar je v plném proudu."]
+        image: assets/img/timeline/2026-10-28.jpg
+        podcast: "2026-10-28.mp3"
+        desc: |
+          Američané Ukrajině zakázali ničit ruské rafinerie, tak si ukrajinské drony našly, co ničit místo nich. V noci zasáhly závod Azot v Novomoskovsku v Tulské oblasti, jeden z největších chemických komplexů v Rusku a majetek koncernu EuroChem. Podle analýzy to pravděpodobně odnesla jednotka výroby amoniaku AM-70, v areálu poté vypukl rozsáhlý požár. Azot vyrábí amoniak, dusičnan amonný, močovinu, metanol a kyselinu dusičnou, tedy produkty, které se hodí jak do hnojiv, tak do explozivní munice. Od února 2022 do září 2024 dodal skoro 5 000 tun kyseliny dusičné závodu Sverdlov v Dzeržinsku, jednomu z klíčových ruských výrobců trhavin. Letos jde minimálně o třetí zásah, předchozí přišly 14. a 26. června. Druhým cílem noci byl Lipeck, kde po útoku hořelo v areálu Novolipeckého metalurgického kombinátu NLMK, který stojí za asi pětinou ruské produkce. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02bCu36rSmZyMGgYuLPSYK6bX38vEU943sP6ZDiwui1K7v6yWZSN7Gv4YkaU8ErEvql):
+        detail: |
+          - Ruský nábor vojáků opět sklouzl k odvodům přímo z ulice a nově se to děje i na Sibiři. Obyvatelé Omsku zaplavili stížnostmi profil rekrutačního centra Sirius-55 v mapové aplikaci 2GIS. Jedna žena popsala, že její šedesátiletý otec "šel do obchodu a zmizel" a druhý den ho odvezli do Jugry. Další uvedla, že jejího bratra sebrali bez dokladů a telefonu a na náborovém centru jí pak oznámili, že podepsal kontrakt. Recenze zmiňují nemocné muže, lidi po mrtvici i seniory sebrané večer z ulice, v jednom případě si rodina odvezla zbitého muže z náborového centra domů. Podle média Verstka hlásí tuhle praxi lidskoprávní projekty z 33 ruských regionů a okupovaného Krymu a počet stížností skokově vzrostl v září a v říjnu. Muže zastavuje policie, Rosgvardija a zaměstnanci odvodních úřadů obvykle kvůli údajnému bagatelnímu přestupku, odvezou je na úřad nebo k jednotce a tam je lstí, nátlakem nebo hrozbami dotlačí k podpisu.
+          - Washington a Moskva podle Financial Times řeší v rámci mírových rozhovorů návrat amerických ropných firem do Ruska. Na stole je obnovení společné produkce u Sachalinu, účast amerických společností na obnovení ruského vývozu ropy do Evropy ropovodem Družba, obnovení dodávek ruského titanu do USA a otevření ruského vzdušného prostoru americkým aerolinkám. Kreml po schůzce Putina s Witkoffem v Petrohradu 21. října potvrdil i jednání o zahraničních aktivech Lukoilu, jejichž hodnota se původně odhadovala na 22 miliard dolarů. Americké ministerstvo financí prodloužilo povolení vyjednávat o prodeji do 21. listopadu. Zelenskyj varoval, že Rusko může Spojeným státům nabídnout "ekonomický sňatek", a dodal, že "dieselová dohoda" Rusům otevřela dveře k dalším podobným krokům.
+          - V noci Rusko vyslalo na Ukrajinu jednu balistickou raketu Iskander-M a 88 dronů typu Shahed, z toho 38 proudových, doplněných maketami Gerbera a Parodija. Protivzdušná obrana do osmi ráno zneškodnila 71 dronů, zásahy jsou hlášené z osmi míst. V Charkově zapálil proudový dron v Osnovjanském rajonu požár o rozloze 2 500 metrů čtverečních, který se rozšířil na domy a výrobní halu. Pět lidí se zranilo včetně čtyřletého. V Pavlohradu skončil po útoku dronu v nemocnici patnáctiletý chlapec. V Záporoží se FPV dron namířený na městský autobus zachytil v protidronové síti a tam vybuchl.
+          - Zelenskyj přijel do Nizozemska, kde ho na Catshuisu přivítal premiér Rob Jetten a kde mluvil o posílení ukrajinské protivzdušné obrany a o hospodářské spolupráci. Nizozemsko přislíbilo 1,2 miliardy eur na obnovu Ukrajiny na příští tři roky, dalších 40 milionů eur jde do fondu na podporu ukrajinské energetiky a 55 milionů na nákup energetického vybavení od nizozemských firem. Haag dosud poslal vojenskou pomoc za asi 10 miliard dolarů včetně letadel F-16 a odpalovacích zařízení Patriot.
+          - Verchovna rada v prvním čtení schválila 265 hlasy zvýšení daně ze zisku bank z 25 na 50 procent pro rok 2027. Rozpočet s tím už počítá a čeká výnos 38,5 miliardy hřiven. Národní banka je proti, protože ukrajinský bankovní sektor má asi desetkrát nižší kapitál než polský a daň ukrajuje právě z kapitálu, z něhož se půjčuje. Jde o čtvrté použití mimořádné daně od roku 2023, ale nezávislí ekonomové se přesto bank nijak zvlášť nezastávají. Jejich návratnost kapitálu totiž loni podle Concorde Capital dosáhla 29,9 procenta proti unijnímu průměru 9,4 procenta.
+          - Britský ministr obrany Wes Streeting a polský vicepremiér a ministr obrany Władysław Kosiniak-Kamysz podepsali ve Varšavě tříletý plán obranné spolupráce. Staví na northoltské smlouvě, kterou v květnu podepsali Keir Starmer a Donald Tusk, a zahrnuje společný vývoj protivzdušných raket nové generace na základě polských programů Narew a Pilica, vývoj dronů a protidronových technologií, vyšší námořní aktivitu v Baltu a společnou stavbu válečných lodí, polského Miecznika a britské fregaty Type 31.
+          - O tom, jak vypadá jednání s Putinem, vypovídá hovor s finským prezidentem Alexanderem Stubbem a norským premiérem Jonasem Gahrem Størem. Podle Financial Times a tří zdrojů obeznámených s jeho průběhem byl naplánovaný na půl hodiny a trval hodinu a půl, protože Putin většinu času přednášel o ruských historických fixacích včetně středověkých slovanských dějin. O okamžitém zastavení palby prý nepadlo téměř nic a ukrajinské výzvy k příměří se skoro neprobíraly. 
+          - Ukrajina možná bude muset vrátit noční světelné maskování. Poradce prezidenta Serhij Beskrestnov s volacím znakem Flash upozornil, že pokud Rusko začne masově montovat optický navigační modul Susanin na proudové drony Geran-5 a další prostředky a používat je v noci, bude se muset přehodnotit zejména osvětlení silnic a dálnic.
+          - Soud v Petrohradu poslal ruského podplukovníka na 21 let do kolonie za to, že si nechal natáčet falešné hrdinské činy z fronty a organizoval sebezraňování podřízených, aby z toho pro něj plynuly vyznamenání a výplaty.
+          - SBU zadržela dva ruské vojáky z 291. motostřeleckého regimentu, oba už dříve odsouzené za vraždu. Dezertovali na kramatorském směru, převlékli se do civilu a snažili se dostat stopem do Kyjeva.
+          - Z ruského zajetí se vrátil bojovník Azovu, kterého ruský soud poslal na 29 let do vězení.
+          - Na titul Hrdiny Ukrajiny byl navržen voják, který 491 dní držel pozici sám.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1021153410270950184)
+          - [Noční lov na drony](https://pixelfed.cz/p/dnesnaukrajine/1021150993933128440)
+          - [GUR pracuje u Sum](https://pixelfed.cz/p/dnesnaukrajine/1021151456450482942)
+          - [Dvě mouchy jednou střelou HAWK](https://pixelfed.cz/p/dnesnaukrajine/1021151479629456127)
+          - [Azot](https://pixelfed.cz/p/dnesnaukrajine/1021151542418961152)
+          - [Azot](https://pixelfed.cz/p/dnesnaukrajine/1021151614892020481)
+          - [Rusové zasáhli další útulek](https://pixelfed.cz/p/dnesnaukrajine/1021152035032576780)
+          - [Spletl si je](https://pixelfed.cz/p/dnesnaukrajine/1021152130358661903)
+          - [Charkov](https://pixelfed.cz/p/dnesnaukrajine/1021152224529974034)
+          - [Chytil ho](https://pixelfed.cz/p/dnesnaukrajine/1021152290537059095)
+          - [Rus na straně příjemce](https://pixelfed.cz/p/dnesnaukrajine/1021152378687230744)
+          - [Ženijní překážky v Kramatorsku](https://pixelfed.cz/p/dnesnaukrajine/1021152448216146713)
+          - [Do sbírky](https://pixelfed.cz/p/dnesnaukrajine/1021152487290848028)
       - title: "Úterý" 
         year: "27. října 2026"
         sort: "2026-10-27"
