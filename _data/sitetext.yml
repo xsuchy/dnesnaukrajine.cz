@@ -38,6 +38,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek" 
+        year: "30. října 2026"
+        sort: "2026-10-30"
+        pictures:
+          - ["2026-10-30-1.jpg", "Novokujbyševsk."]
+          - ["2026-10-30-2.jpg", "Olešky."]
+          - ["2026-10-30-3.jpg", "Rusům z neznámých důvodů shořela stíhačka Su-57 na letišti v Achtubinsku. "]
+          - ["2026-10-30-4.jpg", "Olešky."]
+          - ["2026-10-30-5.jpg", "Mínus dva Su-34."]
+        image: assets/img/timeline/2026-10-30.jpg
+        podcast: "2026-10-30.mp3"
+        desc: |
+          Do Oleškek konečně dorazilo jídlo. Trvalo to čtyři a půl roku okupace a bylo k tomu potřeba první dámy Spojených států, papeže a šestidenního příměří, aby se ke dvěma tisícům lidí, kteří v okupovaném městě zbyli z původních čtyřiadvaceti tisíc, dostaly konzervy a léky. Pětadvacet autobusů s kapacitou nejméně 750 míst, sanitky a nákladní auta s pomocí, vyjelo z Armjansku na okupovaném Krymu, což je asi pětaosmdesát kilometrů daleko, přestože ukrajinské území leží přes řeku pár kilometrů od města. Ukrajinský ombudsman se přes noc sešel se svým ruským protějškem Janou Lantratovovou přímo v Oleškách a potvrdil, že kdo chce odejít, odejít může, ať už do Ruska nebo na Ukrajinu. Dobrovolnice Ksenija Archypovová ale upozorňuje, že z asi tisícovky lidí, kteří jí řekli, že chtějí pryč, se mnozí bojí ruských výslechů a zadržení, a právě proto je důležité, aby u toho byla ukrajinská delegace. Evakuace měla běžet do čtrnácti hodin, rozdělování pomoci začít o půl hodiny později, trasa zveřejněna nebyla a při odminování přístupů zahynuli dva lidé. Příměří, které platí od tří hodin ráno v úterý, má vydržet do nedělního večera. Mimo vymezený okruh kolem Olešek pokračovala válka úplně stejně jako předchozí den. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0mm8bShfh7u8jXFxMFKA1bRHQ7J1gdCAYtMut4yL4fFuo5TD7iq75SvTsRsHEHY2jl):
+        detail: |
+          - Rusko v noci na pátek vyslalo balistické rakety Iskander-M, KN-23 a S-400, čtyři řízené střely Ch-59/69 z Bělgorodské oblasti a 113 útočných dronů. Protivzdušná obrana hlásí sestřelení tří střel a 96 dronů, zásahy jsou ze sedmnácti míst a trosky z dalších pěti, hlavním terčem byla Kyjevská, Poltavská a Dněpropetrovská oblast. V Kyjevě dopadly balistické rakety krátce po desáté večer, v Darnyckém obvodu hořely sklady, v Dněprovském poškodily trosky osm bytových domů, čerpací stanici, restauraci, zubní kliniku i auta. Jeden muž zahynul, pětatřicetiletá žena byla zraněna. V Dnipru a okolí zůstalo po zásahu rozvodných sítí bez elektřiny přes 350 tisíc odběratelů a čerpací stanice vody přešly na generátory. Do rána se podařilo dodávky vody opět uvést do plného provozu, přes 200 tisíc lidí ale zůstává potmě a elektrická městská doprava ráno stála. Ukrajina už skoro měsíc čeká, než americký ministr obrany Pete Hegseth schválí odeslání munice pro Patrioty a NASAMS, které spojenci z NATO přes mechanismus PURL dávno zaplatili.
+          - Ukrajina poslala večer a v noci na Moskvu největší roj dronů za dva roky. K Moskevské oblasti letělo podle Rusů 862 dronů, ruské ministerstvo obrany mluví o více než tisícovce zneškodněných dronů nad celým Ruskem. Provoz musela omezit všechna čtyři moskevská letiště, tedy Domodědovo, Vnukovo, Šeremetěvo i Žukovskij, a zavřelo také letiště v Jaroslavli. Podstatnější než statistika jsou ale zásahy. V Samarské oblasti hořela Novokujbyševská rafinerie, která ročně zpracuje asi 8,8 milionu tun ropy. Druhým cílem byl Starodub v Brjanské oblasti, kde po úderu vzplál velký požár v konzervárně Konservsušprod. Ta dodává konzervy a bojové dávky armádě i bezpečnostním složkám a zasažena byla už v letech 2023 a 2025. Novokujbyševsk je prvním zasaženým ruským rafinérským komplexem po dvoutýdenní pauze.
+          - Lavrov přiletěl do Spojených států na jednání ministrů zahraničí G20, které se 30. a 31. října koná v Atlantě. Přiletěl přesto, že je od roku 2022 pod americkými sankcemi. Demokratka Jeanne Shaheenová žádá, aby USA přestaly Putinovu režimu přiznávat diplomatickou legitimitu, a připojila se k dopisu třinácti senátorů z obou stran, kteří chtějí Putina a další sankcionované Rusy z akcí G20 na americké půdě vykázat. Ruské ministerstvo zahraničí přitom dopředu oznámilo, že Lavrov jede do Atlanty kritizovat západní sankce. Ukrajina pozvaná nebyla, Washington se odvolává na to, že zve jen formální členy, vyloučena byla i Jihoafrická republika a Čína. Summit lídrů G20 se má konat 14. a 15. prosince v Trumpově resortu Doral v Miami a Putin na něj byl pozván.
+          - Ukrajina zveřejnila mapu sledující sedm ruských tankerů, které do USA vezou 288 tisíc tun nafty: Taurus, Pvt Azura, Agioi Fanendes, Talisman, Leruo, Iblea a Primorye, většina je právě na cestě přes Atlantik, jeden se blíží k východnímu pobřeží USA a dorazit mají na začátku listopadu. Talisman, Leruo a Primorye jsou sankcionované jako součást stínové flotily, Talisman dokonce Spojenými státy. Senátor Richard Blumenthal 28. října varoval rejdaře, že dovoz ruské nafty zakazuje americký zákon z roku 2022 a že Trumpova dohoda s Putinem ho nepřebíjí.
+          - SBU zadržela v Kyjevské oblasti řidiče logistické firmy, který měl pro ruskou FSB navádět útoky na tepelné elektrárny, jež se po předchozích úderech teprve vracely do provozu. Pod záminkou pracovních cest objížděl okolí elektráren, telefonem fotil jejich vnější části a k místům v Google Maps psal vlastní komentáře, nákladním autem sledoval, jak pokračuje obnova jednoho bloku, a mapoval i polohy opraven, které používají ukrajinské obranné síly. FSB si ho našla podle protiukrajinských komentářů na Telegramu. 
+          - Firma Robotic Complexes vyvíjí pro svůj pozemní robot Murakha obrněný evakuační modul CASEEVAK, uzavřenou kapsli s ventilací, topením, osvětlením, lékárničkou a bočními i zadními dveřmi, do níž se ukládá zraněný voják. Trup je ze tři a půl milimetru silné oceli Armox 500T s vnitřní vrstvou HDPE a prošel balistickými testy na padesát metrů. Kamera s denním i nočním kanálem a obousměrné audio umožňují operátorovi sledovat stav zraněného, řídit se dá přes ELRS, LTE, Starlink nebo optické vlákno.
+          - V Záporožské jaderné elektrárně zahynul při dronovém útoku zaměstnanec, podle Mezinárodní agentury pro atomovou energii svářeč pracující v centrální opravárenské dílně. MAAE, která má v elektrárně trvalou přítomnost od září 2022, neuvedla, čí dron to byl. 
+          - Úřad vysokého komisaře OSN pro uprchlíky spustil sbírku na zimní pomoc a chce získat nejméně 50 milionů dolarů. Dodatečnou podporu podle něj potřebuje devět milionů lidí na Ukrajině, v Sýrii, Libanonu a Afghánistánu. 
+          - Rusko zasáhlo nad ránem průmyslový podnik v Kremenčuckém okrese, pár hodin po čtvrtečním útoku na město, zraněných je 32 včetně šesti dětí a případ se vede jako podezření z válečného zločinu.
+          - Putin na tiskové konferenci po summitu Rusko-Afrika prohlásil, že Rusko je na válku s Evropou v roce 2030 připraveno, ale nechce ji. 
+          - Sportovní arbitráž rozhodla, že ruský hokejový tým může opět nastoupit do mezinárodních soutěží. 
+          - Další zasedání kontaktní skupiny pro obranu Ukrajiny se uskuteční 17. listopadu v Bruselu.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1021864631192698889)
+          - [Evakuace Olešek](https://pixelfed.cz/p/dnesnaukrajine/1021861915821862872)
+          - [Mínus rafinérka](https://pixelfed.cz/p/dnesnaukrajine/1021861952037040089)
+          - [Novokujbyševsk](https://pixelfed.cz/p/dnesnaukrajine/1021862034547777503)
+          - [Mínus helikoptéra](https://pixelfed.cz/p/dnesnaukrajine/1021862112185835490)
+          - [Akce na frontě](https://pixelfed.cz/p/dnesnaukrajine/1021862317867225059)
+          - [Přepad na ruském území](https://pixelfed.cz/p/dnesnaukrajine/1021862877940088811)
       - title: "Čtvrtek" 
         year: "29. října 2026"
         sort: "2026-10-29"
