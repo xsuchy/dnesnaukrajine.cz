@@ -38,6 +38,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota" 
+        year: "31. října 2026"
+        sort: "2026-10-31"
+        pictures:
+          - ["2026-10-31-1.jpg", "Ráno na Ukrajině."]
+          - ["2026-10-31-2.jpg", "Ráno na Ukrajině."]
+          - ["2026-10-31-3.jpg", "Mínus ruský vojenský závod."]
+          - ["2026-10-31-4.jpg", "Trofeje."]
+        image: assets/img/timeline/2026-10-31.jpg
+        podcast: "2026-10-31.mp3"
+        desc: |
+          Obyvatelé okupovaných Olešek dorazili po devatenáctihodinové cestě na území pod ukrajinskou kontrolou. Autobusy je odvezly nejprve do Armjansku na okupovaném Krymu, kde si měli vybrat mezi Ruskem a Ukrajinou, pak do Anapy v Krasnodarském kraji, odtud čtyřmi letadly do běloruského Gomelu a nakonec na hraniční přechod v Černihivské oblasti, kde je čekali příbuzní, zdravotníci, policie a humanitární organizace. Podle novinářů Newsmaxu odjelo na Ukrajinu jedenáct autobusů a do Ruska …pouhé čtyři. Registrovalo se asi 750 lidí, přesné číslo úřady z bezpečnostních důvodů nezveřejnily. Ombudsman Dmytro Lubinec uvedl, že nejstaršímu evakuovanému bylo 94 let a nejmladšímu nedávno rok. Podle svědků z Mediální iniciativy pro lidská práva Rusové zvolili trasu, která se vyhnula nejzničenějším částem města, a nasadili výrazně víc svých novinářů než ukrajinských a amerických dohromady. Dobrovolnice Ksenija Archipovová tvrdí, že Rusko dohodu porušilo, když evakuaci spustilo dříve, než bylo ujednáno, a záběry ruské TASS to potvrzují. Zdroj dále uvádí, že Rusové odjezdy na Ukrajinu brzdili: pacienty strašili filtrací, části lidí o evakuaci vůbec neřekli a obyvatelům okolních vesnic vyhrožovali. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0ErmxHkbcZLK1HrLKceGbzinW1WfFAEZdygeW4DFcH5Peo5b9mXL48rVsbMUbYc26l): 
+        detail: |
+          - V Ufě, asi 1400 kilometrů od ukrajinských hranic, hořela po zásahu dronů rafinerie Bašněft-Novoil a podle monitorovací skupiny Krymský vítr i sousední Bašněft-UNPZ. OSINT analytici z projektu ASTRA potvrdili na základě fotografií svědků, že požár způsobil zásah ze vzduchu, a předběžně ho lokalizovali do jednotky katalytického reformingu L-35, která vyrábí vysokooktanový reformát a vodík pro odsiřování. Tři ufské rafinerie zvládnou dohromady zpracovat 23,5 milionu tun ropy ročně. Rosaviace zastavila provoz na ufském letišti, omezení dostala preventivně i Kazaň a Samara.
+          - Americký State Department schválil možný prodej 500 střel Patriot PAC-3 MSE s náhradními díly a logistickou podporou za 2,1 miliardy dolarů, zaplatit je mají Kanada, Německo a Norsko v programu JUMPSTART, americké peníze v tom už tradičně nejsou. Zelenskyj ale připomněl, že dodávky můžou začít až za několik let, zatímco střely Ukrajina potřebuje tuhle zimu na ochranu energetiky, a vyzval partnery, aby poslali interceptory ze svých zásob a doplnili si je později z nových kontraktů. 
+          - Rusko v noci vypustilo 134 dronů včetně proudových, protivzdušná obrana jich sestřelila nebo potlačila 105. Zásahy jsou hlášeny z dvaceti míst a trosky dopadly na dalších deset. Krátce po půlnoci dron zasáhl energetické zařízení v Kyjevě a část města zůstala bez elektřiny a vody. Bez proudu bylo asi 200 tisíc domácností v Dněpropetrovské oblasti a 80 tisíc v Kyjevské. Za poslední den zabily ruské útoky pět lidí a nejméně 46 jich zranily.
+          - Ukrajinský generální štáb oznámil, že v noci zasáhl drony a střelami Neptun Kamenský závod v Kamensku-Šachtinském v Rostovské oblasti, asi patnáct kilometrů od ukrajinských hranic. Patří k největším chemickým podnikům v Rusku a vyrábí pevné raketové palivo pro raketomety Uragan, Smerč a Tornado-S i pro další raketové systémy a letecké zbraně. 
+          - Polský prezident Karol Nawrocki otočil letadlo a zrušil návštěvu Senegalu kvůli ústavní krizi ve Varšavě. Soudkyně Anna Korwin-Petrovská oznámila suspendování předsedy Ústavního tribunálu Bogdana Święczkowského a jeho zástupce, Święczkowski se pak s představiteli pravicové opozice pokusil dostat do budovy s páčidlem a rozbruškou.
+          - Zelenskyj přijel do Istanbulu. Hlavním tématem byla podle něj lodní doprava v Černém moři, kde útoky obou stran na plavidla v posledních měsících zesílily a Ankara po incidentech s tureckými plavidly žádá moratorium na útoky na lodě. Kyjev s ním souhlasí, Moskva zájem neprojevila. 
+          - Americká ambasáda v Moskvě varovala před důvěryhodnou hrozbou útoku s velkým počtem obětí v muzejním areálu Caricyno a doporučila diplomatům se místu vyhnout. FSB oznámila, že informace o plánovaném teroristickém útoku v Moskvě prověřuje. 
+          - Kaliningrad a řada okolních měst zůstaly kolem půlnoci bez elektřiny a s narušeným mobilním internetem. Místní úřady to svedly na havarijní ochranu teplárny Kaliningrad CHP-2, která odstavila část zařízení. Letecká omezení ve stejné době hlásil i Permský kraj, souvislost potvrzená není.
+          - Kanada přislíbila 500 milionů eur do evropského podpůrného úvěru pro Ukrajinu o celkovém objemu 90 miliard, a to i přes vlastní rozpočtový deficit na rok 2027. Norsko slíbilo 7. října devět miliard dolarů a Británie 28. října třináct miliard.
+          - Trump prohlásil, že dohoda o ukončení války je blíž než kdy dřív. Zároveň odmítl výzvy k sankcím proti Rusku s odůvodněním, že by zablokovaly propuštění amerického občana Stephena Hubbarda.
+          - Spojené státy posuzují žádost o zrušení sankcí na ruský státní investiční fond vedený Kirillem Dmitrijevem, kterého jeden z amerických představitelů označil za užitečného vyjednavače.
+          - Ukrajina představila národní písmo Zakon, které má ve státních dokumentech nahradit typografii ruského střihu.
+          - Polská policie zadržela podezřelého z pobodání dvou Ukrajinců.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1022234541338414452)
+          - [Drony v práci](https://pixelfed.cz/p/dnesnaukrajine/1022233173057084753)
+          - [Konvoj z Olešek](https://pixelfed.cz/p/dnesnaukrajine/1022233200770456914)
+          - [Trefa!](https://pixelfed.cz/p/dnesnaukrajine/1022233237940366677)
+          - [Rusové zabili civilisty prchající s bílou vlajkou](https://pixelfed.cz/p/dnesnaukrajine/1022233277268159830)
+          - [Cesta na frontu](https://pixelfed.cz/p/dnesnaukrajine/1022233314261826903)
+          - [Mínus Grad](https://pixelfed.cz/p/dnesnaukrajine/1022233341164850520)
+          - [Mínus tři](https://pixelfed.cz/p/dnesnaukrajine/1022233360749972825)
       - title: "Pátek" 
         year: "30. října 2026"
         sort: "2026-10-30"

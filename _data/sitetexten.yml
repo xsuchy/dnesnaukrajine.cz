@@ -23,6 +23,116 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Saturday
+    year: October 31, 2026
+    sort: '2026-10-31'
+    image: assets/img/timeline/2026-10-31.jpg
+    podcast: 2026-10-31.mp3
+    desc: "Residents of the occupied town of Olešky arrived in territory under Ukrainian\
+      \ control after a 19-hour journey. Buses first took them to Armiansk in occupied\
+      \ Crimea, where they were asked to choose between Russia and Ukraine, then to\
+      \ Anapa in the Krasnodar Krai, from there by four planes to Gomel, Belarus,\
+      \ and finally to a border crossing in the Chernihiv region, where relatives,\
+      \ medical personnel, police, and humanitarian organizations were waiting for\
+      \ them. According to Newsmax reporters, eleven buses departed for Ukraine and\
+      \ …only four for Russia. About 750 people registered; the authorities did not\
+      \ disclose the exact number for security reasons. Ombudsman Dmytro Lubinec stated\
+      \ that the oldest evacuee was 94 years old and the youngest had recently turned\
+      \ one. According to witnesses from the Media Initiative for Human Rights, the\
+      \ Russians chose a route that avoided the most devastated parts of the city\
+      \ and deployed significantly more of their own journalists than Ukrainian and\
+      \ American journalists combined. Volunteer Ksenia Arkhipova claims that Russia\
+      \ violated the agreement by launching the evacuation earlier than agreed, and\
+      \ footage from the Russian news agency TASS confirms this. The source further\
+      \ states that the Russians hindered departures to Ukraine: they frightened patients\
+      \ with the prospect of filtration, did not inform some people about the evacuation\
+      \ at all, and threatened residents of nearby villages. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0ErmxHkbcZLK1HrLKceGbzinW1WfFAEZdygeW4DFcH5Peo5b9mXL48rVsbMUbYc26l)\
+      \ also happened: \n"
+    detail: "- In Ufa, about 1,400 kilometers from the Ukrainian border, the Bashneft-Novoil\
+      \ refinery caught fire following a drone strike, and according to the monitoring\
+      \ group Crimean Wind, the neighboring Bashneft-UNPZ refinery was also affected.\
+      \ OSINT analysts from the ASTRA project confirmed, based on photographs taken\
+      \ by witnesses, that the fire was caused by an airstrike and preliminarily pinpointed\
+      \ it to the L-35 catalytic reforming unit, which produces high-octane reformate\
+      \ and hydrogen for desulfurization. The three refineries in Ufa have a combined\
+      \ annual processing capacity of 23.5 million metric tons of crude oil. Rosaviatsia\
+      \ suspended operations at the Ufa airport, and preventive restrictions were\
+      \ also imposed on Kazan and Samara.\n- The U.S. State Department has approved\
+      \ the potential sale of 500 Patriot PAC-3 MSE missiles, along with spare parts\
+      \ and logistical support, for $2.1 billion; Canada, Germany, and Norway are\
+      \ to pay for them as part of the JUMPSTART program—as is customary, no U.S.\
+      \ funds are involved. Zelenskyy, however, pointed out that deliveries may not\
+      \ begin for several years, while Ukraine needs the missiles this winter to protect\
+      \ its energy infrastructure, and he called on partners to send interceptors\
+      \ from their stockpiles and replenish them later through new contracts. \n-\
+      \ Russia launched 134 drones overnight, including jet-powered ones; air defenses\
+      \ shot down or neutralized 105 of them. Strikes were reported from twenty locations,\
+      \ and debris fell in ten others. Shortly after midnight, a drone struck a power\
+      \ facility in Kyiv, leaving part of the city without electricity and water.\
+      \ About 200,000 households in the Dnipropetrovsk region and 80,000 in the Kyiv\
+      \ region were without power. Over the past day, Russian attacks have killed\
+      \ five people and injured at least 46.\n- The Ukrainian General Staff announced\
+      \ that overnight it struck the Kamensky Plant in Kamensk-Shakhtinsky, in the\
+      \ Rostov Region—about fifteen kilometers from the Ukrainian border—with drones\
+      \ and Neptune missiles. It is one of the largest chemical plants in Russia and\
+      \ produces solid rocket fuel for the Uragan, Smerch, and Tornado-S rocket launchers,\
+      \ as well as for other missile systems and airborne weapons. \n- Polish President\
+      \ Karol Nawrocki turned the plane around and canceled his visit to Senegal due\
+      \ to the constitutional crisis in Warsaw. Judge Anna Korwin-Petrovská announced\
+      \ the suspension of Constitutional Tribunal President Bogdan Święczkowski and\
+      \ his deputy; Święczkowski then attempted, along with representatives of the\
+      \ right-wing opposition, to force their way into the building using a crowbar\
+      \ and a grinder.\n- Zelenskyy arrived in Istanbul. According to him, the main\
+      \ topic of discussion was shipping in the Black Sea, where attacks by both sides\
+      \ on vessels have intensified in recent months, and Ankara is calling for a\
+      \ moratorium on attacks on ships following incidents involving Turkish vessels.\
+      \ Kyiv agrees with this, while Moscow has not expressed any interest. \n- The\
+      \ U.S. Embassy in Moscow issued a warning about a credible threat of an attack\
+      \ with a large number of casualties at the Tsaritsyno museum complex and advised\
+      \ diplomats to avoid the area. The FSB announced that it is investigating reports\
+      \ of a planned terrorist attack in Moscow. \n- Kaliningrad and a number of surrounding\
+      \ cities lost power and experienced disruptions to mobile internet service around\
+      \ midnight. Local authorities attributed this to an emergency safety shutdown\
+      \ at the Kaliningrad CHP-2 heating plant, which took part of its equipment offline.\
+      \ The Perm Krai also reported flight restrictions at the same time, though a\
+      \ connection between the two events has not been confirmed.\n- Canada has pledged\
+      \ 500 million euros to the European support loan for Ukraine, which totals 90\
+      \ billion, despite its own budget deficit for 2027. Norway pledged nine billion\
+      \ dollars on October 7, and the United Kingdom pledged thirteen billion on October\
+      \ 28.\n- Trump stated that an agreement to end the war is closer than ever.\
+      \ At the same time, he rejected calls for sanctions against Russia, arguing\
+      \ that they would prevent the release of U.S. citizen Stephen Hubbard.\n- The\
+      \ United States is reviewing a request to lift sanctions on the Russian State\
+      \ Investment Fund led by Kirill Dmitriev, whom a U.S. official has described\
+      \ as a useful negotiator.\n- Ukraine has introduced the national font \"Zakon,\"\
+      \ which is intended to replace Russian-style typography in government documents.\n\
+      - Polish police have arrested a suspect in the stabbing of two Ukrainians.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1022234541338414452)
+
+      - [Drones at Work](https://pixelfed.cz/p/dnesnaukrajine/1022233173057084753)
+
+      - [The Convoy from Olešky](https://pixelfed.cz/p/dnesnaukrajine/1022233200770456914)
+
+      - [Bull''s-eye!](https://pixelfed.cz/p/dnesnaukrajine/1022233237940366677)
+
+      - [The Russians killed civilians who were fleeing under a white flag](https://pixelfed.cz/p/dnesnaukrajine/1022233277268159830)
+
+      - [The Journey to the Front](https://pixelfed.cz/p/dnesnaukrajine/1022233314261826903)
+
+      - [Minus Grad](https://pixelfed.cz/p/dnesnaukrajine/1022233341164850520)
+
+      - [Minus three](https://pixelfed.cz/p/dnesnaukrajine/1022233360749972825)
+
+      '
+    pictures:
+    - - 2026-10-31-1.jpg
+      - Morning in Ukraine.
+    - - 2026-10-31-2.jpg
+      - Morning in Ukraine.
+    - - 2026-10-31-3.jpg
+      - Minus the Russian military factory.
+    - - 2026-10-31-4.jpg
+      - Trophies.
   - title: Friday
     year: October 30, 2026
     sort: '2026-10-30'
@@ -76852,7 +76962,7 @@ timeline:
       '
     title: Thursday
   - image: assets/img/timeline/2024-08-07.jpg
-    sort: '2024-08-07-2'
+    sort: 2024-08-07-2
     videa: '- [Video from Ukrainian SSO action on Kinburn spit](https://pixelfed.cz/p/dnesnaukrajine/727888015905158118)
 
       - [Drones at sea](https://pixelfed.cz/p/dnesnaukrajine/727888049571779559)
