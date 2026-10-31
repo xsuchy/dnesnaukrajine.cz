@@ -3087,11 +3087,7 @@ timeline:
         year: "6. srpna 2026"
         sort: "2026-08-06"
         image: assets/img/timeline/2026-08-06.jpg
-        pictures:
-          - ["2026-08-06-1.jpg", ""]
-          - ["2026-08-06-2.jpg", ""]
-          - ["2026-08-06-3.jpg", ""]
-          - ["2026-08-06-4.jpg", ""]
+        pictures: []
         podcast: "2026-08-06.mp3"
         desc: |
           Ukrajinský dobrovolník Oleksij Jukov zahynul při výbuchu protipěchotní miny, když se snažil vyzvednout ostatky padlých ruských vojáků. Jukov věřil, že každý padlý voják si zaslouží vrátit se domů a že každá rodina si zaslouží možnost pochovat své blízké. Nazýval padlé „dušemi“, nikoli těly. Jeho životním posláním bylo přivádět ukrajinské obránce zpět k jejich rodinám, aby mohli být důstojně pohřbeni. Zároveň vyzvedával ostatky ruských vojáků, aby mohly být vyměněny, a umožnil tak návrat domů dalším ukrajinským hrdinům. Oleksij se svými principy řídil až do poslední chvíle. Ať je mu země lehká. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0y7QJG3ZsJSwkgejm1vq2r7VNZECBZK21n1y37ppPetZvBT3vTmAAvnhNWwv6Gc49l): 
@@ -3128,14 +3124,10 @@ timeline:
         sort: "2026-08-05"
         image: assets/img/timeline/2026-08-05.jpg
         pictures:
-          - ["2026-08-05-1.jpg", ""]
-          - ["2026-08-05-2.jpg", ""]
-          - ["2026-08-05-3.jpg", ""]
-          - ["2026-08-05-4.jpg", ""]
-          - ["2026-08-05-5.jpg", ""]
-          - ["2026-08-05-6.jpg", ""]
-          - ["2026-08-05-7.jpg", ""]
-          - ["2026-08-05-8.jpg", ""]
+          - ["2026-08-05-1.jpg", "Noční Kyjev."]
+          - ["2026-08-05-2.jpg", "Zasažené nástupiště."]
+          - ["2026-08-05-3.jpg", "Robot pyrotechniků na letišti v Lipsku."]
+          - ["2026-08-05-4.jpg", "Alexin."]
         podcast: "2026-08-05.mp3"
         desc: |
           V noci byl na letišti v Lipsku nalezen na zemi FPV dron s výbušninami. Dron se nacházel v blízkosti ukrajinského nákladního letadla typu Antonov, což vedlo k dočasnému přerušení provozu letiště. Později, asi 6 km od letiště, se jiné nákladní letadlo srazilo s neznámým předmětem a muselo nouzově přistát v Hannoveru, kde byly zjištěny drobné škody. Naštěstí nebyl při ani jednom z incidentů nikdo zraněn. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02KcUsNDqoiCnmERzq6Vy9UHkb4Ux6JMUaYkQtdD9SxKpFZtJC92M3CeoVLxh7TMfnl): 
@@ -3172,10 +3164,10 @@ timeline:
         sort: "2026-08-04"
         image: assets/img/timeline/2026-08-04.jpg
         pictures:
-          - ["2026-08-04-1.jpg", ""]
-          - ["2026-08-04-2.jpg", ""]
-          - ["2026-08-04-3.jpg", ""]
-          - ["2026-08-04-4.jpg", ""]
+          - ["2026-08-04-1.jpg", "Ukrajina uspořádala pro své budoucí velvyslance prohlídku míst, kam dopadly ruské rakety."]
+          - ["2026-08-04-2.jpg", "Syzran."]
+          - ["2026-08-04-3.jpg", "U Petrohradu."]
+          - ["2026-08-04-4.jpg", "Kramatorsk."]
         desc: |
           Rusové zveřejnili na Telegramu video, na kterém jejich FPV dron loví za bílého dne obyčejného prodejce zeleniny na ulici v Chersonu a pokouší se ho zabít. Celý incident natočila také náhodná svědkyně. Muž jako zázrakem vyvázl jen s lehkými zraněními, přestože dron explodoval těsně vedle něj. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid04b6S1857qkSbnB1hbz8FR7Ta79e9k9FgAZ9QvjFTEBbQY3L1ikMb7dfzYvpTT5bDl): 
         detail: |
@@ -3210,10 +3202,10 @@ timeline:
         sort: "2026-08-03"
         image: assets/img/timeline/2026-08-03.jpg
         pictures:
-          - ["2026-08-03-1.jpg", ""]
-          - ["2026-08-03-2.jpg", ""]
-          - ["2026-08-03-3.jpg", ""]
-          - ["2026-08-03-4.jpg", ""]
+          - ["2026-08-03-1.jpg", "Vladimir."]
+          - ["2026-08-03-2.jpg", "Rozetka."]
+          - ["2026-08-03-3.jpg", "Situace u Lymanu."]
+          - ["2026-08-03-4.jpg", "Vitalina Jarovenko."]
         podcast: "2026-08-03.mp3"
         desc: |
           Vitalina Jarovenko, dvacetiletá dobrovolnice, zahynula 1. srpna při ruském útoku na Kyjev. V noci, když sloužila u zdravotnického praporu na levém břehu Kyjeva, dorazila Vitalina na místo ruského raketového útoku, aby pomohla zraněným. Při záchraně životů ostatních ji pak zasáhl druhý raketový úder a na místě zabil. Hrdinům sláva. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02LZxZXUL1oVLtpfpDA1CT6FeqQXzi1GtPxxUsgGYMVrn8HmEQXCudP2sVyfHLzfeSl): 
@@ -3253,10 +3245,10 @@ timeline:
         sort: "2026-08-02"
         image: assets/img/timeline/2026-08-02.jpg
         pictures:
-          - ["2026-08-02-1.jpg", ""]
-          - ["2026-08-02-2.jpg", ""]
-          - ["2026-08-02-3.jpg", ""]
-          - ["2026-08-02-4.jpg", ""]
+          - ["2026-08-02-1.jpg", "Samara."]
+          - ["2026-08-02-2.jpg", "Ukrajinská arta."]
+          - ["2026-08-02-3.jpg", "Zasažená Rozetka."]
+          - ["2026-08-02-4.jpg", "Ruská mobilní PVO."]
         podcast: "2026-08-02.mp3"
         desc: |
           Včera pozdě večer explodovala v luxusní moskevské restauraci Balzi Rossi improvizovaná bomba. Ruská média uvádějí, že výbušné zařízení maskované jako dárek pronesla dovnitř jakási žena. Podle kusých zpráv zahynulo pět lidí a více než 21 dalších bylo zraněno. Kanály na Telegramu tvrdí, že se v restauraci konala oslava 55. narozenin velitele ruských leteckých a kosmických sil Alexandra Čajka. Akci, jíž se účastnili vojáci, politici, úředníci a příslušníci FSB, údajně střežili příslušníci FSO. Čajko sám prý nebyl při incidentu zraněn. Což je nemilé. Na začátku invaze totiž Čajko velel ruským silám postupujícím na Kyjev. Ukrajina ho proto obviňuje z účasti na bombardování Boroďanky a podílu na masakru civilistů v Buči. Totožnost obětí nejspíš vypluje na povrch v příštích dnech. Ruská propaganda každopádně atentát popírá a snaží se tvrdit, že šlo o výbuch plynu. Tak určitě. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0opSxwhkabkeZXU9K69rMe8EZP9X3MyGNT49sMB6PCtbtp97vpq6SnSsxXxbpR5Zal): 
@@ -11699,11 +11691,6 @@ timeline:
         sort: "2025-12-30"
         image: assets/img/timeline/2025-12-30.jpg
         podcast: "2025-12-30.mp3"
-        pictures:
-          - ["2025-12-30-1.jpg", ""]
-          - ["2025-12-30-2.jpg", ""]
-          - ["2025-12-30-3.jpg", ""]
-          - ["2025-12-30-4.jpg", ""]
         pictures:
           - ["2025-12-30-1.jpg", ""]
           - ["2025-12-30-2.jpg", ""]
