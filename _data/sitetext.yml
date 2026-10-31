@@ -4153,10 +4153,10 @@ timeline:
         year: "10. července 2026"
         sort: "2026-07-10"
         pictures:
-          - ["2026-07-10-1.jpg", ""]
-          - ["2026-07-10-2.jpg", ""]
-          - ["2026-07-10-3.jpg", ""]
-          - ["2026-07-10-4.jpg", ""]
+          - ["2026-07-10-1.jpg", "Hořící instalace v Rusku."]
+          - ["2026-07-10-2.jpg", "Hořící instalace v Rusku."]
+          - ["2026-07-10-3.jpg", "Sanitka v Chersonu po ruském zásahu."]
+          - ["2026-07-10-4.jpg", "Situace na východní frontě."]
         image: assets/img/timeline/2026-07-10.jpg
         podcast: "2026-07-10.mp3"
         desc: |
@@ -4192,10 +4192,10 @@ timeline:
         year: "9. července 2026"
         sort: "2026-07-09"
         pictures:
-          - ["2026-07-09-1.jpg", ""]
-          - ["2026-07-09-2.jpg", ""]
-          - ["2026-07-09-3.jpg", ""]
-          - ["2026-07-09-4.jpg", ""]
+          - ["2026-07-09-1.jpg", "Charkov."]
+          - ["2026-07-09-2.jpg", "Mínus tanker."]
+          - ["2026-07-09-3.jpg", "Ruský tanker na satelitu."]
+          - ["2026-07-09-4.jpg", "Momentka."]
         image: assets/img/timeline/2026-07-09.jpg
         podcast: "2026-07-09.mp3"
         desc: |
@@ -4230,10 +4230,10 @@ timeline:
         year: "8. července 2026"
         sort: "2026-07-08"
         pictures:
-          - ["2026-07-08-1.jpg", ""]
-          - ["2026-07-08-2.jpg", ""]
-          - ["2026-07-08-3.jpg", ""]
-          - ["2026-07-08-4.jpg", ""]
+          - ["2026-07-08-1.jpg", "Na frontě padl další čerstvě osmnáctiletý Rus."]
+          - ["2026-07-08-2.jpg", "Nižnekamensk."]
+          - ["2026-07-08-3.jpg", "Hrajete?"]
+          - ["2026-07-08-4.jpg", "Saratov."]
         image: assets/img/timeline/2026-07-08.jpg
         podcast: "2026-07-08.mp3"
         desc: |
