@@ -4306,10 +4306,10 @@ timeline:
         year: "7. července 2026"
         sort: "2026-07-07"
         pictures:
-          - ["2026-07-07-1.jpg", ""]
-          - ["2026-07-07-2.jpg", ""]
-          - ["2026-07-07-3.jpg", ""]
-          - ["2026-07-07-4.jpg", ""]
+          - ["2026-07-07-1.jpg", "Po náletech."]
+          - ["2026-07-07-2.jpg", "Mínus tanker."]
+          - ["2026-07-07-3.jpg", "PVO."]
+          - ["2026-07-07-4.jpg", "Na cvičáku."]
         image: assets/img/timeline/2026-07-07.jpg
         podcast: "2026-07-07.mp3"
         desc: |
@@ -4350,10 +4350,10 @@ timeline:
         year: "6. července 2026"
         sort: "2026-07-06"
         pictures:
-          - ["2026-07-06-1.jpg", ""]
-          - ["2026-07-06-2.jpg", ""]
-          - ["2026-07-06-3.jpg", ""]
-          - ["2026-07-06-4.jpg", ""]
+          - ["2026-07-06-1.jpg", "Kyjev."]
+          - ["2026-07-06-2.jpg", "Kyjev."]
+          - ["2026-07-06-3.jpg", "Ruský konvoj v Mali."]
+          - ["2026-07-06-4.jpg", "Mapa náletu."]
         image: assets/img/timeline/2026-07-06.jpg
         podcast: "2026-07-06.mp3"
         desc: |
@@ -4395,10 +4395,10 @@ timeline:
         year: "5. července 2026"
         sort: "2026-07-05"
         pictures:
-          - ["2026-07-05-1.jpg", ""]
-          - ["2026-07-05-2.jpg", ""]
-          - ["2026-07-05-3.jpg", ""]
-          - ["2026-07-05-4.jpg", ""]
+          - ["2026-07-05-1.jpg", "Záporoží po ruském náletu."]
+          - ["2026-07-05-2.jpg", "Zničené sklady potravin."]
+          - ["2026-07-05-3.jpg", "Rusové ukořistili ženijní tank americké výroby."]
+          - ["2026-07-05-4.jpg", "Ruský ústup u Kosťantynivky."]
         image: assets/img/timeline/2026-07-05.jpg
         podcast: "2026-07-05.mp3"
         desc: |
@@ -4431,10 +4431,12 @@ timeline:
         year: "4. července 2026"
         sort: "2026-07-04"
         pictures:
-          - ["2026-07-04-1.jpg", ""]
-          - ["2026-07-04-2.jpg", ""]
-          - ["2026-07-04-3.jpg", ""]
-          - ["2026-07-04-4.jpg", ""]
+          - ["2026-07-04-1.jpg", "Po ruských náletech."]
+          - ["2026-07-04-2.jpg", "Po ruských náletech."]
+          - ["2026-07-04-3.jpg", "Po ruských náletech."]
+          - ["2026-07-04-4.jpg", "Jehor tančí na školním plese sám, aby uctil památku dívky, kterou zabil ruský nálet."]
+          - ["2026-07-04-5.jpg", "Ruská nášivka: \"Všechno spraví izolační páska. Dokonce i Polsko.\""]
+          - ["2026-07-04-6.jpg", "Ruská mapa fronty z alternativní reality."]
         image: assets/img/timeline/2026-07-04.jpg
         podcast: "2026-07-04.mp3"
         desc: |
