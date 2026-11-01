@@ -4471,10 +4471,10 @@ timeline:
         year: "3. července 2026"
         sort: "2026-07-03"
         pictures:
-          - ["2026-07-03-1.jpg", ""]
-          - ["2026-07-03-2.jpg", ""]
-          - ["2026-07-03-3.jpg", ""]
-          - ["2026-07-03-4.jpg", ""]
+          - ["2026-07-03-1.jpg", "Rusové vybombardovali benzínku v Mykolajivu."]
+          - ["2026-07-03-2.jpg", "Brjansk."]
+          - ["2026-07-03-3.jpg", "Sabotér v ukrajinské fabrice."]
+          - ["2026-07-03-4.jpg", "Cherson. Rusové zasáhli lidi na ulici a později i kliniku."]
         image: assets/img/timeline/2026-07-03.jpg
         podcast: "2026-07-03.mp3"
         desc: |
@@ -4507,11 +4507,11 @@ timeline:
         year: "2. července 2026"
         sort: "2026-07-02"
         pictures:
-          - ["2026-07-02-1.jpg", ""]
-          - ["2026-07-02-2.jpg", ""]
-          - ["2026-07-02-3.jpg", ""]
-          - ["2026-07-02-4.jpg", ""]
-          - ["2026-07-02-5.jpg", ""]
+          - ["2026-07-02-1.jpg", "Kyjev."]
+          - ["2026-07-02-2.jpg", "Sklad knih."]
+          - ["2026-07-02-3.jpg", "Kstovo."]
+          - ["2026-07-02-4.jpg", "Takové milé neštěstí."]
+          - ["2026-07-02-5.jpg", "Mapa náletu."]
         image: assets/img/timeline/2026-07-02.jpg
         podcast: "2026-07-02.mp3"
         desc: |
@@ -4547,10 +4547,10 @@ timeline:
         year: "1. července 2026"
         sort: "2026-07-01"
         pictures:
-          - ["2026-07-01-1.jpg", ""]
-          - ["2026-07-01-2.jpg", ""]
-          - ["2026-07-01-3.jpg", ""]
-          - ["2026-07-01-4.jpg", ""]
+          - ["2026-07-01-1.jpg", "Ruská logistika."]
+          - ["2026-07-01-2.jpg", "Mínus dálniční most u okupovaného Doněcku."]
+          - ["2026-07-01-3.jpg", "Rusové zasáhli další autobus."]
+          - ["2026-07-01-4.jpg", "Momentka."]
         image: assets/img/timeline/2026-07-01.jpg
         podcast: "2026-07-01.mp3"
         desc: |
@@ -4584,10 +4584,10 @@ timeline:
         year: "30. června 2026"
         sort: "2026-06-30"
         pictures:
-          - ["2026-06-30-1.jpg", ""]
-          - ["2026-06-30-2.jpg", ""]
-          - ["2026-06-30-3.jpg", ""]
-          - ["2026-06-30-4.jpg", ""]
+          - ["2026-06-30-1.jpg", "Sybiha jednal v Soulu."]
+          - ["2026-06-30-2.jpg", "Raffale stínuje ruský letoun nad Baltem."]
+          - ["2026-06-30-3.jpg", "Pavel jmenoval nového náčelníka generálního štábu."]
+          - ["2026-06-30-4.jpg", "Záporoží."]
         image: assets/img/timeline/2026-06-30.jpg
         podcast: "2026-06-30.mp3"
         desc: |
@@ -4622,10 +4622,10 @@ timeline:
         year: "29. června 2026"
         sort: "2026-06-29"
         pictures:
-          - ["2026-06-29-1.jpg", ""]
-          - ["2026-06-29-2.jpg", ""]
-          - ["2026-06-29-3.jpg", ""]
-          - ["2026-06-29-4.jpg", ""]
+          - ["2026-06-29-1.jpg", "Ruská rafinérie ve Slavjansku."]
+          - ["2026-06-29-2.jpg", "Rusové zasáhli další minibus."]
+          - ["2026-06-29-3.jpg", "Oprava české helikoptéry."]
+          - ["2026-06-29-4.jpg", "Zasažený vůz policistů."]
         image: assets/img/timeline/2026-06-29.jpg
         podcast: "2026-06-29.mp3"
         desc: |
@@ -4657,9 +4657,9 @@ timeline:
         year: "28. června 2026"
         sort: "2026-06-28"
         pictures:
-          - ["2026-06-28-1.jpg", ""]
-          - ["2026-06-28-2.jpg", ""]
-          - ["2026-06-28-3.jpg", ""]
+          - ["2026-06-28-1.jpg", "Slavjansk na Kubáni."]
+          - ["2026-06-28-2.jpg", "Ruská fronta na benzín."]
+          - ["2026-06-28-3.jpg", "Zničený železniční most na Donbasu."]
         image: assets/img/timeline/2026-06-28.jpg
         podcast: "2026-06-28.mp3"
         desc: |
@@ -4689,10 +4689,10 @@ timeline:
         year: "27. června 2026"
         sort: "2026-06-27"
         pictures:
-          - ["2026-06-27-1.jpg", ""]
-          - ["2026-06-27-2.jpg", ""]
-          - ["2026-06-27-3.jpg", ""]
-          - ["2026-06-27-4.jpg", ""]
+          - ["2026-06-27-1.jpg", "Jsou doma."]
+          - ["2026-06-27-2.jpg", "Cherson."]
+          - ["2026-06-27-3.jpg", "Rusové zasáhli minibus."]
+          - ["2026-06-27-4.jpg", "Most na Arabatskou kosu po ukrajinském náletu."]
         image: assets/img/timeline/2026-06-27.jpg
         podcast: "2026-06-27.mp3"
         desc: |
@@ -4732,10 +4732,10 @@ timeline:
         year: "26. června 2026"
         sort: "2026-06-26"
         pictures:
-          - ["2026-06-26-1.jpg", ""]
-          - ["2026-06-26-2.jpg", ""]
-          - ["2026-06-26-3.jpg", ""]
-          - ["2026-06-26-4.jpg", ""]
+          - ["2026-06-26-1.jpg", "Ruská mobilní PVO."]
+          - ["2026-06-26-2.jpg", "Grad."]
+          - ["2026-06-26-3.jpg", "Krymský most."]
+          - ["2026-06-26-4.jpg", "Maďar a jeho manželka."]
         image: assets/img/timeline/2026-06-26.jpg
         podcast: "2026-06-26.mp3"
         desc: |
@@ -4767,9 +4767,9 @@ timeline:
         year: "25. června 2026"
         sort: "2026-06-25"
         pictures:
-          - ["2026-06-25-1.jpg", ""]
-          - ["2026-06-25-2.jpg", ""]
-          - ["2026-06-25-3.jpg", ""]
+          - ["2026-06-25-1.jpg", "Grad."]
+          - ["2026-06-25-2.jpg", "Ufa."]
+          - ["2026-06-25-3.jpg", "Ruská PVO."]
         image: assets/img/timeline/2026-06-25.jpg
         podcast: "2026-06-25.mp3"
         desc: |
