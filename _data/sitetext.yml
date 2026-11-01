@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle" 
+        year: "1. listopadu 2026"
+        sort: "2026-11-01"
+        pictures:
+          - ["2026-11-01-1.jpg", "Návrat z Olešek."]
+          - ["2026-11-01-2.jpg", "Návrat z Olešek."]
+          - ["2026-11-01-3.jpg", "Vývoj ruských ztrát."]
+          - ["2026-11-01-4.jpg", "Kstovo."]
+        image: assets/img/timeline/2026-11-01.jpg
+        podcast: "2026-11-01.mp3"
+        desc: |
+          Ukrajinské drony v noci zapálily rafinerii Lukoil-NORSI v Kstovu v Nižněnovgorodské oblasti. NORSI je největší zpracovatelský komplex v Rusku a druhý největší výrobce benzinu v zemi. Zásah potvrdila ukrajinská zbrojovka Fire Point, na záběrech ze sociálních sítí hoří areál na sedmi až osmi místech. Nižněnovgorodský gubernátor Gleb Nikitin to okomentoval tak, že „průmyslový podnik“ v Kstovském okrese utrpěl „významné poškození“. Jméno rafinerie, která leží osm set kilometrů od ukrajinských hranic a dodává asi třicet procent benzinu pro Moskevskou oblast, se mu do zprávy nevešlo. Je to třetí ruská rafinerie zasažená během tří dnů, dohromady zpracovávaly asi 24 milionů tun ropy ročně, tedy přibližně desetinu celkové ruské rafinace a víc než desetinu ruské nafty. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0jFmqoRPs92Y2gWmoWGZCWBCpSZKL4Y7yto83rd6Qt22eZtRrGi2t4GwzipHqedwjl):
+        detail: |
+          - Humanitární misi v okupovaných Oleškách Ukrajina v noci uzavřela a evakuovaní jsou už na území pod kontrolou Kyjeva. Ombudsman Dmytro Lubinec uvedl, že příměří vydrželo 87 hodin bez jediného porušení a že Olešky opustili všichni, kdo odjet chtěli. Dobrovolně se k odchodu přihlásilo více než 750 lidí. Cesta vedla autobusem přes Krym do ruské Anapy, odtud letecky do Běloruska a pak přes bělorusko-ukrajinskou hranici do Černihivské oblasti. Z předválečných 24 tisíc obyvatel zůstalo v Oleškách před evakuací asi 1700 lidí a dodávky jídla do města se podle některých z nich zastavily už v květnu. Lidé jedli trávu a tykve a překonávali zaminovaná pole, aby sehnali jídlo. Ve městě není plyn, elektřina ani tekoucí voda a část obyvatel ve městě i tak zůstala. Ruská ombudsmanka Jana Lantratovová slíbila, že bude s Lubincem spolupracovat na pravidelných humanitárních misích. Chersonské úřady zároveň varovaly, že Rusko může příměří využít k provokacím.
+          - Rusko na Ukrajinu v noci vyslalo 433 dronů, útočné Shahedy, Gerbery a klamné cíle Parodie. Do půl osmé ráno jich protivzdušná obrana sestřelila nebo potlačila 371, mezi nimi 47 proudových. Zásahy jsou hlášeny ze šestnácti míst a trosky dopadly na dalších čtrnácti. Cílem byla znovu energetika: Zelenskyj uvedl, že Rusko poškodilo rozvodny, transformátory a vedení v Dnipropetrovské, Vinnycké, Žytomyrské a Chmelnycké oblasti a že bez elektřiny jsou stovky tisíc domácností. Jen na Dnipropetrovsku zůstalo bez proudu téměř sto tisíc odběratelů a na obnově pracuje přes sedmdesát pohotovostních čet, v Kyjevě museli distributoři zavést nouzové odstávky. Výpadky hlásí celkem osm oblastí: Žytomyrská, Doněcká, Záporožská, Kyjevská, Dnipropetrovská, Sumská, Čerkaská a Charkovská. V Kirovohradské oblasti poškodily trosky dronů elektrické vedení, vzdělávací zařízení a zemědělské sklady, ve Vinnycké oblasti byl zničen také vysílač mobilní sítě.
+          - Americký ministr zahraničí Marco Rubio podle tří evropských úředníků v soukromí označil vstup Ukrajiny do NATO za krátkodobě nereálný a pro Putina nepřijatelný. Veřejně na závěrečné tiskové konferenci po ministerském jednání G20 v Atlantě řekl, že neví, jestli je vyjednaný mír na Ukrajině vůbec dosažitelný, a že se to Washington snaží zjistit. Pozvání Lavrova do Atlanty i Putina na prosincový summit G20 v Miami hájil tím, že diplomatická komunikace je k urovnání potřeba.
+          - Prodej 500 raket Patriot PAC-3 MSE, který Washington schválil v pátek, nemusí Ukrajině pomoct dříve než po roce 2030. Podle diplomatických zdrojů jde o novou výrobu, ne o přesun z amerických zásob, a Lockheed Martin teprve investuje až devět miliard dolarů do rozšíření linek, což potrvá roky. Zelenskyj proto žádá spojence, aby rakety předali hned ze svých aktivních zásob a doplnili si je později z nové produkce.
+          - V Kramatorsku zničil ruský letecký úder budovu výkonného výboru městské rady na náměstí Míru v centru města. Podle šéfa městské vojenské správy Oleksandra Honcharenka šlo o symbol historie a identity města: budova přežila okupaci proruskými militanty v roce 2014 i následné osvobození a poškodil ji už březnový úder na centrum. 
+          - Zelenskyj a Erdoğan se v Istanbulu dohodli, že budou pracovat na zprovoznění černomořského obilného koridoru z roku 2022. Turecko má už příští týden zvýšit dodávky generátorů a dalšího energetického vybavení a dohoda o volném obchodu, která platí od 1. října, má obchod obou zemí vytáhnout na deset miliard dolarů.
+          - Zelenskyj v rozhovoru pro americký pořad This Week on Capitol Hill uvedl, že ruské útoky od začátku plné invaze zabily asi 120 duchovních a poškodily nebo zničily přibližně 800 náboženských objektů, některé tisíc let staré, a že šlo o cílené útoky.
+          - Okupační správa na dočasně obsazeném území Luhanské oblasti chystá na rok 2027 v nově zřizovaných mládežnických centrech specializované učebny, v nichž se chlapci a dívky budou učit ovládat drony. 
+          - Rusko může na mistrovství světa v hokeji 2027 nahradit Ukrajinu. Rusové se po návratu vrátí na úroveň, na které byli před suspendací – a Ukrajina se kvalifikovala jako poslední. 
+          - Trump prohlásil, že je připraven pozvat Zelenského na summit G20 v Miami.
+          - Zelenskyj vyznamenal 733 vojáků, z toho 255 posmrtně.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pbs.twimg.com/media/HWBekarWQAA2Hix?format=jpg&name=large)
+          - [Kstovo](https://pixelfed.cz/p/dnesnaukrajine/1022541967029053567)
+          - [Mínus rafinérka](https://pixelfed.cz/p/dnesnaukrajine/1022541997687236736)
+          - [Návrat z Olešek](https://pixelfed.cz/p/dnesnaukrajine/1022542057718347905)
+          - [Rusům se srazily stíhačky](https://pixelfed.cz/p/dnesnaukrajine/1022542070873692291)
+          - [Mínus Ivan Medvěd](https://pixelfed.cz/p/dnesnaukrajine/1022542092907636868)
+          - [Tumáš termobarický granát](https://pixelfed.cz/p/dnesnaukrajine/1022542119893178501)
       - title: "Sobota" 
         year: "31. října 2026"
         sort: "2026-10-31"
