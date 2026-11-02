@@ -23,6 +23,166 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Monday
+    year: November 2, 2026
+    sort: '2026-11-02'
+    image: assets/img/timeline/2026-11-02.jpg
+    podcast: 2026-11-02.mp3
+    desc: 'The humanitarian ceasefire in occupied Oleshky expired on Sunday at 10:59
+      p.m., and less than nine hours later, at 7:40 a.m., a Russian drone struck a
+      three-story medical facility in downtown Kherson. Fortunately, the staff was
+      in a shelter, so no one was injured, but the clinic’s facade, examination rooms,
+      furniture, windows, and doors were damaged. According to Director Valeriy Tymoshenko,
+      this was the second strike on the same building in seven days. Twenty minutes
+      later, another drone attacked a car in Korabelne: a 62-year-old woman and a
+      73-year-old man were hospitalized. The city’s military administration reports
+      that the Russians have resumed their “safari” targeting civilian vehicles, and
+      Russian FPV drones are once again operating over Kherson. On the same day, Melanie
+      Trump announced on X that “the mission was successful,” thanked both Ukraine
+      and Russia for their cooperation, and expressed hope that the ceasefire would
+      become “the foundation for lasting peace between the two nations.” The General
+      Staff, however, claims that Russia used the six-day ceasefire to rotate troops,
+      reinforce defensive positions, expand anti-drone networks over key roads, and
+      import ammunition and supplies—a claim corroborated by some videos posted online
+      by drone operators. In any case, Kremlin spokesperson Dmitry Peskov made it
+      clear how the Kremlin envisions the “foundation for lasting peace”: according
+      to him, no further similar operations are planned. And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02TJyvBF3G7T9mtTpXuUQGcHiVdfAVWC2Se5syPc1cUBMbBaazSZy9vgM66G2z62EUl)
+      also happened:
+
+      '
+    detail: "- The Ukrainian app “Air Raid Alert” was hacked by Russians overnight\
+      \ from Sunday to Monday and sent users false alerts about radiation and chemical\
+      \ threats, as well as “street fighting” in Kyiv. One of the notifications, in\
+      \ Russian, read: “Hello! There’s going to be a nuclear alert across all of Ukraine\
+      \ right now. Don’t worry, Oreshnik is on his way.” The app then stopped working.\
+      \ The Center for Countering Disinformation urged people not to click on third-party\
+      \ links. A few hours later, however, the Russian Ministry of Emergency Situations’\
+      \ app also got a taste of its own medicine: it notified users that nuclear warheads—allegedly\
+      \ carried by Ukrainian “P1-SUN” FPV interceptors—had been launched at all Russian\
+      \ regions, and recommended that they take shelter in basements and stock up\
+      \ on food for three weeks. Alerts also appeared on regional channels of the\
+      \ state-run Max platform and on the Telegram channel of the Belgorod Operational\
+      \ Headquarters. The Russian ministry acknowledged a “massive attack” on the\
+      \ app, added the obligatory “the situation is under control,” and called on\
+      \ the public to remain calm.\n- The Ukrainian intelligence agency HUR published\
+      \ an analysis of the enlarged Gerbera-2 on the War&Sanctions portal, including\
+      \ a 3D model and a list of components. The drone has a wingspan of three meters,\
+      \ a fuselage length of 2.6 meters, and a new 63-liter fuel tank divided into\
+      \ sections to prevent the aircraft from becoming unstable during maneuvers;\
+      \ thanks to this, it can fly up to 1,200 kilometers, well beyond Ukraine’s borders.\
+      \ It is powered by a two-stroke, two-cylinder engine. Essentially, half of the\
+      \ Geran-2’s engine comes from the Alabuzh factory. The examined unit carried\
+      \ a 10-kilogram high-explosive fragmentation warhead plus pouches containing\
+      \ an incendiary mixture; Russia claims this model has a payload capacity of\
+      \ up to 25 kilograms. Inside is an updated control module, a 12-channel Kometa\
+      \ anti-jamming antenna, a mesh modem from the Chinese company Shenzhen Sinosun\
+      \ Technology, a new video processing unit nicknamed “Sosiska” built on the Chinese\
+      \ Coke Pi microcomputer, and a dual IP camera above the fuel tank designed to\
+      \ detect interceptors. Most of the components are supplied by eight Chinese\
+      \ and four American companies. \n- Ukrainian drones struck one of Russia’s key\
+      \ oil transportation hubs overnight—a Transneft facility near the village of\
+      \ Prosvet in the Samara Region. The 216-hectare site has 71 storage tanks with\
+      \ a total capacity of 1.6 million cubic meters, making it one of the largest\
+      \ oil storage facilities in Europe. Crude oil flows here via four pipelines\
+      \ from Western Siberia, Tatarstan, the Orenburg region, and Kazakhstan, and\
+      \ from there it is transported to two refineries and the Druzhba export pipeline.\
+      \ NASA satellite images captured a massive black plume of smoke rising above\
+      \ the site. Governor Vyacheslav Fedoriščev asked residents not to post photos\
+      \ or videos. According to available information, this was the fifth attack on\
+      \ this facility; the previous four occurred on October 2, 7, 10, and 11. \n\
+      - Russia launched 193 drones; air defenses shot down or neutralized 154 of them.\
+      \ Strikes were reported in 26 locations, and debris fell in nine others. One\
+      \ person was killed and at least seventeen were injured. In the Odesa region,\
+      \ a bakery was destroyed, an energy facility was hit, and a gas pipeline was\
+      \ damaged, among other things. In the Kharkiv region, a drone injured 12 people,\
+      \ including a child, when it struck a five-story apartment building. In Izyum,\
+      \ a strike on a four-story building killed one person and damaged high-voltage\
+      \ power lines, leaving the entire city without electricity. In Bila Tserkva,\
+      \ a drone damaged a water infrastructure facility, leaving residents without\
+      \ water. \n- The Russian FSB claims it prevented attacks on its own drone operators\
+      \ by intercepting FPV goggles with built-in explosives. According to the agency,\
+      \ an X-ray revealed that “Ukrainian special services had placed improvised explosive\
+      \ devices inside the piloting goggles,” which were intended to detonate upon\
+      \ use. The first shipment was found in the Volgograd region; according to the\
+      \ FSB, larger shipments followed, sent via Russian Post. The goggles were intended\
+      \ to reach soldiers via volunteers supplying the front lines. The FSB released\
+      \ a nearly six-minute video documenting the pyrotechnics and interrogations\
+      \ of the suspects. \n- The United States is once again pushing for the resumption\
+      \ of Russian gas transit to Europe via Ukraine. According to the Wall Street\
+      \ Journal, Jared Kushner and Steve Witkoff came up with the proposal: the gas\
+      \ would be sold through an American intermediary, thereby circumventing European\
+      \ sanctions; the proceeds would be deposited into an escrow account controlled\
+      \ by a third party so that the Kremlin could not use them to finance the war;\
+      \ and Ukraine would receive money for the transit. European leaders and the\
+      \ EU are opposed to the plan. However, the Trump administration believes that\
+      \ European resistance is weaker than it appears. \n- Russia’s response to Starlink\
+      \ lost its second satellite. Satellite No. 17 from the Rassvet constellation\
+      \ was launched on July 19 but never fired its engine. After 103 days, atmospheric\
+      \ drag pulled it so low that it burned up on October 30. Of the thirty satellites\
+      \ in orbit, however, 26 reached an altitude of about 500 kilometers. If Rassvet\
+      \ eventually becomes operational, the Russian military would gain satellite\
+      \ communications that Kyiv cannot shut down.\n- Belgian Prime Minister Bart\
+      \ De Wever submitted his resignation to King Philippe on Monday after his five-party\
+      \ coalition government failed to reach an agreement on the 2027 budget. De Wever\
+      \ is the most vocal opponent of the European Commission’s plan to use approximately\
+      \ 185 billion euros in frozen assets of the Russian central bank—most of which\
+      \ are held at Euroclear in Brussels—to fund a reparations loan to Kyiv. \n-\
+      \ According to a Bloomberg analysis, Russia has expanded the targets of its\
+      \ strikes from the energy sector to corporate infrastructure and the civilian\
+      \ transportation network, thereby disrupting production, logistics, and exports.\
+      \ Analysts do not expect an immediate collapse, but they believe that financing\
+      \ the war in 2027 will hinge on “timely, reliable, and sufficient” funding from\
+      \ the West. \n- Upon his return from Beijing, German President Frank-Walter\
+      \ Steinmeier told German television that Xi Jinping has no interest in hosting\
+      \ a trilateral summit on Ukraine with Russia and the United States. According\
+      \ to Steinmeier, Xi was taken aback by the proposal and remarked that Europeans\
+      \ should be involved in resolving the war because it is being fought on the\
+      \ European continent. \n- The Russians bombed school buildings in the village\
+      \ of Komyshuvakha with several aerial bombs; the buildings had been serving\
+      \ as a warehouse and distribution center for humanitarian aid. At least 24 people\
+      \ were killed in the strike, including two rescue workers and four police officers\
+      \ who were responding to the scene when a second strike hit. Others were injured.\
+      \ \n- As of November 1, Russia’s membership in the European Convention for the\
+      \ Prevention of Torture officially ended. This marks the definitive end of independent\
+      \ oversight of Russian prisons and penal colonies, where many Ukrainian prisoners\
+      \ of war and civilians have been held.\n- On Monday, the HUR confirmed that\
+      \ an engine fire destroyed a Russian Su-57 aircraft on October 29 at the Akhtubinsk\
+      \ Airport in the Astrakhan Region. Intelligence sources cite poor-quality aviation\
+      \ kerosene as a possible cause.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1022964760678525289)
+
+      - [Komyshuvakha](https://pixelfed.cz/p/dnesnaukrajine/1022960441824848164)
+
+      - [Ukrainian Strike on Crimea](https://pixelfed.cz/p/dnesnaukrajine/1022960495790270757)
+
+      - [Samara](https://pixelfed.cz/p/dnesnaukrajine/1022960541629761830)
+
+      - [Samara](https://pixelfed.cz/p/dnesnaukrajine/1022960599315609895)
+
+      - [They didn''t run out](https://pixelfed.cz/p/dnesnaukrajine/1022960643465394472)
+
+      - [Explosive Goggles](https://pixelfed.cz/p/dnesnaukrajine/1022960688506571049)
+
+      - [Minus the Russian ammunition depot](https://pixelfed.cz/p/dnesnaukrajine/1022960723176016170)
+
+      - [The drones are operating](https://pixelfed.cz/p/dnesnaukrajine/1022960756181772587)
+
+      - [Russian Casualties](https://pixelfed.cz/p/dnesnaukrajine/1022960814007036204)
+
+      - [Russian Air Defense](https://pixelfed.cz/p/dnesnaukrajine/1022960857090500909)
+
+      - [Minus the Russian base](https://pixelfed.cz/p/dnesnaukrajine/1022960910601177390)
+
+      '
+    pictures:
+    - - 2026-11-02-1.jpg
+      - Samara.
+    - - 2026-11-02-2.jpg
+      - Komyšuvacha.
+    - - 2026-11-02-3.jpg
+      - The front line, according to the ISW.
+    - - 2026-11-02-4.jpg
+      - Sweden detained a suspicious Russian ship off the coast of Gotland.
   - title: Sunday
     year: November 1, 2026
     sort: '2026-11-01'
