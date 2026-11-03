@@ -8948,10 +8948,10 @@ timeline:
         # https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02ueqD3oRPqwToPNjxYWxf26tR71DDh1hVjLumQjvihKdHEPV7HLiZ15AdZ7kkHR7Ml
         sort: "2026-03-14"
         pictures:
-          - ["2026-03-14-1.jpg", ""]
-          - ["2026-03-14-2.jpg", ""]
-          - ["2026-03-14-3.jpg", ""]
-          - ["2026-03-14-4.jpg", ""]
+          - ["2026-03-14-1.jpg", "Ukrajinský modernizovaný Grad."]
+          - ["2026-03-14-2.jpg", "Mapa náletu."]
+          - ["2026-03-14-3.jpg", "Ukrajinský postup na ruských mapách."]
+          - ["2026-03-14-4.jpg", "Momentka z dronu."]
         image: assets/img/timeline/2026-03-14.jpg
         podcast: "2026-03-14.mp3"
         desc: |
