@@ -38,6 +38,38 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý" 
+        year: "3. listopadu 2026"
+        sort: "2026-11-03"
+        pictures:
+          - ["2026-11-03-1.jpg", "Umělá demonstrace v Kyjevě."]
+          - ["2026-11-03-2.jpg", "Slavjansk."]
+          - ["2026-11-03-3.jpg", "Mapa nočního náletu."]
+          - ["2026-11-03-4.jpg", "Jaroslavl."]
+        image: assets/img/timeline/2026-11-03.jpg
+        podcast: "2026-11-03.mp3"
+        desc: |
+          Ukrajina vyšetřuje včerejší nepokoje v Petropavlivské Borščahivce u Kyjeva. V soukromém domě byli dočasně umístěni rekruti Národní gardy, kteří se vrátili po samovolném opuštění jednotky. Ruská propaganda ale skrze svoje lokální kolaboranty nechala vytvořit a rozšířit fámu o tom, že jsou v domě drženi nezákonně mladí odvedenci a že tam dochází k jejich bití a mučení. V reakci na zprávu se před domem sešel dav „protestujících“ (nešlo o spontánní akci, ale koordinované divadlo včetně falešných branců a zdravotnic, které už zadržela SBU), situace se vyostřila, padly výstřely a poškozená skončila dokonce i policejní auta zasahujících policistů. Vojenská ombudsmanka Olha Rešetylova uvedla, že mezi muži v domě byli v té době i obránci Mariupolu a Azovstalu propuštění z ruského zajetí. Dav je ale pod vlivem dezinformace urážel, házel na ně vejce a rozbíjel okna. Čtyři lidé z domu skončili v nemocnici. Jednotka Chartija k tomu vydala prohlášení, že když Rusko nedokáže zastavit ukrajinské jednotky na frontě, pracuje aspoň na tom, aby ti, kdo armádu podporují, začali pochybovat, a ti, kdo se službě vyhýbají, získali legitimitu. Zprávu o „mučení branců“ okamžitě převzali a začali šířit také kolaboranti v zahraničí – v Německu AfD, v Česku SPD nebo Rajchlovci a další. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0uQdpkgCraxY9h1sc433ew6Xs7aaDpqWj9sqkCk7kFmkrFYiq8MmphE5FmTQYDbGil): 
+        detail: |
+          - Rusko si na masivní úder vybralo noc před volbami do amerického Kongresu. Zelenskyj z toho nedělá žádnou vědu: je to podle něj přesně vykalkulovaný útok na den, kdy se bude svět dívat jinam. Letělo celkem 289 útočných dronů, sedmnáct balistických raket včetně hypersonických Zirkonů a devětapadesát křídlatých střel Ch-101 a Iskander-K doplněných řízenými Ch-59 a Ch-69. Protivzdušná obrana ohlásila do devíti hodin ráno 309 zneškodněných cílů, zásahy jsou ale hlášené z 23 míst a trosky dopadly na dalších čtrnácti. V Charkově dopadla řízená bomba přesně do průchodu mezi dvěma budovami zdravotnického zařízení. Zraněných je 73, mezi nimi pacienti i personál, a 226 pacientů se muselo evakuovat jinam. Část města zůstala bez tepla a teplé vody.
+          - Energetika dostala zásah v deseti oblastech a tři tepelné elektrárny DTEK po desítkách raket a dronů úplně zastavily výrobu. V Žytomyrské oblasti zůstalo ráno bez elektřiny asi 130 obcí a více než 180 tisíc odběratelů, bez proudu je i většina Vinnycké oblasti, kde zavedli hodinové odstávky a krátce vypadla voda. V Rivnenské oblasti je poškozená rozvodna Ukrenerho a v Sarnenském rajónu hořela benzinka, jeden muž je těžce zraněný. Čerkaská oblast přešla na nouzové odstávky. V Oděské oblasti dostalo o půlnoci zásah zařízení DTEK, které bylo za dva měsíce poškozeno už poněkolikáté, firma mluví o významných škodách a opravách, které zaberou čas. Záporoží hlásí poškozenou železnici včetně vagonů, lokomotiv a stanice.
+          - Počet mrtvých po ruském úderu na humanitární bod v Komyšuvasi v Záporožské oblasti stoupl do poledne na 31 a pohřešovaných je skoro padesát. Rusko shodilo na obecní kulturní dům, kde lidé přebírali humanitární pomoc, klouzavé bomby FAB-500 a FAB-3000. Munici s až tunou a půl výbušniny konstruovanou na prorážení bunkrů použili proti frontě lidí čekajících na jídlo. Mezi mrtvými jsou čtyři policisté a dva hasiči, pět dalších lidí je zraněných. Úřadující šéf vojenské správy Mychajlo Semikin to označil za jednu z nejhorších tragédií v oblasti od začátku plné invaze.
+          - Ukrajinské drony v noci zasáhly rafinerii Slavneft-JANOS v Jaroslavli, pátou největší v Rusku s kapacitou až 15 milionů tun ropy ročně. Nezávislý kanál ASTRA zveřejnil záběry s nejméně sedmi ohnisky požáru. Gubernátor Michail Jevrajev přiznal poškozenou infrastrukturu a dva zaměstnance se zraněními. Jevrajev tvrdí, že nad městem sestřelili 124 dronů, ruské ministerstvo obrany mluví o 856 dronech nad celým Ruskem a Krymem a moskevský primátor o 493 mířících na metropoli. 
+          - V Dnipru si ranní raketový úder vyžádal jednoho mrtvého a sedmnáct zraněných. Poškozené jsou obytné domy, administrativní budovy, ambulance, hospic, policejní stanice a městská nemocnice, kde se léčilo bezmála sto lidí, personál ani pacienti ale zraněni nebyli a přesouvají se jinam. Záchranáři vytáhli z trosek živou ženu, pátrání museli opakovaně přerušit kvůli hrozbě dalšího úderu. 
+          - Americký zmocněnec Steve Witkoff oznámil, že 10. a 11. listopadu se v Abú Dhabí sejdou pracovní delegace Ukrajiny a Ruska pod americkou mediací. Na programu mají být bezpečnostní uspořádání, deeskalace a humanitární otázky, americký tým se chce předtím sejít s Evropany a NATO v Bruselu. Kreml účast potvrdil a v čele ruské delegace bude znovu Vladimir Medinskij. 
+          - Krátce před devátou ráno zasáhly ukrajinské síly bývalé letiště v okupovaném Luhansku, nad areálem stoupal černý kouř a monitorovací kanály mluví o skladu munice. Na pozemcích bývalé luhanské vojenské letecké školy navigátorů Rusové ubytovávali personál a techniku, na letišti byly vrtulníky Ka-52, Mi-28 a Mi-8. Je to druhý zásah za týden.
+          - Polsko přesunulo k hranici s Kaliningradem vojáky a protiteroristické jednotky. Policejní prezident Marek Boroń to popsal jako prevenci před možnými sabotážemi, varování podle RMF FM přišlo od vojenské rozvědky a spojenců a zmiňovalo i možnost průniku ozbrojených skupin z Ruska.
+          - Nový ukrajinský velvyslanec při EU Taras Kačka odmítl, že by Maďarsko blokovalo přístupová jednání. Budapešť podle něj jen žádá o čas na prostudování několika set stran dokumentů. Spor o menšinové školství považuje za vyřešený po říjnové novele zákona.
+          - Ukrajina chystá Centrum pro návrat civilistů, které má pomáhat s repatriací lidí držených Ruskem nebo žijících pod okupací. Povede ho úřad ombudsmana Dmytra Lubince a rodiny se na něj budou moct obracet s žádostmi. 
+          - Na okupovaném Krymu zavedly ruské úřady po útocích na energetiku nouzové odstávky nejméně v pěti městech na jihu, západě a východě poloostrova.
+          - SBU zadržela v Oděse bývalého námořníka, který měl pomáhat navádět ruské útoky.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1023252802494903518)
+          - [Jaroslavl](https://pixelfed.cz/p/dnesnaukrajine/1023250864187086021)
+          - [Samara](https://pixelfed.cz/p/dnesnaukrajine/1023250888719783110)
+          - [Mínus datacentrum](https://pixelfed.cz/p/dnesnaukrajine/1023250922972710087)
+          - [Tří hrdinové](https://pixelfed.cz/p/dnesnaukrajine/1023251034343204041)
+          - [Škoda](https://pixelfed.cz/p/dnesnaukrajine/1023251091018470602)
       - title: "Pondělí" 
         year: "2. listopadu 2026"
         sort: "2026-11-02"
