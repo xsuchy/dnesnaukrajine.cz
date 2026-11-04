@@ -38,6 +38,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa" 
+        year: "4. listopadu 2026"
+        sort: "2026-11-04"
+        pictures:
+          - ["2026-11-04-1.jpg", "4 dny ukrajinských náletů."]
+          - ["2026-11-04-2.jpg", "Rusové zasáhli hospic."]
+          - ["2026-11-04-3.jpg", "Likvidace ruského šrotu."]
+          - ["2026-11-04-4.jpg", "Momentka."]
+        image: assets/img/timeline/2026-11-04.jpg
+        podcast: "2026-11-04.mp3"
+        desc: |
+          Američané vystavili vysvědčení nejúspěšnější ruské akvizici – Donaldu Trumpovi. Demokraté podle předběžných výsledků ovládli obě komory, ve Sněmovně reprezentantů jim nejspíš připadne 228 křesel proti 139 republikánským a v Senátu 54 proti 44, přičemž poprvé po desetiletích získali senátorská křesla v Texasu a Kansasu. Pro Ukrajinu to je klíčové: Kongres schvaluje rozpočet, vojenskou pomoc i sankce proti Rusku a je zároveň jedinou institucí, která může Bílému domu soustavně koukat pod ruce. Trump na to předem reagoval poznámkou o tom, že má stále k dispozici veto. Symbolickou tečku si v těchto volbách odnesla Victoria Spartzová, republikánka z 5. obvodu Indiany a vůbec první člověk narozený na Ukrajině, který kdy zasedl v americkém Kongresu. V dubnu 2024 hlasovala proti balíku pomoci za 61 miliard dolarů, v dubnu 2025 prohlásila, že Ukrajina by měla odevzdat území Rusku, a vyzvala Zelenského k rezignaci. O mandát ji teď připravil demokratický senátor státu J. D. Ford a jejích šest let ve Sněmovně tím skončilo. Kremelské narativy tak bude muset opakovat už jen jako soukromá osoba. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02mKgqpuPkFfVwurD8nbba76u6ZrgaZXErmzYHmtvkYeYe1RL7VgoVLNc8hiNHuYAPl): 
+        detail: |
+          - Rusko v noci vypustilo 310 dronů, z toho 81 proudových Shahedů. Do osmi hodin ráno protivzdušná obrana sestřelila nebo potlačila 272 z nich včetně 64 proudových, zásahy jsou hlášené z devatenácti míst a trosky z patnácti dalších, přičemž ve vzduchu v době sčítání pořád ještě bylo přes dvacet dronů. Terčem byla energetika v šesti oblastech: Oděské, Kirovohradské, Žytomyrské, západní části Ternopilské, Volyňské a Rivnenské. V Oděse hořelo také obchodní centrum Simja, v Kovelu zůstala bez proudu většina města a vodárna přešla na záložní zdroj, v Žytomyru po večerním blackoutu nejezdila elektrická doprava, vodárna běžela na generátory a město rozmístilo sedmnáct Míst neporazitelnosti na ohřátí a nabití telefonu. Ruské útoky za poslední den zabily šest lidí a padesát jich zranily. 
+          - Antikorupční úřad NABU oznámil, že vysoce postavený činitel SBU vyhrožoval jeho detektivům střelnou zbraní a zabránil jim provést prohlídku povolenou soudem, načež na místo dorazily zvláštní jednotky SBU. Podle zdrojů Ukrajinské pravdy jde o generála Serhije Duku. Samotná SBU k tomu vydala prohlášení, že podporuje nezávislé vyšetřování. Prohlídka patřila k pokračování operace Karthago, v níž NABU a Specializovaná protikorupční prokuratura rozkryly zločineckou organizaci, kterou kryli členové SBU, Národní policie a Generální prokuratury, aby mohla bez rušení provozovat podvodná call centra, distribuci drog, hospodářskou kriminalitu i trestné činy proti životu a zdraví. 
+          - Kyjev se probudil bez vody a bez světla. Nouzové odstávky platí bez jasných harmonogramů, magistrát poslal lidi k veřejným fontánkám s pitnou vodou a do narychlo zřízených center, kde je horký čaj a zásuvka na telefon. Část tramvajových a trolejbusových linek nahradily autobusy. Kyivvodokanal hlásil obnovenou dodávku vody na levém břehu a v Obolonu, na pravém břehu slabý tlak a výdejní místa napojená na generátory. Trosky dronů zapálily objekty ve dvou čtvrtích. Podle Ukrenerga Rusko za čtyřiadvacet hodin zasáhlo energetická zařízení více než dvacetkrát, do dopoledne se ale povedlo odstávky zrušit všude kromě Charkovské oblasti. 
+          - Kanada nepustí ruský tým na juniorské hokejové mistrovství světa, které se koná od 26. prosince do 5. ledna v Edmontonu a Red Deeru. Premiér Mark Carney to řekl bez obalu: „Jestli se ptáte konkrétně na juniorský šampionát, Rusové tam nebudou.“ Vláda použije zákon o imigraci a ochraně uprchlíků a zabrání vstupu ruským a běloruským sportovcům i funkcionářům, kteří by soutěžili pod státními symboly, neutrální start může projít individuálně. Opatření má platit, dokud Rusko s běloruskou podporou bude pokračovat ve válce proti Ukrajině. 
+          - Ukrajinské drony zapálily logistické centrum Ozonu v Adygejsku v Adygejské republice, asi 380 kilometrů od frontové linie. Část střechy se zřítila a komplex ráno stále hořel. Firma evakuovala lidi, přestala přijímat zásilky od prodejců, schovala zboží na webu a ruší objednávky, které neumí vyřídit z jiných skladů. Jde o jedno z největších distribučních center Ozonu na jihu Ruska a o druhý zásah jeho logistiky v Adygeji za tři měsíce. 
+          - SBU a prokuratura oznámily in absentia podezření z velezrady Julii Mendelové, bývalé tiskové mluvčí prezidenta Zelenského. Vedle velezrady za stavu války jí vyčítají ospravedlňování ruské války podle paragrafu 436-2. Podle úřadu svými veřejnými výroky a příspěvky na sítích poškozuje mezinárodní pověst Ukrajiny a obhajuje kremelský režim.
+          - V okupovaném Doněcku dostal zásah mobilní operátor Fenix. Místní hlásili nejméně tři zásahy a výpadky signálu, podle kanálu ASTRA šlo o datové centrum v Šachtarské ulici. Operátora Fenix rozjelo Rusko v červnu 2015 na technice zabavené doněcké pobočce Kyivstaru, takže okupanti nyní přišli o síť, kterou předtím Ukrajině ukradli. 
+          - Ministr energetiky Denys Šmyhal doplnil k úternímu úderu podstatný detail: tři drony mířily na rozvodnu klíčovou pro stabilní provoz Chmelnycké jaderné elektrárny. Incident Ukrajina nahlásila Mezinárodní agentuře pro atomovou energii jako vážnou eskalaci, která ohrožuje jadernou bezpečnost celé Evropy. 
+          - V Bruselu dnes Evropská komise posadila k jednomu stolu Ukrajinu, Spojené státy, Francii, Německo, Británii, NATO a Světovou banku. Na programu jsou bezpečnostní záruky po válce, obnova Ukrajiny a hospodářské příležitosti. 
+          - Dnes je na Ukrajině Den železničáře a Ukrzaliznycja k němu zveřejnila jedno konkrétní číslo: 1220. Tolik železničářů zabilo Rusko od začátku plné invaze. Na jejich počest vypravila vlak Železné paměti s číslem 1220. 
+          - Guvernérka New Jersey Mikie Sherrillová napsala přístavům a provozovatelům terminálů ve svém státě, že dovoz ruské nafty porušuje federální zákon a každý pokus na něm vydělat narazí na přísné tresty. 
+          - Okupovaný Krym spadl do tmy. Bez proudu byly Simferopol, Sevastopol, Jalta, Feodosije i Bělohorský okres. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1023619105750091724)
+          - [Ruské drony čekají na přepad](https://pixelfed.cz/p/dnesnaukrajine/1023615658582120345)
+          - [Mínus Ozon](https://pixelfed.cz/p/dnesnaukrajine/1023615682803353498)
+          - [Ozon](https://pixelfed.cz/p/dnesnaukrajine/1023615718541539227)
+          - [Mínus Geran](https://pixelfed.cz/p/dnesnaukrajine/1023615753777919902)
+          - [Ruský dvojitý úder na Komyšuvachu](https://pixelfed.cz/p/dnesnaukrajine/1023615797655365538)
+          - [Ruský pohled na nálet na Komyšuvachu](https://pixelfed.cz/p/dnesnaukrajine/1023615818663471014)
+          - [Zasažený hospic](https://pixelfed.cz/p/dnesnaukrajine/1023615849319090090)
+          - [Lov na drony](https://pixelfed.cz/p/dnesnaukrajine/1023615899106224043)
+          - [Mínus dronaři](https://pixelfed.cz/p/dnesnaukrajine/1023615939048617900)
+          - [SOF u Sum](https://pixelfed.cz/p/dnesnaukrajine/1023615976925222829)
+          - [Rozebírání miny](https://pixelfed.cz/p/dnesnaukrajine/1023615996293072814)
       - title: "Úterý" 
         year: "3. listopadu 2026"
         sort: "2026-11-03"
