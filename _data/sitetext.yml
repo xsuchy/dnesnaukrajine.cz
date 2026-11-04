@@ -9208,10 +9208,10 @@ timeline:
         image: assets/img/timeline/2026-03-09.jpg
         podcast: "2026-03-09.mp3"
         pictures:
-          - ["2026-03-09-1.jpg", ""]
-          - ["2026-03-09-2.jpg", ""]
-          - ["2026-03-09-3.jpg", ""]
-          - ["2026-03-09-4.jpg", ""]
+          - ["2026-03-09-1.jpg", "V Zelenského štábu."]
+          - ["2026-03-09-2.jpg", "Španělský minomet."]
+          - ["2026-03-09-3.jpg", "Momentka."]
+          - ["2026-03-09-4.jpg", "Zelenský a Syrský u Azovu na frontě."]
         desc: |
           Orbánovo Maďarsko je regulérní kriminální stát. Maďaři stále zadržují nedávno zabavenou hotovost a zlato, aniž by pro to uvedli jediný právní důvod. Ukrajina navíc nově tvrdí, že řidiči ukrajinského bankovního obrněného vozu byli po svém zatčení v Maďarsku drženi 28 hodin v poutech. Násilím jim byly podány léky a byli nuceni vypovídat v ruštině. Také byli přepravováni se zavázanýma očima a byly jim zabaveny telefony a osobní věci, bylo jim zakázáno informovat své rodiny nebo velvyslanectví o svém pobytu a byl jim odepřen právní zástupce i přístup ke konzulu. Jednomu ze zadržených lidí trpícímu cukrovkou prý byla poskytnuta pomoc až poté, co ztratil vědomí. Ukrajina proto zahájila trestní stíhání osob, které se na maďarské straně celé akce účastnily. Orbánův poslanec Kocsis mezitím představil návrh zákona, kterým by se probíhající krádež hotovosti a zlata de facto legalizovala, neboť by došlo ke konfiskaci prostředků „do ukončení vyšetřování“ – a to může Orbánova vláda uměle natahovat klidně celé roky. A pak se stalo ještě [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02HFtHaUC2VLC7SZEeQMwG35XSWjnChiCBevaAFnP6eDxNnLyftu7vGVHst1D6yZril): 
         detail: |
@@ -9249,10 +9249,10 @@ timeline:
         image: assets/img/timeline/2026-03-08.jpg
         podcast: "2026-03-08.mp3"
         pictures:
-          - ["2026-03-08-1.jpg", ""]
-          - ["2026-03-08-2.jpg", ""]
-          - ["2026-03-08-3.jpg", ""]
-          - ["2026-03-08-4.jpg", ""]
+          - ["2026-03-08-1.jpg", "MDŽ."]
+          - ["2026-03-08-2.jpg", "Zasažený vůz hasičů."]
+          - ["2026-03-08-3.jpg", "Místo dopadu ruských dronů na Charkov."]
+          - ["2026-03-08-4.jpg", "Oběti ruského náletu v Charkově."]
         desc: |
           Současná maďarská vláda se za vydatné pomoci ruské propagandy snaží přesvědčit evropské publikum, že převoz měn nebo cenných kovů pomocí obrněných nákladních vozidel je něco podezřelého, a usilovně vytváří propojení mezi takovými aktivitami a obvyklou ruskou propagandou o korupci na Ukrajině. Ve skutečnosti šlo o rutinní převoz hotovosti, jakých se denně odehrají po celé Evropě desítky. Jsou velmi důsledně dokumentované, kontrolované a ohlašované, což je i důvod, proč o převozu Maďarsko vědělo. Obvykle se ale používá k převozu letecká doprava, což z pochopitelných důvodů nyní na Ukrajině dělat nejde. Zadržení transportu tak bylo pravděpodobně pomstou Orbána za odmítnutí obnovení dodávek ropy skrz ropovod Družba, nebo bylo koordinováno přímo s Rusy. Druhou verzi podporuje skutečnost, že zatímco zadržení pracovníci banky byli propuštěni, Maďarsko stále nevrátilo zabavené finance. Probíhající vlnu dezinformací podporují desítky počítačově generovaných obrázků, které společně s připravenými narativy šíří obvyklí spolupracovníci ruské propagandy – v Česku například Rachjlovci nebo SPD v čele s dlouholetým šiřitelem dezinformací a nesmyslných konspirací Janem Čížkem. Ve chvíli, kdy jsou ruské dezinformace takto uměle vyrobeny, můžete prakticky stoprocentně identifikovat ruské agenty podle toho, kdo tyto narativy šíří. Politici totiž samozřejmě moc dobře vědí, jak banky operují. Pokud se tedy účastní šíření podobných dezinformací, dělají to naprosto vědomě a zištně. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02KABmLhCCTxK1XRB5rfrYvPDy23Dnzh5Qe282Cf4wKSB7DC5f6chq4Th9Qk57sz4bl): 
         detail: |
@@ -9285,12 +9285,13 @@ timeline:
           - [Zásah ruského skladu ropy](https://pixelfed.cz/p/dnesnaukrajine/936304967477473170)
       - title: "Sobota"
         year: "7. března 2026"
+        # https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0vepmf7N5vGJnAqHxQwi2Rc1cGBcXTwUvrqTtXZsBHZjbfnvw4dtvereSLBzuX6Wdl
         sort: "2026-03-07"
         pictures:
-          - ["2026-03-07-1.jpg", ""]
-          - ["2026-03-07-2.jpg", ""]
-          - ["2026-03-07-3.jpg", ""]
-          - ["2026-03-07-4.jpg", ""]
+          - ["2026-03-07-1.jpg", "Charkov."]
+          - ["2026-03-07-2.jpg", "Švédská akce."]
+          - ["2026-03-07-3.jpg", "Rusové na paralympiádě."]
+          - ["2026-03-07-4.jpg", "Ruští školáci povinně truchlí za vůdce Íránu."]
         image: assets/img/timeline/2026-03-07.jpg
         podcast: "2026-03-07.mp3"
         desc: |
@@ -9330,10 +9331,10 @@ timeline:
         image: assets/img/timeline/2026-03-06.jpg
         podcast: "2026-03-06.mp3"
         pictures:
-          - ["2026-03-06-1.jpg", ""]
-          - ["2026-03-06-2.jpg", ""]
-          - ["2026-03-06-3.jpg", ""]
-          - ["2026-03-06-4.jpg", ""]
+          - ["2026-03-06-1.jpg", "Tank 31. brigády."]
+          - ["2026-03-06-2.jpg", "To nahoře byl ruský vrtulník."]
+          - ["2026-03-06-3.jpg", "Testování nových radarů."]
+          - ["2026-03-06-4.jpg", "Maďarskem zabavené finance."]
         desc: |
           Svět se nachází ve 3. světové válce, i když se zatím nebojuje ve většině Evropy. Nový vývoj nejen na Ukrajině, ale i v Jižní Americe, na Blízkém východě, v jihovýchodní Asii a střední Evropě to potvrzuje. Když k tomu navíc přidáme hybridní operace, není o tom vůbec pochyb. K existenci války totiž není potřeba, aby ji někdo formálně vyhlásil. Je to objektivní stav, nikoliv důsledek diplomatické nóty. A bohužel se kvůli současné české vládě nedá s jistotou říct, na které straně v ní Česko stojí. Ale více o kontextu toho všeho v dnešním [přehledu](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02md2LyHKWFdf7DEvAJ1eXGQD73YgAhKC7986KVgcKo4cW35WzmWCFeA6sutoN85btl): 
         detail: |
@@ -9364,10 +9365,10 @@ timeline:
         image: assets/img/timeline/2026-03-05.jpg
         podcast: "2026-03-05.mp3"
         pictures:
-          - ["2026-03-05-1.jpg", ""]
-          - ["2026-03-05-2.jpg", ""]
-          - ["2026-03-05-3.jpg", ""]
-          - ["2026-03-05-4.jpg", ""]
+          - ["2026-03-05-1.jpg", "Jsou doma."]
+          - ["2026-03-05-2.jpg", "Zasažená loď."]
+          - ["2026-03-05-3.jpg", "Situace na východní frontě."]
+          - ["2026-03-05-4.jpg", "Momentka."]
         desc: |
           Ukrajina podle nejnovějších informací zasáhla hned 4 ruské válečné lodě a zabila 3 námořníky při útoku z 2. března na černomořský přístav Novorossijsk v Krasnodarském kraji. Loď Admiral Essen podle SBU utrpěla značné poškození, které výrazně omezilo její schopnost odpalovat řízené střely Kalibr na Ukrajinu. Dalšími zasaženými loděmi byly minolovka Valentin Pikul a dvě protiponorkové lodě – Jejsk a Kasimov, které taktéž utrpěly škody. Zásahy lodí potvrzují i ruské vojenské kanály a některé dokonce mluví o 5 plavidlech. Ruské ministerstvo obrany a oficiální ruské kanály samozřejmě jakékoliv zásahy nebo škody popírají. Satelitní snímky ale potvrzují, že několik plavidel utrpělo přímé zásahy ze vzduchu, a nejméně v jednom případě jsou viditelné škody na samotném můstku a systémech lodi, i když samozřejmě nejde určit, jak moc jsou vážné. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02UvDn7R4ngeDigRLFZLVdp3ZJaEDn8X7RLscUFQfQkHqxVgrBJXoUHft711qEP8H6l): 
         detail: |
@@ -9403,11 +9404,11 @@ timeline:
         image: assets/img/timeline/2026-03-04.jpg
         podcast: "2026-03-04.mp3"
         pictures:
-          - ["2026-03-04-1.jpg", ""]
-          - ["2026-03-04-2.jpg", ""]
-          - ["2026-03-04-3.jpg", ""]
-          - ["2026-03-04-4.jpg", ""]
-          - ["2026-03-04-5.jpg", ""]
+          - ["2026-03-04-1.jpg", "Hrdinové."]
+          - ["2026-03-04-2.jpg", "Zasažený tanker nad ránem a ve dne."]
+          - ["2026-03-04-3.jpg", "Zasažený tanker nad ránem a ve dne."]
+          - ["2026-03-04-4.jpg", "Rusové vyrábí falešné stromy, aby schovali svoje Wi-Fi vysílače."]
+          - ["2026-03-04-5.jpg", "Rusové sestřelili vlastní vrtulník."]
         desc: |
           Sankciovaný ruský tanker se zkapalněným zemním plynem Arctic Metagaz byl zasažen ukrajinským námořním dronem u pobřeží Libye v maltských teritoriálních vodách. Útok způsobil velkou díru v trupu plavidla a na palubě po něm vypukl rozsáhlý požár. Všech 30 členů posádky bylo evakuováno. Rusové útok potvrdili a tvrdí, že dron útočil na tanker z Libye. Ať už to bylo jakkoliv, dobrá trefa! A teď další [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02AppXsWYCJXM1DR4kSaD6Q8TSrxnXSj6L4pLN5SiD8YezuaYqiPHnArnAAfi9AAy6l): 
         detail: |
