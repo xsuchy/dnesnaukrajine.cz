@@ -38,6 +38,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Čtvrtek" 
+        year: "5. listopadu 2026"
+        sort: "2026-11-05"
+        pictures:
+          - ["2026-11-05-1.jpg", "V Bílém domě."]
+          - ["2026-11-05-2.jpg", "Ruská rafinérka."]
+          - ["2026-11-05-3.jpg", "Kyjevská elektrárna."]
+        image: assets/img/timeline/2026-11-05.jpg
+        podcast: "2026-11-05.mp3"
+        desc: |
+          V Grand Foyer Bílého domu dnes stál Kirill Dmitrijev, Putinův zvláštní zmocněnec, a děkoval první dámě Melanii Trumpové za humanitární činnost s tím, že instrukce k operaci dal Putin osobně a posílá jí svůj vděk. Šlo o akci zorganizovanou v reakci na lokální příměří v okupovaných Oleškách, které Trumpová údajně pomohla vyjednat. Za Ukrajinu vystoupili šéf frakce Sluha národa Davyd Arachamija a ombudsman Dmytro Lubinec. První dáma pak jim i Dmitrijevovi předala dopisy určené prezidentům obou zemí. Sám Donald Trump nepřišel. Ve stejný den, kdy v Bílém domě zněly díky Kremlu, stoupl počet mrtvých po ruském úderu na školu v Komyšuvaše na 43 a šéfka olešské městské vojenské administrace hlásí, že humanitární pomoc dovezená do města se k lidem vůbec nedostává. A kdo skutečně věří, že Melania Trumpová cokoliv ohledně nedávného příměří osobně dojednávala, tomu nejspíš není pomoci. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0xVrKgCHRQ6Uv9cnUL78FKGwTPpw7b6ZHc5Yw5Mo85K8MyicMx2KoxWpj9HG9D36jl): 
+        detail: |
+          - Ukrajinské drony v noci zaútočily na Rjazaň. Podle gubernátora Pavla Malkova letělo na oblast více než 200 dronů, hořelo na několika průmyslových objektech, poškozené byly rozvody elektřiny a část města zůstala bez proudu. Rafinerie koncernu Rosněfť zpracovává přes 17 milionů tun ropy ročně a zásobuje Moskvu, střední Rusko a podle ASTRA i ruskou armádu. Jde už o pátou ruskou rafinerii zasaženou během týdne. Hořet měl i velký sklad Wildberries. Ukrajinská rozvědka uvádí, že ke konci září stál provoz v 15 z 38 velkých ruských rafinerií a dalších 12 fungovalo s omezeními. Objem zpracování ropy v Rusku klesl od začátku roku o 55,4 procenta. 
+          - V Bruselu pokračoval druhý den jednání o bezpečnostních zárukách, obnově Ukrajiny a financování na rok 2027. V sídle NATO se sešly delegace USA, Británie, Francie, Německa, EU a Aliance, přítomni byly i Světová banka a americká investiční skupina BlackRock. Hlavní ukrajinský vyjednavač Rustem Umerov uvedl, že se probíraly také ruské hrozby vůči Ukrajině a Evropě a společné kroky proti nim. Zelenskyj si ve středu telefonoval devadesát minut s americkými vyjednavači Stevem Witkoffem a Jaredem Kushnerem. Podle Kushnera je tématem širší bezpečnostní architektura, která má zabránit obnovení bojů. Samostatná jednání Ruska, Ukrajiny a USA mají proběhnout v Abú Dhabí. 
+          - Ruské útoky od srpna systematicky poškozují sklady největších ukrajinských farmaceutických distributorů i fabriky, které je zásobují. Ministerstvo zdravotnictví spočítalo, že jen v září Rusko zasáhlo sklady léků a logistická centra sedmkrát a v říjnu útoky pokračovaly. Taková frekvence podle resortu ukazuje, že nejde o souhru náhod. Celostátní nedostatek léků zatím nehrozí, odborníci ale čekají mezery v dodávkách v nejbližších týdnech, protože zničená fabrika v Sumách vyráběla přípravky, které jiný ukrajinský výrobce nedělá. Pacienti už teď na sociálních sítích prosí lidi z méně zasažených měst, aby jim léky koupili a poslali poštou. 
+          - Počet mrtvých po ruském úderu na podzemní školu v Komyšuvaše v Záporožské oblasti stoupl na 43, dalších 33 lidí se stále pohřešuje. Rusové 2. listopadu zasáhli školu, kde se lidé sešli na výdej humanitární pomoci, mimo jiné třítunovou pumou FAB-3000, a po prvním zásahu dopadlo podle Zelenského na úkryt dalších devět pum. Mezi mrtvými jsou dva čtyřiačtyřicetiletí hasiči Denys Konovalenko a Oleksij Suščevskyj a třiapadesátiletý vojenský medik Oleksandr Zarjaščuk ze Žytomyru. Krajský policejní šéf Artem Kysko oznámil, že pohřešovanou šestapadesátiletou Olhu se po čtyřech dnech podařilo najít živou. 
+          - Kremlu blízký telegramový kanál Rybar vyzval, aby Rusko odstavilo ukrajinské jaderné elektrárny útoky na blokové transformátory a generátory. Vyjmenoval i rozvodny a bateriová úložiště u velkých solárních parků. ISW k tomu uvádí, že bez posílené obrany se letošní zima bude podobat té loňské, kdy ruská kampaň poškodila nebo zničila 80 procent ukrajinské výroby elektřiny. Rusko poslalo 3. listopadu tři drony na rozvodnu, na níž závisí Chmelnycká jaderná elektrárna. Jaderné bloky kvůli útokům na síť snížily výkon, přitom dodávají asi polovinu současné ukrajinské elektřiny. 
+          - V ruské vyšetřovací vazbě na okupovaném Krymu zemřela čtyřiačtyřicetiletá Oleksandra Kazarovycka, studijní ředitelka a spoluzakladatelka charkovské jazykové školy. Do okupovaného Sevastopolu se vrátila, aby pomohla rodičům prodat byt, s nimiž se pak chtěla přestěhovat do Turecka. Okupační správa ji zadržela poté, co jí v telefonu našla korespondenci s jednou dobrovolnicí, a držela ji na samotce, pravděpodobně v Simferopolu. Podle ruských úřadů spáchala 25. října po třech měsících izolace sebevraždu. 
+          - Ukrajinci sestřelili ve středu večer dron, který kromě bojové hlavice nesl svazek ruských propagandistických letáků. Jeden vyzývá ke hlasování o jménu ukrajinské dobrovolnické brigády v ruské armádě, druhý kritizuje ukrajinské odvody, oba mají QR kódy. Velitel Sil bezpilotních systémů Robert Brovdi, zvaný Maďar, varoval, aby je lidé neskenovali, protože jde nejspíš o phishing.  
+          - Ruské ministerstvo obrany oznámilo, že zasáhlo terminál Nové pošty, největšího ukrajinského soukromého přepravce, v Novém Korotyči u Charkova, také rozvodnu 330 kilovoltů v Dněpropetrovské oblasti a nákladní plavidlo s vojenským materiálem v Černém moři 52 kilometrů jihozápadně od Oděsy. Rusové už se tím ani netají. 
+          - Rusko si podle ukrajinského Koordinačního štábu pro zacházení se zajatci nechce brát zpět muže, které naverbovalo na okupovaných územích a poslalo bojovat proti Ukrajině. Takoví lidé tvoří asi 15 procent ruských zajatců v ukrajinských táborech a od roku 2023 jich bylo vyměněno jen několik desítek. 
+          - Polská Agentura vnitřní bezpečnosti zadržela šest lidí, kteří měli Rusku dodávat materiály vojenské kvality pro výrobu munice a zbraňových systémů. Podle ministra Tomasze Siemoniaka jde o pět Poláků ve věku 25 až 52 let a sedmatřicetiletou Rusku, čtyři z nich skončili ve vazbě s obviněním ze špionáže. 
+          - Po výpadcích napětí v objektech Kyjivvodokanalu zůstaly bez dodávek vody všechny kyjevské městské obvody. Velké přečerpávací stanice nemají záložní napájení a dieselové generátory u menších stanic je nedokážou utáhnout.
+          - Zelenskyj se v Madridu na okraj iberoamerického summitu sešel s portugalským prezidentem Antóniem Josém Segurem a jednal s ním o společné výrobě zbraní a dronů a o portugalské pomoci ukrajinské energetice. 
+          - Ve Slavjansku zaútočil ruský dron na hasiče přímo při hašení požáru. Litva si kvůli ruským útokům na ukrajinské civilisty a infrastrukturu pozvala na kobereček představitele ruského velvyslanectví.
+          - Finský soud odsoudil ruského kapitána nákladní lodi Fitburg ke 3,5 roku vězení v souvislosti s poškozením kabelu v Baltském moři.
+          - Osmnáct letadel nad Evropou muselo nouzově přistát kvůli falešným bombovým hrozbám. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1024066906136144772)
+          - [Mínus dron](https://pixelfed.cz/p/dnesnaukrajine/1024064995626220372)
+          - [Rjazaň](https://pixelfed.cz/p/dnesnaukrajine/1024065012411161429)
+          - [Blackout v Kyjevě](https://pixelfed.cz/p/dnesnaukrajine/1024065031821106006)
+          - [Rusko a Ukrajina v Bílém domě](https://pixelfed.cz/p/dnesnaukrajine/1024065611212933994)
+          - [Mínus sibiřský plynovod](https://pixelfed.cz/p/dnesnaukrajine/1024065633268669291)
+          - [Neschoval se ](https://pixelfed.cz/p/dnesnaukrajine/1024065656556116846)
+          - [Nemilé](https://pixelfed.cz/p/dnesnaukrajine/1024065679491570543)
+          - [Mínus Wildberries](https://pixelfed.cz/p/dnesnaukrajine/1024065716909259634)
+          - [Kstovo](https://pixelfed.cz/p/dnesnaukrajine/1024066097909349247)
       - title: "Středa" 
         year: "4. listopadu 2026"
         sort: "2026-11-04"
