@@ -41,6 +41,11 @@ timeline:
       - title: "Sobota" 
         year: "7. listopadu 2026"
         sort: "2026-11-07"
+        pictures:
+          - ["2026-11-07-1.jpg", "Italská Puma na Ukrajině."]
+          - ["2026-11-07-2.jpg", "Saratov."]
+          - ["2026-11-07-3.jpg", "Kdo nejvíc platí Rusku za fosilní paliva."]
+          - ["2026-11-07-4.jpg", "Fronta podle ISW."]
         image: assets/img/timeline/2026-11-07.jpg
         podcast: "2026-11-07.mp3"
         desc: |
