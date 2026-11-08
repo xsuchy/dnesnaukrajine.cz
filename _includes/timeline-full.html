@@ -69,6 +69,11 @@
                   {{ event.videa | markdownify }}
                   </details>
                   {% endif %}
+                  {% if event.podcast %}
+                  <p class="podcast-player">
+                    <audio controls preload="none" src="https://podcast.dnesnaukrajine.cz/epizody/{{ event.podcast }}"></audio>
+                  </p>
+                  {% endif %}
                   <a href="#{{ event.year }}" title="Permanentní odkaz">&#128279;</a>
                   </div>
                 </div>
