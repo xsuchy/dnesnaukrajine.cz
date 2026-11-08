@@ -10405,10 +10405,10 @@ timeline:
         image: assets/img/timeline/2026-02-09.jpg
         podcast: "2026-02-09.mp3"
         pictures:
-          - ["2026-02-09-1.jpg", ""]
-          - ["2026-02-09-2.jpg", ""]
-          - ["2026-02-09-3.jpg", ""]
-          - ["2026-02-09-4.jpg", ""]
+          - ["2026-02-09-1.jpg", "Kyjev."]
+          - ["2026-02-09-2.jpg", "Velitelský post."]
+          - ["2026-02-09-3.jpg", "Cvičení paragánů."]
+          - ["2026-02-09-4.jpg", "Údajný směr ukrajinské ofenzivy."]
         desc: |
           Ze Záporoží přicházejí smíšené zprávy. Ruské kanály tvrdí, že Ukrajinci spustili protiofenzivu na záporožské části fronty a podobně se vyjadřují i některé OSINT a mapovací kanály. Ukrajinská armáda to ale popírá. Probíhají prý začišťovací operace ve frontových obcích a likvidace ruských diverzních skupin, ale z pohledu armády se nedá mluvit o protiofenzivě. Kde je pravda? Spíše to vypadá, že „něco“ většího se skutečně děje, ale možná má na zprávy z oblasti vliv i skutečnost, že Rusům kvůli absenci Starlinku vázne komunikace u frontových pozic. Každopádně jsou i další [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0psckczBE7P8cCRvU5DTPR4spD2BfwCPhcUpV7w8ZYncUo3K8ff7MJpvkMPdms5QMl): 
         detail: |
@@ -10451,10 +10451,10 @@ timeline:
         image: assets/img/timeline/2026-02-08.jpg
         podcast: "2026-02-08.mp3"
         pictures:
-          - ["2026-02-08-1.jpg", ""]
-          - ["2026-02-08-2.jpg", ""]
-          - ["2026-02-08-3.jpg", ""]
-          - ["2026-02-08-4.jpg", ""]
+          - ["2026-02-08-1.jpg", "Ruský tank."]
+          - ["2026-02-08-2.jpg", "Dron Vampýr."]
+          - ["2026-02-08-3.jpg", "Zasažený Kramatorsk."]
+          - ["2026-02-08-4.jpg", "Hrdina."]
         # https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02bYQdTe7bz6PY7H3KBCQM8ssX9ViafG4PxLDGduziPpMDaYjvWRZhnYW71seb44YFl
         desc: |
           Rusko se pokouší najít způsoby, jak obejít blokování terminálů Starlink. Podle ukrajinských úřadů se například pokouší najít kolaboranty v ukrajinské armádě i mezi civilisty, kteří by za úplatu vytvořili falešné přístupové body a ruské terminály registrovali. Některé ruské jednotky na Telegramu také tvrdily, že se jim blokaci podařilo obejít pomocí vlastního technického řešení, ale protože zveřejnily přesné metody, dá se tušit, že Ukrajina tyto „díry“ postupně dokáže zalepit. Rusko využívalo Starlink na frontě v takové míře, že se na něm stalo určitým způsobem závislé, a nyní horko těžko hledá alternativy. Ruští váleční blogeři dokonce píší na Telegramu, že Ukrajina využila absenci komunikace na ruské straně fronty a podnikla úspěšné lokální protiútoky. Jeden z blogerů dokonce píše o „kolapsu ruské obrany v Dněpropetrovské oblasti“, ale tak dramatická situace nejspíš není. 
@@ -10485,10 +10485,10 @@ timeline:
         image: assets/img/timeline/2026-02-07.jpg
         podcast: "2026-02-07.mp3"
         pictures:
-          - ["2026-02-07-1.jpg", ""]
-          - ["2026-02-07-2.jpg", ""]
-          - ["2026-02-07-3.jpg", ""]
-          - ["2026-02-07-4.jpg", ""]
+          - ["2026-02-07-1.jpg", "Sbírka zajatců Azovu."]
+          - ["2026-02-07-2.jpg", "Rusové zasáhli další areál čokoládovny Roshen."]
+          - ["2026-02-07-3.jpg", "Mapa náletu."]
+          - ["2026-02-07-4.jpg", "Mínus ruská chemička u Tveru."]
         desc: |
           Rusko nedokáže Ukrajinu porazit vojensky, a tak se pokouší způsobit humanitární katastrofu, která by donutila vedení země válku ukončit za každou cenu. V noci na dnešek proběhl další masivní nálet na Ukrajinu. Rusové zasáhli tepelnou elektrárnu Burštyn v Ivano-Frankivské oblasti a tepelnou elektrárnu Dobrotvir ve Lvovské oblasti. Zasaženy byly také rozvodny a 750kV a 330kV přenosové vedení 750 kV a 330 kV, které tvoří páteř energetické sítě Ukrajiny. Všechny jaderné elektrárny na území kontrolovaném Ukrajinou přestaly po náletu vyrábět elektřinu. Důvodem je poškození klíčových vysokonapěťových rozvoden, přes které se elektřina z jaderných elektráren přenáší do rozvodné sítě. Na celém území Ukrajiny nyní platí rozšířené nouzové odstávky elektřiny, přičemž ve východních a severních oblastech jsou omezení nejpřísnější. Ukrajinská státní společnost Ukrenergo oficiálně požádala Polsko o nouzovou pomoc. Mezitím se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0373BdfCQ348Y9fD8Co6mZ1X1ajv54p2BsXkALunzXiY743iq4amrz7TqCQRXrDiYrl): 
         detail: |
@@ -10520,10 +10520,10 @@ timeline:
         image: assets/img/timeline/2026-02-06.jpg
         podcast: "2026-02-06.mp3"
         pictures:
-          - ["2026-02-06-1.jpg", ""]
-          - ["2026-02-06-2.jpg", ""]
-          - ["2026-02-06-3.jpg", ""]
-          - ["2026-02-06-4.jpg", ""]
+          - ["2026-02-06-1.jpg", "Jsou doma!"]
+          - ["2026-02-06-2.jpg", "Ruské dělo na frontě."]
+          - ["2026-02-06-3.jpg", "Lov na drony s minigunem."]
+          - ["2026-02-06-4.jpg", "Rusové vybombardovali zvířecí útulek u Záporoží."]
         desc: |
           Generálporučík Vladimir Aleksejev, první zástupce vedoucího ruské GRU (vojenské rozvědky), byl dnes několikrát střelen do zad ve svém bytě v ulici Volokolamskoje Šosse. Je hospitalizován v kritickém stavu v nemocnici. Střelec z místa činu uprchl. Aleksejev je jednou z nejvlivnějších osobností ruské rozvědky – osobně jednal s Prigožinem během Wagnerovy vzpoury v roce 2023 a dohlíží na klíčové tajné operace. Dá se předpokládat, že jde o akci ukrajinské zahraniční rozvědky. Nezbývá než Aleksejevovi držet palce, ať se brzy vypraví na Kobzonův koncert. Ale děje se také [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02CZw9ZBg5RoqbA9YPKi68C2WP3iKhZydyJ63bBfarER9Dg6DmVSXFqzrt93t8owYhl):
         detail: |
@@ -10555,10 +10555,10 @@ timeline:
         image: assets/img/timeline/2026-02-05.jpg
         podcast: "2026-02-05.mp3"
         pictures:
-          - ["2026-02-05-1.jpg", ""]
-          - ["2026-02-05-2.jpg", ""]
-          - ["2026-02-05-3.jpg", ""]
-          - ["2026-02-05-4.jpg", ""]
+          - ["2026-02-05-1.jpg", "Polská delegace je v Kyjevě."]
+          - ["2026-02-05-2.jpg", "Zasažení hasiči."]
+          - ["2026-02-05-3.jpg", "Kyjev."]
+          - ["2026-02-05-4.jpg", "Moment těsně před tím, než ruská raketa zasáhla ukrajinský dron."]
         desc: |
           Ukrajinský tlak na společnost SpaceX zafungoval. Odpojení Rusů od terminálů Starlink vedlo ke kolapsu komunikace ruských jednotek na celé frontě, zatímco ukrajinské terminály díky whitelistingu fungují dál. Až 90 % ruských jednotek nemá přístup k online spojení. Někde kvůli tomu Rusové dokonce úplně zastavili ofenzivní akce. Rychle se ale snaží výpadek nahradit pomocí domácích technologií, které sice nejsou tak efektivní, ale stále jsou využitelné. Tleskat společnosti SpaceX by ale znamenalo ignorovat, že v první řadě vůbec dopustila, aby její produkty Rusko využívalo, a to často velmi účinně – například, když je Rusové začali montovat na kamikadze drony, aby je mohli nerušeně navádět na cíle po celé Ukrajině. Zároveň je ostudou Ruska, že ve své propagandě hlásá, že bojuje proti NATO, zatímco je v mnoha oblastech závislé na jeho technologiích a řešeních. A na pozadí toho se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid033rHkq95By4rFoGdFawjCMAZ2KSU3SE1hpWwZNosT5uPcDkgep8JRT9jRXKZMLPoDl):  
         detail: |
@@ -10594,10 +10594,10 @@ timeline:
         image: assets/img/timeline/2026-02-04.jpg
         podcast: "2026-02-04.mp3"
         pictures:
-          - ["2026-02-04-1.jpg", ""]
-          - ["2026-02-04-2.jpg", ""]
-          - ["2026-02-04-3.jpg", ""]
-          - ["2026-02-04-4.jpg", ""]
+          - ["2026-02-04-1.jpg", "Ukrajinci na motorkách."]
+          - ["2026-02-04-2.jpg", "Frontová logistika."]
+          - ["2026-02-04-3.jpg", "Kyjevská elektrárna po náletech."]
+          - ["2026-02-04-4.jpg", "Jednání v SAE."]
         desc: |
           Polsko se stalo první zemí, která zřídila vládní komisi pro vyšetřování případu Jeffreyho Epsteina. Dosud zveřejněné dokumenty totiž obsahují přes 1 000 dokumentů přímo souvisejících s Vladimirem Putinem a asi 9 000 dokumentů týkajících se Moskvy. FBI už dříve uvedla, že měla informace naznačující, že Jeffrey Epstein spravoval část majetku Vladimira Putina. Je známo, že Epstein archivoval všechny své zprávy, e-maily a dokumenty. Uchovával také videozáznamy a fotografický materiál. Nahrával a filmoval vlivné západní lídry – prezidenty, premiéry a šéfy velkých globálních korporací. Stále více komentátorů a odborníků proto naznačuje, že je velmi pravděpodobné, že se jednalo o předem připravenou operaci ruské KGB. Některé další evropské země taktéž zahájily vyšetřování vazeb Epsteina na politické elity ve vlastních řadách, ale primárně kvůli potenciálnímu obchodu s bílým masem a dalším zločinům. Ruská vlivová operace je ale čím dál pravděpodobnější a Polsko je tak první zemí, která se zaměřuje právě na ni. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid08F5XrQfiiWtGmhqDKMwRf5q2RX9A6DiF33EkeNikorpMYetWDPasp9F2pvUAksRDl): 
         detail: |
@@ -10632,10 +10632,10 @@ timeline:
         image: assets/img/timeline/2026-02-03.jpg
         podcast: "2026-02-03.mp3"
         pictures:
-          - ["2026-02-03-1.jpg", ""]
-          - ["2026-02-03-2.jpg", ""]
-          - ["2026-02-03-3.jpg", ""]
-          - ["2026-02-03-4.jpg", ""]
+          - ["2026-02-03-1.jpg", "Bohdana na Tatře."]
+          - ["2026-02-03-2.jpg", "Ruský voják s vysílačkou pro drony."]
+          - ["2026-02-03-3.jpg", "Mapa náletu."]
+          - ["2026-02-03-4.jpg", "Zelenský na online jednání."]
         desc: |
           Rusové v noci podnikli zatím největší nálet na Ukrajinu v letošním roce. Rusko vypustilo 4 střely Zirkon a Oniks, 32 balistických raket Iskander-M a S-300, 7 střel Ch-22 a Ch-32, 28 střel Ch-101 nebo Iskander-K a 450 dronů Shahed, Gerbera nebo Italmas. A cílem byla opět civilní energetická infrastruktura napříč Ukrajinou. Zasaženy byly nejméně čtyři elektrárny a teplárny a několik rozvoden, a řada míst je tak opět bez dodávek elektřiny, tepla nebo vody. A to ve chvíli, kdy teploty na Ukrajině míří pod -20 °C a přijít má nová vlna extrémních mrazů. V Oděse byla opět zasažena přístavní infrastruktura s cílem zastavit export zboží z Ukrajiny po moři. Že jde o pečlivě načasovaný nálet, o tom není vůbec pochyb. Trumpem slavnostně oznámené „příměří“ tak bylo ve skutečnosti přesně to, o čem mluvili Ukrajinci: krátká pauza za účelem shromáždění desítek raket a dronů pro koordinovaný devastující úder. Že jde o válečný zločin, je asi úplně zbytečné říkat, protože Rusko ze svých válečných zločinů udělalo věc natolik všední, že už to nikoho nevzrušuje. Zelenskyj po nočním náletu prohlásil, že bude „adekvátně přizpůsobena práce ukrajinského vyjednávacího týmu“. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid025gSbWtJ66MT8hax5vfKdfzsQoUQLJiY7pdGAwjkTUapxPfYeiANGqnr1ebEiwaAyl): 
         detail: |
@@ -10665,10 +10665,10 @@ timeline:
         image: assets/img/timeline/2026-02-02.jpg
         podcast: "2026-02-02.mp3"
         pictures:
-          - ["2026-02-02-1.jpg", ""]
-          - ["2026-02-02-2.jpg", ""]
-          - ["2026-02-02-3.jpg", ""]
-          - ["2026-02-02-4.jpg", ""]
+          - ["2026-02-02-1.jpg", "Klasické ráno na Ukrajině."]
+          - ["2026-02-02-2.jpg", "Dva zajatci do fondu."]
+          - ["2026-02-02-3.jpg", "Nový ukrajinský transportér."]
+          - ["2026-02-02-4.jpg", "Na Ukrajině padla ruská vojačka."]
         desc: |
           Agentura Suspilne informuje, že v 11:47 kyjevského času zasáhlo okupovaný Krym zemětřesení o síle 4,8 stupně. Obyvatelé města Šcholkině uvádějí, že otřesy byly tak silné, že se třásl nábytek a lustry. Evropsko-středomořské seismologické centrum potvrdilo, že zemětřesení zasáhlo oblast v hloubce 10 km poblíž Kerče. Ruské okupační úřady se k případným následkům zatím nevyjádřily. Most ale nejspíš vyvázl bez poškození. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02FHXELDvG2ddErTwmk1dCTAMKbxsJSzN9v9rnWYcdRuU9VkYGqdnH5NuS8zf8L1Vfl): 
         detail: |
@@ -10696,10 +10696,10 @@ timeline:
         image: assets/img/timeline/2026-02-01.jpg
         podcast: "2026-02-01.mp3"
         pictures:
-          - ["2026-02-01-1.jpg", ""]
-          - ["2026-02-01-2.jpg", ""]
-          - ["2026-02-01-3.jpg", ""]
-          - ["2026-02-01-4.jpg", ""]
+          - ["2026-02-01-1.jpg", "Zasažený autobus s horníky."]
+          - ["2026-02-01-2.jpg", "Zasažená porodnice."]
+          - ["2026-02-01-3.jpg", "Ruské sny o úderech na USA z Kuby."]
+          - ["2026-02-01-4.jpg", "Situace u Záporoží."]
         desc: |
           Nově uvolněné dokumenty z vyšetřování kauzy Jeffreyho Epsteina naznačují, že celá síť kontaktů byla vytvořena ve spolupráci s ruskou zahraniční rozvědkou, aby byl vyráběn kompromat na nejvyšší činitele západních států a předních globálních firem. Jméno Putin se v mailech objevuje přibližně tisíckrát a Epstein podle mailů koordinoval řadu činností přímo s Rusy. Jeden ze spolupracovníků s FBI dokonce označil Epsteina za „Putinova pokladníka“. Rusové téměř jistě dodávali Epsteinovi nezletilé „modelky“ a „masérky“, poskytovali mu finance a upláceli jeho „klienty“. Rusové podle spisů také financovali Brexit, nacionalistické strany po celé Evropě a další rozvratné aktivity, ze kterých se pak američtí technologičtí giganti spolu s nimi radovali. Co se Trumpa týče, jeho jméno se ve svazcích objevuje dokonce častěji než jméno samotného Epsteina. Kromě zneužívání nezletilých ale naznačují spisy také mučení mladistvých sexuálních otrokyň, a dokonce i kanibalismus. A také se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0hAcgT7efu9obTJhPStST4TBitjHNPa4h2dZb4SEKds9DPbKHioar2Ff8vatnVpR2l): 
         detail: |
@@ -10730,10 +10730,10 @@ timeline:
         image: assets/img/timeline/2026-01-31.jpg
         podcast: "2026-01-31.mp3"
         pictures:
-          - ["2026-01-31-1.jpg", ""]
-          - ["2026-01-31-2.jpg", ""]
-          - ["2026-01-31-3.jpg", ""]
-          - ["2026-01-31-4.jpg", ""]
+          - ["2026-01-31-1.jpg", "BTR-4 na cvičišti."]
+          - ["2026-01-31-2.jpg", "Ráno na Ukrajině."]
+          - ["2026-01-31-3.jpg", "Momentka z dronu."]
+          - ["2026-01-31-4.jpg", "Ruští piloti potvrzeni."]
         desc: |
           Podle Julie Osmolovské, která posledních 15 let studuje ruský způsob vyjednávání a diplomacie, Rusko v současné chvíli nejedná upřímně, ale používá stejný scénář jako v době, kdy se domlouvaly tzv. Minské dohody. Tehdy Rusové předstírali jednání o příměří, které ale okamžitě porušovali, zatímco se připravovali na úplnou invazi na Ukrajinu. Teď prý Rusové nejednají proto, aby domluvili konec války, ale proto, aby Západ unavili a otrávili. Proto vždy podniknou velký nálet nebo nějaký odporný válečný zločin těsně před dalším kolem jednání – aby dali ukrajinské delegaci důvod z jednání odejít. Paralelně s tím pak vykládají na stůl nehorázné požadavky. Podle Osmolovské musí nejprve situace „uzrát“, aby Rusové jednali upřímně – a to se stane ve chvíli, kdy získají pocit, že jejich cíle nejde naplnit. Bohužel, s Trumpem v čele USA si budeme na takové „zrání“ ještě muset počkat. A taky se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0UnzhAv1PuKeTP8JAWyn6cPysqg97f986cZjSvPTQ9wvKYRfGVrj6gUpuHcbLiVA8l): 
         detail: |
