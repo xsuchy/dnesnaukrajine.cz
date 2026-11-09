@@ -38,7 +38,7 @@ timeline:
     section: timeline
     start_align: "left"
     events:
-      - title: "Sobota" 
+      - title: "Neděle" 
         year: "8. listopadu 2026"
         sort: "2026-11-08"
         pictures:
