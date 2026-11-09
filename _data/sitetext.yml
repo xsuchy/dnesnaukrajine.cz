@@ -38,6 +38,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí" 
+        year: "9. listopadu 2026"
+        sort: "2026-11-09"
+        pictures:
+          - ["2026-11-09-1.jpg", "Rusové vybombardovali zotavovnu pro děti."]
+          - ["2026-11-09-2.jpg", "Samara."]
+          - ["2026-11-09-3.jpg", "Mínus ruské rafinérie."]
+          - ["2026-11-09-4.jpg", "Severní bratrstvo."]
+        image: assets/img/timeline/2026-11-09.jpg
+        podcast: "2026-11-09.mp3"
+        desc: |
+          Den před jednáním v Abú Dhabí je zřejmé, o čem se tam bude mluvit. Donald Trump v rozhovoru pro pořad 60 Minutes řekl, že Ukrajina po válce skončí "v trochu jiném tvaru", že válka brzy skončí a že jediný důvod, proč skončí, je on sám. Hlavní překážkou míru je podle něj nenávist mezi Zelenským a Putinem. Když mu moderátor Ross Douthat nadhodil, že Zelenského postoj k Putinovi je vcelku pochopitelný, Trump odpověď obešel a vytkl Ukrajině, že se k Rusku nechová s úctou. Komu z těch dvou věří víc, prozradit odmítl, s oběma prý vychází dobře. A že by ho Putin vodil za nos, to se prý rozhodně neděje. Kreml pochopil signály rychle: Dmitrij Peskov v pondělí reagoval, že "co se týče tvaru Ukrajiny, z geografického hlediska je to už jiná země". Na mapě, kterou Moskva považuje za hotovou věc, přitom pořád leží čtyři oblasti, které nikdy nedobyla. Požadavky z istanbulského jednání z roku 2022 Rusko nicméně nezměnilo: neutralita Ukrajiny, zákaz členství v NATO i EU, limity pro ukrajinskou armádu a zrušení sankcí. Trilaterální jednání s Witkoffem a Kushnerem začíná v Abú Dhabí v úterý a Francie i další Evropané na něm podle Jeana-Noëla Barrota nakonec budou zastoupeni. Nic dobrého ale od jednání nelze očekávat. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Vh2drzKZQD7qfVjsWw48VnCdgnxJGTR7F3TGukgepcStxUcTXHnLSqSozZTZSPhJl):
+        detail: |
+          - Ukrajinské drony v noci zasáhly a zapálily rafinerii Kinef v Kiriši v Leningradské oblasti, druhou největší v Rusku. Podle fotografií byly pravděpodobně zasaženy destilační jednotky ELOU-AVT-6 a ELOU-AVT-2. Rafinerie patří Surgutněftegazu, má výrobní kapacitu kolem dvaceti milionů tun ropy ročně a zásobuje palivem Petrohrad včetně letiště Pulkovo, kde během útoku omezili provoz. Guvernér Alexandr Drozděnko tvrdí, že protivzdušná obrana sestřelila 113 dronů, přičemž jedna žena v Kirišiach zahynula po dopadu trosek a poškozen byl i obytný dům a městské zásobování teplem. Ruské ministerstvo obrany mluví dokonce o 430 sestřelených dronech nad Ruskem a Krymem. Kinef byla naposledy zasažena v srpnu a podle ruského kanálu Agentstvo Novosti omezila Rosněft prodej paliva ve všech regionech, protože během jednoho týdne přišly o provoz tři ze čtyř rafinerií zásobujících Moskvu. Ve stejnou noc hlásili svědci výbuchy na letecké základně Hvardijske na okupovaném Krymu a v okupovaném Alčevsku hořely větrné turbíny.
+          - Rusko vypustilo od šesti hodin večer 317 dronů, z toho 105 proudových, a protivzdušná obrana jich sestřelila nebo potlačila 276. Zásahy jsou hlášeny z 31 míst. V Oděse zasáhl úder sklad potravin pro školky a školy, dvě ženy a muž zahynuli a čtvrtá žena skončila v nemocnici v těžkém stavu. Ve stejné ráno dostala zásah už potřetí tamní logistická firma. V Kremenčuku drony zapálily vícepatrový obytný dům a hotel, zraněno bylo sedm lidí včetně šestnáctiletého chlapce v těžkém stavu, patnáct obyvatel museli záchranáři vyvést z trosek a oheň zničil i centrum pro děti se zdravotním postižením, jehož zakladatelka mluví o devíti letech práce, které lehly popelem. V Chersonu zabilo ruské dělostřelectvo sedmaosmdesátiletou ženu. V Sumské oblasti zasáhl dron auto s energetiky a tři z nich skončili v nemocnici. V Charkovské oblasti bylo zraněno čtrnáct lidí včetně dvou dětí, většina v Izjumu.
+          - Zelenskyj si v pondělí telefonoval s Ursulou von der Leyenovou a domluvil se s ní, že Evropská unie použije speciální mechanismus pomoci pro mimořádné situace, aby Ukrajina dostala peníze rychle tam, kde chybí elektřina, voda a teplo. Nejhorší je situace v Kyjevě a v Chersonské, Sumské, Doněcké a Dněpropetrovské oblasti. Od 2. do 8. listopadu provedlo Rusko 128 cílených útoků na energetická a naftoplynová zařízení a bylo zaznamenáno 219 případů poškození nebo úplného zničení. Výroba elektřiny by přitom stačila, problémem jsou rozstřílené přenosové uzly, takže ve většině oblastí platí hodinové odstávky a rozvrhy se mění i několikrát denně. V Dněpropetrovské oblasti bylo včera bez proudu více než 600 tisíc odběratelů a elektřina se začala vracet až v pondělí odpoledne.
+          - V Paříži se sešli ministři zahraničí G7 a evropští kolegové, kteří přijeli především tlačit na Marka Rubia. Německý ministr Johann Wadephul to řekl takhle: Evropa "nepotřebuje novou bezpečnostní architekturu" a musí mít místo u stolu. Rubio odpověděl, že poválečná bezpečnostní architektura je jedním z klíčových témat, ale nejdřív je potřeba ukončit konflikt. Setkání se na poslední chvíli přesunulo z Marseille do Paříže kvůli času, jde o jednu z posledních akcí francouzského předsednictví a v roce 2027 se ho ujmou Spojené státy.
+          - Satelitní snímky, které zveřejnila ukrajinská OSINT skupina Dnipro Osint, ukazují, že na ropné přečerpávací stanici Samara u obce Prosvet v Samarské oblasti je zničených nebo poškozených 34 z 71 nádrží. Až deset jich úplně vyhořelo a jedna ještě šest dní po posledním útoku dýmala. Stanice míchá ropu z různých polí do exportní směsi Ural a byla zasažena už pětkrát, naposledy v noci na 2. listopadu. Kazachstán kvůli tomu dočasně zastavil dodávky ropovodem Atyrau-Samara a obnovil je po technické kontrole od 3. listopadu.
+          - V Komyšuvaše zasáhl ruský dron záchranáře na místě úderu ze 2. listopadu už potřetí a dva z nich opět zranil. Pod troskami bývalé školy, kam lidé přišli pro humanitární pomoc, se našlo zatím 55 těl, policie identifikovala už třicet obětí a dalších devatenáct lidí může stále ležet v sutinách. 
+          - Na Ternopilsku skončilo už třetí letošní pátrání po hromadném hrobu polských obětí z roku 1945 v zaniklé vesnici Pužnyky. Archeologové od 4. listopadu vykopali 36 průzkumných rýh na půlce hektaru starého hřbitova, odkryli základy kaple a hospodářské stavby, hrob nicméně nenašli. 
+          - Skupina, která si říká (finsky) "Severní bratrstvo", na svém kanálu na Telegramu vyhlásila přípravu na boj za nezávislost Karélie. Na Telegramu zveřejnila video, na němž s puškami v ruce vyzývá k partyzánským akcím proti Rusku. 
+          - Generální štáb oznámil, že ukrajinské síly během jednoho dne zasáhly čtyři ruská stanoviště řízení dronů, tři na okupovaném území a jedno v Brjanské oblasti. Za nejcennější cíl označil Berdjansk, kde šlo o základnu jednotky Rubikon.
+          - Záporožská jaderná elektrárna přišla o své jediné zbývající vedení o napětí 330 kV, přešla na dieselové generátory a podle Mezinárodní agentury pro atomovou energii se napájení obnovilo asi po deseti hodinách.
+          - Kanadská ministryně zahraničí Anita Anandová na okraj jednání G20 předala Sergeji Lavrovovi postoj Kanady k únosům ukrajinských dětí a k ruským úderům na civilisty a energetiku. Na schůzku ho nepozvala.
+          - Ruské ministerstvo obrany tvrdí, že v noci zasáhlo tři energetické rozvodny na Ukrajině a v Černém moři nákladní loď, která podle něj vezla zbraně pro Ukrajinu.
+          - Ruská armáda podle Generálního štábu utrpěla rekordní denní ztráty: 2 980 vojáků. Více než 900 z nich zabily nebo těžce zranily ukrajinské drony. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1025430873591967489)
+          - [Kiriši](https://pixelfed.cz/p/dnesnaukrajine/1025429535079595731)
+          - [Mínus transformátor](https://pixelfed.cz/p/dnesnaukrajine/1025429567398706900)
+          - [Podzemní nemocnice](https://pixelfed.cz/p/dnesnaukrajine/1025429646240304853)
+          - [Ukrajinský dron přiletěl](https://pixelfed.cz/p/dnesnaukrajine/1025429681845837526)
+          - [Mínus transport](https://pixelfed.cz/p/dnesnaukrajine/1025429724060667610)
+          - [Oděsa](https://pixelfed.cz/p/dnesnaukrajine/1025429742333837019)
+          - [Pavlohrad, ruský nálet na minibus](https://pixelfed.cz/p/dnesnaukrajine/1025429762976878300)
+          - [Kremenčuk](https://pixelfed.cz/p/dnesnaukrajine/1025429815649722081)
+          - [\"Naše neopouštíme\"](https://pixelfed.cz/p/dnesnaukrajine/1025430281631624934)
+          - [Samara ze satelitu](https://pixelfed.cz/p/dnesnaukrajine/1025430299590565607)
       - title: "Neděle" 
         year: "8. listopadu 2026"
         sort: "2026-11-08"
@@ -10887,7 +10925,7 @@ timeline:
           - ["2026-01-28-1.jpg", "Frontová logistika."]
           - ["2026-01-28-2.jpg", "Nové drony z Pobaltí pro Ukrajinu."]
           - ["2026-01-28-3.jpg", "Kupjansk podle Rybáře."]
-          - ["2026-01-28-4.jpg", "\Fotky, které si Trump vystavil v Bílém domě."]
+          - ["2026-01-28-4.jpg", "Fotky, které si Trump vystavil v Bílém domě."]
         desc: |
           Podle britského deníku The Telegraph čínští hackeři strávili roky odposloucháváním nejbližšího okolí britských premiérů. V letech 2021 až 2024 získali hackeři napojení na čínské úřady přístup ke komunikaci vysokých poradců Borise Johnsona, Liz Trussové a Rishiho Sunaka. Využívali přitom „zadní vrátka“, která poněkud paradoxně umožnila britská legislativa. Zatím není jasné, zda byly napadeny i telefony samotných premiérů. Západní zpravodajské služby tvrdí, že operace s krycím názvem „Salt Typhoon“ stále pokračuje a mohla zasáhnout i současného premiéra Keira Starmera. Hackerská operace měla globální rozsah a zaměřovala se primárně na země v rámci aliance Five Eyes – Spojené království, Spojené státy, Kanadu, Austrálii a Nový Zéland. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0f9Kci3E7o1tf5U5pCcSk6HnBf5yp23Biv2DPz5723qoLUfuhFRCXDnUNp7nsh4HFl): 
         detail: |
