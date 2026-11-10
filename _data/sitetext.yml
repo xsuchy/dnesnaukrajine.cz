@@ -38,6 +38,48 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý" 
+        year: "10. listopadu 2026"
+        sort: "2026-11-10"
+        pictures:
+          - ["2026-11-10-1.jpg", "\"Jednání\" v SAE."]
+          - ["2026-11-10-2.jpg", "\"Jednání\" v SAE."]
+          - ["2026-11-10-3.jpg", "V Rusku spadnul most, nejspíš v důsledku sabotáže."]
+          - ["2026-11-10-4.jpg", "Kosťantynivka."]
+        image: assets/img/timeline/2026-11-10.jpg
+        podcast: "2026-11-10.mp3"
+        desc: |
+          V Abú Dhabí se sešly delegace Ukrajiny, Ruska a Spojených států. Ukrajinskou vede šéf zahraniční rozvědky Rustem Umerov a sedí v ní Kyrylo Budanov, Serhij Kyslycja, David Arachamija a Vadym Skibickyj, ruskou tradičně Vladimir Medinskij se Sergejem Rjabkovem, Michailem Galuzinem a šéfem vojenské rozvědky Igorem Kosťukovem. Jednání zprostředkovávají idioti Steve Witkoff a Jared Kushner. Poradci pro národní bezpečnost Francie, Německa, Británie a Itálie spolu s NATO a EU jednají paralelně vedle. Američané před startem mluvili o „reálné šanci“ a dokonce o tom, že poprvé vidí na ruské straně skutečnou chuť válku skončit. Tak určitě. První den trvající přes čtyři hodiny skončil tak, jak končila všechna předchozí kola jednání: Moskva beze změny požaduje zbytek Doněcké oblasti, odmítá bezpodmínečné příměří a namísto příměří chce řešit „bezpečnostní uspořádání celé Evropy“. Marco Rubio to ještě před samotným jednáním podal tak, že bezpečnostní garance pro Ukrajinu musí být přijatelné i pro Rusko, což je formulace, kterou si v Kremlu nejspíš nechají zarámovat. Šéfka unijní diplomacie Kaja Kallasová je mnohem přímočařejší: Rusko vyjednávání jen předstírá. Tomu napovídá i skutečnost, že za ruskou stranu „jedná“ člověk, který stál za atentáty a několika pokusy o atentát na představitele ukrajinské rozvědky – Dmitry Minajev. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Wy5Eqdfrg1WiBdfCf7m4idS88vdtpEnmq88jwaFHDxfC9E7HEuYVmHsVZo3mCxvDl): 
+        detail: |
+          - Německý kancléř Friedrich Merz poslal předsedovi Evropské rady Antoniu Costovi dopis, v němž žádá, aby EU vyřešila financování Ukrajiny pro rok 2027 dříve než spor o vlastní rozpočet, a to na základě „společného závazku, že všichni bez výjimky budeme spravedlivě přispívat“. Brusel odhaduje ukrajinskou rozpočtovou díru na 70 miliard eur, z nichž má Unie pokrýt asi 45 miliard. Podle Financial Times Merz hrozil, že zablokuje dohodu o víceletém rozpočtu, dokud nebude financování Ukrajiny zajištěno. Robert Fico to označil za „typické vydírání, kterému se nepodvolí“, Andrej Babiš jen suše poznamenal, že „neví, proč to Merz říká“. Lídři se potkají už v pátek v Dublinu. 
+          - V noci Rusko vypustilo na Ukrajinu balistickou raketu Iskander-M a 162 dronů, protivzdušná obrana jich sestřelila nebo potlačila 135. Zásahy jsou hlášeny z devatenácti míst, trosky z dalších devíti. Za poslední den zabily ruské útoky devět lidí a téměř čtyřicet zranily, mezi nimi v Charkovské oblasti děti ve věku jednoho, pěti a jedenácti let. Tři mrtví jsou z Doněcké oblasti, tři z Odeské, po jednom z Chersonské, Kyjevské a Sumské. Zelenskyj po jednání Stavky řekl, že se Rusko snaží rozdělit Ukrajinu podél Dněpru a maximálně znepříjemnit život civilní populaci, přičemž upozornil na cílenou ruskou kampaň proti mostům a energetice. 
+          - Generální štáb potvrdil, že ukrajinské drony v noci zasáhly 123. závod na opravu letadel ve Staré Russe v Novgorodské oblasti. Podnik koncernu Rostec má vlastní letiště, je na sankčních seznamech USA, EU i Japonska a kromě transportních Il-76 a tankovacích Il-78 opravuje a modernizuje také letadla včasné výstrahy A-50. Jedno z nich tam bylo poškozeno už v březnu. Obyvatelé čtvrti Gorodok hlásili po poplachu výbuchy a následný požár, rozsah škod se zatím vyhodnocuje. A-50 stojí kolem 350 milionů dolarů a Rusko jich má provozuschopných jen několik, takže každý měsíc v opravně navíc je dobrá zpráva. 
+          - Při dronovém útoku na Záporožskou jadernou elektrárnu zahynul jeden z jejích zaměstnanců a zemřel také pracovník sousední Záporožské tepelné elektrárny. Mezinárodní agentura pro atomovou energii případ označila za další incident ohrožující personál a jadernou bezpečnost s tím, že „všechny takové útoky na pracovníky jaderných elektráren musí okamžitě skončit“. Generální ředitel Rafael Grossi je odsoudil jako nepřijatelné porušení základních pilířů jaderné bezpečnosti. Je to druhý takový případ za necelé dva týdny, na konci října zahynul svářeč z opravárenské dílny. 
+          - Státní společnost Centrenergo oznámila, že ruský úder znovu zasáhl Trypilskou tepelnou elektrárnu a následky vypadají „extrémně vážně“. Jde o zdroj klíčový pro tři oblasti včetně Kyjevské. Podnik DTEK zároveň hlásí poškození důležitého energetického zařízení v Dněpropetrovské oblasti, po němž zůstala bez proudu velká část Dnipra a Kamjanského. V Charkově zasáhly drony elektrickou síť, v Borispilském okrese energetické zařízení a v Pervomajském okrese na Mykolajivsku zůstalo bez elektřiny 60 788 odběratelů. 
+          - Dvaatřicet členů amerického Kongresu z obou stran poslalo ministru obrany Petu Hegsethovi a šéfovi rozpočtového úřadu Russellu Voughtovi dopis, v němž žádají urychlení dodávek vojenské pomoci Ukrajině za 400 milionů dolarů. Peníze schválil Kongres už v prosinci 2025, podle plánu Pentagonu ale mají poslední dodávky přijít až ve fiskálním roce 2029. Zákonodárci chtějí do 30. listopadu písemné vysvětlení, harmonogram a odpověď na to, proč byly z balíčku vyřazeny střely Patriot. 
+          - Detektivové vyšetřující korupční kauzu kolem bezpečnostních složek tvrdí, že nejtemnější část případu zůstává stále skrytá. Zelenskyj proto spěchá podrobit kontrole majetek bezpečnostních úředníků. Opozice opatření podpoří, jeden z jejích poslanců ale namítá, že skutečným problémem jsou jmenování bez otevřených výběrových řízení. 
+          - Ministr zahraničí Andrij Sybiha uvedl, že Rusko převezlo zadrženého ukrajinského zaměstnance OBSE Vadyma Goldu do „léčebně-korekčního zařízení“ v Tambovské oblasti. Podle Sybihy je tím jeho fyzické i duševní zdraví ohroženo ještě víc než doposud. 
+          - Ukrajinská armáda se zeptala 1 616 vojáků na frontě, co je psychicky nejvíc láme. Nejčastější odpověď: chybějící rotace. Většina dotázaných zůstává na pozicích asi měsíc, mnozí tam ale kvůli nedostatku lidí stráví mnohonásobně delší dobu.
+          - Ukrajinské jednotky podle vlastního hlášení zasáhly v okupované části Doněcké oblasti ruský systém na rušení Starlinku. Týden předtím prezidentský poradce varoval, že Rusko tato zařízení nasazuje ve větším počtu. 
+          - Hlavní vojenská rozvědka zkoumá nový ruský dron Geran-5 K5-K. Našla v něm téměř stovku zahraničních komponent, většina z nich je amerického původu.
+          - Litva začne u ruského obilí vyžadovat forenzní důkaz, že nebylo ukradeno na Ukrajině. Obchod sama zastavit nemůže, a tak ho alespoň zpomalí a prodraží.
+          - Ukrajinská rozvědka uvádí, že ruská armáda nyní využívá naverbované občany afrických zemí jako živé štíty v nejnebezpečnějších úsecích fronty. 
+          - Evropský komisař pro obranu Andrius Kubilius řekl, že Starlink může ztratit důvěru, pokud bude porušovat smlouvy placené evropskými státy. 
+          - V Jihoafrické republice zadrželi devět cizinců podezřelých z pokusu připojit se k ruské armádě. 
+          - Dánsko oznámilo už 32. balíček pomoci Ukrajině, tvořený převážně protivzdušnou obranou. 
+          - Lotyšsko kope na hranici s Ruskem protitankové příkopy a instaluje betonové dračí zuby.
+          - Ministr Zůna za SPD odvolal generála Haratku z velení Kybernetických sil. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1025791879408016595)
+          - [S prosíkem](https://pixelfed.cz/p/dnesnaukrajine/1025790019421138092)
+          - [Idiot Kushner](https://pixelfed.cz/p/dnesnaukrajine/1025790050199030957)
+          - [Kushner](https://pixelfed.cz/p/dnesnaukrajine/1025790070860856494)
+          - [Drony v akci](https://pixelfed.cz/p/dnesnaukrajine/1025790131067354289)
+          - [SOF v ruském týle](https://pixelfed.cz/p/dnesnaukrajine/1025790245736770739)
+          - [Mínus dron](https://pixelfed.cz/p/dnesnaukrajine/1025790276086525108)
+          - [Zelenskyj v Kodani](https://pixelfed.cz/p/dnesnaukrajine/1025790297965776053)
+          - [Mínus sklad dronů](https://pixelfed.cz/p/dnesnaukrajine/1025790332851874998)
+          - [Letiště v Doněcku](https://pixelfed.cz/p/dnesnaukrajine/1025790417141750967)
       - title: "Pondělí" 
         year: "9. listopadu 2026"
         sort: "2026-11-09"
