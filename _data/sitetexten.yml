@@ -37,64 +37,148 @@ timeline:
       - Assassination in Moscow.
     image: assets/img/timeline/2026-11-13.jpg
     podcast: 2026-11-13.mp3
-    desc: "Ukraine was supposed to celebrate St. Nicholas Day last night. Instead,\
-      \ the Russians “gifted” the country another night of terror for the civilian\
-      \ population. A total of 683 drones and 51 cruise missiles were in the air.\
-      \ During the airstrike, the Russians completely destroyed the train station\
-      \ in the city of Fastiv in the Kyiv region. In Dnipro, a warehouse belonging\
-      \ to a popular local chocolate factory was hit, as well as a storage facility\
-      \ full of medical supplies. Debris from one of the missiles landed on a playground\
-      \ in the city center. Another power plant was also hit, this time in western\
-      \ Ukraine near Lutsk. In Russian reports, however, you will almost certainly\
-      \ hear about “decisive strikes on NATO bases full of Western generals and fighter\
-      \ jets.” Nothing new under the sun. But [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02TxLad5khD5FQALdsMpVw19tt8ZotzRA8idtJrNtcC7gYrPbm6n7EjfFvWUXU3MNwl)\
-      \ is new: \n"
-    detail: "- A nationwide survey found that 64% of Americans support providing lethal\
-      \ aid to Ukraine, which is 9% more than last year and the highest percentage\
-      \ since February 2022. Slightly more (65%) support providing long-range missiles,\
-      \ such as Tomahawks, so that Ukraine can carry out strikes deep into Russian\
-      \ territory, while 68% support selling U.S.-made weapons to European allies,\
-      \ who would then provide them to Ukraine. Unlike in 2024, a majority of Republicans\
-      \ (59%) support supplying weapons to Ukraine to repel the Russian invasion,\
-      \ up from 44% last year. Three-quarters of Democrats support aid to Ukraine,\
-      \ up from 68%. The poll also found that 62% of Americans want the war to end\
-      \ with a Ukrainian victory. \n- Pro-regime Russian military channels are outraged\
-      \ that the Siberian peoples—including the Buryats, who were colonized long ago—are\
-      \ being decimated in the so-called “special military operation,” while “economic\
-      \ migrants from Central Asia” are filling the resulting gaps. According to them,\
-      \ the arrival of these migrants is already evident on the streets, where a growing\
-      \ number of “women with veiled faces” can be seen. And so, while Russia funds\
-      \ far-right movements in Europe that fight against migration and the “Islamization”\
-      \ of Europe, Russia itself has the largest Muslim minority from “non-Muslim\
-      \ countries” in Europe. More than 1% of the world’s Muslim population now lives\
-      \ in Russia, and its share of the Russian population is rising year by year.\
-      \ \n- The heating plant in Kherson is now permanently out of service after being\
-      \ hit roughly 100 times by Russian artillery. This raises the risk that approximately\
-      \ 30,000 residents of nearby towns will be left without electricity this winter.\
-      \ Yet in 2022, following a sham referendum, the Russians claimed that 87% of\
-      \ the region wanted to join Russia. If we were to believe their lie, it would\
-      \ mean that for three years the Russians have been relentlessly terrorizing\
-      \ a population they consider “their own.” \n- Republican politicians and influencers,\
-      \ with substantial support from Russian and pro-Russian accounts, flooded social\
-      \ media with claims that the European Union fined X/Twitter because Elon Musk\
-      \ refused the EU’s request to implement censorship. In reality, the platform\
-      \ was fined for refusing to address transparency issues related to certain features.\
-      \ \n- Najat Shammim Khan, Deputy Prosecutor of the International Criminal Court,\
-      \ stated that the investigation into Russian aggression could be suspended due\
-      \ to peace talks if the UN Security Council requests it.\n- Zacharova stated\
-      \ that “the attacks on tankers in the Black Sea and on the infrastructure of\
-      \ the Caspian Oil Pipeline Consortium are yet another example of the criminal\
-      \ nature of the Kyiv regime.”\n- One of the commanding officers of the 414th\
-      \ Brigade “Klim” was awarded the title of Hero of Ukraine, and the entire 414th\
-      \ Brigade “Hungarian Birds” received its battle standard from the president.\n\
-      - According to the IAEA, the radiation sarcophagus at the Chernobyl nuclear\
-      \ power plant lost its structural integrity—and with it, its primary safety\
-      \ function—following a Russian kamikaze drone attack.\n- The Swedish Navy reports\
-      \ regular encounters with Russian submarines in the Baltic Sea virtually every\
-      \ week. \n- Russia will raise the alcohol tax by 30 percent to raise money for\
-      \ its war expenses.\n- Ukrainian drones have once again struck a Russian oil\
-      \ refinery in Ryazan.\n- The U.S. offered Poland 250 Stryker armored vehicles\
-      \ for $1.\n"
+    desc: 'The Russian Ministry of Defense confidently claims that last night it shot
+      down 1,198 Ukrainian drones over sixteen regions, the Moscow Oblast, occupied
+      Crimea, and the Black Sea. If that were true, it would be the most successful
+      night for any air defense system in the entire history of the air force. The
+      grandeur of the statement is marred only by the fact that, following a nighttime
+      airstrike, the Lukoil refinery in Volgograd was once again on fire. Governor
+      Andrei Bocharov initially spoke of “localized fires” caused by drone debris
+      in the southern industrial zone and was careful not to name the refinery; by
+      morning, however, he had confirmed that four employees had died and two had
+      been hospitalized. The plant, which dates back to 1957, processes 14.8 million
+      metric tons of crude oil annually, accounts for about five percent of Russia’s
+      gasoline production, and primarily supplies southern Russia. According to the
+      Exilenova+ channel, this was the thirteenth strike since the start of the invasion.
+      Moreover, the refinery had already halted operations—at least temporarily—following
+      the October airstrikes. In the Rostov region, warehouses and a factory were
+      on fire, and the Samara pumping station near Prosvet—940 kilometers from the
+      front lines—was struck again. All four Moscow airports—Sheremetyevo, Domodedovo,
+      Vnukovo, and Zhukovsky—restricted operations overnight. Ukraine has reportedly
+      changed its tactics: it is sending large numbers of drones at each refinery
+      and targeting the entire industrial zone—not just individual units—to keep the
+      facility out of operation for as long as possible. As of November 10, about
+      one-third of Russia’s refining capacity had already been disrupted in this way.
+      And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02TxLad5khD5FQALdsMpVw19tt8ZotzRA8idtJrNtcC7gYrPbm6n7EjfFvWUXU3MNwl)
+      also happened:
+
+      '
+    detail: "- In Kostyantynivka, Putin proposed a humanitarian mission modeled after\
+      \ the recent one in occupied Oleshky. He claims that Russian forces already\
+      \ have full control of the city, that 400 to 500 civilians remain there, and\
+      \ that Russia needs five days to clear the access routes of mines. Ushakov reports\
+      \ that U.S. envoys supported the idea, and the Kremlin has called on the U.S.\
+      \ and Europe to put pressure on Ukraine. However, the ISW interprets the entire\
+      \ proposal differently: Russia wants a local ceasefire so it can withdraw forces\
+      \ and supplies to advance on Druzhkivka, one of the most heavily fortified cities\
+      \ in the Fortified Belt. Even after more than a year of attacks, Russia has\
+      \ failed to capture Kostyantynivka; Ukraine still holds the city (at least partially),\
+      \ and Russian units are mostly limited to infiltrating it. The ISW has identified\
+      \ at least 41 Ukrainian positions in and around the city. Moreover, Oleshky\
+      \ serves more as a warning than a model: during the ceasefire there, Russian\
+      \ forces reoccupied positions that Ukraine had been clearing for nearly a year\
+      \ and moved fresh troops, armored vehicles, and fuel to a location nine kilometers\
+      \ from Kherson. Peskov described this as standard practice. Furthermore, the\
+      \ Ateš movement claims that the Russian command plans to infiltrate soldiers\
+      \ in civilian clothing among the mission’s personnel, who would entrench themselves\
+      \ in the city because “a direct attack yields no results due to heavy losses.”\n\
+      - Witkoff and Kushner flew to Dublin on Thursday directly from Putin’s office\
+      \ to meet with Zelenskyy. According to him, the previously announced prisoner\
+      \ exchange is set to be the largest since the start of the war. However, no\
+      \ one has yet announced a date or the number of prisoners involved—the Kremlin\
+      \ claims that the terms are still being negotiated. The rest of the peace efforts\
+      \ are faring worse. The Ukrainian delegation in Abu Dhabi called for de-escalation\
+      \ in the Black Sea and a halt to attacks on energy infrastructure; Russian negotiators\
+      \ replied that they had no mandate to do so. Putin himself reiterated to the\
+      \ Americans that “the presence of any foreign troops on Ukrainian territory\
+      \ is absolutely unacceptable to Russia,” calling European troops in Ukraine\
+      \ “legitimate military targets” even in the event of peace, stating that “the\
+      \ war would continue immediately,” and he also rejected buffer zones. According\
+      \ to the ISW, Russian negotiators in Abu Dhabi revived the ultimatums from December\
+      \ 2021—a halt to NATO expansion, a restriction on activities in Eastern Europe,\
+      \ and the withdrawal of forces from countries that joined the alliance after\
+      \ 1997. Medinsky rejected territorial swaps; Moscow continues to demand the\
+      \ entirety of Donetsk, Luhansk, Kherson, and Zaporizhzhia, including territories\
+      \ it has never occupied. \n- Russia launched 117 Shahed drones at Ukraine overnight.\
+      \ By 7:30 a.m., air defenses had shot down 80 of them; strikes were reported\
+      \ from 24 locations, and falling debris from ten. Over the past day, Russian\
+      \ attacks have killed nine people and injured 61. In Kyiv, debris from a drone\
+      \ set a medical facility in the Shevchenkivskyi district on fire; three people\
+      \ were injured, seven were rescued, and thirty were evacuated. Odesa reported\
+      \ two deaths and nine injuries following two attacks—one struck a furniture\
+      \ factory, and the other hit a residential building. In Rivne, a drone struck\
+      \ a high-rise building, injuring six people, including two children. In Vinnytsia,\
+      \ two women were injured, and a preschool and more than twenty homes were damaged.\
+      \ In the Kharkiv region, eight people were injured, including an 11-year-old\
+      \ child and two 16-year-olds; in Malynivka, rescue workers freed a couple trapped\
+      \ under rubble in their home. In the Kherson region, a drone struck a hospital\
+      \ in Bilozerka, injuring a 66-year-old nurse. In Zaporizhzhia, a 17-year-old\
+      \ boy was killed during morning strikes, and in the afternoon, Russia struck\
+      \ a multi-story building in the Kosmichny district, where 13 people were injured,\
+      \ including five children. \n- The informal EU summit in Dublin was originally\
+      \ supposed to focus on artificial intelligence, but instead, the discussion\
+      \ centered on who would represent Europe at the negotiating table with Russia.\
+      \ Giorgia Meloni raised the issue, stating that Europe needs someone with a\
+      \ clear mandate. Italy had already secured a spot for Fabrizio Saggio in Abu\
+      \ Dhabi. Luxembourg’s Prime Minister Luc Frieden considers European Council\
+      \ President António Costa the natural choice. Foreign Minister Kaja Kallas has\
+      \ put herself forward, though some leaders view her as too much of a hawk. At\
+      \ the European Political Community summit, 43 countries signed a declaration\
+      \ stating that Europeans must decide on European security, and they committed\
+      \ to providing security guarantees for Ukraine. Meanwhile, Zelenskyy warned\
+      \ that Washington and Moscow may be preparing a new security framework between\
+      \ Europe and Russia.\n- Starshield, the military version of Starlink, has once\
+      \ again capped the speed over occupied territory at 161 kilometers per hour,\
+      \ making it impossible to use interceptors against Shahed drones; some of the\
+      \ most recent Russian airstrikes succeeded only because the fighter drones did\
+      \ not reach the required speed. No such limit has been observed over territory\
+      \ under Ukrainian control. The commander of the army corps in the Donetsk region\
+      \ also confirmed the limit, noting that it also hinders Ukrainian medium-range\
+      \ strikes against Russian logistics. SpaceX claims that nothing has changed.\
+      \ Musk, who as recently as October claimed that the Ukrainian front would immediately\
+      \ collapse if Starlink were shut down, denies responsibility, arguing that the\
+      \ military terminals are controlled by the U.S. government.\n- Leaked Russian\
+      \ death certificates obtained by the Belarusian group Cyber Partisans and the\
+      \ Ukrainian group Silent Crow indicate that 11,335 foreigners have been killed\
+      \ in the war with Ukraine. The number continues to rise each year: from 630\
+      \ in 2022 to more than 5,500 in 2025. Bloomberg classifies anyone born outside\
+      \ Russia as falling into this category, so more than 6,000 of them held Russian\
+      \ citizenship, and about 3,700 were Ukrainian citizens or people born in Ukraine\
+      \ after 1991. Roughly 340 of the dead were from Africa, most commonly from Egypt,\
+      \ Cameroon, Nigeria, Kenya, and Ghana. \n- A Toyota Fortuner exploded in southern\
+      \ Moscow on Friday morning, shortly after it pulled out of the driveway of a\
+      \ house on Kirovogradskaya Street. According to preliminary reports, the explosive\
+      \ device was placed under the driver’s seat and detonated a few minutes after\
+      \ the vehicle began moving; the blast threw the driver onto the road. According\
+      \ to media reports, the driver is Sergei Zavorotny, a propagandist and former\
+      \ State Duma employee. According to the Shot website, he suffered shrapnel wounds\
+      \ to his chest and back and sustained serious injuries to his legs. \n- Ukraine\
+      \ could receive the first four L-39 Skyfox aircraft in 2027 and another eight\
+      \ in 2028. According to Minister Macinka, funding for the first four has been\
+      \ secured, while the remaining twelve—costing six to eight billion crowns—are\
+      \ to be paid for through foreign financing. Twelve countries, including Australia,\
+      \ Canada, and ten European nations, approached the Czech Republic and Ukraine\
+      \ in July, meaning that no funds from the Czech budget will be used for the\
+      \ aircraft. \n- The British government’s National Wealth Fund has invested 113\
+      \ million pounds in UFORCE, the manufacturer of Magura maritime drones, which\
+      \ was founded by Ukrainians and is now headquartered in London. This is the\
+      \ fund’s largest defense investment. British suppliers are to provide more than\
+      \ 70 percent of the components for each vessel. The company also plans to expand\
+      \ production to the U.S., Europe, Asia, and the Middle East. \n- Britain has\
+      \ detained an American soldier for attempting to spy for Russia. The soldier\
+      \ is 41-year-old Lieutenant Colonel Brandon Tyner. According to the Wall Street\
+      \ Journal, he was stationed at NATO’s Allied Rapid Reaction Corps headquarters\
+      \ in Gloucestershire. Following a British trial, he is to be extradited to the\
+      \ U.S. and charged under the Uniform Code of Military Justice. \n- The German\
+      \ Bundestag has approved a reform of the intelligence services that will allow\
+      \ them to carry out sabotage operations abroad, for example against hacker groups,\
+      \ weapons manufacturers, drone manufacturers, and other potential targets. \n\
+      - The occupied village of Hola Prystaň in the Kherson region is also in urgent\
+      \ need of a humanitarian mission similar to the one in Olešky. Ukrainian authorities\
+      \ are drawing attention to this critical situation.\n- Poland has accused a\
+      \ Ukrainian national of allegedly aiding a Russian plot to blow up a freight\
+      \ train on a supply route leading to Ukraine.\n- On Wednesday, Ukrainian drones\
+      \ struck a Russian Buyan-M-class corvette in the Baltic Sea. \n"
     videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1026898418356946692)
 
       - [Volgograd](https://pixelfed.cz/p/dnesnaukrajine/1026897117652866791)
