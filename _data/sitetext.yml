@@ -38,6 +38,47 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek" 
+        year: "13. listopadu 2026"
+        sort: "2026-11-13"
+        pictures:
+          - ["2026-11-13-1.jpg", "Vybombardovaná teplárna."]
+          - ["2026-11-13-2.jpg", "Volgogradská rafinérie."]
+          - ["2026-11-13-3.jpg", "Mínus ruský radar."]
+          - ["2026-11-13-4.jpg", "Atentát v Moskvě."]
+        image: assets/img/timeline/2026-11-13.jpg
+        podcast: "2026-11-13.mp3"
+        desc: |
+          Ukrajina včera v noci měla slavit svátek sv. Mikuláše. Namísto toho jí Rusové „nadělili“ další noc plnou teroru civilní populace. Ve vzduchu bylo celkem 683 dronů a 51 raket/střel s plochou dráhou letu. Během náletu Rusové zcela zničili železniční stanici ve městě Fastiv v Kyjevské oblasti. V Dnipru bylo zasaženo skladiště tamější oblíbené čokoládovny a také skladovací areál plný zdravotnického materiálu. Trosky jedné z raket dopadly na dětské hřiště v centru města. Zasažena byla také další elektrárna, a to na západní Ukrajině nedaleko Lutsku. V ruském hlášení se ale téměř s jistotou dozvíte o „rozhodujících úderech na základny NATO plné západních generálů a stíhaček“. Nic nového pod sluncem. Zato [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02TxLad5khD5FQALdsMpVw19tt8ZotzRA8idtJrNtcC7gYrPbm6n7EjfFvWUXU3MNwl) nové je: 
+        detail: |
+          - Celostátní průzkum zjistil, že 64 % Američanů podporuje poskytnutí smrtící pomoci Ukrajině, což je o 9 % více než loni a nejvyšší podíl od února 2022. O něco více (65 %) podporuje poskytnutí raket dlouhého doletu, jako jsou Tomahawky, aby Ukrajina mohla provádět údery hluboko na ruském území, zatímco 68 % podporuje prodej zbraní americké výroby evropským spojencům, kteří by je poté poskytli Ukrajině. Na rozdíl od roku 2024 většina republikánů (59 %) podporuje dodávky zbraní Ukrajině k odražení ruské invaze, což je nárůst oproti 44 % v loňském roce. Tři čtvrtiny demokratů podporují pomoc Ukrajině, což je nárůst oproti 68 %. Průzkum také zjistil, že 62 % Američanů si přeje, aby válka skončila vítězstvím Ukrajiny. 
+          - Ruské prorežimní vojenské kanály se rozčilují, že sibiřské národy, mezi nimiž jsou i Burjati, kteří byli dávno kolonizováni, jsou decimovány v takzvané „SVO“, zatímco „ekonomičtí migranti ze Střední Asie“ vyplňují vzniklé mezery. Příchod těchto migrantů se podle nich již projevuje v ulicích, kde je vidět rostoucí počet „žen se zakrytými obličeji“. A tak zatímco Rusko financuje v Evropě krajně pravicová hnutí, která bojují proti migraci a „islamizaci“ Evropy, Rusko má nejpočetnější muslimskou menšinu z „nemuslimských zemí“ v Evropě. V Rusku nyní žije více než 1 % světové muslimské populace a její podíl na ruské populaci rok od roku stoupá. 
+          - Teplárna v Chersonu je po zhruba stovce zásahů ruským dělostřelectvem definitivně mimo provoz. Hrozí tak, že zhruba 30 000 obyvatel přilehlých obcí zůstane během zimy bez elektřiny. Rusové přitom v roce 2022 po falešném referendu tvrdili, že 87 % oblasti si přálo připojení k Rusku. Pokud bychom uvěřili jejich lži, znamenalo by to, že Rusové tři roky bez ustání terorizují populaci, kterou považují za „svou“. 
+          - Republikánští politici a influenceři za vydatné podpory ruských a proruských účtů zaplavili sociální sítě tvrzením, že Evropská unie pokutovala X/Twitter kvůli tomu, že Elon Musk odmítl žádost Unie o nasazení cenzury. Ve skutečnosti síť dostala pokutu za to, že naopak odmítla vyřešit problémy s transparentností některých funkcí. 
+          - Zástupkyně prokurátora Mezinárodního trestního soudu Najat Shammim Khanová uvedla, že vyšetřování ruské agrese může být pozastaveno kvůli mírovým jednáním, pokud o to požádá Rada bezpečnosti OSN.
+          - Zacharová prohlásila, že „útoky na tankery v Černém moři a na infrastrukturu Kaspického ropovodného konsorcia jsou dalším příkladem zločinné povahy kyjevského režimu“.
+          - Jednomu z velících důstojníků 414. brigády „Klimovi“ byl udělen titul Hrdina Ukrajiny a celá 414. brigáda „Maďarovi ptáci“ obdržela od prezidenta svou bitevní standartu.
+          - Podle MAAE ztratil radiační sarkofág jaderné elektrárny v Černobylu po ruském útoku kamikadze dronem integritu a s tím i svou primární bezpečnostní funkci.
+          - Švédské námořnictvo hlásí prakticky každý týden pravidelné kontakty s ruskými ponorkami v Baltském moři. 
+          - Rusko zvýší daň z alkoholu o 30 procent, aby získalo peníze na své válečné výdaje.
+          - Ukrajinské drony opět zasáhly ruskou ropnou rafinérii v Rjazani.
+          - USA nabídly Polsku 250 obrněných vozidel Stryker za 1 dolar.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1026898418356946692)
+          - [Volgograd](https://pixelfed.cz/p/dnesnaukrajine/1026897117652866791)
+          - [Idiotu u Putina](https://pixelfed.cz/p/dnesnaukrajine/1026897213049833193)
+          - [Záporoží](https://pixelfed.cz/p/dnesnaukrajine/1026897274696201964)
+          - [Záporoží](https://pixelfed.cz/p/dnesnaukrajine/1026897310519342830)
+          - [Idiot Kushner a Zelenského výraz](https://pixelfed.cz/p/dnesnaukrajine/1026897362303694575)
+          - [Ruský checkpoint](https://pixelfed.cz/p/dnesnaukrajine/1026897389336262384)
+          - [Další evakuace dronem](https://pixelfed.cz/p/dnesnaukrajine/1026897418064041715)
+          - [Sestřelený ruský vrtulník nad Leningradskou oblastí](https://pixelfed.cz/p/dnesnaukrajine/1026897456276449012)
+          - [Ruský dron zabil v Chersonu ženu za volantem](https://pixelfed.cz/p/dnesnaukrajine/1026897482476226294)
+          - [Macron o Spojených státech](https://pixelfed.cz/p/dnesnaukrajine/1026897537310906105)
+          - [Irskutsk](https://pixelfed.cz/p/dnesnaukrajine/1026897556784113402)
+          - [Oděsa](https://pixelfed.cz/p/dnesnaukrajine/1026897573650917115)
+          - [Neschovali se](https://pixelfed.cz/p/dnesnaukrajine/1026897604453349116)
+          - [Netrefili se](https://pixelfed.cz/p/dnesnaukrajine/1026897653453387518)
       - title: "Čtvrtek" 
         year: "12. listopadu 2026"
         sort: "2026-11-12"
