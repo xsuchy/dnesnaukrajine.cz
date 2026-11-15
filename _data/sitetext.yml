@@ -38,6 +38,37 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle" 
+        year: "15. listopadu 2026"
+        sort: "2026-11-15"
+        pictures:
+          - ["2026-11-15-1.jpg", "Tatarstán."]
+          - ["2026-11-15-2.jpg", "Rusové zasáhli dronem hasičský vůz."]
+          - ["2026-11-15-3.jpg", "Mínus most v Tatarstánu."]
+          - ["2026-11-15-4.jpg", "Trump pozval do Mar-A-Lago Kanaďanku, která zprostředkovávala miliónové platby mezi Kremlem a americkými YouTubery za to, že šířili proruský a protizápadní obsah."]
+        image: assets/img/timeline/2026-11-15.jpg
+        podcast: "2026-11-15.mp3"
+        desc: |
+          Ukrajinské drony v noci mířily hluboko do ruského zbrojního týlu a generální štáb potvrdil zásah tří podniků. V Tatarstánu to byl Nižněkamskněftěchim, klíčový majetek holdingu Sibur a jeden z největších producentů syntetického a butylového kaučuku a plastů v Evropě, kde po explozích hořela konstrukce. Dále rafinerie TAIF-NK, u níž zachvátily plameny jedinou primární destilační jednotku ELOU-AVT-7. Třetím cílem byl závod Monolit v Trubčevsku v Brjanské oblasti, který vyrábí letadla, vrtulníky, letecké náhradní díly a přesné kovové komponenty pro obranný sektor. Kaučuk přitom není nevinné civilní zboží: končí v pneumatikách vojenské techniky a letadel i jako pojivo pevného raketového paliva pro Iskandery. Kromě toho zaznělo nejméně třicet výbuchů na vojenském letišti Achtubinsk v Astrachaňské oblasti, kde sídlí 929. letecké zkušební centrum ruského ministerstva obrany a kde jsou dislokovány Su-34, a v Taganrogu v Rostovské oblasti byla zasažena rozvodna T-10 o napětí 220 kV, která napájí město i průmyslovou zónu včetně metalurgického závodu TAGMET. Ruské ministerstvo obrany tvrdí, že mezi sobotní nocí a nedělním ránem zneškodnilo 533 ukrajinských dronů nad Ruskem a okupovaným Krymem. V Rostovské oblasti jeden člověk zahynul a pět bylo zraněno, v Nižněkamsku si zásah obytného domu vyžádal tři zraněné. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02GZWU9D8dKprrKFqzhFTDLVt8YmoZZM8ZZgRwsspvytq64dLwj2ufiaCMfzimxLsCl):
+        detail: |
+          - Rusko v noci vyslalo na Ukrajinu 132 útočných dronů, z toho 78 proudových. Protivzdušná obrana jich sestřelila nebo potlačila 106 a zásahy jsou hlášeny z dvaceti míst. Nejhůř dopadl Čornomorsk v Oděské oblasti, kde skončilo šest zraněných, pět z nich v nemocnici, a kde byl poškozen objekt DTEKu, takže se bez elektřiny dočasně ocitlo asi 41 tisíc domácností. Čtyřpodlažní administrativní budova je těžce poškozená, tlaková vlna poškodila také plynové vedení, fasády a okna domů, dětské školské zařízení i budovu úřadu práce. Drony zasáhly energetiku i v Žytomyrské oblasti, průmyslový objekt v Kirovohradské oblasti, obytný dům v Kropyvnyckém se třemi zraněnými a skladové prostory ve Vyšhorodském rajónu. Za poslední den ruské útoky na Ukrajině zabily čtyři lidi a 69 jich zranily: v Černihivské oblasti zahynuli dva lidé při úderu na kritickou infrastrukturu, v Dnipropetrovské oblasti jeden a třináct jich bylo zraněno včetně sedmiletého chlapce, v Charkovské oblasti zahynul 67letý muž v Borové a v samotném Charkově zasáhl ruský dron autobus.
+          - Ukrajinská energetika přestává stíhat. Ukrenergo nařídilo na celou neděli odstávky a několik oblastí přešlo do režimu nouzových odpojení energie, kdy zveřejněný rozpis přestává platit a vypíná se bez ohlášení a bez ohledu na pořadí. V Černihivské oblasti zůstalo po havárii bez elektřiny asi 80 tisíc domácností v korjukivském, novhorod-siverském a nižynském rajónu, dalších přibližně 150 tisíc odběratelů v nižynském a pryluckém rajónu je bez proudu po útoku a devět tisíc v Slavutyči. V Sumské oblasti není po poruše na vysokonapěťovém objektu stabilní dodávka vůbec, opraváři na ní pracují druhý den v kuse a možnosti záložního napájení jsou omezené.
+          - Podle Telegraphu Moskva do svých podmínek ukončení války zařadila požadavek, aby Británie přestala zastřešovat evropské spojence svými jadernými zbraněmi, vzdala se odstrašení v podobě systému Trident, a aby jednotky NATO odešly z Pobaltí a Polska. Součástí ruských návrhů jsou i oddělené pakty o neútočení s jednotlivými členy Aliance a návrat k linii z roku 1997. Kanadský premiér Mark Carney na to reagoval tím, že o bezpečnostní architektuře svobodné Evropy nerozhoduje Rusko ani „přepracované“ minské dohody, ale Evropa a NATO, a že Kanada své spojence neopustí. 
+          - Ruská vyjednávací pozice bude podle Sergeje Lavrova postavená tak, aby dosáhla cílů „speciální vojenské operace“, které Vladimir Putin vytyčil v červnu 2024 a které se od té doby nezměnily. Mluvčí Kremlu Dmitrij Peskov ve stejném duchu prohlásil, že pokud nebude perspektiva dohody s Evropou, Rusko bude muset svých cílů dosáhnout silou, a že „bavit se o urovnání na Ukrajině nebo o evropské bezpečnostní architektuře nemá smysl, když Evropská unie nechce mír“. 
+          - Licence na výrobu raket pro systém Patriot, o jejímž předání Ukrajině Donald Trump podle Zelenského rozhodl už v září na okraj Valného shromáždění OSN, uvízla v Pentagonu. Marco Rubio a Pete Hegseth se na ní podle dvou zdrojů Radia Svoboda shodli v říjnu, dokumenty ale dosud nikdo nepřipravil a schválení leží u náměstka ministra obrany pro akvizice Michaela Duffeyho. Pentagon věc nekomentoval. 
+          - Emmanuel Macron po summitech evropských lídrů v Dublinu prohlásil, že podpora Ukrajiny chrání Francii a že Ukrajina má v NATO své místo. Za dvě priority označil pomoc přes zimu, tedy peníze a ochranu elektráren a sítí, aby Putin nemohl uvrhnout zemi do tmy, a spravedlivý a trvalý mír.
+          - ISW hodnotí žádost Kremlu o lokální příměří v Kosťantynivce jako nástroj, který by Rusku umožnil posílit jižní křídlo takzvaného Pevnostního pásu a připravit si podmínky pro další útoky na Kostjantynivku a Dobropillja.
+          - Nizozemská zbrojovka Artillerie Inrichtingen Armaments otevřela na Ukrajině kancelář, chystá se tam rozjet inženýrskou činnost a časem i výrobu. Spolupráce má mířit především na protivzdušnou obranu.
+          - Námořní síly EU v rámci operace IRINI vstoupily ve Středozemním moři na palubu tankeru MV MIDAG, který podle šéfky evropské diplomacie Kaji Kallasové plul pod falešnou vlajkou Zimbabwe. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1027596993185084831)
+          - [Tatarstán](https://pixelfed.cz/p/dnesnaukrajine/1027595231046940039)
+          - [Tatarstán](https://pixelfed.cz/p/dnesnaukrajine/1027595250454881672)
+          - [Tatarstán](https://pixelfed.cz/p/dnesnaukrajine/1027595269671708041)
+          - [Trefa!](https://pixelfed.cz/p/dnesnaukrajine/1027595297612703114)
+          - [Neprošel](https://pixelfed.cz/p/dnesnaukrajine/1027595316724311435)
+          - [Ruská ztráta](https://pixelfed.cz/p/dnesnaukrajine/1027595350864995724)
+          - [Achtubinsk](https://pixelfed.cz/p/dnesnaukrajine/1027595370598008206)
       - title: "Sobota" 
         year: "14. listopadu 2026"
         sort: "2026-11-14"
