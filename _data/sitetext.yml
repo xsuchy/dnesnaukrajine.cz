@@ -38,6 +38,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota" 
+        year: "14. listopadu 2026"
+        sort: "2026-11-14"
+        pictures:
+          - ["2026-11-14-1.jpg", "V Ruské armádě bojuje americký zákonodárce."]
+          - ["2026-11-14-2.jpg", "Ruský svět přišel do dalšího městečka."]
+          - ["2026-11-14-3.jpg", "Fronta podle Rybáře."]
+          - ["2026-11-14-4.jpg", "Zasažená ruská loď v Baltském moři."]
+        image: assets/img/timeline/2026-11-14.jpg
+        podcast: "2026-11-14.mp3"
+        desc: |
+          Američané se údajně Ukrajiny zeptali, jestli by se stáhla z Donbasu, kdyby ji za to pustili do NATO. Zelenský to řekl novinářům v Kyjevě a dodal, že taková otázka padla vůbec poprvé. Je to opravdu pozoruhodná nabídka: Ukrajina má odejít z opevněného pásma, které čtyři a půl roku drží a které Rusko nedokázalo dobýt, a dostat za to vstupenku do aliance, jejíž kolektivní obranu nikdo nikdy neaktivoval jinak než po 11. září. Zelenský odpověděl, že žádného území se Ukrajina nevzdá, že žádná dohoda nesmí znamenat uznání okupovaných oblastí za ruská a že o takovém návrhu beztak nemůže rozhodnout sám. Pokud návrh USA a spojenci v NATO potvrdí, chce se zeptat ukrajinské společnosti v referendu. Minimum jsou pro něj záruky na úrovni článku 5, Washington zatím mluví o něčem mezi články 4 a 5 - po izraelském vzoru. Na otázku, jestli by na Ukrajině byli američtí vojáci, ale údajně dostal jasné ne. Neutralitu, jakožto další návrh, rovnou odmítl, vyžadovala by podle něj změnu ústavy. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02m54PBoaFmSa6qUU4bGTNqNAERh9M1m2MZcRx4Gi4MFXcNFTthUU1riN76JANbobql):
+        detail: |
+          - Zelenský varoval před americkým návrhem na novou bezpečnostní architekturu Evropy, který se vynořil jako součást snahy ukončit válku. Označil ho za riskantní a řekl, že tohle nemá být hlavní agenda, protože Moskva chce místo ukončení války otevřít širší otázky evropské bezpečnosti. „Putinova touha měnit hranice v Evropě je fakt,“ prohlásil s tím, že podobné nápady předkládal Putin Bidenovi už v roce 2021. Čeká, že Putin bude mluvit o Finsku, Švédsku, Maďarsku a americké vojenské přítomnosti v Pobaltí, a obává se i stažení amerických jednotek. Pořadí kroků má být podle něj opačné: nejdřív příměří, pak konec války a teprve potom bezpečnostní záruky. O novém uspořádání Evropy mají rozhodovat evropští členové NATO případně až po válce. Kanadský premiér Mark Carney dodal, že Rusko nebude utvářet bezpečnostní architekturu svobodné Evropy, a republikánský senátor Tom Cotton rovnou označil ruský požadavek na stažení NATO k hranicím z roku 1997 za absurdní s tím, že další jednání s Moskvou nemají smysl.
+          - Spor o Starshield přitvrzuje. Omezení rychlosti na 161 kilometrů v hodině nad okupovanými územími platí pátý den a podle ukrajinského představitele selhaly už třetí den všechny mise, které na systém spoléhaly. Zelenský tvrdí, že Ukrajina musí proudové Shahedy sestřelovat až na dalších liniích obrany, což Rusům dává víc příležitostí k úderu, a přidal politický rozměr celého sporu: „Když uvalíte geografická omezení, už tím částečně uznáváte dočasně okupovaná území za neukrajinská.“ Firma SpaceX tvrdí, že nic neomezuje a že jde o technickou věc. Zelenský jí ale nevěří, zvlášť když mu Rubio dřív říkal, že Starshield je více pod kontrolou americké vlády než SpaceX. Demokraté ze senátního výboru pro zahraniční vztahy Jeanne Shaheenová a Chris Coons nařídili Muskovi uchovat všechny dokumenty o provozu Starlinku a Starshieldu na Ukrajině. Podle nich říjnová a listopadová omezení vzbuzují obavu, že stejná zranitelnost je i v systémech, na které se spoléhá americká vláda.
+          - Ruské útoky za poslední den zabily nejméně sedm lidí a osmdesát jich zranily. Nejhůř dopadlo Záporoží: tři mrtví včetně dítěte a 62 zraněných, z toho osm dětí. Při úderu deseti raket na vícepodlažní obytné domy skončilo v péči lékařů 29 lidí, šest z nich těžce, a šest dětí ve věku deseti až sedmnácti let v nemocnici. Další úder poškodil obytný dům a školské zařízení a zranil patnáct lidí. Dva mrtví jsou z Chersonské oblasti, po jednom z Doněcké a Charkovské. V Sumské oblasti bylo sedm zraněných včetně devítiletého chlapce, v Dergačích na Charkovsku tři zranění a čtyři děti s akutní stresovou reakcí. V noci Rusko vypustilo 96 dronů Shahed včetně klamných Gerber a Parodií, 81 jich protivzdušná obrana sestřelila nebo potlačila.
+          - Ukrajinské drony zasáhly výrobní a dispečerskou stanici u obce Prosvet v Samarské oblasti, zhruba 950 kilometrů od území kontrolovaného Ukrajinou. Hoří několik nádrží na ropu. Stanice přijímá ropu potrubím z Tatarstánu, západní Sibiře a dalších regionů a mísí ji na exportní směs Urals, která tvoří až polovinu ruského ropného vývozu. Den předtím Ukrajinci zasáhli letiště Lipetsk-2 více než 340 kilometrů od hranice, kde sídlí Su-34, Su-35 a MiG-31. Poškození utrpěly hangáry s technikou pro údržbu letadel, nádrž s leteckým palivem a velitelské stanoviště základny.
+          - Polsko pozastavuje příspěvky do programu PURL, v němž evropské peníze kupují americké zbraně pro Ukrajinu. Premiér Donald Tusk to oznámil generálnímu tajemníkovi NATO Marku Ruttemu a zdůvodnil to vysokým rozpočtovým deficitem a vlastními výdaji na obranu. Širší polské vojenské podpory Ukrajiny se to netýká.
+          - Pět velkých zpracovatelů slunečnicového oleje zastavilo nebo omezilo výrobu po ruských úderech na potravinářské podniky a energetiku. Kernel odstavil všech osm svých lisoven, omezení hlásí také Delta Wilmar Ukraine, Potoky a Viktor i K. Ukrajina patří k největším světovým vývozcům slunečnicového oleje.
+          - Ruské drony zasáhly během dne jedno ze zařízení skupiny Naftogaz v Poltavské oblasti a vyvolaly rozsáhlý požár. V Oděské oblasti zůstalo po úderu na energetiku bez elektřiny asi 50 tisíc odběratelů, Sumská oblast hlásí rozsáhlý nouzový výpadek energie.
+          - Estonská armáda potvrdila, že ruskou raketovou korvetu Naro-Fominsk projektu 21631 Bujan-M zasáhly při úderu na Ust-Lugu 11. listopadu nejméně tři ukrajinské drony. Loď přišla o pohon, na palubě jsou mrtví i ranění a loď musela být odtažena do Petrohradu. 
+          - Na dalším kole jednání bude Evropu zastupovat Británie, Francie, Německo, Itálie a Polsko plus instituce EU. Spojené státy ukrajinský požadavek na přímou účast Evropanů podpořily. Peskov řekl, že Kreml se k rozšíření formátu vyjádří později.
+          - Velitel ukrajinské dronové brigády tvrdí, že Rusko posílá mobilizované na frontu za pět až sedm dní, protože ztráty převyšují počet nových rekrutů.
+          - Rusko zařadilo hnutí Žluté stužky mezi „extremistické organizace“ a zakázalo jeho činnost na svém území.
+          - SBU zadržela v Kyjevě muže podezřelého z navádění ruských raketových a dronových úderů.
+          - Ukrajina přišla kvůli ruským útokům už o 630 lokomotiv, o téměř 400 z nich jen letos.
+          - Letiště Schiphol darovalo Ukrajině 29 autobusů.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1027476613760618621)
+          - [Evakuace po náletu](https://pixelfed.cz/p/dnesnaukrajine/1027475337318051948)
+          - [Mínus Rus](https://pixelfed.cz/p/dnesnaukrajine/1027475385841053805)
+          - [Ruská armáda](https://pixelfed.cz/p/dnesnaukrajine/1027475421809815662)
+          - [Zastavený ruský útok](https://pixelfed.cz/p/dnesnaukrajine/1027475504008503409)
+          - [Mínus dron](https://pixelfed.cz/p/dnesnaukrajine/1027475523749838962)
+          - [Ukrajinský dron si našel ruského kámoše](https://pixelfed.cz/p/dnesnaukrajine/1027475543472922739)
+          - [Mínus odpalovače s drony](https://pixelfed.cz/p/dnesnaukrajine/1027475721797017718)
+          - [Překvapení](https://pixelfed.cz/p/dnesnaukrajine/1027475743617523831)
+          - [Trefa](https://pixelfed.cz/p/dnesnaukrajine/1027475775419215992)
       - title: "Pátek" 
         year: "13. listopadu 2026"
         sort: "2026-11-13"
