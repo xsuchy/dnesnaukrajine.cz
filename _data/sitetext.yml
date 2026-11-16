@@ -38,6 +38,40 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pondělí" 
+        year: "16. listopadu 2026"
+        sort: "2026-11-16"
+        pictures:
+          - ["2026-11-16-1.jpg", "Rusové vybombardovali další sklady potravin."]
+          - ["2026-11-16-2.jpg", "Rybar vidí situaci jinak než ruské MO."]
+          - ["2026-11-16-3.jpg", "Krymský most se po několika zásazích nahnul."]
+          - ["2026-11-16-4.jpg", "Rusko nejspíš přišlo o další letadlo."]
+        image: assets/img/timeline/2026-11-16.jpg
+        podcast: "2026-11-16.mp3"
+        desc: |
+          Rusko tvrdí, že v noci zachytilo 2 049 ukrajinských dronů, které mířily na cíle v Rusku, a pokud je to pravda, je to nový rekord. Provoz dvou moskevských letišť se do rána zastavil a ve 2:22 moskevského času se po sérii úspěšných zásahů uzavřel také Kerčský most, který Ukrajina zasáhla už počtvrté od roku 2022. Ruskem instalovaný šéf Krymu Sergej Aksjonov zřídil kvůli situaci operační štáb a slíbil, že se auta opět rozjedou přibližně do poledne. Mezitím se ale objevily snímky škod a nejde z nich jednoznačně určit, jestli je vůbec nadále bezpečné most k nákladní dopravě využívat. V Azovu v Rostovské oblasti hořelo po zásahu dronů hned ve čtyřech průmyslových areálech, podle portálu ASTRA jsou nejméně dva z nich u ropných skladů. Terčem byly i podniky v Krasnodarském kraji, Brjanské nebo Jaroslavské oblasti. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02sRyKAtM9UmjTYePNZgyTGtsCjqGQRzqJzaGfCjWVrKJUmXWYMLdMe6d1yHsq6U9Jl):
+        detail: |
+          - Ruské požadavky na ukončení války sahají daleko za hranice Ukrajiny. New York Times získal neoficiální „non-paper“ s kremelskou pozicí a dva evropské deníky zveřejnily podmínky „nového evropského bezpečnostního řádu“, které kolují mezi neformálními ruskými vyjednávacími skupinami. Kromě už známého návratu NATO k hranicím z roku 1997 je v dokumentech požadavek, aby z Aliance vystoupilo Finsko, aby Francie a Británie vyloučily použití jaderných zbraní k obraně dalších evropských zemí a aby vznikl „klub“ členů NATO, který by zablokoval vstup Ukrajiny, Moldavska, Gruzie a Arménie. Moldavsko se má proměnit na federaci tří subjektů s Podněstřím a Gagauzií, a pokud by vstoupilo do EU, mohly by si obě oblasti samy vyhlásit referendum o nezávislosti. Ukrajina by přišla o celý Donbas i o dodávky západních zbraní, ruštině by přiznala zvláštní status a demilitarizovala přístavy v Oděse a Mykolajivu. Podle NYT by celý návrh znamenal, že Spojené státy si s Ruskem rozdělí Evropu na sféry vlivu ve stylu studené války. 
+          - Rusko na Ukrajinu v noci poslalo 158 dronů, z toho 77 proudových Shahedů. Protivzdušná obrana zneškodnila 131 strojů, zásahy jsou hlášené z devatenácti míst a trosky padaly na dalších jedenácti. V Dnipru ranní útok zabil jednoho člověka a deset dalších zranil, hořela auta a poškozeny jsou bytové domy. V Záporoží zemřela po zásahu infrastruktury žena a dva lidé utrpěli zranění. V Pavlohradu skončil v nemocnici sedmasedmdesátiletý muž, poškozena je školská budova i byty. V Sumské oblasti zasáhly útoky deset lidí včetně dvou dětí, šest z nich se zranilo v Boromlji. Na energetiku mířily drony v Čerkaské, Vinnycké a Odeské oblasti, část odběratelů zůstala bez elektřiny. Ukrenergo proto na celý den vyhlásilo odstávky a omezení pro průmysl.
+          - V Bruselu se sešli ministři zahraničí EU, hlavní témata jsou podpora Ukrajiny před zimou a ruské hybridní operace proti členským státům. Přijet měl i ukrajinský ministr zahraničí Andrij Sybiha. Šéfka unijní diplomacie Kaja Kallasová před jednáním řekla, že lídři v pátek rozhodli o formátu evropské účasti na vyjednávání a teď je potřeba pracovat na obsahu. Ruské požadavky podle ní opakují a rozšiřují ty z roku 2021, což je samo o sobě důvod, proč Rusko pokračuje ve válce, a EU proto předloží vlastní maximální požadavky. Na programu je také bezpečnost Černého moře a konference o odminování Ukrajiny. Zítra se pak schází ministři obrany a kontaktní skupina NATO.
+          - Evropská komise chce Ukrajině půjčit dalších 45 miliard eur. Návrh má členským státům předložit 18. listopadu a navázat ho na sedmiletý rozpočet, aby peníze pro Kyjev nešlo později zablokovat vetem. Česko je proti: Andrej Babiš napsal předsedovi Evropské rady Antóniovi Costovi, že dohoda o budoucím financování Ukrajiny nemůže být podmínkou pro přijetí příštího rozpočtu. Z druhé strany tlačí německý kancléř Friedrich Merz, který Costovi pohrozil, že rozpočet na roky 2028 až 2034 zablokuje, pokud se všechny státy k pomoci Ukrajině nezavážou. 
+          - Ukrajinští vyjednavači se neshodnou na tom, jak s Američany otevřít otázku Donbasu. Podle Ukrajinské pravdy chce šéf Kanceláře prezidenta Kyrylo Budanov americké straně, a jejím prostřednictvím i ruské, ukázat, kde by teoreticky mohla ležet hranice, kterou by Ukrajina byla ochotná akceptovat. Šéf frakce Sluha národa Davyd Arachamija naopak navrhuje Donbas odložit, dokud nebude jasno v otázce evropských bezpečnostních garancí.
+          - Čínské ministerstvo zahraničí potvrdilo, že Si Ťin-pching se 19. listopadu v Šen-čenu sejde s Vladimirem Putinem a Donaldem Trumpem. Jde o první trojstranné jednání těchto tří a koná se na okraj summitu APEC. Mluvčí Mao Ning k tomu řekla, že všechny tři země jsou zakládajícími členy OSN a stálými členy Rady bezpečnosti a mají odpovědnost řešit globální výzvy společně. Co se bude řešit, Peking neřekl.
+          - Rusové opevňují základny u hranic s Norskem. Viceadmirál Rune Andersen, šéf norského společného velitelství, na Atlantic Future Forum v Oslu řekl, že byl minulý týden na hranici a viděl kolem ruských budek pytle s pískem a protidronové sítě. 
+          - Estonský ministr zahraničí Margus Tsachna nařídil od 1. prosince uzavřít všechny hraniční přechody s Ruskem v reakci na nedávnou sabotáž v továrně na drony, kterou provedla ruská GRU. Peskov už na oplátku vyhrožuje negativními důsledky. 
+          - Keith Kellogg nabídl jako jednu z variant k mírovým jednáním zastavení palby podél současné linie fronty v podobě demilitarizované zóny. O Putinových cílech řekl, že „je zřejmé, že Putin chce získat všechno“.
+          - Evropská unie konečně přidává na sankční seznam společnost Social Design Agency, která pro ruskou vládu a její západní partnery provozuje trolí farmy a další nekalé služby. 
+          - Rusové vybombardovali kravín v Lozové u Charkova. Při úderu zahynulo nejméně 20 kusů skotu. 
+          - Spojené státy odvolaly záměr na stažení 25 000 amerických vojáků z Evropy. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1027956370104287919)
+          - [Rusko potopilo u pobřeží Bulharska další loď](https://pixelfed.cz/p/dnesnaukrajine/1027954124348510872)
+          - [Krymský most](https://pixelfed.cz/p/dnesnaukrajine/1027954162929296025)
+          - [Dnipro](https://pixelfed.cz/p/dnesnaukrajine/1027954201185481370)
+          - [Ruská základna](https://pixelfed.cz/p/dnesnaukrajine/1027954235318669980)
+          - [Mínus obrněnec a dělo](https://pixelfed.cz/p/dnesnaukrajine/1027954476500173470)
+          - [Azov](https://pixelfed.cz/p/dnesnaukrajine/1027954492738069151)
+          - [Azov](https://pixelfed.cz/p/dnesnaukrajine/1027954529998815904)
       - title: "Neděle" 
         year: "15. listopadu 2026"
         sort: "2026-11-15"

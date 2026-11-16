@@ -23,6 +23,128 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Monday
+    year: November 16, 2026
+    sort: '2026-11-16'
+    pictures:
+    - - 2026-11-16-1.jpg
+      - The Russians bombed more food warehouses.
+    - - 2026-11-16-2.jpg
+      - Rybar sees the situation differently than the Russian Ministry of Defense.
+    - - 2026-11-16-3.jpg
+      - The Crimean Bridge has sagged after several repairs.
+    - - 2026-11-16-4.jpg
+      - Russia has likely lost another aircraft.
+    image: assets/img/timeline/2026-11-16.jpg
+    podcast: 2026-11-16.mp3
+    desc: 'Russia claims that overnight it intercepted 2,049 Ukrainian drones heading
+      for targets in Russia, and if true, this is a new record. Operations at two
+      Moscow airports were suspended until morning, and at 2:22 a.m. Moscow time,
+      the Kerch Bridge was also closed following a series of successful strikes; Ukraine
+      has struck the bridge four times since 2022. Sergey Aksyonov, the Russian-appointed
+      head of Crimea, established an operational headquarters in response to the situation
+      and promised that traffic would resume by around noon. In the meantime, however,
+      images of the damage have emerged, and it is not clear from them whether it
+      is still safe to use the bridge for freight transport. In Azov, in the Rostov
+      region, fires broke out at four industrial sites following drone strikes; according
+      to the ASTRA portal, at least two of them are near oil storage facilities. Businesses
+      in the Krasnodar Krai, Bryansk Oblast, and Yaroslavl Oblast were also targeted.
+      And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02sRyKAtM9UmjTYePNZgyTGtsCjqGQRzqJzaGfCjWVrKJUmXWYMLdMe6d1yHsq6U9Jl)
+      also happened:
+
+      '
+    detail: "- Russia’s demands for ending the war extend far beyond Ukraine’s borders.\
+      \ The New York Times obtained an unofficial “non-paper” outlining the Kremlin’s\
+      \ position, and two European newspapers published the terms of a “new European\
+      \ security order” that are circulating among informal Russian negotiating groups.\
+      \ In addition to the already known demand that NATO return to its 1997 borders,\
+      \ the documents call for Finland to withdraw from the Alliance, for France and\
+      \ Britain to rule out the use of nuclear weapons to defend other European countries,\
+      \ and for the creation of a “club” of NATO members that would block the accession\
+      \ of Ukraine, Moldova, Georgia, and Armenia. Moldova is to be transformed into\
+      \ a federation of three entities, including Transnistria and Gagauzia, and if\
+      \ it were to join the EU, both regions could hold their own referendums on independence.\
+      \ Ukraine would lose the entire Donbas region as well as supplies of Western\
+      \ weapons; it would grant special status to the Russian language and demilitarize\
+      \ the ports of Odessa and Mykolaiv. According to the NYT, the entire proposal\
+      \ would mean that the United States and Russia would divide Europe into spheres\
+      \ of influence in the style of the Cold War. \n- Russia sent 158 drones into\
+      \ Ukraine overnight, including 77 Shahed jet drones. Air defenses shot down\
+      \ 131 of them; strikes were reported in nineteen locations, and debris fell\
+      \ in eleven others. In Dnipro, a morning attack killed one person and injured\
+      \ ten others; cars were on fire, and apartment buildings were damaged. In Zaporizhzhia,\
+      \ a woman died after infrastructure was hit, and two people were injured. In\
+      \ Pavlohrad, a 77-year-old man was hospitalized, and a school building and apartments\
+      \ were damaged. In the Sumy region, the attacks affected ten people, including\
+      \ two children; six of them were injured in Boromlia. Drones targeted energy\
+      \ infrastructure in the Cherkasy, Vinnytsia, and Odesa regions, leaving some\
+      \ customers without electricity. As a result, Ukrenergo announced power outages\
+      \ and restrictions for industry for the entire day.\n- EU foreign ministers\
+      \ have gathered in Brussels; the main topics are support for Ukraine ahead of\
+      \ winter and Russia’s hybrid operations against member states. Ukrainian Foreign\
+      \ Minister Andriy Sybiha was also expected to attend. EU foreign policy chief\
+      \ Kaja Kallas said before the meeting that leaders decided on Friday on the\
+      \ format of Europe’s participation in the negotiations and that it is now necessary\
+      \ to work on the substance. According to her, Russia’s demands repeat and expand\
+      \ upon those from 2021, which is in itself a reason why Russia is continuing\
+      \ the war, and the EU will therefore present its own maximum demands. Also on\
+      \ the agenda are Black Sea security and a conference on demining in Ukraine.\
+      \ Tomorrow, defense ministers and the NATO Contact Group will meet.\n- The European\
+      \ Commission wants to lend Ukraine an additional 45 billion euros. It plans\
+      \ to present the proposal to member states on November 18 and link it to the\
+      \ seven-year budget so that the funds for Kyiv cannot be blocked by a veto later\
+      \ on. The Czech Republic is opposed: Andrej Babiš wrote to European Council\
+      \ President António Costa, stating that an agreement on future funding for Ukraine\
+      \ cannot be a condition for the adoption of the next budget. On the other hand,\
+      \ German Chancellor Friedrich Merz is applying pressure, having threatened Costa\
+      \ that he would block the budget for 2028 through 2034 if not all member states\
+      \ commit to helping Ukraine. \n- Ukrainian negotiators cannot agree on how to\
+      \ broach the issue of Donbas with the Americans. According to Ukrayinska Pravda,\
+      \ the head of the Office of the President, Kyrylo Budanov, wants to show the\
+      \ American side—and, through it, the Russian side—where the border that Ukraine\
+      \ would theoretically be willing to accept might lie. Davyd Arakhamia, the leader\
+      \ of the Servant of the People faction, on the other hand, proposes postponing\
+      \ the Donbas issue until there is clarity on the matter of European security\
+      \ guarantees.\n- The Chinese Foreign Ministry has confirmed that Xi Jinping\
+      \ will meet with Vladimir Putin and Donald Trump in Shenzhen on November 19.\
+      \ This will be the first trilateral meeting between the three leaders and will\
+      \ take place on the sidelines of the APEC summit. Spokesperson Mao Ning said\
+      \ that all three countries are founding members of the United Nations and permanent\
+      \ members of the Security Council, and that they have a responsibility to address\
+      \ global challenges together. Beijing did not specify what topics would be discussed.\n\
+      - The Russians are fortifying their bases near the border with Norway. Vice\
+      \ Admiral Rune Andersen, head of the Norwegian Joint Command, said at the Atlantic\
+      \ Future Forum in Oslo that he was at the border last week and saw sandbags\
+      \ and anti-drone nets around Russian guard posts. \n- Estonian Foreign Minister\
+      \ Margus Tsachna ordered the closure of all border crossings with Russia effective\
+      \ December 1 in response to a recent act of sabotage at a drone factory carried\
+      \ out by Russia’s GRU. In response, Peskov is already threatening negative consequences.\
+      \ \n- Keith Kellogg proposed a ceasefire along the current front lines, in the\
+      \ form of a demilitarized zone, as one option for peace talks. Regarding Putin’s\
+      \ goals, he said, “It’s clear that Putin wants to take everything.”\n- The European\
+      \ Union has finally added Social Design Agency to its sanctions list; the company\
+      \ operates troll farms and provides other malicious services for the Russian\
+      \ government and its Western partners. \n- The Russians bombed a cattle barn\
+      \ in Lozova near Kharkiv. At least 20 head of cattle were killed in the attack.\
+      \ \n- The United States has withdrawn its plan to withdraw 25,000 U.S. troops\
+      \ from Europe. \n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1027956370104287919)
+
+      - [Russia sank another ship off the coast of Bulgaria](https://pixelfed.cz/p/dnesnaukrajine/1027954124348510872)
+
+      - [Crimean Bridge](https://pixelfed.cz/p/dnesnaukrajine/1027954162929296025)
+
+      - [Dnipro](https://pixelfed.cz/p/dnesnaukrajine/1027954201185481370)
+
+      - [Russian base](https://pixelfed.cz/p/dnesnaukrajine/1027954235318669980)
+
+      - [Minus the armored vehicle and the cannon](https://pixelfed.cz/p/dnesnaukrajine/1027954476500173470)
+
+      - [Azov](https://pixelfed.cz/p/dnesnaukrajine/1027954492738069151)
+
+      - [Azov](https://pixelfed.cz/p/dnesnaukrajine/1027954529998815904)
+
+      '
   - title: Sunday
     year: November 15, 2026
     sort: '2026-11-15'
