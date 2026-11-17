@@ -38,6 +38,44 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý" 
+        year: "17. listopadu 2026"
+        sort: "2026-11-17"
+        pictures:
+          - ["2026-11-17-1.jpg", "Kalifornský guvernér Newsom je v Kyjevě."]
+          - ["2026-11-17-2.jpg", "Mínus most."]
+          - ["2026-11-17-3.jpg", "Mínus chemička-rafinérka."]
+          - ["2026-11-17-4.jpg", "Moře v Polsku vyplavilo ruský průzkumný dron."]
+        image: assets/img/timeline/2026-11-17.jpg
+        podcast: "2026-11-17.mp3"
+        desc: |
+          Rusko v noci vypálilo sedm balistických raket na dva kyjevské mosty přes Dněpr, čtyři na Jižní a tři na Severní. Ukrajina odpověděla přesně tam, kde to Putina bolí nejvíc: z Kerčského mostu se po opakovaných úderech zřítil do průlivu celý silniční oblouk. Podle SBU šlo o sedmou a závěrečnou fázi operace, která trvala asi měsíc a začala systematickou likvidací ruské protivzdušné obrany, radarů a prostředků elektronického boje podél celé trasy. Vozovku strhly drony Palianycja, na železniční část mířily rakety R-360 Neptun, drony Ruta a střely FP-5 Flamingo, u nichž fungoval přenos obrazu až do posledních sekund. Silniční úsek je neprůjezdný, zatímco železniční most stojí, ale jeho oblouk je poškozený. Ruský Vyšetřovací výbor zahájil řízení pro „teroristický čin“, cestující Rusy odkázal dosazený krymský šéf Sergej Aksjonov na trajekty. Zelenský to zabalil do jediné srozumitelné věty: Válka se vždy vrátí tam, kde začala. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0dad8AX4FfPjyQce1frCMU85HEwaQsxZ3rp2H2f5cPtmJ9A1bYQmNFYVTntzk55CXl):
+        detail: |
+          - Únik 15 milionů interních dokumentů Deutsche Bank ukázal, jak největší německá banka roky tolerovala ruské oligarchy, protože se to vyplácelo. Na projektu Inside Deutsche Bank pracovalo přes 230 novinářů z více než padesáti redakcí včetně NYT, Le Monde, Der Spiegel, ZDF a ukrajinského Slidstvo.Info. V listopadu 2020 měla banka v privátním bankovnictví 160 ruských klientů, z nichž sedmnáct bylo na americkém sankčním seznamu z roku 2018, a právě tato sedmnáctka tvořila 47 procent ruských příjmů jednotky. Po invazi se banka zaštítila pravidlem padesáti procent: obchodovat šlo dál, pokud sankcionovaní akcionáři drželi nejvýše polovinu firmy, a například Timčenko měl v Siburu 14,5 procenta. Banka odmítá, že by pomáhala obcházet sankce, a tvrdí, že ruský byznys ukončila v březnu 2022, ve výroční zprávě za rok 2025 jí ovšem v Rusku zbývá ekvivalent 162 zaměstnanců na plný úvazek a zisk před zdaněním 61 milionů eur. Akcie firmy v reakci spadly až o šest procent.
+          - Ruské útoky za poslední den zabily na Ukrajině čtrnáct lidí a 78 jich zranily. Tři mrtvé má Černihiv, kde byl zasažen dům i energetické zařízení a kde na středu vyhlásili den smutku, dva Kyjev v Obolonském obvodu, dva Záporoží s osmnácti zraněnými po úderech na průmyslové objekty ve třech městských obvodech, dva Dněpropetrovská oblast s dvaceti zraněnými po dvaceti útocích v šesti okresech, dva město Mykolajiv po zásahu přístavní a průmyslové infrastruktury, jednoho Doněcká oblast s devíti zraněnými, jednoho Chersonská oblast, kde Rusové ostřelovali město a 33 dalších obcí, a jednoho Kirovohradská oblast po zásahu závodu na výrobu potravin. Čtrnáct zraněných pak hlásí Charkovská oblast po útocích na sedmnáct sídel. Rusko použilo balistické rakety Iskander-M, Zirkon a S-400, řízené střely Iskander-K, Ch-59 a Ch-69 a 306 útočných dronů. 7 dronů vletělo při náletu do Moldavska. 
+          - U bulharských břehů se druhý den v řadě potopila obchodní loď. V úterý ráno ve 8:02 se aktivoval nouzový maják libérijského plynového tankeru Gas Husky řeckých majitelů ze skupiny Vafias, který vezl asi 3 400 tun propanu z egyptské Alexandrie do rumunské Midie a šel ke dnu asi padesát námořních mil východně od Bjaly. Na palubě bylo devatenáct filipínských námořníků, dva se lehce zranili. Den předtím se jen čtrnáct a půl námořní míle odtud převrhla nákladní loď Betul 8 pod somálskou vlajkou s necelými třemi tisíci tunami pšenice z rumunské Tulcey do Egypta, podle ISW ji pravděpodobně zasáhly ruské námořní drony. 
+          - Ukrajinské drony v noci zasáhly rafinérský a petrochemický komplex Gazprom Neftechim Salavat v Baškortostánu, který leží 1 500 kilometrů od ukrajinské hranice. Armáda hlásí výbuchy a požár, kanál Exilenova+ mluví o několika ohniscích. Komplex zahrnuje rafinerii, plynochemickou továrnu a závod Monomer, zpracuje až deset milionů tun ropy a kondenzátu ročně a podílí se 2,7 procenta na celkovém ruském zpracování ropy. Kolem půlnoci také vybuchla a začala hořet rozvodna Sadovaja o napětí 330 kV u Kursku, hlavní zdroj elektřiny pro město a severní část oblasti s asi 400 tisíci obyvateli.
+          - Ukrajinská, americká a evropská delegace jednaly online. Dohodly se na osobní schůzce v Berlíně, kde se 19. listopadu mají Steve Witkoff a Jared Kushner sejít s ukrajinskými a evropskými představiteli a probírat bezpečnostní záruky a plán hospodářské obnovy.
+          - Záchranáři ukončili práce v Komyšuvaše v Záporožské oblasti dva týdny po ruském útoku a konečná bilance je 72 mrtvých, čtyři lidé zůstávají nezvěstní. 
+          - Británie oznámila na jednání Kontaktní skupiny pro obranu Ukrajiny v sídle NATO balíček protivzdušné obrany za 240 milionů liber. Obsahuje více než tisíc raket krátkého dosahu, odpalovací zařízení a více než tucet radarů z Británie a Evropy a podle britské vlády jsou tyto rakety prokazatelně účinné proti Shahedům včetně proudových verzí. Dodávky zajistí francouzská Thales ze závodu v Belfastu a začnou v polovině prosince.
+          - Ministři zahraničí Finska, Dánska, Estonska, Francie a Litvy poslali šéfce unijní diplomacie Kaje Kallasové a komisařce Marii Luís Albuquerqueové dopis, v němž žádají sankce na ruské kryptoburzy a navázané firmy, důslednější vymáhání a uzavření regulatorních mezer. Rusko podle nich kryptoaktiva používá k přeshraničním platbám, jimiž obchází sankcionovaný bankovní systém.
+          - Mezinárodní měnový fond přepsal prognózy a není to čtení pro optimisty: ukrajinské HDP má letos klesnout o 0,5 procenta a příští rok o jedno procento, přitom dřívější odhady počítaly s růstem o jedno a o tři a půl procenta. Důvodem je zhoršující se bezpečnostní situace a útoky na hospodářskou infrastrukturu.
+          - Bez proudu se po nočních úderech ocitlo osm ukrajinských oblastí. Podle společnosti DTEK přišlo o elektřinu asi 700 tisíc domácností v Dněpropetrovské oblasti, více než tři sta sídel v Rivenské oblasti a 76 sídel v pervomajském okrese Mykolajivské oblasti. V Kyjevě byly přerušeny dodávky vody a tepla.
+          - Podle ISW Ukrajinci postoupili severovýchodně od Sum, severovýchodně od Charkova a západně od Orichivu a protiútočili u Lymanu a Kosťantynivky. Žádný ruský postup institut za 15. a 16. listopadu neeviduje.
+          - Finský prezident Alexander Stubb v rozhovoru pro Financial Times vyzval evropské lídry, aby s Putinem začali mluvit přímo a nespoléhali na Američany. Evropa podle něj musí být tím, kdo určuje agendu. 
+          - Omezení Starshieldu na 161 kilometrů v hodině pokračuje. Kanadský ministr obrany oznámil, že téma amerických limitů otevře u Trumpa s odkazem na společnou obranu v rámci NORAD.
+          - Německo přispěje 300 milionů dolarů do nového balíčku americké výzbroje pro Ukrajinu v rámci programu PURL a společně s Norskem nakoupí rakety pro systémy Patriot. 
+          - U ruského Kemerova se zřítil vojenský letoun An-12 s 19 lidmi na palubě. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1028417461157012894)
+          - [Krymský most](https://pixelfed.cz/p/dnesnaukrajine/1028417121342625172)
+          - [Kemerovo](https://pixelfed.cz/p/dnesnaukrajine/1028417154054591893)
+          - [Mínus těžká technika](https://pixelfed.cz/p/dnesnaukrajine/1028417193030993303)
+          - [Most v Kyjevě](https://pixelfed.cz/p/dnesnaukrajine/1028417235532584344)
+          - [Rivne, ruský dron](https://pixelfed.cz/p/dnesnaukrajine/1028417257778648473)
+          - [Flamingo](https://pixelfed.cz/p/dnesnaukrajine/1028417278849652122)
+          - [Kursk](https://pixelfed.cz/p/dnesnaukrajine/1028417303910266267)
+          - [Trefa!](https://pixelfed.cz/p/dnesnaukrajine/1028417348839875996)
       - title: "Pondělí" 
         year: "16. listopadu 2026"
         sort: "2026-11-16"
