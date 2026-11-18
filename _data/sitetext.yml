@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa" 
+        year: "18. listopadu 2026"
+        sort: "2026-11-18"
+        pictures:
+          - ["2026-11-18-1.jpg", "Oděsa."]
+          - ["2026-11-18-2.jpg", "Oděsa."]
+          - ["2026-11-18-3.jpg", "Rusové zničili atrapu CAESARa."]
+          - ["2026-11-18-4.jpg", "Rusové vybombardovali ovčín."]
+        image: assets/img/timeline/2026-11-18.jpg
+        podcast: "2026-11-18.mp3"
+        desc: |
+          Pentagon si myslí, že ukrajinské údery hluboko v Rusku jsou jen „spektákl navržený k působení utrpení ruské populaci“ - tak to formuloval náměstek ministra obrany Elbridge Colby s tím, že válku takové údery neukončují, ani nezpomalují ruský postup, a že Washington by dal přednost obraně frontové linie a úderům středního dosahu na logistiku. Evropa se ohradila nebývale ostře. Německý ministr obrany Boris Pistorius označil kritiku úderů na legitimní vojenské cíle za „velkou hloupost“ a doporučil Američanům, aby se jejich pozornost věnovala spíš ruským útokům na ukrajinskou energetiku a vodu. Britský ministr obrany Wes Streeting dodal, že Londýn nebude Ukrajině diktovat taktiku, protože daleké údery oslabují ruskou armádu a zachraňují ukrajinské životy, a připojil varování: „Investujte teď, podpořte Ukrajinu teď, protože cena bude katastrofální, pokud Putin zvítězí.“ Ukrajinský ministr obrany Jevhen Chmara navíc oznámil, že Kyjev z téhle strategie neuhne, počet úderů hluboko do ruského týlu chce do roku 2027 znásobit a na ruské útoky bude odpovídat silou „dvakrát až třikrát větší“. A aby bylo jasné, že nejde jen o plané sliby, v noci zasáhly ukrajinské drony v Krasnodarském kraji dvě rafinerie. V Ilské rafinerii byly zasaženy skladovací nádrže a v Afipské technologická jednotka. Afipská rafinerie má po první etapě rekonstrukce kapacitu 9,1 milionu tun ropy ročně, tedy asi tři procenta ruské zpracovatelské kapacity, Ilská zvládne okolo 6,6 milionu tun a díky poloze na jihu dodává palivo nejkratší cestou ruským jednotkám na frontě a na okupovaný Krym. Obě ukrajinské drony zasáhly už v noci na 16. listopadu. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid09ck9Zw8NHatGXmCzSRXSWjrpwCeE49fyysW6zUV4JK5pVJv7DwrErMjhVtY5UTwAl):
+        detail: |
+          - Rusko v noci a během dne udeřilo na energetiku a obytné domy v pěti oblastech a zabilo nejméně pět lidí. Nejhůř dopadla Oděsa: tři zásahy v historickém centru si vyžádaly čtyři mrtvé a třináct zraněných, jeden z nich dopadl do zóny chráněné UNESCO. Zelenský útok označil za „brutální a cílený“ a upozornil, že Rusko dvojitým úderem opět mířilo i na zasahující hasiče a policisty. V Kušuhumu v Záporožské oblasti zabil ruský dron ženu a zranil muže, v Rivnenské oblasti zůstalo po útoku bez elektřiny osmdesát obcí. Ukrajinské ministerstvo energetiky uvedlo, že od září Rusko provedlo už přes tisíc útoků na energetickou infrastrukturu a nové výpadky za posledních 24 hodin zasáhly Dnipropetrovskou, Doněckou, Žytomyrskou, Záporožskou, Charkovskou, Sumskou, Rivnenskou a Čerkaskou oblast. V Dnipropetrovské a Charkovské oblasti je podle ministerstva situace nadále extrémně složitá, protože opakované útoky komplikují opravy sítě.
+          - Šéf Mezinárodní agentury pro atomovou energii Rafael Grossi chce jmenovat zástupcem generálního ředitele a šéfem odboru jaderné energetiky Alexeje Ferapontova, zástupce šéfa ruského Rostechnadzoru. Ukrajina ho sankcionovala už v únoru 2023 za roli při legitimizaci nelegálního zabrání Záporožské jaderné elektrárny a rozšíření ruského regulačního dohledu nad ní. Ukrajinské ministerstvo zahraničí plán odmítlo jako „zjevné smířlivé přijetí“ ruské politiky zabírání ukrajinských jaderných zařízení a žádá jeho stažení. Greenpeace International v dopise radě guvernérů upozornila i na možný konflikt zájmů: Grossi kandiduje na generálního tajemníka OSN a potřebuje k tomu ruskou podporu.
+          - Zelenskyj během Ramsteinu vyzval spojence, aby Ukrajině předali protiraketové střely pro systémy Patriot a IRIS-T ze svých existujících zásob a dostali je zpět z ukrajinských už zaplacených objednávek, až se vyrobí. Není to podle něj dar, ale výměna. Požádal také o dalších čtyřicet letadel F-16, protože ta současná tráví kvůli opravám a údržbě hodně času na zemi. Zároveň vyzdvihl ukrajinské dalekonosné drony a rakety domácí výroby, které se podle něj uplatnily při velkém úderu na Kerčský most.
+          - Mezinárodní hokejová federace oznámila, že se její web stal terčem kyberútoku. Než web spadl, pověsili na něj hackeři fotografii ruských hokejistů s nápisem „BOJÍTE SE ČELIT RUSKU? Zakázali jste jediný tým, který nemůžete porazit.“ Pachatele federace neidentifikovala, útok odsoudila a pracuje na obnovení webu. 15. listopadu federace potvrdila, že Rusko na juniorském světovém šampionátu startovat nebude. Ruská hokejová federace rozhodnutí označila za „nezákonné“ a „nepřijatelné“.
+          - Ukrajinská SBU a prokuratura obvinily v nepřítomnosti viceadmirála Arkadije Romanova, náčelníka štábu a prvního zástupce velitele ruské Černomořské flotily. Podle vyšetřovatelů se podílel na organizaci úderu na kyjevský obytný dům z 8. července 2024, kdy z fregaty Admiral Makarov a z ponorky B-268 Velikij Novgorod vyletělo deset raket Kalibr. Část domu byla tehdy úplně zničena a zahynulo třináct obyvatel včetně pěti dětí. V celém Kyjevě si ten den útok vyžádal 33 mrtvých. 
+          - Generální tajemník NATO Mark Rutte prohlásil, že Moskva západní podporu Kyjeva nezlomí a spojenci mají ukrajinskou obranu posílit ještě před zimou. Ukrajinské snahy oslabovat ruskou vojenskou mašinerii hájil, varoval ale, že údery na komerční objekty typu skladů Wildberries mohou ruskou veřejnost v podpoře války naopak utvrdit.
+          - Ruské drony útočily od večera na Dnipro a Nikopolsko. Zraněno bylo šest civilistů včetně patnáctiletého chlapce, sedmatřicetiletá žena skončila v nemocnici v těžkém stavu. Poškozen byl panelový dům, soukromý dům, ubytovna, rekreační park a infrastrukturní objekty.
+          - Norsko přispěje 300 milionů dolarů do natovského mechanismu PURL, kterým se kupují americké zbraně pro Ukrajinu. Celkový norský balíček dosahuje asi 800 milionů dolarů. Švédsko přidá přibližně 71 milionů dolarů na různé ukrajinské zbrojní iniciativy včetně PURL.
+          - Podle deníku Rzeczpospolita plánovala ruská vojenská rozvědka GRU operaci pod falešnou vlajkou: proniknout na území Polska, zinscenovat útok s velkým počtem obětí a následně z něj obvinit Ukrajinu.
+          - Monitorovací misi OSN pro lidská práva se za říjen podařilo zdokumentovat nejméně 372 zabitých a 1 981 zraněných ukrajinských civilistů. Proti říjnu 2025 je to nárůst o 95 %.
+          - Británie předala do americké vazby důstojníka americké armády podezřelého ze špionáže pro Rusko.
+          - Kyjev částečně obnovil provoz na Severním i Jižním mostě poté, co je poškodily ruské údery. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1028747082131767959)
+          - [Trump a jeho oblíbení vrazi](https://pixelfed.cz/p/dnesnaukrajine/1028744805134389865)
+          - [Rusové zničili atrapu houfnice CAESAR](https://pixelfed.cz/p/dnesnaukrajine/1028744834692592234)
+          - [Rusové se ocitli v pasti](https://pixelfed.cz/p/dnesnaukrajine/1028744935498556011)
+          - [Ruská logistika mínus](https://pixelfed.cz/p/dnesnaukrajine/1028744984482447982)
+          - [Rusy zasažená loď](https://pixelfed.cz/p/dnesnaukrajine/1028745004663255663)
+          - [Influencer placený Rusy v Trumpově letadle](https://pixelfed.cz/p/dnesnaukrajine/1028745539444761210)
+          - [Oděsa](https://pixelfed.cz/p/dnesnaukrajine/1028745573460771451)
+          - [Dnipro](https://pixelfed.cz/p/dnesnaukrajine/1028745592398557820)
+          - [Ilsky](https://pixelfed.cz/p/dnesnaukrajine/1028745611073696386)
+          - [Zajatci](https://pixelfed.cz/p/dnesnaukrajine/1028745692609675907)
       - title: "Úterý" 
         year: "17. listopadu 2026"
         sort: "2026-11-17"
