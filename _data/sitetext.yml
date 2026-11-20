@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Pátek" 
+        year: "20. listopadu 2026"
+        sort: "2026-11-20"
+        pictures:
+          - ["2026-11-20-1.jpg", "Kyjev."]
+          - ["2026-11-20-2.jpg", "Nad Polskem."]
+          - ["2026-11-20-3.jpg", "Kráter v Polsku."]
+          - ["2026-11-20-4.jpg", "Fronta podle Rybáře."]
+        image: assets/img/timeline/2026-11-20.jpg
+        podcast: "2026-11-20.mp3"
+        desc: |
+          Donald Trump se ve čtvrtek z paluby Air Force One připojil k berlínskému jednání a evropským lídrům oznámil, že Putin „chce válku ukončit, chce dohodu, už je z toho unavený“. Kancléři Merzovi poradil, ať Putinovi prostě zavolá, a bude to vyřešené. „Unavený“ Putin mezitím připojil další argument: v noci na pátek poslal na Ukrajinu balistické rakety Iskander-M a S-400, střely Zircon, 84 řízených střel Ch-101, Kalibr a Iskander-K a 404 dronů, z nichž 123 bylo proudových. Část střel odpálily bombardéry Tu-160 ze základny Ukrajinka na ruském Dálném východě a útok trval víc než osm hodin. Protivzdušná obrana ohlásila 462 zneškodněných cílů, zásahy jsou hlášeny z 23 míst. Hlavním terčem byly kyjevské mosty přes Dněpr: poškozeny jsou Podilsko-Voskresenský, Darnycký a znovu také Jižní most, platí na nich tonážní limity a uzavírky. V Kyjevě zahynulo šest lidí a asi patnáct bylo zraněno, první tři mrtví byli zaměstnanci Kyivvodokanalu, kteří odstraňovali následky předchozího útoku. Ruské ministerstvo obrany útok označilo za zásah mostů, po nichž se přepravují zbraně. Putin po úderech na Krymský most veřejně slíbil odvetu „mnohem bolestivější“, než byl ukrajinský útok. Každopádně agresor, který tvrdí, že se mstí, je opravdu parodie. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02jb1DakKZ6BP6eQxQDtoRRscf7XGzpzKx955AHoRFQva9qRaU6foPYHnbhyYEF5V2l):
+        detail: |
+          - Ruské rakety a dron narušily při nočním útoku polský vzdušný prostor. Ministr obrany Władysław Kosiniak-Kamysz potvrdil dvě řízené střely a jeden proudový dron, přičemž trosky byly nalezeny v obcích Nowy Lipowiec, Rudnik nad Sanem a Mołodycz. V Nowém Lipowci dopadla střela Ch-101. Nikdo nebyl zraněn, kritická infrastruktura poškozená není. První varovné signály dostalo polské velení v 1:40, celou noc byly ve vzduchu dvojice polských F-16 a švédských Gripenů, ráno nad Polskem začaly hlídkovat dva stroje AWACS a aktivovány byly systémy Patriot u letiště Rzeszów-Jasionka a poblíž Świdniku. Letiště v Rzeszowě pozastavilo provoz, obyvatelé Lublinského a Podkarpatského vojvodství dostali v 6:50 varování před leteckým útokem. Varšava bude žádat NATO o posílení východního křídla a svolává mimořádné konzultace. Podle Kosiniaka-Kamysze si Rusko načasování zřejmě vybralo záměrně, premiér Tusk mluví o provokaci.
+          - Energetická soustava je po nočním náletu v kritickém stavu. Bez elektřiny zůstal Kyjev a deset dalších oblastí, ukrajinské jaderné elektrárny musely snížit výkon a nouzová odpojení platila v Kyjevě a v dalších oblastech: Lvovské, Zakarpatské, Ivano-Frankivské, Dnipropetrovské, Poltavské a Charkovské. Ve zbytku země běží plánované hodinové odstávky a pro průmysl byla zavedena omezení spotřeby. V Oděské oblasti přišlo po zásahu zařízení společnosti DTEK o proud víc než 41 tisíc odběratelů, v Kryvém Rihu zůstaly bez elektřiny kotelny, čerpací stanice vody i nemocnice a v kyjevské Pečerské čtvrti lidé přišli současně o teplo, elektřinu a vodu. Dva energetici byli zraněni v Charkovské oblasti. Ukrenergo situaci popsalo jako extrémně složitou a opravy komplikují opakované poplachy. Venku je přitom dávno pod nulou.
+          - Za uplynulý den ruské útoky na Ukrajině zabily nejméně dvanáct lidí a 82 jich zranily. Ve Lvově zasáhly rakety železniční stanici Sknyliv, kde zahynuli dva lidé a nejméně čtyři další byli zraněni, celkem je ve městě hlášeno deset zraněných a poškozená energetika v okrese Stryj. V Charkově dron zasáhl areál nemocnice v Ševčenkivském okrese, rozbil víc než padesát okenních tabulí a zranil pět lidí, za celou oblast je hlášen jeden mrtvý a třicet zraněných včetně tří dětí. V Žovtých Vodách v Dněpropetrovské oblasti hořel pětipodlažní obytný dům a zraněno bylo pět lidí, mezi nimi 87letá žena, dalších pět zraněných je z okresu Kamjanske. 
+          - Evropská unie podle Financial Times zvažuje postupné a podmíněné rušení protiruských sankcí jako součást případného mírového urovnání. Podmínkou má být příměří, zachování ukrajinské suverenity, možnost pokračovat v evropské integraci, peníze na obnovu a linie kontaktu jako výchozí bod pro územní otázky. O této variantě mluvil po berlínském jednání kancléř Merz. Ursula von der Leyenová zároveň oznámila, že se připravuje 22. sankční balíček, a na síti X napsala, že mír závisí na tom, aby Ukrajina jednala z pozice síly. Takže sankce se chystají i ruší – podle toho, koho se zrovna zeptáte.
+          - Ukrajinské drony v noci zasáhly chemický závod Dorogobuž ve Smolenské oblasti, asi 285 kilometrů od ukrajinských hranic. Podnik patří skupině Acron ruského miliardáře Vjačeslava Kantora, vyrábí amoniak, kyselinu dusičnou a hnojiva a podle vlastních údajů stojí za jedenácti procenty ruské produkce dusičnanu amonného, látky, která slouží mimo jiné k výrobě průmyslových trhavin. Dorogobuž byl terčem už v prosinci 2025 a 25. února 2026, kdy podle Astry zahynulo sedm lidí včetně dvou závodních hasičů, kteří se otrávili amoniakem. 
+          - Zelenský podpořil rozmístění amerických a evropských jednotek na ukrajinském území jako součást budoucích bezpečnostních záruk. Bez fyzické přítomnosti západních vojáků si podle svých slov není jistý, jestli se vůbec dá mluvit o článcích 4 a 5 NATO, podle kterých západní vyjednavači případné záruky modelují. Připustil, že spojenci se na mechanismech záruk zatím neshodli. Steve Witkoff a Jared Kushner přitom tvrdí, že Rusko je ochotné o zárukách podobných článku 5 jednat.
+          - Generální štáb potvrdil ukrajinský zásah přečerpávací stanice Kalejkino u Almetěvsku v Tatarstánu, víc než tisíc kilometrů od frontové linie. Zařízení přijímá a míchá ropu z různých ruských regionů a posílá ji do rafinerií a do ropovodu Družba. Zasaženy byly tři velké nádrže v areálu Kalejkino-1, každá s kapacitou 50 tisíc kubíků, jedna z nich začala hořet. Stejná stanice byla cílem už v únoru letošního roku.
+          - Norsko koupí protivzdušné rakety za 22 miliard norských korun, tedy přes dvě miliardy eur. Jde o střely AIM-9X a AMRAAM 120C a ER kompatibilní s odpalovacími zařízeními NASAMS. Ministr obrany Ture O. Sandvik uvedl, že rozhodnutí ovlivnila i ukrajinská zkušenost.
+          - Dvě ruské střely s plochou dráhou letu Ch-101 a jeden útočný dron během nočního náletu vletěly do vzdušného prostoru Polska a zřítily se na jeho území. Polsko proti nim nasadilo stíhačky F-16 a Gripen a systém Patriot. 
+          - Vlaky nově nejezdí na okupovaný Krym, a to po už třetím zásahu železniční části Kerčského mostu. Obyvatelé Simferopolu začali ve velkém skupovat potraviny a pohonné hmoty.
+          - Zelenskyj také uvedl, že ukrajinské síly v noci zasáhly tři ruská odpalovací zařízení balistických raket. Jedno z nich je zničené, u zbylých dvou se vyhodnocuje rozsah poškození.
+          - V Dánsku byli zadrženi dva muži, kteří měli podle úřadů plánovat vraždu ukrajinského rappera s pseudonymem Kyjivstoner na objednávku ruských tajných služeb. 
+          - V Záporoží zasáhl ruský FPV dron tramvaj a zranil ženu. Další dron narazil do sedmého patra budovy krajské vojenské správy, tam se nikomu nic nestalo.
+          - Estonsko uzavře 1. prosince všechny hraniční přechody s Ruskem. 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1029404925026870064)
+          - [Kráter v Polsku](https://pixelfed.cz/p/dnesnaukrajine/1029403597749793559)
+          - [V krytu porodnice](https://pixelfed.cz/p/dnesnaukrajine/1029403624506991384)
+          - [Mínus chemička](https://pixelfed.cz/p/dnesnaukrajine/1029403654858990361)
+          - [Idiot Kushner](https://pixelfed.cz/p/dnesnaukrajine/1029403715992535838)
+          - [Mínus dva](https://pixelfed.cz/p/dnesnaukrajine/1029403748265567007)
+          - [Polsko](https://pixelfed.cz/p/dnesnaukrajine/1029403796390109984)
+          - [F-16 versus Geran](https://pixelfed.cz/p/dnesnaukrajine/1029403820027613985)
+          - [Mínus Tor](https://pixelfed.cz/p/dnesnaukrajine/1029403841823687458)
       - title: "Čtvrtek" 
         year: "19. listopadu 2026"
         sort: "2026-11-19"
