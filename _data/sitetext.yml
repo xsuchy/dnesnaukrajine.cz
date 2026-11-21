@@ -17602,10 +17602,10 @@ timeline:
         sort: "2025-08-24"
         image: assets/img/timeline/2025-08-24.jpg
         pictures:
-          - ["2025-08-24-1.jpg", ""]
-          - ["2025-08-24-2.jpg", ""]
-          - ["2025-08-24-3.jpg", ""]
-          - ["2025-08-24-4.jpg", ""]
+          - ["2025-08-24-1.jpg", "Ukrajina podepsala s Kanadou novou smlouvu o bezpečnostní spolupráci."]
+          - ["2025-08-24-2.jpg", "Jerevan."]
+          - ["2025-08-24-3.jpg", "Ruský odposlouchávací komplex v Kaliningradu."]
+          - ["2025-08-24-4.jpg", "Chersonský starosta se vrátil z ruského zajetí."]
         desc: |
           Ukrajinské drony zasáhly ruskou rafinerii v Syzrani a také terminál v přístavu Ust-Luga, který slouží jako klíčový prvek pro ruský export zkapalněného zemního plynu po moři dál do světa. Videa z místa dokazují, že poškození nebude zrovna malé. Navíc to vypadá, že drony se nepokusila zastavit žádná protivzdušná obrana – pouze ruční zbraně, což je pro Rusko velmi nepříjemná zpráva samo o sobě. A jak si stojí rafinerie v Novošachtinsku? Ta už čtvrtým dnem hoří a uhašení požáru je stále v nedohlednu. Díky tomu všemu se ruská palivová krize pozvolna přesouvá i do dalších oblastí. Nově se vydávají pohonné hmoty na příděl v Magadanské oblasti. Tímhle tempem brzy pozbude platnosti známé klišé, že Rusko je „benzínka s atomovkami“. Bohužel má stále ty atomovky… Ale teď další [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02MDZ1Jed18WNPFNPYQU9c2t1uEnWKcqmtCbZwvdCaEHvrd3V319PG4NcDzuWhbB4Yl):
         detail: |
@@ -17643,10 +17643,10 @@ timeline:
         year: "23. srpna 2025" 
         sort: "2025-08-23"
         pictures:
-          - ["2025-08-23-1.jpg", ""]
-          - ["2025-08-23-2.jpg", ""]
-          - ["2025-08-23-3.jpg", ""]
-          - ["2025-08-23-4.jpg", ""]
+          - ["2025-08-23-1.jpg", "Dětství, když je tvůj soused Rusko."]
+          - ["2025-08-23-2.jpg", "Novošachtinsk na satelitních snímcích."]
+          - ["2025-08-23-3.jpg", "Programování rakety."]
+          - ["2025-08-23-4.jpg", "Ruský Orlan-10 s dvěma FVP drony pod křídly."]
         image: assets/img/timeline/2025-08-23.jpg
         desc: |
           Lavrov už poněkolikáté v posledních několika dnech naznačil, že Rusko stále nevnímá Zelenského jako legitimního prezidenta a že by proto měl případnou mírovou dohodu podepisovat za Ukrajinu někdo jiný. Zároveň trvá na tom, že Rusko nepřipustí přítomnost cizích vojsk na Ukrajině, a také prohlásil, že Putin se sejde se Zelenským osobně pouze v případě, že Ukrajina při tom nabídne svou kapitulaci. Zelenský se tedy nejspíš nemýlí, když říká, že Rusko podniká kroky k tomu, aby předem sabotovalo jakákoli budoucí mírová jednání. A ještě se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid032reFEk2FVDK5XJ9zYMooG7tmZPJm4moaEpoAP1Byu971NWuY3N9PWBWjggjRuXcul): 
@@ -17681,10 +17681,10 @@ timeline:
         sort: "2025-08-22"
         image: assets/img/timeline/2025-08-22.jpg
         pictures:
-          - ["2025-08-22-1.jpg", ""]
-          - ["2025-08-22-2.jpg", ""]
-          - ["2025-08-22-3.jpg", ""]
-          - ["2025-08-22-4.jpg", ""]
+          - ["2025-08-22-1.jpg", "Tolstyj."]
+          - ["2025-08-22-2.jpg", "Farmaření na Ukrajině."]
+          - ["2025-08-22-3.jpg", "Kim vzdal hold padlým."]
+          - ["2025-08-22-4.jpg", "Kosťantynivka."]
         desc: |
           Ukrajina už potřetí za poměrně krátkou dobu zasáhla ropovod Družba, konkrétně přečerpávací stanici Uneča u Brjansku. Orbán si kvůli útoku postěžoval svému „kamarádovi“ Trumpovi, který mu na ručně psaném vzkazu odpověděl: „Viktore, to slyším velmi nerad – jsem kvůli tomu naštvaný. Vyřiď Slovensku, že jsi můj velký přítel.“ Maďarsko se pak oficiálně obrátilo na Evropskou komisi, aby zajistila energetickou bezpečnost členských států, konkrétně Slovenska a Maďarska. Nejlépe na fňukání Maďarska odpověděl polský ministr zahraničí Sikorski, který reagoval na tweet svého maďarského protějšku Pétera Szijjártóa slovy: „Pétere, máte tolik naší solidarity, kolik projevujete vy nám.“ A pak ještě [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0EB78nBtkwXeSsk3eMGyCMoZf8tfnGGsvrrkeg1s2dFy9rkCdgexgRRAy61DJfSD2l): 
         detail: |
@@ -17726,7 +17726,10 @@ timeline:
         year: "21. srpna 2025" 
         sort: "2025-08-21"
         pictures:
-          - ["2025-08-21-1.jpg", ""]
+          - ["2025-08-21-1.jpg", "Ráno na Ukrajině."]
+          - ["2025-08-21-2.jpg", "Flex, Mukačevo."]
+          - ["2025-08-21-3.jpg", "Mapa náletu."]
+          - ["2025-08-21-4.jpg", "Ruský voják s velikou rušičkou okem ukrajinského FPV dronu. Nefungovala."]
         image: assets/img/timeline/2025-08-21.jpg
         desc: |
           Noc ze středy na čtvrtek znamenala další rozsáhlý ruský nálet na cíle převážně na západní Ukrajině. Ve vzduchu bylo v jednu chvíli 574 dronů a také 40 raket nebo střel s plochou dráhou letu. Několik střel s plochou dráhou letu zasáhlo v Mukačevu závod americko-singapurské společnosti Flex, která vyrábí spotřební elektroniku a nijak se nezapojuje do vojensko-průmyslové výroby. Po zásahu je na místě nejméně 23 raněných. V Sumách zasáhli Rusové znovu areál tamější univerzity. Ta tak přišla za jedinou noc o 15 000 knížek z univerzitní knihovny, která lehla popelem. A mezitím se dělo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02GeppDCwoZh59jKXQJruUfmyF6UXukAvt5AXST4ekwSUo4C34qYaffPgkFXHz3WjVl): 
@@ -17767,10 +17770,10 @@ timeline:
         year: "20. srpna 2025" 
         sort: "2025-08-20"
         pictures:
-          - ["2025-08-20-1.jpg", ""]
-          - ["2025-08-20-2.jpg", ""]
-          - ["2025-08-20-3.jpg", ""]
-          - ["2025-08-20-4.jpg", ""]
+          - ["2025-08-20-1.jpg", "Syrský na frontě."]
+          - ["2025-08-20-2.jpg", "Situace u Pokrovsku."]
+          - ["2025-08-20-3.jpg", "Izmajl."]
+          - ["2025-08-20-4.jpg", "Ten Fico..."]
         image: assets/img/timeline/2025-08-20.jpg
         desc: |
           Ukrajinci dál postupně likvidují ruské jednotky, které nedávno prolomily ukrajinskou linii severně od Pokrovsku. Nově vyčistili od okupantů vesnici Kučeriv Jar. Zajímavá je situace v lese východně od vesnice. Tam se zakopalo několik desítek (ale potenciálně až nižší stovky) Rusů a nemají kam ustoupit. Ukrajinci nyní tento ostrůvek odporu devastují dělostřelectvem a probíhají akce k likvidaci nebo zajetí zbývajících přeživších. A taky se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0zzk2knggLEQuCFix4ixpTNaXVsYqMPbCUXuySAWzeYKGRCsH5v55pYzyqy1JZ2mml):
@@ -17815,10 +17818,10 @@ timeline:
         sort: "2025-08-19"
         image: assets/img/timeline/2025-08-19.jpg
         pictures:
-          - ["2025-08-19-1.jpg", ""]
-          - ["2025-08-19-2.jpg", ""]
-          - ["2025-08-19-3.jpg", ""]
-          - ["2025-08-19-4.jpg", ""]
+          - ["2025-08-19-1.jpg", "Žijeme ve stupidní době."]
+          - ["2025-08-19-2.jpg", "Ruský vlak."]
+          - ["2025-08-19-3.jpg", "Mapa náletu."]
+          - ["2025-08-19-4.jpg", "Ruské dárky v Kremenčuku."]
         desc: |
           Zatímco ve Washingtonu jednali západní lídři se Zelenským a Trumpem, Rusko po delší odmlce podniklo rozsáhlý nálet, aby „vyslalo signál“. Ve vzduchu bylo 270 dronů, 5 balistických raket a 5 střel s plochou dráhou letu. Cílem byla ropná a plynová infrastruktura u dvou měst – Kremenčuk a Lubny. V Kremenčuku ruské rakety rozprášily tisíce kusů tříštivé submunice, samospráva kvůli tomu musela vydat mimořádné varování, protože nevybuchlé kusy můžou zabíjet po kontaktu nebo otřesu. Tak se chová země, která chce podle páté kolony mír. Ale teď další [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0Qt5CEP7nTGYBB4eXvEPHPf6trSyBKTGe8qZTZjVz8PbXxqkw3QmqcKfopK61HYcyl):
         detail: |
@@ -17847,10 +17850,10 @@ timeline:
         year: "18. srpna 2025" 
         sort: "2025-08-18"
         pictures:
-          - ["2025-08-18-1.jpg", ""]
-          - ["2025-08-18-2.jpg", ""]
-          - ["2025-08-18-3.jpg", ""]
-          - ["2025-08-18-4.jpg", ""]
+          - ["2025-08-18-1.jpg", "V Bílém domě."]
+          - ["2025-08-18-2.jpg", "Charkov."]
+          - ["2025-08-18-3.jpg", "Sumy."]
+          - ["2025-08-18-4.jpg", "Ruská legie zajala krajany."]
         image: assets/img/timeline/2025-08-18.jpg
         desc: |
           Ve Washingtonu proběhlo setkání Trumpa se Zelenským i následný summit s účastí evropských lídrů. Obě strany si průběh pochvalovaly, ale zdá se, že žádné zásadní rozhodnutí nepřišlo. Trump už předem oznámil, že Zelensky může válku ukončit, pokud se vzdá Krymu a členství v NATO. Zároveň měl svůj obvyklý amok na Truth Social, ve kterém si postěžoval na názory novinářů a analytiků a vzkázal jim, že nepotřebuje jejich rady, protože „už letos ukončil šest různých válek a ví, co dělá“. Evropští lídři se snažili hrát na Trumpovo ego a manipulovat ho správným směrem, přesto Trump na konci setkání sdělil, že po skončení summitu musí zavolat Putinovi, protože mu to slíbil. A ještě se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid031tcdp8NAMfp3pX2G9WwrFgeNsk6G5MMjpN3aE68KqMgTBybA7ZS44RLW3JKUP3i4l): 
@@ -17882,10 +17885,10 @@ timeline:
         sort: "2025-08-17"
         image: assets/img/timeline/2025-08-17.jpg
         pictures:
-          - ["2025-08-17-1.jpg", ""]
-          - ["2025-08-17-2.jpg", ""]
-          - ["2025-08-17-3.jpg", ""]
-          - ["2025-08-17-4.jpg", ""]
+          - ["2025-08-17-1.jpg", "Zajatý u Turecku."]
+          - ["2025-08-17-2.jpg", "Zajatci od Pokrovsku."]
+          - ["2025-08-17-3.jpg", "Bývalá ruská továrna Elastik."]
+          - ["2025-08-17-4.jpg", "Azovci."]
         desc: |
           Když americký ministr zahraničí Rubio říká, že „obě strany konfliktu budou muset udělat ústupky ze svých požadavků“, nevyhnutelně (a možná záměrně) tím ohýbá veřejnou diskuzi ve prospěch Ruska. Ukrajina s Ruskem nemá „konflikt“. Ukrajina se brání na svém území poté, co ji Rusko napadlo s cílem její území zabrat. A Ukrajina má jediný požadavek: aby Rusové odtáhli k sobě domů. Hledat „kompromis“ mezi ukrajinskou touhou po svobodě a ruskou genocidní agresí tak nutně vede k tomu, že Rusko pouze něco získá, zatímco Ukrajina pouze něco ztratí. A taková mezinárodní politika je buď neskutečně naivní až stupidní, nebo velmi, velmi zákeřná. Ale teď už [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0p2NdQuHXN5eYU5Ep5zqn1XYNEL6wNpT42UTKzCozUGdwS1kx5rf9Simi3H141Ruzl):
         detail: |
@@ -17920,10 +17923,10 @@ timeline:
         sort: "2025-08-16"
         image: assets/img/timeline/2025-08-16.jpg
         pictures:
-          - ["2025-08-16-1.jpg", ""]
-          - ["2025-08-16-2.jpg", ""]
-          - ["2025-08-16-3.jpg", ""]
-          - ["2025-08-16-4.jpg", ""]
+          - ["2025-08-16-1.jpg", "Putin a Krasov jsou kamarádi do deště."]
+          - ["2025-08-16-2.jpg", "Loď v Astrachani."]
+          - ["2025-08-16-3.jpg", "Situace nad Pokrovskem."]
+          - ["2025-08-16-4.jpg", "Ruská raketa v ukrajinském bytě."]
         # https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0EzwJy5MErFQHnvkVETK95Ec97qvNR8iAskhN4gXgSnEjZxhcwkrEjm7uYvFcDqC8l
         desc: |
           Summit na Aljašce dopadl přesně tak, jak všichni očekávali: Putin získal obří objem propagandistického materiálu pro své PR, zatímco Trump nezískal vůbec nic, kromě fotky s Putinem a spousty ponižujících momentů pro celé Spojené státy. A překvapivě se na tom shodují lidé napříč politickým spektrem včetně americké konzervativně-pravicové stanice FOX News, která nedokázala skrývat rozčarování nad tím, jak slabý byl Trump vedle největšího vraha 21. století. Bývalý republikánský guvernér Kalifornie a filmová star Arnold Schwarzenegger vzkázal Trumpovi, že „stál vedle Putina jako malá rozmáčená nudle“. Podle lídra sněmovních demokratů Chucka Schumera poskytl Trump Putinovi legitimitu, globální pódium a nulovou odpovědnost, aniž by získal cokoliv na oplátku. Delegace dokonce zrušily plánovaný společný oběd a tiskovou konferenci (jen krátce sdělily svá stanoviska, aniž by přijímaly dotazy od novinářů). Ve svém prohlášení se Putin pokoušel hrát na Trumpovo ego, přitakal mu, že kdyby byl prezidentem on namísto Bidena, tak by válka jistě nezačala. Také cynicky pronesl, že Rusko považuje Ukrajinu za bratrský národ, a proto je válka pro Rusko strašnou tragédií (typický rys fašismu je, že se za každou cenu označuje za oběť, a to i svých vlastních činů). Třešničkou bylo jeho přání, aby hlavně Evropa nepřekazila dohodu mezi Ruskem a Amerikou. Trump každopádně označil summit za „10 z 10“ a dodal, že míč je na straně Ukrajiny. Později si pak Trump volal se Zelenským a evropskými lídry a údajně jim sdělil, že Putin nepřistoupí na příměří, protože požaduje jasně formulovanou mírovou dohodu (aka kapitulaci Ukrajiny). 
