@@ -20708,9 +20708,10 @@ timeline:
         sort: "2025-06-09"
         image: assets/img/timeline/2025-06-09.jpg
         pictures:
-          - ["2025-06-09-1.jpg", "Stav, v jakém Rusko vrátilo nedávno jednoho z ukrajinských zajatců. Na boku má vypálený nápis „Sláva Rusku“."]
-          - ["2025-06-09-2.jpg", "Jsou doma!"]
+          - ["2025-06-09-1.jpg", "Jsou doma!"]
+          - ["2025-06-09-2.jpg", "Stav, v jakém Rusko vrátilo nedávno jednoho z ukrajinských zajatců. Na boku má vypálený nápis „Sláva Rusku“."]
           - ["2025-06-09-3.jpg", "Rylsk."]
+          - ["2025-06-09-4.jpg", "Ruská „sajdkára“."]
         desc: |
           Ukrajinská PVO po dlouhé době zažila noc, kterou lze označit za poměrně úspěšnou. Podařilo se jí neutralizovat 464 ze 499 ruských kamikadze dronů (277 sestřeleno, 187 potlačeno systémy EW), ale také 4 ze 4 raket Kinžál, 10 z 10 střel Ch-101, 2 ze 3 raket Ch-22, 2 ze 2 protiradarových střel Ch-31P a 1 z 1 střel Ch-35, což dává dohromady přibližně 96% úspěšnost protivzdušné obrany. Jedním z cílů ruského útoku byla ukrajinská letecká základna ve městě Dubno, kterou podle dat ze satelitů (FIRMS) pravděpodobně zasáhlo několik dronů, ale není zřejmé, zda bylo poškozeno něco dalšího kromě samotné plochy. A ještě se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0ou1zAvWTmC1FAC61ZfWwQs37z3Q5kqg3VXfXDea76QB8ZY5ZKXfT3PNfGDkn88mvl): 
         detail: |
@@ -20756,9 +20757,9 @@ timeline:
         sort: "2025-06-08"
         image: assets/img/timeline/2025-06-08.jpg
         pictures:
-          - ["2025-06-08-1.jpg", ""]
-          - ["2025-06-08-2.jpg", ""]
-          - ["2025-06-08-3.jpg", ""]
+          - ["2025-06-08-1.jpg", "Kstovo."]
+          - ["2025-06-08-2.jpg", "Charkov."]
+          - ["2025-06-08-3.jpg", "Erol Musk."]
         desc: |
           Operace Pavučina má velmi důstojné pokračování. Na okupovaném území na východní Ukrajině byl zcela zničen ešelon vezoucí tanky, obrněná vozidla a další vojenský materiál a techniku. To je samo o sobě fantastická zpráva. Nejúžasnější je ale způsob, jakým byla akce provedena. Rusové zapřáhli vlaky s technikou k lokomotivě, která kromě nich táhla několik vagónů určených k přepravě obilí z okupovaných území. Ukrajinci nejprve zasáhli lokomotivu, v důsledku čehož se vlak zastavil. Vzápětí se podle svědků otevřela víka obilných vagónů a začaly z nich vylétávat FPV drony. Kromě lokomotivy bylo následně zasaženo a povětšinou i zcela zničeno 13 bitevních tanků, 7 děl, 103 kusů obrněných transportérů a jiných pěchotních vozidel a také deset cisteren s palivem o celkovém objemu okolo 170 000 galonů paliva. Ruští vojenští blogeři jsou naprosto nepříčetní a začínají hledat viníky v řadách vlastní armády a rozvědky. A ještě se děje [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0TqAYBrfAHk9TfAtEFub5fwpKNVWX8DEpJRY12YcoFEJGuEMthDzFYKexR8tNh5Rzl): 
         detail: |
@@ -20796,10 +20797,10 @@ timeline:
         sort: "2025-06-07"
         image: assets/img/timeline/2025-06-07.jpg
         pictures:
-          - ["2025-06-07-1.jpg", ""]
-          - ["2025-06-07-2.jpg", ""]
-          - ["2025-06-07-3.jpg", ""]
-          - ["2025-06-07-4.jpg", ""]
+          - ["2025-06-07-1.jpg", "Charkov."]
+          - ["2025-06-07-2.jpg", "Dostál a Uhrik v Bělorusku."]
+          - ["2025-06-07-3.jpg", "Po ruském útoku."]
+          - ["2025-06-07-4.jpg", "Vývoj v Sumské oblasti."]
         desc: |
           Charkov dnes zažil jeden z největších útoků od samého začátku války. Rusové čtyři hodiny v kuse vrhali na město rakety, drony, klouzavé pumy i dělostřelecké granáty. Nejméně 6 lidí bylo zabito a dalších 17 zraněno. Většina obětí uhořela v bytech, které nemohli požárníci začít hasit, protože Rusové opakovaně zasahovali stejná místa – nejspíš právě proto, aby opět zabili nebo zmrzačili co nejvíce zasahujících policistů a záchranářů. Rusové na Charkov vyslali nejméně 54 dronů, bomb a raket. A mezitím se dělo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Qomj4gNkDTGeb21H7yPkFkX8d2YwH1RMrF91FDB7Ve5TmvgmfXsrnyCEuUuhndd3l): 
         detail: |
@@ -20841,10 +20842,10 @@ timeline:
         sort: "2025-06-06"
         image: assets/img/timeline/2025-06-06.jpg
         pictures:
-          - ["2025-06-06-1.jpg", ""]
-          - ["2025-06-06-2.jpg", ""]
-          - ["2025-06-06-3.jpg", ""]
-          - ["2025-06-06-4.jpg", ""]
+          - ["2025-06-06-1.jpg", "Kyjev."]
+          - ["2025-06-06-2.jpg", "Kyjev."]
+          - ["2025-06-06-3.jpg", "Engels."]
+          - ["2025-06-06-4.jpg", "Ráno po náletu."]
         desc: |
           Obě strany konfliktu v noci útočily pomocí raket a kamikadze dronů. Ukrajincům se podařilo zasáhnout skladiště leteckého paliva u vojenského letiště Engels-2 u Saratova, následkem čehož vypukl v místě masivní požár. Zasaženo bylo také vojenské letiště Ďagilevo u Rjazaně. Brjansk hlásí, že ukrajinské rakety zničily stanoviště ruské PVO nebo raketového dělostřelectva. V Bělgorodu byla zasažena budova soudu, ve kterém v minulosti probíhalo několik zinscenovaných procesů s ukrajinskými zajatci. V Tambovské oblasti pak byla pod útokem fabrika Pokrok vyrábějící součástky pro ruská letadla a rakety. Ruský útok vedle několika potenciálně strategických cílů – například závodu na výrobu motorů v Lutsku – měl opět za cíl primárně terorizovat civilní populaci. Celkem letělo na Ukrajinu 407 dronů a 44 raket/střel (do cíle díky PVO a EW systémům nedoletělo 368 dronů a 38 raket). Zasaženy byly mimo jiné paneláky, klinika, gymnázium, prvky energetické infrastruktury. V Kyjevě dopadl dron před vchod Dostojevského knihovny a na vchod do metra. Zasažen byl také hotel v Lutsku. Hotely jsou obecně oblíbenými cíli Rusů, protože často hostí zahraniční novináře, humanitární pracovníky a další dobrovolníky. Tento konkrétní hotel Motor ale ubytovával ukrajinský národní atletický tým. Jen zázrakem v něm nebyl nikdo zraněn. Stejné štěstí ale neměli hasiči, kteří zasahovali v Kyjevě. 3 z nich byli zabiti, když se snažili hasit vznikající požáry při probíhajícím útoku. A ještě se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02E4QAaci5F7NgqunDS8uDprH5qgjzaFye8s5Lc1DM1VrrkR9XZjxu81YDzN4exvNil): 
         detail: |
@@ -20886,11 +20887,11 @@ timeline:
         sort: "2025-06-05"
         image: assets/img/timeline/2025-06-05.jpg
         pictures:
-          - ["2025-06-05-1.jpg", ""]
-          - ["2025-06-05-2.jpg", ""]
-          - ["2025-06-05-3.jpg", ""]
-          - ["2025-06-05-4.jpg", ""]
-          - ["2025-06-05-5.jpg", ""]
+          - ["2025-06-05-1.jpg", "Pryluky ráno."]
+          - ["2025-06-05-2.jpg", "Oběti ruského náletu."]
+          - ["2025-06-05-3.jpg", "Rusové vybombardovali sámošku v Nikopolu."]
+          - ["2025-06-05-4.jpg", "Situace v Sumské oblasti."]
+          - ["2025-06-05-5.jpg", "Francouzský Mirage nechal na nebi vzkaz."]
         desc: |
           Po dalším summitu formátu Ramstein oznámila Británie, že letos poskytne Ukrajině pomoc v celkové hodnotě okolo 4,5 miliardy. Německo poskytne dokonce 5 miliard eur, a to primárně formou financování výroby raket a dronů s dlouhým doletem přímo na Ukrajině. Nizozemsko poskytne minolovku a další lodě a námořní drony v hodnotě 400 miliónů eur. Belgie se zavázala k poskytnutí financování ve výši miliardy eur ročně v příštích pěti letech a také předá Ukrajině jednu svou minolovku. Norsko poskytne celkem 750 miliónů dolarů, z toho 700 miliónů na nákup a výrobu dronů. Kanada poskytne 45 milionů dolarů na systémy elektronického boje a IT systémy. Také dodá Ukrajině další transportní vozidla. Švédsko zafinancuje nákup dělostřelecké munice, dronů a zbraní v hodnotě okolo 440 miliónů eur. A mezitím se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0nzNm3ptVFW87aNWhpG2rHkTiWa7HAWSEfXytegsVsQWaZ9y5WwwbykrG1cBgj9wml): 
         detail: |
@@ -20928,9 +20929,9 @@ timeline:
         year: "4. června 2025"
         sort: "2025-06-04"
         pictures:
-          - ["2025-06-04-1.jpg", ""]
-          - ["2025-06-04-2.jpg", ""]
-          - ["2025-06-04-3.jpg", ""]
+          - ["2025-06-04-1.jpg", "Těmhle retuše nepomůžou."]
+          - ["2025-06-04-2.jpg", "V Kolomně hoří ruská základna."]
+          - ["2025-06-04-3.jpg", "Rusové narvali výbušniny do mršiny a jdou ji shodit z dronu."]
         image: assets/img/timeline/2025-06-04.jpg
         desc: |
           Ruská propaganda se urputně snaží z operace Pavučina vytěžit jakékoliv pozitivní body, a tak popírá, spinuje a lže jako o život. Když pomineme obvyklou taktiku „to se nestalo“ a „to se stalo, ale Ukrajincům“, je tu jeden zajímavý a jeden komický narativ. Ten zajímavý se snaží prezentovat ukrajinský útok na ruské strategické bombardéry, které jsou součástí ruské jaderné triády, jako porušení mezinárodní úmluvy START o jaderném odzbrojení. Prý podle smlouvy musí být bombardéry venku na plochách a zlotřilá Ukrajina toho zneužila. Skutečností je, že Ukrajina není vůbec mezi signatáři smlouvy (START I, II i III jsou dohody pouze mezi USA a Ruskem), od smlouvy New START pak Rusko jednostranně odstoupilo v roce 2023. Smlouva navíc nikdy nepožadovala, aby bombardéry stály venku na nechráněných plochách, pouze nařizovala, aby byly jaderné síly kontrolovatelné a jejich provozovatelé je poskytli k případným inspekcím. Rusové je neměli v hangáru jednoduše proto, že nemají prostředky na to, vybudovat nákladné hangáry pro tak velké stroje. Ten komický se pak snaží vykreslit ztrátu bombardérů jako „prokázání služby Rusku“, protože prý letadla beztak byla stará a nákladná na provoz, a tak Ukrajina sundala Rusku z nohy kouli. Komický je proto, že stroje sice jsou staré, ale Rusko je bez ustání využívalo k pálení raket na Ukrajinu, a také jsou integrální součástí ruské odstrašující síly, mimo jiné proto, že nic novějšího Rusko nikdy nevyrobilo a nejspíš ani vyrobit neumí. Je to tedy narativ určený zejména pro ty nejhloupější diváky. A ještě se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0u8WWwVSSpkMf6XrEP5tfEznTu7cpQvck3KTr4mW9K9CASBz3khy7tEkTk1BWAXJCl): 
@@ -20970,10 +20971,10 @@ timeline:
         sort: "2025-06-03"
         image: assets/img/timeline/2025-06-03.jpg
         pictures:
-          - ["2025-06-03-1.jpg", ""]
-          - ["2025-06-03-2.jpg", ""]
-          - ["2025-06-03-3.jpg", ""]
-          - ["2025-06-03-4.jpg", ""]
+          - ["2025-06-03-1.jpg", "Sumy."]
+          - ["2025-06-03-2.jpg", "Sumy."]
+          - ["2025-06-03-3.jpg", "Ruský postup na Sumy."]
+          - ["2025-06-03-4.jpg", "Krymský most."]
         desc: |
           Pokud jste hádali, že Rusko se bude za útok na své bombardéry mstít na civilní populaci, pak si po dnešním ránu můžete odškrtnout „útok na civilisty“ na své bingo kartičce. Ruské raketové dělostřelectvo dopoledne ostřelovalo centrum Sum raketami s kazetovou hlavicí ze systémů Tornado-S. Rakety dopadly na civilní zástavbu a ulice poblíž jedné ze sumských vysokých škol a nejméně jednoho člověka zabily a další lidi zranily. Vzhledem k tomu, že sami Rusové uvádějí, že kruhová odchylka u systému Tornado-S je 3-15 metrů od cíle, je evidentní, že útok byl naprosto úmyslný. Rusové prostě chtěli zasáhnout civilisty, nejspíše v souvislosti s ofenzivou směrem na Sumy. Když totiž jejich teror donutí civilisty uprchnout, můžou vzápětí eskalovat svoje nálety na jakoukoliv zástavbu, která by mohla sloužit Ukrajincům k obraně. A ještě se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid028mX1ABLyAfEDR3zQ4cRKyedyVLrj5KqP4xCLWqxwcujjaLMdijbqCEduZzsf1BN9l): 
         detail: |
@@ -21012,10 +21013,10 @@ timeline:
         year: "2. června 2025"
         sort: "2025-06-02"
         pictures:
-          - ["2025-06-02-1.jpg", ""]
-          - ["2025-06-02-2.jpg", ""]
-          - ["2025-06-02-3.jpg", ""]
-          - ["2025-06-02-4.jpg", ""]
+          - ["2025-06-02-1.jpg", "Zelenský a Maljuk po úspěšné akci."]
+          - ["2025-06-02-2.jpg", "Kráter po ruské raketě v Charkově."]
+          - ["2025-06-02-3.jpg", "Ruská propaganda."]
+          - ["2025-06-02-4.jpg", "Satelitní snímky letiště Belaja."]
         image: assets/img/timeline/2025-06-02.jpg
         desc: |
           Postupně se vynořují další detaily ke včerejší operaci Pavučina, která vedla ke zničení části strategického letectva Ruské federace. Cílem bylo více základen, ale ne všechny kamiony s drony dokázaly provést svůj úkol. Například kamion s drony mířícími – poněkud symbolicky – k letecké základně Ukrajinka, údajně shořel ještě po cestě. Drony byly naváděny pomocí ruských mobilních sítí a umělé inteligence, která se cvičila na obrysech letadel nad leteckým muzeem v Poltavě. Koordinátor celé akce, šéf civilní rozvědky Vasyl Maljuk, prozradil, že díky charakteru akce se podařilo všechny organizátory evakuovat z Ruska ještě před jejím spuštěním. Pokud prý tedy Rusko bude tvrdit, že někoho zadrželo, budou to jen náhodní obětní beránci pro domácí propagandu. Zároveň to znamená, že řidič jednoho z kamionů, kterého přihlížející v rozhořčení uškrtili, byl nejspíš zcela nevinný a neměl o celé akci ani ponětí. Maljuk také tvrdí, že celkový počet zasažených strojů je skutečně 41 na 4 různých základnách, což by odpovídalo 34 % všech ruských strategických bombardérů. Satelitní snímky a videa v tuto chvíli potvrzují okolo 15 zničených letadel, ale zatím neposkytují úplný obrázek. Je téměř jisté, že číslo bude vyšší. Více i v dalších částech dnešního [přehledu](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02z6AeudET3BwgkBNrmdg97vzhSkJ2b9XKQ3335grwbuevu5TXkeo5vj3gwTcZa1YQl): 
