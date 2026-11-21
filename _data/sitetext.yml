@@ -38,6 +38,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota" 
+        year: "21. listopadu 2026"
+        sort: "2026-11-21"
+        pictures:
+          - ["2026-11-21-1.jpg", "Kyjev."]
+          - ["2026-11-21-2.jpg", "Krivyj Rih."]
+          - ["2026-11-21-3.jpg", "Ruská loď v Baltském moři."]
+          - ["2026-11-21-4.jpg", "Ruská loď v Krasnodarském kraji."]
+        image: assets/img/timeline/2026-11-21.jpg
+        podcast: "2026-11-21.mp3"
+        desc: |
+          Desítky ukrajinských dronů dlouhého doletu v noci zaútočily na Leningradskou oblast, hlavním terčem byl přístav Ust-Luga u Finského zálivu, jeden z největších ruských námořních terminálů pro vývoz ropy, ropných produktů, uhlí a hnojiv. Guvernér Alexandr Drozděnko během noci postupně oznamoval šest, třicet osm, devětačtyřicet, a nakonec jednašedesát sestřelených dronů, takže ruské agentury si čísla pro jistotu sečetly. Ministerstvo obrany v Moskvě tak tvrdí, že mezi osmou večerní a osmou ranní zneškodnilo 275 ukrajinských dronů nad jedenácti regiony, Krymem a Černým mořem. Jedním z cílů útoku byla ruská nákladní loď SPARTA II plující Baltským mořem se zásobami do přístavu v Kaliningradu. Loď nyní hoří a unáší ji proud kdesi ve Finském zálivu. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0XLA5pN9Xogb7haaZThXXzoD2AtLz8SoB7HdDznr5HcgPMFUhFRzRHTfRpiwoR5y4l):
+        detail: |
+          - V Kryvém Rihu zabil ruský úder sedmiletého chlapce a dvacetiletého záchranáře. Dvě balistické rakety dopadly na parkoviště u restaurace v centru města, kde byly rodiny s dětmi, a když na místo dorazili hasiči, zdravotníci a pyrotechnici, poslalo Rusko na stejný bod ve třech dalších vlnách své Shahedy. Počet zraněných vyšplhal na 58, mezi nimi je šest dětí a tři lidé od záchranky a DSNS. V městských nemocnicích skončilo 28 lidí včetně pěti dětí, nejmladší zraněné dívce jsou tři roky, jedenáct lidí je ve vážném stavu a pět leží na intenzivní péči, mezi nimi sedmnáctiletý chlapec. Zelenskyj včera k Trumpovu „příteli“ Putinovi řekl: „Pro nás je to nepřítel a samozřejmě je to pro nás vrah. Je vrah, protože zabíjí.“ A Putin to obratem potvrdil. 
+          - Ukrajinské protikorupční instituce tvrdí, že se staly terčem koordinované dezinformační kampaně, protože jejich vyšetřování se dostalo k „jádru korupčního systému“ v orgánech činných v trestním řízení. Šéf NABU mluví o jediném centru, které útok řídí, a o tom, že ho podporují někteří podezřelí z jeho vlastních kauz. Cílem je podle něj přesunout pozornost „od vyšetřování k politice, konspiračním teoriím a lžím“. Vedoucí SAPO Oleksandr Klymenko dodal, že šířené narativy nemají s realitou nic společného. Mezi těmi, kdo vyšetřovatele veřejně napadli, je generálmajor Serhij Duka obviněný ze spoluúčasti na organizovaném zločinu. Argumentace je u všech podobná: vyšetřování je podle nich „politický tlak, který škodí Ukrajině, Zelenskému a mírovým jednáním“. 
+          - Do Kyjeva přijel britský ministr obrany Wes Streeting a Zelenskyj  při té příležitosti označil ukrajinské údery na Krymský most za „spravedlivou odpověď“ na 109 ruských útoků na ukrajinské mosty. Putinovo tvrzení, že most slouží výhradně civilním účelům, odmítl odkazem na snímky ruské vojenské techniky, která po něm zásobuje Krym. Streeting nazval rakety, které v pátek dopadly na Polsko během cvičení koalice ochotných, „pobuřující provokací“ a jejich načasování „více než náhodou“. Na otázku, jak má NATO odpovědět, řekl, že nejlepší odpovědí je udělat pro Ukrajinu víc. Putina označil za chladnokrevného vraha a vyzval spojence, aby na zimu poskytli Ukrajině víc, než už slíbili. 
+          - Dánsko vyhostilo ruského vojenského atašé a dalo mu sedm dní na odjezd, ruského velvyslance si předvolalo na ministerstvo zahraničí. Tajná služba PET dospěla k závěru, že za zmařeným plánem zabít ukrajinsko-amerického rappera Kyivstonera, vlastním jménem Alberta Vasyljova, stála ruská rozvědka, která si na to najala členy zakázaného gangu Loyal to Familia. Policie ale zastavila auto se třemi muži, z nichž dva měli u sebe dvě nabité pistole a dva nože. Šéf PET Rasmus Kieffer-Kristensen označil pokus za v Dánsku bezprecedentní a ministr zahraničí Lars Løkke Rasmussen připustil, že Kodaň zvažuje omezení schengenských víz pro Rusy.
+          - Rusko odmítlo bezpečnostní záruky pro Ukrajinu po vzoru článku 5. Náměstek ministra zahraničí Sergej Rjabkov označil hledání „kreativního řešení“ v podobě „jakéhosi kvazičlenství“ v NATO za nepřijatelné a zdůraznil, že debata o zárukách se má točit především kolem ruských bezpečnostních zájmů. Moskva navíc čeká, že se Ukrajina členství v NATO sama vzdá, a považuje to za předpoklad dalších jednání. Americký vyslanec Jared Kushner přitom po berlínském jednání tvrdil, že se Washingtonu podařilo Moskvu k zárukám podle článku 5 přesvědčit. 
+          - Nastupující předseda sněmovního výboru pro zpravodajské služby, demokrat Jim Himes, napsal národnímu zpravodajskému řediteli Jayi Claytonovi, že jeho výbor nemůže schvalovat financování vládních systémů, které vláda plně neovládá. Mluví konkrétně o systému Starshield, vojenské verzi Starlinku. Himes chce vědět, kdo zpomalení nařídil, a v samostatném dopise požádal o schůzku Elona Muska: zajímá ho, jaké změny SpaceX v říjnu provedl, proč a zda jednostranně, nebo na pokyn americké vlády. 
+          - V noci zasáhl dron pětipatrový panelák v Solonycivce v Charkovské oblasti, zraněno bylo jedenáct lidí včetně dvou dětí. V Záporoží Rusové zasáhli mateřskou školku, v sousedním pětipatrovém domě začal hořet byt a zraněn byl starší muž. Kryvyj Rih dostal další dronový zásah, hořelo v průmyslovém podniku. V Rivnenské oblasti úder zničil budovu civilního podniku a bez elektřiny zůstalo více než padesát sídel sarnenského okresu.
+          - Podle Financial Times řekli američtí vyjednavači Evropanům a Ukrajincům, že Bílý dům chce mít mírovou dohodu hotovou do začátku ledna 2027, tedy než demokraté převezmou kontrolu nad oběma komorami Kongresu. Jeden z evropských činitelů to ale shrnul jasně: „Američané spěchají, Putin nespěchá.“
+          - Rusko podle mluvčího ukrajinského námořnictva Dmytra Pletenčuka nemá technické možnosti Krymský most opravit. Technické podmínky, které Rusové měli před invazí, už prý neexistují. Kromě pozemní trasy přes okupované Azovské pobřeží zbývají dva trajekty tahané remorkéry, a ty závisí na počasí.
+          - Termín dalšího kola jednání ve formátu Ukrajina–Evropa–Rusko–USA závisí podle Zelenského na Spojených státech, které musí sladit agendu se všemi stranami. Washington chce podle něj jednat co nejdřív, Rusko se je snaží oddálit. 
+          - Ukrenergo nechalo platit odstávky elektřiny po celou sobotu, což pro domácnosti znamená šest až dvanáct hodin bez proudu. Pro průmysl stále platí omezení výkonu.
+          - NATO a Ukrajina připravují koncept posílených opravárenských center pro techniku blíž k frontě.
+          - Zelenskyj: „Putin musí pochopit, že Krymský most nezůstane stát.“ 
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1029831275772125519)
+          - [Dvojitý úder na Krivyj Rih](https://pixelfed.cz/p/dnesnaukrajine/1029829542955565348)
+          - [Rusové obnovili mechanizované útoky](https://pixelfed.cz/p/dnesnaukrajine/1029829601332252966)
+          - [Kyjev, nevybuchlá hlavice](https://pixelfed.cz/p/dnesnaukrajine/1029829635938062634)
+          - [Mínus pěkná hromádka](https://pixelfed.cz/p/dnesnaukrajine/1029829665063498027)
+          - [IRIS-T v akci](https://pixelfed.cz/p/dnesnaukrajine/1029829691263738156)
+          - [Citlivé: Rus jel na pozice na koni](https://pixelfed.cz/p/dnesnaukrajine/1029829993283387707)
+          - [Krymský most](https://pixelfed.cz/p/dnesnaukrajine/1029830021639057724)
       - title: "Pátek" 
         year: "20. listopadu 2026"
         sort: "2026-11-20"
