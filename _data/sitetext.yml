@@ -38,6 +38,46 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Neděle" 
+        year: "22. listopadu 2026"
+        sort: "2026-11-22"
+        pictures:
+          - ["2026-11-22-1.jpg", "Idiot Trump."]
+          - ["2026-11-22-2.jpg", "Ládování děla."]
+          - ["2026-11-22-3.jpg", "Po ruských náletech."]
+          - ["2026-11-22-4.jpg", "Po ruských náletech."]
+        image: assets/img/timeline/2026-11-22.jpg
+        podcast: "2026-11-22.mp3"
+        desc: |
+          V Dymeru ve Vyšhorodském rajónu zasáhl v noci ruský dron pětipodlažní dům. Devět lidí se podařilo evakuovat, z trosek ale záchranáři vytáhli tělo jednoho člověka a pod sutinami může zůstávat dalších sedm. Úřady se celé dopoledne nemohly dovolat čtrnácti obyvatelům domu. Zraněné jsou tři osoby, mezi nimi dvaadvacetiletá žena a dítě, poškozená je i místní školka. Rusko přes noc vypustilo na Ukrajinu 186 dronů z osmi směrů, z toho 72 proudových Shahedů; protivzdušná obrana sestřelila nebo potlačila 161 z nich, včetně 56 proudových, a zásahy hlásí osmnáct lokalit. A tu samou noc, kdy v Dymeru prohrabávali sutiny domu, zveřejnil Donald Trump na Truth Social fotku, jak si tiskne ruku s Putinem, a opatřil ji velkým nápisem „My Friend“. Šéf senátních demokratů Chuck Schumer mu připomněl, že onen „přítel“ nechal odvléct desetitisíce ukrajinských dětí a zabít desetitisíce civilistů. Republikánský senátor Rick Scott pak nazval Putina „gaunerem“. Trump den předtím v Bílém domě prohlásil, že má s Putinem „fantastické vztahy“, a dodal, že to ruský prezident „nemá lehké“. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02hKxF6LmxvsbZn2NhBXcVWPU6oHw11sNnK9Fah4RYZj1XavcRDoaAu8fpb4gFP9QGl):
+        detail: |
+          - Ruská nákladní loď Sparta II stále hoří ve Finském zálivu. Plavidlo dlouhé 121 metrů patří společnosti Oboronlogistika, která zajišťuje logistiku ruskému ministerstvu obrany, a je na sankčním seznamu amerického ministerstva financí. Loď vyplula v pátek z Petrohradu do Kaliningradu a drony ji zasáhly v mezinárodních vodách západně od ostrova Gogland. Všech šestnáct členů posádky se evakuovalo na jinou ruskou loď a míří domů, hořící plavidlo zůstalo zakotvené ve finských vodách, kde ho několik plavidel celou noc chladilo vodními děly. Finský premiér Petteri Orpo v reakci napsal, že „Ukrajina má právo bránit se agresorovi“. Velitel estonského námořnictva Ivo Vark pro ERR řekl, že další útoky ve Finském zálivu nelze vyloučit. Velitel pobřežní stráže Mikko Simola navíc uvedl, že ruský vrtulník během záchranné operace krátce narušil finský vzdušný prostor.
+          - Ukrenergo v neděli oznámilo, že ruské útoky poškodily hlavní vedení zásobující Oděsu a okolní okresy a že je „fyzicky nemožné dodat výkon, který odběratelé potřebují“. Opravářům práci průběžně přerušují letecké poplachy a hrozba nových úderů. Ráno se jim podařilo částečně obnovit dodávky kritickým objektům. Na celý den naplánoval provozovatel soustavy nepřetržité hodinové odstávky pro všechny kategorie odběratelů. A nejtěžší zůstává situace v Odeské a Rovenské oblasti. Domácnosti ve velké části země čekají plánované výpadky v délce čtyř až osmnácti hodin denně. 
+          - V Krasnodaru zasáhly ukrajinské drony hlavní správu Rosgvardije, tedy areál vojenského útvaru 3702 a 47. samostatné brigády operativního určení. Poplach ve městě trval od 23:01 do 05:29. Monitorovací kanály zároveň hlásily výbuchy a dým u Afipské rafinerie dvacet kilometrů jihozápadně od Krasnodaru. Ruské ministerstvo obrany tvrdí, že přes noc sestřelilo 170 ukrajinských dronů nad Brjanskou, Belgorodskou, Kurskou, Voroněžskou, Tulskou a Rostovskou oblastí, Krasnodarským krajem, okupovaným Krymem a Azovským a Černým mořem. 
+          - Zelenskyj znovu vyzval Spojené státy, aby povolily dodávky raket pro Patrioty, které spojenci Ukrajiny už zaplatili v rámci programu PURL. Převod amerických raket ze třetích zemí totiž potřebuje souhlas Washingtonu. Ukrajina letos dostávala v průměru dvanáct kusů munice pro systémy Patriot za měsíc, zatímco velkou část Ruskem vyslaných raket v uplynulém týdnu tvořila balistika, a to především severokorejská. Podle Zelenského Rusko Pchjongjangu jeho zbraně modernizuje tím, že je zkouší na ukrajinských městech.
+          - Kyjev a Londýn dokončily dohodu, podle níž bude Británie na svém území vyrábět pro ukrajinskou armádu drony kategorií „middle strike“ a „deep strike“. Výroba poběží z britských peněz, konkrétně z balíku 500 milionů liber ohlášeného v říjnu jako součást dosud největší britské podpory Ukrajině přesahující deset miliard liber na rok 2027. Kategorie middle strike pokrývá vzdálenosti od asi 35 kilometrů za linií dotyku až po 300 kilometrů, kde začíná pásmo deep strike. 
+          - Moldavské ministerstvo obrany oznámilo, že během ruského útoku opět vstoupil do moldavského vzdušného prostoru z ukrajinské strany proudový dron, a to hned dvakrát. V říjnu Kišiněv po dopadu ruského Geranu nedaleko obytných domů vyhostil pracovníka ruského velvyslanectví.
+          - Ruské ministerstvo obrany tvrdí, že jeho drony Geran zasáhly v ukrajinském zápolí zařízení jedné rafinerie, provozní budovy rozvoden 330 kV a 110 kV, serverovny datového centra MKM Telecom a lokomotivu. Cílem mělo být narušení ukrajinské logistiky a konektivity.
+          - Pohraničníci sestřelili nad Černihivskou oblastí ruskou křídlatou raketu Filin. Podle Státní pohraniční služby jde o první případ. Mobilní skupina raketu zachytila při letu ve velké rychlosti a extrémně nízké výšce a zasáhla ji automatizovaným systémem. 
+          - Švédský pilot Gripenu podle oficiální zprávy nemohl sestřelit ruskou raketu nad Polskem, přestože měl k tomu autorizaci, a to kvůli špatnému počasí. 
+          - Ukrajinští pyrotechnici Státní speciální služby dopravy od začátku invaze odminovali už více než 230 tisíc hektarů osvobozeného území.
+          - V přístavu v lybijském Benghází explodovala ze zatím neznámých důvodů ruská korveta třídy Projekt 20380 Merkury. 
+          - Švédské úřady uvedly, že osoby spojené s Ruskem využívají Revolut k praní špinavých peněz. 
+          - Finsko požaduje od Ruska a Gazpromu více než 25 miliard eur jako kompenzaci.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1030115535772760341)
+          - [Baltijsk](https://pixelfed.cz/p/dnesnaukrajine/1030113990599538947)
+          - [Mínus tanker](https://pixelfed.cz/p/dnesnaukrajine/1030114027878189316)
+          - [Krasnodar, velitelství](https://pixelfed.cz/p/dnesnaukrajine/1030114062284871941)
+          - [Krasnodar](https://pixelfed.cz/p/dnesnaukrajine/1030114100673636614)
+          - [Mínus Filin](https://pixelfed.cz/p/dnesnaukrajine/1030114141009840391)
+          - [Dnipro](https://pixelfed.cz/p/dnesnaukrajine/1030114166785751304)
+          - [Kaliningrad](https://pixelfed.cz/p/dnesnaukrajine/1030114203859605769)
+          - [Kyjev](https://pixelfed.cz/p/dnesnaukrajine/1030114233480231178)
+          - [Denacifikace](https://pixelfed.cz/p/dnesnaukrajine/1030114267120322827)
+          - [Rusové poslali do útoku mrzáka](https://pixelfed.cz/p/dnesnaukrajine/1030114286965840140)
+          - [Sknyliv](https://pixelfed.cz/p/dnesnaukrajine/1030114311557634317)
+          - [Libye, Merkury ](https://pixelfed.cz/p/dnesnaukrajine/1030114338678413582)
       - title: "Sobota" 
         year: "21. listopadu 2026"
         sort: "2026-11-21"
@@ -59882,6 +59922,11 @@ timeline:
       - title: "Čtvrtek"
         year: "15. prosince 2022"
         sort: "2022-12-15"
+        pictures:
+          - ["2022-12-15-1.jpg", ""]
+          - ["2022-12-15-2.jpg", ""]
+          - ["2022-12-15-3.jpg", ""]
+          - ["2022-12-15-4.jpg", ""]
         image: assets/img/timeline/2022-12-15.jpg
         desc: "Bachmut zažívá neustávající boje a kupí se ztráty na obou stranách. Ačkoliv tu mají Rusové násobně vyšší ztráty, stále je to ohromná tragédie i pro ukrajinskou stranu. Rusové se po týdnech intenzivních bojů probojovali k východnímu předměstí k průmyslové zóně. Ukrajinci ale údajně pomocí lokálních protiútoků stabilizovali situaci a z některých míst Rusy vytlačili. Bojuje se i jižně od města v Opytne a Ivanhradu. U Doněcku se Ukrajincům podařilo znovu vstoupit do Marjinky a nyní drží většinu města, respektive toho, co z něj zbylo. Města podél fronty jsou nyní prakticky srovnaná se zemí a daleko za hranou možností na poválečnou rekonstrukci. Ne, takhle skutečně nevede válku armáda, která přichází cokoliv „osvobodit“. Tohle je taktika barbarské hordy – plenit, ničit, mučit, znásilňovat a zabíjet. Srovnejte to se skutečným osvobozením – Chersonu, Kupjansku a dalších měst. Dudy a nebe. Každopádně tady jsou dnešní [novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid0PzjuNPLzYrUqCHJ5hoQwFNviyeqc8KJbxbKFxZzduSpJHzQaG1YFHn1tykLDzgESl)"
         detail: |
@@ -59922,6 +59967,11 @@ timeline:
       - title: "Středa"
         year: "14. prosince 2022"
         sort: "2022-12-14"
+        pictures:
+          - ["2022-12-14-1.jpg", ""]
+          - ["2022-12-14-2.jpg", ""]
+          - ["2022-12-14-3.jpg", ""]
+          - ["2022-12-14-4.jpg", ""]
         image: assets/img/timeline/2022-12-14.jpg
         desc: "Podle Arestoviče Rusko využívá pravděpodobně desítky tisíc vězňů (oficiální odhad je 23 000 v první vlně mobilizace) k útokům na ukrajinské pozice u Bachmutu a na ose Kreminna-Svatove. Řeší tím prý několik věcí najednou. První z nich je vyčerpávání ukrajinské obrany a zásob munice, kdy útoky sice nemají šanci na úspěch, ale postupně obrušují bojeschopnost Ukrajinců před případnými útoky lépe vycvičených jednotek. Zároveň nejspíš Rusko cíleně vězně obětovává, čímž řeší ekonomickou zátěž, kterou jejich věznění představuje. A v neposlední řadě tím získává čas k vycvičení mobilizovaných rezervistů. Podle zdroje v ukrajinských silách vypadají ruské útoky na Bachmut tak, že v prvním sledu jdou vězni s mizernou výstrojí a výzbrojí, za nimi jdou mobilizovaní muži z aktuální vlny mobilizace, a za nimi Wagnerovci nebo Kadyrovci, přičemž každá řada drží tu před sebou na uzdě, a je připravena jim střílet do zad, kdyby chtěli utéct z bojiště. Vítejte v Rusku. Zemi, kde dnes znamená před sto lety. A teď trocha [kontextu](https://www.facebook.com/tomak.dvorak/posts/pfbid0qiYs3bPJEt3RQnSCEyL9mtBFqGDy4fJzZA2cZZqBkuHo6iwiTaQbrzAZzJHVN7Z7l)"
         detail: |
@@ -59975,6 +60025,11 @@ timeline:
       - title: "Úterý"
         year: "13. prosince 2022"
         sort: "2022-12-13"
+        pictures:
+          - ["2022-12-13-1.jpg", ""]
+          - ["2022-12-13-2.jpg", ""]
+          - ["2022-12-13-3.jpg", ""]
+          - ["2022-12-13-4.jpg", ""]
         image: assets/img/timeline/2022-12-13.jpg
         desc: "Nedávno se na Twitteru objevilo video s ruským zajatcem, kde se ho ptají, proč přišel bojovat na Ukrajinu a on jim odpovídá, že chtěl bojovat s Poláky. Tak se ho ptají, proč s Poláky, a on tvrdí, že jim velitelé doma řekli, že na Ukrajinu vtrhli Poláci a chtějí z ní kus ukrojit, tak se tedy sebral a přišel pomáhat Ukrajinu bránit. Není mu přitom vůbec divné, že proti němu stojí Ukrajinci ani že je v zajetí na východě země, zatímco Polsko je u západní hranice. Podobných anekdot přitom Ukrajinci evidují desítky. V zachycených rozhovorech Rusové vypráví, jak na ně v noci nepřátelé ze tmy volají polsky, ale nejsou vidět, tak to prý musí být černoši. Nejspíš na ně přitom křičí ukrajinsky, jen ten rozdíl nepoznají. Ruská propaganda je až neuvěřitelná ve schopnosti prodat různým lidem různé příběhy a nechat všechny své konzumenty sešikovat se za společnou věc, ačkoliv každý její konzument věří něčemu jinému a často se ty příběhy mezi sebou dokonce vylučují. [Novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid0AocYa2PkiRUzPpowjP3qSDBbWaMx3iWNLxSPfXRsFJmeBuE7n2MLe74xwjq56yiml)"
         detail: |
@@ -60015,6 +60070,11 @@ timeline:
       - title: "Pondělí"
         year: "12. prosince 2022"
         sort: "2022-12-12"
+        pictures:
+          - ["2022-12-12-1.jpg", ""]
+          - ["2022-12-12-2.jpg", ""]
+          - ["2022-12-12-3.jpg", ""]
+          - ["2022-12-12-4.jpg", ""]
         image: assets/img/timeline/2022-12-12.jpg
         desc: "Dneska to bude trochu stručnější. Nejde mi ani moc přemýšlet, natož pracovat. Od devíti od rána jsme na cestě, překročení hranic bylo o nervy a přehled píšu až teď, kdy jsme se vystřídali už za českou hranicí za volantem a já se krčím na sedačce spolujezdce s notebookem na klíně, nevyspalý a s vidinou dalších 300 km před námi. Každopádně díky za ohromnou podporu, a to jak materiální, tak finanční, nebo čistě morální. Nebudu vám zatím psát, jaká byla cesta a co jsme zažili. Musím si totiž rozmyslet, jak to celé napsat tak, abych toho prozradil co nejvíc, ale zároveň nikoho nedostal do průšvihu. Tak mi dejte pár dní času a mezitím se udržujte v obraze. Třeba [tady](https://www.facebook.com/tomak.dvorak/posts/pfbid02M8dVnSDRPYJ7HeMbnEkQAdAMrqQxm7r7ShG59LR8HSUGaSfqRkgevziKXfwijGdrl):"
         detail: |
@@ -60051,6 +60111,11 @@ timeline:
       - title: "Neděle"
         year: "11. prosince 2022"
         sort: "2022-12-11"
+        pictures:
+          - ["2022-12-11-1.jpg", ""]
+          - ["2022-12-11-2.jpg", ""]
+          - ["2022-12-11-3.jpg", ""]
+          - ["2022-12-11-4.jpg", ""]
         image: assets/img/timeline/2022-12-11.jpg
         desc: "„Ukrajinu nepochopíš, tu musíš žít,“ řekl mi dneska náš nečekaný spolucestující pokaždé, když jsem se něčemu nestíhal divit. A že toho bylo. Doufám, že na nic důležitého nezapomenu, až budu tuhle cestu házet „na papír“. Už teď ale vím, že vám zdaleka nebudu moct říct o naší cestě úplně všechno. Každopádně vítejte u prvního souhrnu novinek z Ukrajiny... z Ukrajiny. Wi-Fi tu sice nejde, ale mobilní sítě a elektřina alespoň tam, kde dnes spíme, běží. Kdyby člověk nevěděl, že je tahle země ve válce, tak by si toho minimálně prvních několik set kilometrů ani nevšiml. U Lvova bylo ale vidět pár záblesků na horizontu, tak teď marně hledám, jestli Rusové něco trefili, nebo jen pracovala ukrajinská PVO. Každopádně ty další zprávy už jsou trochu [detailnější](https://www.facebook.com/tomak.dvorak/posts/pfbid0aHu8odgFWzk63vJZqpkf8Uf7iuRXJrQ2saPFscDLaYsbZchAU3BB65oTLc2UUjYPl)"
         detail: |
@@ -60089,6 +60154,11 @@ timeline:
       - title: "Sobota"
         year: "10. prosince 2022"
         sort: "2022-12-10"
+        pictures:
+          - ["2022-12-10-1.jpg", ""]
+          - ["2022-12-10-2.jpg", ""]
+          - ["2022-12-10-3.jpg", ""]
+          - ["2022-12-10-4.jpg", ""]
         image: assets/img/timeline/2022-12-10.jpg
         desc: "Snad jste si nemysleli, že když opustím republiku, tak vás ochudím o novinky – to ani náhodou. Jen to teď bude trochu složitější jak s časem, tak internetem, a to zejména zítra. Stále totiž platí, že Ukrajina se po ruských útocích potýká s výpadky elektřiny a tím pádem i ostatních služeb včetně mobilních sítí. Navíc se očekávají další raketové útoky na kritickou infrastrukturu a analytici věří, že Rusko v příštích týdnech obdrží velký objem materiálu včetně raket a dronů od jiného teroristického státu – Íránu. Rusko podle pozorovatelů na oplátku nejspíš přislíbilo Íránu pomoc s rozvojem vlastních vojenských technologií nebo dokonce s jaderným programem. Spolupráce Ruska a Íránu tak potenciálně ohrožuje nejen Ukrajinu, ale i celý Blízký východ, respektive celý svět. Rusko tím zároveň ukazuje, jak je zoufalé a bezradné, když musí využívat externí kapacity, aby dokázalo pokračovat ve své nesmyslné výpravě. A beztak jim taková spolupráce nejspíš zvrátit vývoj války nepomůže. [Posuďte sami](https://www.facebook.com/tomak.dvorak/posts/pfbid027nmNvdF7SnLuys5e64vJkouqPv3yMsUmPjkqeKsbkBDqPoPg6y6aWY9UKgX52qBil)"
         detail: |
@@ -60141,6 +60211,11 @@ timeline:
       - title: "Pátek"
         year: "9. prosince 2022"
         sort: "2022-12-09"
+        pictures:
+          - ["2022-12-09-1.jpg", ""]
+          - ["2022-12-09-2.jpg", ""]
+          - ["2022-12-09-3.jpg", ""]
+          - ["2022-12-09-4.jpg", ""]
         image: assets/img/timeline/2022-12-09.jpg
         desc: "Rusko iniciovalo schůzku Rady bezpečnosti OSN kvůli dodávkách západních zbraní Ukrajině. Zase. Budu se teď hodně kousat do jazyka, abych nebyl vulgární, ale můžeme už konečně ukončit tuhle šarádu? Stát, který porušuje mezinárodní právo i smlouvy, ke kterým se sám zavázal, a zneužívá svoje křeslo v Radě bezpečnosti (která má přesně takovým válkám, jako je ta současná, zabránit) k šíření totalitní propagandy a budování vlastního PR, tam jednoduše nemá co dělat. Rusko letos dokonale odkrylo naprostou neschopnost OSN zaujmout jakékoliv zásadní stanovisko v situaci, kdy viníkem je stálý člen Rady bezpečnosti, který má z titulu pozice právo veta. Očekával bych teda nějakou reformu, nebo alespoň signály, že se někdo o reformu pravidel snaží. Opět ale slyšíme jen klasický oxymóron v podobě ohlušujícího ticha. Přitom Rusko vrší důvody pro vyloučení z Rady dnes a denně. [Posuďte sami](https://www.facebook.com/tomak.dvorak/posts/pfbid02QFNT9g6veGKcjz26HHD6A2sWz24Q7xZj3CQzFcB2PPC7Fa5UWwZcwoHCz1avJJpUl)"
         detail: |
@@ -60184,6 +60259,11 @@ timeline:
       - title: "Čtvrtek"
         year: "8. prosince 2022"
         sort: "2022-12-08"
+        pictures:
+          - ["2022-12-08-1.jpg", ""]
+          - ["2022-12-08-2.jpg", ""]
+          - ["2022-12-08-3.jpg", ""]
+          - ["2022-12-08-4.jpg", ""]
         image: assets/img/timeline/2022-12-08.jpg
         desc: "Namátkou jsem si projel vlastní Timeline na Facebooku a padl na mě splín, když jsem si uvědomil, že spousta z těch kluků a holek na fotkách z Ukrajiny už možná nežije. Člověk si zkrátka nemusí nutně přát válku, aby se v ní ocitl. Stačí, že si ji pro vás přeje někdo jiný tam za kopečkem. A tak se ze dne na den stane, že lidi, co plánovali, že budou kuchaři, zpěváci, programátoři, učitelky, doktorky nebo mechanici, jsou bez vlastního přičinění vojáci, co bojují o vlastní existenci. Vzpomeňte si na to pokaždé, když někdo v Česku říká, že bychom neměli pomáhat Ukrajině, protože „tu nechce válku“. Ti kluci a holky ji u sebe taky nechtěli. Ale pokud nezvítězí, pravděpodobnost, že se válka přelije dál na západ, ještě vzroste. Rusko jednoduše nesmí vyjít z téhle války stejné, jako dosud bylo. A každý z nás má byť malinkou šanci přispět k tomu, aby se tak stalo. A teď [novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid02rZMzD5jb5GSqCJTgypkuC4fnzTCGMEYoQ7qzWZujTC8ehCE5WfQN82ypbsXTkqqel)"
         detail: |
@@ -60228,6 +60308,11 @@ timeline:
       - title: "Středa"
         year: "7. prosince 2022"
         sort: "2022-12-07"
+        pictures:
+          - ["2022-12-07-1.jpg", ""]
+          - ["2022-12-07-2.jpg", ""]
+          - ["2022-12-07-3.jpg", ""]
+          - ["2022-12-07-4.jpg", ""]
         image: assets/img/timeline/2022-12-07.jpg
         desc: "Lavrov se opět pokusil přehodit vinu za současný konflikt na NATO, když zopakoval lež, že to byla Severoatlantická aliance, kdo podle něj „vytvořila přímé ohrožení Ruské federace“ tím, že „posunula svou vojenskou infrastrukturu blíž k ruským hranicím, navzdory tomu, že se zavázala tak nečinit v Istanbulské deklaraci z roku 1999“. Aha. Víte, kolikrát se ve zmíněné deklaraci objevuje slovo „NATO“? Ano, tušíte správně, ani jednou. Istanbulská deklarace byla dokumentem OBSE a NATO se jí ani neúčastnilo, natož aby bylo jejím signatářem. Dokonce se v dokumentu o NATO vůbec nic nepíše. Je to prostě jen další z taktik ruské propagandy, kdy spoléhá na to, že čtenář přijme prezentované informace a nebude pátrat po tom, jestli jsou pravdivé. Nicméně neměla by v tom zaniknout ta nejdůležitější věc: NATO je OBRANNÁ aliance. Rusko vojensky napadla přesně nulakrát a přesně nulakrát o tom uvažovala. Aliance navíc „neposouvá svou infrastrukturu směrem k Rusku“, ale země v blízkosti Ruska do aliance dobrovolně vstupují, často v obavách o svou bezpečnost kvůli chování Ruska. Jestli tedy někdo v minulých letech udělal maximum pro to, aby aliance rostla, pak to byli právě Rusové. Děkujeme! A teď [novinky](https://www.facebook.com/tomak.dvorak/posts/pfbid022rxiPJYWYNb7zhQJhNqehywEcRDrspxJfkTqvzrCMK3gpAYsXj28FUyg47QKrv4el)"
         detail: |
@@ -60261,6 +60346,11 @@ timeline:
       - title: "Úterý"
         year: "6. prosince 2022"
         sort: "2022-12-06"
+        pictures:
+          - ["2022-12-06-1.jpg", ""]
+          - ["2022-12-06-2.jpg", ""]
+          - ["2022-12-06-3.jpg", ""]
+          - ["2022-12-06-4.jpg", ""]
         image: assets/img/timeline/2022-12-06.jpg
         desc: "Pojďme to pojmenovat otevřeně. Maďarsko (jakožto stát) není nějaký solitér, kterému jde jen o blaho svých občanů, a proto je chrání před dopady proti-ruských sankcí. Je to subjekt, který zcela vědomě s Ruskem kolaboruje. Když se řešily rostoucí ceny ruského plynu a obecně nedostatek plynu v Evropě, Maďarští ministři jako jediní letěli do Moskvy ochotně ohnout páteř a vyjednat si fixní cenu plynu na několik let dopředu. Žádný jiný evropský státník o tom neuvažoval (nebo o tom minimálně veřejně nemluvil) a žádní jiní evropští politici k takovému kroku nepřistoupili. Ne proto, že by nechtěli levnější plyn, ale protože věděli, že ceny plynu začnou velmi brzy zase klesat díky novým smlouvám a importním trasám. Věděl to ostatně každý ekonom, politik i analytik – včetně těch maďarských. Pokud tedy maďarští ministři jeli vyjednat fixní cenu plynu v krátkém období, kdy byla cena na historických výšinách, přestože věděli, že taková nezůstane, nenapadá mě jediná motivace než snaha cíleně přelít do Ruska co nejvíce peněz z maďarské kasy. Aktuálně tak má Maďarsko nejméně pětkrát dražší plyn (některé zdroje uvádí i 7-10x) a maďarští zástupci v Europarlamentu a Evropské radě sabotují veškeré snahy Evropy o zastavení toku evropských peněz do Ruska, stejně jako některé sankce, financování Ukrajiny a v neposlední řadě zdržují vstup Finska a Švédska do NATO. Jak se říká: Když něco vypadá jako kachna, chodí jako kachna a kváká jako kachna ...pak je to pro-ruský kolaborant. A Maďaři by proto měli zřetelněji dát najevo, jestli jim takový postoj jejich státu vadí, nebo jsou s ním za jedno. Mimochodem, po podobném opatření volal v Česku Tomio Okamura a jeho SPD. Překvapení? Ale kdeže... Teď ale [novinky](https://www.facebook.com/vit.samek/posts/pfbid0cxsAxaAjzsBXG7ZRw8DAcxvJmEHZaVasjFJDqkYmvPFZoXieZDnKuibY7kn477HZl)"
         detail: |
@@ -60304,6 +60394,11 @@ timeline:
       - title: "Pondělí"
         year: "5. prosince 2022"
         sort: "2022-12-05"
+        pictures:
+          - ["2022-12-05-1.jpg", ""]
+          - ["2022-12-05-2.jpg", ""]
+          - ["2022-12-05-3.jpg", ""]
+          - ["2022-12-05-4.jpg", ""]
         image: assets/img/timeline/2022-12-05.jpg
         desc: "Dnes je to 28 let od chvíle, kdy Rusko podepsalo tzv. Budapešťské memorandum, který se zavázalo respektovat suverenitu a nezávislost Ukrajiny, Běloruska a Kazachstánu, přičemž všechny tři země se na oplátku kompletně zbavily svých zásob jaderných zbraní, kterých po rozpadu SSSR měly požehnaně. Svým podpisem Rusko (a také USA a Velká Británie) navíc slíbilo, že nepoužije proti Ukrajině, Bělorusku a Kazachstánu vojenskou sílu a nebude zemím ani použitím vojenské síly vyhrožovat, nebude proti nic uplatňovat ekonomický nátlak a nepoužije proti nic jaderné zbraně. Jaká je realita? Kazachstán si Rusko léta snaží podmanit skrz loutkové politiky, Bělorusko je de facto Ruskem okupovanou zemí, kde se o nějaké suverenitě a nezávislosti nedá mluvit, a Ukrajina je částečně Ruskem okupovaná po 8 letech vojenské agrese, vyhrožování a vměšování s do interní politiky a dennodenně zaznívají ze strany Ruska nové výhrůžky včetně rétoriky obsahující použití jaderných zbraní proti Ukrajině. Rusko porušilo všechno, ke všemu se samo zavázalo, a neúspěšně se léta snažilo svoji plánovanou invazi a okupaci prodat publiku jako nutnou obranu. Rusko je agresor, Ukrajina se brání. Tak jednoduché to ve skutečnosti je. A teď [novinky](https://www.facebook.com/vit.samek/posts/pfbid0nc2CvEQqFP8AqZ8jFw844pRz4yQvESCcCJKe6MkjxeNHL2Yue6ika4Dp9W5rjTRQl)"
         detail: |
@@ -60338,6 +60433,11 @@ timeline:
       - title: "Neděle"
         year: "4. prosince 2022"
         sort: "2022-12-04"
+        pictures:
+          - ["2022-12-04-1.jpg", ""]
+          - ["2022-12-04-2.jpg", ""]
+          - ["2022-12-04-3.jpg", ""]
+          - ["2022-12-04-4.jpg", ""]
         image: assets/img/timeline/2022-12-04.jpg
         desc: "Na ruských kanálech se objevily fotky několika lidí, které Rusové v Luhanské oblasti oběsili a na krk jim pověsili cedule upozorňující na jejich „zločiny“. Zločinem se v tomto případě rozumí to, že aktivně spolupracovali s ukrajinskou armádou a například jí předávali koordináty pro dělostřeleckou palbu. Zatímco Ukrajina ruské kolaboranty zatýká a po právu soudí, Rusové informanty demonstrativně zavraždili v duchu středověké lůzy nebo teroristů z ISIS. Tohle není jen válka dvou zemí. Je to také válka dvou světů. Jeden je civilizovaný, ten druhý se v některých ohledech zasekl i stovky let nazpátek. A nedá se bohužel čekat, že by se po válce Rusko oklepalo a ponaučilo. Vždyť se [podívejte](https://www.facebook.com/vit.samek/posts/pfbid02ovuQwgr1Pau8fFwW7wvrpw1tQ1efBxWDF5o5kwMr3N7CpVAn1k8pjpHTHbZqLT4el), co zase vymýšlí"
         detail: |
