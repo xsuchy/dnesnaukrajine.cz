@@ -23,6 +23,173 @@ timeline:
   section: timeline
   start_align: left
   events:
+  - title: Tuesday
+    year: November 24, 2026
+    sort: '2026-11-24'
+    pictures:
+    - - 2026-11-24-1.jpg
+      - After Russian airstrikes, Zaporizhzhia, Kyiv.
+    - - 2026-11-24-2.jpg
+      - After Russian airstrikes, Zaporizhzhia, Kyiv.
+    - - 2026-11-24-3.jpg
+      - Russian casualties, according to the Mediazona project.
+    - - 2026-11-24-4.jpg
+      - Status of the counteroffensive in the Kharkiv region.
+    image: assets/img/timeline/2026-11-24.jpg
+    podcast: 2026-11-24.mp3
+    desc: 'Russia last publicly reported its casualty figures in Ukraine in September
+      2022, when it put the death toll at 5,937, and has remained silent ever since.
+      And it had good reason to. Leaked data from Rosstat, analyzed by the editorial
+      teams of the independent projects Meduza and Mediazona, shows that even at the
+      time of that single official figure, Russian authorities had issued around 9,000
+      war-related death certificates, and that by the end of September 2026, there
+      were at least 490,000. Taking into account delays in official records, the actual
+      number may exceed 720,000. Journalists analyzed two datasets containing approximately
+      11.66 million unique death records from 2021 through September 29, 2026; they
+      categorized war-related deaths by stated cause and place of death, military
+      service data, and other details, and compared the results with other registries
+      and datasets. The Insider also published its own calculations (at least 472,000,
+      revised to 485,000, of which more than 370,000 were identified by name), as
+      did Novaya Gazeta Europe (490,000 men aged 18 to 64), Vazhnye Istorii (over
+      499,000 records as of February 24, 2022—that is, one death every five minutes),
+      and the Financial Times (about 464,000 death certificates through August, revised
+      to 550,000, and possibly 650,000 by year-end). The median age of the fallen
+      has risen from 33 in 2022 to 40 this year, and the war is hitting Siberia and
+      the Far East the hardest: the Jewish Autonomous Region is approaching 1,000
+      deaths per 100,000 residents, while Moscow, by contrast, has only 63. This means
+      not only that Russian losses are enormous—and far greater than the Kremlin admits—but
+      also that the statistics published daily by the Ukrainian General Staff are
+      much closer to reality than any previous estimates by Western institutions.
+      And [this](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0oygkNKxWigZMGBMwwMHbSFBfUR5gJnAnEE6mg8HqQzvANnnferGEDQj7DK3dSA7jl)
+      also happened:
+
+      '
+    detail: "- Ukrainian intelligence dismantled a Geran-4 jet aircraft shot down\
+      \ on August 12 over the Kyiv region and found nearly 100 non-Russian components\
+      \ inside, mostly from American technology companies. Seven were from 2026, three\
+      \ from 2025, and two from 2024—meaning practically none dated from before the\
+      \ war. The timing chips belong to the American company CTS Corporation and were\
+      \ manufactured in January, February, and March of this year; the power diode\
+      \ is from the American company Vishay Intertechnology with the code 2607—corresponding\
+      \ to the seventh week of 2026—and the microcontroller from the Swiss-French-Italian\
+      \ company STMicroelectronics bears the code 2606 and, according to its markings,\
+      \ was assembled and tested in Malaysia. Both STMicroelectronics and Vishay responded\
+      \ in general terms, stating that they do not operate in Russia or that they\
+      \ halted shipments in February 2022, respectively; CTS did not respond to repeated\
+      \ inquiries. The drone itself was built in Alabuz. Also worth noting is a European\
+      \ transistor manufactured in February 2026 and found in the Geran-5 that was\
+      \ shot down in September, meaning the journey from the production line to the\
+      \ Ukrainian sky took only seven months. In addition, eight prepaid Pildyk SIM\
+      \ cards from the Lithuanian carrier Tele2 were found in the 2025 drones; these\
+      \ were purchased and activated in 2024, before Lithuania introduced mandatory\
+      \ registration.\n- Ukraine defends the sinking of the Russian corvette *Merkury*\
+      \ in Benghazi. Foreign Ministry spokesman Heorhij Tychyj announced that the\
+      \ action constituted legitimate self-defense under Article 51 of the UN Charter\
+      \ and that Ukraine may target Russian warships, cargo ships carrying military\
+      \ equipment, and tankers of the shadow fleet anywhere in the world. He rejected\
+      \ claims that Ukraine is expanding the war to other countries, stating that\
+      \ the target is exclusively the aggressor—Russia. The Foreign Ministry of the\
+      \ Government of National Unity in Tripoli condemned the attack as a “threat\
+      \ to national security,” while the rival eastern government in Benghazi announced\
+      \ its own investigation in cooperation with Russia. Russian media essentially\
+      \ ignored the sinking of their own corvette. Interfax and RIA Novosti published\
+      \ brief reports on Monday afternoon based on a statement by Dmitry Peskov, according\
+      \ to whom “the Ministry of Defense is handling these matters,” but neither explained\
+      \ what actually happened. TASS did not publish a report on Peskov’s remarks\
+      \ at all, and neither Channel One, Rossiya 1, nor NTV mentioned the ship in\
+      \ their morning or afternoon broadcasts. \n- The European Commission has unveiled\
+      \ its 22nd sanctions package. An additional 60 Russian banks are to be cut off\
+      \ from SWIFT; the package also targets crypto platforms, more than 70 vessels\
+      \ circumventing the oil price cap—which currently stands at $44 per barrel—and\
+      \ prohibits European companies from repairing Russian energy facilities, particularly\
+      \ refineries damaged by Ukrainian precision strikes. It also reinstates the\
+      \ ban on entry into the EU for soldiers who fought against Ukraine (France and\
+      \ Italy had suspended it in July, citing the administrative burden). Russian\
+      \ teams and athletes competing under the Russian flag are to be excluded from\
+      \ European competitions; Russian state symbols are to be removed from stadiums;\
+      \ and Russians are prohibited from contributing to or serving on the boards\
+      \ of European sports federations. Alumina, the raw material used to produce\
+      \ aluminum, was dropped from the package, reportedly due to insufficient support\
+      \ from Ireland.\n- Hungarian Prime Minister Péter Magyar arrived in the Zakarpattia\
+      \ region for his first formal bilateral meeting with Zelenskyy. This is also\
+      \ the first visit by a Hungarian prime minister to Ukraine since 2015. According\
+      \ to Hungarian media, the itinerary is set to include three cities and, in addition\
+      \ to political talks, cultural events and a meeting with representatives of\
+      \ the local Hungarian minority. In a speech to parliament on Monday, Magyar\
+      \ accused the government of his predecessor, Viktor Orbán, of waging a “hateful”\
+      \ pre-election campaign against Ukraine and Zelenskyy, and declared that his\
+      \ government would defend the Hungarians of Transcarpathia as well as the Ukrainians\
+      \ under attack, even if Moscow did not like it. He described Russia as the aggressor\
+      \ and Ukraine as the victim, but added that Hungary would continue to limit\
+      \ its support to humanitarian aid and diplomacy, rather than weapons or troops.\
+      \ \n- The Russians struck a five-story apartment building in Zaporizhzhia’s\
+      \ Kosmichny district; two people were killed and 44 were injured, including\
+      \ an infant and children aged four, six, and sixteen. Over the past day, Russian\
+      \ attacks in Ukraine have killed a total of nine people and injured 77: two\
+      \ dead and five injured in Kyiv, where falling debris from a drone set a building\
+      \ on fire in the Shevchenkivskyi district and another drone crashed through\
+      \ the roof of a six-story building in Podil; two dead in the Donetsk region;\
+      \ two in the Dnipropetrovsk region; and one in the Sumy region, where Russian\
+      \ forces struck 24 communities more than seventy times. In the Vinnytsia region,\
+      \ the attack damaged power facilities, two bus stops, a trolleybus, and four\
+      \ cars. Overnight, Russia launched 96 drones; air defenses shot down or neutralized\
+      \ 73 of them, with strikes reported from thirteen locations.\n- About five Russian\
+      \ military aircraft entered South Korea’s air defense identification zone, prompting\
+      \ Seoul to direct residents of Ulleung Island to take shelter. The aircraft\
+      \ ultimately did not enter South Korean airspace. South Korean fighter jets\
+      \ performed tactical maneuvers to prevent any incident. The Foreign Ministry\
+      \ expressed its concern to Moscow, and the Defense Ministry summoned Russian\
+      \ military attaché Nikolai Marchenko for a meeting. This marks the fifth time\
+      \ Russian aircraft have entered the Korean zone this year alone. Russia does\
+      \ not recognize the zone’s existence and claims it has no basis in international\
+      \ law.\n- The 8th Airborne Corps denied that Ukrainian forces had launched a\
+      \ new operation in the Kursk region. According to the corps, reports circulating\
+      \ on social media—and even reaching the mainstream media—were based on a Sunday\
+      \ analysis by the U.S.-based Institute for the Study of War (ISW); however,\
+      \ that analysis found no evidence of a resumption of the Kursk operation and\
+      \ concluded that control over the terrain had not changed. Fighting on the Sumy\
+      \ border continues every day, and someone apparently mistook an improvement\
+      \ in tactical position in one sector for an offensive. \n- Germany is the first\
+      \ country to gain access to Ukraine’s Delta combat management system. The defense\
+      \ ministries signed a memorandum of understanding in Berlin: Germany can adapt\
+      \ the system to the needs of its military, develop new features, and further\
+      \ develop it in collaboration with Ukraine; Berlin also intends to fund further\
+      \ development through the IT Coalition for Ukraine. However, it will not have\
+      \ access to Ukrainian combat or operational data. \n- A drone crashed in Transnistria\
+      \ yesterday. According to the Moldovan news agency IPN, it crashed around 6:45\
+      \ p.m. near the town of Dnestrovsk, close to the border with the Odessa region;\
+      \ upon impact, it exploded and caused a fire at a gas station. \n- On the night\
+      \ of November 23–24, Russia once again sent a drone into Polish airspace. The\
+      \ drone remained over Poland for only a very short time; the military did not\
+      \ shoot it down so as “not to endanger civilians and property.” \n- Estonian\
+      \ Prime Minister Kristen Michal said that Ukrainian attacks on Russian vessels\
+      \ in the Baltic Sea are understandable and that countries in the region must\
+      \ get used to them and prepare for them.\n- Odessa has lost power from the South\
+      \ Ukraine Nuclear Power Plant. Russian strikes hit three support towers along\
+      \ a Ukrenergo high-voltage power line, and repairs could take up to three weeks.\
+      \ \n- Greece is preparing a pilot route for the export of Ukrainian grain via\
+      \ the port of Alexandroupolis; the first test shipment may arrive there by rail.\n\
+      - A Sky News documentary about Ukrainian National Guard soldiers won an International\
+      \ Emmy Award.\n"
+    videa: '- [Updated RuAF Losses](https://pixelfed.cz/p/dnesnaukrajine/1030856251795731611)
+
+      - [Zaporizhzhia](https://pixelfed.cz/p/dnesnaukrajine/1030854320741172351)
+
+      - [Azov, archive](https://pixelfed.cz/p/dnesnaukrajine/1030854393741419648)
+
+      - [He really screwed that up…](https://pixelfed.cz/p/dnesnaukrajine/1030854435851854979)
+
+      - [Minus MT-LB](https://pixelfed.cz/p/dnesnaukrajine/1030854531336508548)
+
+      - [Sparta II](https://pixelfed.cz/p/dnesnaukrajine/1030854563397141637)
+
+      - [Minus Uragan](https://pixelfed.cz/p/dnesnaukrajine/1030854594504307846)
+
+      - [Russian Casualties](https://pixelfed.cz/p/dnesnaukrajine/1030854629548713095)
+
+      - [Evacuation Under Fire](https://pixelfed.cz/p/dnesnaukrajine/1030854687506207880)
+
+      '
   - title: Monday
     year: November 23, 2026
     sort: '2026-11-23'

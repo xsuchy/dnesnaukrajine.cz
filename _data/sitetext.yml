@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Úterý" 
+        year: "24. listopadu 2026"
+        sort: "2026-11-24"
+        pictures:
+          - ["2026-11-24-1.jpg", "Po ruských náletech, Záporoží, Kyjev."]
+          - ["2026-11-24-2.jpg", "Po ruských náletech, Záporoží, Kyjev."]
+          - ["2026-11-24-3.jpg", "Ruské ztráty podle projektu Mediazona."]
+          - ["2026-11-24-4.jpg", "Stav protiofenzivy v Charkovské oblasti."]
+        image: assets/img/timeline/2026-11-24.jpg
+        podcast: "2026-11-24.mp3"
+        desc: |
+          Rusko své padlé na Ukrajině naposledy veřejně spočítalo v září 2022, vyšlo mu tehdy 5 937 mrtvých, a od té doby mlčí. A mělo proč. Z uniklých dat Rosstatu, která zpracovaly redakce nezávislých projektů Meduza a Mediazony, vyplývá, že už v době onoho jediného oficiálního čísla měly ruské úřady vystavených okolo devíti tisíc úmrtních listů spojených s válkou, a že do konce září 2026 jich bylo nejméně 490 tisíc. Při uvážení zpoždění v oficiálních záznamech může skutečné číslo přesáhnout 720 tisíc. Novináři prošli dvě sady dat s asi 11,66 milionu unikátních záznamů o úmrtí od roku 2021 do 29. září 2026, válečná úmrtí rozdělili podle uvedené příčiny a místa smrti, údajů o vojenské službě a dalších detailů a výsledek porovnali s jinými registry a soubory dat. Vlastní propočty zveřejnily i The Insider (nejméně 472 tisíc, po dopočtu 485 tisíc, z toho víc než 370 tisíc jmenovitě), Novaja Gazeta Europe (490 tisíc mužů ve věku 18 až 64 let), Važnyje istorii (přes 499 tisíc záznamů od 24. února 2022, tedy jeden mrtvý každých pět minut) a Financial Times (asi 464 tisíc úmrtních listů do srpna, po dopočtu 550 tisíc a možná 650 tisíc do konce roku). Medián věku padlých stoupl z 33 let v roce 2022 na letošních 40 let, a nejvíce dopadá válka na Sibiř a Dálný východ: Židovská autonomní oblast se blíží tisíci mrtvým na sto tisíc obyvatel, Moskva jich má naopak jen 63. Znamená to nejen, že ruské ztráty jsou enormní – a mnohem větší, než Kreml přiznává, ale také to, že statistiky, které denně zveřejňuje ukrajinský generální štáb, jsou mnohem blíže realitě než jakékoliv dosavadní odhady západních institucí. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0oygkNKxWigZMGBMwwMHbSFBfUR5gJnAnEE6mg8HqQzvANnnferGEDQj7DK3dSA7jl):
+        detail: |
+          - Ukrajinská rozvědka rozebrala proudový Geran-4 sestřelený 12. srpna nad Kyjevskou oblastí a našla v něm skoro sto neruských součástek, většinou od amerických technologických firem. Sedm z roku 2026, tři z roku 2025 a dvě z roku 2024, tedy prakticky nic z doby před válkou. Časovací čipy patří americké CTS Corporation a byly vyrobeny v lednu, únoru a březnu letošního roku, výkonová dioda připadá americké Vishay Intertechnology s kódem 2607, tedy sedmým týdnem roku 2026, a mikrokontrolér švýcarsko-francouzsko-italské STMicroelectronics nese kód 2606 a podle značení byl smontován a testován v Malajsii. STMicroelectronics i Vishay odpověděly obecně, že v Rusku nepůsobí, respektive že dodávky zastavily v únoru 2022, CTS na opakované dotazy nereagovala. Dron sám vznikl v Alabuze. Za zmínku stojí také evropský tranzistor vyrobený v únoru 2026 a nalezený v Geranu-5 sestřeleném v září, takže cesta z výrobní linky na ukrajinské nebe zabrala pouze sedm měsíců. Ve dronech z roku 2025 se navíc našlo osm předplacených SIM karet Pildyk litevského Tele2, koupených a aktivovaných v roce 2024, než Litva zavedla povinnou registraci.
+          - Ukrajina hájí potopení ruské korvety Merkurij v Benghází. Mluvčí ministerstva zahraničí Heorhij Tychyj oznámil, že šlo o legitimní sebeobranu podle článku 51 Charty OSN a že Ukrajina může zasahovat ruské válečné lodě, nákladní plavidla s vojenským materiálem i tankery stínové flotily kdekoliv na světě. Tvrzení, že rozšiřuje válku na ostatní státy, odmítl, cílem je výhradně agresor - Rusko. Ministerstvo zahraničí vlády národní jednoty v Tripolisu útok odsoudilo jako „hrozbu národní bezpečnosti“, konkurenční východní vláda v Benghází oznámila vlastní vyšetřování společně s Ruskem. Ruská média potopení vlastní korvety v podstatě přešla. Interfax a RIA Novosti vydaly v pondělí odpoledne krátké zprávy založené na vyjádření Dmitrije Peskova, podle něhož „se těmito záležitostmi zabývá ministerstvo obrany“, ani jedna ale nevysvětlila, co se vlastně stalo. TASS zprávu o Peskovových slovech nevydal vůbec a První kanál, Rossija 1 ani NTV se o lodi nezmínily v ranním ani odpoledním vysílání. 
+          - Evropská komise představila 22. sankční balíček. Od SWIFTu má být odpojeno dalších 60 ruských bank, balíček cílí také na kryptoplatformy, na víc než sedmdesát plavidel obcházejících cenový strop na ropu, který je dnes na 44 dolarech za barel, a zakazuje evropským firmám opravovat ruská energetická zařízení, především rafinerie rozbité ukrajinskými hloubkovými údery. Oživuje také zákaz vstupu do EU pro vojáky, kteří bojovali proti Ukrajině (v červenci ho zastavily Francie a Itálie s odkazem na administrativní zatížení). Ruské týmy a sportovci startující pod ruskou vlajkou mají být vyloučeni z evropských soutěží, ruské státní symboly ze stadionů a Rusové nesmí přispívat evropským sportovním federacím ani v nich zasedat. Z balíčku naopak vypadla alumina, tedy surovina pro výrobu hliníku, údajně kvůli nedostatečné irské podpoře.
+          - Maďarský premiér Péter Magyar přijel do Zakarpatské oblasti na první formální dvoustranné jednání se Zelenským. A je to zároveň první návštěva maďarského předsedy vlády na Ukrajině od roku 2015. Program má podle maďarských médií zahrnout tři města a kromě politických rozhovorů i kulturní akce a schůzku s představiteli místní maďarské menšiny. V pondělní řeči v parlamentu Magyar obvinil vládu svého předchůdce Viktora Orbána z „nenávistné“ předvolební kampaně proti Ukrajině a Zelenskému a prohlásil, že jeho vláda bude hájit zakarpatské Maďary i napadené Ukrajince, i kdyby se to Moskvě nelíbilo. Rusko označil za agresora a Ukrajinu za oběť, podporu ale Maďarsko dál omezí na humanitární pomoc a diplomacii, nikoli na zbraně nebo vojáky. 
+          - Rusové zasáhli pětipodlažní obytný dům v Záporoží ve čtvrti Kosmičnyj, dva lidé zahynuli a 44 jich bylo zraněno, mezi nimi kojenec a děti ve věku čtyř, šesti a šestnácti let. Za poslední den zabily ruské útoky na Ukrajině celkem devět lidí a 77 jich zranily: dva mrtvé a pět zraněných má Kyjev, kde padající trosky dronu zapálily budovu v Ševčenkivské čtvrti a další stroj prorazil střechu šestipodlažního domu na Podolu, dva mrtvé Doněcká, dva Dněpropetrovská oblast a jednoho Sumská, kde Rusové zasáhli 24 obcí více než sedmdesátkrát. Ve Vinnycké oblasti poškodil útok energetické zařízení, dvě zastávky, trolejbus a čtyři auta. V noci Rusko vypustilo 96 dronů, protivzdušná obrana sestřelila nebo potlačila 73 z nich a zásahy jsou hlášené ze třinácti míst.
+          - Asi pět ruských vojenských letadel vstoupilo do jihokorejské identifikační zóny protivzdušné obrany a Soul kvůli tomu poslal obyvatele ostrova Ulleung do krytů. Letadla nakonec do jihokorejského vzdušného prostoru nevstoupila. Jihokorejské stíhačky provedly taktické manévry, aby předešly jakémukoliv incidentu. Ministerstvo zahraničí vyjádřilo Moskvě své znepokojení, ministerstvo obrany si pozvalo na kobereček ruského vojenského atašé Nikolaje Marčenka. Jde o pátý vstup ruských letadel do korejské zóny jen za letošek. Rusko její existenci neuznává a tvrdí, že nemá oporu v mezinárodním právu.
+          - Osmý výsadkový armádní sbor popřel, že by ukrajinské jednotky zahájily novou operaci v Kurské oblasti. Zprávy, které kolovaly po sociálních sítích a dostaly se i do médií, se podle sboru opíraly o nedělní analýzu amerického ISW, ta ovšem žádné obnovení kurské operace nenašla a konstatovala, že se kontrola nad terénem nezměnila. Boje na sumské hranici pokračují každý den a někdo si zřejmě spletl zlepšení taktické pozice na jednom úseku s ofenzivou. 
+          - Německo je první zemí, která získá přístup k ukrajinskému systému řízení boje Delta. Ministerstva obrany o tom v Berlíně podepsala prohlášení o záměru: Němci si systém mohou přizpůsobit potřebám své armády, vyvíjet nové funkce a rozvíjet ho společně s Ukrajinou, Berlín chce další vývoj financovat i přes IT koalici pro Ukrajinu. K ukrajinským bojovým ani operačním datům ale přístup nedostane. 
+          - V Podněstří včera dopadl dron. Podle moldavské agentury IPN spadl kolem 18:45 u města Dněstrovsk poblíž hranice s Odeskou oblastí, při dopadu explodoval a způsobil požár u čerpací stanice. 
+          - Rusko v noci z 23. na 24. listopadu opět poslalo do polského vzdušného prostoru dron. Stroj se nad Polskem zdržel velmi krátce, armáda ho nesestřelila, aby „neohrozila civilisty a majetek“. 
+          - Estonský premiér Kristen Michal řekl, že ukrajinské útoky na ruská plavidla v Baltském moři jsou pochopitelné a že se na ně státy v regionu musí zvyknout a připravit se na ně.
+          - Oděsa přišla o napájení z Jihoukrajinské jaderné elektrárny. Ruské údery zasáhly tři podpěrné stožáry vysokonapěťové linky Ukrenerha a oprava může trvat až tři týdny. 
+          - Řecko připravuje pilotní trasu pro vývoz ukrajinského obilí přes přístav Alexandroupolis, první testovací zásilka tam může dorazit po železnici.
+          - Dokument Sky News o ukrajinských vojácích Národní gardy získal International Emmy Award.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1030856251795731611)
+          - [Záporoží](https://pixelfed.cz/p/dnesnaukrajine/1030854320741172351)
+          - [Azov, archiv](https://pixelfed.cz/p/dnesnaukrajine/1030854393741419648)
+          - [To po*ral…](https://pixelfed.cz/p/dnesnaukrajine/1030854435851854979)
+          - [Mínus MT-LB](https://pixelfed.cz/p/dnesnaukrajine/1030854531336508548)
+          - [Sparta II](https://pixelfed.cz/p/dnesnaukrajine/1030854563397141637)
+          - [Mínus Uragan](https://pixelfed.cz/p/dnesnaukrajine/1030854594504307846)
+          - [Ruské ztráty](https://pixelfed.cz/p/dnesnaukrajine/1030854629548713095)
+          - [Evakuace pod palbou](https://pixelfed.cz/p/dnesnaukrajine/1030854687506207880)
       - title: "Pondělí" 
         year: "23. listopadu 2026"
         sort: "2026-11-23"
@@ -34415,39 +34452,7 @@ timeline:
         year: "23. června 2024"
         sort: "2024-06-23"
         pictures:
-          - ["2024-06-23-1.jpg", ""]
-          - ["2024-06-23-2.jpg", ""]
-          - ["2024-06-23-3.jpg", ""]
-          - ["2024-06-23-4.jpg", ""]
-          - ["2024-06-23-5.jpg", ""]
-          - ["2024-06-23-6.jpg", ""]
-          - ["2024-06-23-7.jpg", ""]
-          - ["2024-06-23-8.jpg", ""]
-          - ["2024-06-23-9.jpg", ""]
-          - ["2024-06-23-10.jpg", ""]
-          - ["2024-06-23-11.jpg", ""]
-          - ["2024-06-23-12.jpg", ""]
-          - ["2024-06-23-13.jpg", ""]
-          - ["2024-06-23-14.jpg", ""]
-          - ["2024-06-23-15.jpg", ""]
-          - ["2024-06-23-16.jpg", ""]
-          - ["2024-06-23-17.jpg", ""]
-          - ["2024-06-23-18.jpg", ""]
-          - ["2024-06-23-19.jpg", ""]
-          - ["2024-06-23-20.jpg", ""]
-          - ["2024-06-23-21.jpg", ""]
-          - ["2024-06-23-22.jpg", ""]
-          - ["2024-06-23-23.jpg", ""]
-          - ["2024-06-23-24.jpg", ""]
-          - ["2024-06-23-25.jpg", ""]
-          - ["2024-06-23-26.jpg", ""]
-          - ["2024-06-23-27.jpg", ""]
-          - ["2024-06-23-28.jpg", ""]
-          - ["2024-06-23-29.jpg", ""]
-          - ["2024-06-23-30.jpg", ""]
-          - ["2024-06-23-31.jpg", ""]
-          - ["2024-06-23-32.jpg", ""]
-          - ["2024-06-23-33.jpg", ""]
+          - ["2024-06-23-1.jpg", "Ukrainský Grad."]
         image: assets/img/timeline/2024-06-23.jpg
         desc: |
           Ukrajinci důkladně prozkoumali ukořistěný ruský želví tank… a zjistili, že je mnohem horší, než si dosud mysleli. Pod improvizovanou strukturou se skrýval starý tank T-62M bez munice, bez funkčního děla, dokonce s aretovanou věží, aby se nemohla otáčet. A na tom celém je narychlo navařená „budka“ z náhodně posbíraných kovových panelů, která má chránit tank pod ní před FPV drony, a u některých navíc konstrukci doplňuje silná širokopásmová rušička. Celý smysl těchto monster tedy je dopravovat pěchotu do útoku namísto obrněných transportérů. A zatímco tank pod kovovou budkou skutečně několika zásahům FPV dronů dokáže odolat, pěchota jedoucí na něm je v případě zásahu beztak odsouzená ke zkáze. To, že takový stroj existuje, by tedy jen podtrhovalo domněnky, že Rusku dochází kvalitní těžká technika. Rusko ale valí na Ukrajinu další archivní techniku ze základen napříč Ruskem, a tak, i když její kvalita v čase klesá, její počty jsou stále příliš velké na to, aby dávaly důvod k radosti. A ještě se [děje tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02Nqn82fykFcnN1W2w1Ccne4Ls5UdRuWriQZvhnjHmo4a6EP7S997Qt4UyTUqQoxpNl): 
@@ -34484,7 +34489,7 @@ timeline:
         year: "22. června 2024"
         sort: "2024-06-22"
         pictures:
-          - ["2024-06-22-1.jpg", ""]
+          - ["2024-06-22-1.jpg", "Vojáci adoptovali kocoura a pojmenovali ho Soledar."]
         image: assets/img/timeline/2024-06-22.jpg
         desc: |
           Ukrajina v kvalifikačním zápase letošního evropského šampionátu porazila tým Slovenska. A to, co se spustilo na slovenských sociálních sítích, bylo místy neuvěřitelné. K nechutným útokům na Ukrajinu se totiž přidali i politici současné vládní koalice, která se bez nadsázky fašizuje, a blouznili o tom, jak jejich liberální opozice slaví ukrajinské vítězství, zatímco oni jako jediní praví Slováci fandí svému národnímu týmu. Paralelně s tím zmocněnec vlády pro vyšetřování Peter Kotlar přišel s tím, že pandemie covidu na Slovensku nebyla, a že bude hledat „nová fakta od nových odborníků“, která jeho tvrzení prokážou. Slovensko se v přímém přenosu stává státem, který je úplně v zajetí ruské propagandy šířené i jeho čelními představiteli. Česko za ním zatím o pár let zaostává. I to se ale může změnit už v příštích parlamentních volbách. Ale vás spíš budou zajímat [tyhle zprávy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02XUiz5qfm1FtZ9coNiybTvkMw6cuSj6NVsUE6BWZNQffUVivEJ1mXQvVcE1Rf7MTnl):
@@ -34515,18 +34520,7 @@ timeline:
         year: "21. června 2024"
         sort: "2024-06-21"
         pictures:
-          - ["2024-06-21-1.jpg", ""]
-          - ["2024-06-21-2.jpg", ""]
-          - ["2024-06-21-3.jpg", ""]
-          - ["2024-06-21-4.jpg", ""]
-          - ["2024-06-21-5.jpg", ""]
-          - ["2024-06-21-6.jpg", ""]
-          - ["2024-06-21-7.jpg", ""]
-          - ["2024-06-21-8.jpg", ""]
-          - ["2024-06-21-9.jpg", ""]
-          - ["2024-06-21-10.jpg", ""]
-          - ["2024-06-21-11.jpg", ""]
-          - ["2024-06-21-12.jpg", ""]
+          - ["2024-06-21-1.jpg", "10. armádní sbor."]
         image: assets/img/timeline/2024-06-21.jpg
         desc: |
           Jižní Korea, poté, co Putin navštívil jejího severního souseda a podepsal s tamějším diktátorem smlouvu o bezpečnostní spolupráci, oznámila, že pravděpodobně přehodnotí svůj postoj k dodávkám zbraní Ukrajině. Ve hře jsou tak nyní údajně systémy PVO a také 155mm dělostřelecká munice. Putin ihned reagoval, a to tak, že jihokorejským představitelům začal vyhrožovat, aby si svůj krok ještě jednou rozmysleli, nebo se jim prý nebude líbit odpověď, která ze strany Ruska přijde. Putin také opět pohrozil Západu jaderným útokem, pokud by mělo dojít k porážce jeho armády na Ukrajině. Zkrátka stále stejná pohádka. [Tyhle zprávy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0MbNYPpa2exbGe111b4vG5cE84X72nXbzXaUc2B6LiDEHfCQaCVvbnKHw2HCEsUc2l) jsou ale nové:
@@ -34564,18 +34558,7 @@ timeline:
         year: "20. června 2024"
         sort: "2024-06-20"
         pictures:
-          - ["2024-06-20-1.jpg", ""]
-          - ["2024-06-20-2.jpg", ""]
-          - ["2024-06-20-3.jpg", ""]
-          - ["2024-06-20-4.jpg", ""]
-          - ["2024-06-20-5.jpg", ""]
-          - ["2024-06-20-6.jpg", ""]
-          - ["2024-06-20-7.jpg", ""]
-          - ["2024-06-20-8.jpg", ""]
-          - ["2024-06-20-9.jpg", ""]
-          - ["2024-06-20-10.jpg", ""]
-          - ["2024-06-20-11.jpg", ""]
-          - ["2024-06-20-12.jpg", ""]
+          - ["2024-06-20-1.jpg", "Bradley."]
         image: assets/img/timeline/2024-06-20.jpg
         desc: |
           Putin na tiskovce prohlásil, že pokud je ukrajinskou podmínkou k jednání o míru stažení ruských vojsk z Ukrajiny, tak to se prý nikdy nestane. Zároveň prý Rusko naopak nezačne nikdy jednat, dokud současná vláda a prezident Ukrajiny nerezignují a nedojde k předání moci. Putin také tvrdí, že cílem ruské armády není dojít do Charkova. Po posledních týdnech bych tomu poslednímu tvrzení i věřil. Teď už určitě Rusové do Charkova dojít nechtějí – jednoduše proto, že nemají s čím. Každopádně tím Putin po miliónté potvrdil, že o žádná jednání nestojí. Že jde jen o divadlo pro konzumenty ruské propagandy. Ale těm stačí i takové ochotnické výstupy. A teď [pár dalších novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0hnkzvQDaWKtQmPi2awvTBQzTTNmVc3pWf7BrgTus4rprfwQcFa7buF8AskuYdeBwl): 
@@ -34612,18 +34595,7 @@ timeline:
         year: "19. června 2024"
         sort: "2024-06-19"
         pictures:
-          - ["2024-06-19-1.jpg", ""]
-          - ["2024-06-19-2.jpg", ""]
-          - ["2024-06-19-3.jpg", ""]
-          - ["2024-06-19-4.jpg", ""]
-          - ["2024-06-19-5.jpg", ""]
-          - ["2024-06-19-6.jpg", ""]
-          - ["2024-06-19-7.jpg", ""]
-          - ["2024-06-19-8.jpg", ""]
-          - ["2024-06-19-9.jpg", ""]
-          - ["2024-06-19-10.jpg", ""]
-          - ["2024-06-19-11.jpg", ""]
-          - ["2024-06-19-12.jpg", ""]
+          - ["2024-06-19-1.jpg", "Uvnitř Leopardu."]
         image: assets/img/timeline/2024-06-19.jpg
         desc: |
           Podle průzkumu agentury STEM by si téměř dvě třetiny Čechů přály rychlý konec války na Ukrajině, i kdyby se kvůli tomu Ukrajina měla vzdát části území. Skutečnost, že dvě třetiny našich spoluobčanů jsou sebestřední zbabělci, je samo o sobě dost smutné zjištění, zejména s naší historií a „oblíbenou“ připomínkou na Mnichovskou zradu, o to smutnější je, že průzkum byl zveřejněn v den, kdy si každý rok připomínáme výročí od posledního hrdinného boje skupiny československých parašutistů v kostele sv. Cyrila a Metoděje v Praze proti mnohonásobné přesile jednotek SS a gestapa. Ale jak správně upozornilo několik komentujících na Twitteru/X, i v době okupace Československa proti tehdejším nacistům ve skutečnosti bojoval jen zlomek populace. Valná většina lidí mlčela a starala se pouze o vlastní osudy, část populace pak s nacisty aktivně kolaborovala. Průzkum tedy naznačuje, že ani dnes by to nebylo jiné. Reálně na nás válka dopadá naprosto minimálně a pokud by Západ chtěl nechat Rusko na Ukrajině prohrát, stálo by to malinký zlomek rozpočtů západních zemí, který by většina lidí nijak ve svých peněženkách nepocítila. Přesto si dvě třetiny lidí raději zvolí ukrajinskou kapitulaci a potenciálně tak i mnohem větší a ničivější konflikt v budoucnu. Já osobně bych velmi nerad zažil válku v Česku. Ale dvě třetiny našich vlastních spoluobčanů nás k ní bez mrknutí oka přivedou. Ach jo. Tady jsou [novinky](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02HcHGc3jTGv2zi11kxsB3G3Svf4N1QFvwdFjv794HH1kTrMSaN3PBuKV9uLwNA5Uql): 
@@ -34655,18 +34627,7 @@ timeline:
         year: "18. června 2024"
         sort: "2024-06-18"
         pictures:
-          - ["2024-06-18-1.jpg", ""]
-          - ["2024-06-18-2.jpg", ""]
-          - ["2024-06-18-3.jpg", ""]
-          - ["2024-06-18-4.jpg", ""]
-          - ["2024-06-18-5.jpg", ""]
-          - ["2024-06-18-6.jpg", ""]
-          - ["2024-06-18-7.jpg", ""]
-          - ["2024-06-18-8.jpg", ""]
-          - ["2024-06-18-9.jpg", ""]
-          - ["2024-06-18-10.jpg", ""]
-          - ["2024-06-18-11.jpg", ""]
-          - ["2024-06-18-12.jpg", ""]
+          - ["2024-06-18-1.jpg", "Pýcha ruského námořnictva, ponorka Kazaň v Havaně."]
         image: assets/img/timeline/2024-06-18.jpg
         desc: |
           Wall Street Journal přinesl rozsáhlý článek o páru ruských agentů ve Slovinsku. „Maria Rosa Mayer Muñoz“ provozovala online galerii umění, „Ludwig Gish“ pracoval v IT startupu. Ve skutečnosti šlo o agenty FSB jejichž skutečná jména jsou Maria Muñoz-Anna Valeryjivna Dulceva a Artem Viktorovyč Dulcev. Na svých počítačích měly programy pro šifrovanou komunikaci s Moskvou a v tajné skrýši za lednicí stovky tisíc eur. Léta takto poskytovali Rusku citlivé informace získané během své činnosti. Podobné agentské dvojice přitom Rusko už během studené války a od té doby nepřetržitě nasazovalo (a nasazuje) po celém světě včetně Česka a většina z nich jsou aktivními agenty dodnes. Česku se jeden takový pár podařilo nedávno odhalit a vyhostit. Další tu ale pravděpodobně dál zůstávají a těžko odhadovat, o kolika z nich evropské tajné služby ví. To se ale sotva dozvíme, zato [tyhle informace](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0btQrPdWdxMG2TCC8pgDnEYf3ifqtEhMpGr2wSzrHtugQnyUonDBw3RXZv1cdLEZl) jsou veřejné: 
@@ -34699,8 +34660,6 @@ timeline:
         sort: "2024-06-17"
         pictures:
           - ["2024-06-17-1.jpg", ""]
-          - ["2024-06-17-2.jpg", ""]
-          - ["2024-06-17-3.jpg", ""]
         image: assets/img/timeline/2024-06-17.jpg 
         desc: |
           Deník Investigace.cz přinesl reportáž, ve které upozorňuje na fenomén tzv. „sportiků“, nájemných násilníků nabízejících nejrůznější služby na černém trhu, a to nejen v Rusku, kde fenomén vznikl, ale prakticky po celém světě včetně Česka. Lidé si na speciálních kanálech na Telegramu mohou objednat téměř cokoliv od drobného násilí, přes žhářské útoky, až po střelbu. Na Telegramu byl přitom údajně naverbován i člověk, který se v Praze pokusil podpálit autobusy v klíčovském depu. Evropské rozvědky nedávno varovaly, že Rusko chystá po celé Evropě sérii sabotáží a násilných útoků na civilní cíle, a zmiňovaly při té příležitosti, že pro provedení útoků budou verbovat místní kolaboranty nebo postavy z kriminálního prostředí. Zdá se tedy, že měly pravdu. Nicméně děje se toho [více](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0ADTRtyYfvb9EJUCBoz9AkYANpbWt279SV7RYYSdNjnBLpJU6rvo6iFBQMNBE5bD5l): 
@@ -69584,6 +69543,8 @@ timeline:
         year: "25. únor 2022"
         sort: "2022-02-25-1"
         # https://www.facebook.com/tomak.dvorak/posts/pfbid02VqN5Rt9VU7jguvY8jzoi2R3iKYPuSamsT9QAW8zhbksNXYaaw9KgQsJq3LrqV5H2l
+        pictures:
+          - ["2022-02-25-1-1.jpg", ""]
         desc: |
           Ukrajincům se podařilo lokalizovat a zničit jednotku, která se zmocnila dvou ukrajinských transportérů a snažila se proniknout do centra Kyjeva v přestrojení za ukrajinské vojáky.
           I tak ruské jednotky dnes nad ránem vstoupily na několika místech do Kyjeva. Bojuje se ve čtvrti Obolon. Vláda vyzvala lidi k zapůjčení malých dronů a výrobě Molotovů.
@@ -69592,6 +69553,8 @@ timeline:
         year: "24. únor 2022"
         sort: "2022-02-24-2"
         # https://www.facebook.com/tomak.dvorak/posts/pfbid028obYtHWgWSQMo7aH18LxTdz3dztcPCBdA8ghFxgmYVvLXo5Ay724gBALtHTqnckcl
+        pictures:
+          - ["2022-02-24-2-1.jpg", ""]
         desc: |
           Ukrajinská jednotka vycvičená podle NATO dobyla kolem osmé večerní zpátky letiště Hostomel. Asi 200 ruských výsadkářů ho drželo celé odpoledne ve snaze připravit letecký most k útoku na Kyjev. Podle StratCom byla okupující jednotka "úplně zničena", její zbytky prchly do okolních lesů.
           Je to neskutečně pozitivní zpráva po velmi náročném dni.
@@ -69601,6 +69564,8 @@ timeline:
         year: "24. únor 2022"
         sort: "2022-02-24-1"
         # https://www.facebook.com/tomak.dvorak/posts/pfbid02p2merTuVEYAw5dpVuvonE5GnRqJcXC9T1m39gpSuXNqsEYhyBEhUzephhda5vkDvl
+        pictures:
+          - ["2022-02-24-1-1.jpg", ""]
         desc: |
           Rusko časně nad ránem napadlo Ukrajinu ze všech tří stran.
           Budíme se do války.
@@ -69608,6 +69573,7 @@ timeline:
         year: "23. únor 2022"
         sort: "2022-02-23"
         # https://www.facebook.com/tomak.dvorak/posts/pfbid02CpyhwPP4SAHJHJHYszB3o4oucckcV79w8Xdn4iyatsXXHqcHLPqP4cKUvrRxiyxul
+        pictures: [ ]
         desc: |
           Z komína ruské ambasády v Kyjevě se valí hustý dým. Ve stejnou dobu obvinili povstalci na východě Ukrajinskou armádu, že zasáhla dělostřeleckým granátem školku v Luhansku. Ukrajina popírá, že by vůbec střílela.
           Pokud byste chtěli vědět, jak vypadá záminka pro "ochranu ruskojazyčného obyvatelstva" - takhle.
