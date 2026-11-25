@@ -38,6 +38,43 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Středa" 
+        year: "25. listopadu 2026"
+        sort: "2026-11-25"
+        pictures:
+          - ["2026-11-25-1.jpg", "Mínus rafinérky."]
+          - ["2026-11-25-2.jpg", "Mínus rafinérky."]
+          - ["2026-11-25-3.jpg", "Mínus rafinérky."]
+          - ["2026-11-25-4.jpg", "Šichta na frontě."]
+        image: assets/img/timeline/2026-11-25.jpg
+        podcast: "2026-11-25.mp3"
+        desc: |
+          Ukrajina se měsíce dožaduje konkrétních bezpečnostních záruk a dneska vyšlo najevo, co jí Washington reálně nabízí: nic. Podle zápisu ze schůzky Koalice ochotných, která proběhla 19. listopadu v Berlíně a který získal Kyiv Independent, idioti Jared Kushner a Steve Witkoff vyloučili, že by na Ukrajině po válce byli američtí vojáci nebo americké základny. Kushner sice řekl, že Trump je ochoten zvážit uspořádání podobné článku 5, konkrétní obsah ale zůstal u formulace, že balíček může obsahovat „podporu nebo jiná opatření“. Záruky po vzoru článku 5 přitom nemusí vůbec určovat, kdo by na nový ruský útok reagoval a jestli vůbec vojensky. Nejlevnější variantou evropské bezpečnosti je podle vrchního velitele spojeneckých sil v Evropě Alexuse Grynkewiche členství Ukrajiny v NATO, což podporují i Francie, Itálie a Británie. Americká reakce na případné členství zatím stále naráží na otázku, jestli by Ukrajina výměnou za členství stáhla vojáky z Donbasu. Zelenský trvá na tom, že záruky musí být písemné a platit alespoň desítky let, Washington je chce schovat až do finální mírové dohody. A aby bylo jasné, že se tady handluje s něčím, co druhá strana stejně odmítá: mluvčí Kremlu Dmitrij Peskov dnes zopakoval, že rozmístění jakýchkoli zahraničních kontingentů na ukrajinském území je absolutně nepřípustné. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0fXDvC9SfQv94sax1qbNtThmSE83Ev3KqvHyijdPy8AmwcspBYRPmEqgqgMWAEpB9l):
+        detail: |
+          - Energetika dostala zásahy ve čtyřech oblastech a navíc na jednom místě, kde to může skončit mnohem hůř než výpadkem proudu. Záporožská jaderná elektrárna ve 4:28 ráno opět ztratila externí napájení, když ruský úder na pravém břehu Dněpru asi třináct kilometrů od rozvodny Ferrosplavna přerušil vedení o napětí 330 kilovoltů. Podle Mezinárodní agentury pro atomovou energii jde o osmadvacátou úplnou ztrátu vnějšího napájení od února 2022, naposledy se to stalo 8. listopadu a vlastní potřebu teď pokrývají záložní dieselagregáty. Energoatom varuje, že opakované poškozování infrastruktury kolem elektrárny zvyšuje riziko jaderné havárie. Hlavním cílem noci byl energetický sektor v Záporožské, Oděské, Dněpropetrovské a Poltavské oblasti, kde dostaly zásah rozvodny, výrobní zdroje, přenosové vedení i plynová infrastruktura. Nejhorší je situace v Záporoží, které z velké části přišlo o elektřinu. Jedna tepelná elektrárna úplně zastavila výrobu. V Poltavské oblasti hořelo zařízení Naftogazu. Ukrenergo na dnešek nařídilo hodinové odstávky pro domácnosti a limity pro průmysl.
+          - Rusko v noci vypustilo 112 dronů typů Shahed, Gerbera a Parodija. Protivzdušná obrana jich sestřelila nebo potlačila 88, zásahy jsou hlášené z osmnácti míst a trosky dopadly na dalších třinácti. V Bílé Cerkvi v Kyjevské oblasti zahynul jeden muž, hořelo obchodní centrum Epicentr, logistické zařízení Nové Pošty a dva kamiony. U Fedorivky v Charkovské oblasti zasáhl dron minibus, jeden člověk zemřel a sedm bylo zraněno. V Kovelském okrese na Volyni skončilo pět lidí zraněných a hořely tři kamiony, dva osobní vozy a civilní budova. V Sumské oblasti zabil dron šestasedmdesátiletého muže v jeho autě. Žytomyrská oblast hlásí jednoho mrtvého a tři zraněné. Celkově ruské útoky za poslední den zabily devět lidí a 59 jich zranily.
+          - Generální štáb potvrdil zásah dvou rafinerií v Samarské oblasti, Kujbyševské a Syzranské. Obě patří Rosněftu a mají primární kapacitu 8,8 a 8,5 milionu tun ropy ročně. V Kujbyševské byly podle předběžných informací zasaženy atmosféricko-vakuové jednotky AVT-4 a AVT-5 a dvě zásobníkové nádrže, v Syzranské jednotka AVT-6, odsiřovací jednotka, hydrorafinace, izomerace a další dvě nádrže. Operaci provedly ukrajinské síly ve spolupráci s odbojovým hnutím Černaja Iskra, které působí přímo v Rusku. Třetí zásah si odnesla Novošachtinská rafinerie v Rostovské oblasti, na kterou během šesti hodin útočilo více než padesát dronů a raket a která zastavila provoz.
+          - Alexandr Lukašenko v rozhovoru pro francouzský Le Point „vysvětlil“, proč válka pořád trvá: je to vina Ukrajiny a Evropy. Podle něj se dříve zvažovala demilitarizovaná zóna na ukrajinském území, ale ukrajinský dronový útok na Putinovu rezidenci z 29. prosince 2025 to zmařil a Putin si z toho odnesl, že Ukrajincům, jinými slovy Západu, se v této věci nedá věřit. Bez toho by podle Lukašenka válka už stála na linii kontaktu. Tentýž Lukašenko předtím nabídl, že Zelenského osobně odveze do Moskvy na jednání s Putinem. Zelenský mu odpověděl, ať si Putina vezme a přiletí s ním do Kyjeva.
+          - Sergej Lavrov obvinil v Gomelu Brusel, že vydává prohlášení, ale diplomatickou cestou Moskvě neposílá žádné konkrétní návrhy. Moskva podle něj pozvala zástupce evropských zemí, aby přijeli a vysvětlili, jakou roli chtějí v jednáních v Abú Zabí hrát. Evropané odpověděli, že nic vysvětlovat nebudou a chtějí přímo k jednacímu stolu. 
+          - Evropský parlament dnes ve Štrasburku debatoval o spravedlivém míru. Pokrok chce Komise posuzovat podle činů Ruska, nejen podle jeho slov, a jako test nabídla dvě konkrétní věci: zimní příměří na energetické infrastruktuře a příměří, které umožní bezpečný vývoz potravin přes Černé moře. 
+          - Na vojenském letišti Savasleyka v Nižněnovgorodské oblasti zasáhly ukrajinské síly podle Generálního štábu pět letadel, tři stíhací MiGy-31 a dva bombardéry Su-34. Vyhodnocování škod pokračuje a zasažených strojů může být dokonce více.
+          - Verchovna rada schválila zákon o virtuálních aktivech, který může státu ročně přinést asi 300 milionů dolarů. Transakce s kryptoměnami budou podléhat standardní osmnáctiprocentní dani z příjmu a pětiprocentní vojenské dani.
+          - Peskov se vyjádřil i k potopení ruské korvety v libyjském Benghází a vyznělo to jako výzva k odplatě přes třetí stranu. Žádný stát podle něj nenechá pokus o život svých vojáků bez odpovědi, takže si Libye kroky proti Kyjevu zřejmě zváží sama.
+          - Lotyšská vláda si nechala do příštího týdne připravit stanovisko k omezení hranice s Ruskem, cílem je společný postup pobaltských států.
+          - Ruské velvyslanectví ve Varšavě označilo polské protesty proti pátečnímu průletu rakety nad polským územím za „rusofobní“.
+          - Gruzínská rozvědka tvrdí, že Rusko plánuje anektovat „separatistickou“ Abcházii a Jižní Osetii. 
+          - Z Moldavska byl na Ukrajinu vydán uprchlý důstojník podezřelý z mučení podřízených.
+          - Německé město Darmstadt daruje generátory školám a školkám v Užhorodu.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1031262931062186654)
+          - [Mínus letadla](https://pixelfed.cz/p/dnesnaukrajine/1031262008469312141)
+          - [Estonský ministr zahraničí v Kyjevě](https://pixelfed.cz/p/dnesnaukrajine/1031262045206454926)
+          - [Slavjansk](https://pixelfed.cz/p/dnesnaukrajine/1031262081858118287)
+          - [Trypilská teplárna, stav](https://pixelfed.cz/p/dnesnaukrajine/1031262121732043408)
+          - [Denacifikace drony](https://pixelfed.cz/p/dnesnaukrajine/1031262164286251665)
+          - [Rusové našli minu](https://pixelfed.cz/p/dnesnaukrajine/1031262203362357906)
+          - [Syzraň](https://pixelfed.cz/p/dnesnaukrajine/1031262231014040212)
+          - [Mínus Shahed](https://pixelfed.cz/p/dnesnaukrajine/1031262257066447509)
       - title: "Úterý" 
         year: "24. listopadu 2026"
         sort: "2026-11-24"
@@ -36803,10 +36840,10 @@ timeline:
         year: "26. dubna 2024"
         sort: "2024-04-26"
         pictures:
-          - ["2024-04-26-1.jpg", ""]
-          - ["2024-04-26-2.jpg", ""]
-          - ["2024-04-26-3.jpg", ""]
-          - ["2024-04-26-4.jpg", ""]
+          - ["2024-04-26-1.jpg", "Noční cvičení."]
+          - ["2024-04-26-2.jpg", "Ukrajinský dron-letadlo, který se zřítil v Rusku."]
+          - ["2024-04-26-3.jpg", "Aktualizované ruské ztráty."]
+          - ["2024-04-26-4.jpg", "Ruská armáda."]
         image: assets/img/timeline/2024-04-26.jpg
         desc: |
           Dnes je to přesně 38 let od havárie a výbuchu jaderné elektrárny v Černobylu. Tehdy stačilo málo, a velká část Evropy mohla být dnes stále neobyvatelnou. Proč ale zmiňuji havárii tady? Jednak proto, že se Ukrajiny týká – Černobyl se nachází na Ukrajině, v pohraničí s Běloruskem – ale hlavně proto, že jde o dokonalou ukázku sovětské mentality, která z Ruska nikdy nezmizela a která produkuje systém korupce a lží, který je tak ponořený do sebe sama, že i v kritické situaci dokáže padnut za oběť vlastní propagandě. Díky bohu za to, že tomu tak je. Právě uvěření vlastní propagandě bylo hlavním důvodem, proč Rusům nevyšla jejich počáteční invaze a proč nikdy nedobyli Kyjev. A i teď se tento systém všudypřítomných lží podílí na nesprávném vyhodnocení situace na bojišti a velkých ztrátách pro ruské síly. Rusové se ale dokázali poučit. Nechyťme se proto pro změnu my do pasti našich narativů a nepodceňujme ruskou armádu. Ještě nás čeká spousta špatných zpráv. Ale teď [pár dalších](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02B8MGY1A94GFryzKjM841huwXxmf98gaW9nkzWf8SheQCFukpvAxRYMmYpNhMifzXl), veskrze dobrých: 
@@ -36853,10 +36890,10 @@ timeline:
         year: "25. dubna 2024"
         sort: "2024-04-25"
         pictures:
-          - ["2024-04-25-1.jpg", ""]
-          - ["2024-04-25-2.jpg", ""]
-          - ["2024-04-25-3.jpg", ""]
-          - ["2024-04-25-4.jpg", ""]
+          - ["2024-04-25-1.jpg", "Azovci na střelnici."]
+          - ["2024-04-25-2.jpg", "Ruský želví tank."]
+          - ["2024-04-25-3.jpg", "Aktualizované ruské ztráty."]
+          - ["2024-04-25-4.jpg", "Ruská polní nemocnice kdesi v podzemí. Kreminna."]
         image: assets/img/timeline/2024-04-25.jpg
         desc: |
           Spojené státy odhalily obsah prvního z nových balíků vojenské pomoci. Jeho celková hodnota se pohybuje okolo miliardy dolarů. Ukrajina díky němu získá rakety pro PVO systémy (RIM-7 a AIM-9M), rakety Stinger, rakety pro systémy HIMARS (včetně ATACMS), 155mm munici pro dělostřelecké systémy (včetně kazetové munice), minometné granáty, munici do ručních zbraní, další vozidla Bradley, nejrůznější obrněná vozidla a pěchotní transportéry, ženijní vozidla, střely TOW, Javelin a AT-4, naváděné letecké pumy, protitankové a protipěchotní miny (včetně Claymore), nálože pro čištění minových polí, výbavu pro noční boj a nejrůznější náhradní součástky a další vojensko-technický materiál. Místní v Polsku hlásí, že už od včerejšího večera přistávají na polských letištích americké vojenské speciály. Zajímavé je, že většina z nich nejspíš létá bez zapnuté identifikace, protože se lety neukazují na trackovacích službách. Je tedy dost dobře možné, že skutečný objem dodávek se Američané snaží utajit. Ostatně někteří američtí politici naznačili, že Ukrajina obdrží v rámci balíčku i věci, které nebudou předem zveřejněny, a že na Rusy čeká na bojišti pár překvapení. Je to důvod k radosti? Nejspíš by měl být. Bohužel se nedá zapomenout na to, že pomoc přichází s několikaměsíčním zpožděním, které stálo ukrajinské síly životy, techniku i obranné pozice, a Rusové i v tuhle chvíli dál útočí. Snad ne nadlouho. A teď [další aktuality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0aNzApje55qNp4YhipzqJL4XVmNPREX4Wa7JXg6E8kacbQTbRFeQaVKm2pb9kSDmal): 
@@ -37029,10 +37066,10 @@ timeline:
         year: "21. dubna 2024"
         sort: "2024-04-21"
         pictures:
-          - ["2024-04-21-1.jpg", ""]
-          - ["2024-04-21-2.jpg", ""]
-          - ["2024-04-21-3.jpg", ""]
-          - ["2024-04-21-4.jpg", ""]
+          - ["2024-04-21-1.jpg", "V zákopech s Azovem."]
+          - ["2024-04-21-2.jpg", "Momentka z Gruzie."]
+          - ["2024-04-21-3.jpg", "Aktualizované ruské ztráty."]
+          - ["2024-04-21-4.jpg", "Momentka z americké sněmovny."]
         image: assets/img/timeline/2024-04-21.jpg
         desc: |
           Zprávou dne je rozhodně skutečnost, že americká sněmovna včera schválila balík vojenské pomoci Ukrajině ve výši více než 60 miliard dolarů a schválila také zabavení sankcionovaného ruského majetku a jeho předání Ukrajině. Ruské kanály zuří, propagandisti se opět předhánějí ve výhrůžkách a zuří i kanály ruské páté kolony. Ani masivní ruská psychologická operace nedokázala pomoc úplně zastavit, byť i několikaměsíční zpoždění, které se Rusům udělat podařilo, znamenalo pro Ukrajince velké ztráty a změnu dynamiky fronty. Je to tedy poněkud hořkosladké vítězství. A co vedlo republikány k takové názorové otočce? Podle některých analytiků to bylo setkání se zástupci americké rozvědky, která těm „mírnějším“ republikánům představila určité zpravodajské informace o plánech Ruska a jeho spolupráci s Čínou a Íránem na vytvoření „nového světového řádu“. Informace to musely být skutečně závažné, protože několik předních představitelů republikánské strany teď otevřeně komunikuje nutnost podpory Ukrajiny a postavení se Rusku a Číně vojenskou silou. Vlna náhlé veřejné aktivity tajných služeb nemůže být náhodná – věci se daly do pohybu i v Evropě. Bohužel to naznačuje, že některé hrozby ze strany globálního východu jsou tak velké, že rozvědky přistoupily ke zveřejnění informací, aby je politici nemohli zamést pod stůl. Pokud je to tak, pak díky za to. A teď další [aktuality](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02WCRjXydri4mGdfWnZEfpYBDqN1X7p7G25NuVMZqPfucUSqj4BQcpuXoeBcRRB5zvl): 
