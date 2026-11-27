@@ -36667,10 +36667,10 @@ timeline:
           - [Tbilisi](https://pixelfed.cz/p/dnesnaukrajine/691675292478140480)
           - [Drony](https://pixelfed.cz/p/dnesnaukrajine/691675370859544641)
         pictures:
-          - [2024-05-02-1.jpg, ""]
-          - [2024-05-02-2.jpg, ""]
-          - [2024-05-02-3.jpg, ""]
-          - [2024-05-02-4.jpg, ""]
+          - ["2024-05-02-1.jpg", "U fronty."]
+          - ["2024-05-02-2.jpg", "Ruské vrakoviště."]
+          - ["2024-05-02-3.jpg", "Aktualizované ruské ztráty."]
+          - ["2024-05-02-4.jpg", "Mravenečci na polygonu v Luhansku. Kdo je spočítá?"]
       - title: "Středa"
         year: "1. května 2024"
         sort: "2024-05-01"
