@@ -38,6 +38,41 @@ timeline:
     section: timeline
     start_align: "left"
     events:
+      - title: "Sobota" 
+        year: "28. listopadu 2026"
+        sort: "2026-11-28"
+        pictures:
+          - ["2026-11-28-1.jpg", "Během operace Vivaldi."]
+          - ["2026-11-28-2.jpg", "Kushner jako hrdina ruských médií."]
+          - ["2026-11-28-3.jpg", "Ukrajinský postup."]
+          - ["2026-11-28-4.jpg", "Ukrajinská automatická věž proti dronům."]
+        image: assets/img/timeline/2026-11-28.jpg
+        podcast: "2026-11-28.mp3"
+        desc: |
+          Ruská ropa dnes v noci opět hořela, a to hned na dvou místech. Na burze už prakticky není co prodávat. Drony podruhé za týden zasáhly Novošachtinskou rafinerii v Rostovské oblasti, jedinou funkční rafinerii celého regionu a jeden z největších palivových podniků ruského jihu, který ročně zpracuje 5,6 až 7,5 milionu tun ropy. Analytici projektu ASTRA z videí usuzují, že hořely palivové nádrže. Po úderu 23. listopadu generální štáb oznámil dvacet zničených horizontálních nádrží a dalších 21 horizontálních a jedenáct vertikálních poškozených včetně části potrubí. Druhým cílem byla ropovodní stanice Samara, která přijímá ropu z několika magistrálních ropovodů, skladuje ji v parku se 71 nádržemi a míchá exportní směs Urals. Záře požárů byla vidět na desítky kilometrů. Gubernátor Jurij Slusar se nicméně pochlubil tím, že nad Novošachtinskem a sedmi dalšími rajóny protivzdušná obrana sestřelila „více než padesát dronů“. Dopad úderů nejlépe ilustrují čísla z petrohradské burzy SPIMEX: velkoobchodní prodeje benzinu klesly za týden o necelých 33 procent, nafty o 67 procent, a je to třetí týden poklesu v řadě. Nafty se za poslední týden prodalo 29 445 tun proti 87 911 tunám týden předtím a 140 270 tunám na začátku listopadu, benzinu AI-92 jen 16 680 a AI-95 9 720 tun. Prosincové objemy se na burze vůbec neobjevily, protože odstavené rafinerie se hned do provozu nevrátí. A také se stalo [tohle](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02DenbYeSQJipQx8cwGsTWscEnQPuTM2oLZtXh2ohW3YLU5bThrhnovbLfffZZrXYal):
+        detail: |
+          - Jared Kushner nazval v podcastu MD Meets Vladimira Putina „velmistrem politiky“, ruského vyjednavače Kirilla Dmitrijeva označil za „neuvěřitelného přítele“ a válku popsal jako nepřímou konfrontaci Moskvy s Evropou. Předseda zahraničního výboru Verchovné rady Oleksandr Merežko řekl, že takový postoj ohrožuje i americké národní zájmy, a připomněl, že dlouho prosazuje výměnu Witkoffa a Kushnera. Poslankyně Halyna Jančenková mluví o popírání ukrajinské suverenity. Německý poslanec Roderich Kiesewetter podotkl, že Washington nevystupuje jako čestný prostředník. Nejtvrdší byla předsedkyně bezpečnostního a obranného výboru Evropského parlamentu Marie-Agnes Strack-Zimmermannová: tvrzení o nepřímé válce je podle ní „čistá kremelská propaganda“ a Bílý dům působí, jako by „seděl Putinovi na klíně“. 
+          - Maďarsko zrušilo zákaz vstupu veliteli ukrajinských sil bezpilotních systémů Robertu „Madyarovi“ Brovdimu. Tříletý zákaz pro něj vyhlásil v srpnu 2025 tehdejší ministr zahraničí Péter Szijjártó kvůli ukrajinským úderům na ropovod Družba a chtěl ho rozšířit na celý Schengen. Kyjev tehdy odpověděl zákazem vstupu pro tři vysoké maďarské vojenské představitele. Maďarský imigrační úřad záznam vymazal 18. listopadu. Ministerstvo vnitra k tomu uvedlo, že takové omezení lze zrušit, pokud se podstatně změnily okolnosti, které vedly k obavám o národní bezpečnost. Změnily se vydatně: Brovdi, nejvýše postavený vojenský představitel maďarského původu v ukrajinských silách, se na seznam dostal za Orbánovy vlády.
+          - Itálie se veřejně obořila na Ukrajinu. Giorgia Meloniová vydala prohlášení, že ukrajinská operace „porušila suverenitu Libye a hrozí rozšířením konfliktu do Středomoří“ a že Řím „nemůže akceptovat“ kroky ohrožující bezpečnost Itálie nebo regionu. Tripolská vláda si 23. listopadu vyžádala vysvětlení, člen libyjské prezidentské rady Músá al-Kúní označil útok za akt války a navrhl zapsat Zelenského na seznam osob spojovaných s terorismem. Zelenský přitom 26. listopadu tvrdil BBC, že údery na ruské cíle mimo Rusko Ukrajina koordinuje s partnery, což italský ministr zahraničí Antonio Tajani vzápětí popřel, a den nato už Zelenský připustil, že tohle konkrétně s nikým nekonzultoval.
+          - Partyzáni z hnutí ATEŠ tvrdí, že ruské velení na záporožském směru vyhrožuje velitelům čet a rot tím, že je samo pošle do útoku, pokud jejich jednotky nepostoupí. Podle agenta ze štábu skupiny vojsk Vostok jde o to, aby realita dohnala hlášení: velitelé 5. a 36. armády tlačí na 127. motostřeleckou divizi a na 37. a 64. samostatnou motostřeleckou brigádu, které měly podle papírů dosáhnout okrajů Novomykolajivky v Záporožské oblasti a Pokrovského v Dněpropetrovské, zatímco ve skutečnosti jsou od první přes třicet a od druhé přes dvacet kilometrů.
+          - Ruské ministerstvo obrany obnovuje vojenské stavební prapory, zrušené v roce 2006. Budou je tvořit branci i smluvní vojáci a že mají stavět jadernou infrastrukturu, námořní přístavy, letiště a vojenská městečka, aby resort nebyl tolik závislý na komerčních dodavatelích. Putin příslušný dekret podepsal 27. července, platí od 1. srpna a zvedl povolený stav armády o 27 tisíc lidí, z toho 25 tisíc vojáků. Sovětské stavební oddíly měly až dvě stě tisíc lidí a na konci existence byly známé nízkou disciplínou, šikanou a prakticky nulovým bojovým výcvikem.
+          - Rusko od šesti hodin večer vypustilo 162 dronů, z toho 74 proudových, včetně Shahedů, Gerber a návnad Parodiya. Protivzdušná obrana do osmi ráno zničila nebo potlačila 141 z nich, mezi nimi 54 proudových Shahedů, zásahy jsou hlášené na třinácti místech a trosky na sedmi. V Nižynu v Černihivské oblasti stoupl počet mrtvých na tři a zraněných na sedm, v Kremenčuku dron poškodil dvě školská zařízení v centru města a zranil děti ve věku dvanáct a třináct let, v Pisočynu u Charkova je osm zraněných, z toho tři děti.
+          - Ruská RT rozjela novou pohádku: Ukrajina podle ní prodala západní zbraně za 1,9 miliardy dolarů latinskoamerickým a africkým drogovým kartelům. Ukrajinské ministerstvo obrany ve skutečnosti vede majetek v systému postaveném na SAP až na úroveň sériových čísel, ukrajinští a američtí inspektoři dělají společné fyzické kontroly a neexistuje žádný důkaz o nezákonném převodu zbraní. Vyšetřování OSN také nic nenašlo. Moskva podobné historky šíří od roku 2022 a mění jen země, příjemce a částky.
+          - Rheinmetall pravděpodobně nespustí svůj ukrajinský závod. Generální ředitel Armin Papperger to oznámil 27. listopadu na Capital Markets Day: plánovaná výrobna 155mm granátů s kapacitou 250 tisíc kusů ročně podle něj nemá smysl, protože na ukrajinské straně nebyl žádný pokrok a Ukrajinci si výrobu vybudovali sami. Místo závodu Rheinmetall nabízí dodat vybavení, aby granáty vyráběla Ukrajina ve vlastní režii. 
+          - Ukrenergo zavedlo na celé Ukrajině hodinové odstávky elektřiny nepřetržitě po celý den, což znamená čtyři až dvanáct hodin bez proudu. V Kyjevské oblasti musely kvůli následkům ostřelování a přetížení přijít nouzové odstávky a v Dnipropetrovské oblasti jsou škody takové, že DTEK rozepsal odstávky individuálně po jednotlivých budovách.
+          - Nad britskou základnou RAF Lakenheath, kterou používá americké letectvo, kroužilo 13. listopadu šest dronů a Američané je odehnali protidronovou technikou. Žádný z nich se nepodařilo zajistit.
+          - Gazprom a turecká Botas podepsaly prodloužení smlouvy o dodávkách plynu o tři roky se zachováním objemů i podmínek.
+          - Německo schválilo rozpočet s vyčleněnými 12 miliardami eur pro Ukrajinu. 
+          - Ve válce padl ruský voják, kterému bylo 13, když začala ruská invaze. 
+          - Ukrajina si dnes připomíná Den památky obětí Holodomoru.
+        videa: |
+          - [Aktualizované ztráty RuAF](https://pixelfed.cz/p/dnesnaukrajine/1032255775981263930)
+          - [Trefa!](https://pixelfed.cz/p/dnesnaukrajine/1032254337446276136)
+          - [Fronty na benzín v Rusku](https://pixelfed.cz/p/dnesnaukrajine/1032254408091028521)
+          - [Zásah rafinérie v Permu](https://pixelfed.cz/p/dnesnaukrajine/1032254444863917098)
+          - [Drony…](https://pixelfed.cz/p/dnesnaukrajine/1032254505006259243)
+          - [Ruská logistika](https://pixelfed.cz/p/dnesnaukrajine/1032254549365484589)
+          - [Samara](https://pixelfed.cz/p/dnesnaukrajine/1032254900666997807)
       - title: "Pátek" 
         year: "27. listopadu 2026"
         sort: "2026-11-27"
@@ -42269,8 +42304,10 @@ timeline:
         year: "24. prosince 2023"
         sort: "2023-12-24"
         pictures:
-          - ["2023-12-24-1.jpg", ""]
-          - ["2023-12-24-2.jpg", ""]
+          - ["2023-12-24-1.jpg", "Cherson."]
+          - ["2023-12-24-2.jpg", "Ruský šrot uAvdijivky."]
+          - ["2023-12-24-3.jpg", "Aktualizované ruské ztráty."]
+          - ["2023-12-24-4.jpg", "Vánoce u vojáků."]
         image: assets/img/timeline/2023-12-24.jpg
         desc: |
           Neděle. Vánoční neděle. Buďme vděční, že je můžeme trávit s rodinou a přáteli v jedné z nejbezpečnějších zemí světa, a to i navzdory nedávným událostem v Praze. Dovolte mi proto popřát všem, ať se vám splní všechna přání. Zejména pokud je jedno z vašich přání svobodná Ukrajina. A pokud nemusíte číst dnešní přehled dnes, nechte si ho na zítra. [Ty zprávy](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid02SAsPDfNEgQUdd5aMUgVJQKSqEcDK2YwR1dJ2VBxyc5fp1AbvqjiZo92rv2oMKzs6l) nikam neutečou: 
@@ -42307,8 +42344,10 @@ timeline:
         year: "23. prosince 2023"
         sort: "2023-12-23"
         pictures:
-          - ["2023-12-23-1.jpg", ""]
-          - ["2023-12-23-2.jpg", ""]
+          - ["2023-12-23-1.jpg", "Kočky se vetřou všude."]
+          - ["2023-12-23-2.jpg", "Jeden ze sestřelených Suchojů."]
+          - ["2023-12-23-3.jpg", "Aktualizované ruské ztráty."]
+          - ["2023-12-23-4.jpg", "Doněck dnes."]
         image: assets/img/timeline/2023-12-23.jpg
         desc: |
           Analytici z ISW uvádí, že první stroje F-16 by mohly dorazit na Ukrajinu už během příštích sedmi dní. Rusko na vývoj reagovalo prohlášením, že pokud budou ukrajinské stíhačky startovat z letišť mimo Ukrajinu, a to včetně území NATO, začne Rusko ostřelovat i takové cíle. Pro kontext je potřeba připomenout, že ruské bombardéry, které vypouští na Ukrajinu rakety, v minulosti startovaly také z běloruských letišť anebo využívaly k odpalu raket běloruský vzdušný prostor. A co dělala Ukrajina? Dělala všechno pro to, aby se nenechala vyprovokovat a nevtáhla svou potenciální odvetou Bělorusko do války. Letadla z Běloruska se nakonec podařilo dostat pryč díky chytrým diverzním akcím po zemi. Z běloruského vzdušného prostoru ale dál létají rakety a drony. Rusko tedy nemá žádný nárok diktovat Ukrajině, co smí nebo nesmí dělat ve vztahu ke svým partnerům. A teď pár [dalších novinek](https://www.facebook.com/dnesnaukrajine.cz/posts/pfbid0TrcVRoUVKdxMTqLRH5XXUbFouQhb2WYxiLQYhiJDbRutwEMVPSyuzBUbuUpZWv95l):
